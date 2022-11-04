@@ -1,0 +1,5219 @@
+# text = og eg kunne først tenke meg å spørre om de e # til å begynne med # nå vil prate litt om kva de synest om filmar som de har sett på kino # den seinare tid .
+# segstart = 2.1
+# segstop = 14.259
+# file = fana_uib_03
+# speaker = int
+# id = 1
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	først	først	adv	adv	_	5	ADV	_	_
+5	tenke	tenke	verb	verb	inf	3	INFV	_	_
+6	meg	eg	pron	pron	pers|eint|1|akk|hum	5	IOBJ	_	_
+7	å	å	inf-merke	inf-merke	_	5	DOBJ	_	_
+8	spørre	spørje	verb	verb	inf	7	INFV	_	_
+9	om	om	sbu	sbu	_	19	SBU	_	_
+10	de	de	pron	pron	pers|fl|2|nom|hum	19	SUBJ	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	til	til	prep	prep	_	20	ADV	_	_
+14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	_
+15	begynne	begynne	verb	verb	inf	14	INFV	_	_
+16	med	med	prep	prep	_	15	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	nå	nå	adv	adv	_	20	ADV	_	_
+19	vil	vilje	verb	verb	pres	8	DOBJ	_	_
+20	prate	prate	verb	verb	inf	19	INFV	_	_
+21	litt	litt	adj	adj	eint|nøyt|ub|pos	20	ADV	_	_
+22	om	om	prep	prep	_	20	ADV	_	_
+23	kva	kva	pron	pron	sp|akk|ikke-hum	25	DOBJ	_	_
+24	de	de	pron	pron	pers|fl|2|nom|hum	25	SUBJ	_	_
+25	synest	synast	verb	verb	pres	22	PUTFYLL	_	_
+26	om	om	prep	prep	_	25	ADV	_	_
+27	filmar	film	subst	subst	appell|fl|mask|ub	26	PUTFYLL	_	_
+28	som	som	sbu	sbu	_	30	SBU	_	_
+29	de	de	pron	pron	pers|fl|2|nom|hum	30	SUBJ	_	_
+30	har	ha	verb	verb	pres	27	ATR	_	_
+31	sett	sjå	verb	verb	perf-part	30	INFV	_	_
+32	på	på	prep	prep	_	31	ADV	_	_
+33	kino	kino	subst	subst	appell|eint|mask|ub	32	PUTFYLL	_	_
+34	#	#	pause	pause	_	35	IK	_	_
+35	den	den	det	det	dem|eint|fem	37	DET	_	_
+36	seinare	sein	adj	adj	comp	37	ATR	_	_
+37	tid	tid	subst	subst	appell|eint|fem|ub	31	ADV	_	_
+38	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = har filmane vore gode eller har dei vore dårlege ?
+# segstart = 14.351
+# segstop = 17.084
+# file = fana_uib_03
+# speaker = int
+# id = 2
+1	har	ha	verb	verb	pres	0	FINV	_	_
+2	filmane	film	subst	subst	appell|fl|mask|bu	1	SUBJ	_	_
+3	vore	vere	verb	verb	perf-part	1	INFV	_	_
+4	gode	god	adj	adj	fl|pos	3	SPRED	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	har	ha	verb	verb	pres	1	KOORD	_	_
+7	dei	dei	pron	pron	pers|fl|3|akk|hum	6	SUBJ	_	_
+8	vore	vere	verb	verb	perf-part	6	INFV	_	_
+9	dårlege	dårleg	adj	adj	fl|pos	8	SPRED	_	_
+10	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = # # eg går ikkje så mykje på kino .
+# segstart = 17.678
+# segstop = 23.564
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 3
+1	#	#	pause	pause	_	4	IK	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	går	gå	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	mykje	mykje	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+8	på	på	prep	prep	_	4	ADV	_	_
+9	kino	kino	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det var ein god .
+# segstart = 18.576
+# segstop = 21.526
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 4
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	ein	ein	det	det	kvant|eint|mask	4	DET	_	_
+4	god	god	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei eg les heller ei bok eg .
+# segstart = 27.026
+# segstop = 28.88
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 5
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	les	lese	verb	verb	pres	0	FINV	_	_
+4	heller	heller	adv	adv	_	3	ADV	_	_
+5	ei	ein	det	det	kvant|eint|fem	6	DET	_	_
+6	bok	bok	subst	subst	appell|eint|fem|ub	3	DOBJ	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	2	APP	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei ikkje eg såg den derre # Grease eller kva han heiter .
+# segstart = 29.654
+# segstop = 32.95
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 6
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	såg	sjå	verb	verb	pret	0	FINV	_	_
+5	den	den	pron	pron	pers|eint|f/m|3|akk	8	DET	_	_
+6	derre	derre	adv	adv	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	Grease	Grease	subst	subst	prop	4	DOBJ	_	_
+9	eller	eller	konj	konj	_	10	KONJ	_	_
+10	kva	kva	pron	pron	sp|akk|ikke-hum	8	KOORD	_	_
+11	han	han	pron	pron	pers|eint|mask|3|nom	12	SUBJ	_	_
+12	heiter	heite	verb	verb	pres	10	ATR	_	_
+13	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = den var gøy # eg såg han berre to gongar sku- eg skal sjå han ein gong til .
+# segstart = 33.504
+# segstop = 37.544
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 7
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	SUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	gøy	gøy	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+6	såg	sjå	verb	verb	pret	2	KOORD	_	_
+7	han	han	pron	pron	pers|eint|mask|3|akk	6	DOBJ	_	_
+8	berre	berre	adv	adv	_	9	ADV	_	_
+9	to	to	det	det	kvant|fl	10	DET	_	_
+10	gongar	gong	subst	subst	appell|fl|mask|ub	6	ADV	_	_
+11	sku-	sku-	ufullst	ufullst	_	12	FYLL	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	13	SUBJ	_	_
+13	skal	skulle	verb	verb	pres	2	KOORD	_	_
+14	sjå	sjå	verb	verb	inf	13	INFV	_	_
+15	han	han	pron	pron	pers|eint|mask|3|akk	14	DOBJ	_	_
+16	ein	ein	det	det	kvant|eint|mask	17	DET	_	_
+17	gong	gong	subst	subst	appell|eint|mask|ub	14	ADV	_	_
+18	til	til	prep	prep	_	17	ATR	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei ## siste film eg såg det var Flåklypa .
+# segstart = 39.928
+# segstop = 45.318
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 8
+1	nei	nei	interj	interj	_	8	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	siste	sist	adj	adj	eint|bu|pos	4	ATR	_	_
+4	film	film	subst	subst	appell|eint|mask|ub	7	APP	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+6	såg	sjå	verb	verb	pret	4	ATR	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	SUBJ	_	_
+8	var	vere	verb	verb	pret	0	FINV	_	_
+9	Flåklypa	Flåklypa	subst	subst	prop	8	SPRED	_	_
+10	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = .
+# segstart = 44.668
+# segstop = 45.42
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 9
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja # eg går aldri på kino ## så mykje gale .
+# segstart = 45.548
+# segstop = 49.849
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 10
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	går	gå	verb	verb	pres	0	FINV	_	_
+5	aldri	aldri	adv	adv	_	4	ADV	_	_
+6	på	på	prep	prep	_	4	ADV	_	_
+7	kino	kino	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	mykje	mykje	adj	adj	eint|nøyt|ub|pos	11	ADV	_	_
+11	gale	gale	adj	adj	eint|nøyt|ub	4	ADV	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = du e bergen_uib_3302 nemnde du hadde sett Grease # kva du e synest om e # den da ?
+# segstart = 57.117
+# segstop = 62.659
+# file = fana_uib_03
+# speaker = int
+# id = 11
+1	du	du	pron	pron	pers|eint|2|nom|hum	3	DET	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	bergen_uib_3302	bergen_uib_3302	subst	subst	prop	5	APP	_	_
+4	nemnde	nemne	verb	verb	pret	0	FINV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+6	hadde	ha	verb	verb	pret	4	DOBJ	_	_
+7	sett	sjå	verb	verb	perf-part	6	INFV	_	_
+8	Grease	Grease	subst	subst	prop	7	DOBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	kva	kva	pron	pron	sp|akk|ikke-hum	13	DOBJ	_	_
+11	du	du	pron	pron	pers|eint|2|nom|hum	13	SUBJ	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	synest	synast	verb	verb	pres	4	KOORD	_	_
+14	om	om	prep	prep	_	13	ADV	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	den	den	pron	pron	pers|eint|f/m|3|akk	14	PUTFYLL	_	_
+18	da	da	adv	adv	_	13	ADV	_	_
+19	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = eg veit ikkje # han var kvart fall gøy .
+# segstart = 63.534
+# segstop = 66.677
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 12
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	veit	vite	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	han	han	pron	pron	pers|eint|mask|3|nom	6	SUBJ	_	_
+6	var	vere	verb	verb	pret	2	DOBJ	_	_
+7	kvart	kvar	det	det	kvant|eint|nøyt	8	DET	_	_
+8	fall	fall	subst	subst	appell|eint|nøyt|ub	9	ADV	_	_
+9	gøy	gøy	adj	adj	eint|m/f|ub|pos	6	SPRED	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = var ikkje så mykje innhald altså men han var jo gøy for det .
+# segstart = 67.457
+# segstop = 69.801
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 13
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	mykje	mykje	adj	adj	eint|nøyt|ub|pos	5	ATR	_	_
+5	innhald	innhald	subst	subst	appell|fl|nøyt|ub	1	PSUBJ	_	_
+6	altså	altså	adv	adv	_	1	ADV	_	_
+7	men	men	konj	konj	_	9	KONJ	_	_
+8	han	han	pron	pron	pers|eint|mask|3|nom	9	SUBJ	_	_
+9	var	vere	verb	verb	pret	1	KOORD	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	gøy	gøy	adj	adj	eint|m/f|ub|pos	9	SPRED	_	_
+12	for	for	prep	prep	_	9	ADV	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = slepp å tenke på innhaldet .
+# segstart = 72.573
+# segstop = 74.286
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 14
+1	slepp	sleppe	verb	verb	pres	0	FINV	_	_
+2	å	å	inf-merke	inf-merke	_	1	DOBJ	_	_
+3	tenke	tenke	verb	verb	inf	2	INFV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	innhaldet	innhald	subst	subst	appell|eint|nøyt|bu	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 74.391
+# segstop = 75.221
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 15
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja .
+# segstart = 87.098
+# segstop = 87.898
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 16
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = Flåklypa hadde du e # sett bergen_uib_3301 .
+# segstart = 91.232
+# segstop = 94.055
+# file = fana_uib_03
+# speaker = int
+# id = 17
+1	Flåklypa	Flåklypa	subst	subst	prop	6	DOBJ	_	_
+2	hadde	ha	verb	verb	pret	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	sett	sjå	verb	verb	perf-part	2	INFV	_	_
+7	bergen_uib_3301	bergen_uib_3301	subst	subst	prop	3	APP	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e ja # det er lenge sidan .
+# segstart = 94.121
+# segstop = 96.796
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 18
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	lenge	lenge	adv	adv	pos	5	ADV	_	_
+7	sidan	sidan	adv	adv	_	6	ADV	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = men du hugsar vel likevel litt om kva som føregjekk der ?
+# segstart = 98.88
+# segstop = 101.585
+# file = fana_uib_03
+# speaker = int
+# id = 19
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	hugsar	hugse	verb	verb	pres	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	likevel	likevel	adv	adv	_	3	ADV	_	_
+6	litt	litt	adj	adj	eint|nøyt|ub|pos	3	DOBJ	_	_
+7	om	om	prep	prep	_	3	ADV	_	_
+8	kva	kva	pron	pron	sp|akk|ikke-hum	7	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	føregjekk	føregå	verb	verb	pret	8	ATR	_	_
+11	der	der	prep	prep	_	10	ADV	_	_
+12	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = m a # var sånn forskjellig # # nei eg veit ikkje .
+# segstart = 102.095
+# segstop = 110.08
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 20
+1	m	m	interj	interj	_	4	INTERJ	_	_
+2	a	_	interj	interj	_	4	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	sånn	sånn	det	det	dem|eint|mask	6	DET	_	_
+6	forskjellig	forskjellig	adj	adj	eint|m/f|ub|pos	4	SPRED	_	_
+7	#	#	pause	pause	_	9	IK	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	nei	nei	interj	interj	_	11	INTERJ	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	11	SUBJ	_	_
+11	veit	vite	verb	verb	pres	4	KOORD	_	_
+12	ikkje	ikkje	adv	adv	_	11	ADV	_	_
+13	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det var det nokon som bilkøyring .
+# segstart = 121.082
+# segstop = 125.23
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 21
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+4	nokon	nokon	pron	pron	pers|eint|mask|3|nom	2	ADV	_	_
+5	som	som	prep	prep	_	4	ATR	_	_
+6	bilkøyring	bilkøyring	subst	subst	appell|eint|ub|fem|samset	2	SLETT	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men sjølv om de ikkje har sett så mange filmar så har de vel e # ein del ønske når det gjeld # filmar de helst vil sjå når de ein hende gong e går på kino .
+# segstart = 136.497
+# segstop = 147.98
+# file = fana_uib_03
+# speaker = int
+# id = 22
+1	men	men	konj	konj	_	6	KONJ	_	_
+2	sjølv	sjølv	adv	adv	_	3	ADV	_	_
+3	om	om	sbu	sbu	_	6	SBU	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	6	SUBJ	_	_
+5	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+6	har	ha	verb	verb	pres	11	APP	_	_
+7	sett	sjå	verb	verb	perf-part	6	INFV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	mange	mang ein	det	det	kvant|fl	10	DET	_	_
+10	filmar	film	subst	subst	appell|fl|mask|ub	7	DOBJ	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	har	ha	verb	verb	pres	0	FINV	_	_
+13	de	de	pron	pron	pers|fl|2|nom|hum	12	SUBJ	_	_
+14	vel	vel	adv	adv	_	12	ADV	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	ein	ein	det	det	kvant|eint|mask	18	DET	_	_
+18	del	del	subst	subst	appell|eint|mask|ub	19	DET	_	_
+19	ønske	ønske	subst	subst	appell|eint|nøyt|ub	12	DOBJ	_	_
+20	når	når	sbu	sbu	_	22	SBU	_	_
+21	det	det	pron	pron	pers|eint|nøyt|3	22	FSUBJ	_	_
+22	gjeld	gjelde	verb	verb	pres	12	ADV	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	filmar	film	subst	subst	appell|fl|mask|ub	22	DOBJ	_	_
+25	de	de	pron	pron	pers|fl|2|nom|hum	27	SUBJ	_	_
+26	helst	helst	adv	adv	_	28	ADV	_	_
+27	vil	vilje	verb	verb	pres	24	ATR	_	_
+28	sjå	sjå	verb	verb	inf	27	INFV	_	_
+29	når	når	sbu	sbu	_	35	SBU	_	_
+30	de	de	pron	pron	pers|fl|2|nom|hum	35	SUBJ	_	_
+31	ein	ein	det	det	kvant|eint|mask	33	DET	_	_
+32	hende	hende	adj	adj	eint|m/f|ub|pos	33	ATR	_	_
+33	gong	gong	subst	subst	appell|eint|mask|ub	35	ADV	_	_
+34	e	e	nol	nol	_	35	FYLL	_	_
+35	går	gå	verb	verb	pres	28	ADV	_	_
+36	på	på	prep	prep	_	35	ADV	_	_
+37	kino	kino	subst	subst	appell|eint|mask|ub	36	PUTFYLL	_	_
+38	.	$.	clb	clb	<punkt>	12	IP	_	_
+
+# text = kva slags filmar likar de helst å sjå ?
+# segstart = 148.01
+# segstop = 149.74
+# file = fana_uib_03
+# speaker = int
+# id = 23
+1	kva	kva	det	det	sp	2	DET	_	_
+2	slags	slags	subst	subst	appell|mask	3	DET	_	_
+3	filmar	film	subst	subst	appell|fl|mask|ub	8	DOBJ	_	_
+4	likar	like	verb	verb	pres	0	FINV	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	4	SUBJ	_	_
+6	helst	helst	adv	adv	_	4	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+8	sjå	sjå	verb	verb	inf	7	INFV	_	_
+9	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = krim eller er det sånn kjærleiksfilmar ?
+# segstart = 150.97
+# segstop = 153.791
+# file = fana_uib_03
+# speaker = int
+# id = 24
+1	krim	krim	subst	subst	appell|eint|mask|ub	3	ADV	_	_
+2	eller	eller	konj	konj	_	3	KONJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	sånn	sånn	det	det	dem|eint|mask	6	DET	_	_
+6	kjærleiksfilmar	kjærleiksfilm	subst	subst	appell|ub|fl|mask|samset	3	SPRED	_	_
+7	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = gøye filmar er noko vi har sett .
+# segstart = 155.399
+# segstop = 158.08
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 25
+1	gøye	gøy	adj	adj	fl|pos	2	ATR	_	_
+2	filmar	film	subst	subst	appell|fl|mask|ub	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	noko	noko	pron	pron	pers|eint|nøyt|3|akk	3	SPRED	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	har	ha	verb	verb	pres	4	ATR	_	_
+7	sett	sjå	verb	verb	perf-part	6	INFV	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = .
+# segstart = 156.684
+# segstop = 158.854
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 26
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = det var jo lurt # gøye filmar # pleier å vere gøye dei .
+# segstart = 159.093
+# segstop = 163.983
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 27
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	lurt	lur	adj	adj	eint|nøyt|ub|pos	6	REP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	gøye	gøy	adj	adj	fl|pos	7	ATR	_	_
+7	filmar	film	subst	subst	appell|fl|mask|ub	2	PSUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	pleier	pleie	verb	verb	pres	2	KOORD	_	_
+10	å	å	inf-merke	inf-merke	_	9	DOBJ	_	_
+11	vere	vere	verb	verb	inf	10	INFV	_	_
+12	gøye	gøy	adj	adj	fl|pos	11	SPRED	_	_
+13	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+14	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 163.998
+# segstop = 165.405
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 28
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei eg veit ikkje .
+# segstart = 167.651
+# segstop = 169.276
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 29
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = er det eit par mord så gjer ikkje det noko ## .
+# segstart = 171.567
+# segstop = 176.57
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 30
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	eit	ein	det	det	kvant|eint|nøyt	4	DET	_	_
+4	par	par	subst	subst	appell|eint|nøyt|ub	5	DET	_	_
+5	mord	mord	subst	subst	appell|fl|nøyt|ub	1	SPRED	_	_
+6	så	så	konj	konj	_	7	KONJ	_	_
+7	gjer	gjere	verb	verb	pres	1	KOORD	_	_
+8	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+10	noko	noko	pron	pron	pers|eint|nøyt|3|akk	7	DOBJ	_	_
+11	##	##	pause	pause	_	1	IK	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men det er vel så at de # har litt tid til å drive med # ein del hobbyar og .
+# segstart = 197.54
+# segstop = 205.147
+# file = fana_uib_03
+# speaker = int
+# id = 31
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	at	at	sbu	sbu	_	9	SBU	_	_
+7	de	de	pron	pron	pers|fl|2|nom|hum	9	SUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	har	ha	verb	verb	pres	3	SPRED	_	_
+10	litt	litt	adj	adj	eint|m/f|ub|pos	11	ATR	_	_
+11	tid	tid	subst	subst	appell|eint|fem|ub	9	DOBJ	_	_
+12	til	til	prep	prep	_	11	ATR	_	_
+13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
+14	drive	drive	verb	verb	inf	13	INFV	_	_
+15	med	med	prep	prep	_	14	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	ein	ein	det	det	kvant|eint|mask	18	DET	_	_
+18	del	del	subst	subst	appell|eint|mask|ub	19	DET	_	_
+19	hobbyar	hobby	subst	subst	appell|fl|mask|ub	15	PUTFYLL	_	_
+20	og	og	adv	adv	_	3	ADV	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e ja .
+# segstart = 206.033
+# segstop = 206.563
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 32
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e ja .
+# segstart = 206.604
+# segstop = 207.814
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 33
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = når de er ferdige med leksene om dagane kva driv de med om e # på fritida dykkar ?
+# segstart = 207.214
+# segstop = 211.716
+# file = fana_uib_03
+# speaker = int
+# id = 34
+1	når	når	adv	adv	_	3	ADV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	10	ADV	_	_
+4	ferdige	ferdig	adj	adj	fl|pos	3	SPRED	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	leksene	lekse	subst	subst	appell|fl|fem|bu	5	PUTFYLL	_	_
+7	om	om	prep	prep	_	3	ADV	_	_
+8	dagane	dag	subst	subst	appell|fl|mask|bu	7	PUTFYLL	_	_
+9	kva	kva	pron	pron	sp|akk|ikke-hum	10	DOBJ	_	_
+10	driv	drive	verb	verb	pres	0	FINV	_	_
+11	de	de	pron	pron	pers|fl|2|nom|hum	10	SUBJ	_	_
+12	med	med	prep	prep	_	10	ADV	_	_
+13	om	om	prep	prep	_	10	ADV	_	_
+14	e	e	nol	nol	_	16	FYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	på	på	prep	prep	_	10	ADV	_	_
+17	fritida	fritid	subst	subst	appell|eint|fem|bu	16	PUTFYLL	_	_
+18	dykkar	dykk	subst	subst	appell|fl|mask|ub	17	DET	_	_
+19	?	$?	clb	clb	<spm>	10	IP	_	_
+
+# text = nei er sånn forskjell- … .
+# segstart = 212.332
+# segstop = 214.033
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 35
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	sånn	sånn	det	det	dem|eint|fem	2	SPRED	_	_
+4	forskjell-	forskjell-	ufullst	ufullst	_	2	FYLL	_	_
+5	…	…	ellipsis	ellipsis	_	2	IK	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = eg går på friidretten # og lauper .
+# segstart = 212.946
+# segstop = 215.284
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 36
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	går	gå	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	friidretten	friidrett	subst	subst	appell|eint|mask|bu	3	PUTFYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	lauper	laupe	verb	verb	pres	2	KOORD	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = lauper .
+# segstart = 215.614
+# segstop = 217.004
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 37
+1	lauper	laupe	verb	verb	pres	0	FINV	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = turnar og alt mogleg .
+# segstart = 217.344
+# segstop = 218.92
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 38
+1	turnar	turne	verb	verb	pres	0	FINV	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	alt	all	det	det	kvant|eint|nøyt	4	DET	_	_
+4	mogleg	mogleg	adj	adj	eint|nøyt|ub|pos	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = uff kor kjedeleg .
+# segstart = 219.552
+# segstop = 220.798
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 39
+1	uff	uff	interj	interj	_	0	INTERJ	_	_
+2	kor	kor	adv	adv	_	3	ADV	_	_
+3	kjedeleg	kjedeleg	adj	adj	eint|nøyt|ub|pos	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og svømmer og eg veit ikkje alt .
+# segstart = 220.998
+# segstop = 223.626
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 40
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	svømmer	svømme	verb	verb	pres	0	FINV	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	veit	vite	verb	verb	pres	2	KOORD	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	alt	all	det	det	kvant|eint|nøyt	5	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = du fiskar vel ?
+# segstart = 229.585
+# segstop = 231.3
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 41
+1	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+2	fiskar	fiske	verb	verb	pres	0	FINV	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = # nei er berre e krabbeteiner # utan mat i .
+# segstart = 230.553
+# segstop = 234.559
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 42
+1	#	#	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	3	INTERJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	berre	berre	adv	adv	_	3	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	krabbeteiner	krabbeteine	subst	subst	appell|fl|fem|ub	3	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	utan	utan	prep	prep	_	6	ATR	_	_
+9	mat	mat	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+10	i	i	prep	prep	_	9	ATR	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og utan krabbe .
+# segstart = 235.792
+# segstop = 237.227
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 43
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	utan	utan	prep	prep	_	0	FRAG	_	_
+3	krabbe	krabbe	subst	subst	appell|eint|fem|ub	2	PUTFYLL	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = eg tok dei inn på laurdag .
+# segstart = 239.15
+# segstop = 240.838
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 44
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	tok	ta	verb	verb	pret	0	FINV	_	_
+3	dei	dei	pron	pron	pers|fl|3|akk|hum	2	DOBJ	_	_
+4	inn	inn	prep	prep	_	2	ADV	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	laurdag	laurdag	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = så må- hogger eg litt ved # av og til .
+# segstart = 246.917
+# segstop = 249.761
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 45
+1	så	så	adv	adv	_	3	ADV	_	_
+2	må-	må-	ufullst	ufullst	_	3	FYLL	_	_
+3	hogger	hogge	verb	verb	pres	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+5	litt	litt	adj	adj	eint|m/f|ub|pos	3	ADV	_	_
+6	ved	ved	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	av	av	prep	prep	_	3	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	til	til	prep	prep	_	8	ADV	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = er det noko meir nå ?
+# segstart = 258.282
+# segstop = 259.569
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 46
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	noko	noko	pron	pron	pers|eint|nøyt|3|akk	1	SPRED	_	_
+4	meir	mykje	adj	adj	comp	3	ATR	_	_
+5	nå	nå	adv	adv	_	1	ADV	_	_
+6	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja i e nå i det siste har eg nå bore juletre .
+# segstart = 264.799
+# segstop = 267.474
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 47
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	i	i	prep	prep	_	5	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	nå	nå	adv	adv	_	8	ADV	_	_
+5	i	i	prep	prep	_	11	ADV	_	_
+6	det	det	det	det	dem|eint|nøyt	7	DET	_	_
+7	siste	sist	adj	adj	eint|bu|pos	5	PUTFYLL	_	_
+8	har	ha	verb	verb	pres	0	FINV	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+10	nå	nå	adv	adv	_	11	ADV	_	_
+11	bore	bere	verb	verb	perf-part	8	INFV	_	_
+12	juletre	juletre	subst	subst	appell|fl|nøyt|ub	11	DOBJ	_	_
+13	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = sånn at ## armane følast ein meter lengre .
+# segstart = 269.355
+# segstop = 274.11
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 48
+1	sånn	sånn	adv	adv	_	2	ADV	_	_
+2	at	at	sbu	sbu	_	5	SBU	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	armane	arm	subst	subst	appell|fl|mask|bu	5	SUBJ	_	_
+5	følast	føle	verb	verb	inf|pass	0	FINV	_	_
+6	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+7	meter	meter	subst	subst	appell|eint|mask|ub	5	SPRED	_	_
+8	lengre	lenge	adj	adj	comp	7	ATR	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = snakka om at du e dreiv og fiska litt e # kan du fortelje litt om e # korleis det føregår da bergen_uib_3301 ?
+# segstart = 287.488
+# segstop = 294.592
+# file = fana_uib_03
+# speaker = int
+# id = 49
+1	snakka	snakke	verb	verb	pret	0	FINV	_	_
+2	om	om	prep	prep	_	1	ADV	_	_
+3	at	at	sbu	sbu	_	6	SBU	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	dreiv	drive	verb	verb	pret	2	PUTFYLL	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	fiska	fiske	verb	verb	pret	6	KOORD	_	_
+9	litt	litt	adj	adj	eint|nøyt|ub|pos	8	ADV	_	_
+10	e	e	nol	nol	_	12	FYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	kan	kunne	verb	verb	pres	1	KOORD	_	_
+13	du	du	pron	pron	pers|eint|2|nom|hum	12	SUBJ	_	_
+14	fortelje	fortelje	verb	verb	inf	12	INFV	_	_
+15	litt	litt	adj	adj	eint|nøyt|ub|pos	14	ADV	_	_
+16	om	om	prep	prep	_	14	ADV	_	_
+17	e	e	nol	nol	_	19	FYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	korleis	korleis	adv	adv	_	21	ADV	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	21	FSUBJ	_	_
+21	føregår	føregå	verb	verb	pres	16	PUTFYLL	_	_
+22	da	da	adv	adv	_	14	ADV	_	_
+23	bergen_uib_3301	bergen_uib_3301	subst	subst	prop	13	APP	_	_
+24	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei e # fi- kva du meiner med fiske # kan gjere på mange måtar det .
+# segstart = 295.384
+# segstop = 302.304
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 50
+1	nei	nei	interj	interj	_	7	INTERJ	_	_
+2	e	e	nol	nol	_	5	FYLL	_	_
+3	#	#	pause	pause	_	5	IK	_	_
+4	fi-	fi-	ufullst	ufullst	_	5	FYLL	_	_
+5	kva	kva	pron	pron	sp|akk|ikke-hum	7	DOBJ	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+7	meiner	meine	verb	verb	pres	0	FINV	_	_
+8	med	med	prep	prep	_	7	ADV	_	_
+9	fiske	fiske	subst	subst	appell|fl|nøyt|ub	8	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	kan	kunne	verb	verb	pres	7	KOORD	_	_
+12	gjere	gjere	verb	verb	inf	11	INFV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	mange	mang ein	det	det	kvant|fl	15	DET	_	_
+15	måtar	måte	subst	subst	appell|fl|mask|ub	13	PUTFYLL	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	12	DOBJ	_	_
+17	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = kan bruke garn line eller teiner eller e # snøre # ja # nær sagt alt eigentleg .
+# segstart = 305.172
+# segstop = 312.857
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 51
+1	kan	kunne	verb	verb	pres	0	FINV	_	_
+2	bruke	bruke	verb	verb	inf	1	INFV	_	_
+3	garn	garn	subst	subst	appell|eint|nøyt|ub	2	DOBJ	_	_
+4	line	line	subst	subst	appell|eint|fem|ub	3	KOORD	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	teiner	teine	subst	subst	appell|fl|fem|ub	4	KOORD	_	_
+7	eller	eller	konj	konj	_	10	KONJ	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	snøre	snøre	subst	subst	appell|eint|nøyt|ub	3	KOORD	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	ja	ja	interj	interj	_	16	INTERJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	nær	nær	adj	adj	eint|m/f|ub|pos	15	ADV	_	_
+15	sagt	seie	verb	verb	perf-part	16	ADV	_	_
+16	alt	all	det	det	kvant|eint|nøyt	3	KOORD	_	_
+17	eigentleg	eigentleg	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+18	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kor hen er det du e # driv med det da ?
+# segstart = 327.51
+# segstop = 329.7
+# file = fana_uib_03
+# speaker = int
+# id = 52
+1	kor	kor	adv	adv	_	3	ADV	_	_
+2	hen	hen	prep	prep	_	1	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	8	SUBJ	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	driv	drive	verb	verb	pres	3	ADV	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	3	ADV	_	_
+12	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = nei det er heime .
+# segstart = 330.89
+# segstop = 332.154
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 53
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	heime	heime	subst	subst	appell|nøyt	3	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = du bergen_uib_3302 snakka om at du dreiv med # ein del # idrettsaktivitetar kan du fortelje litt e meir om kva som føregår der da ?
+# segstart = 344.832
+# segstop = 352.819
+# file = fana_uib_03
+# speaker = int
+# id = 54
+1	du	du	pron	pron	pers|eint|2|nom|hum	2	DET	_	_
+2	bergen_uib_3302	bergen_uib_3302	subst	subst	prop	3	SUBJ	_	_
+3	snakka	snakke	verb	verb	pret	0	FINV	_	_
+4	om	om	prep	prep	_	3	ADV	_	_
+5	at	at	sbu	sbu	_	7	SBU	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+7	dreiv	drive	verb	verb	pret	4	PUTFYLL	_	_
+8	med	med	prep	prep	_	7	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ein	ein	det	det	kvant|eint|mask	11	DET	_	_
+11	del	del	subst	subst	appell|eint|mask|ub	13	DET	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	idrettsaktivitetar	idrettsaktivitet	subst	subst	appell|ub|fl|mask|samset	8	PUTFYLL	_	_
+14	kan	kunne	verb	verb	pres	3	KOORD	_	_
+15	du	du	pron	pron	pers|eint|2|nom|hum	14	SUBJ	_	_
+16	fortelje	fortelje	verb	verb	inf	14	INFV	_	_
+17	litt	litt	adj	adj	eint|nøyt|ub|pos	19	ADV	_	_
+18	e	e	nol	nol	_	19	FYLL	_	_
+19	meir	mykje	adj	adj	comp	16	ADV	_	_
+20	om	om	prep	prep	_	16	ADV	_	_
+21	kva	kva	pron	pron	sp	20	PUTFYLL	_	_
+22	som	som	sbu	sbu	_	23	SBU	_	_
+23	føregår	føregå	verb	verb	pres	21	ATR	_	_
+24	der	der	prep	prep	_	23	ADV	_	_
+25	da	da	adv	adv	_	23	ADV	_	_
+26	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja e # vi trener nedi gymsalen der # og så i fjo- eller # i sommar da var vi nedpå Fana stadion .
+# segstart = 353.672
+# segstop = 360.992
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 55
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+5	trener	trene	verb	verb	pres	0	FINV	_	_
+6	nedi	nedi	prep	prep	_	5	ADV	_	_
+7	gymsalen	gymsal	subst	subst	appell|eint|bu|mask|samset	6	PUTFYLL	_	_
+8	der	der	prep	prep	_	7	ATR	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	14	REP	_	_
+11	så	så	adv	adv	_	19	ADV	_	_
+12	i	i	prep	prep	_	16	REP	_	_
+13	fjo-	fjo-	ufullst	ufullst	_	14	FYLL	_	_
+14	eller	eller	konj	konj	_	19	KONJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	i	i	prep	prep	_	18	APP	_	_
+17	sommar	sommar	subst	subst	appell|eint|mask|ub	16	PUTFYLL	_	_
+18	da	da	adv	adv	_	19	ADV	_	_
+19	var	vere	verb	verb	pret	5	KOORD	_	_
+20	vi	vi	pron	pron	pers|fl|1|nom|hum	19	SUBJ	_	_
+21	nedpå	nedpå	prep	prep	_	19	SPRED	_	_
+22	Fana	Fana	subst	subst	prop	21	PUTFYLL	_	_
+23	stadion	stadion	subst	subst	appell|eint|nøyt|ub	22	FLAT	_	_
+24	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = for nå er det jo blitt så kaldt .
+# segstart = 361.224
+# segstop = 362.716
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 56
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	nå	nå	adv	adv	_	6	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	6	ADV	_	_
+6	blitt	bli	verb	verb	perf-part	3	INFV	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	kaldt	kald	adj	adj	eint|nøyt|ub|pos	6	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og så # nå for meste har vi styrketrening .
+# segstart = 363.25
+# segstop = 365.987
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 57
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	så	så	adv	adv	_	7	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	nå	nå	adv	adv	_	7	ADV	_	_
+5	for	for	prep	prep	_	7	ADV	_	_
+6	meste	mykje	adj	adj	bu|sup	5	PUTFYLL	_	_
+7	har	ha	verb	verb	pres	0	FINV	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+9	styrketrening	styrketrening	subst	subst	appell|eint|fem|ub	7	DOBJ	_	_
+10	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = og så til sommaren igjen da er vi ute og hoppar hekk og # kulekast og lauper sekstimeter og sånn .
+# segstart = 366.505
+# segstop = 373.462
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 58
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	til	til	prep	prep	_	5	ADV	_	_
+4	sommaren	sommar	subst	subst	appell|eint|mask|bu	3	PUTFYLL	_	_
+5	igjen	igjen	adv	adv	_	6	APP	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+9	ute	ute	prep	prep	_	7	SPRED	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	hoppar	hoppar	verb	verb	appell|eint|mask|ub	7	KOORD	_	_
+12	hekk	hekk	subst	subst	appell|eint|mask|ub	11	DOBJ	_	_
+13	og	og	konj	konj	_	15	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	kulekast	kulekast	subst	subst	appell|eint|ub|nøyt|samset	7	KOORD	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	lauper	laupe	verb	verb	pres	7	KOORD	_	_
+18	sekstimeter	sekstimeter	subst	subst	appell|eint|ub|nøyt|samset	17	DOBJ	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	sånn	sånn	adv	adv	_	7	ADV	_	_
+21	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = .
+# segstart = 373.686
+# segstop = 374.446
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 59
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja ja # ikkje alle som har den gleda .
+# segstart = 379.325
+# segstop = 382.704
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 60
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+5	alle	alle	pron	pron	pers|fl|3|nom	1	ADV	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	har	ha	verb	verb	pres	5	ATR	_	_
+8	den	den	det	det	dem|eint|fem	9	DET	_	_
+9	gleda	glede	subst	subst	appell|eint|fem|bu	7	DOBJ	_	_
+10	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei .
+# segstart = 382.834
+# segstop = 383.374
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 61
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = får vi vere med på stemne og det er nå gøy .
+# segstart = 396.592
+# segstop = 398.661
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 62
+1	får	få	verb	verb	pres	0	FINV	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	1	SUBJ	_	_
+3	vere	vere	verb	verb	inf	1	INFV	_	_
+4	med	med	prep	prep	_	3	ADV	_	_
+5	på	på	prep	prep	_	4	PUTFYLL	_	_
+6	stemne	stemne	subst	subst	appell|fl|nøyt|ub	5	PUTFYLL	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	SUBJ	_	_
+9	er	vere	verb	verb	pres	1	KOORD	_	_
+10	nå	nå	adv	adv	_	9	ADV	_	_
+11	gøy	gøy	subst	subst	appell|fl|nøyt|ub	9	SPRED	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja kva føregår der ?
+# segstart = 400.95
+# segstop = 402.074
+# file = fana_uib_03
+# speaker = int
+# id = 63
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kva	kva	pron	pron	sp	3	SUBJ	_	_
+3	føregår	føregå	verb	verb	pres	0	FINV	_	_
+4	der	der	prep	prep	_	3	ADV	_	_
+5	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = nei # veit ikkje eg # eg pleier nå å laupe men det er jo mange som # e kastar kule og hoppar lengde òg .
+# segstart = 403.594
+# segstop = 411.649
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 64
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+8	pleier	pleie	verb	verb	pres	3	KOORD	_	_
+9	nå	nå	adv	adv	_	8	ADV	_	_
+10	å	å	inf-merke	inf-merke	_	8	DOBJ	_	_
+11	laupe	laupe	verb	verb	inf	10	INFV	_	_
+12	men	men	konj	konj	_	14	KONJ	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+14	er	vere	verb	verb	pres	3	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	mange	mang ein	subst	subst	kvant|fl	14	SPRED	_	_
+17	som	som	sbu	sbu	_	20	SBU	_	_
+18	#	#	pause	pause	_	20	IK	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	kastar	kaste	verb	verb	pres	16	ADV	_	_
+21	kule	kule	subst	subst	appell|eint|fem|ub	20	DOBJ	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	hoppar	hoppe	verb	verb	pres	20	KOORD	_	_
+24	lengde	lengde	subst	subst	appell|eint|fem|ub	23	DOBJ	_	_
+25	òg	òg	adv	adv	_	14	ADV	_	_
+26	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = enkelte hoppar lengre enn andre ?
+# segstart = 413.699
+# segstop = 415.452
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 65
+1	enkelte	enkelt	adj	adj	fl|pos	2	SUBJ	_	_
+2	hoppar	hoppe	verb	verb	pres	0	FINV	_	_
+3	lengre	lang	adj	adj	comp	2	ADV	_	_
+4	enn	enn	prep	prep	_	3	ADV	_	_
+5	andre	annan	det	det	dem|fl	4	PUTFYLL	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = e ja .
+# segstart = 415.559
+# segstop = 416.119
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 66
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er de med i noko slags musikkorps eller nokon sånne ting ?
+# segstart = 440.358
+# segstop = 443.871
+# file = fana_uib_03
+# speaker = int
+# id = 67
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	1	SUBJ	_	_
+3	med	med	prep	prep	_	1	SPRED	_	_
+4	i	i	prep	prep	_	3	PUTFYLL	_	_
+5	noko	nokon	det	det	kvant|eint|nøyt	6	DET	_	_
+6	slags	slags	subst	subst	appell|nøyt	7	DET	_	_
+7	musikkorps	musikkorps	subst	subst	appell|eint|nøyt|ub	4	PUTFYLL	_	_
+8	eller	eller	konj	konj	_	11	KONJ	_	_
+9	nokon	nokon	det	det	kvant|fl	11	DET	_	_
+10	sånne	sånn	det	det	dem|fl	11	DET	_	_
+11	ting	ting	subst	subst	appell|fl|mask|ub	7	KOORD	_	_
+12	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = uff # nei eg kan ikkje synge ein gong .
+# segstart = 442.971
+# segstop = 446.088
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 68
+1	uff	uff	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	nei	nei	interj	interj	_	5	INTERJ	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	kan	kunne	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+7	synge	synge	verb	verb	inf	5	INFV	_	_
+8	ein	ein	det	det	kvant|eint|mask	9	DET	_	_
+9	gong	gong	subst	subst	appell|eint|mask|ub	7	ADV	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = nei .
+# segstart = 443.698
+# segstop = 444.479
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 69
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = eg gjekk i koret men der slutta eg for det var så kjedeleg # .
+# segstart = 448.14
+# segstop = 452.499
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 70
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	gjekk	gå	verb	verb	pret	0	FINV	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	koret	kor	subst	subst	appell|eint|nøyt|bu	3	PUTFYLL	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	der	der	prep	prep	_	7	ADV	_	_
+7	slutta	slutte	verb	verb	pret	2	KOORD	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+9	for	for	konj	konj	_	11	KONJ	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+11	var	vere	verb	verb	pret	2	KOORD	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	kjedeleg	kjedeleg	adj	adj	eint|nøyt|ub|pos	11	SPRED	_	_
+14	#	#	pause	pause	_	2	IK	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = siste eg kunne tenkt meg å begynt i .
+# segstart = 453.516
+# segstop = 455.621
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 71
+1	siste	sist	adj	adj	eint|bu|pos	4	ADV	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	tenkt	tenke	verb	verb	perf-part	3	INFV	_	_
+5	meg	eg	pron	pron	pers|eint|1|akk|hum	4	IOBJ	_	_
+6	å	å	prep	prep	_	4	DOBJ	_	_
+7	begynt	begynne	verb	verb	perf-part	6	INFV	_	_
+8	i	i	prep	prep	_	7	ADV	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = same opera eller sånn .
+# segstart = 456.122
+# segstop = 458.009
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 72
+1	same	same	det	det	dem|bu	2	DET	_	_
+2	opera	opera	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+3	eller	eller	konj	konj	_	4	KONJ	_	_
+4	sånn	sånn	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men e ## det føregår vel eit eller anna på # eit eller anna på skolen òg i # fritida gjer ikkje det det ?
+# segstart = 473.652
+# segstop = 482.185
+# file = fana_uib_03
+# speaker = int
+# id = 73
+1	men	men	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	føregår	føregå	verb	verb	pres	0	FINV	_	_
+6	vel	vel	adv	adv	_	5	ADV	_	_
+7	eit	ein	det	det	kvant|eint|nøyt	12	REP	_	_
+8	eller	eller	konj	konj	_	9	KONJ	_	_
+9	anna	annan	det	det	dem|eint|nøyt|ub|pos	7	KOORD	_	_
+10	på	på	prep	prep	_	15	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	eit	ein	det	det	kvant|eint|nøyt	5	SPRED	_	_
+13	eller	eller	konj	konj	_	14	KONJ	_	_
+14	anna	annan	det	det	dem|eint|nøyt|ub|pos	12	KOORD	_	_
+15	på	på	prep	prep	_	5	ADV	_	_
+16	skolen	skole	subst	subst	appell|eint|mask|bu	15	PUTFYLL	_	_
+17	òg	òg	adv	adv	_	5	ADV	_	_
+18	i	i	prep	prep	_	21	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	fritida	fritid	subst	subst	appell|eint|fem|bu	18	PUTFYLL	_	_
+21	gjer	gjere	verb	verb	pres	5	KOORD	_	_
+22	ikkje	ikkje	adv	adv	_	21	ADV	_	_
+23	det	det	pron	pron	pers|eint|nøyt|3	21	FSUBJ	_	_
+24	det	det	pron	pron	pers|eint|nøyt|3	21	DOBJ	_	_
+25	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = jo om fredagen da er det sånn ungdomsklubb .
+# segstart = 482.582
+# segstop = 484.618
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 74
+1	jo	jo	interj	interj	_	5	INTERJ	_	_
+2	om	om	prep	prep	_	4	APP	_	_
+3	fredagen	fredag	subst	subst	appell|eint|mask|bu	2	PUTFYLL	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+7	sånn	sånn	det	det	dem|eint|mask	8	DET	_	_
+8	ungdomsklubb	ungdomsklubb	subst	subst	appell|eint|mask|ub	5	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = før hadde vi diskotek òg men da # det fekk ikkje vi lov til lenger ## ikkje kvifor .
+# segstart = 485.073
+# segstop = 490.51
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 75
+1	før	før	adv	adv	_	2	ADV	_	_
+2	hadde	ha	verb	verb	pret	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	diskotek	diskotek	subst	subst	appell|eint|nøyt|ub	2	DOBJ	_	_
+5	òg	òg	adv	adv	_	2	ADV	_	_
+6	men	men	konj	konj	_	10	KONJ	_	_
+7	da	da	adv	adv	_	10	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	14	PUTFYLL	_	_
+10	fekk	få	verb	verb	pret	2	KOORD	_	_
+11	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+12	vi	vi	pron	pron	pers|fl|1|nom|hum	10	SUBJ	_	_
+13	lov	lov	subst	subst	appell|eint|mask|ub	10	DOBJ	_	_
+14	til	til	prep	prep	_	13	ADV	_	_
+15	lenger	lenger	adv	adv	_	10	ADV	_	_
+16	##	##	pause	pause	_	17	IK	_	_
+17	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+18	kvifor	kvifor	adv	adv	_	10	ADV	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = så oppe i kapellet der er det sånn ungdomsklubb om onsdagen # med forskjellige spill og sånn .
+# segstart = 492.249
+# segstop = 497.342
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 76
+1	så	så	adv	adv	_	6	ADV	_	_
+2	oppe	oppe	prep	prep	_	5	APP	_	_
+3	i	i	prep	prep	_	2	PUTFYLL	_	_
+4	kapellet	kapell	subst	subst	appell|eint|nøyt|bu	3	PUTFYLL	_	_
+5	der	der	prep	prep	_	6	ADV	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	sånn	sånn	det	det	dem|eint|mask	9	DET	_	_
+9	ungdomsklubb	ungdomsklubb	subst	subst	appell|eint|mask|ub	6	PSUBJ	_	_
+10	om	om	prep	prep	_	6	ADV	_	_
+11	onsdagen	onsdag	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	med	med	prep	prep	_	9	ATR	_	_
+14	forskjellige	forskjellig	adj	adj	fl|pos	15	ATR	_	_
+15	spill	spill	subst	subst	appell|fl|nøyt|ub	13	PUTFYLL	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	sånn	sånn	adv	adv	_	6	ADV	_	_
+18	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = når de har sånn ungdomsklubb her da kva e kva føregår ?
+# segstart = 510.513
+# segstop = 514.07
+# file = fana_uib_03
+# speaker = int
+# id = 77
+1	når	når	adv	adv	_	3	ADV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	11	ADV	_	_
+4	sånn	sånn	det	det	dem|eint|mask	5	DET	_	_
+5	ungdomsklubb	ungdomsklubb	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+6	her	her	prep	prep	_	3	ADV	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	kva	kva	pron	pron	sp	10	REP	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	kva	kva	pron	pron	sp	11	SUBJ	_	_
+11	føregår	føregå	verb	verb	pres	0	FINV	_	_
+12	?	$?	clb	clb	<spm>	11	IP	_	_
+
+# text = spelar bordtennis .
+# segstart = 515.84
+# segstop = 517.17
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 78
+1	spelar	spele	verb	verb	pres	0	FINV	_	_
+2	bordtennis	bordtennis	subst	subst	appell|eint|mask|ub	1	DOBJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei s- bordtennis .
+# segstart = 515.85
+# segstop = 518.073
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 79
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	s-	s-	ufullst	ufullst	_	3	FYLL	_	_
+3	bordtennis	bordtennis	subst	subst	appell|eint|mask|ub	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja det er for det meste det .
+# segstart = 520.347
+# segstop = 522.174
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 80
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	for	for	prep	prep	_	3	ADV	_	_
+5	det	det	det	det	dem|eint|nøyt	6	DET	_	_
+6	meste	mykje	adj	adj	bu|sup	4	PUTFYLL	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = så litt slåsting .
+# segstart = 524.48
+# segstop = 525.832
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 81
+1	så	så	adv	adv	_	2	ADV	_	_
+2	litt	litt	adj	adj	eint|m/f|ub|pos	3	ATR	_	_
+3	slåsting	slåsting	subst	subst	appell|eint|fem|ub	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e ja så er det teatergruppe # og gitargruppe eller kva det heiter .
+# segstart = 525.8
+# segstop = 530.399
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 82
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	teatergruppe	teatergruppe	subst	subst	appell|eint|ub|fem|samset	4	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	gitargruppe	gitargruppe	subst	subst	appell|eint|ub|fem|samset	6	KOORD	_	_
+10	eller	eller	konj	konj	_	13	KONJ	_	_
+11	kva	kva	pron	pron	sp	13	SPRED	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	13	SUBJ	_	_
+13	heiter	heite	verb	verb	pres	4	KOORD	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja kvar si glede .
+# segstart = 542.106
+# segstop = 543.444
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 83
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	kvar	kvar	det	det	kvant|eint|fem	4	DET	_	_
+3	si	sin	det	det	poss|eint|fem	4	DET	_	_
+4	glede	glede	subst	subst	appell|eint|fem|ub	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = de snakka om at det tidlegare var diskotek # e kva var det som føregjekk # da ?
+# segstart = 556.025
+# segstop = 562.211
+# file = fana_uib_03
+# speaker = int
+# id = 84
+1	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+2	snakka	snakke	verb	verb	pret	0	FINV	_	_
+3	om	om	prep	prep	_	2	ADV	_	_
+4	at	at	sbu	sbu	_	7	SBU	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+6	tidlegare	tidleg	adj	adj	comp	7	ADV	_	_
+7	var	vere	verb	verb	pret	3	PUTFYLL	_	_
+8	diskotek	diskotek	subst	subst	appell|eint|nøyt|ub	7	PSUBJ	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	kva	kva	pron	pron	sp	12	SPRED	_	_
+12	var	vere	verb	verb	pret	2	KOORD	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+14	som	som	sbu	sbu	_	15	SBU	_	_
+15	føregjekk	føregå	verb	verb	pret	13	ATR	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	da	da	adv	adv	_	12	ADV	_	_
+18	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = # ja sei det .
+# segstart = 562.266
+# segstop = 565.427
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 85
+1	#	#	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	3	INTERJ	_	_
+3	sei	seie	verb	verb	imp	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei vi dansa .
+# segstart = 566.204
+# segstop = 568.329
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 86
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	dansa	danse	verb	verb	pret	0	FINV	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = dansa .
+# segstart = 567.159
+# segstop = 569.203
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 87
+1	dansa	danse	verb	verb	pret	0	FINV	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja var det fordi at de festa for mykje da og drakk alkohol og sånn at de ikkje fekk drive med det lenger ?
+# segstart = 574.465
+# segstop = 579.76
+# file = fana_uib_03
+# speaker = int
+# id = 88
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	fordi	fordi	sbu	sbu	_	5	ADV	_	_
+5	at	at	sbu	sbu	_	7	SBU	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+7	festa	feste	verb	verb	pret	2	SPRED	_	_
+8	for	for	adv	adv	_	9	ADV	_	_
+9	mykje	mykje	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+10	da	da	adv	adv	_	7	ADV	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	drakk	drikke	verb	verb	pret	7	KOORD	_	_
+13	alkohol	alkohol	subst	subst	appell|eint|mask|ub	12	DOBJ	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	sånn	sånn	adv	adv	_	7	ADV	_	_
+16	at	at	sbu	sbu	_	19	SBU	_	_
+17	de	de	pron	pron	pers|fl|2|nom|hum	19	SUBJ	_	_
+18	ikkje	ikkje	adv	adv	_	19	ADV	_	_
+19	fekk	få	verb	verb	pret	2	ADV	_	_
+20	drive	drive	verb	verb	inf	19	INFV	_	_
+21	med	med	prep	prep	_	20	ADV	_	_
+22	det	det	pron	pron	pers|eint|nøyt|3	21	PUTFYLL	_	_
+23	lenger	lenger	adv	adv	_	20	ADV	_	_
+24	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = .
+# segstart = 576.67
+# segstop = 578.72
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 89
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = nei da .
+# segstart = 578.03
+# segstop = 578.905
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 90
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = n- det blei vel litt for mykje slåsting .
+# segstart = 580.32
+# segstop = 582.784
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 91
+1	n-	n-	ufullst	ufullst	_	2	FYLL	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	blei	bli	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+6	for	for	adv	adv	_	7	ADV	_	_
+7	mykje	mykje	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+8	slåsting	slåsting	subst	subst	appell|eint|fem|ub	3	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja og så hoppa ut vindauget og # heiv snøballar på ein lærar her på skolen # .
+# segstart = 582.882
+# segstop = 589.54
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 92
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	hoppa	hoppe	verb	verb	pret	0	FINV	_	_
+5	ut	ut	prep	prep	_	4	ADV	_	_
+6	vindauget	vindauge	subst	subst	appell|eint|nøyt|bu	5	PUTFYLL	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	heiv	hive	verb	verb	pret	4	KOORD	_	_
+10	snøballar	snøball	subst	subst	appell|fl|mask|ub	9	DOBJ	_	_
+11	på	på	prep	prep	_	9	ADV	_	_
+12	ein	ein	det	det	kvant|eint|mask	13	DET	_	_
+13	lærar	lærar	subst	subst	appell|eint|mask|ub	11	PUTFYLL	_	_
+14	her	her	prep	prep	_	13	ADV	_	_
+15	på	på	prep	prep	_	14	PUTFYLL	_	_
+16	skolen	skole	subst	subst	appell|eint|mask|bu	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	4	IK	_	_
+18	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = # … .
+# segstart = 584.627
+# segstop = 586.407
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 93
+1	#	#	pause	pause	_	0	IK	_	_
+2	…	…	ellipsis	ellipsis	_	1	IK	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 588.057
+# segstop = 588.881
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 94
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = og fekk ikkje vi lov .
+# segstart = 590.307
+# segstop = 591.558
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 95
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	fekk	få	verb	verb	pret	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+5	lov	lov	subst	subst	appell|eint|mask|ub	2	DOBJ	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = var E1 det ?
+# segstart = 592.281
+# segstop = 593.347
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 96
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	E1	E1	subst	subst	prop	1	SPRED	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+4	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = mhm .
+# segstart = 593.367
+# segstop = 593.92
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 97
+1	mhm	mhm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 593.867
+# segstop = 594.637
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 98
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = eg måtte opp med då- prøve å ta og hente sjalet eg .
+# segstart = 601.952
+# segstop = 605.372
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 99
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	måtte	måtte	verb	verb	pret	0	FINV	_	_
+3	opp	opp	prep	prep	_	6	REP	_	_
+4	med	med	prep	prep	_	6	REP	_	_
+5	då-	då-	ufullst	ufullst	_	6	FYLL	_	_
+6	prøve	prøve	verb	verb	inf	2	DOBJ	_	_
+7	å	å	inf-merke	inf-merke	_	6	DOBJ	_	_
+8	ta	ta	verb	verb	inf	7	INFV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	hente	hente	verb	verb	inf	8	KOORD	_	_
+11	sjalet	sjal	subst	subst	appell|eint|nøyt|bu	10	DOBJ	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	1	APP	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = kom E1 og måtte berre slenge dei ned # det .
+# segstart = 606.662
+# segstop = 611.098
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 100
+1	kom	komme	verb	verb	pret	0	FINV	_	_
+2	E1	E1	subst	subst	prop	1	SUBJ	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	måtte	måtte	verb	verb	pret	1	KOORD	_	_
+5	berre	berre	adv	adv	_	6	ADV	_	_
+6	slenge	slenge	verb	verb	inf	4	INFV	_	_
+7	dei	dei	pron	pron	pers|fl|3|akk|hum	6	DOBJ	_	_
+8	ned	ned	prep	prep	_	6	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	1	SLETT	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 608.528
+# segstop = 609.698
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 101
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja .
+# segstart = 613.38
+# segstop = 613.84
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 102
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = de har nå nemnt ein del ting som ein kan bruke # fritida til her i # området rundt e Kirkevoll men e .
+# segstart = 624.075
+# segstop = 634.457
+# file = fana_uib_03
+# speaker = int
+# id = 103
+1	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	4	ADV	_	_
+4	nemnt	nemne	verb	verb	perf-part	2	INFV	_	_
+5	ein	ein	det	det	kvant|eint|mask	6	DET	_	_
+6	del	del	subst	subst	appell|eint|mask|ub	7	DET	_	_
+7	ting	ting	subst	subst	appell|eint|mask|ub	4	DOBJ	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	ein	ein	pron	pron	pers|eint|nom|hum	10	SUBJ	_	_
+10	kan	kunne	verb	verb	pres	7	ATR	_	_
+11	bruke	bruke	verb	verb	inf	10	INFV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	fritida	fritid	subst	subst	appell|eint|fem|bu	11	DOBJ	_	_
+14	til	til	prep	prep	_	11	ADV	_	_
+15	her	her	prep	prep	_	11	ADV	_	_
+16	i	i	prep	prep	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	området	område	subst	subst	appell|eint|nøyt|bu	16	PUTFYLL	_	_
+19	rundt	rundt	prep	prep	_	18	ATR	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	Kirkevoll	Kirkevoll	subst	subst	prop	19	PUTFYLL	_	_
+22	men	men	konj	konj	_	2	KONJ	_	_
+23	e	e	nol	nol	_	2	FYLL	_	_
+24	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er det andre ting òg som ein # kan gå på viss ein # vil ?
+# segstart = 634.974
+# segstop = 640.242
+# file = fana_uib_03
+# speaker = int
+# id = 104
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	andre	annan	det	det	dem|fl	4	DET	_	_
+4	ting	ting	subst	subst	appell|fl|mask|ub	1	PSUBJ	_	_
+5	òg	òg	adv	adv	_	1	ADV	_	_
+6	som	som	sbu	sbu	_	9	SBU	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	9	SUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	kan	kunne	verb	verb	pres	4	ATR	_	_
+10	gå	gå	verb	verb	inf	9	INFV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	viss	viss	sbu	sbu	_	15	SBU	_	_
+13	ein	ein	pron	pron	pers|eint|nom|hum	15	SUBJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	vil	vilje	verb	verb	pres	10	ADV	_	_
+16	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = e # ja sei det .
+# segstart = 641.14
+# segstop = 643.395
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 105
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	4	INTERJ	_	_
+4	sei	seie	verb	verb	imp	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja det er jo rosemåling og ## nja eg veit ikkje kva meir .
+# segstart = 645.694
+# segstop = 652.349
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 106
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	rosemåling	rosemåling	subst	subst	appell|eint|fem|ub	3	SPRED	_	_
+6	og	og	konj	konj	_	10	KONJ	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	nja	nja	interj	interj	_	10	INTERJ	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+10	veit	vite	verb	verb	pres	3	KOORD	_	_
+11	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+12	kva	kva	pron	pron	sp	10	DOBJ	_	_
+13	meir	mykje	adj	adj	comp	12	ATR	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det er mogleg at de synest at fritida dykkar er # for knapp sånn som ho allereie er men er det noko fritidstilbod som e # de saknar ?
+# segstart = 674.73
+# segstop = 686.014
+# file = fana_uib_03
+# speaker = int
+# id = 107
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	mogleg	mogleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+4	at	at	sbu	sbu	_	6	SBU	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	6	SUBJ	_	_
+6	synest	synast	verb	verb	pres	2	PSUBJ	_	_
+7	at	at	sbu	sbu	_	10	SBU	_	_
+8	fritida	fritid	subst	subst	appell|eint|fem|bu	10	SUBJ	_	_
+9	dykkar	dykk	subst	subst	appell|fl|mask|ub	8	DET	_	_
+10	er	vere	verb	verb	pres	6	DOBJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	for	for	adv	adv	_	13	ADV	_	_
+13	knapp	knapp	adj	adj	eint|m/f|ub|pos	10	SPRED	_	_
+14	sånn	sånn	adv	adv	_	15	ADV	_	_
+15	som	som	sbu	sbu	_	18	SBU	_	_
+16	ho	ho	pron	pron	pers|eint|fem|3|nom	18	SUBJ	_	_
+17	allereie	allereie	adv	adv	_	18	ADV	_	_
+18	er	vere	verb	verb	pres	13	ADV	_	_
+19	men	men	konj	konj	_	20	KONJ	_	_
+20	er	vere	verb	verb	pres	2	KOORD	_	_
+21	det	det	det	det	dem|eint|nøyt	20	FSUBJ	_	_
+22	noko	nokon	det	det	kvant|eint|nøyt	23	DET	_	_
+23	fritidstilbod	fritidstilbod	subst	subst	appell|eint|nøyt|ub	20	SPRED	_	_
+24	som	som	sbu	sbu	_	28	SBU	_	_
+25	e	e	nol	nol	_	27	FYLL	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	de	de	pron	pron	pers|fl|2|nom|hum	28	SUBJ	_	_
+28	saknar	sakne	verb	verb	pres	23	ATR	_	_
+29	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = nei .
+# segstart = 687.261
+# segstop = 688.011
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 108
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = # kva skulle det vere ?
+# segstart = 687.771
+# segstop = 690.792
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 109
+1	#	#	pause	pause	_	2	IK	_	_
+2	kva	kva	pron	pron	sp	5	SPRED	_	_
+3	skulle	skulle	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	vere	vere	verb	verb	inf	3	INFV	_	_
+6	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = vi må heilt ned til # e kor er vi må # ja ned til Skjold for å bade # skulle heller vore eit svømmebasseng her oppe .
+# segstart = 694.281
+# segstop = 702.112
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 110
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	må	måtte	verb	verb	pres	0	FINV	_	_
+3	heilt	heil	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+4	ned	ned	prep	prep	_	2	ADV	_	_
+5	til	til	prep	prep	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	8	IK	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	kor	kor	adv	adv	_	9	SPRED	_	_
+9	er	vere	verb	verb	pres	11	REP	_	_
+10	vi	vi	pron	pron	pers|fl|1|nom|hum	11	SUBJ	_	_
+11	må	måtte	verb	verb	pres	2	KOORD	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	ja	ja	interj	interj	_	11	INTERJ	_	_
+14	ned	ned	prep	prep	_	11	ADV	_	_
+15	til	til	prep	prep	_	14	PUTFYLL	_	_
+16	Skjold	Skjold	subst	subst	prop	15	PUTFYLL	_	_
+17	for	for	prep	prep	_	11	ADV	_	_
+18	å	å	inf-merke	inf-merke	_	17	PUTFYLL	_	_
+19	bade	bade	verb	verb	inf	18	INFV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	skulle	skulle	verb	verb	pret	2	KOORD	_	_
+22	heller	heller	adv	adv	_	23	ADV	_	_
+23	vore	vere	verb	verb	perf-part	21	INFV	_	_
+24	eit	ein	det	det	kvant|eint|nøyt	25	DET	_	_
+25	svømmebasseng	svømmebasseng	subst	subst	appell|eint|nøyt|ub	23	PSUBJ	_	_
+26	her	her	prep	prep	_	23	ADV	_	_
+27	oppe	oppe	prep	prep	_	26	PUTFYLL	_	_
+28	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja ja # der seier du noko .
+# segstart = 706.096
+# segstop = 708.148
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 111
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	der	der	prep	prep	_	5	ADV	_	_
+5	seier	seie	verb	verb	pres	0	FINV	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+7	noko	noko	pron	pron	pers|eint|nøyt|3|akk	5	DOBJ	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = det er jo mange som spelar fotball her oppe og .
+# segstart = 720.503
+# segstop = 722.343
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 112
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	mange	mang ein	subst	subst	kvant|fl	2	PSUBJ	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	spelar	spele	verb	verb	pres	4	ATR	_	_
+7	fotball	fotball	subst	subst	appell|eint|mask|ub	6	DOBJ	_	_
+8	her	her	prep	prep	_	6	ADV	_	_
+9	oppe	oppe	prep	prep	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	2	KONJ	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja Bjarg .
+# segstart = 722.846
+# segstop = 724.374
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 113
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	Bjarg	Bjarg	subst	subst	prop	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og så er det Krokeide lengre utover .
+# segstart = 729.093
+# segstop = 731.218
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 114
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	Krokeide	Krokeide	subst	subst	prop	3	SPRED	_	_
+6	lengre	lenge	adj	adj	comp	3	ADV	_	_
+7	utover	utover	prep	prep	_	6	ADV	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = driv de med nokon slags e # idrett eller noko sånt nå e som spesielt # har med vinterhalvåret å gjere ?
+# segstart = 751.689
+# segstop = 761.478
+# file = fana_uib_03
+# speaker = int
+# id = 115
+1	driv	drive	verb	verb	pres	0	FINV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	1	SUBJ	_	_
+3	med	med	prep	prep	_	1	ADV	_	_
+4	nokon	nokon	det	det	kvant|eint|mask	5	DET	_	_
+5	slags	slags	subst	subst	appell|mask	8	DET	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	idrett	idrett	subst	subst	appell|eint|mask|ub	3	PUTFYLL	_	_
+9	eller	eller	konj	konj	_	11	KONJ	_	_
+10	noko	nokon	det	det	kvant|eint|nøyt	11	DET	_	_
+11	sånt	sånt	pron	pron	pers|eint|nøyt|3|akk	8	KOORD	_	_
+12	nå	nå	adv	adv	_	1	ADV	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	som	som	sbu	sbu	_	17	SBU	_	_
+15	spesielt	spesiell	adj	adj	eint|nøyt|ub|pos	17	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	har	ha	verb	verb	pres	8	ATR	_	_
+18	med	med	prep	prep	_	21	ADV	_	_
+19	vinterhalvåret	vinterhalvår	subst	subst	appell|eint|nøyt|bu	18	PUTFYLL	_	_
+20	å	å	inf-merke	inf-merke	_	17	DOBJ	_	_
+21	gjere	gjere	verb	verb	inf	20	INFV	_	_
+22	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = eg # går litt på skøyter av og til # og er det einaste .
+# segstart = 761.967
+# segstop = 766.189
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 116
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	går	gå	verb	verb	pres	0	FINV	_	_
+4	litt	litt	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+5	på	på	prep	prep	_	3	ADV	_	_
+6	skøyter	skøyte	subst	subst	appell|fl|fem|ub	5	PUTFYLL	_	_
+7	av	av	prep	prep	_	3	ADV	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	til	til	prep	prep	_	7	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	er	vere	verb	verb	pres	3	KOORD	_	_
+13	det	det	det	det	dem|eint|nøyt	14	DET	_	_
+14	einaste	einaste	adj	adj	eint|nøyt|ub|pos	12	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei .
+# segstart = 762.187
+# segstop = 762.737
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 117
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og det er to i min klasse som # går på ski men eg veit ikkje korleis dei gjer det .
+# segstart = 769.238
+# segstop = 773.45
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 118
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	to	to	det	det	kvant|fl	3	SPRED	_	_
+5	i	i	prep	prep	_	3	ADV	_	_
+6	min	min	det	det	poss|eint|mask	7	DET	_	_
+7	klasse	klasse	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	går	gå	verb	verb	pres	4	ADV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	ski	ski	subst	subst	appell|fl|fem|ub	11	PUTFYLL	_	_
+13	men	men	konj	konj	_	15	KONJ	_	_
+14	eg	eg	pron	pron	pers|eint|1|nom|hum	15	SUBJ	_	_
+15	veit	vite	verb	verb	pres	3	KOORD	_	_
+16	ikkje	ikkje	adv	adv	_	15	ADV	_	_
+17	korleis	korleis	adv	adv	_	19	ADV	_	_
+18	dei	dei	pron	pron	pers|fl|3|nom|hum	19	SUBJ	_	_
+19	gjer	gjere	verb	verb	pres	15	DOBJ	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	19	DOBJ	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = F1 og M1 ?
+# segstart = 774.235
+# segstop = 775.465
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 119
+1	F1	F1	subst	subst	prop	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	M1	M1	subst	subst	prop	1	KOORD	_	_
+4	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = e ja .
+# segstart = 775.405
+# segstop = 775.865
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 120
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei ja .
+# segstart = 777.013
+# segstop = 777.849
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 121
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men dei trenar vel oppå Fanafjellet gjer ikkje dei det ?
+# segstart = 782.507
+# segstop = 784.717
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 122
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	trenar	trene	verb	verb	pres	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	oppå	oppå	prep	prep	_	3	ADV	_	_
+6	Fanafjellet	Fanafjellet	subst	subst	prop	5	PUTFYLL	_	_
+7	gjer	gjere	verb	verb	pres	3	KOORD	_	_
+8	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	7	SUBJ	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	7	DOBJ	_	_
+11	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = eg veit ikkje .
+# segstart = 784.677
+# segstop = 785.406
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 123
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	veit	vite	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = eller kor er det dei trenar ?
+# segstart = 785.315
+# segstop = 786.731
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 124
+1	eller	eller	konj	konj	_	3	KONJ	_	_
+2	kor	kor	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	6	SUBJ	_	_
+6	trenar	trene	verb	verb	pres	2	ADV	_	_
+7	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = du snakka om at du gjekk litt på skøyter bergen_uib_3301 kor hen er det moglegheit til det her da ?
+# segstart = 798.559
+# segstop = 803.102
+# file = fana_uib_03
+# speaker = int
+# id = 125
+1	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+2	snakka	snakke	verb	verb	pret	0	FINV	_	_
+3	om	om	prep	prep	_	2	ADV	_	_
+4	at	at	sbu	sbu	_	6	SBU	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+6	gjekk	gå	verb	verb	pret	3	PUTFYLL	_	_
+7	litt	litt	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	skøyter	skøyte	subst	subst	appell|fl|fem|ub	8	PUTFYLL	_	_
+10	bergen_uib_3301	bergen_uib_3301	subst	subst	prop	1	APP	_	_
+11	kor	kor	adv	adv	_	13	ADV	_	_
+12	hen	hen	prep	prep	_	11	ADV	_	_
+13	er	vere	verb	verb	pres	2	KOORD	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	13	FSUBJ	_	_
+15	moglegheit	moglegheit	subst	subst	appell|eint|fem|ub	13	SPRED	_	_
+16	til	til	prep	prep	_	15	ATR	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	16	PUTFYLL	_	_
+18	her	her	prep	prep	_	13	ADV	_	_
+19	da	da	adv	adv	_	13	ADV	_	_
+20	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = å det er # ja # vi pleier å stå på Varden .
+# segstart = 804.321
+# segstop = 807.707
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 126
+1	å	å	interj	interj	_	8	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	8	REP	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	8	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+8	pleier	pleie	verb	verb	pres	0	FINV	_	_
+9	å	å	inf-merke	inf-merke	_	8	DOBJ	_	_
+10	stå	stå	verb	verb	inf	9	INFV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	Varden	Varden	subst	subst	prop	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = men det veit jo ikkje du kor er .
+# segstart = 808.965
+# segstop = 810.624
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 127
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	8	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+7	kor	kor	adv	adv	_	8	ADV	_	_
+8	er	vere	verb	verb	pres	3	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og så ein sjeldan gong går det an å stå på fjorden .
+# segstart = 823.408
+# segstop = 825.802
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 128
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	så	så	adv	adv	_	6	ADV	_	_
+3	ein	ein	det	det	kvant|eint|mask	5	DET	_	_
+4	sjeldan	sjeldan	adj	adj	eint|m/f|ub|pos	5	ATR	_	_
+5	gong	gong	subst	subst	appell|eint|mask|ub	6	ADV	_	_
+6	går	gå	verb	verb	pres	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	an	an	adv	adv	_	6	ADV	_	_
+9	å	å	inf-merke	inf-merke	_	6	PSUBJ	_	_
+10	stå	stå	verb	verb	inf	9	INFV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	fjorden	fjord	subst	subst	appell|eint|mask|bu	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = sånn at .
+# segstart = 828.628
+# segstop = 829.708
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 129
+1	sånn	sånn	adv	adv	_	0	FRAG	_	_
+2	at	at	sbu	sbu	_	1	SBU	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kor de # ordnar dykk for å finne ut om isen er trygg da ?
+# segstart = 835.567
+# segstop = 838.929
+# file = fana_uib_03
+# speaker = int
+# id = 130
+1	kor	kor	adv	adv	_	4	ADV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	4	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ordnar	ordne	verb	verb	pres	0	FINV	_	_
+5	dykk	de	pron	pron	pers|fl|2|akk|hum	4	DOBJ	_	_
+6	for	for	prep	prep	_	4	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	finne	finne	verb	verb	inf	7	INFV	_	_
+9	ut	ut	prep	prep	_	8	ADV	_	_
+10	om	om	sbu	sbu	_	12	SBU	_	_
+11	isen	is	subst	subst	appell|eint|mask|bu	12	SUBJ	_	_
+12	er	vere	verb	verb	pres	9	PUTFYLL	_	_
+13	trygg	trygg	adj	adj	eint|m/f|ub|pos	12	SPRED	_	_
+14	da	da	adv	adv	_	4	ADV	_	_
+15	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = er nå bare til å gå utpå det # sjå om du dett igjennom .
+# segstart = 839.406
+# segstop = 841.927
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 131
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	nå	nå	adv	adv	_	1	ADV	_	_
+3	bare	bare	adv	adv	_	1	ADV	_	_
+4	til	til	prep	prep	_	1	SPRED	_	_
+5	å	å	inf-merke	inf-merke	_	4	PUTFYLL	_	_
+6	gå	gå	verb	verb	inf	5	INFV	_	_
+7	utpå	utpå	prep	prep	_	6	ADV	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	sjå	sjå	verb	verb	inf	6	KOORD	_	_
+11	om	om	sbu	sbu	_	13	SBU	_	_
+12	du	du	pron	pron	pers|eint|2|nom|hum	13	SUBJ	_	_
+13	dett	dette	verb	verb	pres	10	DOBJ	_	_
+14	igjennom	igjennom	prep	prep	_	13	ADV	_	_
+15	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = oppå Titlestad der står eit sånt skilt # « isen er trygg » frå politiet .
+# segstart = 842.737
+# segstop = 847.135
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 132
+1	oppå	oppå	prep	prep	_	4	ADV	_	_
+2	Titlestad	Titlestad	subst	subst	prop	1	PUTFYLL	_	_
+3	der	der	prep	prep	_	4	ADV	_	_
+4	står	stå	verb	verb	pres	0	FINV	_	_
+5	eit	ein	det	det	kvant|eint|nøyt	7	DET	_	_
+6	sånt	sånn	det	det	dem|eint|nøyt	7	DET	_	_
+7	skilt	skilt	subst	subst	appell|eint|nøyt|ub	4	SUBJ	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	«	«	anf	anf	_	11	IK	_	_
+10	isen	is	subst	subst	appell|eint|mask|bu	11	SUBJ	_	_
+11	er	vere	verb	verb	pres	7	ATR	_	_
+12	trygg	trygg	adj	adj	eint|m/f|ub|pos	11	SPRED	_	_
+13	»	»	anf	anf	_	11	IK	_	_
+14	frå	frå	prep	prep	_	4	ADV	_	_
+15	politiet	politi	subst	subst	appell|eint|nøyt|bu	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = politiet dei har ikkje noko med saka å gjere # berre til å gå utpå det og hogge hol .
+# segstart = 850.468
+# segstop = 855.17
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 133
+1	politiet	politi	subst	subst	appell|eint|nøyt|bu	2	APP	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	noko	noko	pron	pron	pers|eint|nøyt|3|akk	3	DOBJ	_	_
+6	med	med	prep	prep	_	9	ADV	_	_
+7	saka	sak	subst	subst	appell|eint|fem|bu	6	PUTFYLL	_	_
+8	å	å	inf-merke	inf-merke	_	5	ATR	_	_
+9	gjere	gjere	verb	verb	inf	8	INFV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	berre	berre	adv	adv	_	12	ADV	_	_
+12	til	til	prep	prep	_	3	KOORD	_	_
+13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
+14	gå	gå	verb	verb	inf	13	INFV	_	_
+15	utpå	utpå	prep	prep	_	14	ADV	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	hogge	hogge	verb	verb	inf	14	KOORD	_	_
+19	hol	hol	subst	subst	appell|eint|nøyt|ub	18	DOBJ	_	_
+20	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei men dei har jo gått og målt .
+# segstart = 855.161
+# segstop = 857.07
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 134
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	6	ADV	_	_
+6	gått	gå	verb	verb	perf-part	4	INFV	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	målt	måle	verb	verb	perf-part	6	KOORD	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = sist gong det var is på fjorden begynte vi når han var så tjukk .
+# segstart = 861.987
+# segstop = 865.788
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 135
+1	sist	sist	adj	adj	eint|m/f|ub|pos	2	ATR	_	_
+2	gong	gong	subst	subst	appell|eint|mask|ub	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	var	vere	verb	verb	pret	8	ADV	_	_
+5	is	is	subst	subst	appell|eint|mask|ub	4	SPRED	_	_
+6	på	på	prep	prep	_	5	ATR	_	_
+7	fjorden	fjord	subst	subst	appell|eint|mask|bu	6	PUTFYLL	_	_
+8	begynte	begynne	verb	verb	pret	0	FINV	_	_
+9	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	han	han	pron	pron	pers|eint|mask|3|nom	12	SUBJ	_	_
+12	var	vere	verb	verb	pret	8	ADV	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	tjukk	tjukk	adj	adj	eint|m/f|ub|pos	12	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = .
+# segstart = 864.695
+# segstop = 865.605
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 136
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = men det gjekk nå ein tomme tjukkare for kvar dag sånn at .
+# segstart = 867.13
+# segstop = 870.263
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 137
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	gjekk	gå	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	ein	ein	det	det	kvant|eint|mask	6	DET	_	_
+6	tomme	tomme	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+7	tjukkare	tjukk	adj	adj	comp	6	ATR	_	_
+8	for	for	prep	prep	_	3	ADV	_	_
+9	kvar	kvar	det	det	kvant|eint|mask	10	DET	_	_
+10	dag	dag	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+11	sånn	sånn	adv	adv	_	12	ADV	_	_
+12	at	at	sbu	sbu	_	3	SBU	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = da gjekk ingen igjennom ?
+# segstart = 870.416
+# segstop = 871.625
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 138
+1	da	da	adv	adv	_	2	ADV	_	_
+2	gjekk	gå	verb	verb	pret	0	FINV	_	_
+3	ingen	ingen	pron	pron	pers|fl|3|nom	2	SUBJ	_	_
+4	igjennom	igjennom	prep	prep	_	2	ADV	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = nei # det er det som var det løgne med det .
+# segstart = 872.12
+# segstop = 874.64
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 139
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SPRED	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	var	vere	verb	verb	pret	5	ATR	_	_
+8	det	det	det	det	dem|eint|nøyt	9	DET	_	_
+9	løgne	løyen	adj	adj	eint|bu|pos	7	SPRED	_	_
+10	med	med	prep	prep	_	9	ADV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = nei # vi må preike nå .
+# segstart = 893.288
+# segstop = 895.762
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 140
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	må	måtte	verb	verb	pres	0	FINV	_	_
+5	preike	preike	verb	verb	inf	4	INFV	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 896.275
+# segstop = 897.972
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 141
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = til timen er slutt .
+# segstart = 897.655
+# segstop = 899.435
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 142
+1	til	til	prep	prep	_	3	ADV	_	_
+2	timen	time	subst	subst	appell|eint|mask|bu	1	PUTFYLL	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	slutt	slutt	adj	adj	eint|bu|pos	3	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = m er klokka nå ?
+# segstart = 901.291
+# segstop = 902.431
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 143
+1	m	m	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	klokka	klokke	subst	subst	appell|eint|fem|bu	2	SUBJ	_	_
+4	nå	nå	adv	adv	_	2	ADV	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = fem over ti .
+# segstart = 904.375
+# segstop = 905.436
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 144
+1	fem	fem	det	det	kvant|fl	0	FRAG	_	_
+2	over	over	prep	prep	_	1	ADV	_	_
+3	ti	ti	det	det	kvant|fl	2	PUTFYLL	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja ja .
+# segstart = 905.69
+# segstop = 906.469
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 145
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = de prata litt i stad om e # eit par filmar som de har sett .
+# segstart = 911.035
+# segstop = 916.152
+# file = fana_uib_03
+# speaker = int
+# id = 146
+1	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+2	prata	prate	verb	verb	pret	0	FINV	_	_
+3	litt	litt	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+4	i	i	prep	prep	_	2	ADV	_	_
+5	stad	stad	subst	subst	appell|eint|mask|ub	4	PUTFYLL	_	_
+6	om	om	prep	prep	_	2	ADV	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	eit	ein	det	det	kvant|eint|nøyt	10	DET	_	_
+10	par	par	subst	subst	appell|eint|nøyt|ub	11	DET	_	_
+11	filmar	film	subst	subst	appell|fl|mask|ub	6	PUTFYLL	_	_
+12	som	som	sbu	sbu	_	14	SBU	_	_
+13	de	de	pron	pron	pers|fl|2|nom|hum	14	SUBJ	_	_
+14	har	ha	verb	verb	pres	11	ATR	_	_
+15	sett	sjå	verb	verb	perf-part	14	INFV	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men e # sjølv om de ikkje har vore så mykje på kino så e ser de vel litt på filmane som går i fjernsynet # kva synest de om dei da ?
+# segstart = 916.502
+# segstop = 925.728
+# file = fana_uib_03
+# speaker = int
+# id = 147
+1	men	men	konj	konj	_	8	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	sjølv	sjølv	adv	adv	_	5	ADV	_	_
+5	om	om	sbu	sbu	_	8	SBU	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	8	SUBJ	_	_
+7	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+8	har	ha	verb	verb	pres	0	FINV	_	_
+9	vore	vere	verb	verb	perf-part	8	INFV	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	mykje	mykje	adj	adj	fl|pos	9	SPRED	_	_
+12	på	på	prep	prep	_	9	ADV	_	_
+13	kino	kino	subst	subst	appell|eint|mask|ub	12	PUTFYLL	_	_
+14	så	så	adv	adv	_	16	ADV	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	ser	sjå	verb	verb	pres	8	KOORD	_	_
+17	de	de	pron	pron	pers|fl|2|nom|hum	16	SUBJ	_	_
+18	vel	vel	adv	adv	_	16	ADV	_	_
+19	litt	litt	adj	adj	eint|nøyt|ub|pos	16	ADV	_	_
+20	på	på	prep	prep	_	16	ADV	_	_
+21	filmane	film	subst	subst	appell|fl|mask|bu	20	PUTFYLL	_	_
+22	som	som	sbu	sbu	_	23	SBU	_	_
+23	går	gå	verb	verb	pres	21	ATR	_	_
+24	i	i	prep	prep	_	23	ADV	_	_
+25	fjernsynet	fjernsyn	subst	subst	appell|eint|nøyt|bu	24	PUTFYLL	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	kva	kva	pron	pron	sp	28	DOBJ	_	_
+28	synest	synast	verb	verb	pres	16	KOORD	_	_
+29	de	de	pron	pron	pers|fl|2|nom|hum	28	SUBJ	_	_
+30	om	om	prep	prep	_	28	ADV	_	_
+31	dei	dei	pron	pron	pers|fl|3|akk|hum	30	PUTFYLL	_	_
+32	da	da	adv	adv	_	28	ADV	_	_
+33	?	$?	clb	clb	<spm>	8	IP	_	_
+
+# text = det er like dårleg heile driten ## er ikkje til komme ifrå det .
+# segstart = 927.211
+# segstop = 932.587
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 148
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	like	like	adv	adv	_	4	ADV	_	_
+4	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+5	heile	heil	adj	adj	eint|bu|pos	6	ATR	_	_
+6	driten	drit	subst	subst	appell|eint|mask|bu	1	APP	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	er	vere	verb	verb	pres	2	KOORD	_	_
+9	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+10	til	til	prep	prep	_	8	SPRED	_	_
+11	komme	komme	verb	verb	inf	10	INFV	_	_
+12	ifrå	ifrå	prep	prep	_	11	ADV	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja kan du nemne nokre eksempel på kva som er så dårleg da bergen_uib_3301 ?
+# segstart = 940.551
+# segstop = 943.908
+# file = fana_uib_03
+# speaker = int
+# id = 149
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	nemne	nemne	verb	verb	inf	2	INFV	_	_
+5	nokre	nokon	det	det	kvant|fl	6	DET	_	_
+6	eksempel	eksempel	subst	subst	appell|fl|nøyt|ub	4	DOBJ	_	_
+7	på	på	prep	prep	_	6	ATR	_	_
+8	kva	kva	pron	pron	sp	7	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	er	vere	verb	verb	pres	8	ATR	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	10	SPRED	_	_
+13	da	da	adv	adv	_	2	ADV	_	_
+14	bergen_uib_3301	bergen_uib_3301	subst	subst	prop	3	APP	_	_
+15	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = m nei eg veit ikkje eg .
+# segstart = 943.988
+# segstop = 946.843
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 150
+1	m	m	interj	interj	_	4	INTERJ	_	_
+2	nei	nei	interj	interj	_	4	INTERJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	3	APP	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = nei det der fjernsynsteateret det er jo det same heile de- tida .
+# segstart = 948.208
+# segstop = 951.519
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 151
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	4	DET	_	_
+3	der	der	prep	prep	_	2	ATR	_	_
+4	fjernsynsteateret	fjernsynsteater	subst	subst	appell|eint|nøyt|bu	5	APP	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	det	det	det	det	dem|eint|nøyt	12	DET	_	_
+9	same	same	det	det	dem|bu	12	DET	_	_
+10	heile	heil	adj	adj	eint|bu|pos	12	ATR	_	_
+11	de-	de-	ufullst	ufullst	_	12	FYLL	_	_
+12	tida	tid	subst	subst	appell|eint|fem|bu	6	SPRED	_	_
+13	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = det er noko eg ikkje kan fordra i kvart fall # # nei kvar har sin smak .
+# segstart = 953.081
+# segstop = 958.656
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 152
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	noko	noko	pron	pron	pers|eint|nøyt|3|akk	2	SPRED	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+5	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+6	kan	kunne	verb	verb	pres	3	ATR	_	_
+7	fordra	fordre	verb	verb	inf	6	INFV	_	_
+8	i	i	prep	prep	_	7	ADV	_	_
+9	kvart	kvar	det	det	kvant|eint|nøyt	10	DET	_	_
+10	fall	fall	subst	subst	appell|eint|nøyt|ub	8	PUTFYLL	_	_
+11	#	#	pause	pause	_	13	IK	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	nei	nei	interj	interj	_	15	INTERJ	_	_
+14	kvar	kvar	det	det	_	15	SUBJ	_	_
+15	har	ha	verb	verb	pres	2	KOORD	_	_
+16	sin	sin	det	det	poss|eint|mask	17	DET	_	_
+17	smak	smak	subst	subst	appell|eint|mask|ub	15	DOBJ	_	_
+18	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men det går nå e # andre program enn filmar for eksempel er det jo ein svensk serie som går onsdagane nå som heiter « Albert & Herbert » kva synest de om den da ?
+# segstart = 979.172
+# segstop = 989.495
+# file = fana_uib_03
+# speaker = int
+# id = 153
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	går	gå	verb	verb	pres	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	andre	annan	det	det	dem|fl	8	DET	_	_
+8	program	program	subst	subst	appell|fl|nøyt|ub	3	SPRED	_	_
+9	enn	enn	prep	prep	_	8	ATR	_	_
+10	filmar	film	subst	subst	appell|fl|mask|ub	9	PUTFYLL	_	_
+11	for	for	prep	prep	_	13	ADV	_	_
+12	eksempel	eksempel	subst	subst	appell|eint|nøyt|ub	11	PUTFYLL	_	_
+13	er	vere	verb	verb	pres	3	KOORD	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	13	FSUBJ	_	_
+15	jo	jo	adv	adv	_	13	ADV	_	_
+16	ein	ein	det	det	kvant|eint|mask	18	DET	_	_
+17	svensk	svensk	adj	adj	eint|m/f|ub|pos	18	ATR	_	_
+18	serie	serie	subst	subst	appell|eint|mask|ub	13	PSUBJ	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	går	gå	verb	verb	pres	18	ATR	_	_
+21	onsdagane	onsdag	subst	subst	appell|fl|mask|bu	20	ADV	_	_
+22	nå	nå	adv	adv	_	20	ADV	_	_
+23	som	som	sbu	sbu	_	24	SBU	_	_
+24	heiter	heite	verb	verb	pres	18	ATR	_	_
+25	«	«	anf	anf	_	26	IK	_	_
+26	Albert	Albert	subst	subst	prop	24	SPRED	_	_
+27	&	&	konj	konj	_	28	KONJ	_	_
+28	Herbert	Herbert	subst	subst	prop	26	FLAT	_	_
+29	»	»	anf	anf	_	26	IK	_	_
+30	kva	kva	pron	pron	sp	31	DOBJ	_	_
+31	synest	synast	verb	verb	pres	3	KOORD	_	_
+32	de	de	pron	pron	pers|fl|2|nom|hum	31	SUBJ	_	_
+33	om	om	prep	prep	_	31	ADV	_	_
+34	den	den	pron	pron	pers|eint|f/m|3|nom	33	PUTFYLL	_	_
+35	da	da	adv	adv	_	31	ADV	_	_
+36	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = den er vittig .
+# segstart = 989.828
+# segstop = 991.688
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 154
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	vittig	vittig	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er vittig den .
+# segstart = 989.845
+# segstop = 991.378
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 155
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	vittig	vittig	adj	adj	eint|m/f|ub|pos	1	SPRED	_	_
+3	den	den	pron	pron	pers|eint|f/m|3|nom	1	SUBJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = er nå vel slutt den nå er ikkje han det ?
+# segstart = 994.43
+# segstop = 996.2
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 156
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	nå	nå	adv	adv	_	1	ADV	_	_
+3	vel	vel	adv	adv	_	1	ADV	_	_
+4	slutt	slutt	adj	adj	eint|m/f|ub|pos	1	SPRED	_	_
+5	den	den	pron	pron	pers|eint|f/m|3|nom	1	SUBJ	_	_
+6	nå	nå	adv	adv	_	1	ADV	_	_
+7	er	vere	verb	verb	pres	1	KOORD	_	_
+8	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+9	han	han	pron	pron	pers|eint|mask|3|nom	7	SUBJ	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	7	SPRED	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = jo .
+# segstart = 996.003
+# segstop = 996.573
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 157
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja ja .
+# segstart = 999.851
+# segstop = 1000.573
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 158
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja kva det er de har likt så bra med den da ?
+# segstart = 1002.074
+# segstop = 1004.065
+# file = fana_uib_03
+# speaker = int
+# id = 159
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kva	kva	pron	pron	sp	4	SPRED	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	6	SUBJ	_	_
+6	har	ha	verb	verb	pres	3	APP	_	_
+7	likt	like	verb	verb	perf-part	6	INFV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	bra	bra	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+10	med	med	prep	prep	_	4	ADV	_	_
+11	den	den	pron	pron	pers|eint|f/m|3|akk	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	4	ADV	_	_
+13	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = vittig .
+# segstart = 1005.104
+# segstop = 1006.94
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 160
+1	vittig	vittig	adj	adj	eint|m/f|ub|pos	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 1005.918
+# segstop = 1006.888
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 161
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = kan får berre seie han er vittig ja .
+# segstart = 1009.905
+# segstop = 1011.768
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 162
+1	kan	kunne	verb	verb	pres	2	REP	_	_
+2	får	få	verb	verb	pres	0	FINV	_	_
+3	berre	berre	adv	adv	_	4	ADV	_	_
+4	seie	seie	verb	verb	inf	2	INFV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|akk	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	4	DOBJ	_	_
+7	vittig	vittig	adj	adj	eint|m/f|ub|pos	6	SPRED	_	_
+8	ja	ja	interj	interj	_	2	INTERJ	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er vel ikkje noko meir å seie om han .
+# segstart = 1017.194
+# segstop = 1018.986
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 163
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+4	noko	nokon	det	det	kvant|eint|nøyt	5	DET	_	_
+5	meir	mykje	adj	adj	comp	6	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	1	PSUBJ	_	_
+7	seie	seie	verb	verb	inf	6	INFV	_	_
+8	om	om	prep	prep	_	7	ADV	_	_
+9	han	han	pron	pron	pers|eint|mask|3|akk	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det har gått e ## ei rekk- ei rekkje laurdagar nå e # ein serie som heiter Lotteri # den har de sikkert sett .
+# segstart = 1044.855
+# segstop = 1055.039
+# file = fana_uib_03
+# speaker = int
+# id = 164
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	gått	gå	verb	verb	perf-part	2	INFV	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	ei	ein	det	det	kvant|eint|fem	8	REP	_	_
+7	rekk-	rekk-	ufullst	ufullst	_	8	FYLL	_	_
+8	ei	ein	det	det	kvant|eint|fem	9	DET	_	_
+9	rekkje	rekkje	subst	subst	appell|eint|fem|ub	10	DET	_	_
+10	laurdagar	laurdag	subst	subst	appell|fl|mask|ub	3	ADV	_	_
+11	nå	nå	adv	adv	_	3	ADV	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	ein	ein	det	det	kvant|eint|mask	15	DET	_	_
+15	serie	serie	subst	subst	appell|eint|mask|ub	20	APP	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	heiter	heite	verb	verb	pres	15	ATR	_	_
+18	Lotteri	Lotteri	subst	subst	prop	17	SPRED	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	den	den	pron	pron	pers|eint|f/m|3|nom	24	DOBJ	_	_
+21	har	ha	verb	verb	pres	2	KOORD	_	_
+22	de	de	pron	pron	pers|fl|2|nom|hum	21	SUBJ	_	_
+23	sikkert	sikker	adj	adj	eint|nøyt|ub|pos	24	ADV	_	_
+24	sett	sjå	verb	verb	perf-part	21	INFV	_	_
+25	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja # har nå sett litt av han .
+# segstart = 1055.68
+# segstop = 1057.445
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 165
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	nå	nå	adv	adv	_	5	ADV	_	_
+5	sett	sjå	verb	verb	perf-part	3	INFV	_	_
+6	litt	litt	adj	adj	eint|nøyt|ub|pos	5	DOBJ	_	_
+7	av	av	prep	prep	_	5	ADV	_	_
+8	han	han	pron	pron	pers|eint|mask|3|akk	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = eg har ikkje sett # eg pleier å vere ute .
+# segstart = 1057.569
+# segstop = 1059.776
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 166
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+4	sett	sjå	verb	verb	perf-part	2	INFV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+7	pleier	pleie	verb	verb	pres	2	KOORD	_	_
+8	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
+9	vere	vere	verb	verb	inf	8	INFV	_	_
+10	ute	ute	prep	prep	_	9	SPRED	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja # det er nå ## e ja # kva skal vi seie .
+# segstart = 1063.651
+# segstop = 1069.904
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 167
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	##	##	pause	pause	_	8	IK	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	ja	ja	interj	interj	_	11	INTERJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	kva	kva	pron	pron	sp	13	DOBJ	_	_
+11	skal	skulle	verb	verb	pres	4	KOORD	_	_
+12	vi	vi	pron	pron	pers|fl|1|nom|hum	11	SUBJ	_	_
+13	seie	seie	verb	verb	inf	11	INFV	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = nei eg veit ikkje .
+# segstart = 1075.106
+# segstop = 1076.846
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 168
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = har ikkje de sett noko fjernsyn som er bra da ?
+# segstart = 1083.144
+# segstop = 1085.294
+# file = fana_uib_03
+# speaker = int
+# id = 169
+1	har	ha	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	de	de	pron	pron	pers|fl|2|nom|hum	1	SUBJ	_	_
+4	sett	sjå	verb	verb	eint|nøyt|ub	1	INFV	_	_
+5	noko	nokon	det	det	kvant|eint|nøyt	6	DET	_	_
+6	fjernsyn	fjernsyn	subst	subst	appell|eint|nøyt|ub	4	DOBJ	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	er	vere	verb	verb	pres	6	ATR	_	_
+9	bra	bra	adj	adj	eint|nøyt|ub|pos	8	SPRED	_	_
+10	da	da	adv	adv	_	1	ADV	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = .
+# segstart = 1085.659
+# segstop = 1086.269
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 170
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ee jo # får nå ein seie .
+# segstart = 1085.953
+# segstop = 1089.21
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 171
+1	ee	ee	nol	nol	_	4	FYLL	_	_
+2	jo	jo	interj	interj	_	4	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	får	få	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	7	ADV	_	_
+6	ein	ein	pron	pron	pers|eint|nom|hum	4	SUBJ	_	_
+7	seie	seie	verb	verb	inf	4	INFV	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det er jo enkelte filmar .
+# segstart = 1091.249
+# segstop = 1092.806
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 172
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	enkelte	enkelt	adj	adj	fl|pos	5	ATR	_	_
+5	filmar	film	subst	subst	appell|fl|mask|ub	2	PSUBJ	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nokon av dei # detektimane som går på fredagen # dei er nå gode # av og til .
+# segstart = 1093.612
+# segstop = 1099.098
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 173
+1	nokon	nokon	pron	pron	pers|fl|3|nom	5	DET	_	_
+2	av	av	prep	prep	_	1	ATR	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	PUTFYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	detektimane	detektim	subst	subst	appell|bu|fl|mask|samset	11	APP	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	går	gå	verb	verb	pres	5	ATR	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	fredagen	fredag	subst	subst	appell|eint|mask|bu	8	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+12	er	vere	verb	verb	pres	0	FINV	_	_
+13	nå	nå	adv	adv	_	12	ADV	_	_
+14	gode	god	adj	adj	fl|pos	12	SPRED	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	av	av	prep	prep	_	12	ADV	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	til	til	prep	prep	_	16	ADV	_	_
+19	.	$.	clb	clb	<punkt>	12	IP	_	_
+
+# text = ein sjeldan gong .
+# segstart = 1099.356
+# segstop = 1100.632
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 174
+1	ein	ein	det	det	kvant|eint|mask	3	DET	_	_
+2	sjeldan	sjeldan	adj	adj	eint|m/f|ub|pos	3	ATR	_	_
+3	gong	gong	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja dei som er gode # kva er det dei særleg handlar om da ?
+# segstart = 1109.24
+# segstop = 1111.97
+# file = fana_uib_03
+# speaker = int
+# id = 175
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	er	vere	verb	verb	pres	10	APP	_	_
+5	gode	god	adj	adj	fl|pos	4	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	kva	kva	pron	pron	sp	8	SPRED	_	_
+8	er	vere	verb	verb	pres	0	FINV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+11	særleg	særleg	adj	adj	eint|nøyt|ub|pos	12	ADV	_	_
+12	handlar	handle	verb	verb	pres	7	ATR	_	_
+13	om	om	prep	prep	_	12	ADV	_	_
+14	da	da	adv	adv	_	8	ADV	_	_
+15	?	$?	clb	clb	<spm>	8	IP	_	_
+
+# text = nei ## sei det .
+# segstart = 1112.12
+# segstop = 1116.157
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 176
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	sei	seie	verb	verb	imp	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = sportssendingane ser ikkje de på dei da ?
+# segstart = 1142.407
+# segstop = 1144.552
+# file = fana_uib_03
+# speaker = int
+# id = 177
+1	sportssendingane	sportssending	subst	subst	appell|bu|fl|fem|samset	6	APP	_	_
+2	ser	sjå	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	dei	dei	pron	pron	pers|fl|3|akk|hum	5	PUTFYLL	_	_
+7	da	da	adv	adv	_	2	ADV	_	_
+8	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = jo sånn av og til .
+# segstart = 1145.292
+# segstop = 1146.746
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 178
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	sånn	sånn	adv	adv	_	3	ADV	_	_
+3	av	av	prep	prep	_	1	ADV	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kan de prate litt om kva det er de ser og kva det er de likar helst å sjå av sportssendingar ?
+# segstart = 1152.453
+# segstop = 1157.443
+# file = fana_uib_03
+# speaker = int
+# id = 179
+1	kan	kunne	verb	verb	pres	0	FINV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	1	SUBJ	_	_
+3	prate	prate	verb	verb	inf	1	INFV	_	_
+4	litt	litt	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+5	om	om	prep	prep	_	3	ADV	_	_
+6	kva	kva	pron	pron	sp	8	SPRED	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	er	vere	verb	verb	pres	5	PUTFYLL	_	_
+9	de	de	pron	pron	pers|fl|2|nom|hum	10	SUBJ	_	_
+10	ser	sjå	verb	verb	pres	7	ATR	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	kva	kva	pron	pron	sp	14	SPRED	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+14	er	vere	verb	verb	pres	8	KOORD	_	_
+15	de	de	pron	pron	pers|fl|2|nom|hum	16	SUBJ	_	_
+16	likar	like	verb	verb	pres	13	ATR	_	_
+17	helst	helst	adv	adv	_	16	ADV	_	_
+18	å	å	inf-merke	inf-merke	_	16	DOBJ	_	_
+19	sjå	sjå	verb	verb	inf	18	INFV	_	_
+20	av	av	prep	prep	_	19	ADV	_	_
+21	sportssendingar	sportssending	subst	subst	appell|ub|fl|fem|samset	20	PUTFYLL	_	_
+22	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei det er ski skøyter og fotball og .
+# segstart = 1158.085
+# segstop = 1161.46
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 180
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	ski	ski	subst	subst	appell|fl|fem|ub	3	SPRED	_	_
+5	skøyter	skøyte	subst	subst	appell|fl|fem|ub	4	KOORD	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	fotball	fotball	subst	subst	appell|eint|mask|ub	4	KOORD	_	_
+8	og	og	konj	konj	_	3	KONJ	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = volleyball synest eg er gøy .
+# segstart = 1162.034
+# segstop = 1163.549
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 181
+1	volleyball	volleyball	subst	subst	appell|eint|mask|ub	4	SUBJ	_	_
+2	synest	synast	verb	verb	pres	0	FINV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	er	vere	verb	verb	pres	2	DOBJ	_	_
+5	gøy	gøy	adj	adj	eint|m/f|ub|pos	4	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = i helsike .
+# segstart = 1163.834
+# segstop = 1165.375
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 182
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	helsike	helsike	subst	subst	appell	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei eg pleier for det meste å lese eg # skal det vere noko .
+# segstart = 1174.589
+# segstop = 1178.507
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 183
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	pleier	pleie	verb	verb	pres	0	FINV	_	_
+4	for	for	prep	prep	_	3	ADV	_	_
+5	det	det	det	det	dem|eint|nøyt	6	DET	_	_
+6	meste	mykje	adj	adj	bu|sup	4	PUTFYLL	_	_
+7	å	å	inf-merke	inf-merke	_	3	DOBJ	_	_
+8	lese	lese	verb	verb	inf	7	INFV	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	2	APP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	skal	skulle	verb	verb	pres	3	KOORD	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+13	vere	vere	verb	verb	inf	11	INFV	_	_
+14	noko	noko	pron	pron	pers|eint|nøyt|3|akk	13	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja kva du les da ?
+# segstart = 1179.258
+# segstop = 1180.278
+# file = fana_uib_03
+# speaker = int
+# id = 184
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kva	kva	pron	pron	sp	4	DOBJ	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+4	les	lese	verb	verb	pres	0	FINV	_	_
+5	da	da	adv	adv	_	4	ADV	_	_
+6	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = nei det e # s- for det meste sånne cowboybøker .
+# segstart = 1180.529
+# segstop = 1184.508
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 185
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	6	SLETT	_	_
+3	e	e	nol	nol	_	6	FYLL	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	s-	s-	ufullst	ufullst	_	6	FYLL	_	_
+6	for	for	prep	prep	_	1	ADV	_	_
+7	det	det	det	det	dem|eint|nøyt	8	DET	_	_
+8	meste	mykje	adj	adj	bu|sup	6	PUTFYLL	_	_
+9	sånne	sånn	det	det	dem|fl	10	DET	_	_
+10	cowboybøker	cowboybok	subst	subst	appell|ub|fl|fem|samset	1	ADV	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nå er det jo e # mange som seier at # desse fjorten femten sekstenåringane dei er heilt sånn oppslukte av popmusikk # er det sånn med dykk òg ?
+# segstart = 1215.464
+# segstop = 1225.88
+# file = fana_uib_03
+# speaker = int
+# id = 186
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	mange	mang ein	det	det	kvant|fl	2	PSUBJ	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	seier	seie	verb	verb	pres	7	ATR	_	_
+10	at	at	sbu	sbu	_	17	SBU	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	desse	desse	det	det	dem|fl	15	DET	_	_
+13	fjorten	fjorten	det	det	kvant|fl	15	DET	_	_
+14	femten	femten	det	det	kvant|fl	15	DET	_	_
+15	sekstenåringane	sekstenåring	subst	subst	appell|fl|mask|bu	16	APP	_	_
+16	dei	dei	pron	pron	pers|fl|3|nom|hum	17	SUBJ	_	_
+17	er	vere	verb	verb	pres	9	DOBJ	_	_
+18	heilt	heil	adj	adj	eint|nøyt|ub|pos	20	ADV	_	_
+19	sånn	sånn	det	det	dem|eint|fem	20	DET	_	_
+20	oppslukte	oppslukt	adj	adj	fl|pos	17	SPRED	_	_
+21	av	av	prep	prep	_	20	ADV	_	_
+22	popmusikk	popmusikk	subst	subst	appell|eint|mask|ub	21	PUTFYLL	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	er	vere	verb	verb	pres	2	KOORD	_	_
+25	det	det	pron	pron	pers|eint|nøyt|3	24	FSUBJ	_	_
+26	sånn	sånn	adv	adv	_	24	SPRED	_	_
+27	med	med	prep	prep	_	24	ADV	_	_
+28	dykk	de	pron	pron	pers|fl|2|akk|hum	27	PUTFYLL	_	_
+29	òg	òg	adv	adv	_	24	ADV	_	_
+30	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = .
+# segstart = 1226.36
+# segstop = 1227.489
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 187
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja med meg er det .
+# segstart = 1227.029
+# segstop = 1229.014
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 188
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	med	med	prep	prep	_	4	ADV	_	_
+3	meg	eg	pron	pron	pers|eint|1|akk|hum	2	PUTFYLL	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = nja får nå seie det sånn .
+# segstart = 1229.012
+# segstop = 1230.546
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 189
+1	nja	nja	interj	interj	_	2	INTERJ	_	_
+2	får	få	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	4	ADV	_	_
+4	seie	seie	verb	verb	inf	2	INFV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+6	sånn	sånn	adv	adv	_	4	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = eg går på noko kvar dag så eg har ikkje så # god tid .
+# segstart = 1231.075
+# segstop = 1234.108
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 190
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	går	gå	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	noko	noko	pron	pron	pers|eint|nøyt|3|akk	3	PUTFYLL	_	_
+5	kvar	kvar	det	det	kvant|eint|mask	6	DET	_	_
+6	dag	dag	subst	subst	appell|eint|mask|ub	2	ADV	_	_
+7	så	så	adv	adv	_	9	ADV	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+9	har	ha	verb	verb	pres	2	ADV	_	_
+10	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+11	så	så	adv	adv	_	13	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	god	god	adj	adj	eint|m/f|ub|pos	14	ATR	_	_
+14	tid	tid	subst	subst	appell|eint|fem|ub	9	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = uff det kunne eg aldri tenkt meg .
+# segstart = 1235.801
+# segstop = 1237.545
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 191
+1	uff	uff	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+5	aldri	aldri	adv	adv	_	6	ADV	_	_
+6	tenkt	tenke	verb	verb	perf-part	3	INFV	_	_
+7	meg	eg	pron	pron	pers|eint|1|akk|hum	6	IOBJ	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = kva det er slags musikk de likar da ?
+# segstart = 1239.836
+# segstop = 1241.553
+# file = fana_uib_03
+# speaker = int
+# id = 192
+1	kva	kva	det	det	sp	5	DET	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	slags	slags	subst	subst	appell|mask	5	DET	_	_
+5	musikk	musikk	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+7	likar	like	verb	verb	pres	5	ATR	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = # hm .
+# segstart = 1243.537
+# segstop = 1245.247
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 193
+1	#	#	pause	pause	_	2	IK	_	_
+2	hm	hm	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = .
+# segstart = 1244.637
+# segstop = 1246.294
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 194
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = det spørst .
+# segstart = 1249.966
+# segstop = 1251.173
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 195
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	spørst	spørjast	verb	verb	pres	0	FINV	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = folkemusikkhalvtimen ?
+# segstart = 1253.184
+# segstop = 1254.589
+# file = fana_uib_03
+# speaker = int
+# id = 196
+1	folkemusikkhalvtimen	folkemusikkhalvtime	subst	subst	appell|eint|bu|mask|samset	0	FRAG	_	_
+2	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei da .
+# segstart = 1254.968
+# segstop = 1255.788
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 197
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei er du gal .
+# segstart = 1255.578
+# segstop = 1256.778
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 198
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	gal	gal	subst	subst	appell|eint|nøyt|ub	2	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja eg kan ikkje vite det de må prate litt om e # kor det er da .
+# segstart = 1260.379
+# segstop = 1265.22
+# file = fana_uib_03
+# speaker = int
+# id = 199
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	kan	kunne	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+5	vite	vite	verb	verb	inf	3	INFV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	DOBJ	_	_
+7	de	de	pron	pron	pers|fl|2|nom|hum	8	SUBJ	_	_
+8	må	måtte	verb	verb	pres	3	KOORD	_	_
+9	prate	prate	verb	verb	inf	8	INFV	_	_
+10	litt	litt	adj	adj	eint|nøyt|ub|pos	9	ADV	_	_
+11	om	om	prep	prep	_	9	ADV	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	kor	kor	adv	adv	_	16	ADV	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	16	SUBJ	_	_
+16	er	vere	verb	verb	pres	11	PUTFYLL	_	_
+17	da	da	adv	adv	_	9	ADV	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e ja .
+# segstart = 1262.87
+# segstop = 1264.06
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 200
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei det er ## ja kva skal vi seie .
+# segstart = 1265.824
+# segstop = 1272.135
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 201
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	7	INTERJ	_	_
+6	kva	kva	pron	pron	sp	9	DOBJ	_	_
+7	skal	skulle	verb	verb	pres	3	KOORD	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+9	seie	seie	verb	verb	inf	7	INFV	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = er nå sånn e .
+# segstart = 1275.35
+# segstop = 1276.853
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 202
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	nå	nå	adv	adv	_	1	ADV	_	_
+3	sånn	sånn	adv	adv	_	1	ADV	_	_
+4	e	e	nol	nol	_	1	FYLL	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = popmusikk .
+# segstart = 1277.539
+# segstop = 1278.56
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 203
+1	popmusikk	popmusikk	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e ja pop # der seier du det .
+# segstart = 1278.449
+# segstop = 1282.74
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 204
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	6	INTERJ	_	_
+3	pop	pop	subst	subst	appell|eint|mask|ub	6	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	der	der	prep	prep	_	6	ADV	_	_
+6	seier	seie	verb	verb	pres	0	FINV	_	_
+7	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = .
+# segstart = 1279.727
+# segstop = 1280.637
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 205
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = nå må ikkje du begynne å le .
+# segstart = 1284.065
+# segstop = 1285.259
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 206
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	må	måtte	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+5	begynne	begynne	verb	verb	inf	2	INFV	_	_
+6	å	å	inf-merke	inf-merke	_	5	DOBJ	_	_
+7	le	le	verb	verb	inf	6	INFV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = det er mange typar pop e # er det .
+# segstart = 1289.803
+# segstop = 1293.637
+# file = fana_uib_03
+# speaker = int
+# id = 207
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	mange	mang ein	det	det	kvant|fl	4	DET	_	_
+4	typar	type	subst	subst	appell|fl|mask|ub	5	DET	_	_
+5	pop	pop	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	er	vere	verb	verb	pres	2	KOORD	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 1291.857
+# segstop = 1292.717
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 208
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = er det ABBA de likar eller er det # hardrock ?
+# segstart = 1296.025
+# segstop = 1300.23
+# file = fana_uib_03
+# speaker = int
+# id = 209
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	ABBA	ABBA	subst	subst	prop	1	SPRED	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	5	SUBJ	_	_
+5	likar	like	verb	verb	pres	3	ATR	_	_
+6	eller	eller	konj	konj	_	7	KONJ	_	_
+7	er	vere	verb	verb	pres	1	KOORD	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	hardrock	hardrock	subst	subst	appell|eint|ub|mask|samset	7	SPRED	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ikkje helsike .
+# segstart = 1297.68
+# segstop = 1298.9
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 210
+1	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+2	helsike	helsike	subst	subst	appell	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei det dåkk- … .
+# segstart = 1298.59
+# segstop = 1299.606
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 211
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	ADV	_	_
+3	dåkk-	dåkk-	ufullst	ufullst	_	1	FYLL	_	_
+4	…	…	ellipsis	ellipsis	_	1	IK	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = Dr Hook og # Smokie og # alle sånne grupper .
+# segstart = 1300.236
+# segstop = 1304.9
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 212
+1	Dr	Dr	subst	subst	prop	2	APP	_	_
+2	Hook	Hook	subst	subst	prop	0	FRAG	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	Smokie	Smokie	subst	subst	prop	2	KOORD	_	_
+6	og	og	konj	konj	_	10	KONJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	alle	all	det	det	kvant|fl	10	DET	_	_
+9	sånne	sånn	det	det	dem|fl	10	DET	_	_
+10	grupper	gruppe	subst	subst	appell|fl|fem|ub	2	KOORD	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = Boney M e .
+# segstart = 1304.869
+# segstop = 1305.997
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 213
+1	Boney	Boney	subst	subst	prop	0	FRAG	_	_
+2	M	M	subst	subst	prop	1	FLAT	_	_
+3	e	e	nol	nol	_	1	FYLL	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 1306.323
+# segstop = 1307.103
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 214
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja kva meir er det ?
+# segstart = 1308.041
+# segstop = 1311.541
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 215
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kva	kva	det	det	sp	3	DET	_	_
+3	meir	mykje	adj	adj	comp	4	SPRED	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+6	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = # Gasolin .
+# segstart = 1308.041
+# segstop = 1311.541
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 216
+1	#	#	pause	pause	_	2	IK	_	_
+2	Gasolin	Gasolin	subst	subst	prop	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja kva meir er det ?
+# segstart = 1308.041
+# segstop = 1311.541
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 215
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kva	kva	det	det	sp	3	DET	_	_
+3	meir	mykje	adj	adj	comp	4	SPRED	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+6	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = # Gasolin .
+# segstart = 1308.041
+# segstop = 1311.541
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 216
+1	#	#	pause	pause	_	2	IK	_	_
+2	Gasolin	Gasolin	subst	subst	prop	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er noko meir du som har greie på det der ?
+# segstart = 1325.398
+# segstop = 1327.393
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 217
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	noko	nokon	det	det	kvant|eint|nøyt	3	DET	_	_
+3	meir	mykje	adj	adj	comp	1	SPRED	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	1	ADV	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	har	have	verb	verb	pres	4	ATR	_	_
+7	greie	greie	verb	verb	inf	6	INFV	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	PUTFYLL	_	_
+10	der	der	prep	prep	_	9	ATR	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = # nei .
+# segstart = 1327.253
+# segstop = 1330.237
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 218
+1	#	#	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og så er det ei gruppe til # men den er # ikkje lengre nå # # den er bra .
+# segstart = 1341.101
+# segstop = 1349.311
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 219
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	ei	ein	det	det	kvant|eint|fem	6	DET	_	_
+6	gruppe	gruppe	subst	subst	appell|eint|fem|ub	3	SPRED	_	_
+7	til	til	prep	prep	_	6	ATR	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	men	men	konj	konj	_	11	KONJ	_	_
+10	den	den	pron	pron	pers|eint|f/m|3|nom	11	SUBJ	_	_
+11	er	vere	verb	verb	pres	3	KOORD	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	ikkje	ikkje	adv	adv	_	11	ADV	_	_
+14	lengre	lenge	adj	adj	comp	11	SPRED	_	_
+15	nå	nå	adv	adv	_	11	ADV	_	_
+16	#	#	pause	pause	_	18	IK	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	den	den	pron	pron	pers|eint|f/m|3|nom	19	SUBJ	_	_
+19	er	vere	verb	verb	pres	3	KOORD	_	_
+20	bra	bra	adj	adj	eint|m/f|ub|pos	19	SPRED	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = rettare sagt « var » .
+# segstart = 1358.278
+# segstop = 1359.599
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 220
+1	rettare	rett	adj	adj	comp	2	ADV	_	_
+2	sagt	seie	verb	verb	perf-part	0	FINV	_	_
+3	«	«	anf	anf	_	4	IK	_	_
+4	var	vere	verb	verb	pret	2	ADV	_	_
+5	»	»	anf	anf	_	4	IK	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og så « Electric Light Orchestra » ## og så kva meir er det det .
+# segstart = 1367.668
+# segstop = 1372.227
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 221
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	«	«	anf	anf	_	4	IK	_	_
+4	Electric	Electric	subst	subst	prop	13	ADV	_	_
+5	Light	Light	subst	subst	prop	4	FLAT	_	_
+6	Orchestra	Orchestra	subst	subst	prop	4	FLAT	_	_
+7	»	»	anf	anf	_	4	IK	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	og	og	konj	konj	_	13	KONJ	_	_
+10	så	så	adv	adv	_	13	ADV	_	_
+11	kva	kva	det	det	sp	12	DET	_	_
+12	meir	mykje	adj	adj	comp	13	ADV	_	_
+13	er	vere	verb	verb	pres	0	FINV	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	13	SUBJ	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	13	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# text = e ja .
+# segstart = 1381.129
+# segstop = 1382.207
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 222
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja sånn som andre unge så likar de vel veldig godt jazz ?
+# segstart = 1393.821
+# segstop = 1397.277
+# file = fana_uib_03
+# speaker = int
+# id = 223
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	sånn	sånn	adv	adv	_	3	ADV	_	_
+3	som	som	prep	prep	_	6	APP	_	_
+4	andre	annan	det	det	dem|eint|bu|pos	5	DET	_	_
+5	unge	unge	subst	subst	appell|eint|mask|ub	3	PUTFYLL	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	likar	like	verb	verb	pres	0	FINV	_	_
+8	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+9	vel	vel	adv	adv	_	7	ADV	_	_
+10	veldig	veldig	adj	adj	eint|nøyt|ub|pos	11	ADV	_	_
+11	godt	godt	adv	adv	_	7	ADV	_	_
+12	jazz	jazz	subst	subst	appell|eint|mask|ub	7	DOBJ	_	_
+13	?	$?	clb	clb	<spm>	7	IP	_	_
+
+# text = ja kvart fall .
+# segstart = 1397.343
+# segstop = 1399.689
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 224
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	kvart	kvar	det	det	kvant|eint|nøyt	3	DET	_	_
+3	fall	fall	subst	subst	appell|fl|nøyt|ub	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei # det likar nå ikkje eg .
+# segstart = 1397.877
+# segstop = 1401.185
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 225
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+4	likar	like	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = kvifor ikkje det da ?
+# segstart = 1402.244
+# segstop = 1403.441
+# file = fana_uib_03
+# speaker = int
+# id = 226
+1	kvifor	kvifor	adv	adv	_	0	FRAG	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+4	da	da	adv	adv	_	1	ADV	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei eg veit ikkje # eg likar det berre ikkje .
+# segstart = 1404.205
+# segstop = 1407.556
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 227
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+7	likar	like	verb	verb	pres	3	KOORD	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	7	DOBJ	_	_
+9	berre	berre	adv	adv	_	7	ADV	_	_
+10	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = veit ikkje .
+# segstart = 1405.049
+# segstop = 1406.517
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 228
+1	veit	vite	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = sit dei der inne og høyrer på oss dei nå ?
+# segstart = 1416.278
+# segstop = 1418.402
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 229
+1	sit	sitte	verb	verb	pres	0	FINV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	SUBJ	_	_
+3	der	der	prep	prep	_	1	ADV	_	_
+4	inne	inne	prep	prep	_	3	PUTFYLL	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	høyrer	høyre	verb	verb	pres	1	KOORD	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	oss	vi	pron	pron	pers|fl|1|akk|hum	7	PUTFYLL	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	2	APP	_	_
+10	nå	nå	adv	adv	_	6	ADV	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = flott .
+# segstart = 1419.96
+# segstop = 1420.893
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 230
+1	flott	flott	adj	adj	eint|nøyt|ub|pos	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = gjer dei ?
+# segstart = 1422.021
+# segstop = 1422.671
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 231
+1	gjer	gjere	verb	verb	pres	0	FINV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	SUBJ	_	_
+3	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nå lyg dei .
+# segstart = 1422.701
+# segstop = 1425.841
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 232
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	lyg	lyge	verb	verb	pres	0	FINV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei vel # flott altså .
+# segstart = 1428.459
+# segstop = 1431.301
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 233
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	flott	flott	adj	adj	eint|nøyt|ub|pos	1	ADV	_	_
+5	altså	altså	adv	adv	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = de har jo nemnt e ei rekke utanlandske grupper # som de likar # men det finst vel e eit eller anna her i landet òg som er brukbart her er ikkje det det da ?
+# segstart = 1444.3
+# segstop = 1454.185
+# file = fana_uib_03
+# speaker = int
+# id = 234
+1	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	4	ADV	_	_
+4	nemnt	nemne	verb	verb	perf-part	2	INFV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	ei	ein	det	det	kvant|eint|fem	7	DET	_	_
+7	rekke	rekke	subst	subst	appell|eint|fem|ub	9	ATR	_	_
+8	utanlandske	utanlandsk	adj	adj	fl|pos	9	ATR	_	_
+9	grupper	gruppe	subst	subst	appell|fl|fem|ub	4	DOBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	som	som	sbu	sbu	_	13	SBU	_	_
+12	de	de	pron	pron	pers|fl|2|nom|hum	13	SUBJ	_	_
+13	likar	like	verb	verb	pres	9	ATR	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	men	men	konj	konj	_	17	KONJ	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	17	FSUBJ	_	_
+17	finst	finnast	verb	verb	pres	2	KOORD	_	_
+18	vel	vel	adv	adv	_	17	ADV	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	eit	ein	det	det	kvant|eint|nøyt	17	DOBJ	_	_
+21	eller	eller	konj	konj	_	22	KONJ	_	_
+22	anna	annan	det	det	dem|eint|nøyt|ub|pos	20	KOORD	_	_
+23	her	her	prep	prep	_	17	ADV	_	_
+24	i	i	prep	prep	_	17	ADV	_	_
+25	landet	land	subst	subst	appell|eint|nøyt|bu	24	PUTFYLL	_	_
+26	òg	òg	adv	adv	_	17	ADV	_	_
+27	som	som	sbu	sbu	_	28	SBU	_	_
+28	er	vere	verb	verb	pres	20	ADV	_	_
+29	brukbart	brukbar	adj	adj	eint|nøyt|ub|pos	28	SPRED	_	_
+30	her	her	prep	prep	_	17	ADV	_	_
+31	er	vere	verb	verb	pres	2	KOORD	_	_
+32	ikkje	ikkje	adv	adv	_	31	ADV	_	_
+33	det	det	pron	pron	pers|eint|nøyt|3	31	SUBJ	_	_
+34	det	det	pron	pron	pers|eint|nøyt|3	31	SPRED	_	_
+35	da	da	adv	adv	_	31	ADV	_	_
+36	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = jo # vi sjå .
+# segstart = 1454.807
+# segstop = 1457.432
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 235
+1	jo	jo	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	sjå	sjå	verb	verb	inf	0	FINV	_	_
+5	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja # korleis var det .
+# segstart = 1460.272
+# segstop = 1461.742
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 236
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	korleis	korleis	adv	adv	_	4	ADV	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = Allison # dei var her og song for oss skoledans .
+# segstart = 1465.452
+# segstop = 1469.311
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 237
+1	Allison	Allison	subst	subst	prop	3	APP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	her	her	prep	prep	_	4	ADV	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	song	synge	verb	verb	pret	4	KOORD	_	_
+8	for	for	prep	prep	_	7	ADV	_	_
+9	oss	_	pron	pron	_	8	PUTFYLL	_	_
+10	skoledans	skoledans	subst	subst	appell|eint|ub|mask|samset	4	ADV	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = sånt noko .
+# segstart = 1472.307
+# segstop = 1473.329
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 238
+1	sånt	sånn	det	det	dem|eint|nøyt	2	DET	_	_
+2	noko	noko	pron	pron	pers|eint|nøyt|3|akk	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = hm ?
+# segstart = 1473.729
+# segstop = 1474.25
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 239
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja # der sa du noko .
+# segstart = 1474.609
+# segstop = 1476.446
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 240
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	der	der	prep	prep	_	4	ADV	_	_
+4	sa	seie	verb	verb	pret	0	FINV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+6	noko	noko	pron	pron	pers|eint|nøyt|3|akk	4	DOBJ	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = Øystein Sunde han er nå bra .
+# segstart = 1482.335
+# segstop = 1484.087
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 241
+1	Øystein	Øystein	subst	subst	prop	3	APP	_	_
+2	Sunde	Sunde	subst	subst	prop	1	FLAT	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	bra	bra	adj	adj	eint|m/f|ub|pos	4	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = så lenge du ikkje får han i suppa # for da må tygge han .
+# segstart = 1488.061
+# segstop = 1492.105
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 242
+1	så	så	adv	adv	_	2	ADV	_	_
+2	lenge	lenge	adv	adv	pos	5	ADV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+5	får	få	verb	verb	pres	0	FINV	_	_
+6	han	han	pron	pron	pers|eint|mask|3|nom	5	DOBJ	_	_
+7	i	i	prep	prep	_	5	ADV	_	_
+8	suppa	suppe	subst	subst	appell|eint|fem|bu	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	for	for	konj	konj	_	12	KONJ	_	_
+11	da	da	adv	adv	_	12	ADV	_	_
+12	må	måtte	verb	verb	pres	5	KOORD	_	_
+13	tygge	tygge	verb	verb	inf	12	INFV	_	_
+14	han	han	pron	pron	pers|eint|mask|3|akk	13	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = .
+# segstart = 1489.73
+# segstop = 1491.161
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 243
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = fælt så stilt det blei her .
+# segstart = 1504.49
+# segstop = 1506.202
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 244
+1	fælt	fæl	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	stilt	stille	adj	adj	eint|nøyt|ub	5	SPRED	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	blei	bli	verb	verb	pret	0	FINV	_	_
+6	her	her	prep	prep	_	5	ADV	_	_
+7	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = er ikkje det noka # gruppe eller person her i bergensorkest- bergensdistriktet da som ## de synest er flinke ?
+# segstart = 1511.949
+# segstop = 1522.191
+# file = fana_uib_03
+# speaker = int
+# id = 245
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+4	noka	nokon	det	det	kvant|eint|fem	6	DET	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	gruppe	gruppe	subst	subst	appell|eint|fem|ub	1	PSUBJ	_	_
+7	eller	eller	konj	konj	_	8	KONJ	_	_
+8	person	person	subst	subst	appell|eint|mask|ub	6	KOORD	_	_
+9	her	her	prep	prep	_	1	ADV	_	_
+10	i	i	prep	prep	_	9	PUTFYLL	_	_
+11	bergensorkest-	bergensorkest-	ufullst	ufullst	_	12	FYLL	_	_
+12	bergensdistriktet	bergensdistrikt	subst	subst	appell|eint|bu|nøyt|samset	10	PUTFYLL	_	_
+13	da	da	adv	adv	_	1	ADV	_	_
+14	som	som	sbu	sbu	_	17	SBU	_	_
+15	##	##	pause	pause	_	16	IK	_	_
+16	de	de	pron	pron	pers|fl|2|nom|hum	17	SUBJ	_	_
+17	synest	synast	verb	verb	pres	6	ATR	_	_
+18	er	vere	verb	verb	pres	17	DOBJ	_	_
+19	flinke	flink	adj	adj	eint|bu|pos	18	SPRED	_	_
+20	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja sei det .
+# segstart = 1525.594
+# segstop = 1526.714
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 246
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	sei	seie	verb	verb	imp	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = .
+# segstart = 1525.884
+# segstop = 1526.984
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 247
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = nei veit ikkje .
+# segstart = 1528.264
+# segstop = 1529.514
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 248
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	veit	vite	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = Bergeners og Brødrene Thue og sånn har ikkje de høyrt om dei ?
+# segstart = 1528.314
+# segstop = 1531.495
+# file = fana_uib_03
+# speaker = int
+# id = 249
+1	Bergeners	Bergeners	subst	subst	prop	12	APP	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	Brødrene	Brødrene	subst	subst	prop	1	KOORD	_	_
+4	Thue	Thue	subst	subst	prop	3	FLAT	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	sånn	sånn	adv	adv	_	7	ADV	_	_
+7	har	ha	verb	verb	pres	0	FINV	_	_
+8	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+9	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+10	høyrt	høyre	verb	verb	perf-part	7	INFV	_	_
+11	om	om	prep	prep	_	10	ADV	_	_
+12	dei	dei	pron	pron	pers|fl|3|akk|hum	11	PUTFYLL	_	_
+13	?	$?	clb	clb	<spm>	7	IP	_	_
+
+# text = e jo .
+# segstart = 1531.543
+# segstop = 1532.612
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 250
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jo	jo	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = Brødrene Thue dei er jo gode .
+# segstart = 1532.896
+# segstop = 1535.584
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 251
+1	Brødrene	Brødrene	subst	subst	prop	3	APP	_	_
+2	Thue	Thue	subst	subst	prop	1	FLAT	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	gode	god	adj	adj	fl|pos	4	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = e ja ## men det kan ein ikkje seie om Bergeners .
+# segstart = 1534.846
+# segstop = 1539.171
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 252
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	6	INTERJ	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	men	men	konj	konj	_	6	KONJ	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	9	DOBJ	_	_
+6	kan	kunne	verb	verb	pres	0	FINV	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	6	SUBJ	_	_
+8	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+9	seie	seie	verb	verb	inf	6	INFV	_	_
+10	om	om	prep	prep	_	9	ADV	_	_
+11	Bergeners	Bergeners	subst	subst	prop	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = ja kva som er gale med dei da ?
+# segstart = 1542.743
+# segstop = 1544.273
+# file = fana_uib_03
+# speaker = int
+# id = 253
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kva	kva	pron	pron	sp	4	SUBJ	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	gale	gale	adj	adj	eint|nøyt|ub	4	SPRED	_	_
+6	med	med	prep	prep	_	5	ADV	_	_
+7	dei	dei	pron	pron	pers|fl|3|akk|hum	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	4	ADV	_	_
+9	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = nei e # sånn derre folkemusikk .
+# segstart = 1545.005
+# segstop = 1548.406
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 254
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	sånn	sånn	det	det	dem|eint|mask	6	DET	_	_
+5	derre	derre	adv	adv	_	4	ADV	_	_
+6	folkemusikk	folkemusikk	subst	subst	appell|eint|mask|ub	1	ADV	_	_
+7	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = visesong da er det ?
+# segstart = 1571.134
+# segstop = 1572.953
+# file = fana_uib_03
+# speaker = int
+# id = 255
+1	visesong	visesong	subst	subst	appell|eint|mask|ub	4	APP	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = kva # sa du ?
+# segstart = 1574.303
+# segstop = 1575.413
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 256
+1	kva	kva	pron	pron	sp	3	DOBJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	sa	seie	verb	verb	pret	0	FINV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+5	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = visesong er det # noko å høyre på ?
+# segstart = 1575.437
+# segstop = 1577.95
+# file = fana_uib_03
+# speaker = int
+# id = 257
+1	visesong	visesong	subst	subst	appell|eint|mask|ub	3	APP	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	noko	noko	pron	pron	pers|eint|nøyt|3|akk	2	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	5	ATR	_	_
+7	høyre	høyre	verb	verb	inf	6	INFV	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = høyrer min far heile dagen han syng i eitt køyr .
+# segstart = 1578.74
+# segstop = 1582.643
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 258
+1	høyrer	høyre	verb	verb	pres	0	FINV	_	_
+2	min	min	det	det	poss|eint|mask	3	DET	_	_
+3	far	far	subst	subst	appell|eint|mask|ub	1	SUBJ	_	_
+4	heile	heil	adj	adj	eint|bu|pos	5	ATR	_	_
+5	dagen	dag	subst	subst	appell|eint|mask|bu	1	ADV	_	_
+6	han	han	pron	pron	pers|eint|mask|3|nom	7	SUBJ	_	_
+7	syng	synge	verb	verb	pres	1	KOORD	_	_
+8	i	i	prep	prep	_	7	ADV	_	_
+9	eitt	ein	det	det	kvant|eint|nøyt	10	DET	_	_
+10	køyr	køyr	subst	subst	appell|eint|nøyt|ub	8	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 1579.943
+# segstop = 1582.808
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 259
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = stakkars deg .
+# segstart = 1586.46
+# segstop = 1587.693
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 260
+1	stakkars	stakkars	adj	adj	eint|m/f|ub|pos	2	ATR	_	_
+2	deg	du	pron	pron	pers|eint|2|akk|hum	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men eg har mitt- nok med blokkfløyta til min bror .
+# segstart = 1591.932
+# segstop = 1594.425
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 261
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	mitt-	mitt-	ufullst	ufullst	_	5	FYLL	_	_
+5	nok	nok	adv	adv	_	3	ADV	_	_
+6	med	med	prep	prep	_	3	ADV	_	_
+7	blokkfløyta	blokkfløyte	subst	subst	appell|eint|fem|bu	6	PUTFYLL	_	_
+8	til	til	prep	prep	_	7	ATR	_	_
+9	min	min	det	det	poss|eint|mask	10	DET	_	_
+10	bror	bror	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = .
+# segstart = 1594.345
+# segstop = 1596.662
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 262
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = da er det berre til å hente høyrselsvernet og ## forsvinne .
+# segstart = 1597.305
+# segstop = 1601.799
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 263
+1	da	da	adv	adv	_	2	ADV	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	berre	berre	adv	adv	_	2	ADV	_	_
+5	til	til	prep	prep	_	2	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	hente	hente	verb	verb	inf	6	INFV	_	_
+8	høyrselsvernet	høyrselsvern	subst	subst	appell|eint|nøyt|bu	7	DOBJ	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	forsvinne	forsvinne	verb	verb	inf	2	KOORD	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = i radioen så er det jo ## mange såkalla ungdomsprogram .
+# segstart = 1620.922
+# segstop = 1626.865
+# file = fana_uib_03
+# speaker = int
+# id = 264
+1	i	i	prep	prep	_	4	ADV	_	_
+2	radioen	radio	subst	subst	appell|eint|mask|bu	1	PUTFYLL	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	jo	jo	adv	adv	_	4	ADV	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	mange	mang ein	det	det	kvant|fl	10	DET	_	_
+9	såkalla	såkalla	adj	adj	fl|pos	10	ATR	_	_
+10	ungdomsprogram	ungdomsprogram	subst	subst	appell|ub|fl|nøyt|samset	4	PSUBJ	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det kan vere # « Ungdommens radioavis » « Etter skoletid » « Norsktoppen » og fleire .
+# segstart = 1627.375
+# segstop = 1634.444
+# file = fana_uib_03
+# speaker = int
+# id = 265
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	vere	vere	verb	verb	inf	2	INFV	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	«	«	anf	anf	_	7	IK	_	_
+6	Ungdommens	Ungdommens	subst	subst	prop	7	DET	_	_
+7	radioavis	radioavis	subst	subst	appell|eint|ub|fem|samset	3	SPRED	_	_
+8	»	»	anf	anf	_	7	IK	_	_
+9	«	«	anf	anf	_	10	IK	_	_
+10	Etter	Etter	subst	subst	prop	7	KOORD	_	_
+11	skoletid	skoletid	subst	subst	appell|eint|fem|ub	10	FLAT	_	_
+12	»	»	anf	anf	_	10	IK	_	_
+13	«	«	anf	anf	_	14	IK	_	_
+14	Norsktoppen	Norsktoppen	subst	subst	prop	7	KOORD	_	_
+15	»	»	anf	anf	_	14	IK	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	fleire	mange	adj	adj	comp	7	KOORD	_	_
+18	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = kva inntrykk har de av sånne programpostar da ?
+# segstart = 1635.587
+# segstop = 1638.377
+# file = fana_uib_03
+# speaker = int
+# id = 266
+1	kva	kva	det	det	sp	2	DET	_	_
+2	inntrykk	inntrykk	subst	subst	appell|fl|nøyt|ub	3	DOBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+5	av	av	prep	prep	_	3	ADV	_	_
+6	sånne	sånn	det	det	dem|fl	7	DET	_	_
+7	programpostar	programpost	subst	subst	appell|fl|mask|ub	5	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = uff .
+# segstart = 1639.807
+# segstop = 1640.752
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 267
+1	uff	uff	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det er sånt som eg sjeldan høyrer på .
+# segstart = 1643.428
+# segstop = 1645.511
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 268
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	sånt	sånt	pron	pron	pers|eint|nøyt|3|nom	2	SPRED	_	_
+4	som	som	sbu	sbu	_	7	SBU	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+6	sjeldan	sjeldan	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+7	høyrer	høyre	verb	verb	pres	3	ATR	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = eg høyrer på « Etter skoletid » da tar eg opp nokre songar av og til .
+# segstart = 1645.565
+# segstop = 1648.778
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 269
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	høyrer	høyre	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	«	«	anf	anf	_	5	IK	_	_
+5	Etter	Etter	subst	subst	prop	3	PUTFYLL	_	_
+6	skoletid	skoletid	subst	subst	appell|eint|fem|ub	5	FLAT	_	_
+7	»	»	anf	anf	_	5	IK	_	_
+8	da	da	adv	adv	_	9	ADV	_	_
+9	tar	ta	verb	verb	pres	2	KOORD	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+11	opp	opp	prep	prep	_	9	ADV	_	_
+12	nokre	nokon	det	det	kvant|fl	13	DET	_	_
+13	songar	song	subst	subst	appell|fl|mask|ub	9	DOBJ	_	_
+14	av	av	prep	prep	_	9	ADV	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	til	til	prep	prep	_	14	ADV	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei set eg heller på ein god kassett .
+# segstart = 1654.628
+# segstop = 1657.111
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 270
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	set	sette	verb	verb	pres	0	FINV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	heller	heller	adv	adv	_	2	ADV	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	8	DET	_	_
+7	god	god	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+8	kassett	kassett	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja kva synest det om desse ungdomsprogramma da ?
+# segstart = 1665.943
+# segstop = 1668.19
+# file = fana_uib_03
+# speaker = int
+# id = 271
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kva	kva	pron	pron	sp	3	DOBJ	_	_
+3	synest	synast	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	SUBJ	_	_
+5	om	om	prep	prep	_	3	ADV	_	_
+6	desse	desse	det	det	dem|fl	7	DET	_	_
+7	ungdomsprogramma	ungdomsprogram	subst	subst	appell|bu|fl|nøyt|samset	5	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = tek dei for lite opp av sånn som angår dykk eller er det ## brukbart ?
+# segstart = 1668.19
+# segstop = 1674.35
+# file = fana_uib_03
+# speaker = int
+# id = 272
+1	tek	ta	verb	verb	pres	0	FINV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	SUBJ	_	_
+3	for	for	adv	adv	_	4	ADV	_	_
+4	lite	lite	adj	adj	eint|nøyt|ub	1	DOBJ	_	_
+5	opp	opp	prep	prep	_	4	ADV	_	_
+6	av	av	prep	prep	_	1	ADV	_	_
+7	sånn	sånn	adv	adv	_	6	PUTFYLL	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	angår	angå	verb	verb	pres	7	ADV	_	_
+10	dykk	de	pron	pron	pers|fl|2|akk|hum	9	DOBJ	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	er	vere	verb	verb	pres	1	KOORD	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+14	##	##	pause	pause	_	15	IK	_	_
+15	brukbart	brukbar	adj	adj	eint|nøyt|ub|pos	12	SPRED	_	_
+16	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = em .
+# segstart = 1677.209
+# segstop = 1678.962
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 273
+1	em	em	nol	nol	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det spørst kva han .
+# segstart = 1682.605
+# segstop = 1684.902
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 274
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	spørst	spørjast	verb	verb	pres	0	FINV	_	_
+3	kva	kva	pron	pron	sp	4	ATR	_	_
+4	han	han	pron	pron	pers|eint|mask|3|nom	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja dei tar for lite opp # # mykje sånt der # jatt og # preik og så berre tull .
+# segstart = 1692.635
+# segstop = 1699.297
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 275
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	tar	ta	verb	verb	pres	0	FINV	_	_
+4	for	for	adv	adv	_	5	ADV	_	_
+5	lite	lite	adj	adj	eint|nøyt|ub	3	SPRED	_	_
+6	opp	opp	prep	prep	_	3	ADV	_	_
+7	#	#	pause	pause	_	10	IK	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	mykje	mykje	adj	adj	eint|nøyt|ub|pos	10	ADV	_	_
+10	sånt	sånt	det	det	pers|eint|nøyt|3|akk	13	DET	_	_
+11	der	der	adv	adv	_	10	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	jatt	jatt	subst	subst	appell|eint|mask|ub	3	FSPRED	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	preik	preik	subst	subst	appell|fl|nøyt|ub	13	KOORD	_	_
+17	og	og	konj	konj	_	20	KONJ	_	_
+18	så	så	adv	adv	_	20	ADV	_	_
+19	berre	berre	adv	adv	_	20	ATR	_	_
+20	tull	tull	subst	subst	appell|fl|nøyt|ub	13	KOORD	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = .
+# segstart = 1693.967
+# segstop = 1695.277
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 276
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja har vel noko i det .
+# segstart = 1705.737
+# segstop = 1707.281
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 277
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	noko	noko	pron	pron	pers|eint|nøyt|3|akk	2	DOBJ	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja kva ville de ha hatt meir av da ?
+# segstart = 1719.263
+# segstop = 1720.933
+# file = fana_uib_03
+# speaker = int
+# id = 278
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kva	kva	pron	pron	sp	6	DOBJ	_	_
+3	ville	vilje	verb	verb	pret	0	FINV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+5	ha	ha	verb	verb	inf	3	INFV	_	_
+6	hatt	ha	verb	verb	perf-part	5	INFV	_	_
+7	meir	mykje	adj	adj	comp	6	ADV	_	_
+8	av	av	prep	prep	_	6	ADV	_	_
+9	da	da	adv	adv	_	3	ADV	_	_
+10	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja sei det # litt meir musikk # kanskje .
+# segstart = 1722.853
+# segstop = 1727.534
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 279
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	sei	seie	verb	verb	imp	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	meir	mykje	adj	adj	comp	7	ATR	_	_
+7	musikk	musikk	subst	subst	appell|eint|mask|ub	2	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = så lenge det ikkje er jazz # .
+# segstart = 1731.92
+# segstop = 1734.675
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 280
+1	så	så	adv	adv	_	2	ADV	_	_
+2	lenge	lenge	adj	adj	pos	5	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	jazz	jazz	subst	subst	appell|eint|mask|ub	5	SPRED	_	_
+7	#	#	pause	pause	_	5	IK	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja .
+# segstart = 1733.225
+# segstop = 1733.815
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 281
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og opera # det er det verste .
+# segstart = 1734.735
+# segstop = 1737.323
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 282
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	opera	opera	subst	subst	appell|eint|mask|ub	4	APP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	SUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	det	det	det	det	dem|eint|nøyt	7	DET	_	_
+7	verste	verre	adj	adj	bu|sup	5	SPRED	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = og kor .
+# segstart = 1737.687
+# segstop = 1738.977
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 283
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	kor	kor	subst	subst	appell|fl|nøyt|ub	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nå har jo de gått e mange år på skole og gått # i lag på skole òg .
+# segstart = 1769.87
+# segstop = 1774.358
+# file = fana_uib_03
+# speaker = int
+# id = 284
+1	nå	nå	adv	adv	_	5	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	5	ADV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+5	gått	gå	verb	verb	perf-part	2	INFV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	mange	mang ein	det	det	kvant|fl	8	DET	_	_
+8	år	år	subst	subst	appell|fl|nøyt|ub	5	ADV	_	_
+9	på	på	prep	prep	_	5	ADV	_	_
+10	skole	skole	subst	subst	appell|eint|mask|ub	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	gått	gå	verb	verb	perf-part	2	KOORD	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	i	i	prep	prep	_	12	ADV	_	_
+15	lag	lag	subst	subst	appell|eint|nøyt|ub	14	PUTFYLL	_	_
+16	på	på	prep	prep	_	12	ADV	_	_
+17	skole	skole	subst	subst	appell|eint|mask|ub	16	PUTFYLL	_	_
+18	òg	òg	adv	adv	_	12	ADV	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = kva synest de om skolen ?
+# segstart = 1775.777
+# segstop = 1778.55
+# file = fana_uib_03
+# speaker = int
+# id = 285
+1	kva	kva	pron	pron	sp	2	DOBJ	_	_
+2	synest	synast	verb	verb	pres	0	FINV	_	_
+3	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+4	om	om	prep	prep	_	2	ADV	_	_
+5	skolen	skole	subst	subst	appell|eint|mask|bu	4	PUTFYLL	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = # er han kjedeleg ?
+# segstart = 1775.777
+# segstop = 1778.55
+# file = fana_uib_03
+# speaker = int
+# id = 286
+1	#	#	pause	pause	_	2	IK	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+4	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = kva synest de om skolen ?
+# segstart = 1775.777
+# segstop = 1778.55
+# file = fana_uib_03
+# speaker = int
+# id = 285
+1	kva	kva	pron	pron	sp	2	DOBJ	_	_
+2	synest	synast	verb	verb	pres	0	FINV	_	_
+3	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+4	om	om	prep	prep	_	2	ADV	_	_
+5	skolen	skole	subst	subst	appell|eint|mask|bu	4	PUTFYLL	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = # er han kjedeleg ?
+# segstart = 1775.777
+# segstop = 1778.55
+# file = fana_uib_03
+# speaker = int
+# id = 286
+1	#	#	pause	pause	_	2	IK	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+4	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja sei det # # kjedeleg jo .
+# segstart = 1779.276
+# segstop = 1782.722
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 287
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	sei	seie	verb	verb	imp	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	2	ADV	_	_
+7	jo	jo	adv	adv	_	2	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei # eg likar nå skolen .
+# segstart = 1780.396
+# segstop = 1782.652
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 288
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	likar	like	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	skolen	skole	subst	subst	appell|eint|mask|bu	4	DOBJ	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = .
+# segstart = 1783.249
+# segstop = 1784.82
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 289
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = friminuttane er det gøy men # elles så er det nå kjedeleg .
+# segstart = 1784.848
+# segstop = 1788.022
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 290
+1	friminuttane	friminutt	subst	subst	appell|fl|mask|bu	2	ADV	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	gøy	gøy	subst	subst	appell|fl|nøyt|ub	2	SPRED	_	_
+5	men	men	konj	konj	_	9	KONJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	elles	elles	adv	adv	_	9	ADV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	er	vere	verb	verb	pres	2	KOORD	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+11	nå	nå	adv	adv	_	9	ADV	_	_
+12	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	9	SPRED	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = friminuttane # tenk på all den tida # vore heime og sov .
+# segstart = 1788.198
+# segstop = 1792.786
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 291
+1	friminuttane	friminutt	subst	subst	appell|fl|mask|bu	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	tenk	tenke	verb	verb	imp	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	all	all	det	det	kvant|eint|fem	7	DET	_	_
+6	den	den	det	det	dem|eint|fem	7	DET	_	_
+7	tida	tid	subst	subst	appell|eint|fem|bu	4	PUTFYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	vore	vere	verb	verb	perf-part	3	KOORD	_	_
+10	heime	heime	subst	subst	appell|nøyt	9	SPRED	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	sov	sove	verb	verb	pret	9	KOORD	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja kvifor er det så kjedeleg da bergen_uib_3301 ?
+# segstart = 1802.519
+# segstop = 1804.698
+# file = fana_uib_03
+# speaker = int
+# id = 292
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kvifor	kvifor	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	3	SPRED	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	bergen_uib_3301	bergen_uib_3301	subst	subst	prop	3	INTERJ	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = # sei det # nei .
+# segstart = 1804.883
+# segstop = 1809.472
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 293
+1	#	#	pause	pause	_	2	IK	_	_
+2	sei	seie	verb	verb	imp	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	nei	nei	interj	interj	_	2	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = det har vore kjedeleg frå første dagen vi begynte .
+# segstart = 1810.274
+# segstop = 1812.972
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 294
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	vore	vere	verb	verb	perf-part	2	INFV	_	_
+4	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	3	SPRED	_	_
+5	frå	frå	prep	prep	_	3	ADV	_	_
+6	første	første	adj	adj	eint|bu|pos	7	ATR	_	_
+7	dagen	dag	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	9	SUBJ	_	_
+9	begynte	begynne	verb	verb	pret	7	ATR	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er det lærarane sin feil så # var kjedeleg undervisning ?
+# segstart = 1818.497
+# segstop = 1823.26
+# file = fana_uib_03
+# speaker = int
+# id = 295
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	lærarane	lærar	subst	subst	appell|fl|mask|bu	1	SPRED	_	_
+4	sin	sin	det	det	poss|eint|mask	5	DET	_	_
+5	feil	feil	adj	adj	fl|pos	3	ATR	_	_
+6	så	så	adv	adv	_	8	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	var	vere	verb	verb	pret	1	KOORD	_	_
+9	kjedeleg	kjedeleg	adj	adj	eint|m/f|ub|pos	10	ATR	_	_
+10	undervisning	undervisning	subst	subst	appell|eint|fem|ub	8	SPRED	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja kvart fall ho vi har i norsk og # geografi og dette .
+# segstart = 1824.196
+# segstop = 1827.479
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 296
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	kvart	kvar	det	det	kvant|eint|nøyt	3	DET	_	_
+3	fall	fall	subst	subst	appell|eint|nøyt|ub	4	ADV	_	_
+4	ho	ho	pron	pron	pers|eint|fem|3|nom	1	ADV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	har	ha	verb	verb	pres	4	ATR	_	_
+7	i	i	prep	prep	_	6	ADV	_	_
+8	norsk	norsk	subst	subst	appell|eint|mask|ub	7	PUTFYLL	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	geografi	geografi	subst	subst	appell|eint|mask|ub	8	KOORD	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	dette	dette	pron	pron	pers|eint|nøyt|3|akk	8	KOORD	_	_
+14	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 1825.407
+# segstop = 1826.447
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 297
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ho er nå så kjedeleg at # må ein lese heile timen .
+# segstart = 1827.697
+# segstop = 1831.356
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 298
+1	ho	ho	pron	pron	pers|eint|fem|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	kjedeleg	kjedeleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	må	måtte	verb	verb	pres	2	ADV	_	_
+9	ein	ein	pron	pron	pers|eint|nom|hum	8	SUBJ	_	_
+10	lese	lese	verb	verb	inf	8	INFV	_	_
+11	heile	heil	adj	adj	eint|bu|pos	12	ATR	_	_
+12	timen	time	subst	subst	appell|eint|mask|bu	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = viss du ikkje les så sles- # så les vi .
+# segstart = 1832.484
+# segstop = 1835.222
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 299
+1	viss	viss	sbu	sbu	_	4	SBU	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+3	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+4	les	lese	verb	verb	pres	8	APP	_	_
+5	så	så	adv	adv	_	8	REP	_	_
+6	sles-	sles-	ufullst	ufullst	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	les	lese	verb	verb	pres	0	FINV	_	_
+10	vi	vi	pron	pron	pers|fl|1|nom|hum	9	SUBJ	_	_
+11	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = .
+# segstart = 1835.632
+# segstop = 1836.422
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 300
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = det er ikkje kann- til å komme ifrå .
+# segstart = 1836.122
+# segstop = 1837.96
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 301
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	kann-	kann-	ufullst	ufullst	_	5	FYLL	_	_
+5	til	til	prep	prep	_	2	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	komme	komme	verb	verb	inf	6	INFV	_	_
+8	ifrå	ifrå	prep	prep	_	7	ADV	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er det spesielle fag som er verre enn andre ?
+# segstart = 1848.34
+# segstop = 1850.652
+# file = fana_uib_03
+# speaker = int
+# id = 302
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	spesielle	spesiell	adj	adj	fl|pos	4	ATR	_	_
+4	fag	fag	subst	subst	appell|fl|nøyt|ub	1	SPRED	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	er	vere	verb	verb	pres	4	ATR	_	_
+7	verre	verre	adj	adj	comp	6	SPRED	_	_
+8	enn	enn	prep	prep	_	7	ADV	_	_
+9	andre	annan	det	det	dem|fl	8	PUTFYLL	_	_
+10	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = engelsk .
+# segstart = 1851.284
+# segstop = 1852.354
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 303
+1	engelsk	engelsk	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja samfunnsfag # det er verre enn verst .
+# segstart = 1851.305
+# segstop = 1854.5
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 304
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	samfunnsfag	samfunnsfag	subst	subst	appell|eint|nøyt|ub	4	APP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	SUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	verre	verre	adj	adj	comp	5	SPRED	_	_
+7	enn	enn	prep	prep	_	6	ADV	_	_
+8	verst	verre	adj	adj	ub|sup	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = nei da er det heller verre med engelsk .
+# segstart = 1854.657
+# segstop = 1857.157
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 305
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	heller	heller	adv	adv	_	3	ADV	_	_
+6	verre	verre	adj	adj	comp	3	SPRED	_	_
+7	med	med	prep	prep	_	3	ADV	_	_
+8	engelsk	engelsk	subst	subst	appell|eint|mask|ub	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei det er gøy .
+# segstart = 1857.877
+# segstop = 1858.867
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 306
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	gøy	gøy	subst	subst	appell|eint|nøyt|ub	3	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det er jo verkeleg gøy ja ## du er vittig .
+# segstart = 1859.094
+# segstop = 1864.114
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 307
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	verkeleg	verkeleg	adj	adj	eint|nøyt|ub|pos	5	ATR	_	_
+5	gøy	gøy	subst	subst	appell|eint|nøyt|ub	2	SPRED	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+9	er	vere	verb	verb	pres	2	KOORD	_	_
+10	vittig	vittig	adj	adj	eint|m/f|ub|pos	9	SPRED	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = gym er nå gøyast av alle faga .
+# segstart = 1868.617
+# segstop = 1870.723
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 308
+1	gym	gym	subst	subst	appell|eint|mask|ub	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	gøyast	gøy	adj	adj	ub|sup	2	SPRED	_	_
+5	av	av	prep	prep	_	4	ADV	_	_
+6	alle	all	det	det	kvant|fl	7	DET	_	_
+7	faga	fag	subst	subst	appell|fl|nøyt|bu	5	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er gøy så så lenge du slepp å gå på skolen .
+# segstart = 1875.48
+# segstop = 1878.161
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 309
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	gøy	gøy	adj	adj	eint|m/f|ub|pos	1	SPRED	_	_
+3	så	så	adv	adv	_	4	REP	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	lenge	lenge	adv	adv	pos	7	SBU	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+7	slepp	sleppe	verb	verb	pres	1	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
+9	gå	gå	verb	verb	inf	8	INFV	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	skolen	skole	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei gøyast da # ja ## kva skal vi seie det er ?
+# segstart = 1881.565
+# segstop = 1886.774
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 310
+1	nei	nei	interj	interj	_	8	INTERJ	_	_
+2	gøyast	gøy	adj	adj	ub|sup	11	APP	_	_
+3	da	da	adv	adv	_	8	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	8	INTERJ	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	kva	kva	pron	pron	sp	10	DOBJ	_	_
+8	skal	skulle	verb	verb	pres	0	FINV	_	_
+9	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+10	seie	seie	verb	verb	inf	8	INFV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	SUBJ	_	_
+12	er	vere	verb	verb	pres	10	OPRED	_	_
+13	?	$?	clb	clb	<spm>	8	IP	_	_
+
+# text = det er nå E2 sine timar .
+# segstart = 1888.195
+# segstop = 1891.029
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 311
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	E2	E2	subst	subst	prop	6	ATR	_	_
+5	sine	sin	det	det	poss|fl	4	DET	_	_
+6	timar	time	subst	subst	appell|fl|mask|ub	2	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja kva meiner de skulle til for at e # det skulle bli litt artigare å gå på skolen da ?
+# segstart = 1914.718
+# segstop = 1919.998
+# file = fana_uib_03
+# speaker = int
+# id = 312
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kva	kva	pron	pron	sp	5	DOBJ	_	_
+3	meiner	meine	verb	verb	pres	0	FINV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+5	skulle	skulle	verb	verb	pret	3	DOBJ	_	_
+6	til	til	prep	prep	_	5	ADV	_	_
+7	for	for	prep	prep	_	8	ADV	_	_
+8	at	at	sbu	sbu	_	12	SBU	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	skulle	skulle	verb	verb	pret	5	ADV	_	_
+13	bli	bli	verb	verb	inf	12	INFV	_	_
+14	litt	litt	adj	adj	eint|nøyt|ub|pos	15	ADV	_	_
+15	artigare	artig	adj	adj	comp	13	SPRED	_	_
+16	å	å	inf-merke	inf-merke	_	13	PSUBJ	_	_
+17	gå	gå	verb	verb	inf	16	INFV	_	_
+18	på	på	prep	prep	_	17	ADV	_	_
+19	skolen	skole	subst	subst	appell|eint|mask|bu	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	3	ADV	_	_
+21	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = .
+# segstart = 1921.402
+# segstop = 1922.317
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 313
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = lengre friminutt .
+# segstart = 1922.827
+# segstop = 1924.607
+# file = fana_uib_03
+# speaker = fana_uib_0302
+# id = 314
+1	lengre	lang	adj	adj	comp	2	ATR	_	_
+2	friminutt	friminutt	subst	subst	appell|eint|nøyt|ub	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = .
+# segstart = 1923.787
+# segstop = 1924.477
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 315
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = nei heller gå tidlegare heim .
+# segstart = 1925.675
+# segstop = 1927.503
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 316
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	heller	heller	adv	adv	_	3	ADV	_	_
+3	gå	gå	verb	verb	inf	0	FINV	_	_
+4	tidlegare	tidleg	adj	adj	comp	3	ADV	_	_
+5	heim	heim	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = men det er jo den tid # sida av saka .
+# segstart = 1938.871
+# segstop = 1942.885
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 317
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	den	den	det	det	dem|eint|fem	8	DET	_	_
+6	tid	tid	subst	subst	appell|eint|fem|ub	8	REP	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	sida	side	subst	subst	appell|eint|fem|bu	3	SPRED	_	_
+9	av	av	prep	prep	_	8	ATR	_	_
+10	saka	sak	subst	subst	appell|eint|fem|bu	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = vel da e stansar vi der og e # seier oss ferdige i denne omgangen .
+# segstart = 1947.327
+# segstop = 1953.493
+# file = fana_uib_03
+# speaker = int
+# id = 318
+1	vel	vel	adv	adv	_	4	ADV	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	stansar	stanse	verb	verb	pres	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	der	der	prep	prep	_	4	ADV	_	_
+7	og	og	konj	konj	_	10	KONJ	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	seier	seie	verb	verb	pres	4	KOORD	_	_
+11	oss	me	pron	pron	pers|fl|1|akk|hum	10	DOBJ	_	_
+12	ferdige	ferdig	adj	adj	fl|pos	10	ADV	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	denne	denne	det	det	dem|eint|mask	15	DET	_	_
+15	omgangen	omgang	subst	subst	appell|eint|mask|bu	13	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = e ja ja .
+# segstart = 1953.828
+# segstop = 1954.758
+# file = fana_uib_03
+# speaker = fana_uib_0301
+# id = 319
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+

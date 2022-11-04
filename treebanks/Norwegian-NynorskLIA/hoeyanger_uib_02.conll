@@ -1,0 +1,2720 @@
+# text = vel ## altså i Villabyen # der e .
+# segstart = 0.77
+# segstop = 4.268
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 1
+1	vel	vel	adv	adv	_	4	ADV	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	altså	altså	adv	adv	_	4	ADV	_	_
+4	i	i	prep	prep	_	0	FRAG	_	_
+5	Villabyen	Villabyen	subst	subst	prop	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	der	der	prep	prep	_	4	ADV	_	_
+8	e	e	nol	nol	_	4	FYLL	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = bygde verket altså det vil seie det var Norsk Aluminium Kompani Høyanger .
+# segstart = 4.452
+# segstop = 8.48
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 2
+1	bygde	bygge	verb	verb	pret	0	FINV	_	_
+2	verket	verk	subst	subst	appell|eint|nøyt|bu	1	DOBJ	_	_
+3	altså	altså	adv	adv	_	5	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	vil	vilje	verb	verb	pres	1	KOORD	_	_
+6	seie	seie	verb	verb	inf	5	INFV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	var	vere	verb	verb	pret	6	DOBJ	_	_
+9	Norsk	Norsk	subst	subst	prop	8	SPRED	_	_
+10	Aluminium	Aluminium	subst	subst	prop	9	FLAT	_	_
+11	Kompani	Kompani	subst	subst	prop	9	FLAT	_	_
+12	Høyanger	Høyanger	subst	subst	prop	9	FLAT	_	_
+13	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = i si tid # Høyang .
+# segstart = 9.28
+# segstop = 11.975
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 3
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	si	sin	det	det	poss|eint|fem	3	DET	_	_
+3	tid	tid	subst	subst	appell|eint|fem|ub	1	PUTFYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	Høyang	Høyang	subst	subst	prop	3	ATR	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så kom det da e funksjonærar da frå oslokontoret .
+# segstart = 13.039
+# segstop = 16.976
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 4
+1	så	så	adv	adv	_	2	ADV	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	funksjonærar	funksjonær	subst	subst	appell|fl|mask|ub	2	PSUBJ	_	_
+7	da	da	adv	adv	_	2	ADV	_	_
+8	frå	frå	prep	prep	_	2	ADV	_	_
+9	oslokontoret	oslokontor	subst	subst	appell|eint|bu|nøyt|samset	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og elles e # e funksjonærar til e # NACo .
+# segstart = 17.168
+# segstop = 24.424
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 5
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	elles	elles	adv	adv	_	6	ADV	_	_
+3	e	e	nol	nol	_	6	FYLL	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	funksjonærar	funksjonær	subst	subst	appell|fl|mask|ub	0	FRAG	_	_
+7	til	til	prep	prep	_	6	ATR	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	NACo	NACo	subst	subst	prop	7	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = så # for at dei skulle trivast # så tok dei og bygde eineboligar .
+# segstart = 24.872
+# segstop = 29.211
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 6
+1	så	så	konj	konj	_	10	KONJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	for	for	prep	prep	_	4	ADV	_	_
+4	at	at	sbu	sbu	_	6	SBU	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	6	SUBJ	_	_
+6	skulle	skulle	verb	verb	pret	9	APP	_	_
+7	trivast	trivast	verb	verb	inf	6	INFV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	tok	ta	verb	verb	pret	0	FINV	_	_
+11	dei	dei	pron	pron	pers|fl|3|nom|hum	10	SUBJ	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	bygde	bygge	verb	verb	pret	10	KOORD	_	_
+14	eineboligar	einebolig	subst	subst	appell|eint|ub|mask	13	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+# text = og e da # plasserte alle dei tilreisande .
+# segstart = 29.457
+# segstop = 33.432
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 7
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	da	da	adv	adv	_	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	plasserte	plassere	verb	verb	pret	0	FINV	_	_
+6	alle	all	det	det	kvant|fl	8	DET	_	_
+7	dei	dei	det	det	dem|fl	8	DET	_	_
+8	tilreisande	tilreisande	subst	subst	appell|mask	5	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = e funksjonærane da # der ute i Villabyen .
+# segstart = 33.744
+# segstop = 36.63
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 8
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	funksjonærane	funksjonær	subst	subst	appell|fl|mask|bu	0	FRAG	_	_
+3	da	da	adv	adv	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	der	der	prep	prep	_	2	ATR	_	_
+6	ute	ute	prep	prep	_	5	PUTFYLL	_	_
+7	i	i	prep	prep	_	6	PUTFYLL	_	_
+8	Villabyen	Villabyen	subst	subst	prop	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og e det var for det meste folk .
+# segstart = 37.648
+# segstop = 41.384
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 9
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	for	for	prep	prep	_	8	ATR	_	_
+6	det	det	det	det	dem|eint|nøyt	7	DET	_	_
+7	meste	mykje	adj	adj	bu|sup	5	ADV	_	_
+8	folk	folk	subst	subst	appell|fl|nøyt|ub	4	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = frå Sørlandet Austlandet og # ein del # frå # Trøndelag .
+# segstart = 42.0
+# segstop = 48.11
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 10
+1	frå	frå	prep	prep	_	0	FRAG	_	_
+2	Sørlandet	Sørlandet	subst	subst	prop	3	REP	_	_
+3	Austlandet	Austlandet	subst	subst	prop	1	PUTFYLL	_	_
+4	og	og	konj	konj	_	7	KONJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+7	del	del	subst	subst	appell|eint|mask|ub	3	KOORD	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	frå	frå	prep	prep	_	7	ATR	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	Trøndelag	Trøndelag	subst	subst	prop	9	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og det heile .
+# segstart = 48.87
+# segstop = 49.815
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 11
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	det	det	dem|eint|nøyt	3	DET	_	_
+3	heile	heil	adj	adj	eint|bu|pos	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og em # mange barn fekk dei e kvar einaste familie .
+# segstart = 50.141
+# segstop = 55.118
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 12
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	em	em	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	mange	mange	adj	adj	fl|pos	5	ATR	_	_
+5	barn	barn	subst	subst	appell|fl|nøyt|ub	6	DOBJ	_	_
+6	fekk	få	verb	verb	pret	0	FINV	_	_
+7	dei	dei	pron	pron	pers|fl|3|nom|hum	6	SUBJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	kvar	kvar	det	det	kvant|eint|mask	11	DET	_	_
+10	einaste	einaste	det	det	kvant|bu	11	DET	_	_
+11	familie	familie	subst	subst	appell|eint|mask|ub	7	APP	_	_
+12	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = så der ute i Villabyen da .
+# segstart = 56.158
+# segstop = 58.502
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 13
+1	så	så	adv	adv	_	2	ADV	_	_
+2	der	der	prep	prep	_	0	FRAG	_	_
+3	ute	ute	prep	prep	_	2	PUTFYLL	_	_
+4	i	i	prep	prep	_	3	PUTFYLL	_	_
+5	Villabyen	Villabyen	subst	subst	prop	4	PUTFYLL	_	_
+6	da	da	adv	adv	_	2	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = liksom vi e # vi voks opp .
+# segstart = 58.622
+# segstop = 61.192
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 14
+1	liksom	liksom	adv	adv	_	6	ADV	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	5	REP	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	voks	vekse	verb	verb	pret	0	FINV	_	_
+7	opp	opp	prep	prep	_	6	ADV	_	_
+8	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = vi var jo ein fem ## i vår # familie .
+# segstart = 61.422
+# segstop = 66.445
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 15
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	ein	ein	det	det	kvant|eint|mask	5	DET	_	_
+5	fem	fem	det	det	kvant|fl	2	SPRED	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	i	i	prep	prep	_	2	ADV	_	_
+8	vår	vår	det	det	poss|eint|mask	10	DET	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	familie	familie	subst	subst	appell|eint|mask|ub	7	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og dei hadde ein fem seks barn .
+# segstart = 67.078
+# segstop = 69.462
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 16
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	hadde	ha	verb	verb	pret	0	FINV	_	_
+4	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+5	fem	fem	det	det	kvant|fl	7	DET	_	_
+6	seks	seks	det	det	kvant|fl	7	DET	_	_
+7	barn	barn	subst	subst	appell|fl|nøyt|ub	3	DOBJ	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = så og seie # alle # der ute .
+# segstart = 69.662
+# segstop = 72.26
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 17
+1	så	så	adv	adv	inf	5	ADV	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	seie	seie	verb	verb	inf	1	KOORD	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	alle	alle	pron	pron	pers|fl|3|nom	0	FRAG	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	der	der	prep	prep	_	5	ADV	_	_
+8	ute	ute	prep	prep	_	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = og em i og med det at foreldra # hadde .
+# segstart = 73.122
+# segstop = 77.361
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 18
+1	og	og	konj	konj	_	4	REP	_	_
+2	em	em	nol	nol	_	3	FYLL	_	_
+3	i	i	prep	prep	_	0	FRAG	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	med	med	prep	prep	_	3	KOORD	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	PUTFYLL	_	_
+7	at	at	sbu	sbu	_	10	SBU	_	_
+8	foreldra	forelder	subst	subst	appell|fl|mask|bu	10	SUBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	hadde	ha	verb	verb	pret	6	APP	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = dialekten og barna hadde jo foreldras dialekt .
+# segstart = 77.511
+# segstop = 81.09
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 19
+1	dialekten	dialekt	subst	subst	appell|eint|mask|bu	4	ADV	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	barna	barn	subst	subst	appell|fl|nøyt|bu	4	SUBJ	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	foreldras	forleder	subst	subst	appell|bu|fl|mask	7	DET	_	_
+7	dialekt	dialekt	subst	subst	appell|eint|fem|ub	4	DOBJ	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = når barna kom ut i gata # så hadde dei faktisk .
+# segstart = 81.338
+# segstop = 85.418
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 20
+1	når	når	sbu	sbu	_	3	SBU	_	_
+2	barna	barn	subst	subst	appell|fl|nøyt|bu	3	SUBJ	_	_
+3	kom	komme	verb	verb	pret	8	APP	_	_
+4	ut	ut	prep	prep	_	3	ADV	_	_
+5	i	i	prep	prep	_	3	ADV	_	_
+6	gata	gate	subst	subst	appell|eint|fem|bu	5	PUTFYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	hadde	ha	verb	verb	pret	0	FINV	_	_
+10	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+11	faktisk	faktisk	adj	adj	eint|nøyt|ub|pos	9	ADV	_	_
+12	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = den same dialekten som foreldra .
+# segstart = 85.522
+# segstop = 87.784
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 21
+1	den	den	det	det	dem|eint|mask	3	DET	_	_
+2	same	same	det	det	dem|bu	3	DET	_	_
+3	dialekten	dialekt	subst	subst	appell|eint|mask|bu	0	FRAG	_	_
+4	som	som	prep	prep	_	3	ATR	_	_
+5	foreldra	forelder	subst	subst	appell|fl|mask|bu	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og dermed så bevarte dei da # den dialekten på grunn av at .
+# segstart = 87.954
+# segstop = 92.654
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 22
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	dermed	dermed	adv	adv	_	4	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	bevarte	bevare	verb	verb	pret	0	FINV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	den	den	det	det	dem|eint|fem	9	DET	_	_
+9	dialekten	dialekt	subst	subst	appell|eint|mask|bu	4	DOBJ	_	_
+10	på	på	prep	prep	_	4	ADV	_	_
+11	grunn	grunn	subst	subst	appell|eint|mask|ub	10	PUTFYLL	_	_
+12	av	av	prep	prep	_	11	ATR	_	_
+13	at	at	sbu	sbu	_	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det viktigaste var jo det at e skolen her hadde e bokmål .
+# segstart = 92.968
+# segstop = 98.712
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 23
+1	det	det	det	det	dem|eint|nøyt	2	DET	_	_
+2	viktigaste	viktig	adj	adj	bu|sup	3	SUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+6	at	at	sbu	sbu	_	10	SBU	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	skolen	skole	subst	subst	appell|eint|mask|bu	10	SUBJ	_	_
+9	her	her	prep	prep	_	8	ATR	_	_
+10	hadde	ha	verb	verb	pret	5	APP	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	bokmål	bokmål	subst	subst	appell|eint|nøyt|ub	10	DOBJ	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og dermed så lærte vi altså bokmål # på skolen altså det vil seie det hadde vi jo frå # frå foreldra .
+# segstart = 100.66
+# segstop = 108.695
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 24
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	dermed	dermed	adv	adv	_	4	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	lærte	lære	verb	verb	pret	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	altså	altså	adv	adv	_	4	ADV	_	_
+7	bokmål	bokmål	subst	subst	appell|eint|nøyt|ub	4	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	på	på	prep	prep	_	4	ADV	_	_
+10	skolen	skole	subst	subst	appell|eint|mask|bu	9	PUTFYLL	_	_
+11	altså	altså	adv	adv	_	4	ADV	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	13	SUBJ	_	_
+13	vil	vilje	verb	verb	pres	4	KOORD	_	_
+14	seie	seie	verb	verb	inf	13	INFV	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	16	DOBJ	_	_
+16	hadde	ha	verb	verb	pret	14	DOBJ	_	_
+17	vi	vi	pron	pron	pers|fl|1|nom|hum	16	SUBJ	_	_
+18	jo	jo	adv	adv	_	16	ADV	_	_
+19	frå	frå	prep	prep	_	21	REP	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	frå	frå	prep	prep	_	16	ADV	_	_
+22	foreldra	forelder	subst	subst	appell|fl|mask|bu	21	PUTFYLL	_	_
+23	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og em # men e .
+# segstart = 109.705
+# segstop = 112.705
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 25
+1	og	og	konj	konj	_	0	FRAG	_	_
+2	em	em	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	men	men	konj	konj	_	1	KONJ	_	_
+5	e	e	nol	nol	_	1	FYLL	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = derfor bevarte vi da # den dialekten som e # vi har .
+# segstart = 112.916
+# segstop = 117.14
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 26
+1	derfor	derfor	adv	adv	_	2	ADV	_	_
+2	bevarte	bevare	verb	verb	pret	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	den	den	det	det	dem|eint|fem	7	DET	_	_
+7	dialekten	dialekt	subst	subst	appell|eint|mask|bu	2	DOBJ	_	_
+8	som	som	sbu	sbu	_	12	SBU	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	vi	vi	pron	pron	pers|fl|1|nom|hum	12	SUBJ	_	_
+12	har	ha	verb	verb	pres	7	ATR	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og e fleire utav dei som er oppvaksne # i Villabyen .
+# segstart = 117.477
+# segstop = 123.217
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 27
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	fleire	mange	adj	adj	comp	0	FRAG	_	_
+4	utav	utav	prep	prep	_	3	ADV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	4	PUTFYLL	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	er	vere	verb	verb	pres	5	ATR	_	_
+8	oppvaksne	oppvaksen	adj	adj	fl|pos	7	INFV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	i	i	prep	prep	_	7	ADV	_	_
+11	Villabyen	Villabyen	subst	subst	prop	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = dei har # den e same # dialekten .
+# segstart = 123.417
+# segstop = 126.993
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 28
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	den	den	det	det	dem|eint|fem	8	DET	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	same	same	det	det	dem|bu	8	DET	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	dialekten	dialekt	subst	subst	appell|eint|mask|bu	2	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = avslipt litt blanding # e viss vi kjem austanfor da og dei skal forsøke å plassere oss # kor vi er frå .
+# segstart = 127.88
+# segstop = 135.676
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 29
+1	avslipt	avslipe	adj	adj	eint|nøyt|ub	3	ATR	_	_
+2	litt	litt	adj	adj	eint|m/f|ub|pos	3	ATR	_	_
+3	blanding	blanding	subst	subst	appell|eint|fem|ub	8	SLETT	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	viss	viss	sbu	sbu	_	8	SBU	_	_
+7	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+8	kjem	komme	verb	verb	pres	0	FINV	_	_
+9	austanfor	austanfor	prep	prep	_	8	ADV	_	_
+10	da	da	adv	adv	_	8	ADV	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	dei	dei	pron	pron	pers|fl|3|nom|hum	13	SUBJ	_	_
+13	skal	skulle	verb	verb	pres	8	KOORD	_	_
+14	forsøke	forsøke	verb	verb	inf	13	INFV	_	_
+15	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
+16	plassere	plassere	verb	verb	inf	15	INFV	_	_
+17	oss	vi	pron	pron	pers|fl|1|akk|hum	16	DOBJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	kor	kor	adv	adv	_	21	ADV	_	_
+20	vi	vi	pron	pron	pers|fl|1|nom|hum	21	SUBJ	_	_
+21	er	vere	verb	verb	pres	16	ADV	_	_
+22	frå	frå	prep	prep	_	21	ADV	_	_
+23	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = det er veldig vanskeleg .
+# segstart = 136.317
+# segstop = 137.43
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 30
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	veldig	veldig	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+4	vanskeleg	vanskeleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men em dei høyrer at det er det er det er noko møring det .
+# segstart = 138.23
+# segstop = 142.29
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 31
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	em	em	nol	nol	_	3	FYLL	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	høyrer	høyre	verb	verb	pres	0	FINV	_	_
+5	at	at	sbu	sbu	_	11	SBU	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	11	REP	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	er	vere	verb	verb	pres	11	REP	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+11	er	vere	verb	verb	pres	4	DOBJ	_	_
+12	noko	nokon	det	det	kvant|eint|nøyt	13	DET	_	_
+13	møring	møring	subst	subst	appell|eint|mask|ub	11	SPRED	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	10	APP	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = den r-en den den ligg da # på tunga .
+# segstart = 142.29
+# segstop = 145.557
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 32
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	DET	_	_
+2	r-en	r	subst	subst	appell|eint|mask|bu	4	APP	_	_
+3	den	den	pron	pron	pers|eint|f/m|3|nom	4	REP	_	_
+4	den	den	pron	pron	pers|eint|f/m|3|nom	5	SUBJ	_	_
+5	ligg	ligge	verb	verb	pres	0	FINV	_	_
+6	da	da	adv	adv	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	på	på	prep	prep	_	5	ADV	_	_
+9	tunga	tunge	subst	subst	appell|eint|fem|bu	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = og em # og tar oss da # som møringar .
+# segstart = 146.054
+# segstop = 151.33
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 33
+1	og	og	konj	konj	_	4	REP	_	_
+2	em	em	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	tar	ta	verb	verb	pres	0	FINV	_	_
+6	oss	vi	pron	pron	pers|fl|1|akk|hum	5	DOBJ	_	_
+7	da	da	adv	adv	_	5	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	som	som	prep	prep	_	5	ADV	_	_
+10	møringar	møring	subst	subst	appell|fl|mask|ub	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = men når vi seier vi er frå Sogn # da protesterer dei .
+# segstart = 151.84
+# segstop = 155.316
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 34
+1	men	men	konj	konj	_	11	KONJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	seier	seie	verb	verb	pres	10	APP	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	4	DOBJ	_	_
+7	frå	frå	prep	prep	_	6	SPRED	_	_
+8	Sogn	Sogn	subst	subst	prop	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	da	da	adv	adv	_	11	ADV	_	_
+11	protesterer	protestere	verb	verb	pres	0	FINV	_	_
+12	dei	dei	pron	pron	pers|fl|3|nom|hum	11	SUBJ	_	_
+13	.	$.	clb	clb	<punkt>	11	IP	_	_
+
+# text = og e # dei fleste # som da # oppvaksne da i .
+# segstart = 156.62
+# segstop = 164.366
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 35
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	dei	dei	det	det	dem|fl	5	DET	_	_
+5	fleste	mange	adj	adj	bu|sup	0	FRAG	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	som	som	sbu	sbu	_	10	ADV	_	_
+8	da	da	adv	adv	_	10	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	oppvaksne	oppvaksen	adj	adj	fl|pos	5	ADV	_	_
+11	da	da	adv	adv	_	10	ADV	_	_
+12	i	i	prep	prep	_	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = i Villabyen .
+# segstart = 164.92
+# segstop = 166.045
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 36
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	Villabyen	Villabyen	subst	subst	prop	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = dei er reiste # frå staden her dei .
+# segstart = 166.46
+# segstop = 169.48
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 37
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	reiste	reise	adj	adj	fl	2	INFV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	frå	frå	prep	prep	_	3	ADV	_	_
+6	staden	stad	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+7	her	her	prep	prep	_	6	ATR	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	1	APP	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = dei e gjekk på skolar # og e # kom ikkje heim .
+# segstart = 169.82
+# segstop = 174.99
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 38
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	gjekk	gå	verb	verb	pret	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	skolar	skole	subst	subst	appell|fl|mask|ub	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	og	og	konj	konj	_	10	KONJ	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	kom	komme	verb	verb	pret	3	KOORD	_	_
+11	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+12	heim	heim	prep	prep	_	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = dei # utdanna seg til forskjellige yrke og hamna overalt i heile landet .
+# segstart = 175.07
+# segstop = 182.696
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 39
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	utdanna	utdanne	verb	verb	pret	0	FINV	_	_
+4	seg	seg	pron	pron	refl|eint/fl|akk	3	DOBJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	forskjellige	forskjellig	adj	adj	fl|pos	7	ATR	_	_
+7	yrke	yrke	subst	subst	appell|fl|nøyt|ub	5	PUTFYLL	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	hamna	hamne	verb	verb	pret	3	KOORD	_	_
+10	overalt	overalt	adv	adv	_	9	ADV	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	heile	heil	adj	adj	eint|bu|pos	13	ATR	_	_
+13	landet	land	subst	subst	appell|eint|nøyt|bu	11	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og men dei kjem igjen # e så er veldig artig .
+# segstart = 183.392
+# segstop = 189.249
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 40
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	kjem	komme	verb	verb	pres	0	FINV	_	_
+5	igjen	igjen	adv	adv	_	4	ADV	_	_
+6	#	#	pause	pause	_	8	IK	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	er	vere	verb	verb	pres	4	KOORD	_	_
+10	veldig	veldig	adj	adj	eint|nøyt|ub|pos	11	ADV	_	_
+11	artig	artig	adj	adj	eint|nøyt|ub|pos	9	SPRED	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og det legg jo eg merke til at dei liksom # har e fått # ein annan dialekt igjen .
+# segstart = 189.397
+# segstop = 195.651
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 41
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	7	PUTFYLL	_	_
+3	legg	legge	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+6	merke	merke	verb	verb	inf	3	DOBJ	_	_
+7	til	til	prep	prep	_	6	ATR	_	_
+8	at	at	sbu	sbu	_	12	SBU	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+10	liksom	liksom	adv	adv	_	12	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	har	ha	verb	verb	pres	2	APP	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	fått	få	verb	verb	perf-part	12	INFV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	ein	ein	det	det	kvant|eint|mask	18	DET	_	_
+17	annan	annan	det	det	dem|eint|mask|ub|pos	18	DET	_	_
+18	dialekt	dialekt	subst	subst	appell|eint|mask|ub	14	DOBJ	_	_
+19	igjen	igjen	adv	adv	_	14	ADV	_	_
+20	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e avhengig kor e kor dei da # har slått seg ned hen .
+# segstart = 196.528
+# segstop = 200.401
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 42
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	avhengig	avhengig	adj	adj	eint|nøyt|ub|pos	9	SLETT	_	_
+3	kor	kor	adv	adv	_	5	REP	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	kor	kor	adv	adv	_	10	ADV	_	_
+6	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+7	da	da	adv	adv	_	10	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	har	ha	verb	verb	pres	0	FINV	_	_
+10	slått	slå	verb	verb	perf-part	9	INFV	_	_
+11	seg	seg	pron	pron	refl|eint/fl|akk	10	DOBJ	_	_
+12	ned	ned	prep	prep	_	10	ADV	_	_
+13	hen	hen	prep	prep	_	5	ADV	_	_
+14	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = mhm .
+# segstart = 200.089
+# segstop = 201.113
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 43
+1	mhm	mhm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = for mitt vedkommande så .
+# segstart = 201.33
+# segstop = 202.994
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 44
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	mitt	min	det	det	poss|eint|nøyt	3	DET	_	_
+3	vedkommande	vedkommande	subst	subst	appell|eint|nøyt|ub	1	PUTFYLL	_	_
+4	så	så	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så har eg vore # mykje i militæret eg har mi utdanning i militæret .
+# segstart = 203.988
+# segstop = 208.044
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 45
+1	så	så	adv	adv	_	2	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	vore	vere	verb	verb	perf-part	2	INFV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	mykje	mykje	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+7	i	i	prep	prep	_	4	SPRED	_	_
+8	militæret	militær	subst	subst	appell|eint|nøyt|bu	7	PUTFYLL	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+10	har	ha	verb	verb	pres	2	KOORD	_	_
+11	mi	min	det	det	poss|eint|fem	12	DET	_	_
+12	utdanning	utdanning	subst	subst	appell|eint|fem|ub	10	DOBJ	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	militæret	militær	subst	subst	appell|eint|nøyt|bu	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og e vore mykje saman med austlendingar og vore mykje på Lademoen og # Jessheim og .
+# segstart = 208.692
+# segstop = 214.076
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 46
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	vore	vere	verb	verb	perf-part	0	FINV	_	_
+4	mykje	mykje	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+5	saman	saman	adv	adv	_	4	ADV	_	_
+6	med	med	prep	prep	_	5	ADV	_	_
+7	austlendingar	austlending	subst	subst	appell|fl|mask|ub	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	vore	vere	verb	verb	perf-part	3	KOORD	_	_
+10	mykje	mykje	adj	adj	eint|nøyt|ub|pos	11	ADV	_	_
+11	på	på	prep	prep	_	9	SPRED	_	_
+12	Lademoen	Lademoen	subst	subst	prop	11	PUTFYLL	_	_
+13	og	og	konj	konj	_	15	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	Jessheim	Jessheim	subst	subst	prop	12	KOORD	_	_
+16	og	og	konj	konj	_	9	KONJ	_	_
+17	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og em og nedpå kontoret .
+# segstart = 214.715
+# segstop = 217.972
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 47
+1	og	og	konj	konj	_	3	REP	_	_
+2	em	em	nol	nol	_	3	FYLL	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	nedpå	nedpå	prep	prep	_	0	FRAG	_	_
+5	kontoret	kontor	subst	subst	appell|eint|nøyt|bu	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = har berre vore austlending så å seie .
+# segstart = 218.124
+# segstop = 220.572
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 48
+1	har	ha	verb	verb	pres	0	FINV	_	_
+2	berre	berre	adv	adv	_	3	ADV	_	_
+3	vore	vere	verb	verb	perf-part	1	INFV	_	_
+4	austlending	austlending	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+5	så	så	adv	adv	_	3	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	5	ADV	_	_
+7	seie	seie	verb	verb	inf	6	INFV	_	_
+8	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e der n- # vi er ein .
+# segstart = 221.118
+# segstop = 225.381
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 49
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	der	der	prep	prep	_	6	ADV	_	_
+3	n-	n-	ufullst	ufullst	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	ein	ein	det	det	kvant|eint|mask	6	SPRED	_	_
+8	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = tretten fjorten stykke nede på kontoret .
+# segstart = 226.052
+# segstop = 228.9
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 50
+1	tretten	tretten	det	det	kvant|fl	3	DET	_	_
+2	fjorten	fjorten	det	det	kvant|fl	3	DET	_	_
+3	stykke	stykke	subst	subst	appell|fl|nøyt|ub	0	FRAG	_	_
+4	nede	nede	prep	prep	_	3	ADV	_	_
+5	på	på	prep	prep	_	4	PUTFYLL	_	_
+6	kontoret	kontor	subst	subst	appell|eint|nøyt|bu	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og så å seie berre hatt forbindelse med austlendingar .
+# segstart = 229.628
+# segstop = 233.54
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 51
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	så	så	adv	adv	_	6	ADV	_	_
+3	å	å	inf-merke	inf-merke	_	2	ADV	_	_
+4	seie	seie	verb	verb	inf	3	INFV	_	_
+5	berre	berre	adv	adv	_	6	ADV	_	_
+6	hatt	ha	verb	verb	perf-part	0	FINV	_	_
+7	forbindelse	forbindelse	subst	subst	appell|eint|mask|ub	6	DOBJ	_	_
+8	med	med	prep	prep	_	6	ADV	_	_
+9	austlendingar	austlending	subst	subst	appell|fl|mask|ub	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = og i min oppvekst da så har eg altså vore saman med barn frå austlendingar og så # mine arbeidskollegaer da .
+# segstart = 234.356
+# segstop = 242.779
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 52
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	i	i	prep	prep	_	7	ADV	_	_
+3	min	min	det	det	poss|eint|mask	4	DET	_	_
+4	oppvekst	oppvekst	subst	subst	appell|eint|mask|ub	2	PUTFYLL	_	_
+5	da	da	adv	adv	_	7	ADV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	har	ha	verb	verb	pres	0	FINV	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+9	altså	altså	adv	adv	_	10	ADV	_	_
+10	vore	vere	verb	verb	perf-part	7	INFV	_	_
+11	saman	saman	adv	adv	_	12	ADV	_	_
+12	med	med	prep	prep	_	10	SPRED	_	_
+13	barn	barn	subst	subst	appell|fl|nøyt|ub	12	PUTFYLL	_	_
+14	frå	frå	prep	prep	_	13	ATR	_	_
+15	austlendingar	austlending	subst	subst	appell|fl|mask|ub	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	20	KONJ	_	_
+17	så	så	adv	adv	_	20	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	mine	min	det	det	poss|fl	20	DET	_	_
+20	arbeidskollegaer	arbeidskollega	subst	subst	appell|ub|fl|mask|samset	15	KOORD	_	_
+21	da	da	adv	adv	_	10	ADV	_	_
+22	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = har vore da # ein god del ## austanfor og .
+# segstart = 243.079
+# segstop = 249.236
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 53
+1	har	ha	verb	verb	pres	0	FINV	_	_
+2	vore	vere	verb	verb	perf-part	1	INFV	_	_
+3	da	da	adv	adv	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+6	god	god	adj	adj	eint|m/f|ub|pos	7	ATR	_	_
+7	del	del	subst	subst	appell|eint|mask|ub	2	ADV	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	austanfor	austanfor	prep	prep	_	2	SPRED	_	_
+10	og	og	konj	konj	_	1	KONJ	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = min sjef # og min far # var også .
+# segstart = 249.756
+# segstop = 254.364
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 54
+1	min	min	det	det	poss|eint|mask	2	DET	_	_
+2	sjef	sjef	subst	subst	appell|eint|mask|ub	8	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	min	min	det	det	poss|eint|mask	6	DET	_	_
+6	far	far	subst	subst	appell|eint|mask|ub	2	KOORD	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	var	va	verb	verb	pres	0	FINV	_	_
+9	også	også	adv	adv	_	8	ADV	_	_
+10	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = på same kontor og dei # var # austanfrå .
+# segstart = 254.631
+# segstop = 259.764
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 55
+1	på	på	prep	prep	_	7	ADV	_	_
+2	same	same	det	det	dem|bu	3	DET	_	_
+3	kontor	kontor	subst	subst	appell|eint|nøyt|ub	1	PUTFYLL	_	_
+4	og	og	konj	konj	_	7	KONJ	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	7	SUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	austanfrå	austanfrå	prep	prep	_	7	SPRED	_	_
+10	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = mhm .
+# segstart = 261.11
+# segstop = 261.817
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 56
+1	mhm	mhm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så e .
+# segstart = 262.04
+# segstop = 263.41
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 57
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så det er veldig artig det er jo # det er da berre ein to tre igjen # her i Høyanger .
+# segstart = 264.555
+# segstop = 270.818
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 58
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	veldig	veldig	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+5	artig	artig	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	11	REP	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+11	er	vere	verb	verb	pres	3	KOORD	_	_
+12	da	da	adv	adv	_	11	ADV	_	_
+13	berre	berre	adv	adv	_	11	ADV	_	_
+14	ein	ein	det	det	kvant|eint|mask	16	DET	_	_
+15	to	to	det	det	kvant|fl	16	DET	_	_
+16	tre	tre	det	det	kvant|fl	11	SPRED	_	_
+17	igjen	igjen	adv	adv	_	11	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	her	her	prep	prep	_	11	ADV	_	_
+20	i	i	prep	prep	_	19	PUTFYLL	_	_
+21	Høyanger	Høyanger	subst	subst	prop	20	PUTFYLL	_	_
+22	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = som er oppvaksne uti Villabyen # elles så .
+# segstart = 271.498
+# segstop = 275.641
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 59
+1	som	som	sbu	sbu	_	2	SBU	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	oppvaksne	oppvaksen	adj	adj	fl|pos	2	SPRED	_	_
+4	uti	uti	prep	prep	_	2	ADV	_	_
+5	Villabyen	Villabyen	subst	subst	prop	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	elles	elles	adv	adv	_	2	ADV	_	_
+8	så	så	adv	adv	_	2	ADV	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er dei reiste # alle # fleire er # legar og fleire er direktørar og .
+# segstart = 276.18
+# segstop = 282.594
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 60
+1	er	vere	verb	verb	pres	8	REP	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	SUBJ	_	_
+3	reiste	reise	verb	verb	pret	1	INFV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	alle	alle	pron	pron	pers|fl|3|nom	7	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	fleire	mange	adj	adj	comp	8	SUBJ	_	_
+8	er	vere	verb	verb	pres	0	FINV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	legar	lege	subst	subst	appell|fl|mask|ub	8	SPRED	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	fleire	mange	adj	adj	comp	13	SUBJ	_	_
+13	er	vere	verb	verb	pres	8	KOORD	_	_
+14	direktørar	direktør	subst	subst	appell|fl|mask|ub	13	SPRED	_	_
+15	og	og	konj	konj	_	8	KONJ	_	_
+16	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = og eine med det andre så .
+# segstart = 282.742
+# segstop = 284.992
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 61
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	eine	eine	det	det	kvant|eint|bu	0	FRAG	_	_
+3	med	med	prep	prep	_	2	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	PUTFYLL	_	_
+5	andre	annan	det	det	dem|eint|bu|pos	4	DET	_	_
+6	så	så	adv	adv	_	2	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = dei har e .
+# segstart = 285.893
+# segstop = 287.042
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 62
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	e	e	nol	nol	_	2	FYLL	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = det var i den tida # foreldra hennar var veldig gunstig # e økonomisk sett kor dei da .
+# segstart = 287.592
+# segstop = 295.288
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 63
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	i	i	prep	prep	_	2	SPRED	_	_
+4	den	den	det	det	dem|eint|fem	5	DET	_	_
+5	tida	tid	subst	subst	appell|eint|fem|bu	3	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	foreldra	forelder	subst	subst	appell|fl|mask|bu	9	SUBJ	_	_
+8	hennar	hennar	det	det	poss|fl	7	DET	_	_
+9	var	vere	verb	verb	pret	5	ATR	_	_
+10	veldig	veldig	adj	adj	eint|nøyt|ub|pos	11	ADV	_	_
+11	gunstig	gunstig	adj	adj	eint|nøyt|ub|pos	9	SPRED	_	_
+12	#	#	pause	pause	_	14	IK	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	økonomisk	økonomisk	adj	adj	eint|nøyt|ub|pos	15	ADV	_	_
+15	sett	sjå	adj	adj	eint|nøyt|ub	9	ADV	_	_
+16	kor	kor	sbu	sbu	_	17	SBU	_	_
+17	dei	dei	pron	pron	pers|fl|3|nom|hum	9	ADV	_	_
+18	da	da	adv	adv	_	17	ADV	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = hm .
+# segstart = 295.23
+# segstop = 296.096
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 64
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kosta på barna deira skolar og # utdanning og det heile .
+# segstart = 295.823
+# segstop = 300.181
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 65
+1	kosta	koste	verb	verb	pret	0	FINV	_	_
+2	på	på	prep	prep	_	1	ADV	_	_
+3	barna	barn	subst	subst	appell|fl|nøyt|bu	2	PUTFYLL	_	_
+4	deira	deira	det	det	poss|fl	3	DET	_	_
+5	skolar	skole	subst	subst	appell|fl|mask|ub	1	DOBJ	_	_
+6	og	og	konj	konj	_	8	KONJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	utdanning	utdanning	subst	subst	appell|ub|eint|fem	5	KOORD	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	det	det	det	det	dem|eint|nøyt	11	DET	_	_
+11	heile	heil	adj	adj	eint|bu|pos	5	KOORD	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kor e .
+# segstart = 301.109
+# segstop = 302.455
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 66
+1	kor	kor	adv	adv	_	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var veldig # vanskeleg den tida .
+# segstart = 302.954
+# segstop = 305.544
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 67
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	veldig	veldig	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	vanskeleg	vanskeleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+6	den	den	det	det	dem|eint|fem	7	DET	_	_
+7	tida	tid	subst	subst	appell|eint|fem|bu	2	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = hm .
+# segstart = 305.044
+# segstop = 305.884
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 68
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så vi e vi blanda oss ikkje noko så mykje med sjølve .
+# segstart = 307.46
+# segstop = 311.206
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 69
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	4	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+5	blanda	blande	verb	verb	pret	0	FINV	_	_
+6	oss	vi	pron	pron	pers|fl|1|akk|hum	5	DOBJ	_	_
+7	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+8	noko	noko	pron	pron	pers|eint|nøyt|3|akk	5	ADV	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	mykje	mykje	adj	adj	eint|nøyt|ub|pos	8	ATR	_	_
+11	med	med	prep	prep	_	5	ADV	_	_
+12	sjølve	sjølv	det	det	eint|bu|pos|forst	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = e ungdommen her borte # i Høyanger på grunn av at .
+# segstart = 311.219
+# segstop = 315.89
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 70
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ungdommen	ungdom	subst	subst	appell|eint|mask|bu	0	FRAG	_	_
+3	her	her	prep	prep	_	2	ATR	_	_
+4	borte	borte	prep	prep	_	3	PUTFYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	i	i	prep	prep	_	3	PUTFYLL	_	_
+7	Høyanger	Høyanger	subst	subst	prop	6	PUTFYLL	_	_
+8	på	på	prep	prep	_	2	ADV	_	_
+9	grunn	grunn	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+10	av	av	prep	prep	_	9	ATR	_	_
+11	at	at	sbu	sbu	_	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = vi hadde eit visst samfunn der ute .
+# segstart = 316.132
+# segstop = 318.53
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 71
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret	0	FINV	_	_
+3	eit	ein	det	det	kvant|eint|nøyt	5	DET	_	_
+4	visst	viss	adj	adj	eint|nøyt|ub|pos	5	ATR	_	_
+5	samfunn	samfunn	subst	subst	appell|eint|nøyt|ub	2	DOBJ	_	_
+6	der	der	prep	prep	_	2	ADV	_	_
+7	ute	ute	prep	prep	_	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e men selvfølgelig # når vi kom opp i e .
+# segstart = 319.378
+# segstop = 323.623
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 72
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	men	men	konj	konj	_	7	KONJ	_	_
+3	selvfølgelig	selvfølgelig	adv	adv	_	7	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+7	kom	komme	verb	verb	pret	0	FINV	_	_
+8	opp	opp	prep	prep	_	7	ADV	_	_
+9	i	i	prep	prep	_	7	ADV	_	_
+10	e	e	nol	nol	_	7	FYLL	_	_
+11	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = i tretten fjortenårsalderen så .
+# segstart = 324.114
+# segstop = 326.611
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 73
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	tretten	tretten	det	det	kvant|fl	3	DET	_	_
+3	fjortenårsalderen	fjortenårsalder	subst	subst	appell|eint|bu|mask|samset	1	PUTFYLL	_	_
+4	så	så	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så e # blei vi meir .
+# segstart = 328.264
+# segstop = 331.498
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 74
+1	så	så	adv	adv	_	4	ADV	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	blei	bli	verb	verb	pret	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	meir	mykje	adj	adj	comp	4	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = e kjente med e .
+# segstart = 333.394
+# segstop = 335.586
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 75
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	kjente	kjenne	verb	verb	pret	0	FINV	_	_
+3	med	med	prep	prep	_	2	ADV	_	_
+4	e	e	nol	nol	_	2	FYLL	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ungdommen her borti Høyanger i forbindelse med vi kom isaman i idrettsforeiningene og sånt .
+# segstart = 336.53
+# segstop = 341.882
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 76
+1	ungdommen	ungdom	subst	subst	appell|eint|mask|bu	8	APP	_	_
+2	her	her	prep	prep	_	1	ATR	_	_
+3	borti	borti	prep	prep	_	2	PUTFYLL	_	_
+4	Høyanger	Høyanger	subst	subst	prop	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	9	SLETT	_	_
+6	forbindelse	forbindelse	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+7	med	med	prep	prep	_	6	ATR	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	9	SUBJ	_	_
+9	kom	komme	verb	verb	pret	0	FINV	_	_
+10	isaman	isaman	adj	adj	fl|ub|pos	9	ADV	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	idrettsforeiningene	idrettsforeining	subst	subst	appell|fl|fem|bu	11	PUTFYLL	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	sånt	sånt	det	det	pers|eint|nøyt|3|akk	12	KOORD	_	_
+15	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = og det var jo to idrettsforeiningar her det var e .
+# segstart = 342.25
+# segstop = 344.858
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 77
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	to	to	det	det	kvant|fl	6	DET	_	_
+6	idrettsforeiningar	idrettsforeining	subst	subst	appell|fl|fem|ub	3	PSUBJ	_	_
+7	her	her	prep	prep	_	3	ADV	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	var	vere	verb	verb	pret	3	KOORD	_	_
+10	e	e	nol	nol	_	3	FYLL	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = Høyanger idrettsforeining HIF og så var det ei # idrettsforeining e som heitte Falken .
+# segstart = 345.034
+# segstop = 350.428
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 78
+1	Høyanger	Høyanger	subst	subst	prop	6	ADV	_	_
+2	idrettsforeining	idrettsforeining	subst	subst	appell|eint|fem|ub	1	FLAT	_	_
+3	HIF	HIF	subst	subst	prop	1	APP	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	ei	ein	det	det	kvant|eint|fem	10	DET	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	idrettsforeining	idrettsforeining	subst	subst	appell|eint|fem|ub	6	SPRED	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	som	som	sbu	sbu	_	13	SBU	_	_
+13	heitte	heite	verb	verb	pret	10	ATR	_	_
+14	Falken	Falken	subst	subst	prop	13	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = hm .
+# segstart = 350.196
+# segstop = 351.226
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 79
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og det var jo veldig kamp # mellom dei to .
+# segstart = 350.785
+# segstop = 354.004
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 80
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	veldig	veldig	adj	adj	eint|m/f|ub|pos	6	ATR	_	_
+6	kamp	kamp	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	mellom	mellom	prep	prep	_	3	ADV	_	_
+9	dei	dei	det	det	dem|fl	10	DET	_	_
+10	to	to	det	det	kvant|fl	8	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = på grunn av det av at dei som stod i HIF dei var meir borgarlege .
+# segstart = 354.05
+# segstop = 358.716
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 81
+1	på	på	prep	prep	_	0	FRAG	_	_
+2	grunn	grunn	subst	subst	appell|eint|mask|ub	1	PUTFYLL	_	_
+3	av	av	prep	prep	_	5	REP	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	PUTFYLL	_	_
+5	av	av	prep	prep	_	2	ATR	_	_
+6	at	at	sbu	sbu	_	9	SBU	_	_
+7	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	stod	stå	verb	verb	pret	12	APP	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	HIF	HIF	subst	subst	prop	10	PUTFYLL	_	_
+12	dei	dei	pron	pron	pers|fl|3|nom|hum	13	SUBJ	_	_
+13	var	vere	verb	verb	pret	5	PUTFYLL	_	_
+14	meir	mykje	adj	adj	comp	15	ADV	_	_
+15	borgarlege	borgarleg	adj	adj	fl|pos	13	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = altså e borgarlege e .
+# segstart = 358.987
+# segstop = 362.897
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 82
+1	altså	altså	adv	adv	_	3	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	borgarlege	borgarleg	adj	adj	fl|pos	0	FRAG	_	_
+4	e	e	nol	nol	_	3	FYLL	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja dei som stemte borgarleg dei # stod i HIF # og dei som stod i Falken .
+# segstart = 363.214
+# segstop = 368.873
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 83
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	6	APP	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	stemte	stemme	verb	verb	pret	2	ATR	_	_
+5	borgarleg	borgarleg	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+6	dei	dei	pron	pron	pers|fl|3|nom|hum	8	SUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	stod	stå	verb	verb	pret	0	FINV	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	HIF	HIF	subst	subst	prop	9	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	dei	dei	pron	pron	pers|fl|3|nom|hum	6	KOORD	_	_
+14	som	som	sbu	sbu	_	15	SBU	_	_
+15	stod	stå	verb	verb	pret	13	ATR	_	_
+16	i	i	prep	prep	_	15	ADV	_	_
+17	Falken	Falken	subst	subst	prop	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = det var på grunn av Falken var tilslutta AIF # arbeidaranes idrettsforbund # og e .
+# segstart = 369.097
+# segstop = 374.881
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 84
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	på	på	prep	prep	_	2	SPRED	_	_
+4	grunn	grunn	subst	subst	appell|eint|mask|ub	3	PUTFYLL	_	_
+5	av	av	prep	prep	_	4	ATR	_	_
+6	Falken	Falken	subst	subst	prop	7	SUBJ	_	_
+7	var	vere	verb	verb	pret	5	PUTFYLL	_	_
+8	tilslutta	tilslutta	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+9	AIF	AIF	subst	subst	prop	8	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	arbeidaranes	arbeidarenes	subst	subst	appell|bu|fl|nøyt	12	DET	_	_
+12	idrettsforbund	idrettsforbund	subst	subst	appell|eint|ub|nøyt|samset	9	APP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	og	og	konj	konj	_	2	KONJ	_	_
+15	e	e	nol	nol	_	2	FYLL	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e det var jo e politisk .
+# segstart = 375.481
+# segstop = 378.623
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 85
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	politisk	politisk	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e det var ein veldig kamp # mellom dei to idrettsforeiningane på grunn at dei var veldig politiske .
+# segstart = 379.181
+# segstop = 384.71
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 86
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	ein	ein	det	det	kvant|eint|mask	6	DET	_	_
+5	veldig	veldig	adj	adj	eint|m/f|ub|pos	6	ATR	_	_
+6	kamp	kamp	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	mellom	mellom	prep	prep	_	6	ATR	_	_
+9	dei	dei	det	det	dem|fl	11	DET	_	_
+10	to	to	det	det	kvant|fl	11	DET	_	_
+11	idrettsforeiningane	idrettsforeining	subst	subst	appell|fl|fem|bu	8	PUTFYLL	_	_
+12	på	på	prep	prep	_	3	ADV	_	_
+13	grunn	grunn	subst	subst	appell|eint|mask|ub	12	PUTFYLL	_	_
+14	at	at	sbu	sbu	_	16	SBU	_	_
+15	dei	dei	pron	pron	pers|fl|3|nom|hum	16	SUBJ	_	_
+16	var	vere	verb	verb	pret	13	ATR	_	_
+17	veldig	veldig	adj	adj	eint|nøyt|ub|pos	18	ADV	_	_
+18	politiske	politisk	adj	adj	fl|pos	16	SPRED	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 384.162
+# segstop = 385.079
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 87
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men e .
+# segstart = 385.036
+# segstop = 386.308
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 88
+1	men	men	konj	konj	_	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men e ## at .
+# segstart = 388.99
+# segstop = 392.94
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 89
+1	men	men	konj	konj	_	0	FRAG	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	at	at	sbu	sbu	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e eg vil seie det var sunt # med to idrettsforeiningar for da .
+# segstart = 394.339
+# segstop = 399.122
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 90
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	vil	vilje	verb	verb	pres	0	FINV	_	_
+4	seie	seie	verb	verb	inf	3	INFV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	var	vere	verb	verb	pret	4	DOBJ	_	_
+7	sunt	sunn	adj	adj	eint|nøyt|ub|pos	6	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	med	med	prep	prep	_	6	ADV	_	_
+10	to	to	det	det	kvant|fl	11	DET	_	_
+11	idrettsforeiningar	idrettsforeining	subst	subst	appell|fl|fem|ub	9	PUTFYLL	_	_
+12	for	for	prep	prep	_	6	ADV	_	_
+13	da	da	adv	adv	_	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = var det meir konkurranse meir det var spennande .
+# segstart = 399.254
+# segstop = 402.694
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 91
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	meir	mykje	adj	adj	comp	4	ATR	_	_
+4	konkurranse	konkurranse	subst	subst	appell|eint|mask|ub	1	SPRED	_	_
+5	meir	mykje	adj	adj	comp	1	ADV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	var	vere	verb	verb	pret	1	KOORD	_	_
+8	spennande	spennande	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e publikum e følgde med .
+# segstart = 402.83
+# segstop = 405.806
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 92
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	publikum	publikum	subst	subst	appell|fl|nøyt|ub	4	SUBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	følgde	følge	verb	verb	pret	0	FINV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = på grunn av e .
+# segstart = 405.933
+# segstop = 407.528
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 93
+1	på	på	prep	prep	_	0	FRAG	_	_
+2	grunn	grunn	subst	subst	appell|eint|mask|ub	1	PUTFYLL	_	_
+3	av	av	prep	prep	_	2	ATR	_	_
+4	e	e	nol	nol	_	1	FYLL	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = at e det var så spennande e .
+# segstart = 407.678
+# segstop = 410.95
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 94
+1	at	at	sbu	sbu	_	4	SBU	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	så	så	adv	adv	_	4	ADV	_	_
+6	spennande	spennande	adv	adv	_	4	SPRED	_	_
+7	e	e	nol	nol	_	4	FYLL	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = e alle tok sin jobb i forbindelse med tillitsverv og og det heile .
+# segstart = 411.371
+# segstop = 418.805
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 95
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	alle	alle	pron	pron	pers|fl|3|nom	3	SUBJ	_	_
+3	tok	ta	verb	verb	pret	0	FINV	_	_
+4	sin	sin	det	det	poss|eint|mask	5	DET	_	_
+5	jobb	jobb	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	forbindelse	forbindelse	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	med	med	prep	prep	_	7	ATR	_	_
+9	tillitsverv	tillitsverv	subst	subst	appell|fl|nøyt|ub	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	REP	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	det	det	det	det	dem|eint|nøyt	13	DET	_	_
+13	heile	heil	adj	adj	eint|bu|pos	9	KOORD	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det var fotball turn friidrett og ski .
+# segstart = 418.972
+# segstop = 422.618
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 96
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	fotball	fotball	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+4	turn	turn	subst	subst	appell|eint|mask|ub	3	KOORD	_	_
+5	friidrett	friidrett	subst	subst	appell|eint|mask|ub	3	KOORD	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	ski	ski	subst	subst	appell|fl|fem|ub	3	KOORD	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og e n- # det var ingen som .
+# segstart = 423.042
+# segstop = 426.643
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 97
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	e	e	nol	nol	_	5	FYLL	_	_
+3	n-	n-	ufullst	ufullst	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	ingen	ingen	pron	pron	pers|fl|3|nom	6	SPRED	_	_
+8	som	som	sbu	sbu	_	7	SBU	_	_
+9	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = som låg over det var stadig f- bytting # frå år til år .
+# segstart = 426.858
+# segstop = 431.979
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 98
+1	som	som	sbu	sbu	_	2	SBU	_	_
+2	låg	ligge	verb	verb	pret	5	SLETT	_	_
+3	over	over	prep	prep	_	2	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	stadig	stadig	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+7	f-	f-	ufullst	ufullst	_	8	FYLL	_	_
+8	bytting	bytting	subst	subst	appell|eint|ub|mask|samset	5	SPRED	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	frå	frå	prep	prep	_	5	ADV	_	_
+11	år	år	subst	subst	appell|eint|nøyt|ub	10	PUTFYLL	_	_
+12	til	til	prep	prep	_	11	ATR	_	_
+13	år	år	subst	subst	appell|eint|nøyt|ub	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = hm .
+# segstart = 431.91
+# segstop = 432.643
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 99
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men det som uheldig # det var det at .
+# segstart = 432.824
+# segstop = 435.425
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 100
+1	men	men	konj	konj	_	7	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	6	APP	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	uheldig	uheldig	adj	adj	eint|nøyt|ub|pos	2	ATR	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	7	SPRED	_	_
+9	at	at	sbu	sbu	_	8	APP	_	_
+10	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = viss du stod i HIF .
+# segstart = 436.457
+# segstop = 439.009
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 101
+1	viss	viss	sbu	sbu	_	3	SBU	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	stod	stå	verb	verb	pret	0	FINV	_	_
+4	i	i	prep	prep	_	3	ADV	_	_
+5	HIF	HIF	subst	subst	prop	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = så kunne du risikere å få juling # av nokon som stod i Falken viss du var aleine .
+# segstart = 439.892
+# segstop = 444.372
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 102
+1	så	så	adv	adv	_	2	ADV	_	_
+2	kunne	kunne	verb	verb	pret	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	risikere	risikere	verb	verb	inf	2	INFV	_	_
+5	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+6	få	få	verb	verb	inf	5	INFV	_	_
+7	juling	juling	subst	subst	appell|eint|fem|ub	6	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	av	av	prep	prep	_	7	ATR	_	_
+10	nokon	nokon	pron	pron	pers|fl|3|akk	9	PUTFYLL	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	stod	stå	verb	verb	pret	10	ATR	_	_
+13	i	i	prep	prep	_	12	ADV	_	_
+14	Falken	Falken	subst	subst	prop	13	PUTFYLL	_	_
+15	viss	viss	sbu	sbu	_	17	SBU	_	_
+16	du	du	pron	pron	pers|eint|2|nom|hum	17	SUBJ	_	_
+17	var	vere	verb	verb	pret	6	ADV	_	_
+18	aleine	aleine	adv	adv	_	17	ADV	_	_
+19	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = og omvendt og viss det var nokon som stod i Falken og vi var fleire da i HIF så fekk dei juling .
+# segstart = 445.01
+# segstop = 451.553
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 103
+1	og	og	konj	konj	_	20	KONJ	_	_
+2	omvendt	omvende	adj	adj	eint|nøyt|ub	20	ADV	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	viss	viss	sbu	sbu	_	6	SBU	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	var	vere	verb	verb	pret	19	APP	_	_
+7	nokon	nokon	pron	pron	pers|fl|3|nom	6	PSUBJ	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	stod	stå	verb	verb	pret	7	ATR	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	Falken	Falken	subst	subst	prop	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	vi	vi	pron	pron	pers|fl|1|nom|hum	14	SUBJ	_	_
+14	var	vere	verb	verb	pret	6	KOORD	_	_
+15	fleire	mange	adj	adj	comp	14	SPRED	_	_
+16	da	da	adv	adv	_	14	ADV	_	_
+17	i	i	prep	prep	_	14	ADV	_	_
+18	HIF	HIF	subst	subst	prop	17	PUTFYLL	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	fekk	få	verb	verb	pret	0	KOORD	_	_
+21	dei	dei	pron	pron	pers|fl|3|nom|hum	20	SUBJ	_	_
+22	juling	juling	subst	subst	appell|eint|fem|ub	20	DOBJ	_	_
+23	.	$.	clb	clb	<punkt>	20	IP	_	_
+
+# text = så dette her gjekk utover barna .
+# segstart = 452.065
+# segstop = 455.209
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 104
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	dette	dette	pron	pron	pers|eint|nøyt|3|nom	4	SUBJ	_	_
+3	her	her	prep	prep	_	2	ATR	_	_
+4	gjekk	gå	verb	verb	pret	0	FINV	_	_
+5	utover	utover	prep	prep	_	4	ADV	_	_
+6	barna	barn	subst	subst	appell|fl|nøyt|bu	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = hm .
+# segstart = 454.78
+# segstop = 455.755
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 105
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og # skolen og det heile .
+# segstart = 455.439
+# segstop = 458.716
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 106
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	skolen	skole	subst	subst	appell|eint|mask|bu	0	FRAG	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	det	det	det	det	dem|eint|nøyt	6	DET	_	_
+6	heile	heil	adj	adj	eint|bu|pos	3	KOORD	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = e som # vi da såg mest på # og dermed så # straks etter krigen så .
+# segstart = 459.14
+# segstop = 465.18
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 107
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	som	som	sbu	sbu	_	6	SBU	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+5	da	da	adv	adv	_	6	ADV	_	_
+6	såg	sjå	verb	verb	pret	0	FINV	_	_
+7	mest	mykje	adj	adj	ub|sup	6	ADV	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	15	KONJ	_	_
+11	dermed	dermed	adv	adv	_	15	ADV	_	_
+12	så	så	adv	adv	_	15	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	straks	straks	adv	adv	_	15	ADV	_	_
+15	etter	etter	prep	prep	_	6	KOORD	_	_
+16	krigen	krig	subst	subst	appell|eint|mask|bu	15	PUTFYLL	_	_
+17	så	så	adv	adv	_	15	ADV	_	_
+18	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = e så e tok dei og slo dei to idrettsforeiningane isaman .
+# segstart = 465.429
+# segstop = 470.58
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 108
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	tok	ta	verb	verb	pret	0	FINV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	slo	slå	verb	verb	pret	4	KOORD	_	_
+8	dei	dei	det	det	dem|fl	10	DET	_	_
+9	to	to	det	det	kvant|fl	10	DET	_	_
+10	idrettsforeiningane	idrettsforeining	subst	subst	appell|fl|fem|bu	7	DOBJ	_	_
+11	isaman	isaman	adj	adj	fl|ub|pos	7	ADV	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 470.25
+# segstop = 471.199
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 109
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e selvfølgelig miljøet blei betre for ungdommen .
+# segstart = 471.367
+# segstop = 474.882
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 110
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	selvfølgelig	selvfølgelig	adv	adv	_	4	ADV	_	_
+3	miljøet	miljø	subst	subst	appell|eint|nøyt|bu	4	SUBJ	_	_
+4	blei	bli	verb	verb	pret	0	FINV	_	_
+5	betre	betre	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+6	for	for	prep	prep	_	4	ADV	_	_
+7	ungdommen	ungdom	subst	subst	appell|eint|mask|bu	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og det heile men e sjølve konkurransen og e idretten i seg sjølv den e gjekk tilbake .
+# segstart = 475.322
+# segstop = 483.795
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 111
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	16	SLETT	_	_
+3	heile	heil	adj	adj	eint|bu|pos	2	ATR	_	_
+4	men	men	konj	konj	_	16	KONJ	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	sjølve	sjølv	det	det	eint|bu|pos|forst	7	DET	_	_
+7	konkurransen	konkurranse	subst	subst	appell|eint|mask|bu	14	APP	_	_
+8	og	og	konj	konj	_	10	KONJ	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	idretten	idrett	subst	subst	appell|eint|mask|bu	7	KOORD	_	_
+11	i	i	prep	prep	_	10	ATR	_	_
+12	seg	seg	pron	pron	refl|eint/fl|akk	11	PUTFYLL	_	_
+13	sjølv	sjølv	adv	adv	_	12	DET	_	_
+14	den	den	pron	pron	pers|eint|f/m|3|nom	16	SUBJ	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	gjekk	gå	verb	verb	pret	0	FINV	_	_
+17	tilbake	tilbake	prep	prep	_	16	ADV	_	_
+18	.	$.	clb	clb	<punkt>	16	IP	_	_
+
+# text = mhm .
+# segstart = 483.62
+# segstop = 484.481
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 112
+1	mhm	mhm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men # em .
+# segstart = 486.12
+# segstop = 487.476
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 113
+1	men	men	konj	konj	_	0	FRAG	_	_
+2	#	#	pause	pause	_	1	IK	_	_
+3	em	em	nol	nol	_	1	FYLL	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kan ikkje gjere det da voff- kvifor seier du ikkje det da # må nå skjønne det at .
+# segstart = 487.612
+# segstop = 491.556
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 114
+1	kan	kunne	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+3	gjere	gjere	verb	verb	inf	1	INFV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	voff-	voff-	ufullst	ufullst	_	7	FYLL	_	_
+7	kvifor	kvifor	adv	adv	_	8	ADV	_	_
+8	seier	seie	verb	verb	pres	1	KOORD	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	8	SUBJ	_	_
+10	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	8	DOBJ	_	_
+12	da	da	adv	adv	_	8	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	må	måtte	verb	verb	pres	1	KOORD	_	_
+15	nå	nå	adv	adv	_	16	ADV	_	_
+16	skjønne	skjønne	verb	verb	inf	14	INFV	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	16	DOBJ	_	_
+18	at	at	sbu	sbu	_	17	APP	_	_
+19	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = at e når vi går på fjellet .
+# segstart = 491.948
+# segstop = 494.379
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 115
+1	at	at	sbu	sbu	_	5	SBU	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	når	når	sbu	sbu	_	5	SBU	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+5	går	gå	verb	verb	pres	0	FINV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	fjellet	fjell	subst	subst	appell|eint|nøyt|bu	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = før så måtte vi gå opp dei trappene der .
+# segstart = 494.644
+# segstop = 497.379
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 116
+1	før	før	prep	prep	_	2	APP	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	måtte	måtte	verb	verb	pret	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	gå	gå	verb	verb	inf	3	INFV	_	_
+6	opp	opp	prep	prep	_	5	ADV	_	_
+7	dei	dei	det	det	dem|fl	8	DET	_	_
+8	trappene	trapp	subst	subst	appell|fl|fem|bu	5	DOBJ	_	_
+9	der	der	prep	prep	_	5	ADV	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = men nå nå kan vi jo køyre opp fjellvegen .
+# segstart = 497.579
+# segstop = 500.629
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 117
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	nå	nå	adv	adv	_	3	REP	_	_
+3	nå	nå	adv	adv	_	7	ADV	_	_
+4	kan	kunne	verb	verb	pres	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	jo	jo	adv	adv	_	7	ADV	_	_
+7	køyre	køyre	verb	verb	inf	4	INFV	_	_
+8	opp	opp	prep	prep	_	7	ADV	_	_
+9	fjellvegen	fjellveg	subst	subst	appell|bu|eint|mask|samset	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og e om # du er jammen fisen # han var jammen hisken .
+# segstart = 500.892
+# segstop = 506.839
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 118
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	om	om	sbu	sbu	_	6	SBU	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	jammen	jammen	adv	adv	_	6	ADV	_	_
+8	fisen	fisen	adj	adj	eint|m/f|ub|pos	6	SPRED	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	han	han	pron	pron	pers|eint|mask|3|nom	11	SUBJ	_	_
+11	var	vere	verb	verb	pret	6	KOORD	_	_
+12	jammen	jammen	adv	adv	_	11	ADV	_	_
+13	hisken	hisken	adj	adj	eint|mask|ub|pos	11	SPRED	_	_
+14	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = han hoppa utfor # ein fjellknaus .
+# segstart = 507.157
+# segstop = 511.322
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 119
+1	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+2	hoppa	hoppe	verb	verb	pret	0	FINV	_	_
+3	utfor	utfor	prep	prep	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ein	ein	det	det	kvant|eint|mask	6	DET	_	_
+6	fjellknaus	fjellknaus	subst	subst	appell|eint|ub|mask|samset	3	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = sånn der det var den hisknaste karen eg har sett .
+# segstart = 511.514
+# segstop = 515.226
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 120
+1	sånn	sånn	adv	adv	_	4	ADV	_	_
+2	der	der	prep	prep	_	1	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	den	den	det	det	dem|eint|mask	6	DET	_	_
+6	hisknaste	hisken	adj	adj	adj|sup|samset	7	ATR	_	_
+7	karen	kar	subst	subst	appell|eint|mask|bu	4	SPRED	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+9	har	ha	verb	verb	pres	7	ATR	_	_
+10	sett	sjå	verb	verb	perf-part	9	INFV	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = .
+# segstart = 514.76
+# segstop = 515.918
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 121
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = ja det der med hisken det er det fleire som har sagt e .
+# segstart = 516.624
+# segstop = 520.496
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 122
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	6	APP	_	_
+3	der	der	prep	prep	_	2	ATR	_	_
+4	med	med	prep	prep	_	2	ADV	_	_
+5	hisken	hisken	adj	adj	eint|mask|ub|pos	4	PUTFYLL	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	12	DOBJ	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+9	fleire	mange	adj	adj	comp	7	SPRED	_	_
+10	som	som	sbu	sbu	_	11	SBU	_	_
+11	har	ha	verb	verb	pres	9	ATR	_	_
+12	sagt	seie	verb	verb	perf-part	11	INFV	_	_
+13	e	e	nol	nol	_	7	FYLL	_	_
+14	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = hisken ja # og skøyig .
+# segstart = 518.821
+# segstop = 520.767
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 123
+1	hisken	hisken	adj	adj	eint|mask|ub|pos	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	skøyig	skøyig	adj	adj	eint|nøyt|ub|pos	1	KOORD	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = det er .
+# segstart = 519.427
+# segstop = 520.654
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 124
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = så kjem resten av så sa jo eg # av og til i .
+# segstart = 521.321
+# segstop = 524.681
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 125
+1	så	så	adv	adv	_	2	ADV	_	_
+2	kjem	komme	verb	verb	pres	0	FINV	_	_
+3	resten	rest	subst	subst	appell|eint|mask|bu	2	SUBJ	_	_
+4	av	av	prep	prep	_	2	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	sa	seie	verb	verb	pret	2	KOORD	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	av	av	prep	prep	_	6	ADV	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	til	til	prep	prep	_	10	ADV	_	_
+13	i	i	prep	prep	_	6	ADV	_	_
+14	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 521.42
+# segstop = 522.357
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 126
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = hiske og så var det ein kar frå Drammen sa « kva var du sa nå » .
+# segstart = 524.77
+# segstop = 528.388
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 127
+1	hiske	hisk	adj	adj	fl|pos	4	ADV	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+7	kar	kar	subst	subst	appell|eint|mask|ub	4	PSUBJ	_	_
+8	frå	frå	prep	prep	_	7	ATR	_	_
+9	Drammen	Drammen	subst	subst	prop	8	PUTFYLL	_	_
+10	sa	seie	verb	verb	pret	7	ATR	_	_
+11	«	«	anf	anf	_	13	IK	_	_
+12	kva	kva	pron	pron	sp	13	SPRED	_	_
+13	var	vere	verb	verb	pret	10	DOBJ	_	_
+14	du	du	pron	pron	pers|eint|2|nom|hum	15	SUBJ	_	_
+15	sa	seie	verb	verb	pret	12	ATR	_	_
+16	nå	nå	adv	adv	_	15	ADV	_	_
+17	»	»	anf	anf	_	13	IK	_	_
+18	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = « det er hiske ja kva er det for noko da » .
+# segstart = 528.798
+# segstop = 530.601
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 128
+1	«	«	anf	anf	_	3	IK	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	hiske	hisk	adj	adj	fl|pos	3	SPRED	_	_
+7	ja	ja	interj	interj	_	9	INTERJ	_	_
+8	kva	kva	pron	pron	sp	9	SPRED	_	_
+9	er	vere	verb	verb	pres	3	KOORD	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+11	for	for	prep	prep	_	9	ADV	_	_
+12	noko	noko	pron	pron	pers|eint|nøyt|3|akk	11	PUTFYLL	_	_
+13	da	da	adv	adv	_	9	ADV	_	_
+14	»	»	anf	anf	_	9	IK	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = « nei dette har eg aldri høyrt » .
+# segstart = 530.66
+# segstop = 532.53
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 129
+1	«	«	anf	anf	_	4	IK	_	_
+2	nei	nei	interj	interj	_	4	INTERJ	_	_
+3	dette	dette	pron	pron	pers|eint|nøyt|3|nom	7	DOBJ	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+6	aldri	aldri	adv	adv	_	7	ADV	_	_
+7	høyrt	høyre	verb	verb	perf-part	4	INFV	_	_
+8	»	»	anf	anf	_	4	IK	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = jo altså han hisken altså han- han er han er spenstig han er dristig e og det der var dristig det er det er faktisk eit .
+# segstart = 532.65
+# segstop = 540.8
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 130
+1	jo	jo	adv	adv	_	13	ADV	_	_
+2	altså	altså	adv	adv	_	13	ADV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	7	REP	_	_
+4	hisken	hisken	adj	adj	eint|mask|ub|pos	13	ADV	_	_
+5	altså	altså	adv	adv	_	4	ADV	_	_
+6	han-	han-	ufullst	ufullst	_	7	FYLL	_	_
+7	han	han	pron	pron	pers|eint|mask|3|nom	8	SUBJ	_	_
+8	er	vere	verb	verb	pres	13	REP	_	_
+9	han	han	pron	pron	pers|eint|mask|3|nom	10	SUBJ	_	_
+10	er	vere	verb	verb	pres	13	REP	_	_
+11	spenstig	spenstig	adj	adj	eint|nøyt|ub|pos	10	SPRED	_	_
+12	han	han	pron	pron	pers|eint|mask|3|nom	13	SUBJ	_	_
+13	er	vere	verb	verb	pres	0	FINV	_	_
+14	dristig	dristig	adj	adj	eint|nøyt|ub|pos	13	SPRED	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	og	og	konj	konj	_	19	KONJ	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	19	FSUBJ	_	_
+18	der	der	prep	prep	_	17	ATR	_	_
+19	var	vere	verb	verb	pret	13	KOORD	_	_
+20	dristig	dristig	adj	adj	eint|nøyt|ub|pos	19	SPRED	_	_
+21	det	det	pron	pron	pers|eint|nøyt|3	22	FSUBJ	_	_
+22	er	vere	verb	verb	pres	24	REP	_	_
+23	det	det	pron	pron	pers|eint|nøyt|3	24	FSUBJ	_	_
+24	er	vere	verb	verb	pres	13	KOORD	_	_
+25	faktisk	faktisk	adj	adj	eint|nøyt|ub|pos	26	ATR	_	_
+26	eit	ein	det	det	kvant|eint|nøyt	24	SPRED	_	_
+27	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# text = da kan vi jo seie at .
+# segstart = 539.97
+# segstop = 541.082
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 131
+1	da	da	adv	adv	_	2	ADV	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	seie	seie	verb	verb	inf	2	INFV	_	_
+6	at	at	sbu	sbu	_	5	SBU	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = det er særprega ord # som er oppkonstruert her # i he- .
+# segstart = 540.96
+# segstop = 545.335
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 132
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	særprega	særprege	adj	adj	fl	4	ATR	_	_
+4	ord	ord	subst	subst	appell|fl|nøyt|ub	2	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	er	vere	verb	verb	pres	4	ATR	_	_
+8	oppkonstruert	oppkonstruert	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+9	her	her	prep	prep	_	7	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	he-	he-	ufullst	ufullst	_	2	FYLL	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = kan ikkje du seie eit hiske vêr òg da ?
+# segstart = 544.646
+# segstop = 547.194
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 133
+1	kan	kunne	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+4	seie	seie	verb	verb	inf	1	INFV	_	_
+5	eit	ein	det	det	kvant|eint|nøyt	7	DET	_	_
+6	hiske	hisken	adj	adj	eint|mask|ub|pos	7	ATR	_	_
+7	vêr	vêr	subst	subst	appell|eint|nøyt|ub	4	DOBJ	_	_
+8	òg	òg	adv	adv	_	4	ADV	_	_
+9	da	da	adv	adv	_	4	ADV	_	_
+10	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = hiske vêr ja .
+# segstart = 546.813
+# segstop = 547.873
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 134
+1	hiske	hisken	adj	adj	eint|mask|ub|pos	2	ATR	_	_
+2	vêr	vêr	subst	subst	appell|eint|nøyt|ub	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 547.926
+# segstop = 548.67
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 135
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = hisken hisken mann ?
+# segstart = 548.484
+# segstop = 550.372
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 136
+1	hisken	hisken	adj	adj	eint|mask|ub|pos	2	REP	_	_
+2	hisken	hisken	adj	adj	eint|mask|ub|pos	3	ATR	_	_
+3	mann	mann	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+4	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = e ja ja # e ja nei hi- det .
+# segstart = 549.96
+# segstop = 552.56
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 137
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+7	nei	nei	interj	interj	_	2	INTERJ	_	_
+8	hi-	hi-	ufullst	ufullst	_	9	FYLL	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	2	ADV	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = .
+# segstart = 551.108
+# segstop = 552.188
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 138
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = det kan vere hiske vêr ja jo e .
+# segstart = 552.772
+# segstop = 555.758
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 139
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	vere	vere	verb	verb	inf	2	INFV	_	_
+4	hiske	hisken	adj	adj	eint|mask|ub|pos	5	ATR	_	_
+5	vêr	vêr	subst	subst	appell|eint|nøyt|ub	3	SPRED	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+7	jo	jo	interj	interj	_	2	INTERJ	_	_
+8	e	e	nol	nol	_	2	FYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 554.51
+# segstop = 555.13
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 140
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = altså det er noko som er så # uventa altså ?
+# segstart = 555.817
+# segstop = 558.794
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 141
+1	altså	altså	adv	adv	_	3	ADV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	noko	noko	pron	pron	pers|eint|nøyt|3|nom	3	SPRED	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	er	vere	verb	verb	pres	4	ATR	_	_
+7	så	så	adv	adv	_	9	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	uventa	uventa	adj	adj	eint|nøyt|ub|pos	6	SPRED	_	_
+10	altså	altså	adv	adv	_	3	ADV	_	_
+11	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = e ja # det la eg også merke til det at når E1 blei ivrig .
+# segstart = 556.775
+# segstop = 561.245
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 142
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	9	DOBJ	_	_
+5	la	legge	verb	verb	pret	0	FINV	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+7	også	også	adv	adv	_	5	ADV	_	_
+8	merke	merke	subst	subst	inf	5	DOBJ	_	_
+9	til	til	prep	prep	_	8	ATR	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	4	APP	_	_
+11	at	at	sbu	sbu	_	14	SBU	_	_
+12	når	når	sbu	sbu	_	14	SBU	_	_
+13	E1	E1	subst	subst	prop	14	SUBJ	_	_
+14	blei	bli	verb	verb	pret	10	APP	_	_
+15	ivrig	ivrig	adj	adj	eint|nøyt|ub|pos	14	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = og og snakka # da kom han .
+# segstart = 561.677
+# segstop = 563.868
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 143
+1	og	og	konj	konj	_	2	REP	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	snakka	snakke	verb	verb	pret	0	FINV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	da	da	adv	adv	_	6	ADV	_	_
+6	kom	komme	verb	verb	pret	3	KOORD	_	_
+7	han	han	pron	pron	pers|eint|mask|3|nom	6	SUBJ	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = da kom han inn på den typisk Høyangerdialekten kor han song .
+# segstart = 564.093
+# segstop = 569.045
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 144
+1	da	da	adv	adv	_	2	ADV	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+4	inn	inn	prep	prep	_	2	ADV	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	den	den	det	det	dem|eint|fem	8	DET	_	_
+7	typisk	typisk	adj	adj	eint|nøyt|ub|pos	8	ATR	_	_
+8	Høyangerdialekten	Høyangerdialekten	subst	subst	prop	5	PUTFYLL	_	_
+9	kor	kor	adv	adv	_	11	ADV	_	_
+10	han	han	pron	pron	pers|eint|mask|3|nom	11	SUBJ	_	_
+11	song	synge	verb	verb	pret	2	KOORD	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = « han gjer jo det da » m ## ja .
+# segstart = 569.158
+# segstop = 571.695
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 145
+1	«	(«	anf	anf	_	3	IK	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	3	SUBJ	_	_
+3	gjer	gjere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+6	da	da	adv	adv	_	3	ADV	_	_
+7	»	»	anf	anf	_	3	IK	_	_
+8	m	m	interj	interj	_	3	INTERJ	_	_
+9	##	##	pause	pause	_	10	IK	_	_
+10	ja	ja	interj	interj	_	3	INTERJ	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = elles elles så snakkar han mykje e austlending .
+# segstart = 570.395
+# segstop = 573.434
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 146
+1	elles	elles	adv	adv	_	2	REP	_	_
+2	elles	elles	adv	adv	_	4	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	snakkar	snakke	verb	verb	pres	0	FINV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+6	mykje	mykje	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	austlending	austlending	subst	subst	appell|eint|mask|ub	4	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = han gjer det han drar på « jæi » og .
+# segstart = 573.092
+# segstop = 576.306
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 147
+1	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+2	gjer	gjere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	han	han	pron	pron	pers|eint|mask|3|nom	5	SUBJ	_	_
+5	drar	dra	verb	verb	pres	2	KOORD	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	«	«	anf	anf	_	8	IK	_	_
+8	jæi	_	pron	pron	_	6	PUTFYLL	_	_
+9	»	»	anf	anf	_	8	IK	_	_
+10	og	og	konj	konj	_	2	KONJ	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e ja .
+# segstart = 575.436
+# segstop = 576.13
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 148
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = em e selvfølgelig .
+# segstart = 576.566
+# segstop = 578.908
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 149
+1	em	em	nol	nol	_	3	FYLL	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	selvfølgelig	selvfølgelig	adv	adv	_	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = .
+# segstart = 576.88
+# segstop = 578.55
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 150
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = e det er em # det er mykje det at ein blir litt anstrengd viss ein # kom isaman med nokon som .
+# segstart = 579.068
+# segstop = 585.156
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 151
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	7	REP	_	_
+4	em	em	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	mykje	mykje	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	7	SPRED	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	ein	ein	pron	pron	pers|eint|nom|hum	12	SUBJ	_	_
+12	blir	bli	verb	verb	pres	9	APP	_	_
+13	litt	litt	adj	adj	eint|nøyt|ub|pos	14	ADV	_	_
+14	anstrengd	anstrenge	adj	adj	eint|nøyt|ub	12	SPRED	_	_
+15	viss	viss	sbu	sbu	_	18	SBU	_	_
+16	ein	ein	pron	pron	pers|eint|nom|hum	18	SUBJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	kom	komme	verb	verb	pret	12	ADV	_	_
+19	isaman	isamen	adj	adj	fl|ub|pos	18	ADV	_	_
+20	med	med	prep	prep	_	18	ADV	_	_
+21	nokon	nokon	pron	pron	pers|fl|3|akk	20	PUTFYLL	_	_
+22	som	som	sbu	sbu	_	21	SBU	_	_
+23	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = e ein ikkje kjenner sånn plutseleg .
+# segstart = 585.798
+# segstop = 588.284
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 152
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ein	ein	pron	pron	pers|eint|nom|hum	4	SUBJ	_	_
+3	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+4	kjenner	kjenne	verb	verb	pres	0	FINV	_	_
+5	sånn	sånn	det	det	dem|eint|mask	6	DET	_	_
+6	plutseleg	plutseleg	adj	adj	eint|nøyt|ub|pos	4	DOBJ	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 587.01
+# segstop = 588.008
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 153
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det er klart .
+# segstart = 588.164
+# segstop = 588.848
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 154
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	klart	klar	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e men e viss ein kjem saman med Høyangerfolk og liksom slappar av og sånn .
+# segstart = 588.533
+# segstop = 593.745
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 155
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	men	men	konj	konj	_	6	KONJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	viss	viss	sbu	sbu	_	6	SBU	_	_
+5	ein	ein	pron	pron	pers|eint|nom|hum	6	SUBJ	_	_
+6	kjem	komme	verb	verb	pres	0	FINV	_	_
+7	saman	saman	adv	adv	_	6	ADV	_	_
+8	med	med	prep	prep	_	6	ADV	_	_
+9	Høyangerfolk	Høyangerfolk	subst	subst	prop	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	liksom	liksom	adv	adv	_	12	ADV	_	_
+12	slappar	slappe	verb	verb	pres	6	KOORD	_	_
+13	av	av	prep	prep	_	12	ADV	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	sånn	sånn	adv	adv	_	6	ADV	_	_
+16	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = mhm .
+# segstart = 592.701
+# segstop = 593.699
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 156
+1	mhm	mhm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = da mm da blir det .
+# segstart = 593.78
+# segstop = 596.626
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 157
+1	da	da	adv	adv	_	4	ADV	_	_
+2	mm	mm	interj	interj	_	4	INTERJ	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	blir	bli	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det er klart .
+# segstart = 594.621
+# segstop = 595.319
+# file = hoeyanger_uib_02
+# speaker = int2
+# id = 158
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	klart	klar	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = meir e .
+# segstart = 597.063
+# segstop = 598.629
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 159
+1	meir	mykje	adj	adj	comp	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e at e .
+# segstart = 599.16
+# segstop = 601.86
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 160
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	at	at	sbu	sbu	_	0	FRAG	_	_
+3	e	e	nol	nol	_	2	FYLL	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = .
+# segstart = 601.812
+# segstop = 603.16
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 161
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = e d- n- vi har .
+# segstart = 601.93
+# segstop = 604.316
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 162
+1	e	e	nol	nol	_	5	FYLL	_	_
+2	d-	d-	ufullst	ufullst	_	5	FYLL	_	_
+3	n-	n-	ufullst	ufullst	_	4	FYLL	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ei viss # likheit på # dialekten .
+# segstart = 604.592
+# segstop = 608.152
+# file = hoeyanger_uib_02
+# speaker = hoeyanger_uib_0201
+# id = 163
+1	ei	ein	det	det	kvant|eint|fem	4	DET	_	_
+2	viss	viss	adj	adj	eint|m/f|ub|pos	4	ATR	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	likheit	likheit	subst	subst	appell|eint|ub|fem|samset	0	FRAG	_	_
+5	på	på	prep	prep	_	4	ATR	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	dialekten	dialekt	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 606.807
+# segstop = 607.525
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 164
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = jo da det trur eg .
+# segstart = 608.84
+# segstop = 610.184
+# file = hoeyanger_uib_02
+# speaker = int1
+# id = 165
+1	jo	jo	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+4	trur	tru	verb	verb	pres	0	FINV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+

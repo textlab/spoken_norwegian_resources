@@ -1,0 +1,4245 @@
+# text = em # kva yrke har du hatt ?
+# segstart = 1.24
+# segstop = 3.348
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 1
+1	em	em	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kva	kva	det	det	sp	4	DET	_	_
+4	yrke	yrke	subst	subst	appell|fl|nøyt|ub	7	DOBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+7	hatt	ha	verb	verb	perf-part	5	INFV	_	_
+8	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = ja det er mange slags det .
+# segstart = 3.57
+# segstop = 6.595
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 2
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	mange	mange	adj	adj	eint|bu|pos	5	ATR	_	_
+5	slags	slags	subst	subst	appell|nøyt	3	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = eg har det vore fiskar for det meste .
+# segstart = 8.158
+# segstop = 11.332
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 3
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	SLETT	_	_
+4	vore	vere	verb	verb	perf-part	2	INFV	_	_
+5	fiskar	fisk	subst	subst	appell|fl|mask|ub	4	SPRED	_	_
+6	for	for	prep	prep	_	4	ADV	_	_
+7	det	det	det	det	dem|eint|nøyt	8	DET	_	_
+8	meste	mykje	adj	adj	bu|sup	6	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = så har han drive dette her gardsbruket # så har eg vore veiarbeidar .
+# segstart = 12.353
+# segstop = 19.071
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 4
+1	så	så	adv	adv	_	4	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+4	drive	drive	verb	verb	perf-part	2	INFV	_	_
+5	dette	dette	pron	pron	pers|eint|nøyt|3|akk	7	DET	_	_
+6	her	her	prep	prep	_	7	ATR	_	_
+7	gardsbruket	gardsbruk	subst	subst	appell|eint|nøyt|bu	4	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	så	så	adv	adv	_	12	ADV	_	_
+10	har	ha	verb	verb	pres	2	KOORD	_	_
+11	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+12	vore	vere	verb	verb	perf-part	10	INFV	_	_
+13	veiarbeidar	veiarbeidar	subst	subst	appell|eint|ub|mask|samset	12	DOBJ	_	_
+14	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e kor tid starta du å reise ut på fiske da ?
+# segstart = 23.549
+# segstop = 27.241
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 5
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	kor	kor	adv	adv	_	3	DET	_	_
+3	tid	tid	subst	subst	appell|eint|fem|ub	7	ADV	_	_
+4	starta	starte	verb	verb	pret	0	FINV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+6	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+7	reise	reise	verb	verb	inf	6	INFV	_	_
+8	ut	ut	prep	prep	_	7	ADV	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	fiske	fiske	subst	subst	appell|fl|nøyt|ub	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	7	ADV	_	_
+12	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = var fjorten år .
+# segstart = 27.241
+# segstop = 28.214
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 6
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	fjorten	fjorten	det	det	kvant|fl	3	DET	_	_
+3	år	år	subst	subst	appell|fl|nøyt|ub	1	SPRED	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja vel nettopp konfirmert ?
+# segstart = 28.989
+# segstop = 30.244
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 7
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	nettopp	nettopp	adv	adv	_	1	ADV	_	_
+4	konfirmert	konfirmere	adj	adj	eint|nøyt|ub	1	ADV	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja .
+# segstart = 30.244
+# segstop = 31.502
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 8
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e # var du med far din du reiste ?
+# segstart = 32.728
+# segstop = 34.705
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 9
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+5	med	med	prep	prep	_	3	SPRED	_	_
+6	far	far	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+7	din	din	det	det	poss|eint|mask	6	DET	_	_
+8	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+9	reiste	reise	verb	verb	pret	3	ADV	_	_
+10	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = nei han # hadde vore i grava da i nesten ti # ja ja .
+# segstart = 34.545
+# segstop = 40.316
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 10
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	vore	vere	verb	verb	perf-part	4	INFV	_	_
+6	i	i	prep	prep	_	5	SPRED	_	_
+7	grava	grav	subst	subst	appell|eint|fem|bu	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	i	i	prep	prep	_	5	ADV	_	_
+10	nesten	nesten	adv	adv	_	11	ADV	_	_
+11	ti	ti	det	det	kvant|fl	9	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	ja	ja	interj	interj	_	4	INTERJ	_	_
+14	ja	ja	interj	interj	_	4	INTERJ	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja vel det stemmer det han .
+# segstart = 38.041
+# segstop = 39.862
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 11
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	vel	vel	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	stemmer	stemme	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	3	APP	_	_
+6	han	han	pron	pron	pers|eint|mask|3|nom	4	SLETT	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = e kven reiste du ut med da ?
+# segstart = 40.516
+# segstop = 42.187
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 12
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	kven	kven	pron	pron	sp|akk|hum	6	PUTFYLL	_	_
+3	reiste	reise	verb	verb	pret	0	FINV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+5	ut	ut	prep	prep	_	3	ADV	_	_
+6	med	med	prep	prep	_	3	ADV	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = eg reiste med # ein ifrå Hevrøya .
+# segstart = 42.625
+# segstop = 45.554
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 13
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	reiste	reise	verb	verb	pret	0	FINV	_	_
+3	med	med	prep	prep	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ein	ein	pron	pron	pers|eint|nom|hum	3	PUTFYLL	_	_
+6	ifrå	ifrå	prep	prep	_	5	ATR	_	_
+7	Hevrøya	Hevrøya	subst	subst	prop	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja vel .
+# segstart = 45.57
+# segstop = 46.062
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 14
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kva slags fiske var det ?
+# segstart = 47.033
+# segstop = 48.162
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 15
+1	kva	kva	det	det	sp	2	DET	_	_
+2	slags	slags	adj	adj	appell|nøyt	3	ATR	_	_
+3	fiske	fiske	subst	subst	appell|eint|nøyt|ub	4	SPRED	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SUBJ	_	_
+6	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = fjord- og vårsildfiske det .
+# segstart = 49.185
+# segstop = 51.126
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 16
+1	fjord-	fjord-	subst	subst	_	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	vårsildfiske	vårsildfiske	subst	subst	appell|eint|nøyt|ub	1	KOORD	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	1	SLETT	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og e reiste du langt vekk ?
+# segstart = 53.344
+# segstop = 55.522
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 17
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	reiste	reise	verb	verb	pret	0	FINV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+5	langt	lang	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	vekk	vekk	prep	prep	_	3	ADV	_	_
+7	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = nei # vi låg uti Hevrøya den vinteren # men det vart ikkje sild .
+# segstart = 55.858
+# segstop = 62.205
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 18
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	låg	ligge	verb	verb	pret	0	FINV	_	_
+5	uti	uti	prep	prep	_	4	ADV	_	_
+6	Hevrøya	Hevrøya	subst	subst	prop	5	PUTFYLL	_	_
+7	den	den	det	det	dem|eint|mask	8	DET	_	_
+8	vinteren	vinter	subst	subst	appell|eint|mask|bu	4	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	men	men	konj	konj	_	12	KONJ	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	vart	bli	verb	verb	pret	4	KOORD	_	_
+13	ikkje	ikkje	adv	adv	_	12	ADV	_	_
+14	sild	sild	subst	subst	appell|eint|fem|ub	12	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det vart ikkje noko utkomme nei ?
+# segstart = 62.853
+# segstop = 64.304
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 19
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	vart	bli	verb	verb	pret	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	noko	nokon	det	det	kvant|eint|nøyt	5	DET	_	_
+5	utkomme	utkomme	adj	adj	eint|nøyt|ub	2	SPRED	_	_
+6	nei	nei	interj	interj	_	2	INTERJ	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = nei .
+# segstart = 63.863
+# segstop = 64.26
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 20
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e korleis e # livnærte ein seg da ?
+# segstart = 65.044
+# segstop = 70.677
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 21
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	korleis	korleis	adv	adv	_	5	ADV	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	livnærte	livnære	verb	verb	pret	0	FINV	_	_
+6	ein	ein	pron	pron	pers|eint|nom|hum	5	SUBJ	_	_
+7	seg	seg	pron	pron	refl|eint/fl|akk	5	DOBJ	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = ja vi var nå heldige vi fekk # så dei sa dei gamle « vi fekk borge » .
+# segstart = 71.338
+# segstop = 77.823
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 22
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	heldige	heldig	adj	adj	fl|pos	3	SPRED	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+7	fekk	få	verb	verb	pret	11	REP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	så	så	sbu	sbu	_	11	SBU	_	_
+10	dei	dei	pron	pron	pers|fl|3|nom|hum	11	SUBJ	_	_
+11	sa	seie	verb	verb	pret	3	KOORD	_	_
+12	dei	dei	det	det	dem|fl	13	DET	_	_
+13	gamle	gammal	adj	adj	fl|pos	10	APP	_	_
+14	«	«	anf	anf	_	16	IK	_	_
+15	vi	vi	pron	pron	pers|fl|1|nom|hum	16	SUBJ	_	_
+16	fekk	få	verb	verb	pret	11	DOBJ	_	_
+17	borge	borge	verb	verb	inf	16	INFV	_	_
+18	»	»	anf	anf	_	16	IK	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = å ja .
+# segstart = 78.013
+# segstop = 78.5
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 23
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 78.5
+# segstop = 79.049
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 24
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja # men elles em var det mest om vinteren ein dreiv fiske ?
+# segstart = 80.312
+# segstop = 84.671
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 25
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	6	KONJ	_	_
+4	elles	elles	adv	adv	_	6	ADV	_	_
+5	em	em	nol	nol	_	6	FYLL	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	mest	mykje	adj	adj	ub|sup	6	ADV	_	_
+9	om	om	prep	prep	_	6	SPRED	_	_
+10	vinteren	vinter	subst	subst	appell|eint|mask|bu	9	PUTFYLL	_	_
+11	ein	ein	pron	pron	pers|eint|nom|hum	12	SUBJ	_	_
+12	dreiv	drive	verb	verb	pret	6	ADV	_	_
+13	fiske	fiske	subst	subst	appell|fl|nøyt|ub	12	DOBJ	_	_
+14	?	$?	clb	clb	<spm>	6	IP	_	_
+
+# text = ja eg i alle fall .
+# segstart = 85.243
+# segstop = 86.726
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 26
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	1	ADV	_	_
+3	i	i	prep	prep	_	1	ADV	_	_
+4	alle	all	det	det	kvant|fl	5	DET	_	_
+5	fall	fall	subst	subst	appell|fl|nøyt|ub	3	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 86.726
+# segstop = 87.173
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 27
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så dreiv de gardsbruk òg ?
+# segstart = 87.934
+# segstop = 89.108
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 28
+1	så	så	adv	adv	_	2	ADV	_	_
+2	dreiv	drive	verb	verb	pret	0	FINV	_	_
+3	de	de	pron	pron	pers|fl|2|nom|hum	2	SUBJ	_	_
+4	gardsbruk	gardsbruk	subst	subst	appell|eint|nøyt|ub	2	DOBJ	_	_
+5	òg	òg	adv	adv	_	2	ADV	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja e om sommaren så dreiv vi gardsbruk .
+# segstart = 88.998
+# segstop = 91.925
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 29
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	om	om	prep	prep	_	5	APP	_	_
+4	sommaren	sommar	subst	subst	appell|eint|mask|bu	3	PUTFYLL	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	dreiv	drive	verb	verb	pret	0	FINV	_	_
+7	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+8	gardsbruk	gardsbruk	subst	subst	appell|eint|nøyt|ub	6	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = e kva slags e … ?
+# segstart = 93.68
+# segstop = 95.675
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 30
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	kva	kva	det	det	sp	3	DET	_	_
+3	slags	slags	subst	subst	appell|nøyt	0	FRAG	_	_
+4	e	e	nol	nol	_	3	FYLL	_	_
+5	…	…	ellipsis	ellipsis	_	3	IK	_	_
+6	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = # ja ja det ho var vel ein par og femti fot .
+# segstart = 97.875
+# segstop = 102.335
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 31
+1	#	#	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	6	INTERJ	_	_
+3	ja	ja	interj	interj	_	6	INTERJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	REP	_	_
+5	ho	ho	pron	pron	pers|eint|fem|3|nom	6	SUBJ	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	vel	vel	adv	adv	_	6	ADV	_	_
+8	ein	ein	det	det	kvant|eint|mask	9	DET	_	_
+9	par	par	subst	subst	appell|eint|nøyt|ub	6	SPRED	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	femti	femti	det	det	kvant|fl	12	DET	_	_
+12	fot	fot	subst	subst	appell|eint|mask|ub	9	KOORD	_	_
+13	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = mm # ei skøyte ?
+# segstart = 102.386
+# segstop = 103.796
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 32
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ei	ein	det	det	kvant|eint|fem	4	DET	_	_
+4	skøyte	skøyte	subst	subst	appell|eint|fem|ub	1	ADV	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja .
+# segstart = 103.796
+# segstop = 104.252
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 33
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og e # brukte de landnot òg ?
+# segstart = 105.206
+# segstop = 107.623
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 34
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	brukte	bruke	verb	verb	pret	0	FINV	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	4	SUBJ	_	_
+6	landnot	landnot	subst	subst	appell|eint|fem|ub	4	DOBJ	_	_
+7	òg	òg	adv	adv	_	4	ADV	_	_
+8	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = ja # det var landnot i dei dagar .
+# segstart = 107.623
+# segstop = 110.144
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 35
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	landnot	landnot	subst	subst	appell|eint|fem|ub	4	PSUBJ	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	dei	dei	det	det	dem|fl	8	DET	_	_
+8	dagar	dag	subst	subst	appell|fl|mask|ub	6	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = mm .
+# segstart = 110.144
+# segstop = 110.648
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 36
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kor e korleis bar de dykk åt # når de kasta med den ?
+# segstart = 111.189
+# segstop = 115.741
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 37
+1	kor	kor	adv	adv	_	3	REP	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	korleis	korleis	adv	adv	_	4	ADV	_	_
+4	bar	bere	verb	verb	pret	0	FINV	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	4	SUBJ	_	_
+6	dykk	de	pron	pron	pers|fl|2|akk|hum	4	DOBJ	_	_
+7	åt	åt	prep	prep	_	4	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	de	de	pron	pron	pers|fl|2|nom|hum	11	SUBJ	_	_
+11	kasta	kaste	verb	verb	pret	4	ADV	_	_
+12	med	med	prep	prep	_	11	ADV	_	_
+13	den	den	pron	pron	pers|eint|f/m|3|akk	12	PUTFYLL	_	_
+14	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = ja # der sat to baki og .
+# segstart = 115.741
+# segstop = 121.366
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 38
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	der	der	prep	prep	_	6	PUTFYLL	_	_
+4	sat	sitte	verb	verb	pret	0	FINV	_	_
+5	to	to	det	det	kvant|fl	4	SUBJ	_	_
+6	baki	baki	prep	prep	_	4	ADV	_	_
+7	og	og	konj	konj	_	4	KONJ	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og drog i nota og vi andre vi laut nå ro av svarte livet .
+# segstart = 121.624
+# segstop = 125.782
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 39
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	drog	dra	verb	verb	pret	0	FINV	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	nota	not	subst	subst	appell|eint|fem|bu	3	PUTFYLL	_	_
+5	og	og	konj	konj	_	9	KONJ	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	8	APP	_	_
+7	andre	annan	det	det	dem|fl	6	DET	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	9	SUBJ	_	_
+9	laut	lyte	verb	verb	pret	2	KOORD	_	_
+10	nå	nå	adv	adv	_	11	ADV	_	_
+11	ro	ro	verb	verb	inf	9	INFV	_	_
+12	av	av	prep	prep	_	11	ADV	_	_
+13	svarte	svart	adj	adj	eint|bu|pos	14	ATR	_	_
+14	livet	liv	subst	subst	appell|eint|nøyt|bu	12	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 125.782
+# segstop = 126.978
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 40
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og jamt så var vi fire .
+# segstart = 127.244
+# segstop = 129.185
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 41
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	jamt	jamt	adv	adv	_	4	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	fire	fire	det	det	kvant|fl	4	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det var vi ja .
+# segstart = 132.27
+# segstop = 133.27
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 42
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = em # kasta over ei bukt da gjerne ?
+# segstart = 133.308
+# segstop = 135.99
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 43
+1	em	em	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kasta	kaste	verb	verb	pret	0	FINV	_	_
+4	over	over	prep	prep	_	3	ADV	_	_
+5	ei	ein	det	det	kvant|eint|fem	6	DET	_	_
+6	bukt	bukt	subst	subst	appell|eint|fem|ub	4	PUTFYLL	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	gjerne	gjerne	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja # eller i e # sperra langt utigjennom og .
+# segstart = 135.99
+# segstop = 141.777
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 44
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eller	eller	konj	konj	_	7	KONJ	_	_
+4	i	i	prep	prep	_	7	SLETT	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	sperra	sperre	verb	verb	pret	0	FINV	_	_
+8	langt	lang	adj	adj	eint|nøyt|ub|pos	9	ADV	_	_
+9	utigjennom	utigjennom	prep	prep	_	7	ADV	_	_
+10	og	og	konj	konj	_	7	KONJ	_	_
+11	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = for storsilda den e gjekk nå eit stykke opp i sjøen den .
+# segstart = 142.06
+# segstop = 145.853
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 45
+1	for	for	konj	konj	_	5	KONJ	_	_
+2	storsilda	storsild	subst	subst	appell|eint|fem|bu	3	APP	_	_
+3	den	den	pron	pron	pers|eint|f/m|3|nom	5	SUBJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	gjekk	gå	verb	verb	pret	0	FINV	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	eit	ein	det	det	kvant|eint|nøyt	8	DET	_	_
+8	stykke	stykke	subst	subst	appell|eint|nøyt|ub	5	DOBJ	_	_
+9	opp	opp	prep	prep	_	5	ADV	_	_
+10	i	i	prep	prep	_	5	ADV	_	_
+11	sjøen	sjø	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	den	den	pron	pron	pers|eint|f/m|3|nom	3	APP	_	_
+13	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = somme det var heller da at dei hadde mange nøter så vart kasta etter einannan liksom # skøytte og .
+# segstart = 146.76
+# segstop = 153.253
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 46
+1	somme	somme	pron	pron	pers|fl|3|nom	2	REP	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	heller	heller	adv	adv	_	3	ADV	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	dei	dei	pron	pron	pers|fl|3|nom|hum	8	SUBJ	_	_
+8	hadde	ha	verb	verb	pret	3	SPRED	_	_
+9	mange	mange	adj	adj	fl|pos	10	ATR	_	_
+10	nøter	not	subst	subst	appell|fl|fem|ub	8	DOBJ	_	_
+11	så	så	adv	adv	_	12	SBU	_	_
+12	vart	bli	verb	verb	pret	10	ATR	_	_
+13	kasta	kaste	verb	verb	perf-part	12	INFV	_	_
+14	etter	etter	prep	prep	_	13	ADV	_	_
+15	einannan	einannan	pron	pron	res|fl|nom|hum	14	PUTFYLL	_	_
+16	liksom	liksom	adv	adv	_	13	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	skøytte	skøyte	verb	verb	pret	13	KOORD	_	_
+19	og	og	konj	konj	_	18	KONJ	_	_
+20	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja vel .
+# segstart = 153.837
+# segstop = 154.476
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 47
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = vart du jaga til land .
+# segstart = 154.775
+# segstop = 156.125
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 48
+1	vart	bli	verb	verb	pret	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	jaga	jage	verb	verb	pret	1	INFV	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	land	land	subst	subst	appell|eint|nøyt|ub	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = var inni e bukta da ?
+# segstart = 155.985
+# segstop = 157.69
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 49
+1	var	va	verb	verb	pres	0	FINV	_	_
+2	inni	inni	prep	prep	_	1	ADV	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	bukta	bukt	subst	subst	appell|eint|fem|bu	2	PUTFYLL	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = e ja det måtte du gjere til slutt ja .
+# segstart = 157.155
+# segstop = 160.089
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 50
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+4	måtte	måtte	verb	verb	pret	0	FINV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+6	gjere	gjere	verb	verb	inf	4	INFV	_	_
+7	til	til	prep	prep	_	6	ADV	_	_
+8	slutt	slutt	subst	subst	appell|eint|mask|ub	7	PUTFYLL	_	_
+9	ja	ja	interj	interj	_	4	INTERJ	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = korleis fekk du det opp e utan stenger da ?
+# segstart = 160.674
+# segstop = 163.451
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 51
+1	korleis	korleis	adv	adv	_	2	ADV	_	_
+2	fekk	få	verb	verb	pret	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+5	opp	opp	prep	prep	_	2	ADV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	utan	utan	prep	prep	_	2	ADV	_	_
+8	stenger	stong	subst	subst	appell|fl|fem|ub	7	PUTFYLL	_	_
+9	da	da	adv	adv	_	2	ADV	_	_
+10	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = e ja da hadde dei håvar # som vi # gjorde først eit orkast .
+# segstart = 164.656
+# segstop = 171.117
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 52
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+6	håvar	håv	subst	subst	appell|fl|mask|ub	4	DOBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	som	som	sbu	sbu	_	11	SBU	_	_
+9	vi	vi	pron	pron	pers|fl|1|nom|hum	11	SUBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	gjorde	gjere	verb	verb	pret	4	ADV	_	_
+12	først	først	adv	adv	_	11	ADV	_	_
+13	eit	ein	det	det	kvant|eint|nøyt	14	DET	_	_
+14	orkast	_	subst	subst	_	11	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og så # hadde dei kvitlehåvar så dei kalla .
+# segstart = 172.6
+# segstop = 178.035
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 53
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+6	kvitlehåvar	kvitlehåvar	subst	subst	ub|adj|pos|m/f|samset	4	DOBJ	_	_
+7	så	så	sbu	sbu	_	9	SBU	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+9	kalla	kalle	verb	verb	pret	6	ATR	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = og det var ei stong # ei jernstong i den enden så dei halte ut imot # orkastebåten .
+# segstart = 183.249
+# segstop = 191.922
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 54
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	ei	ein	det	det	kvant|eint|fem	5	DET	_	_
+5	stong	stong	subst	subst	appell|eint|fem|ub	3	PSUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ei	ein	det	det	kvant|eint|fem	8	DET	_	_
+8	jernstong	jernstong	subst	subst	appell|eint|fem|ub	5	APP	_	_
+9	i	i	prep	prep	_	3	ADV	_	_
+10	den	den	det	det	dem|eint|mask	11	DET	_	_
+11	enden	ende	subst	subst	appell|eint|mask|bu	9	PUTFYLL	_	_
+12	så	så	konj	konj	_	14	KONJ	_	_
+13	dei	dei	pron	pron	pers|fl|3|nom|hum	14	SUBJ	_	_
+14	halte	hale	verb	verb	pret	3	KOORD	_	_
+15	ut	ut	prep	prep	_	14	ADV	_	_
+16	imot	imot	prep	prep	_	14	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	orkastebåten	orkestebåt	subst	subst	appell|eint|bu|mask|samset	16	PUTFYLL	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og så når det da dø- var kome plenty sild inni den der kvitelen .
+# segstart = 196.565
+# segstop = 202.457
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 55
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	så	så	adv	adv	_	7	ADV	_	_
+3	når	når	sbu	sbu	_	7	SBU	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+5	da	da	adv	adv	_	7	ADV	_	_
+6	dø-	dø-	ufullst	ufullst	_	7	FYLL	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	kome	komme	verb	verb	eint|nøyt|ub	7	INFV	_	_
+9	plenty	plenty	adv	adv	_	10	ATR	_	_
+10	sild	sild	subst	subst	appell|eint|fem|ub	8	DOBJ	_	_
+11	inni	inni	prep	prep	_	10	ATR	_	_
+12	den	den	pron	pron	pers|eint|f/m|3|akk	14	DET	_	_
+13	der	der	prep	prep	_	14	ATR	_	_
+14	kvitelen	kvitel	subst	subst	appell|eint|mask|bu	11	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = kvitlehåven og # var det til hale til og så så var det til stå og slite der oppe ved skandekket på # notbåten .
+# segstart = 203.029
+# segstop = 210.214
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 56
+1	kvitlehåven	kvitlehåv	subst	subst	appell|eint|bu|mask|samset	4	ADV	_	_
+2	og	og	konj	konj	_	1	KONJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	til	til	prep	prep	_	4	SPRED	_	_
+7	hale	hale	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	til	til	prep	prep	_	12	SLETT	_	_
+9	og	og	konj	konj	_	12	KONJ	_	_
+10	så	så	adv	adv	_	11	REP	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	var	vere	verb	verb	pret	4	KOORD	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+14	til	til	prep	prep	_	12	SPRED	_	_
+15	stå	stå	verb	verb	inf	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	slite	slite	verb	verb	inf	15	KOORD	_	_
+18	der	der	prep	prep	_	17	ADV	_	_
+19	oppe	oppe	prep	prep	_	17	ADV	_	_
+20	ved	ved	prep	prep	_	19	PUTFYLL	_	_
+21	skandekket	skandekk	subst	subst	appell|eint|nøyt|bu	20	PUTFYLL	_	_
+22	på	på	prep	prep	_	21	ATR	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	notbåten	notbåt	subst	subst	appell|eint|mask|bu	22	PUTFYLL	_	_
+25	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det var dei så båten tok .
+# segstart = 212.128
+# segstop = 213.662
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 57
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SPRED	_	_
+4	så	så	sbu	sbu	inf	6	SBU	_	_
+5	båten	båt	subst	subst	appell|eint|mask|bu	6	DOBJ	_	_
+6	tok	ta	verb	verb	pret	3	ATR	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = e # kor mange mann kunne det vere på ein slik båt ?
+# segstart = 215.37
+# segstop = 219.41
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 58
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kor	kor	adv	adv	_	4	ADV	_	_
+4	mange	mange	adj	adj	fl|pos	5	ATR	_	_
+5	mann	mann	subst	subst	appell|eint|mask|ub	8	SPRED	_	_
+6	kunne	kunne	verb	verb	pret	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	vere	vere	verb	verb	inf	6	INFV	_	_
+9	på	på	prep	prep	_	8	ADV	_	_
+10	ein	ein	det	det	kvant|eint|mask	12	DET	_	_
+11	slik	slik	det	det	dem|eint|mask	12	DET	_	_
+12	båt	båt	subst	subst	appell|eint|mask|ub	9	PUTFYLL	_	_
+13	?	$?	clb	clb	<spm>	6	IP	_	_
+
+# text = som oftast seks .
+# segstart = 219.48
+# segstop = 220.613
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 59
+1	som	som	prep	prep	_	2	ADV	_	_
+2	oftast	ofte	adj	adj	sup	3	ADV	_	_
+3	seks	seks	det	det	kvant|fl	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja # så da delte de utbyttet ?
+# segstart = 220.774
+# segstop = 223.46
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 60
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	5	ADV	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	delte	dele	verb	verb	pret	0	FINV	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	5	SUBJ	_	_
+7	utbyttet	utbytte	subst	subst	appell|eint|nøyt|bu	5	DOBJ	_	_
+8	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = seks roarar # og så var der # ein baki # og gjerne # to baki .
+# segstart = 223.472
+# segstop = 231.318
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 61
+1	seks	seks	det	det	kvant|fl	2	DET	_	_
+2	roarar	roar	subst	subst	appell|fl|mask|ub	6	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	der	der	prep	prep	_	6	SUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ein	ein	det	det	pers|eint|nom|hum	6	SPRED	_	_
+10	baki	baki	prep	prep	_	9	ATR	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	15	KONJ	_	_
+13	gjerne	gjerne	adv	adv	_	15	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	to	to	det	det	kvant|fl	9	KOORD	_	_
+16	baki	baki	prep	prep	_	15	ADV	_	_
+17	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = ja vel # kor mange kor mykje kunne det verte på kvar mann da # lut ?
+# segstart = 231.673
+# segstop = 236.911
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 62
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	vel	vel	adv	adv	_	8	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	kor	kor	adv	adv	_	5	ADV	_	_
+5	mange	mange	adj	adj	fl|pos	7	REP	_	_
+6	kor	kor	adv	adv	_	7	ADV	_	_
+7	mykje	mykje	adj	adj	eint|nøyt|ub|pos	10	SPRED	_	_
+8	kunne	kunne	verb	verb	pret	0	FINV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	verte	verte	verb	verb	inf	8	INFV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	kvar	kvar	det	det	kvant|eint|mask	13	DET	_	_
+13	mann	mann	subst	subst	appell|eint|mask|ub	11	PUTFYLL	_	_
+14	da	da	adv	adv	_	10	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	lut	lut	adv	adv	_	8	SLETT	_	_
+17	?	$?	clb	clb	<spm>	8	IP	_	_
+
+# text = nei det var ifrå null og oppigjennom det .
+# segstart = 236.911
+# segstop = 239.816
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 63
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	ifrå	ifrå	prep	prep	_	3	SPRED	_	_
+5	null	null	det	det	kvant|fl	4	PUTFYLL	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	oppigjennom	oppigjennom	prep	prep	_	4	KOORD	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja da kva var det ?
+# segstart = 240.008
+# segstop = 241.768
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 64
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	kva	kva	pron	pron	sp	4	SPRED	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = da var dei regjerte da .
+# segstart = 241.768
+# segstop = 243.694
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 65
+1	da	da	adv	adv	_	2	ADV	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+4	regjerte	regjere	adj	adj	fl	2	SPRED	_	_
+5	da	da	adv	adv	_	2	ADV	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men kvar mann hadde same luten enten han var # fagmann eller han var nybegynnar .
+# segstart = 245.392
+# segstop = 251.212
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 66
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	kvar	kvar	det	det	kvant|eint|mask	3	DET	_	_
+3	mann	mann	subst	subst	appell|eint|mask|ub	4	SUBJ	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	same	same	det	det	dem|bu	6	DET	_	_
+6	luten	lut	subst	subst	appell|eint|mask|bu	4	DOBJ	_	_
+7	enten	enten	konj	konj	_	9	KONJ	_	_
+8	han	han	pron	pron	pers|eint|mask|3|nom	9	SUBJ	_	_
+9	var	vere	verb	verb	pret	4	KOORD	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	fagmann	fagmann	subst	subst	appell|eint|mask|ub	9	SPRED	_	_
+12	eller	eller	konj	konj	_	14	KONJ	_	_
+13	han	han	pron	pron	pers|eint|mask|3|nom	14	SUBJ	_	_
+14	var	vere	verb	verb	pret	9	KOORD	_	_
+15	nybegynnar	nybegynnar	subst	subst	appell|eint|mask|ub	14	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja vel det var likt såleis ?
+# segstart = 251.944
+# segstop = 253.384
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 67
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	vel	vel	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	likt	lik	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+6	såleis	såleis	adv	adv	_	4	ADV	_	_
+7	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = ja .
+# segstart = 253.384
+# segstop = 253.858
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 68
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = basen òg hadde same ?
+# segstart = 254.67
+# segstop = 256.48
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 69
+1	basen	bas	subst	subst	appell|eint|mask|bu	3	SUBJ	_	_
+2	òg	òg	adv	adv	_	3	ADV	_	_
+3	hadde	ha	verb	verb	pret	0	FINV	_	_
+4	same	same	det	det	dem|bu	3	DOBJ	_	_
+5	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja han hadde nå same luten han òg men så hadde han òg bruket .
+# segstart = 256.48
+# segstop = 260.936
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 70
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	3	SUBJ	_	_
+3	hadde	ha	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	same	same	det	det	dem|bu	6	DET	_	_
+6	luten	lut	subst	subst	appell|eint|mask|bu	3	DOBJ	_	_
+7	han	han	pron	pron	pers|eint|mask|3|nom	2	APP	_	_
+8	òg	òg	adv	adv	_	3	ADV	_	_
+9	men	men	konj	konj	_	11	KONJ	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	hadde	ha	verb	verb	pret	3	KOORD	_	_
+12	han	han	pron	pron	pers|eint|mask|3|nom	11	SUBJ	_	_
+13	òg	òg	adv	adv	_	11	ADV	_	_
+14	bruket	bruk	subst	subst	appell|eint|nøyt|bu	11	DOBJ	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja # han eigde det altså ?
+# segstart = 262.159
+# segstop = 265.012
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 71
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+4	eigde	eige	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+6	altså	altså	adv	adv	_	4	ADV	_	_
+7	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = som oftast .
+# segstart = 265.012
+# segstop = 266.049
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 72
+1	som	som	prep	prep	_	0	FRAG	_	_
+2	oftast	ofte	adj	adj	sup	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = e # kor hen e var det helst at ein dreiv etter sild da ?
+# segstart = 267.537
+# segstop = 274.126
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 73
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kor	kor	adv	adv	_	4	ADV	_	_
+4	hen	hen	prep	prep	_	6	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	helst	helst	adv	adv	_	6	ADV	_	_
+9	at	at	sbu	sbu	_	11	SBU	_	_
+10	ein	ein	pron	pron	pers|eint|nom|hum	11	SUBJ	_	_
+11	dreiv	drive	verb	verb	pret	6	SPRED	_	_
+12	etter	etter	prep	prep	_	11	ADV	_	_
+13	sild	sild	subst	subst	appell|eint|fem|ub	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	11	ADV	_	_
+15	?	$?	clb	clb	<spm>	6	IP	_	_
+
+# text = e ja eg e på landnot så var eg med like til Florøya .
+# segstart = 277.426
+# segstop = 282.265
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 74
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	8	INTERJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SLETT	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	på	på	prep	prep	_	7	APP	_	_
+6	landnot	landnot	subst	subst	appell|eint|fem|ub	5	PUTFYLL	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	var	vere	verb	verb	pret	0	FINV	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+10	med	med	prep	prep	_	8	SPRED	_	_
+11	like	like	adv	adv	_	12	ADV	_	_
+12	til	til	prep	prep	_	10	PUTFYLL	_	_
+13	Florøya	Florøya	subst	subst	prop	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = og så e # sør igjennom i Stavangerfjordane eller Rogalandsfjordane .
+# segstart = 284.582
+# segstop = 289.597
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 75
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	så	så	adv	adv	_	5	ADV	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	sør	sør	prep	prep	_	0	FRAG	_	_
+6	igjennom	igjennom	prep	prep	_	5	PUTFYLL	_	_
+7	i	i	prep	prep	_	5	PUTFYLL	_	_
+8	Stavangerfjordane	Stavangerfjordane	subst	subst	prop	7	PUTFYLL	_	_
+9	eller	eller	konj	konj	_	10	KONJ	_	_
+10	Rogalandsfjordane	Rogalandsfjordane	subst	subst	prop	8	KOORD	_	_
+11	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja eg var vel ikkje sørom Fiskøya på landnot .
+# segstart = 293.899
+# segstop = 297.122
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 76
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	sørom	sørom	prep	prep	_	3	SPRED	_	_
+7	Fiskøya	Fiskøya	subst	subst	prop	6	PUTFYLL	_	_
+8	på	på	prep	prep	_	3	ADV	_	_
+9	landnot	landnot	subst	subst	appell|eint|fem|ub	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = hende det at ein drog vest til Island av og til ?
+# segstart = 299.38
+# segstop = 302.333
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 77
+1	hende	hende	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	at	at	sbu	sbu	_	5	SBU	_	_
+4	ein	ein	pron	pron	pers|eint|nom|hum	5	SUBJ	_	_
+5	drog	dra	verb	verb	pret	1	PSUBJ	_	_
+6	vest	vest	prep	prep	_	5	ADV	_	_
+7	til	til	prep	prep	_	5	ADV	_	_
+8	Island	Island	subst	subst	prop	7	PUTFYLL	_	_
+9	av	av	prep	prep	_	5	ADV	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	til	til	prep	prep	_	9	ADV	_	_
+12	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ikkje eg har aldri vore vestover havet anna # når det var på snurpenota eg .
+# segstart = 302.269
+# segstop = 307.871
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 78
+1	ikkje	ikkje	adv	adv	_	4	REP	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	aldri	aldri	adv	adv	_	5	ADV	_	_
+5	vore	vere	verb	verb	perf-part	3	INFV	_	_
+6	vestover	vestover	prep	prep	_	5	SPRED	_	_
+7	havet	hav	subst	subst	appell|eint|nøyt|bu	6	PUTFYLL	_	_
+8	anna	annan	det	det	dem|eint|nøyt|ub|pos	10	DET	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	var	vere	verb	verb	pret	5	ADV	_	_
+13	på	på	prep	prep	_	12	SPRED	_	_
+14	snurpenota	snurpenot	subst	subst	appell|eint|fem|bu	13	PUTFYLL	_	_
+15	eg	eg	pron	pron	pers|eint|1|nom|hum	2	APP	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = nei .
+# segstart = 307.721
+# segstop = 308.201
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 79
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = kva tid kom e snurpenota i bruk ?
+# segstart = 309.535
+# segstop = 311.876
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 80
+1	kva	kva	det	det	sp	2	DET	_	_
+2	tid	tid	subst	subst	appell|eint|fem|ub	3	ADV	_	_
+3	kom	komme	verb	verb	pret	0	FINV	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	snurpenota	snurpenot	subst	subst	appell|eint|bu|fem|samset	3	SUBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	bruk	bruk	subst	subst	appell|eint|nøyt|ub	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = e ja den var nå vel kommen antakeleg i bruk føre mine dagar .
+# segstart = 311.876
+# segstop = 316.42
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 81
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	den	den	pron	pron	pers|eint|f/m|3|nom	4	SUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	vel	vel	adv	adv	_	4	ADV	_	_
+7	kommen	komme	adj	adj	eint|m/f|ub	4	SPRED	_	_
+8	antakeleg	antakeleg	adj	adj	eint|nøyt|ub|pos	9	ADV	_	_
+9	i	i	prep	prep	_	7	ADV	_	_
+10	bruk	bruk	subst	subst	appell|eint|nøyt|ub	9	PUTFYLL	_	_
+11	føre	føre	prep	prep	_	10	ATR	_	_
+12	mine	min	det	det	poss|fl	13	DET	_	_
+13	dagar	dag	subst	subst	appell|fl|mask|ub	11	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = eg går ut ifrå det # men eg e var ikkje på snurpenot # e altså på vintersnurpa var ikkje eg før i .
+# segstart = 317.007
+# segstop = 325.136
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 82
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	går	gå	verb	verb	pres	0	FINV	_	_
+3	ut	ut	prep	prep	_	2	ADV	_	_
+4	ifrå	ifrå	prep	prep	_	2	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	men	men	konj	konj	_	10	KONJ	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	var	vere	verb	verb	pret	2	KOORD	_	_
+11	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+12	på	på	prep	prep	_	10	SPRED	_	_
+13	snurpenot	snurpenot	subst	subst	appell|eint|fem|ub	12	PUTFYLL	_	_
+14	#	#	pause	pause	_	16	IK	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	altså	altså	adv	adv	_	19	ADV	_	_
+17	på	på	prep	prep	_	19	SPRED	_	_
+18	vintersnurpa	vintersnurpe	subst	subst	appell|eint|bu|fem|samset	17	PUTFYLL	_	_
+19	var	vere	verb	verb	pret	2	KOORD	_	_
+20	ikkje	ikkje	adv	adv	_	19	ADV	_	_
+21	eg	eg	pron	pron	pers|eint|1|nom|hum	19	SUBJ	_	_
+22	før	før	prep	prep	_	19	ADV	_	_
+23	i	i	prep	prep	_	19	ADV	_	_
+24	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = seksogtretti veit eg # jau eg var nå gjerne før kanskje lite grann .
+# segstart = 326.926
+# segstop = 331.601
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 83
+1	seksogtretti	seksogtretti	det	det	kvant|fl|samset	2	DET	_	_
+2	veit	vite	verb	verb	pres	7	REP	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	jau	jau	interj	interj	_	7	INTERJ	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	nå	nå	adv	adv	_	7	ADV	_	_
+9	gjerne	gjerne	adv	adv	_	7	ADV	_	_
+10	før	før	prep	prep	_	7	SPRED	_	_
+11	kanskje	kanskje	adv	adv	_	7	ADV	_	_
+12	lite	liten	adj	adj	eint|nøyt|ub|pos	13	ATR	_	_
+13	grann	grann	subst	subst	appell|eint|nøyt|ub	7	ADV	_	_
+14	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = e men e brislingesnurpa var eg nå med tidlegare .
+# segstart = 334.195
+# segstop = 337.658
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 84
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	brislingesnurpa	brislingesnurpe	subst	subst	appell|eint|bu|fem|samset	8	PUTFYLL	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+7	nå	nå	adv	adv	_	5	ADV	_	_
+8	med	med	prep	prep	_	5	SPRED	_	_
+9	tidlegare	tidleg	adj	adj	comp	5	ADV	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja # men det var vel helst om sommaren ?
+# segstart = 338.658
+# segstop = 341.005
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 85
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	var	vere	verb	verb	pret	0	KOORD	_	_
+6	vel	vel	adv	adv	_	5	ADV	_	_
+7	helst	helst	adv	adv	_	5	ADV	_	_
+8	om	om	prep	prep	_	5	SPRED	_	_
+9	sommaren	sommar	subst	subst	appell|eint|mask|bu	8	PUTFYLL	_	_
+10	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = ja det var sommar .
+# segstart = 341.005
+# segstop = 342.249
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 86
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	sommar	sommar	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = langt inn i fjordane ?
+# segstart = 343.331
+# segstop = 344.542
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 87
+1	langt	lang	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+2	inn	inn	prep	prep	_	0	FRAG	_	_
+3	i	i	prep	prep	_	2	PUTFYLL	_	_
+4	fjordane	fjord	subst	subst	appell|fl|mask|bu	3	PUTFYLL	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja .
+# segstart = 344.542
+# segstop = 345.04
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 88
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = korleis e var arbeidet fordelt når ein kasta kven var det som hadde # kommandoen og kven e ?
+# segstart = 352.191
+# segstop = 358.369
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 89
+1	korleis	korleis	adv	adv	_	3	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	arbeidet	arbeid	subst	subst	appell|eint|nøyt|bu	3	SUBJ	_	_
+5	fordelt	fordele	adj	adj	eint|nøyt|ub	3	SPRED	_	_
+6	når	når	sbu	sbu	_	8	SBU	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	8	SUBJ	_	_
+8	kasta	kaste	verb	verb	pret	3	ADV	_	_
+9	kven	kven	pron	pron	sp|akk|hum	10	SPRED	_	_
+10	var	vere	verb	verb	pret	3	KOORD	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+12	som	som	sbu	sbu	_	13	SBU	_	_
+13	hadde	ha	verb	verb	pret	9	ATR	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	kommandoen	kommando	subst	subst	appell|eint|mask|bu	13	SPRED	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	kven	kven	pron	pron	sp|akk|hum	9	KOORD	_	_
+18	e	e	nol	nol	_	3	FYLL	_	_
+19	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja det var nå basen så hadde kommandoen veit du og # så kommanderte nota ut .
+# segstart = 358.369
+# segstop = 365.048
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 90
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	basen	bas	subst	subst	appell|eint|mask|bu	3	SPRED	_	_
+6	så	så	sbu	sbu	_	7	SBU	_	_
+7	hadde	ha	verb	verb	pret	5	ATR	_	_
+8	kommandoen	kommando	subst	subst	appell|eint|mask|bu	7	DOBJ	_	_
+9	veit	vite	verb	verb	pres	3	PAR	_	_
+10	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	kommanderte	kommandere	verb	verb	pret	7	KOORD	_	_
+15	nota	not	subst	subst	appell|eint|fem|bu	14	DOBJ	_	_
+16	ut	ut	prep	prep	_	14	ADV	_	_
+17	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = var det han som lodda etter fisken ?
+# segstart = 367.954
+# segstop = 370.412
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 91
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	1	SPRED	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	lodda	lodde	verb	verb	pret	3	ATR	_	_
+6	etter	etter	prep	prep	_	5	ADV	_	_
+7	fisken	fisk	subst	subst	appell|eint|mask|bu	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja .
+# segstart = 369.852
+# segstop = 370.487
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 92
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = som bestemte når ein skulle kaste ?
+# segstart = 371.337
+# segstop = 372.9
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 93
+1	som	som	sbu	sbu	_	2	SBU	_	_
+2	bestemte	bestemme	verb	verb	pret	0	FINV	_	_
+3	når	når	sbu	sbu	_	5	SBU	_	_
+4	ein	ein	pron	pron	pers|eint|nom|hum	5	SUBJ	_	_
+5	skulle	skulle	verb	verb	pret	2	DOBJ	_	_
+6	kaste	kaste	verb	verb	inf	5	INFV	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja .
+# segstart = 372.7
+# segstop = 373.462
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 94
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og så var det da e # kor mange var det da så og så mange mann i båt ?
+# segstart = 375.77
+# segstop = 380.614
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 95
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	vere	verb	verb	pret	10	REP	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	kor	kor	adv	adv	_	9	ADV	_	_
+9	mange	mange	adj	adj	fl|pos	10	SPRED	_	_
+10	var	vere	verb	verb	pret	0	FINV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+12	da	da	adv	adv	_	10	ADV	_	_
+13	så	så	adv	adv	_	17	ADV	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	så	så	adv	adv	_	13	KOORD	_	_
+16	mange	mange	adj	adj	eint|bu|pos	17	ATR	_	_
+17	mann	mann	subst	subst	appell|eint|mask|ub	10	ADV	_	_
+18	i	i	prep	prep	_	17	ATR	_	_
+19	båt	båt	subst	subst	appell|eint|mask|ub	18	PUTFYLL	_	_
+20	?	$?	clb	clb	<spm>	10	IP	_	_
+
+# text = ja # var det på landnot så var det seks mann så rodde og så var det to så # kasta nota .
+# segstart = 380.583
+# segstop = 388.358
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 96
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	på	på	prep	prep	_	3	SPRED	_	_
+6	landnot	landnot	subst	subst	appell|eint|fem|ub	5	PUTFYLL	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	var	vere	verb	verb	pret	3	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	seks	seks	det	det	kvant|fl	11	DET	_	_
+11	mann	mann	subst	subst	appell|eint|mask|ub	8	SPRED	_	_
+12	så	så	sbu	sbu	_	13	SBU	_	_
+13	rodde	ro	verb	verb	pret	11	ATR	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	var	vere	verb	verb	pret	8	KOORD	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	16	FSUBJ	_	_
+18	to	to	det	det	kvant|fl	16	SPRED	_	_
+19	så	så	sbu	sbu	_	21	SBU	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	kasta	kaste	verb	verb	pret	18	ATR	_	_
+22	nota	not	subst	subst	appell|eint|fem|bu	21	DOBJ	_	_
+23	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 388.351
+# segstop = 388.805
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 97
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var nå gjerne ein ut og ein lettbåt så kom inn og kasta med .
+# segstart = 389.224
+# segstop = 392.357
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 98
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	gjerne	gjerne	adv	adv	_	2	ADV	_	_
+5	ein	ein	pron	pron	pers|eint|nom|hum	2	SPRED	_	_
+6	ut	ut	prep	prep	_	2	ADV	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	ein	ein	det	det	kvant|eint|mask	9	DET	_	_
+9	lettbåt	lettbåt	subst	subst	appell|eint|mask|ub	2	ADV	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	kom	komme	verb	verb	pret	9	ATR	_	_
+12	inn	inn	prep	prep	_	11	ADV	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	kasta	kaste	verb	verb	pret	11	KOORD	_	_
+15	med	med	prep	prep	_	14	ADV	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = korleis e låg nota baki ?
+# segstart = 392.357
+# segstop = 394.713
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 99
+1	korleis	korleis	adv	adv	_	3	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	låg	ligge	verb	verb	pret	0	FINV	_	_
+4	nota	not	subst	subst	appell|eint|fem|bu	3	SUBJ	_	_
+5	baki	baki	prep	prep	_	3	ADV	_	_
+6	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = den låg bak # i rommet den og .
+# segstart = 394.713
+# segstop = 399.057
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 100
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	SUBJ	_	_
+2	låg	ligge	verb	verb	pret	0	FINV	_	_
+3	bak	bak	prep	prep	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	rommet	rom	subst	subst	appell|eint|nøyt|bu	5	PUTFYLL	_	_
+7	den	den	pron	pron	pers|eint|f/m|3|nom	1	APP	_	_
+8	og	og	konj	konj	_	2	KONJ	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = var delt i to liksom # at dei hadde halv not # framme # og så .
+# segstart = 399.237
+# segstop = 406.491
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 101
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	delt	dele	adj	adj	eint|nøyt|ub	1	SPRED	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	to	to	det	det	kvant|fl	3	PUTFYLL	_	_
+5	liksom	liksom	adv	adv	_	1	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+9	hadde	ha	verb	verb	pret	1	KOORD	_	_
+10	halv	halv	adj	adj	eint|m/f|ub|pos	11	ATR	_	_
+11	not	not	subst	subst	appell|eint|fem|ub	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	framme	framme	prep	prep	_	9	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	så	så	adv	adv	_	1	SLETT	_	_
+17	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = å ja .
+# segstart = 401.716
+# segstop = 402.292
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 102
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = skifta dei over da så at grunnen halve nota kom på be- av grunnen kom på begge sider og .
+# segstart = 406.645
+# segstop = 413.079
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 103
+1	skifta	skifte	verb	verb	pret	0	FINV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	SUBJ	_	_
+3	over	over	prep	prep	_	1	ADV	_	_
+4	da	da	adv	adv	_	1	ADV	_	_
+5	så	så	adv	adv	_	1	ADV	_	_
+6	at	at	sbu	sbu	_	15	SBU	_	_
+7	grunnen	grunn	subst	subst	appell|eint|mask|bu	9	REP	_	_
+8	halve	halv	adj	adj	eint|bu|pos	9	ATR	_	_
+9	nota	not	subst	subst	appell|eint|fem|bu	10	SUBJ	_	_
+10	kom	komme	verb	verb	pret	15	REP	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	be-	be-	ufullst	ufullst	_	13	FYLL	_	_
+13	av	av	prep	prep	_	10	ADV	_	_
+14	grunnen	grunn	subst	subst	appell|eint|mask|bu	15	SUBJ	_	_
+15	kom	komme	verb	verb	pret	1	ADV	_	_
+16	på	på	prep	prep	_	15	ADV	_	_
+17	begge	begge	det	det	kvant|fl	18	DET	_	_
+18	sider	side	subst	subst	appell|fl|fem|ub	16	PUTFYLL	_	_
+19	og	og	konj	konj	_	15	KONJ	_	_
+20	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = for å halde båten bein .
+# segstart = 413.442
+# segstop = 414.773
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 104
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	å	å	inf-merke	inf-merke	_	1	PUTFYLL	_	_
+3	halde	halde	verb	verb	inf	2	INFV	_	_
+4	båten	båt	subst	subst	appell|eint|mask|bu	3	DOBJ	_	_
+5	bein	bein	adj	adj	eint|m/f|ub|pos	4	ATR	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = å ja såleis ja .
+# segstart = 414.985
+# segstop = 416.595
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 105
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	såleis	såleis	adv	adv	_	4	ADV	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 415.851
+# segstop = 416.383
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 106
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = da var vel ho var vel ganske tung ?
+# segstart = 416.725
+# segstop = 418.509
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 107
+1	da	da	adv	adv	_	2	ADV	_	_
+2	var	vere	verb	verb	pret	5	REP	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	ho	ho	pron	pron	pers|eint|fem|3|nom	5	SUBJ	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	vel	vel	adv	adv	_	5	ADV	_	_
+7	ganske	ganske	adv	adv	_	8	ADV	_	_
+8	tung	tung	adj	adj	eint|m/f|ub|pos	5	SPRED	_	_
+9	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = ja gyseleg .
+# segstart = 418.509
+# segstop = 419.835
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 108
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	gyseleg	gyseleg	adj	adj	eint|nøyt|ub|pos	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var mykje bly ?
+# segstart = 420.331
+# segstop = 421.806
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 109
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	mykje	mykje	adj	adj	eint|nøyt|ub|pos	4	ATR	_	_
+4	bly	bly	subst	subst	appell|fl|nøyt|ub	2	SPRED	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = nei det var stein # stein ja vi brukte i dei dagar .
+# segstart = 421.806
+# segstop = 425.88
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 110
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	stein	stein	adj	adj	eint|m/f|ub|pos	3	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	stein	stein	adj	adj	eint|m/f|ub|pos	9	DOBJ	_	_
+7	ja	ja	interj	interj	_	9	INTERJ	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	9	SUBJ	_	_
+9	brukte	bruke	verb	verb	pret	3	KOORD	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	dei	dei	det	det	dem|fl	12	DET	_	_
+12	dagar	dag	subst	subst	appell|fl|mask|ub	10	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det var stein du brukte ?
+# segstart = 423.074
+# segstop = 424.12
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 111
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	stein	stein	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	brukte	bruke	verb	verb	pret	3	ADV	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = nei blyet det kapteinane det kom når dei begynte med snurpenøter da .
+# segstart = 425.88
+# segstop = 429.55
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 112
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	blyet	bly	subst	subst	appell|eint|nøyt|bu	3	APP	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	5	REP	_	_
+4	kapteinane	kaptein	subst	subst	appell|fl|mask|bu	5	APP	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	SUBJ	_	_
+6	kom	komme	verb	verb	pret	0	FINV	_	_
+7	når	når	sbu	sbu	_	9	SBU	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+9	begynte	begynne	verb	verb	pret	6	DOBJ	_	_
+10	med	med	prep	prep	_	9	ADV	_	_
+11	snurpenøter	snurpenot	subst	subst	appell|fl|fem|ub	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	9	ADV	_	_
+13	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = ja vel .
+# segstart = 429.55
+# segstop = 430.173
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 113
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men det vart vel ganske tungt ?
+# segstart = 430.97
+# segstop = 432.789
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 114
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	vart	bli	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	ganske	ganske	adv	adv	_	6	ADV	_	_
+6	tungt	tung	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+7	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja det var tungt det gjekk seint når du skulle kage henne .
+# segstart = 432.839
+# segstop = 436.619
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 115
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	tungt	tung	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	gjekk	gå	verb	verb	pret	3	KOORD	_	_
+7	seint	sein	adj	adj	eint|nøyt|ub|pos	6	SPRED	_	_
+8	når	når	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+10	skulle	skulle	verb	verb	pret	6	ADV	_	_
+11	kage	kage	verb	verb	inf	10	INFV	_	_
+12	henne	ho	pron	pron	pers|eint|fem|3|akk	11	DOBJ	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 436.619
+# segstop = 437.144
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 116
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = for da stod dei med ein spake på rullen bak da .
+# segstart = 437.452
+# segstop = 440.252
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 117
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	stod	stå	verb	verb	pret	0	FINV	_	_
+4	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+5	med	med	prep	prep	_	3	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+7	spake	spak	subst	subst	appell|eint|mask|ub	5	PUTFYLL	_	_
+8	på	på	prep	prep	_	3	ADV	_	_
+9	rullen	rull	subst	subst	appell|eint|mask|bu	8	PUTFYLL	_	_
+10	bak	bak	adv	adv	_	3	ADV	_	_
+11	da	da	adv	adv	_	3	ADV	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = hadde de spel på den e ?
+# segstart = 440.269
+# segstop = 441.709
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 118
+1	hadde	ha	verb	verb	pret	0	FINV	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	1	SUBJ	_	_
+3	spel	spel	subst	subst	appell|eint|nøyt|ub	1	DOBJ	_	_
+4	på	på	prep	prep	_	3	ATR	_	_
+5	den	den	pron	pron	pers|eint|f/m|3|akk	4	PUTFYLL	_	_
+6	e	e	nol	nol	_	1	FYLL	_	_
+7	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei det var eit slags spel men det var spakspel dei kalla .
+# segstart = 441.709
+# segstop = 445.7
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 119
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	eit	ein	det	det	kvant|eint|nøyt	6	DET	_	_
+5	slags	slags	subst	subst	appell|nøyt	6	ATR	_	_
+6	spel	spel	subst	subst	appell|eint|nøyt|ub	3	SPRED	_	_
+7	men	men	konj	konj	_	9	KONJ	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	var	vere	verb	verb	pret	3	KOORD	_	_
+10	spakspel	spakspel	subst	subst	appell|ub|fl|nøyt|samset	9	SPRED	_	_
+11	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+12	kalla	kalle	verb	verb	pret	10	ATR	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = korleis fungerte det ?
+# segstart = 445.689
+# segstop = 446.824
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 120
+1	korleis	korleis	adv	adv	_	2	ADV	_	_
+2	fungerte	fungere	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = jau det # var det # ei dokke ja eg veit ikkje kalla det for .
+# segstart = 446.784
+# segstop = 452.255
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 121
+1	jau	jau	interj	interj	_	4	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ei	ein	det	det	kvant|eint|fem	8	DET	_	_
+8	dokke	dokke	subst	subst	appell|eint|fem|ub	4	SPRED	_	_
+9	ja	ja	interj	interj	_	11	INTERJ	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	11	SUBJ	_	_
+11	veit	vite	verb	verb	pres	4	KOORD	_	_
+12	ikkje	ikkje	adv	adv	_	13	ADV	_	_
+13	kalla	kalle	verb	verb	pret	11	DOBJ	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	13	DOBJ	_	_
+15	for	for	prep	prep	_	13	ADV	_	_
+16	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ei opning der så var det tannhjul # eller hakar rundt .
+# segstart = 452.813
+# segstop = 457.631
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 122
+1	ei	ein	det	det	kvant|eint|fem	2	DET	_	_
+2	opning	opning	subst	subst	appell|eint|fem|ub	5	SLETT	_	_
+3	der	der	prep	prep	_	2	ATR	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+7	tannhjul	tannhjul	subst	subst	appell|fl|nøyt|ub	5	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	eller	eller	konj	konj	_	10	KONJ	_	_
+10	hakar	hake	subst	subst	appell|fl|mask|ub	7	KOORD	_	_
+11	rundt	rundt	prep	prep	_	5	ADV	_	_
+12	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja .
+# segstart = 457.643
+# segstop = 458.314
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 123
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og når ho gjorde slik opp og så ned så var neste mann på hi side og så var det han oppe # og ned .
+# segstart = 458.54
+# segstop = 465.82
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 124
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	ho	ho	pron	pron	pers|eint|fem|3|nom	4	SUBJ	_	_
+4	gjorde	gjere	verb	verb	pret	10	APP	_	_
+5	slik	slik	adv	adv	_	4	ADV	_	_
+6	opp	opp	prep	prep	_	4	ADV	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	ned	ned	prep	prep	_	6	KOORD	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	var	vere	verb	verb	pret	0	FINV	_	_
+12	neste	neste	adj	adj	eint|nøyt|ub|pos	13	ATR	_	_
+13	mann	mann	subst	subst	appell|eint|mask|ub	11	SUBJ	_	_
+14	på	på	prep	prep	_	11	SPRED	_	_
+15	hi	hin	det	det	dem|eint|fem	16	DET	_	_
+16	side	side	subst	subst	appell|eint|fem|ub	14	PUTFYLL	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	så	så	adv	adv	_	19	ADV	_	_
+19	var	vere	verb	verb	pret	11	KOORD	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	19	FSUBJ	_	_
+21	han	han	pron	pron	pers|eint|mask|3|akk	19	SPRED	_	_
+22	oppe	oppe	prep	prep	_	19	ADV	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	ned	ned	prep	prep	_	22	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	11	IP	_	_
+
+# text = å ja .
+# segstart = 465.926
+# segstop = 466.307
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 125
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = sånn # ja akkurat så nesten så du vil # strekke ein løypestreng da .
+# segstart = 466.583
+# segstop = 473.173
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 126
+1	sånn	sånn	adv	adv	_	9	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	9	INTERJ	_	_
+4	akkurat	akkurat	adv	adv	_	9	ADV	_	_
+5	så	så	sbu	sbu	_	9	ADV	_	_
+6	nesten	nesten	adv	adv	_	9	ADV	_	_
+7	så	så	sbu	sbu	_	9	SBU	_	_
+8	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+9	vil	vilje	verb	verb	pres	0	FINV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	strekke	strekke	verb	verb	inf	9	INFV	_	_
+12	ein	ein	det	det	kvant|eint|mask	13	DET	_	_
+13	løypestreng	løypestreng	subst	subst	appell|eint|mask|ub	11	DOBJ	_	_
+14	da	da	adv	adv	_	11	ADV	_	_
+15	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = så det var stans ?
+# segstart = 467.415
+# segstop = 468.838
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 127
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	stans	stans	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+5	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja .
+# segstart = 473.133
+# segstop = 473.57
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 128
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så det gjekk gyseleg seint .
+# segstart = 474.369
+# segstop = 476.219
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 129
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	gjekk	gå	verb	verb	pret	0	FINV	_	_
+4	gyseleg	gyseleg	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+5	seint	sein	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 476.219
+# segstop = 476.655
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 130
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og e men e når ein skulle levere dette her kom det båtar og tok ?
+# segstart = 480.437
+# segstop = 485.717
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 131
+1	og	og	konj	konj	_	3	REP	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	men	men	konj	konj	_	11	KONJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	ein	ein	pron	pron	pers|eint|nom|hum	7	SUBJ	_	_
+7	skulle	skulle	verb	verb	pret	11	ADV	_	_
+8	levere	levere	verb	verb	inf	7	INFV	_	_
+9	dette	dette	pron	pron	pers|eint|nøyt|3|akk	8	DOBJ	_	_
+10	her	her	prep	prep	_	9	ATR	_	_
+11	kom	komme	verb	verb	pret	0	FINV	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+13	båtar	båt	subst	subst	appell|fl|mask|ub	11	PSUBJ	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	tok	ta	verb	verb	pret	11	KOORD	_	_
+16	?	$?	clb	clb	<spm>	11	IP	_	_
+
+# text = ja kom isebåtar # når ho skulle levere til isings .
+# segstart = 485.497
+# segstop = 490.894
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 132
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	isebåtar	isebåt	subst	subst	appell|ub|fl|mask|samset	2	SPRED	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	ho	ho	pron	pron	pers|eint|fem|3|nom	7	SUBJ	_	_
+7	skulle	skulle	verb	verb	pret	2	ADV	_	_
+8	levere	levere	verb	verb	inf	7	INFV	_	_
+9	til	til	prep	prep	_	8	ADV	_	_
+10	isings	ising	subst	subst	appell|eint|fem|ub	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 491.195
+# segstop = 491.941
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 133
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = laut du levere til guano så kom det nå .
+# segstart = 493.377
+# segstop = 496.495
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 134
+1	laut	lyte	verb	verb	pret	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	levere	levere	verb	verb	inf	1	INFV	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	guano	guano	subst	subst	appell|eint|mask|ub	4	PUTFYLL	_	_
+6	så	så	sbu	sbu	_	7	SBU	_	_
+7	kom	komme	verb	verb	pret	1	ADV	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+9	nå	nå	adv	adv	_	7	ADV	_	_
+10	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = fraktefart du veit eg .
+# segstart = 499.477
+# segstop = 501.027
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 135
+1	fraktefart	fraktefart	subst	subst	appell|eint|ub|mask|samset	3	SLETT	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SLETT	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 501.027
+# segstop = 501.543
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 136
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = dei kom på staden dei òg ?
+# segstart = 503.355
+# segstop = 505.013
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 137
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+2	kom	komme	verb	verb	pret	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	staden	stad	subst	subst	appell|eint|mask|bu	3	PUTFYLL	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	1	APP	_	_
+6	òg	òg	adv	adv	_	2	ADV	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja dei kom på på staden .
+# segstart = 505.013
+# segstop = 506.657
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 138
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	kom	komme	verb	verb	pret	0	FINV	_	_
+4	på	på	prep	prep	_	5	REP	_	_
+5	på	på	prep	prep	_	3	ADV	_	_
+6	staden	stad	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = dei Eng- dei desse der isebåtane så gjekk på England dei var som oftast ifrå atten hundre til to og tjue hundre kasser .
+# segstart = 507.562
+# segstop = 515.569
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 139
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	4	REP	_	_
+2	Eng-	Eng-	subst	subst	prop	3	SLETT	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	REP	_	_
+4	desse	desse	pron	pron	pers|fl|3|nom	6	DET	_	_
+5	der	der	prep	prep	_	4	ADV	_	_
+6	isebåtane	isebåt	subst	subst	appell|bu|fl|mask|samset	8	SUBJ	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	gjekk	gå	verb	verb	pret	0	FINV	_	_
+9	på	på	prep	prep	_	8	ADV	_	_
+10	England	England	subst	subst	prop	9	PUTFYLL	_	_
+11	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+12	var	vere	verb	verb	pret	8	KOORD	_	_
+13	som	som	prep	prep	_	12	ADV	_	_
+14	oftast	ofte	adj	adj	sup	13	PUTFYLL	_	_
+15	ifrå	ifrå	prep	prep	_	12	SPRED	_	_
+16	atten	atten	det	det	kvant|fl	17	DET	_	_
+17	hundre	hundre	det	det	kvant|fl	15	PUTFYLL	_	_
+18	til	til	prep	prep	_	15	ADV	_	_
+19	to	to	det	det	kvant|fl	22	DET	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	tjue	tjue	det	det	kvant|fl	19	KOORD	_	_
+22	hundre	hundre	det	det	kvant|fl	23	DET	_	_
+23	kasser	kasse	subst	subst	appell|fl|fem|ub	18	PUTFYLL	_	_
+24	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = men dei som gjekk på Tyskland dei tok opptil .
+# segstart = 516.237
+# segstop = 518.569
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 140
+1	men	men	konj	konj	_	8	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	7	APP	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	gjekk	gå	verb	verb	pret	2	ATR	_	_
+5	på	på	prep	prep	_	4	ADV	_	_
+6	Tyskland	Tyskland	subst	subst	prop	5	PUTFYLL	_	_
+7	dei	dei	pron	pron	pers|fl|3|nom|hum	8	SUBJ	_	_
+8	tok	ta	verb	verb	pret	0	FINV	_	_
+9	opptil	opptil	prep	prep	_	8	ADV	_	_
+10	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = seks sju tusen kasser .
+# segstart = 520.658
+# segstop = 522.537
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 141
+1	seks	seks	det	det	kvant|fl	3	DET	_	_
+2	sju	sju	det	det	kvant|fl	3	DET	_	_
+3	tusen	tusen	det	det	kvant|fl	4	DET	_	_
+4	kasser	kasse	subst	subst	appell|fl|fem|ub	0	FRAG	_	_
+5	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = eller hektoliter eller det vart nå hektoliter # det var vel .
+# segstart = 525.761
+# segstop = 529.9
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 142
+1	eller	eller	konj	konj	_	2	KONJ	_	_
+2	hektoliter	hektoliter	subst	subst	appell|fl|mask|ub	5	ADV	_	_
+3	eller	eller	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	vart	bli	verb	verb	pret	0	FINV	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	hektoliter	hektoliter	subst	subst	appell|fl|mask|ub	5	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+10	var	vere	verb	verb	pret	5	KOORD	_	_
+11	vel	vel	adv	adv	_	10	ADV	_	_
+12	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = i niogtjue # eg trur ikkje eg var med og leverte # før i niogtjue hektoliter .
+# segstart = 531.737
+# segstop = 539.574
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 143
+1	i	i	prep	prep	_	5	ADV	_	_
+2	niogtjue	niogtjue	det	det	kvant|fl|samset	1	PUTFYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	trur	tru	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+8	var	vere	verb	verb	pret	5	DOBJ	_	_
+9	med	med	prep	prep	_	8	SPRED	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	leverte	levere	verb	verb	pret	8	KOORD	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	før	før	prep	prep	_	11	ADV	_	_
+14	i	i	prep	prep	_	13	PUTFYLL	_	_
+15	niogtjue	niogtjue	det	det	kvant|fl|samset	16	DET	_	_
+16	hektoliter	hektoliter	subst	subst	appell|fl|mask|ub	14	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = nei .
+# segstart = 539.653
+# segstop = 540.252
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 144
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = etter snurpenota kom så vart det vel noko enklare å # og mindre slit kanskje og eller skulle til å seie ?
+# segstart = 544.167
+# segstop = 552.322
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 145
+1	etter	etter	prep	prep	_	3	ADV	_	_
+2	snurpenota	snurpenot	subst	subst	appell|eint|fem|bu	1	PUTFYLL	_	_
+3	kom	komme	verb	verb	pret	4	APP	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	vart	bli	verb	verb	pret	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+7	vel	vel	adv	adv	_	5	ADV	_	_
+8	noko	nokon	det	det	kvant|eint|nøyt	9	DET	_	_
+9	enklare	enkel	adj	adj	comp	5	DOBJ	_	_
+10	å	å	inf-merke	inf-merke	_	12	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	mindre	liten	adj	adj	comp	14	ATR	_	_
+14	slit	slit	subst	subst	appell|fl|nøyt|ub	9	KOORD	_	_
+15	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+16	og	og	konj	konj	_	17	REP	_	_
+17	eller	eller	konj	konj	_	18	KONJ	_	_
+18	skulle	skulle	verb	verb	pret	5	KOORD	_	_
+19	til	til	prep	prep	_	18	ADV	_	_
+20	å	å	inf-merke	inf-merke	_	19	PUTFYLL	_	_
+21	seie	seie	verb	verb	inf	20	INFV	_	_
+22	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = det e trur eg ikkje .
+# segstart = 552.322
+# segstop = 553.992
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 146
+1	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	trur	tru	verb	verb	pres	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det vart ikkje det ?
+# segstart = 554.183
+# segstop = 555.282
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 147
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	vart	bli	verb	verb	pret	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = det vart ein annan måte kanskje ?
+# segstart = 557.932
+# segstop = 559.102
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 148
+1	det	det	pron	pron	dem|eint|nøyt	2	FSUBJ	_	_
+2	vart	verte	verb	verb	pret	0	FINV	_	_
+3	ein	ein	det	det	kvant|eint|mask	5	DET	_	_
+4	annan	annan	det	det	dem|eint|mask|ub|pos	5	DET	_	_
+5	måte	måte	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+6	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja det vart ein heilt annan måte # da rodde du òg nota ut til begynne med .
+# segstart = 559.062
+# segstop = 564.241
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 149
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	vart	bli	verb	verb	pret	0	FINV	_	_
+4	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+5	heilt	heil	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	annan	annan	det	det	dem|eint|mask|ub|pos	7	DET	_	_
+7	måte	måte	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	da	da	adv	adv	_	10	ADV	_	_
+10	rodde	ro	verb	verb	pret	3	KOORD	_	_
+11	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+12	òg	òg	adv	adv	_	10	ADV	_	_
+13	nota	not	subst	subst	appell|eint|fem|bu	10	DOBJ	_	_
+14	ut	ut	prep	prep	_	13	ATR	_	_
+15	til	til	prep	prep	_	10	ADV	_	_
+16	begynne	begynne	verb	verb	inf	15	PUTFYLL	_	_
+17	med	med	prep	prep	_	16	ADV	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og så var du da handspel ## så vart du sveitt .
+# segstart = 565.484
+# segstop = 570.552
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 150
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	handspel	handspel	subst	subst	appell|ub|fl|nøyt|samset	3	SPRED	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	vart	bli	verb	verb	pret	3	KOORD	_	_
+10	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+11	sveitt	sveitt	adj	adj	eint|m/f|ub|pos	9	SPRED	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = var det sild i nota # så var det til kave og så var det til tørke og så når du kom med henne på sida så var det .
+# segstart = 571.28
+# segstop = 578.505
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 151
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	sild	sild	subst	subst	appell|eint|fem|ub	1	SPRED	_	_
+4	i	i	prep	prep	_	3	ATR	_	_
+5	nota	not	subst	subst	appell|eint|fem|bu	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	var	vere	verb	verb	pret	1	KOORD	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	til	til	prep	prep	_	8	SPRED	_	_
+11	kave	kave	verb	verb	inf	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	var	vere	verb	verb	pret	1	KOORD	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+16	til	til	prep	prep	_	14	SPRED	_	_
+17	tørke	tørke	verb	verb	inf	16	PUTFYLL	_	_
+18	og	og	konj	konj	_	22	KONJ	_	_
+19	så	så	adv	adv	_	22	ADV	_	_
+20	når	når	sbu	sbu	_	22	SBU	_	_
+21	du	du	pron	pron	pers|eint|2|nom|hum	22	SUBJ	_	_
+22	kom	komme	verb	verb	pret	1	KOORD	_	_
+23	med	med	prep	prep	_	22	ADV	_	_
+24	henne	ho	pron	pron	pers|eint|fem|3|akk	23	PUTFYLL	_	_
+25	på	på	prep	prep	_	22	ADV	_	_
+26	sida	side	subst	subst	appell|eint|fem|bu	25	PUTFYLL	_	_
+27	så	så	adv	adv	_	28	ADV	_	_
+28	var	vere	verb	verb	pret	1	KOORD	_	_
+29	det	det	pron	pron	pers|eint|nøyt|3	28	SPRED	_	_
+30	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = spring du gjerne # og alt det slitet der # det hadde du ingenting føre .
+# segstart = 579.046
+# segstop = 585.088
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 152
+1	spring	springe	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	gjerne	gjerne	adv	adv	_	1	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	og	og	konj	konj	_	12	KONJ	_	_
+6	alt	all	det	det	kvant|eint|nøyt	8	DET	_	_
+7	det	det	det	det	dem|eint|nøyt	8	DET	_	_
+8	slitet	slit	subst	subst	appell|eint|nøyt|bu	11	APP	_	_
+9	der	der	prep	prep	_	8	ATR	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	15	PUTFYLL	_	_
+12	hadde	ha	verb	verb	pret	1	KOORD	_	_
+13	du	du	pron	pron	pers|eint|2|nom|hum	12	SUBJ	_	_
+14	ingenting	ingenting	pron	pron	eint|akk	12	DOBJ	_	_
+15	føre	føre	prep	prep	_	12	ADV	_	_
+16	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nei .
+# segstart = 585.192
+# segstop = 585.871
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 153
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men e # vart det fleire mann på båtane eller ?
+# segstart = 589.798
+# segstop = 593.945
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 154
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vart	bli	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+6	fleire	mange	adj	adj	comp	7	ATR	_	_
+7	mann	mann	subst	subst	appell|eint|mask|ub	4	SPRED	_	_
+8	på	på	prep	prep	_	7	ATR	_	_
+9	båtane	båt	subst	subst	appell|fl|mask|bu	8	PUTFYLL	_	_
+10	eller	eller	konj	konj	_	4	KONJ	_	_
+11	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = nei vi vart seks .
+# segstart = 595.571
+# segstop = 597.102
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 155
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	vart	bli	verb	verb	pret	0	FINV	_	_
+4	seks	seks	det	det	kvant|fl	3	SPRED	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det var skøyte ei stund de brukte ?
+# segstart = 599.015
+# segstop = 600.601
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 156
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	skøyte	skøyte	subst	subst	eint|ub|f	2	DOBJ	_	_
+4	ei	ein	det	det	kvant|eint|fem	5	DET	_	_
+5	stund	stund	subst	subst	appell|eint|fem|ub	7	ADV	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+7	brukte	bruke	verb	verb	pret	2	ADV	_	_
+8	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = å ja i store båtar det # svære båtar det så du kunne hive doryane på .
+# segstart = 600.583
+# segstop = 605.453
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 157
+1	å	å	interj	interj	_	13	INTERJ	_	_
+2	ja	ja	interj	interj	_	13	INTERJ	_	_
+3	i	i	prep	prep	_	13	ADV	_	_
+4	store	stor	adj	adj	fl|pos	5	ATR	_	_
+5	båtar	båt	subst	subst	appell|fl|mask|ub	9	REP	_	_
+6	det	det	det	det	pers|eint|nøyt|3	5	DET	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	svære	svær	adj	adj	fl|pos	9	ATR	_	_
+9	båtar	båt	subst	subst	appell|fl|mask|ub	3	PUTFYLL	_	_
+10	det	det	det	det	pers|eint|nøyt|3	9	DET	_	_
+11	så	så	konj	konj	_	13	KONJ	_	_
+12	du	du	pron	pron	pers|eint|2|nom|hum	13	SUBJ	_	_
+13	kunne	kunne	verb	verb	pret	0	FINV	_	_
+14	hive	hive	verb	verb	inf	13	INFV	_	_
+15	doryane	dory	subst	subst	appell|fl|mask|bu	14	DOBJ	_	_
+16	på	på	prep	prep	_	14	ADV	_	_
+17	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+# text = å ja .
+# segstart = 605.453
+# segstop = 605.883
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 158
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = jau .
+# segstart = 605.883
+# segstop = 606.547
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 159
+1	jau	jau	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så de brukte doryar da og nota på ?
+# segstart = 606.886
+# segstop = 609.858
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 160
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+3	brukte	bruke	verb	verb	pret	0	FINV	_	_
+4	doryar	dory	subst	subst	appell|fl|mask|ub	3	DOBJ	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	og	å	konj	konj	_	7	KONJ	_	_
+7	nota	not	subst	subst	appell|eint|fem|bu	4	KOORD	_	_
+8	på	på	prep	prep	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja .
+# segstart = 608.151
+# segstop = 608.5
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 161
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var e to doryar og så hadde du .
+# segstart = 609.936
+# segstop = 612.983
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 162
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	to	to	det	det	kvant|fl	5	DET	_	_
+5	doryar	dory	subst	subst	appell|fl|mask|ub	2	SPRED	_	_
+6	og	og	konj	konj	_	8	KONJ	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	hadde	ha	verb	verb	pret	2	KOORD	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	8	SUBJ	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = berre halv not på doryane .
+# segstart = 615.736
+# segstop = 619.107
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 163
+1	berre	berre	adv	adv	_	3	ATR	_	_
+2	halv	halv	adj	adj	eint|m/f|ub|pos	3	ATR	_	_
+3	not	not	subst	subst	appell|eint|fem|ub	0	FRAG	_	_
+4	på	på	prep	prep	_	3	ATR	_	_
+5	doryane	dory	subst	subst	appell|fl|mask|bu	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja vel .
+# segstart = 619.298
+# segstop = 619.8
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 164
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så dei begynte på midten på nota da ?
+# segstart = 620.182
+# segstop = 622.142
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 165
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	begynte	begynne	verb	verb	pret	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	midten	midt	subst	subst	appell|eint|mask|bu	4	PUTFYLL	_	_
+6	på	på	prep	prep	_	3	ADV	_	_
+7	nota	not	subst	subst	appell|eint|fem|bu	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja # kasta .
+# segstart = 622.142
+# segstop = 623.667
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 166
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kasta	kaste	verb	verb	pret	0	FINV	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 623.715
+# segstop = 624.056
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 167
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og så ?
+# segstart = 624.559
+# segstop = 625.49
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 168
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	så	så	adv	adv	_	0	FRAG	_	_
+3	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = i ring .
+# segstart = 625.49
+# segstop = 626.135
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 169
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	ring	ring	subst	subst	appell|eint|mask|ub	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så møttest dei da i ?
+# segstart = 627.095
+# segstop = 628.387
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 170
+1	så	så	adv	adv	_	2	ADV	_	_
+2	møttest	møtast	verb	verb	pret	0	FINV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja .
+# segstart = 628.387
+# segstop = 628.8
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 171
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og viss så det at # du ikkje møtte så sa- sette dei stong og line imellom og # drog godt i saman .
+# segstart = 630.075
+# segstop = 637.8
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 172
+1	og	og	konj	konj	_	9	KONJ	_	_
+2	viss	viss	sbu	sbu	_	3	SBU	_	_
+3	så	så	adv	adv	_	9	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	9	ADV	_	_
+5	at	at	sbu	sbu	_	9	SBU	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+8	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+9	møtte	møte	verb	verb	pret	0	FINV	_	_
+10	så	så	adv	adv	_	12	ADV	_	_
+11	sa-	sa-	ufullst	ufullst	_	12	FYLL	_	_
+12	sette	sette	verb	verb	pret	9	ADV	_	_
+13	dei	dei	pron	pron	pers|fl|3|nom|hum	12	SUBJ	_	_
+14	stong	stong	subst	subst	appell|eint|fem|ub	12	DOBJ	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	line	line	subst	subst	appell|eint|fem|ub	14	KOORD	_	_
+17	imellom	imellom	prep	prep	_	12	ADV	_	_
+18	og	og	konj	konj	_	20	KONJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	drog	dra	verb	verb	pret	12	KOORD	_	_
+21	godt	god	adj	adj	eint|nøyt|ub|pos	20	ADV	_	_
+22	i	i	prep	prep	_	20	ADV	_	_
+23	saman	saman	adv	adv	_	22	PUTFYLL	_	_
+24	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+# text = ja vel .
+# segstart = 637.916
+# segstop = 638.469
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 173
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det hende det òg .
+# segstart = 638.651
+# segstop = 639.538
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 174
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	hende	hende	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	APP	_	_
+4	òg	òg	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men e snurpa de da ifrå doryane ?
+# segstart = 639.821
+# segstop = 642.438
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 175
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	snurpa	snurpe	verb	verb	pret	0	FINV	_	_
+4	de	de	pron	pron	pers|fl|2|nom|hum	3	SUBJ	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	ifrå	ifrå	prep	prep	_	3	ADV	_	_
+7	doryane	dory	subst	subst	appell|fl|mask|bu	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja da vi sveivde på spelet da så lenge .
+# segstart = 642.438
+# segstop = 646.593
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 176
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	sveivde	sveive	verb	verb	pret	0	FINV	_	_
+5	på	på	prep	prep	_	4	ADV	_	_
+6	spelet	spel	subst	subst	appell|eint|nøyt|bu	5	PUTFYLL	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	lenge	lenge	adv	adv	pos	4	ADV	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = til vi fekk motorspel men det vart nå fleire år deretter da .
+# segstart = 647.167
+# segstop = 651.22
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 177
+1	til	til	prep	prep	_	3	ADV	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	fekk	få	verb	verb	pret	0	FINV	_	_
+4	motorspel	motorspel	subst	subst	appell|ub|fl|nøyt|samset	3	DOBJ	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	vart	bli	verb	verb	pret	3	KOORD	_	_
+8	nå	nå	adv	adv	_	7	ADV	_	_
+9	fleire	mange	adj	adj	comp	10	ATR	_	_
+10	år	år	subst	subst	appell|fl|nøyt|ub	7	SPRED	_	_
+11	deretter	deretter	adv	adv	_	7	ADV	_	_
+12	da	da	adv	adv	_	7	ADV	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = det vart ma- dei var på snurpefiske med rodoryar i mangfaldige år .
+# segstart = 651.788
+# segstop = 656.163
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 178
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	vart	bli	verb	verb	pret	5	REP	_	_
+3	ma-	ma-	ufullst	ufullst	_	4	FYLL	_	_
+4	dei	dei	pron	pron	pers|fl|3|nom|hum	5	SUBJ	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	på	på	prep	prep	_	5	SPRED	_	_
+7	snurpefiske	snurpefiske	subst	subst	appell|ub|fl|nøyt|samset	6	PUTFYLL	_	_
+8	med	med	prep	prep	_	5	ADV	_	_
+9	rodoryar	rodory	subst	subst	appell|ub|fl|mask|samset	8	PUTFYLL	_	_
+10	i	i	prep	prep	_	5	ADV	_	_
+11	mangfaldige	mangfaldig	adj	adj	fl|pos	12	ATR	_	_
+12	år	år	subst	subst	appell|fl|nøyt|ub	10	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja .
+# segstart = 655.848
+# segstop = 656.471
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 179
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men du kunne ikkje drifte i allslags vêr med doryane det den tid då rodde dei det vart # hardare bod når du fekk motor i # doryane .
+# segstart = 658.299
+# segstop = 666.158
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 180
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+5	drifte	drifte	verb	verb	inf	3	INFV	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	allslags	allslags	adj	adj	fl|pos	8	ATR	_	_
+8	vêr	vêr	subst	subst	appell|fl|nøyt|ub	6	PUTFYLL	_	_
+9	med	med	prep	prep	_	5	ADV	_	_
+10	doryane	dory	subst	subst	appell|fl|mask|bu	9	PUTFYLL	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	REP	_	_
+12	den	den	det	det	dem|eint|fem	13	DET	_	_
+13	tid	tid	subst	subst	appell|eint|fem|ub	15	ADV	_	_
+14	då	då	adv	adv	_	15	ADV	_	_
+15	rodde	ro	verb	verb	pret	3	KOORD	_	_
+16	dei	dei	pron	pron	pers|fl|3|nom|hum	15	SUBJ	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	18	FSUBJ	_	_
+18	vart	bli	verb	verb	pret	3	KOORD	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	hardare	hard	adj	adj	comp	21	ATR	_	_
+21	bod	bod	subst	subst	appell|fl|nøyt|ub	18	SPRED	_	_
+22	når	når	sbu	sbu	_	24	SBU	_	_
+23	du	du	pron	pron	pers|eint|2|nom|hum	24	SUBJ	_	_
+24	fekk	få	verb	verb	pret	18	ADV	_	_
+25	motor	motor	subst	subst	appell|eint|mask|ub	24	DOBJ	_	_
+26	i	i	prep	prep	_	24	ADV	_	_
+27	#	#	pause	pause	_	28	IK	_	_
+28	doryane	dory	subst	subst	appell|fl|mask|bu	26	PUTFYLL	_	_
+29	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = var større doryar òg da .
+# segstart = 667.376
+# segstop = 669.124
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 181
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	større	stor	adj	adj	comp	3	ATR	_	_
+3	doryar	dory	subst	subst	appell|fl|mask|ub	1	SPRED	_	_
+4	òg	òg	adv	adv	_	1	ADV	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = nesten så nokre skøyter .
+# segstart = 670.576
+# segstop = 671.866
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 182
+1	nesten	nesten	adv	adv	_	4	ADV	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	nokre	nokon	det	det	kvant|fl	4	DET	_	_
+4	skøyter	skøyte	subst	subst	appell|fl|fem|ub	0	FRAG	_	_
+5	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 672.139
+# segstop = 672.66
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 183
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = to-tre og tretti fot var vel dei største .
+# segstart = 673.557
+# segstop = 676.017
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 184
+1	to-tre	to-tre	ufullst	ufullst	_	3	DET	_	_
+2	og	og	konj	konj	_	1	KONJ	_	_
+3	tretti	tretti	det	det	kvant|fl	4	DET	_	_
+4	fot	fot	subst	subst	appell|eint|mask|ub	5	SUBJ	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	vel	vel	adv	adv	_	5	ADV	_	_
+7	dei	dei	det	det	dem|fl	8	DET	_	_
+8	største	stor	adj	adj	bu|sup	5	SPRED	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = å dei var så store ?
+# segstart = 676.053
+# segstop = 677.216
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 185
+1	å	å	interj	interj	_	3	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	store	stor	adj	adj	fl|pos	3	SPRED	_	_
+6	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja .
+# segstart = 676.833
+# segstop = 677.19
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 186
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og da gjekk ein til havs òg da .
+# segstart = 680.473
+# segstop = 682.623
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 187
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	gjekk	gå	verb	verb	pret	0	FINV	_	_
+4	ein	ein	pron	pron	pers|eint|nom|hum	3	SUBJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	havs	hav	subst	subst	appell|eint|nøyt|ub	5	PUTFYLL	_	_
+7	òg	òg	adv	adv	_	3	ADV	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja vel kor langt uti kunne ein gå ?
+# segstart = 682.741
+# segstop = 684.765
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 188
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	vel	vel	adv	adv	_	6	ADV	_	_
+3	kor	kor	adv	adv	_	4	ADV	_	_
+4	langt	lang	adj	adj	eint|nøyt|ub|pos	8	ADV	_	_
+5	uti	uti	prep	prep	_	8	ADV	_	_
+6	kunne	kunne	verb	verb	pret	0	FINV	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	6	SUBJ	_	_
+8	gå	gå	verb	verb	inf	6	INFV	_	_
+9	?	$?	clb	clb	<spm>	6	IP	_	_
+
+# text = eg har ikkje vore med anna enn seksti-søtti mil .
+# segstart = 684.765
+# segstop = 687.501
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 189
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+4	vore	vere	verb	verb	perf-part	2	INFV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	anna	annan	det	det	dem|eint|nøyt|ub|pos	7	ADV	_	_
+7	enn	enn	prep	prep	_	4	ADV	_	_
+8	seksti-søtti	seksti-søtti	ufullst	ufullst	_	9	DET	_	_
+9	mil	mil	subst	subst	appell|fl|fem|ub	7	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei .
+# segstart = 687.942
+# segstop = 688.564
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 190
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men da var det nå ein stor båt på tre tusen tre hundre hektoliter det .
+# segstart = 692.194
+# segstop = 695.946
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 191
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	nå	nå	adv	adv	_	3	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	8	DET	_	_
+7	stor	stor	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+8	båt	båt	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+9	på	på	prep	prep	_	8	ATR	_	_
+10	tre	tre	det	det	kvant|fl	14	DET	_	_
+11	tusen	tusen	det	det	kvant|fl	14	DET	_	_
+12	tre	tre	det	det	kvant|fl	14	DET	_	_
+13	hundre	hundre	det	det	kvant|fl	14	DET	_	_
+14	hektoliter	hektoliter	subst	subst	appell|fl|mask|ub	9	PUTFYLL	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	4	APP	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = og dei som e hadde gardsbruk som attåtnæring her .
+# segstart = 701.766
+# segstop = 705.469
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 192
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	0	FRAG	_	_
+3	som	som	sbu	sbu	_	5	SBU	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	hadde	ha	verb	verb	pret	2	ATR	_	_
+6	gardsbruk	gardsbruk	subst	subst	appell|fl|nøyt|ub	5	DOBJ	_	_
+7	som	som	prep	prep	_	6	ATR	_	_
+8	attåtnæring	attåtnæring	subst	subst	appell|eint|fem|ub	7	PUTFYLL	_	_
+9	her	her	prep	prep	_	5	ADV	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja eg e var heime om somrane .
+# segstart = 705.517
+# segstop = 708.982
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 193
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	heime	heime	prep	prep	_	4	SPRED	_	_
+6	om	om	prep	prep	_	5	PUTFYLL	_	_
+7	somrane	sommar	subst	subst	appell|fl|mask|bu	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = ja .
+# segstart = 709.379
+# segstop = 710.139
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 194
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = var det mange som som hadde slik attåtnæring ?
+# segstart = 711.8
+# segstop = 713.964
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 195
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	mange	mange	adj	adj	fl|pos	1	SPRED	_	_
+4	som	som	sbu	sbu	_	5	REP	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	hadde	ha	verb	verb	pret	3	ADV	_	_
+7	slik	slik	det	det	dem|eint|fem	8	DET	_	_
+8	attåtnæring	attåtnæring	subst	subst	appell|eint|fem|ub	6	DOBJ	_	_
+9	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = ja det var det # # men e du tapte på det veit du .
+# segstart = 713.964
+# segstop = 719.619
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 196
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	men	men	konj	konj	_	10	KONJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+10	tapte	tape	verb	verb	pret	3	KOORD	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	PUTFYLL	_	_
+13	veit	vite	verb	verb	pres	10	PAR	_	_
+14	du	du	pron	pron	pers|eint|2|nom|hum	13	SUBJ	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = for som oftast så ville dei ha deg med på Island om sommaren .
+# segstart = 720.814
+# segstop = 724.367
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 197
+1	for	for	konj	konj	_	5	KONJ	_	_
+2	som	som	prep	prep	_	5	ADV	_	_
+3	oftast	ofte	adj	adj	sup	2	PUTFYLL	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	ville	vilje	verb	verb	pret	0	FINV	_	_
+6	dei	dei	pron	pron	pers|fl|3|nom|hum	5	SUBJ	_	_
+7	ha	ha	verb	verb	inf	5	INFV	_	_
+8	deg	du	pron	pron	pers|eint|2|akk|hum	7	DOBJ	_	_
+9	med	med	prep	prep	_	7	ADV	_	_
+10	på	på	prep	prep	_	7	ADV	_	_
+11	Island	Island	subst	subst	prop	10	PUTFYLL	_	_
+12	om	om	prep	prep	_	7	ADV	_	_
+13	sommaren	sommar	subst	subst	appell|eint|mask|bu	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = eller på når dei så da hadde brislingbruk dei ville ha deg med om # sommaren på brislingen .
+# segstart = 726.369
+# segstop = 732.619
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 198
+1	eller	eller	konj	konj	_	7	KONJ	_	_
+2	på	på	prep	prep	_	7	ADV	_	_
+3	når	når	sbu	sbu	_	7	SBU	_	_
+4	dei	dei	pron	pron	pers|fl|3|nom|hum	7	SUBJ	_	_
+5	så	så	adv	adv	_	7	ADV	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	hadde	ha	verb	verb	pret	0	FINV	_	_
+8	brislingbruk	brislingbruk	subst	subst	appell|ub|fl|nøyt|samset	7	DOBJ	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	10	SUBJ	_	_
+10	ville	vilje	verb	verb	pret	7	KOORD	_	_
+11	ha	ha	verb	verb	inf	10	INFV	_	_
+12	deg	du	pron	pron	pers|eint|2|akk|hum	11	DOBJ	_	_
+13	med	med	prep	prep	_	11	ADV	_	_
+14	om	om	prep	prep	_	11	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	sommaren	sommar	subst	subst	appell|eint|mask|bu	14	PUTFYLL	_	_
+17	på	på	prep	prep	_	13	PUTFYLL	_	_
+18	brislingen	brisling	subst	subst	appell|eint|mask|bu	17	PUTFYLL	_	_
+19	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = mm .
+# segstart = 732.677
+# segstop = 733.145
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 199
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = og viss du ikkje det kunne så fekk du ikkje plass om vinteren .
+# segstart = 733.385
+# segstop = 736.59
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 200
+1	og	og	konj	konj	_	8	KONJ	_	_
+2	viss	viss	sbu	sbu	_	6	SBU	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+6	kunne	kunne	verb	verb	pret	7	APP	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	fekk	få	verb	verb	pret	0	FINV	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	8	SUBJ	_	_
+10	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+11	plass	plass	subst	subst	appell|eint|mask|ub	8	DOBJ	_	_
+12	om	om	prep	prep	_	8	ADV	_	_
+13	vinteren	vinter	subst	subst	appell|eint|mask|bu	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = å nei .
+# segstart = 736.86
+# segstop = 737.481
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 201
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	nei	nei	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = den tid som eg reiste .
+# segstart = 740.48
+# segstop = 741.609
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 202
+1	den	den	det	det	dem|eint|fem	2	DET	_	_
+2	tid	tid	subst	subst	appell|eint|fem|ub	0	FRAG	_	_
+3	som	som	sbu	sbu	_	5	SBU	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	reiste	reise	verb	verb	pret	2	ATR	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 741.609
+# segstop = 742.125
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 203
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 745.831
+# segstop = 746.288
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 204
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = men så var nå eg heldig eg fekk som oftast god plass eg .
+# segstart = 746.523
+# segstop = 750.421
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 205
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+6	heldig	heldig	adj	adj	eint|m/f|ub|pos	3	SPRED	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+8	fekk	få	verb	verb	pret	3	KOORD	_	_
+9	som	som	prep	prep	_	8	ADV	_	_
+10	oftast	ofte	adj	adj	sup	9	PUTFYLL	_	_
+11	god	god	adj	adj	eint|m/f|ub|pos	12	ATR	_	_
+12	plass	plass	subst	subst	appell|eint|mask|ub	8	DOBJ	_	_
+13	eg	eg	pron	pron	pers|eint|1|nom|hum	7	APP	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = seinare så e dreiv de med vegarbeid var det slik ?
+# segstart = 753.137
+# segstop = 756.492
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 206
+1	seinare	sein	adj	adj	comp	4	ADV	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	dreiv	drive	verb	verb	pret	0	FINV	_	_
+5	de	de	pron	pron	pers|fl|2|nom|hum	4	SUBJ	_	_
+6	med	med	prep	prep	_	4	ADV	_	_
+7	vegarbeid	vegarbeid	subst	subst	appell|fl|nøyt|ub	6	PUTFYLL	_	_
+8	var	vere	verb	verb	pret	4	KOORD	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	slik	slik	adv	adv	_	8	ADV	_	_
+11	?	$?	clb	clb	<spm>	4	IP	_	_
+
+# text = e ja eg hadde vegarbeid innimellom jobb # berre når eg var på fiske sånn så .
+# segstart = 756.487
+# segstop = 761.626
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 207
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	hadde	ha	verb	verb	pret	0	FINV	_	_
+5	vegarbeid	vegarbeid	subst	subst	appell|fl|nøyt|ub	4	DOBJ	_	_
+6	innimellom	innimellom	prep	prep	_	5	ATR	_	_
+7	jobb	jobb	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	berre	berre	adv	adv	_	10	ADV	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	eg	eg	pron	pron	pers|eint|1|nom|hum	12	SUBJ	_	_
+12	var	vere	verb	verb	pret	4	KOORD	_	_
+13	på	på	prep	prep	_	12	SPRED	_	_
+14	fiske	fiske	subst	subst	appell|fl|nøyt|ub	13	PUTFYLL	_	_
+15	sånn	sånn	adv	adv	_	12	ADV	_	_
+16	så	så	adv	adv	_	12	ADV	_	_
+17	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = vegen her nedmed Sandvika den er gratisbygd den så å seie .
+# segstart = 762.527
+# segstop = 767.078
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 208
+1	vegen	veg	subst	subst	appell|eint|mask|bu	5	APP	_	_
+2	her	her	prep	prep	_	1	ATR	_	_
+3	nedmed	nedmed	prep	prep	_	1	ATR	_	_
+4	Sandvika	Sandvika	subst	subst	prop	3	PUTFYLL	_	_
+5	den	den	pron	pron	pers|eint|f/m|3|nom	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	gratisbygd	gratisbygge	adj	adj	eint|m/f|ub|samset	6	SPRED	_	_
+8	den	den	pron	pron	pers|eint|f/m|3|nom	5	APP	_	_
+9	så	så	adv	adv	_	6	ADV	_	_
+10	å	å	inf-merke	inf-merke	_	9	ADV	_	_
+11	seie	seie	verb	verb	inf	10	INFV	_	_
+12	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+# text = ja vel .
+# segstart = 767.065
+# segstop = 767.494
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 209
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja # ifrå naustet i Sandvika og # nesten opp til Vestdalen til M1 .
+# segstart = 767.494
+# segstop = 773.93
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 210
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ifrå	ifrå	prep	prep	_	1	ADV	_	_
+4	naustet	naust	subst	subst	appell|eint|nøyt|bu	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	4	ATR	_	_
+6	Sandvika	Sandvika	subst	subst	prop	5	PUTFYLL	_	_
+7	og	og	konj	konj	_	10	KONJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	nesten	nesten	adv	adv	_	10	ADV	_	_
+10	opp	opp	prep	prep	_	3	KOORD	_	_
+11	til	til	prep	prep	_	10	PUTFYLL	_	_
+12	Vestdalen	Vestdalen	subst	subst	prop	11	PUTFYLL	_	_
+13	til	til	prep	prep	_	10	PUTFYLL	_	_
+14	M1	M1	subst	subst	prop	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = den er så å seie gratisbygd .
+# segstart = 774.964
+# segstop = 777.058
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 211
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	så	så	adv	adv	_	2	ADV	_	_
+4	å	å	inf-merke	inf-merke	_	3	ADV	_	_
+5	seie	seie	verb	verb	inf	4	INFV	_	_
+6	gratisbygd	gratisbygge	adj	adj	eint|m/f|ub|samset	2	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja vel .
+# segstart = 777.066
+# segstop = 778.2
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 212
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var for kommunen da at det ?
+# segstart = 779.165
+# segstop = 781.688
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 213
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	for	for	prep	prep	_	2	SPRED	_	_
+4	kommunen	kommune	subst	subst	appell|eint|mask|bu	3	PUTFYLL	_	_
+5	da	da	adv	adv	_	2	ADV	_	_
+6	at	at	sbu	sbu	_	7	SBU	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	2	SLETT	_	_
+8	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = e ja du veit når du er i ein utkant så .
+# segstart = 781.688
+# segstop = 786.58
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 214
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+7	er	vere	verb	verb	pres	4	SPRED	_	_
+8	i	i	prep	prep	_	7	SPRED	_	_
+9	ein	ein	det	det	kvant|eint|mask	10	DET	_	_
+10	utkant	utkant	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+11	så	så	adv	adv	_	7	ADV	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+# text = det var utkant da .
+# segstart = 788.0
+# segstop = 789.546
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 215
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	utkant	utkant	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja # akkurat .
+# segstart = 789.636
+# segstop = 792.294
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 216
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = veit du # det var # Botnen var jo nok sønste garden i Austevoll her på øya .
+# segstart = 792.294
+# segstop = 798.474
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 217
+1	veit	vite	verb	verb	pres	8	PAR	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	var	vere	verb	verb	pret	8	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	Botnen	Botnen	subst	subst	prop	8	SUBJ	_	_
+8	var	vere	verb	verb	pret	0	FINV	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	nok	nok	adv	adv	_	8	ADV	_	_
+11	sønste	_	adj	adj	_	12	ATR	_	_
+12	garden	gard	subst	subst	appell|eint|mask|bu	8	SPRED	_	_
+13	i	i	prep	prep	_	12	ATR	_	_
+14	Austevoll	Austevoll	subst	subst	prop	13	PUTFYLL	_	_
+15	her	her	prep	prep	_	12	ATR	_	_
+16	på	på	prep	prep	_	15	PUTFYLL	_	_
+17	øya	øy	subst	subst	appell|eint|fem|bu	16	PUTFYLL	_	_
+18	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = så det var vel mest på eige initiativ kanskje at ein gjorde det ?
+# segstart = 799.302
+# segstop = 803.345
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 218
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	mest	mykje	adj	adj	ub|sup	3	ADV	_	_
+6	på	på	prep	prep	_	3	SPRED	_	_
+7	eige	eigen	det	det	eint|nøyt|ub|pos|forst	8	DET	_	_
+8	initiativ	initiativ	subst	subst	appell|eint|nøyt|ub	6	PUTFYLL	_	_
+9	kanskje	kanskje	adv	adv	_	3	ADV	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	ein	ein	pron	pron	pers|eint|nom|hum	12	SUBJ	_	_
+12	gjorde	gjere	verb	verb	pret	3	ADV	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	DOBJ	_	_
+14	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = e ja # vi ## vi laut betale inn til kommunen .
+# segstart = 803.045
+# segstop = 810.275
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 219
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	7	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	6	REP	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+7	laut	lyte	verb	verb	pret	0	FINV	_	_
+8	betale	betale	verb	verb	inf	7	INFV	_	_
+9	inn	inn	prep	prep	_	8	ADV	_	_
+10	til	til	prep	prep	_	8	ADV	_	_
+11	kommunen	kommune	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = dei søri Brekke dei fekk det såleis at dei # fekk pengane igjen # når vegen var ferdig .
+# segstart = 812.077
+# segstop = 819.56
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 220
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	4	APP	_	_
+2	søri	søri	prep	prep	_	1	ATR	_	_
+3	Brekke	Brekke	subst	subst	prop	2	PUTFYLL	_	_
+4	dei	dei	pron	pron	pers|fl|3|nom|hum	5	SUBJ	_	_
+5	fekk	få	verb	verb	pret	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	DOBJ	_	_
+7	såleis	såleis	adv	adv	_	5	ADV	_	_
+8	at	at	sbu	sbu	_	11	SBU	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	11	SUBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	fekk	få	verb	verb	pret	5	ADV	_	_
+12	pengane	peng	subst	subst	appell|fl|mask|bu	11	DOBJ	_	_
+13	igjen	igjen	adv	adv	_	11	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	når	når	sbu	sbu	_	17	SBU	_	_
+16	vegen	veg	subst	subst	appell|eint|mask|bu	17	SUBJ	_	_
+17	var	vere	verb	verb	pret	11	ADV	_	_
+18	ferdig	ferdig	adj	adj	eint|m/f|ub|pos	17	SPRED	_	_
+19	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = vi laut # ut med pengar til Austevolls kommune .
+# segstart = 821.38
+# segstop = 825.341
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 221
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	laut	lyte	verb	verb	pret	0	FINV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ut	ut	prep	prep	_	2	ADV	_	_
+5	med	med	prep	prep	_	2	ADV	_	_
+6	pengar	peng	subst	subst	appell|fl|mask|ub	5	PUTFYLL	_	_
+7	til	til	prep	prep	_	2	ADV	_	_
+8	Austevolls	Austevolls	subst	subst	prop	7	PUTFYLL	_	_
+9	kommune	kommune	subst	subst	appell|eint|mask|ub	8	FLAT	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 827.366
+# segstop = 827.764
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 222
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det var nå nokon hundre meter med arbeid det er nokså billig .
+# segstart = 829.724
+# segstop = 833.138
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 223
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	nokon	nokon	det	det	kvant|fl	6	DET	_	_
+5	hundre	hundre	det	det	kvant|fl	6	DET	_	_
+6	meter	meter	subst	subst	appell|fl|mask|ub	2	SPRED	_	_
+7	med	med	prep	prep	_	6	ATR	_	_
+8	arbeid	arbeid	subst	subst	appell|fl|nøyt|ub	7	PUTFYLL	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+10	er	vere	verb	verb	pres	2	KOORD	_	_
+11	nokså	nokså	adv	adv	_	12	ADV	_	_
+12	billig	billig	adj	adj	eint|nøyt|ub|pos	10	SPRED	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja vel .
+# segstart = 833.603
+# segstop = 834.234
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 224
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = mot som det han er i dag .
+# segstart = 834.589
+# segstop = 836.227
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 225
+1	mot	mot	prep	prep	_	5	ADV	_	_
+2	som	som	sbu	sbu	_	5	SBU	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	5	SPRED	_	_
+4	han	han	pron	pron	pers|eint|mask|3|nom	5	SUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	dag	dag	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = e ## nå e nå kva gjer du på nå ?
+# segstart = 840.312
+# segstop = 847.69
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 226
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	nå	nå	adv	adv	_	5	REP	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	nå	nå	adv	adv	_	7	SLETT	_	_
+6	kva	kva	pron	pron	sp	9	PUTFYLL	_	_
+7	gjer	gjere	verb	verb	pres	0	FINV	_	_
+8	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	nå	nå	adv	adv	_	7	ADV	_	_
+11	?	$?	clb	clb	<spm>	7	IP	_	_
+
+# text = eg er pensjonist nå .
+# segstart = 845.96
+# segstop = 847.79
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 227
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	pensjonist	pensjonist	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+4	nå	nå	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja eg tenkte på kva du gjer på elles om dagane les du mykje ?
+# segstart = 848.475
+# segstop = 851.653
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 228
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	tenkte	tenke	verb	verb	pret	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	kva	kva	pron	pron	sp	7	DOBJ	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	7	SUBJ	_	_
+7	gjer	gjere	verb	verb	pres	4	PUTFYLL	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	elles	elles	adv	adv	_	7	ADV	_	_
+10	om	om	prep	prep	_	7	ADV	_	_
+11	dagane	dag	subst	subst	appell|fl|mask|bu	10	PUTFYLL	_	_
+12	les	lese	verb	verb	pres	3	KOORD	_	_
+13	du	du	pron	pron	pers|eint|2|nom|hum	12	SUBJ	_	_
+14	mykje	mykje	adj	adj	eint|nøyt|ub|pos	12	ADV	_	_
+15	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = nei det gjer eg ikkje # fjernsyn .
+# segstart = 851.653
+# segstop = 855.538
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 229
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+3	gjer	gjere	verb	verb	pres	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	fjernsyn	fjernsyn	subst	subst	appell|eint|nøyt|ub	3	SLETT	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ser du mest på fjernsyn ?
+# segstart = 855.826
+# segstop = 856.709
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 230
+1	ser	sjå	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	mest	mykje	adj	adj	ub|sup	1	ADV	_	_
+4	på	på	prep	prep	_	1	ADV	_	_
+5	fjernsyn	fjernsyn	subst	subst	appell|eint|nøyt|ub	4	PUTFYLL	_	_
+6	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = e nei ikkje mest .
+# segstart = 856.709
+# segstop = 858.85
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 231
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+4	mest	mykje	adj	adj	ub|sup	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = er det nokre spesielle program i fjernsynet du du e sy- ?
+# segstart = 859.163
+# segstop = 862.394
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 232
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	nokre	nokon	det	det	kvant|fl	5	DET	_	_
+4	spesielle	spesiell	adj	adj	fl|pos	5	ATR	_	_
+5	program	program	subst	subst	appell|fl|nøyt|ub	1	SPRED	_	_
+6	i	i	prep	prep	_	5	ATR	_	_
+7	fjernsynet	fjernsyn	subst	subst	appell|eint|nøyt|bu	6	PUTFYLL	_	_
+8	du	du	pron	pron	pers|eint|2|nom|hum	9	REP	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	1	SLETT	_	_
+10	e	e	nol	nol	_	1	FYLL	_	_
+11	sy-	sy-	ufullst	ufullst	_	1	FYLL	_	_
+12	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei .
+# segstart = 862.311
+# segstop = 863.078
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 233
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = Dagsnytt .
+# segstart = 863.811
+# segstop = 864.67
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0402
+# id = 234
+1	Dagsnytt	Dagsnytt	subst	subst	prop	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det kan nå vere Dagsnytt og så når eg fekk sjå Gro Harlem Brundtland .
+# segstart = 864.7
+# segstop = 869.637
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 235
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	4	ADV	_	_
+4	vere	vere	verb	verb	inf	2	INFV	_	_
+5	Dagsnytt	Dagsnytt	subst	subst	prop	4	SPRED	_	_
+6	og	og	konj	konj	_	10	KONJ	_	_
+7	så	så	adv	adv	_	10	ADV	_	_
+8	når	når	sbu	sbu	_	10	SBU	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+10	fekk	få	verb	verb	pret	2	KOORD	_	_
+11	sjå	sjå	verb	verb	inf	10	INFV	_	_
+12	Gro	Gro	subst	subst	prop	11	DOBJ	_	_
+13	Harlem	Harlem	subst	subst	prop	12	FLAT	_	_
+14	Brundtland	Brundtland	subst	subst	prop	12	FLAT	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja vel # ja kva synest du om valet da ?
+# segstart = 869.823
+# segstop = 872.684
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 236
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	vel	vel	adv	adv	_	6	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	6	INTERJ	_	_
+5	kva	kva	pron	pron	sp	6	DOBJ	_	_
+6	synest	synast	verb	verb	pres	0	FINV	_	_
+7	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+8	om	om	prep	prep	_	6	ADV	_	_
+9	valet	val	subst	subst	appell|eint|nøyt|bu	8	PUTFYLL	_	_
+10	da	da	adv	adv	_	6	ADV	_	_
+11	?	$?	clb	clb	<spm>	6	IP	_	_
+
+# text = valet var greitt nok .
+# segstart = 874.681
+# segstop = 876.515
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 237
+1	valet	val	subst	subst	appell|eint|nøyt|bu	2	SUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	greitt	grei	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+4	nok	nok	adv	adv	_	2	ADV	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = men eg syntest det at som vann så kunne Gro Harlem fått vore # statsminister .
+# segstart = 878.567
+# segstop = 884.432
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 238
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	syntest	synast	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	at	at	sbu	sbu	_	7	SBU	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	vann	vinne	verb	verb	pret	4	ATR	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	kunne	kunne	verb	verb	pret	7	ADV	_	_
+10	Gro	Gro	subst	subst	prop	9	SUBJ	_	_
+11	Harlem	Harlem	subst	subst	prop	10	FLAT	_	_
+12	fått	få	verb	verb	perf-part	9	INFV	_	_
+13	vore	vere	verb	verb	perf-part	12	INFV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	statsminister	statsminister	subst	subst	appell|eint|mask|ub	13	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = ja .
+# segstart = 885.173
+# segstop = 885.57
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 239
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ho hadde dugt like godt som Kåre .
+# segstart = 885.819
+# segstop = 887.821
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 240
+1	ho	ho	pron	pron	pers|eint|fem|3|nom	2	SUBJ	_	_
+2	hadde	ha	verb	verb	pret	0	FINV	_	_
+3	dugt	duge	adj	adj	perf-part	2	SPRED	_	_
+4	like	like	adv	adv	_	5	ADV	_	_
+5	godt	god	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+6	som	som	prep	prep	_	5	ADV	_	_
+7	Kåre	Kåre	subst	subst	prop	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 888.131
+# segstop = 888.475
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 241
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = så det blir mykje mas om valet eller ?
+# segstart = 892.02
+# segstop = 894.326
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 242
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	blir	bli	verb	verb	pres	0	FINV	_	_
+4	mykje	mykje	adj	adj	eint|nøyt|ub|pos	5	ATR	_	_
+5	mas	mas	subst	subst	appell|fl|nøyt|ub	3	SPRED	_	_
+6	om	om	prep	prep	_	5	ATR	_	_
+7	valet	val	subst	subst	appell|eint|nøyt|bu	6	PUTFYLL	_	_
+8	eller	eller	konj	konj	_	3	KONJ	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+# text = ja det synest eg # det var såleis at eg e # såg stundom og let det vere .
+# segstart = 894.316
+# segstop = 901.48
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 243
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+3	synest	synast	verb	verb	pres	0	FINV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	var	vere	verb	verb	pret	3	KOORD	_	_
+8	såleis	såleis	adv	adv	_	7	ADV	_	_
+9	at	at	sbu	sbu	_	13	SBU	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	13	SUBJ	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	såg	sjå	verb	verb	pret	7	SPRED	_	_
+14	stundom	stundom	adv	adv	_	13	ADV	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	let	la	verb	verb	pret	13	KOORD	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	18	DOBJ	_	_
+18	vere	vere	verb	verb	inf	16	INFV	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = mm .
+# segstart = 901.41
+# segstop = 901.944
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 244
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = som oftast # du veit at der er betre sjå det # i fjernsynet .
+# segstart = 901.87
+# segstop = 907.334
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 245
+1	som	som	prep	prep	_	5	SLETT	_	_
+2	oftast	ofte	adj	adj	sup	1	PUTFYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	veit	vite	verb	verb	pres	0	FINV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	der	der	prep	prep	_	8	FSUBJ	_	_
+8	er	vere	verb	verb	pres	5	DOBJ	_	_
+9	betre	god	adj	adj	comp	8	SPRED	_	_
+10	sjå	sjå	verb	verb	inf	8	PSUBJ	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	fjernsynet	fjernsyn	subst	subst	appell|eint|nøyt|bu	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = ja .
+# segstart = 902.84
+# segstop = 903.185
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 246
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = det er jo dei same karane # som sit og jattar # oppatt og oppatt kvart einaste år veit du .
+# segstart = 910.468
+# segstop = 916.675
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 247
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	dei	dei	det	det	dem|fl	6	DET	_	_
+5	same	same	det	det	dem|bu	6	DET	_	_
+6	karane	kar	subst	subst	appell|fl|mask|bu	2	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	sit	sitte	verb	verb	pres	6	ATR	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	jattar	jatte	verb	verb	pres	9	KOORD	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	oppatt	oppatt	prep	prep	_	11	ADV	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	oppatt	oppatt	prep	prep	_	13	KOORD	_	_
+16	kvart	kvar	det	det	kvant|eint|nøyt	18	DET	_	_
+17	einaste	einaste	det	det	kvant|bu	18	DET	_	_
+18	år	år	subst	subst	appell|eint|nøyt|ub	11	ADV	_	_
+19	veit	vite	verb	verb	pres	2	PAR	_	_
+20	du	du	pron	pron	pers|eint|2|nom|hum	19	SUBJ	_	_
+21	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja .
+# segstart = 916.678
+# segstop = 917.084
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 248
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja av dei som er reportarar da vil eg seie .
+# segstart = 917.084
+# segstop = 920.134
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 249
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	av	av	prep	prep	_	8	ADV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	2	PUTFYLL	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	er	vere	verb	verb	pres	3	ATR	_	_
+6	reportarar	reportar	subst	subst	appell|ub|fl|mask|samset	5	SPRED	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	vil	vilje	verb	verb	pres	0	FINV	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+10	seie	seie	verb	verb	inf	8	INFV	_	_
+11	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+# text = e men elles kva ser du på mest i fjernsynet ?
+# segstart = 921.466
+# segstop = 924.378
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 250
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	elles	elles	adv	adv	_	5	ADV	_	_
+4	kva	kva	pron	pron	sp	7	PUTFYLL	_	_
+5	ser	sjå	verb	verb	pres	0	FINV	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+7	på	på	prep	prep	_	5	ADV	_	_
+8	mest	mykje	adj	adj	ub|sup	5	ADV	_	_
+9	i	i	prep	prep	_	5	ADV	_	_
+10	fjernsynet	fjernsyn	subst	subst	appell|eint|nøyt|bu	9	PUTFYLL	_	_
+11	?	$?	clb	clb	<spm>	5	IP	_	_
+
+# text = ja ja er nå # Detektimen er nå hundre prosent sikker .
+# segstart = 926.736
+# segstop = 931.489
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 251
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	ja	ja	interj	interj	_	3	INTERJ	_	_
+3	er	vere	verb	verb	pres	7	REP	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	Detektimen	Detektimen	subst	subst	prop	7	SUBJ	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	nå	nå	adv	adv	_	7	ADV	_	_
+9	hundre	hundre	det	det	kvant|fl	10	DET	_	_
+10	prosent	prosent	subst	subst	appell|fl|mask|ub	11	ADV	_	_
+11	sikker	sikker	adj	adj	eint|m/f|ub|pos	7	SPRED	_	_
+12	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = ja .
+# segstart = 931.489
+# segstop = 932.016
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 252
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = laurdagskveldar ?
+# segstart = 934.356
+# segstop = 935.492
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 253
+1	laurdagskveldar	laurdagskveld	subst	subst	appell|fl|mask|ub	0	FRAG	_	_
+2	?	$?	clb	clb	<spm>	1	IP	_	_
+
+# text = nei e da # går vi til køys og kosar oss # eg og kjerringa .
+# segstart = 935.492
+# segstop = 941.811
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 254
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	da	da	adv	adv	_	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	går	gå	verb	verb	pres	0	FINV	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+7	til	til	prep	prep	_	5	ADV	_	_
+8	køys	køy	subst	subst	appell|eint|fem|ub	7	PUTFYLL	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	kosar	kose	verb	verb	pres	5	KOORD	_	_
+11	oss	vi	pron	pron	pers|fl|1|akk|hum	10	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	eg	eg	pron	pron	pers|eint|1|nom|hum	6	APP	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	kjerringa	kjerring	subst	subst	appell|eint|fem|bu	13	KOORD	_	_
+16	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+# text = eller slår du av ?
+# segstart = 937.831
+# segstop = 938.688
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 255
+1	eller	eller	konj	konj	_	2	KONJ	_	_
+2	slår	slå	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	av	av	prep	prep	_	2	ADV	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = ja vel .
+# segstart = 940.431
+# segstop = 941.081
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 256
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = .
+# segstart = 941.59
+# segstop = 943.416
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0402
+# id = 257
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+# text = radioen høyrer du mykje på den ?
+# segstart = 945.707
+# segstop = 947.467
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 258
+1	radioen	radio	subst	subst	appell|eint|mask|bu	6	APP	_	_
+2	høyrer	høyre	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	mykje	mykje	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	den	den	pron	pron	pers|eint|f/m|3|akk	5	PUTFYLL	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+# text = det gjer eg # til dels men dei nyheitene da .
+# segstart = 949.183
+# segstop = 952.845
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 259
+1	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+2	gjer	gjere	verb	verb	pres	0	FINV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	til	til	prep	prep	_	2	ADV	_	_
+6	dels	dels	adv	adv	_	5	PUTFYLL	_	_
+7	men	men	konj	konj	_	9	KONJ	_	_
+8	dei	dei	det	det	dem|fl	9	DET	_	_
+9	nyheitene	nyheit	subst	subst	appell|fl|fem|bu	2	KOORD	_	_
+10	da	da	adv	adv	_	2	ADV	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = Dagsnytt .
+# segstart = 952.74
+# segstop = 953.341
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 260
+1	Dagsnytt	Dagsnytt	subst	subst	prop	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = musikken bryr eg meg m ikkje om .
+# segstart = 954.429
+# segstop = 956.41
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 261
+1	musikken	musikk	subst	subst	appell|eint|mask|bu	7	PUTFYLL	_	_
+2	bryr	bry	verb	verb	pres	0	FINV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+4	meg	eg	pron	pron	pers|eint|1|akk|hum	2	DOBJ	_	_
+5	m	m	interj	interj	_	2	INTERJ	_	_
+6	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+7	om	om	prep	prep	_	2	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = nei .
+# segstart = 956.41
+# segstop = 956.902
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 262
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = den er for tung # denne ja ja når det er trekkspel da # er det interessant .
+# segstart = 957.724
+# segstop = 964.536
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 263
+1	den	den	pron	pron	pers|eint|f/m|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	for	for	adv	adv	_	4	ADV	_	_
+4	tung	tung	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	denne	denne	pron	pron	pers|eint|f/m|3|nom	1	APP	_	_
+7	ja	ja	interj	interj	_	11	INTERJ	_	_
+8	ja	ja	interj	interj	_	11	INTERJ	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+11	er	vere	verb	verb	pres	2	KOORD	_	_
+12	trekkspel	trekkspel	subst	subst	appell|eint|nøyt|ub	11	SPRED	_	_
+13	da	da	adv	adv	_	15	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	er	vere	verb	verb	pres	11	ADV	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	15	SUBJ	_	_
+17	interessant	interessant	adj	adj	eint|nøyt|ub|pos	15	SPRED	_	_
+18	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+# text = ja vel .
+# segstart = 964.434
+# segstop = 964.882
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 264
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja .
+# segstart = 965.258
+# segstop = 965.638
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 265
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+# text = ja # ja ja men dette gjekk fint det .
+# segstart = 966.536
+# segstop = 969.128
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 266
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	7	INTERJ	_	_
+4	ja	ja	interj	interj	_	7	INTERJ	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	dette	dette	pron	pron	pers|eint|nøyt|3|nom	7	SUBJ	_	_
+7	gjekk	gå	verb	verb	pret	0	FINV	_	_
+8	fint	fin	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	6	APP	_	_
+10	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+# text = ja visst gjekk det fint .
+# segstart = 968.948
+# segstop = 970.727
+# file = austevoll_uib_04
+# speaker = austevoll_uib_0401
+# id = 267
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	visst	visst	adv	adv	_	3	ADV	_	_
+3	gjekk	gå	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	fint	fin	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+# text = .
+# segstart = 970.565
+# segstop = 970.955
+# file = austevoll_uib_04
+# speaker = INT1
+# id = 268
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
