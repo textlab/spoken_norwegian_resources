@@ -1,0 +1,5890 @@
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 1
+# segstart = 5.771
+# segstop = 11.332
+# speaker = sl
+# text = ja det første # spørsmålet er # hvor er du født og oppvokst hen ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	det	det	det	det	_	5	DET	_	_
+3	første	første	adj	adj	_	5	ATR	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	spørsmålet	spørsmål	subst	subst	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	hvor	hvor	adv	adv	_	9	ADV	_	_
+9	er	være	verb	verb	_	6	SPRED	_	_
+10	du	du	pron	pron	_	9	SUBJ	_	_
+11	født	føde	verb	verb	_	9	INFV	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	oppvokst	oppvokse	verb	verb	_	11	KOORD	_	_
+14	hen	hen	prep	prep	_	9	ADV	_	_
+15	?	?	clb	clb	_	9	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 2
+# segstart = 11.332
+# segstop = 17.437
+# speaker = boemlo_03gm
+# text = jeg er født på Meling som vi sa i stad jo # helt utmed havkanten her # under krigen
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	født	føde	verb	verb	_	2	INFV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	Meling	Meling	subst	subst	_	4	PUTFYLL	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	sa	si	verb	verb	_	2	PAR	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	stad	stad	subst	subst	_	9	PUTFYLL	_	_
+11	jo	jo	adv	adv	_	8	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	helt	hel	adj	adj	_	14	ADV	_	_
+14	utmed	utmed	prep	prep	_	2	ADV	_	_
+15	havkanten	havkant	subst	subst	_	14	PUTFYLL	_	_
+16	her	her	prep	prep	_	15	ATR	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	under	under	prep	prep	_	2	ADV	_	_
+19	krigen	krig	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 3
+# segstart = 17.437
+# segstop = 21.591
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 4
+# segstart = 17.771
+# segstop = 18.802
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# Usikker på plassering av 'litt'
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 5
+# segstart = 18.802
+# segstop = 21.591
+# speaker = sl
+# text = m kan du fortelle litt om Meling ?
+1	m	m	interj	interj	_	2	INTERJ	_	_
+2	kan	kan	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	fortelle	fortelle	verb	verb	_	2	INFV	_	_
+5	litt	litt	adj	adj	_	4	DOBJ	_	_
+6	om	om	prep	prep	_	5	ADV	_	_
+7	Meling	Meling	subst	subst	_	6	PUTFYLL	_	_
+8	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 6
+# segstart = 21.591
+# segstop = 32.06
+# speaker = boemlo_03gm
+# text = ja e det var jo faktisk en plass med litt mer aktivitet enn i dag fordi at det budde mye flere familier på Meling enn # nå # og
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	faktisk	faktisk	adj	adj	_	4	ADV	_	_
+7	en	en	det	det	_	8	DET	_	_
+8	plass	plass	subst	subst	_	4	SPRED	_	_
+9	med	med	prep	prep	_	8	ATR	_	_
+10	litt	litt	adj	adj	_	11	ADV	_	_
+11	mer	mye	adj	adj	_	12	ATR	_	_
+12	aktivitet	aktivitet	subst	subst	_	9	PUTFYLL	_	_
+13	enn	enn	prep	prep	_	12	ADV	_	_
+14	i	i	prep	prep	_	15	ATR	_	_
+15	dag	dag	subst	subst	_	13	PUTFYLL	_	_
+16	fordi	fordi	sbu	sbu	_	19	SBU	_	_
+17	at	at	sbu	sbu	_	19	SBU	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	budde	bu	verb	verb	_	4	ADV	_	_
+20	mye	mye	adj	adj	_	21	ADV	_	_
+21	flere	mange	adj	adj	_	22	ATR	_	_
+22	familier	familie	subst	subst	_	19	DOBJ	_	_
+23	på	på	prep	prep	_	19	ADV	_	_
+24	Meling	Meling	subst	subst	_	23	PUTFYLL	_	_
+25	enn	enn	prep	prep	_	19	ADV	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	nå	nå	adv	adv	_	25	PUTFYLL	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	og	og	konj	konj	_	19	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 7
+# segstart = 32.06
+# segstop = 39.663
+# speaker = boemlo_03gm
+# text = familiene var barnerike sånn at # vi hadde massevis av e kamerater og kjentfolk og # og sånt
+1	familiene	familie	subst	subst	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	barnerike	barnerik	adj	adj	_	2	SPRED	_	_
+4	sånn	sånn	adv	adv	_	2	ADV	_	_
+5	at	at	sbu	sbu	_	8	SBU	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	hadde	ha	verb	verb	_	4	ADV	_	_
+9	massevis	massevis	adv	adv	_	8	DOBJ	_	_
+10	av	av	prep	prep	_	9	ADV	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	kamerater	kamerat	subst	subst	_	10	PUTFYLL	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	kjentfolk	kjentfolk	subst	subst	_	12	KOORD	_	_
+15	og	og	konj	konj	_	17	REP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	sånt	sånt	pron	pron	_	12	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 8
+# segstart = 39.663
+# segstop = 47.155
+# speaker = boemlo_03gm
+# text = e hvis du reiser ut til Meling i dag så vil jo en del av disse husene stå tomme # # og de blir brukt kanskje bare som feriehus
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	hvis	hvis	sbu	sbu	_	4	SBU	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	reiser	reise	verb	verb	_	10	APP	_	_
+5	ut	ut	prep	prep	_	4	ADV	_	_
+6	til	til	prep	prep	_	5	PUTFYLL	_	_
+7	Meling	Meling	subst	subst	_	6	PUTFYLL	_	_
+8	i	i	prep	prep	_	4	ADV	_	_
+9	dag	dag	subst	subst	_	8	PUTFYLL	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	vil	vil	verb	verb	_	0	FINV	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	en	en	det	det	_	14	DET	_	_
+14	del	del	subst	subst	_	11	SUBJ	_	_
+15	av	av	prep	prep	_	14	ATR	_	_
+16	disse	disse	det	det	_	17	DET	_	_
+17	husene	hus	subst	subst	_	15	PUTFYLL	_	_
+18	stå	stå	verb	verb	_	11	INFV	_	_
+19	tomme	tom	adj	adj	_	18	DOBJ	_	_
+20	#	#	pause	pause	_	19	IK	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	og	og	konj	konj	_	24	KONJ	_	_
+23	de	de	pron	pron	_	24	SUBJ	_	_
+24	blir	bli	verb	verb	_	11	KOORD	_	_
+25	brukt	bruke	verb	verb	_	24	INFV	_	_
+26	kanskje	kanskje	adv	adv	_	25	ADV	_	_
+27	bare	bare	adv	adv	_	25	ADV	_	_
+28	som	som	sbu	sbu	_	25	ADV	_	_
+29	feriehus	feriehus	subst	subst	_	28	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 9
+# segstart = 47.155
+# segstop = 55.149
+# speaker = boemlo_03gm
+# text = akkurat som du kjenner til fraflytting så # men # og vi hadde jo nede ved kaien da dampskipekspedisjonen og
+1	akkurat	akkurat	adv	adv	_	4	ADV	_	_
+2	som	som	sbu	sbu	_	4	SBU	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	kjenner	kjenne	verb	verb	_	0	SLETT	_	_
+5	til	til	prep	prep	_	4	ADV	_	_
+6	fraflytting	fraflytting	verb	verb	_	5	PUTFYLL	_	_
+7	så	så	adv	adv	_	4	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	men	men	konj	konj	_	11	REP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	hadde	ha	verb	verb	_	4	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	nede	nede	prep	prep	_	13	ADV	_	_
+16	ved	ved	prep	prep	_	15	PUTFYLL	_	_
+17	kaien	kai	subst	subst	_	16	PUTFYLL	_	_
+18	da	da	sbu	sbu	_	13	ADV	_	_
+19	dampskipekspedisjonen	dampskipekspedisjon	subst	subst	_	13	DOBJ	_	_
+20	og	og	konj	konj	_	19	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 10
+# segstart = 55.149
+# segstop = 61.926
+# speaker = boemlo_03gm
+# text = der var det landhandel og der var det et yrende liv og det var jo liksom et kulturelt sentrum der ute
+1	der	der	prep	prep	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	landhandel	landhandel	subst	subst	_	2	PSUBJ	_	_
+5	og	og	konj	konj	_	7	KONJ	_	_
+6	der	der	prep	prep	_	7	ADV	_	_
+7	var	være	verb	verb	_	2	KOORD	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	et	et	det	det	_	11	DET	_	_
+10	yrende	yre	verb	verb	_	11	ATR	_	_
+11	liv	liv	subst	subst	_	7	PSUBJ	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	det	det	pron	pron	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	2	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	liksom	liksom	adv	adv	_	14	ADV	_	_
+17	et	et	det	det	_	19	DET	_	_
+18	kulturelt	kulturell	adj	adj	_	19	ATR	_	_
+19	sentrum	sentrum	subst	subst	_	14	SPRED	_	_
+20	der	der	prep	prep	_	14	ADV	_	_
+21	ute	ute	prep	prep	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 11
+# segstart = 61.926
+# segstop = 68.484
+# speaker = boemlo_03gm
+# text = e ved havet og ved kysten # akkurat som du hørte snakk om hurtigrute som kommer til Nord-Norge i dag så
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ved	ved	prep	prep	_	0	FRAG	_	_
+3	havet	hav	subst	subst	_	2	PUTFYLL	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	ved	ved	prep	prep	_	2	KOORD	_	_
+6	kysten	kyst	subst	subst	_	5	PUTFYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	akkurat	akkurat	adv	adv	_	11	ADV	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	hørte	høre	verb	verb	_	2	KOORD	_	_
+12	snakk	snakk	subst	subst	_	11	DOBJ	_	_
+13	om	om	prep	prep	_	12	ATR	_	_
+14	hurtigrute	hurtigrute	subst	subst	_	13	PUTFYLL	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	kommer	komme	verb	verb	_	14	ATR	_	_
+17	til	til	prep	prep	_	16	ADV	_	_
+18	Nord-Norge	Nord-Norge	subst	subst	_	17	PUTFYLL	_	_
+19	i	i	prep	prep	_	16	ADV	_	_
+20	dag	dag	subst	subst	_	19	PUTFYLL	_	_
+21	så	så	adv	adv	_	11	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 12
+# segstart = 68.484
+# segstop = 77.332
+# speaker = boemlo_03gm
+# text = var det i gamle dager sånn med oss og dampen ikke sant den var en magnet # når vi hørte duren av motorlyd ute i havet
+1	var	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	i	i	prep	prep	_	1	ADV	_	_
+4	gamle	gammel	adj	adj	_	5	ATR	_	_
+5	dager	dag	subst	subst	_	3	PUTFYLL	_	_
+6	sånn	sånn	adv	adv	_	7	ADV	_	_
+7	med	med	prep	prep	_	1	ADV	_	_
+8	oss	oss	pron	pron	_	7	PUTFYLL	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	dampen	damp	verb	verb	_	7	KOORD	_	_
+11	ikke	ikke	adv	adv	_	12	ADV	_	_
+12	sant	sann	adj	adj	_	1	ADV	_	_
+13	den	den	pron	pron	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	1	KOORD	_	_
+15	en	en	det	det	_	16	DET	_	_
+16	magnet	magnet	subst	subst	_	14	SPRED	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	når	når	sbu	sbu	_	20	SBU	_	_
+19	vi	vi	pron	pron	_	20	SUBJ	_	_
+20	hørte	høre	verb	verb	_	1	KOORD	_	_
+21	duren	dur	subst	subst	_	20	DOBJ	_	_
+22	av	av	prep	prep	_	21	ATR	_	_
+23	motorlyd	motorlyd	subst	subst	_	22	PUTFYLL	_	_
+24	ute	ute	prep	prep	_	20	ADV	_	_
+25	i	i	prep	prep	_	24	PUTFYLL	_	_
+26	havet	hav	subst	subst	_	25	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 13
+# segstart = 77.332
+# segstop = 83.776
+# speaker = boemlo_03gm
+# text = så sprang vi vet du så vi hadde blodsmak i munnen # for å komme ned og se hva som gikk for seg og
+1	så	så	adv	adv	_	2	ADV	_	_
+2	sprang	springe	verb	verb	_	0	FINV	_	_
+3	vi	vi	pron	pron	_	2	SUBJ	_	_
+4	vet	vite	verb	verb	_	2	PAR	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	så	så	konj	konj	_	8	KONJ	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	hadde	ha	verb	verb	_	2	ADV	_	_
+9	blodsmak	blodsmak	subst	subst	_	8	DOBJ	_	_
+10	i	i	prep	prep	_	9	ATR	_	_
+11	munnen	munn	subst	subst	_	10	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	for	for	prep	prep	_	2	ADV	_	_
+14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	_
+15	komme	komme	verb	verb	_	14	INFV	_	_
+16	ned	ned	prep	prep	_	15	ADV	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	se	se	verb	verb	_	15	KOORD	_	_
+19	hva	hva	pron	pron	_	21	SUBJ	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	gikk	gå	verb	verb	_	18	DOBJ	_	_
+22	for	for	prep	prep	_	21	ADV	_	_
+23	seg	seg	pron	pron	_	22	PUTFYLL	_	_
+24	og	og	konj	konj	_	2	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 14
+# segstart = 83.776
+# segstop = 91.627
+# speaker = boemlo_03gm
+# text = da var det en massevis av ting som # skjedde ikke sant folk gikk ombord og folk kom på land og varer blei heist i land og
+1	da	da	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	en	en	det	det	_	5	DET	_	_
+5	massevis	massevis	subst	subst	_	2	SPRED	_	_
+6	av	av	prep	prep	_	5	ATR	_	_
+7	ting	ting	subst	subst	_	6	PUTFYLL	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	skjedde	skje	verb	verb	_	7	ATR	_	_
+11	ikke	ikke	adv	adv	_	12	ADV	_	_
+12	sant	sann	adj	adj	_	2	ADV	_	_
+13	folk	folk	subst	subst	_	14	SUBJ	_	_
+14	gikk	gå	verb	verb	_	2	KOORD	_	_
+15	ombord	ombord	prep	prep	_	14	ADV	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	folk	folk	subst	subst	_	18	SUBJ	_	_
+18	kom	komme	verb	verb	_	2	KOORD	_	_
+19	på	på	prep	prep	_	18	ADV	_	_
+20	land	land	subst	subst	_	19	PUTFYLL	_	_
+21	og	og	konj	konj	_	23	KONJ	_	_
+22	varer	vare	subst	subst	_	23	SUBJ	_	_
+23	blei	bli	verb	verb	_	2	KOORD	_	_
+24	heist	heise	verb	verb	_	23	INFV	_	_
+25	i	i	prep	prep	_	24	ADV	_	_
+26	land	land	subst	subst	_	25	PUTFYLL	_	_
+27	og	og	konj	konj	_	2	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 15
+# segstart = 91.627
+# segstop = 99.024
+# speaker = boemlo_03gm
+# text = forretning åpnet og folk fikk kjøpe seg ei flaske brus veit du eller # noe # de hadde lyst på
+1	forretning	forretning	subst	subst	_	2	SUBJ	_	_
+2	åpnet	åpne	verb	verb	_	0	FINV	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	folk	folk	subst	subst	_	5	SUBJ	_	_
+5	fikk	få	verb	verb	_	2	KOORD	_	_
+6	kjøpe	kjøpe	verb	verb	_	5	INFV	_	_
+7	seg	seg	pron	pron	_	6	IOBJ	_	_
+8	ei	ei	det	det	_	10	DET	_	_
+9	flaske	flaske	subst	subst	_	10	DET	_	_
+10	brus	brus	subst	subst	_	6	DOBJ	_	_
+11	veit	veit	verb	verb	_	5	PAR	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	eller	eller	konj	konj	_	15	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	noe	noe	det	det	_	10	KOORD	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	de	de	pron	pron	_	18	SUBJ	_	_
+18	hadde	ha	verb	verb	_	15	ATR	_	_
+19	lyst	lyst	subst	subst	_	18	DOBJ	_	_
+20	på	på	prep	prep	_	19	ATR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 16
+# segstart = 99.024
+# segstop = 108.11
+# speaker = boemlo_03gm
+# text = mange var jo så utstuderte at de kom og handla om kvelden # og gjorde ikke det på dagtid # for da hadde handelsmannen åpen e butikk
+1	mange	mange	adj	adj	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	utstuderte	utstudert	adj	adj	_	2	SPRED	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	de	de	pron	pron	_	8	SUBJ	_	_
+8	kom	komme	verb	verb	_	4	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	handla	handle	verb	verb	_	8	KOORD	_	_
+11	om	om	prep	prep	_	10	ADV	_	_
+12	kvelden	kveld	subst	subst	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	gjorde	gjøre	verb	verb	_	2	KOORD	_	_
+16	ikke	ikke	adv	adv	_	15	ADV	_	_
+17	det	det	pron	pron	_	15	DOBJ	_	_
+18	på	på	prep	prep	_	15	ADV	_	_
+19	dagtid	dagtid	subst	subst	_	18	PUTFYLL	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	for	for	konj	konj	_	23	KONJ	_	_
+22	da	da	adv	adv	_	23	ADV	_	_
+23	hadde	ha	verb	verb	_	15	ADV	_	_
+24	handelsmannen	handelsmann	subst	subst	_	23	SUBJ	_	_
+25	åpen	åpen	adj	adj	_	27	ATR	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	butikk	butikk	subst	subst	_	23	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 17
+# segstart = 108.11
+# segstop = 116.238
+# speaker = boemlo_03gm
+# text = jo e i min familie så så hadde en da post # og bestefaren min som gikk ned på kaien og henta postsekken
+1	jo	jo	adv	adv	_	8	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	i	i	prep	prep	_	7	ADV	_	_
+4	min	min	det	det	_	5	DET	_	_
+5	familie	familie	subst	subst	_	3	PUTFYLL	_	_
+6	så	så	adv	adv	_	8	REP	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	hadde	ha	verb	verb	_	0	FINV	_	_
+9	en	en	det	det	_	8	SUBJ	_	_
+10	da	da	adv	adv	_	8	ADV	_	_
+11	post	post	subst	subst	_	8	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	bestefaren	bestefar	subst	subst	_	8	KOORD	_	_
+15	min	min	det	det	_	14	DET	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	gikk	gå	verb	verb	_	14	ATR	_	_
+18	ned	ned	prep	prep	_	17	ADV	_	_
+19	på	på	prep	prep	_	18	PUTFYLL	_	_
+20	kaien	kai	subst	subst	_	19	PUTFYLL	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	henta	hente	verb	verb	_	17	KOORD	_	_
+23	postsekken	postsekk	subst	subst	_	22	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 18
+# segstart = 116.238
+# segstop = 126.206
+# speaker = boemlo_03gm
+# text = han tømte jo postsekken på # golvet inne på butikken og # leverte ut e avisene til de som fikk ei avis ifra Oslo og
+1	han	han	pron	pron	_	2	SUBJ	_	_
+2	tømte	tømme	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	postsekken	postsekk	subst	subst	_	2	DOBJ	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	golvet	golv	subst	subst	_	5	PUTFYLL	_	_
+8	inne	inne	prep	prep	_	7	ATR	_	_
+9	på	på	prep	prep	_	8	PUTFYLL	_	_
+10	butikken	butikk	subst	subst	_	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	leverte	levere	verb	verb	_	2	KOORD	_	_
+14	ut	ut	prep	prep	_	13	ADV	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	avisene	avis	subst	subst	_	14	PUTFYLL	_	_
+17	til	til	prep	prep	_	13	ADV	_	_
+18	de	de	pron	pron	_	17	PUTFYLL	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	fikk	få	verb	verb	_	18	ATR	_	_
+21	ei	ei	det	det	_	22	DET	_	_
+22	avis	avis	subst	subst	_	20	DOBJ	_	_
+23	ifra	ifra	prep	prep	_	20	ADV	_	_
+24	Oslo	Oslo	subst	subst	_	23	PUTFYLL	_	_
+25	og	og	konj	konj	_	13	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 19
+# segstart = 126.206
+# segstop = 133.909
+# speaker = boemlo_03gm
+# text = de som hadde et brev i vente de fikk brevet sitt om kvelden # i etterkant av # anløpet av båten
+1	de	de	pron	pron	_	8	APP	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	hadde	ha	verb	verb	_	1	ATR	_	_
+4	et	en	det	det	_	5	DET	_	_
+5	brev	brev	subst	subst	_	3	DOBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	vente	vente	subst	subst	_	6	PUTFYLL	_	_
+8	de	de	pron	pron	_	9	SUBJ	_	_
+9	fikk	få	verb	verb	_	0	FINV	_	_
+10	brevet	brev	subst	subst	_	9	DOBJ	_	_
+11	sitt	sin	det	det	_	10	DET	_	_
+12	om	om	prep	prep	_	9	ADV	_	_
+13	kvelden	kveld	subst	subst	_	12	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	i	i	prep	prep	_	9	ADV	_	_
+16	etterkant	etterkant	subst	subst	_	15	PUTFYLL	_	_
+17	av	av	prep	prep	_	16	ATR	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	anløpet	anløp	subst	subst	_	17	PUTFYLL	_	_
+20	av	av	prep	prep	_	19	ATR	_	_
+21	båten	båt	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 20
+# segstart = 133.909
+# segstop = 135.221
+# speaker = sl
+# text = når var det båten kom da ?
+1	når	når	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	båten	båt	subst	subst	_	5	SUBJ	_	_
+5	kom	komme	verb	verb	_	2	SPRED	_	_
+6	da	da	adv	adv	_	2	ADV	_	_
+7	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 21
+# segstart = 135.221
+# segstop = 142.375
+# speaker = boemlo_03gm
+# text = e båten kunne komme til alle tider men e som regel så gikk de ifra Haugesund e midt på dagen eller klokka fire
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	båten	båt	subst	subst	_	3	SUBJ	_	_
+3	kunne	kunne	verb	verb	_	0	FINV	_	_
+4	komme	komme	verb	verb	_	3	INFV	_	_
+5	til	til	prep	prep	_	4	ADV	_	_
+6	alle	alle	det	det	_	7	DET	_	_
+7	tider	tid	subst	subst	_	5	PUTFYLL	_	_
+8	men	men	konj	konj	_	13	KONJ	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	som	som	prep	prep	_	13	ADV	_	_
+11	regel	regel	subst	subst	_	10	PUTFYLL	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	gikk	gå	verb	verb	_	3	KOORD	_	_
+14	de	de	pron	pron	_	13	SUBJ	_	_
+15	ifra	ifra	prep	prep	_	13	ADV	_	_
+16	Haugesund	Haugesund	subst	subst	_	15	PUTFYLL	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	midt	midt	adv	adv	_	19	ADV	_	_
+19	på	på	prep	prep	_	13	ADV	_	_
+20	dagen	dag	subst	subst	_	19	PUTFYLL	_	_
+21	eller	eller	konj	konj	_	23	KONJ	_	_
+22	klokka	klokke	subst	subst	_	23	DET	_	_
+23	fire	fire	det	det	_	19	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 22
+# segstart = 142.375
+# segstop = 150.746
+# speaker = boemlo_03gm
+# text = og ifra Bergen gjerne klokka to eller tre og # og da kunne de komme seint # og noen kom midt på natta og da var det ikke noen der
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	ifra	ifra	prep	prep	_	0	FRAG	_	_
+3	Bergen	Bergen	subst	subst	_	2	PUTFYLL	_	_
+4	gjerne	gjerne	adv	adv	_	2	ADV	_	_
+5	klokka	klokke	subst	subst	_	6	ADV	_	_
+6	to	to	det	det	_	4	ADV	_	_
+7	eller	eller	konj	konj	_	8	KONJ	_	_
+8	tre	tre	det	det	_	6	KOORD	_	_
+9	og	og	konj	konj	_	11	REP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	da	da	adv	adv	_	13	ADV	_	_
+13	kunne	kunne	verb	verb	_	2	KOORD	_	_
+14	de	de	pron	pron	_	13	SUBJ	_	_
+15	komme	komme	verb	verb	_	13	INFV	_	_
+16	seint	sein	adj	adj	_	15	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	og	og	konj	konj	_	20	KONJ	_	_
+19	noen	noen	pron	pron	_	20	SUBJ	_	_
+20	kom	komme	verb	verb	_	2	KOORD	_	_
+21	midt	midt	adv	adv	_	22	ADV	_	_
+22	på	på	prep	prep	_	20	ADV	_	_
+23	natta	natt	subst	subst	_	22	PUTFYLL	_	_
+24	og	og	konj	konj	_	26	KONJ	_	_
+25	da	da	adv	adv	_	26	ADV	_	_
+26	var	være	verb	verb	_	2	KOORD	_	_
+27	det	det	pron	pron	_	26	FSUBJ	_	_
+28	ikke	ikke	adv	adv	_	26	ADV	_	_
+29	noen	noen	pron	pron	_	26	PSUBJ	_	_
+30	der	der	prep	prep	_	26	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 23
+# segstart = 150.746
+# segstop = 157.018
+# speaker = boemlo_03gm
+# text = men e hvis e båten kom før klokka ti så var det fullt e folkeliv # på kaien # i Melingsvågen
+1	men	men	konj	konj	_	11	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	hvis	hvis	sbu	sbu	_	6	SBU	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	båten	båt	subst	subst	_	6	SUBJ	_	_
+6	kom	komme	verb	verb	_	10	APP	_	_
+7	før	før	prep	prep	_	6	ADV	_	_
+8	klokka	klokke	subst	subst	_	9	DET	_	_
+9	ti	ti	det	det	_	7	PUTFYLL	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	var	være	verb	verb	_	0	FINV	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	fullt	full	adj	adj	_	15	ATR	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	folkeliv	folkeliv	subst	subst	_	11	PSUBJ	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	på	på	prep	prep	_	11	ADV	_	_
+18	kaien	kai	subst	subst	_	17	PUTFYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	i	i	prep	prep	_	18	ATR	_	_
+21	Melingsvågen	melingsvågen	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 24
+# segstart = 157.018
+# segstop = 161.487
+# speaker = sl
+# text = mm # men stoppet den flere steder oppover på
+1	mm	mm	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	4	KONJ	_	_
+4	stoppet	stoppe	verb	verb	_	0	FINV	_	_
+5	den	den	det	det	_	4	SUBJ	_	_
+6	flere	mange	adj	adj	_	7	ATR	_	_
+7	steder	sted	subst	subst	_	4	ADV	_	_
+8	oppover	oppover	prep	prep	_	7	ATR	_	_
+9	på	på	prep	prep	_	8	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 26
+# segstart = 161.487
+# segstop = 170.196
+# speaker = boemlo_03gm
+# text = ja og det blei sånn e rute vet du som gikk så seint som bare juling og # vi hadde stoppested på alle sånne små # plasser på Bømlo ikke sant
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	blei	bli	verb	verb	_	0	FINV	_	_
+5	sånn	sånn	adv	adv	_	7	DET	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	rute	rute	subst	subst	_	4	SPRED	_	_
+8	vet	vite	verb	verb	_	4	PAR	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	som	som	sbu	sbu	_	11	SBU	_	_
+11	gikk	gå	verb	verb	_	7	ATR	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	seint	sein	adj	adj	_	11	ADV	_	_
+14	som	som	prep	prep	_	13	ADV	_	_
+15	bare	bare	adv	adv	_	16	ATR	_	_
+16	juling	juling	subst	subst	_	14	PUTFYLL	_	_
+17	og	og	konj	konj	_	20	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	vi	vi	pron	pron	_	20	SUBJ	_	_
+20	hadde	ha	verb	verb	_	4	KOORD	_	_
+21	stoppested	stoppested	subst	subst	_	20	DOBJ	_	_
+22	på	på	prep	prep	_	21	ATR	_	_
+23	alle	alle	det	det	_	27	DET	_	_
+24	sånne	sånne	det	det	_	27	DET	_	_
+25	små	små	adj	adj	_	27	ATR	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	plasser	plass	subst	subst	_	22	PUTFYLL	_	_
+28	på	på	prep	prep	_	27	ATR	_	_
+29	Bømlo	Bømlo	subst	subst	_	28	PUTFYLL	_	_
+30	ikke	ikke	adv	adv	_	31	ADV	_	_
+31	sant	sann	adj	adj	_	20	PAR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 27
+# segstart = 170.196
+# segstop = 181.147
+# speaker = boemlo_03gm
+# text = på Espevær og n- utover der med # Vika og Lykling og Melandsvågen og Vornes og Alsvåg og Hiskjo og Melingsvågen og Øklandsvågen
+1	på	på	prep	prep	_	0	FRAG	_	_
+2	Espevær	Espevær	subst	subst	_	1	PUTFYLL	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	n-	n-	ufullst	ufullst	_	5	FYLL	_	_
+5	utover	utover	prep	prep	_	2	KOORD	_	_
+6	der	der	adv	adv	_	5	PUTFYLL	_	_
+7	med	med	prep	prep	_	6	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	Vika	Vika	subst	subst	_	7	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	Lykling	Lykling	subst	subst	_	9	KOORD	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	Melandsvågen	melandsvågen	subst	subst	_	9	KOORD	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	Vornes	Vornes	subst	subst	_	9	KOORD	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	Alsvåg	Alsvåg	subst	subst	_	9	KOORD	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	Hiskjo	Hiskjo	subst	subst	_	9	KOORD	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	Melingsvågen	melingsvågen	subst	subst	_	9	KOORD	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	Øklandsvågen	øklandsvågen	subst	subst	_	9	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 28
+# segstart = 181.147
+# segstop = 192.694
+# speaker = boemlo_03gm
+# text = og uti Brandasundet og der dere var # før han for til Østervåg # og samme veien tilbake # og da gikk det kanskje fem eller ti minutter med stoppet veit du og
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	uti	uti	prep	prep	_	0	FRAG	_	_
+3	Brandasundet	brandasundet	subst	subst	_	2	PUTFYLL	_	_
+4	og	og	konj	konj	_	7	KONJ	_	_
+5	der	der	prep	prep	_	7	ADV	_	_
+6	dere	dere	pron	pron	_	7	SUBJ	_	_
+7	var	være	verb	verb	_	3	KOORD	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	før	før	prep	prep	_	11	ADV	_	_
+10	han	han	pron	pron	_	11	SUBJ	_	_
+11	for	fare	verb	verb	_	2	KOORD	_	_
+12	til	til	prep	prep	_	11	ADV	_	_
+13	Østervåg	Østervåg	subst	subst	_	12	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	og	og	konj	konj	_	17	KONJ	_	_
+16	samme	samme	det	det	_	17	DET	_	_
+17	veien	vei	subst	subst	_	11	KOORD	_	_
+18	tilbake	tilbake	prep	prep	_	17	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	da	da	adv	adv	_	22	ADV	_	_
+22	gikk	gå	verb	verb	_	2	KOORD	_	_
+23	det	det	pron	pron	_	22	FSUBJ	_	_
+24	kanskje	kanskje	adv	adv	_	22	ADV	_	_
+25	fem	fem	det	det	_	28	DET	_	_
+26	eller	eller	konj	konj	_	27	KONJ	_	_
+27	ti	ti	det	det	_	25	KOORD	_	_
+28	minutter	minutt	subst	subst	_	22	ADV	_	_
+29	med	med	prep	prep	_	22	ADV	_	_
+30	stoppet	stopp	subst	subst	_	29	PUTFYLL	_	_
+31	veit	vite	verb	verb	_	22	PAR	_	_
+32	du	du	pron	pron	_	31	SUBJ	_	_
+33	og	og	konj	konj	_	22	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 29
+# segstart = 192.694
+# segstop = 198.196
+# speaker = boemlo_03gm
+# text = få ombord det de skulle ha det var jo ofte fersk fisk eller salt fisk eller sild og
+1	få	få	verb	verb	_	0	FRAG	_	_
+2	ombord	ombord	prep	prep	_	1	ADV	_	_
+3	det	det	pron	pron	_	7	APP	_	_
+4	de	de	pron	pron	_	5	SUBJ	_	_
+5	skulle	skulle	verb	verb	_	3	ATR	_	_
+6	ha	ha	verb	verb	_	5	INFV	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	1	KOORD	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	ofte	oft	adj	adj	_	8	ADV	_	_
+11	fersk	fersk	adj	adj	_	12	ATR	_	_
+12	fisk	fisk	subst	subst	_	8	SPRED	_	_
+13	eller	eller	konj	konj	_	15	KONJ	_	_
+14	salt	salt	adj	adj	_	15	ATR	_	_
+15	fisk	fisk	subst	subst	_	12	KOORD	_	_
+16	eller	eller	konj	konj	_	17	KONJ	_	_
+17	sild	sild	subst	subst	_	12	KOORD	_	_
+18	og	og	konj	konj	_	8	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 30
+# segstart = 198.196
+# segstop = 202.059
+# speaker = boemlo_03gm
+# text = hive brød og brus og smør og sukker i land og s- og sirup
+1	hive	hive	verb	verb	_	0	FRAG	_	_
+2	brød	brød	subst	subst	_	1	DOBJ	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	brus	brus	subst	subst	_	2	KOORD	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	smør	smør	subst	subst	_	2	KOORD	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	sukker	sukker	subst	subst	_	2	KOORD	_	_
+9	i	i	prep	prep	_	1	ADV	_	_
+10	land	land	subst	subst	_	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	13	REP	_	_
+12	s-	s-	ufullst	ufullst	_	13	FYLL	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	sirup	sirup	subst	subst	_	1	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 31
+# segstart = 202.059
+# segstop = 206.437
+# speaker = sl
+# text = ja ja # når var det den ruta ble lagt ned da ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	2	IK	_	_
+4	når	når	adv	adv	_	5	SPRED	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	den	den	det	det	_	8	DET	_	_
+8	ruta	rute	subst	subst	_	9	SUBJ	_	_
+9	ble	bli	verb	verb	_	5	ADV	_	_
+10	lagt	legge	verb	verb	_	9	INFV	_	_
+11	ned	ned	prep	prep	_	10	ADV	_	_
+12	da	da	adv	adv	_	5	ADV	_	_
+13	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 32
+# segstart = 202.059
+# segstop = 206.437
+# speaker = boemlo_03gm
+# text = * ja ja ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 33
+# segstart = 206.437
+# segstop = 213.043
+# speaker = boemlo_03gm
+# text = nja det var faktisk e utpå # slutten av sekstitallet for da begynte disse hurtigbåtene å komme westamaran og
+1	nja	nja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	faktisk	faktisk	adj	adj	_	3	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	utpå	utpå	prep	prep	_	3	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	slutten	slutt	subst	subst	_	6	PUTFYLL	_	_
+9	av	av	prep	prep	_	8	ATR	_	_
+10	sekstitallet	sekstitall	subst	subst	_	9	PUTFYLL	_	_
+11	for	for	prep	prep	_	13	KONJ	_	_
+12	da	da	adv	adv	_	13	ADV	_	_
+13	begynte	begynne	verb	verb	_	3	KOORD	_	_
+14	disse	disse	det	det	_	15	DET	_	_
+15	hurtigbåtene	hurtigbåt	subst	subst	_	13	SUBJ	_	_
+16	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+17	komme	komme	verb	verb	_	16	INFV	_	_
+18	westamaran	westamaran	subst	subst	_	15	APP	_	_
+19	og	og	konj	konj	_	13	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 34
+# segstart = 213.043
+# segstop = 223.588
+# speaker = boemlo_03gm
+# text = først hydrofoil og så westamaran # og da begynte dette å dette i # i knas # og så kom godsrutene med bil i stedet ikke sant
+1	først	først	adv	adv	_	2	ATR	_	_
+2	hydrofoil	hydrofoil	subst	subst	_	0	FRAG	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	westamaran	westamaran	subst	subst	_	2	KOORD	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	da	da	adv	adv	_	9	ADV	_	_
+9	begynte	begynne	verb	verb	_	2	KOORD	_	_
+10	dette	dette	pron	pron	_	9	SUBJ	_	_
+11	å	å	inf-merke	inf-merke	_	9	DOBJ	_	_
+12	dette	dette	verb	verb	_	11	INFV	_	_
+13	i	i	prep	prep	_	15	REP	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	i	i	prep	prep	_	12	ADV	_	_
+16	knas	knas	subst	subst	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	og	og	konj	konj	_	20	KONJ	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	kom	komme	verb	verb	_	2	KOORD	_	_
+21	godsrutene	godsrute	subst	subst	_	20	SUBJ	_	_
+22	med	med	prep	prep	_	20	ADV	_	_
+23	bil	bil	subst	subst	_	22	PUTFYLL	_	_
+24	i	i	prep	prep	_	20	ADV	_	_
+25	stedet	sted	subst	subst	_	24	PUTFYLL	_	_
+26	ikke	ikke	adv	adv	_	27	ADV	_	_
+27	sant	sann	adj	adj	_	20	PAR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 35
+# segstart = 223.588
+# segstop = 230.671
+# speaker = boemlo_03gm
+# text = og sakte men sikkert så mista jo disse # utkantene betydning for i dag er det helt dødt ned i disse vågene
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	sakte	sakte	adj	adj	_	5	APP	_	_
+3	men	men	konj	konj	_	4	KONJ	_	_
+4	sikkert	sikker	adj	adj	_	2	KOORD	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	mista	miste	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	disse	disse	det	det	_	10	DET	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	utkantene	utkant	subst	subst	_	6	SUBJ	_	_
+11	betydning	betydning	subst	subst	_	6	DOBJ	_	_
+12	for	for	prep	prep	_	15	KONJ	_	_
+13	i	i	prep	prep	_	15	ADV	_	_
+14	dag	dag	subst	subst	_	13	PUTFYLL	_	_
+15	er	være	verb	verb	_	6	KOORD	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	helt	hele	adj	adj	_	18	ADV	_	_
+18	dødt	død	adj	adj	_	15	SPRED	_	_
+19	ned	ned	prep	prep	_	15	ADV	_	_
+20	i	i	prep	prep	_	19	PUTFYLL	_	_
+21	disse	disse	det	det	_	22	DET	_	_
+22	vågene	våg	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 36
+# segstart = 230.671
+# segstop = 238.951
+# speaker = boemlo_03gm
+# text = og alle trekker til Svortland # her kommer alt og her er alle butikkene og # butikkene ut i disse vågene blei jo lagt ned sakte men sikkert
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	alle	alle	det	det	_	3	SUBJ	_	_
+3	trekker	trekke	verb	verb	_	0	FINV	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	Svortland	Svortland	subst	subst	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	her	her	prep	prep	_	8	ADV	_	_
+8	kommer	komme	verb	verb	_	3	KOORD	_	_
+9	alt	alt	det	det	_	8	SUBJ	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	her	her	prep	prep	_	12	ADV	_	_
+12	er	være	verb	verb	_	3	KOORD	_	_
+13	alle	alle	det	det	_	14	DET	_	_
+14	butikkene	butikk	subst	subst	_	12	SUBJ	_	_
+15	og	og	konj	konj	_	22	KONJ	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	butikkene	butikk	subst	subst	_	22	SUBJ	_	_
+18	ut	ut	prep	prep	_	17	ATR	_	_
+19	i	i	prep	prep	_	18	PUTFYLL	_	_
+20	disse	disse	det	det	_	21	DET	_	_
+21	vågene	våg	subst	subst	_	19	PUTFYLL	_	_
+22	blei	bli	verb	verb	_	3	KOORD	_	_
+23	jo	jo	adv	adv	_	24	ADV	_	_
+24	lagt	legge	verb	verb	_	22	INFV	_	_
+25	ned	ned	prep	prep	_	24	ADV	_	_
+26	sakte	sakte	adj	adj	_	24	ADV	_	_
+27	men	men	konj	konj	_	28	KONJ	_	_
+28	sikkert	sikker	adj	adj	_	26	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 37
+# segstart = 238.951
+# segstop = 246.849
+# speaker = boemlo_03gm
+# text = så det eneste som eksisterer # er det dere ser ut i e # Brandasund med en liten lanterne på hver side
+1	så	så	konj	konj	_	7	KONJ	_	_
+2	det	det	det	det	_	3	DET	_	_
+3	eneste	eneste	det	det	_	7	SUBJ	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	eksisterer	eksistere	verb	verb	_	3	ATR	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	det	det	pron	pron	_	7	SPRED	_	_
+9	dere	dere	pron	pron	_	10	SUBJ	_	_
+10	ser	se	verb	verb	_	8	ATR	_	_
+11	ut	ut	prep	prep	_	10	ADV	_	_
+12	i	i	prep	prep	_	11	PUTFYLL	_	_
+13	e	e	nol	nol	_	15	FYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	Brandasund	Brandasund	subst	subst	_	12	PUTFYLL	_	_
+16	med	med	prep	prep	_	10	ADV	_	_
+17	en	en	det	det	_	19	DET	_	_
+18	liten	liten	adj	adj	_	19	ATR	_	_
+19	lanterne	lanterne	subst	subst	_	16	PUTFYLL	_	_
+20	på	på	prep	prep	_	19	ATR	_	_
+21	hver	hver	det	det	_	22	DET	_	_
+22	side	side	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 38
+# segstart = 246.849
+# segstop = 253.455
+# speaker = boemlo_03gm
+# text = de har klart seg # mens disse andre er borte
+1	de	de	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	klart	klare	verb	verb	_	2	INFV	_	_
+4	seg	seg	pron	pron	_	3	DOBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	mens	mens	sbu	sbu	_	9	SBU	_	_
+7	disse	disse	det	det	_	8	DET	_	_
+8	andre	andre	det	det	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	2	ADV	_	_
+10	borte	borte	prep	prep	_	9	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 39
+# segstart = 253.455
+# segstop = 262.665
+# speaker = boemlo_03gm
+# text = og der var jo det et yrende liv som sagt og det det gjorde inntrykk på på e sånne som e var små # og vi var jo små fordi at
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	3	FSUBJ	_	_
+6	et	et	det	det	_	8	DET	_	_
+7	yrende	yre	verb	verb	_	8	ATR	_	_
+8	liv	liv	subst	subst	_	3	PSUBJ	_	_
+9	som	som	prep	prep	_	10	SBU	_	_
+10	sagt	si	verb	verb	_	3	PAR	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	det	det	pron	pron	_	13	REP	_	_
+13	det	det	pron	pron	_	14	SUBJ	_	_
+14	gjorde	gjøre	verb	verb	_	3	KOORD	_	_
+15	inntrykk	inntrykk	subst	subst	_	14	DOBJ	_	_
+16	på	på	prep	prep	_	17	REP	_	_
+17	på	på	prep	prep	_	14	ADV	_	_
+18	e	e	nol	nol	_	19	FYLL	_	_
+19	sånne	sånne	det	det	_	17	PUTFYLL	_	_
+20	som	som	sbu	sbu	_	22	SBU	_	_
+21	e	e	nol	nol	_	22	FYLL	_	_
+22	var	være	verb	verb	_	19	ATR	_	_
+23	små	små	adj	adj	_	22	SPRED	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	og	og	konj	konj	_	27	KONJ	_	_
+26	vi	vi	pron	pron	_	27	SUBJ	_	_
+27	var	være	verb	verb	_	3	KOORD	_	_
+28	jo	jo	adv	adv	_	27	ADV	_	_
+29	små	små	adj	adj	_	27	SPRED	_	_
+30	fordi	fordi	sbu	sbu	_	27	SLETT	_	_
+31	at	at	sbu	sbu	_	27	SLETT	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 40
+# segstart = 262.665
+# segstop = 271.66
+# speaker = boemlo_03gm
+# text = hvis en person # e på e Meling eller i krinsen blei sjuk # så blei de frakta med disse båtene til sjukehuset i Bergen eller i
+1	hvis	hvis	sbu	sbu	_	12	SBU	_	_
+2	en	en	det	det	_	3	DET	_	_
+3	person	person	subst	subst	_	12	SUBJ	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	på	på	prep	prep	_	3	ATR	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	Meling	Meling	subst	subst	_	6	PUTFYLL	_	_
+9	eller	eller	konj	konj	_	10	KONJ	_	_
+10	i	i	prep	prep	_	6	KOORD	_	_
+11	krinsen	krins	subst	subst	_	10	PUTFYLL	_	_
+12	blei	bli	verb	verb	_	15	APP	_	_
+13	sjuk	sjuk	adj	adj	_	12	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	blei	bli	verb	verb	_	0	FINV	_	_
+17	de	de	pron	pron	_	16	SUBJ	_	_
+18	frakta	frakte	verb	verb	_	16	INFV	_	_
+19	med	med	prep	prep	_	18	ADV	_	_
+20	disse	disse	det	det	_	21	DET	_	_
+21	båtene	båt	subst	subst	_	19	PUTFYLL	_	_
+22	til	til	prep	prep	_	18	ADV	_	_
+23	sjukehuset	sjukehus	subst	subst	_	22	PUTFYLL	_	_
+24	i	i	prep	prep	_	23	ATR	_	_
+25	Bergen	Bergen	subst	subst	_	24	PUTFYLL	_	_
+26	eller	eller	konj	konj	_	27	KONJ	_	_
+27	i	i	prep	prep	_	23	SLETT	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 41
+# segstart = 271.66
+# segstop = 281.013
+# speaker = boemlo_03gm
+# text = til Haugesund og # da la de disse oppi sånne flettekurver # e og # du har sett sikkert i sånn brødbrett eller
+1	til	til	prep	prep	_	0	FRAG	_	_
+2	Haugesund	Haugesund	subst	subst	_	1	PUTFYLL	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	da	da	adv	adv	_	6	ADV	_	_
+6	la	legge	verb	verb	_	1	KOORD	_	_
+7	de	de	pron	pron	_	6	SUBJ	_	_
+8	disse	disse	pron	pron	_	6	DOBJ	_	_
+9	oppi	oppi	prep	prep	_	6	ADV	_	_
+10	sånne	sånne	det	det	_	11	DET	_	_
+11	flettekurver	flettekurv	subst	subst	_	9	PUTFYLL	_	_
+12	#	#	pause	pause	_	14	IK	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	og	og	konj	konj	_	17	KONJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	har	ha	verb	verb	_	1	KOORD	_	_
+18	sett	se	verb	verb	_	17	INFV	_	_
+19	sikkert	sikker	adj	adj	_	18	ADV	_	_
+20	i	i	prep	prep	_	18	ADV	_	_
+21	sånn	sånn	det	det	_	22	DET	_	_
+22	brødbrett	brødbrett	subst	subst	_	20	PUTFYLL	_	_
+23	eller	eller	konj	konj	_	18	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 42
+# segstart = 281.013
+# segstop = 288.434
+# speaker = boemlo_03gm
+# text = sånn som vi har boller i eller eller skive eller appelsin oppi men de hadde ei stor fletta korg som var så stor som bordet nesten
+1	sånn	sånn	adv	adv	_	0	FRAG	_	_
+2	som	som	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	1	ADV	_	_
+5	boller	bolle	subst	subst	_	4	DOBJ	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	eller	eller	konj	konj	_	9	KONJ	_	_
+8	eller	eller	konj	konj	_	9	REP	_	_
+9	skive	skive	subst	subst	_	4	KOORD	_	_
+10	eller	eller	konj	konj	_	11	KONJ	_	_
+11	appelsin	appelsin	subst	subst	_	9	KOORD	_	_
+12	oppi	oppi	prep	prep	_	11	ADV	_	_
+13	men	men	konj	konj	_	15	KONJ	_	_
+14	de	de	pron	pron	_	15	SUBJ	_	_
+15	hadde	ha	verb	verb	_	1	KOORD	_	_
+16	ei	ei	det	det	_	19	DET	_	_
+17	stor	stor	adj	adj	_	19	ATR	_	_
+18	fletta	flette	adj	adj	_	19	ATR	_	_
+19	korg	korg	subst	subst	_	15	DOBJ	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	var	være	verb	verb	_	19	ATR	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	stor	stor	adj	adj	_	21	SPRED	_	_
+24	som	som	sbu	sbu	_	23	ADV	_	_
+25	bordet	bord	subst	subst	_	24	PUTFYLL	_	_
+26	nesten	nesten	adv	adv	_	21	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 43
+# segstart = 288.434
+# segstop = 290.175
+# speaker = boemlo_03gm
+# text = der de la personene oppi
+1	der	der	prep	prep	_	3	ADV	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	la	legge	verb	verb	_	0	FINV	_	_
+4	personene	person	subst	subst	_	3	DOBJ	_	_
+5	oppi	oppi	prep	prep	_	3	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 44
+# segstart = 290.175
+# segstop = 290.425
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 45
+# segstart = 290.425
+# segstop = 295.277
+# speaker = boemlo_03gm
+# text = ja # med madrass og med dyne eller og så bar de det ombord
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	med	med	prep	prep	_	0	FRAG	_	_
+4	madrass	madrass	subst	subst	_	3	PUTFYLL	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	med	med	prep	prep	_	3	KOORD	_	_
+7	dyne	dyne	subst	subst	_	6	PUTFYLL	_	_
+8	eller	eller	konj	konj	_	9	REP	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	bar	bære	verb	verb	_	3	KOORD	_	_
+12	de	de	pron	pron	_	11	SUBJ	_	_
+13	det	det	pron	pron	_	11	DOBJ	_	_
+14	ombord	ombord	prep	prep	_	11	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 46
+# segstart = 295.277
+# segstop = 295.992
+# speaker = sl
+# text = å ja
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 47
+# segstart = 295.277
+# segstop = 295.992
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 48
+# segstart = 295.992
+# segstop = 299.253
+# speaker = boemlo_03gm
+# text = og der var dramatikk for de skreik veit du og
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	dramatikk	dramatikk	subst	subst	_	3	PSUBJ	_	_
+5	for	for	konj	konj	_	7	KONJ	_	_
+6	de	de	det	det	_	7	SUBJ	_	_
+7	skreik	skrike	verb	verb	_	3	ADV	_	_
+8	veit	veit	verb	verb	_	3	PAR	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	og	og	konj	konj	_	3	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 49
+# segstart = 299.253
+# segstop = 304.361
+# speaker = boemlo_03gm
+# text = hadde smerte veit du og noen vil ikke reise vekk for de trudde det var den siste ferd og
+1	hadde	ha	verb	verb	_	0	FINV	_	_
+2	smerte	smerte	subst	subst	_	1	DOBJ	_	_
+3	veit	veit	verb	verb	_	1	PAR	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	og	og	konj	konj	_	7	KONJ	_	_
+6	noen	noen	pron	pron	_	7	SUBJ	_	_
+7	vil	vil	verb	verb	_	1	KOORD	_	_
+8	ikke	ikke	adv	adv	_	9	ADV	_	_
+9	reise	reise	verb	verb	_	7	INFV	_	_
+10	vekk	vekk	adv	adv	_	9	ADV	_	_
+11	for	for	konj	konj	_	13	KONJ	_	_
+12	de	de	pron	pron	_	13	SUBJ	_	_
+13	trudde	tru	verb	verb	_	7	ADV	_	_
+14	det	det	pron	pron	_	15	SUBJ	_	_
+15	var	være	verb	verb	_	13	DOBJ	_	_
+16	den	den	det	det	_	18	DET	_	_
+17	siste	sist	adj	adj	_	18	ATR	_	_
+18	ferd	ferd	subst	subst	_	15	SPRED	_	_
+19	og	og	konj	konj	_	15	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 50
+# segstart = 304.361
+# segstop = 310.394
+# speaker = boemlo_03gm
+# text = vi som var åtte år og sto på land og så på dette vi var jo helt rysta vet du hvor e
+1	vi	vi	pron	pron	_	14	APP	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	var	være	verb	verb	_	1	ATR	_	_
+4	åtte	åtte	det	det	_	5	DET	_	_
+5	år	år	subst	subst	_	3	SPRED	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	sto	stå	verb	verb	_	3	KOORD	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	land	land	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	så	se	verb	verb	_	3	KOORD	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	dette	dette	pron	pron	_	12	PUTFYLL	_	_
+14	vi	vi	pron	pron	_	15	SUBJ	_	_
+15	var	være	verb	verb	_	0	FINV	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	helt	hele	adj	adj	_	18	ADV	_	_
+18	rysta	ryste	adj	adj	_	15	SPRED	_	_
+19	vet	vite	verb	verb	_	15	PAR	_	_
+20	du	du	pron	pron	_	19	SUBJ	_	_
+21	hvor	hvor	adv	adv	_	15	SLETT	_	_
+22	e	e	nol	nol	_	21	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 51
+# segstart = 310.394
+# segstop = 316.146
+# speaker = boemlo_03gm
+# text = primitivt e ja vi forstod jo ikke hvor primitivt det var før i dag da men e det gjorde jo sterkt inntrykk
+1	primitivt	primitiv	adj	adj	_	0	FRAG	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	forstod	forstå	verb	verb	_	1	KOORD	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	ikke	ikke	adv	adv	_	5	ADV	_	_
+8	hvor	hvor	adv	adv	_	9	ADV	_	_
+9	primitivt	primitiv	adj	adj	_	11	SPRED	_	_
+10	det	det	pron	pron	_	11	SUBJ	_	_
+11	var	være	verb	verb	_	5	DOBJ	_	_
+12	før	før	prep	prep	_	11	ADV	_	_
+13	i	i	prep	prep	_	12	PUTFYLL	_	_
+14	dag	dag	subst	subst	_	13	PUTFYLL	_	_
+15	da	da	adv	adv	_	5	ADV	_	_
+16	men	men	konj	konj	_	19	KONJ	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	det	det	pron	pron	_	19	SUBJ	_	_
+19	gjorde	gjøre	verb	verb	_	1	KOORD	_	_
+20	jo	jo	adv	adv	_	19	ADV	_	_
+21	sterkt	sterk	adj	adj	_	22	ATR	_	_
+22	inntrykk	inntrykk	subst	subst	_	19	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 52
+# segstart = 316.146
+# segstop = 318.154
+# speaker = sl
+# text = og så den lange veien
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	så	så	adv	adv	_	5	ADV	_	_
+3	den	den	det	det	_	5	DET	_	_
+4	lange	lang	adj	adj	_	5	ATR	_	_
+5	veien	vei	subst	subst	_	0	FRAG	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 53
+# segstart = 318.154
+# segstop = 325.718
+# speaker = boemlo_03gm
+# text = ja og da tok det halve natta til Haugesund eller til Bergen # til Bergen kom de klokka åtte ni om morgenen og
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	tok	ta	verb	verb	_	0	FINV	_	_
+5	det	det	det	det	_	4	FSUBJ	_	_
+6	halve	halv	adj	adj	_	7	ATR	_	_
+7	natta	natt	subst	subst	_	4	ADV	_	_
+8	til	til	prep	prep	_	4	ADV	_	_
+9	Haugesund	Haugesund	subst	subst	_	8	PUTFYLL	_	_
+10	eller	eller	konj	konj	_	11	KONJ	_	_
+11	til	til	prep	prep	_	8	KOORD	_	_
+12	Bergen	Bergen	subst	subst	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	til	til	prep	prep	_	16	ADV	_	_
+15	Bergen	Bergen	subst	subst	_	14	PUTFYLL	_	_
+16	kom	komme	verb	verb	_	4	KOORD	_	_
+17	de	de	pron	pron	_	16	SUBJ	_	_
+18	klokka	klokke	subst	subst	_	20	DET	_	_
+19	åtte	åtte	det	det	_	20	FLAT	_	_
+20	ni	ni	det	det	_	16	ADV	_	_
+21	om	om	prep	prep	_	20	ATR	_	_
+22	morgenen	morgen	subst	subst	_	21	PUTFYLL	_	_
+23	og	og	konj	konj	_	16	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 54
+# segstart = 325.718
+# segstop = 329.009
+# speaker = boemlo_03gm
+# text = kanskje fem seks til Haugesund om morgenen så det var kortere vei
+1	kanskje	kanskje	adv	adv	_	3	ADV	_	_
+2	fem	fem	det	det	_	3	FLAT	_	_
+3	seks	seks	det	det	_	0	FRAG	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	Haugesund	Haugesund	subst	subst	_	4	PUTFYLL	_	_
+6	om	om	prep	prep	_	3	ADV	_	_
+7	morgenen	morgen	subst	subst	_	6	PUTFYLL	_	_
+8	så	så	sbu	sbu	_	10	KONJ	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	var	være	verb	verb	_	3	KOORD	_	_
+11	kortere	kort	adj	adj	_	12	ATR	_	_
+12	vei	vei	subst	subst	_	10	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 55
+# segstart = 329.009
+# segstop = 329.247
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 56
+# segstart = 329.247
+# segstop = 334.375
+# speaker = boemlo_03gm
+# text = ja # eller hvis de skulle selge ei ku eller en hest til slakteri
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eller	eller	konj	konj	_	6	KONJ	_	_
+4	hvis	hvis	sbu	sbu	_	6	SBU	_	_
+5	de	de	pron	pron	_	6	SUBJ	_	_
+6	skulle	skulle	verb	verb	_	0	FINV	_	_
+7	selge	selge	verb	verb	_	6	INFV	_	_
+8	ei	ei	det	det	_	9	DET	_	_
+9	ku	ku	subst	subst	_	7	DOBJ	_	_
+10	eller	eller	konj	konj	_	12	KONJ	_	_
+11	en	en	det	det	_	12	DET	_	_
+12	hest	hest	subst	subst	_	9	KOORD	_	_
+13	til	til	prep	prep	_	7	ADV	_	_
+14	slakteri	slakteri	subst	subst	_	13	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 57
+# segstart = 334.375
+# segstop = 341.577
+# speaker = boemlo_03gm
+# text = og da var de jo f- da var det jo e faktisk mer sirkus for da skulle de jo heise dette dyret på # ombord ikke sant
+1	og	og	konj	konj	_	8	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	8	REP	_	_
+4	de	de	pron	pron	_	3	SUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	f-	f-	ufullst	ufullst	_	7	FYLL	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	var	være	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	jo	jo	adv	adv	_	8	ADV	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	faktisk	faktisk	adj	adj	_	8	ADV	_	_
+13	mer	mye	adj	adj	_	14	ATR	_	_
+14	sirkus	sirkus	subst	subst	_	8	SPRED	_	_
+15	for	for	prep	prep	_	17	KONJ	_	_
+16	da	da	adv	adv	_	20	ADV	_	_
+17	skulle	skulle	verb	verb	_	8	KOORD	_	_
+18	de	de	pron	pron	_	20	SUBJ	_	_
+19	jo	jo	adv	adv	_	20	ADV	_	_
+20	heise	heise	verb	verb	_	17	INFV	_	_
+21	dette	dette	det	det	_	22	DET	_	_
+22	dyret	dyr	subst	subst	_	20	DOBJ	_	_
+23	på	på	prep	prep	_	20	REP	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	ombord	ombord	prep	prep	_	20	ADV	_	_
+26	ikke	ikke	adv	adv	_	27	ADV	_	_
+27	sant	sann	adj	adj	_	20	PAR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 58
+# segstart = 341.577
+# segstop = 350.171
+# speaker = boemlo_03gm
+# text = med seilduk under bok- buken og stropp over ryggen og # og hvis de da hoppet til og spratt veit du så var det jo full dramatikk
+1	med	med	prep	prep	_	0	FRAG	_	_
+2	seilduk	seilduk	subst	subst	_	1	PUTFYLL	_	_
+3	under	under	prep	prep	_	2	ATR	_	_
+4	bok-	bok-	ufullst	ufullst	_	5	REP	_	_
+5	buken	buk	subst	subst	_	3	PUTFYLL	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	stropp	stropp	subst	subst	_	1	KOORD	_	_
+8	over	over	prep	prep	_	7	ATR	_	_
+9	ryggen	rygg	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	16	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	16	KONJ	_	_
+13	hvis	hvis	sbu	sbu	_	16	SBU	_	_
+14	de	de	pron	pron	_	16	SUBJ	_	_
+15	da	da	adv	adv	_	16	ADV	_	_
+16	hoppet	hoppe	verb	verb	_	22	APP	_	_
+17	til	til	prep	prep	_	16	ADV	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	spratt	sprette	verb	verb	_	16	KOORD	_	_
+20	veit	vite	verb	verb	_	16	PAR	_	_
+21	du	du	pron	pron	_	20	SUBJ	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	var	være	verb	verb	_	1	KOORD	_	_
+24	det	det	pron	pron	_	23	FSUBJ	_	_
+25	jo	jo	adv	adv	_	23	ADV	_	_
+26	full	full	adj	adj	_	27	ATR	_	_
+27	dramatikk	dramatikk	subst	subst	_	23	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 59
+# segstart = 350.171
+# segstop = 358.565
+# speaker = boemlo_03gm
+# text = og da var det jo e moro # å se hva de voksne jobba med # for å få til dette her # ja
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	moro	moro	adj	adj	_	3	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
+10	se	se	verb	verb	_	9	INFV	_	_
+11	hva	hva	pron	pron	_	15	PUTFYLL	_	_
+12	de	de	det	det	_	13	DET	_	_
+13	voksne	voksen	adj	adj	_	14	SUBJ	_	_
+14	jobba	jobbe	verb	verb	_	10	DOBJ	_	_
+15	med	med	prep	prep	_	14	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	for	for	prep	prep	_	14	ADV	_	_
+18	å	å	inf-merke	inf-merke	_	17	PUTFYLL	_	_
+19	få	få	verb	verb	_	18	INFV	_	_
+20	til	til	prep	prep	_	19	ADV	_	_
+21	dette	dette	pron	pron	_	19	DOBJ	_	_
+22	her	her	prep	prep	_	21	ATR	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 60
+# segstart = 358.565
+# segstop = 366.554
+# speaker = boemlo_03gm
+# text = og så kunne det jo hende at det kom en # på land vet du som hadde # e reist ifra byen og og da var det jo e
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	kunne	kunne	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	6	ADV	_	_
+6	hende	hende	verb	verb	_	3	INFV	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	kom	komme	verb	verb	_	6	DOBJ	_	_
+10	en	en	det	det	_	9	DOBJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	på	på	prep	prep	_	10	ATR	_	_
+13	land	land	subst	subst	_	12	PUTFYLL	_	_
+14	vet	vite	verb	verb	_	9	PAR	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	hadde	ha	verb	verb	_	10	ATR	_	_
+18	#	#	pause	pause	_	20	IK	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	reist	reise	verb	verb	_	17	INFV	_	_
+21	ifra	ifra	prep	prep	_	20	ADV	_	_
+22	byen	by	subst	subst	_	21	PUTFYLL	_	_
+23	og	og	konj	konj	_	24	REP	_	_
+24	og	og	konj	konj	_	26	KONJ	_	_
+25	da	da	adv	adv	_	26	ADV	_	_
+26	var	være	verb	verb	_	3	KOORD	_	_
+27	det	det	pron	pron	_	26	FSUBJ	_	_
+28	jo	jo	adv	adv	_	26	ADV	_	_
+29	e	e	nol	nol	_	26	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 61
+# segstart = 366.554
+# segstop = 376.575
+# speaker = boemlo_03gm
+# text = sånn at de hadde # salg av # øl ombord # og da kunne de komme heim veit du ganske berusa og det var jo og e noe som
+1	sånn	sånn	adv	adv	_	0	FRAG	_	_
+2	at	at	sbu	sbu	_	4	SBU	_	_
+3	de	de	pron	pron	_	4	SUBJ	_	_
+4	hadde	ha	verb	verb	_	1	APP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	salg	salg	subst	subst	_	4	DOBJ	_	_
+7	av	av	prep	prep	_	6	ATR	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	øl	øl	subst	subst	_	7	PUTFYLL	_	_
+10	ombord	ombord	prep	prep	_	4	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	da	da	adv	adv	_	14	ADV	_	_
+14	kunne	kunne	verb	verb	_	1	KOORD	_	_
+15	de	de	pron	pron	_	14	SUBJ	_	_
+16	komme	komme	verb	verb	_	14	INFV	_	_
+17	heim	heim	adv	adv	_	16	ADV	_	_
+18	veit	vite	verb	verb	_	14	PAR	_	_
+19	du	du	pron	pron	_	18	SUBJ	_	_
+20	ganske	ganske	adv	adv	_	21	ADV	_	_
+21	berusa	berusa	adj	adj	_	16	SPRED	_	_
+22	og	og	konj	konj	_	24	KONJ	_	_
+23	det	det	pron	pron	_	24	SUBJ	_	_
+24	var	være	verb	verb	_	1	KOORD	_	_
+25	jo	jo	adv	adv	_	24	ADV	_	_
+26	og	og	konj	konj	_	24	KONJ	_	_
+27	e	e	nol	nol	_	28	FYLL	_	_
+28	noe	noe	pron	pron	_	24	SPRED	_	_
+29	som	som	sbu	sbu	_	28	SBU	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 62
+# segstart = 376.575
+# segstop = 382.661
+# speaker = boemlo_03gm
+# text = var litt mer dramatisk for oss # kunne faktisk komme folk på land veit du som ikke hørte til her
+1	var	være	verb	verb	_	0	FINV	_	_
+2	litt	litt	adj	adj	_	3	ADV	_	_
+3	mer	mye	adj	adj	_	4	ADV	_	_
+4	dramatisk	dramatisk	adj	adj	_	1	SPRED	_	_
+5	for	for	prep	prep	_	1	ADV	_	_
+6	oss	oss	pron	pron	_	5	PUTFYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	kunne	kunne	verb	verb	_	1	KOORD	_	_
+9	faktisk	faktisk	adj	adj	_	10	ADV	_	_
+10	komme	komme	verb	verb	_	8	INFV	_	_
+11	folk	folk	subst	subst	_	10	DOBJ	_	_
+12	på	på	prep	prep	_	10	ADV	_	_
+13	land	land	subst	subst	_	12	PUTFYLL	_	_
+14	veit	vite	verb	verb	_	8	PAR	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	som	som	sbu	sbu	_	18	SBU	_	_
+17	ikke	ikke	adv	adv	_	18	ADV	_	_
+18	hørte	høre	verb	verb	_	11	ATR	_	_
+19	til	til	prep	prep	_	18	ADV	_	_
+20	her	her	prep	prep	_	18	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 63
+# segstart = 382.661
+# segstop = 392.518
+# speaker = boemlo_03gm
+# text = men de visste ikke hvor de gikk på land ## og da e blei de jo fanga inn veit du av lensmannen og sendt tilbake med neste båt og sånt og det det var
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	visste	vite	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	hvor	hvor	adv	adv	_	7	ADV	_	_
+6	de	de	pron	pron	_	7	SUBJ	_	_
+7	gikk	gå	verb	verb	_	3	DOBJ	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	land	land	subst	subst	_	8	PUTFYLL	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	da	da	adv	adv	_	14	ADV	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	blei	bli	verb	verb	_	3	KOORD	_	_
+15	de	de	pron	pron	_	14	SUBJ	_	_
+16	jo	jo	adv	adv	_	17	ADV	_	_
+17	fanga	fange	verb	verb	_	14	INFV	_	_
+18	inn	inn	prep	prep	_	17	ADV	_	_
+19	veit	vite	verb	verb	_	3	PAR	_	_
+20	du	du	pron	pron	_	19	SUBJ	_	_
+21	av	av	prep	prep	_	17	ADV	_	_
+22	lensmannen	lensmann	subst	subst	_	21	PUTFYLL	_	_
+23	og	og	konj	konj	_	24	KONJ	_	_
+24	sendt	sende	verb	verb	_	17	KOORD	_	_
+25	tilbake	tilbake	prep	prep	_	24	ADV	_	_
+26	med	med	prep	prep	_	24	ADV	_	_
+27	neste	neste	adj	adj	_	28	ATR	_	_
+28	båt	båt	subst	subst	_	26	PUTFYLL	_	_
+29	og	og	konj	konj	_	30	KONJ	_	_
+30	sånt	sånt	pron	pron	_	14	KOORD	_	_
+31	og	og	konj	konj	_	34	KONJ	_	_
+32	det	det	pron	pron	_	33	REP	_	_
+33	det	det	pron	pron	_	34	SUBJ	_	_
+34	var	være	verb	verb	_	3	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 64
+# segstart = 392.518
+# segstop = 397.641
+# speaker = boemlo_03gm
+# text = akkurat sånn som du tenker deg en # landsby i ville vesten # med disse båtene
+1	akkurat	akkurat	adv	adv	_	2	ADV	_	_
+2	sånn	sånn	adv	adv	_	0	FRAG	_	_
+3	som	som	sbu	sbu	_	5	SBU	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	tenker	tenke	verb	verb	_	2	APP	_	_
+6	deg	deg	pron	pron	_	5	IOBJ	_	_
+7	en	en	det	det	_	9	DET	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	landsby	landsby	subst	subst	_	5	DOBJ	_	_
+10	i	i	prep	prep	_	9	ATR	_	_
+11	ville	ville	adj	adj	_	12	ATR	_	_
+12	vesten	vesten	verb	verb	_	10	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	med	med	prep	prep	_	9	ATR	_	_
+15	disse	disse	det	det	_	16	DET	_	_
+16	båtene	båt	subst	subst	_	14	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 65
+# segstart = 397.641
+# segstop = 401.695
+# speaker = sl
+# text = ja # så du livet dreide seg mye rundt e dampbåt- # ja
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	verb	verb	_	6	KONJ	_	_
+4	du	du	pron	pron	_	6	REP	_	_
+5	livet	liv	subst	subst	_	6	SUBJ	_	_
+6	dreide	dreie	verb	verb	_	0	FINV	_	_
+7	seg	seg	pron	pron	_	6	DOBJ	_	_
+8	mye	mye	adj	adj	_	6	ADV	_	_
+9	rundt	rundt	prep	prep	_	6	ADV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	dampbåt-	dampbåt-	ufullst	ufullst	_	9	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	ja	ja	interj	interj	_	6	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 66
+# segstart = 397.641
+# segstop = 401.695
+# speaker = boemlo_03gm
+# text = * veldig mye
+1	*	*	pause	pause	_	2	IK	_	_
+2	veldig	veldig	adj	adj	_	3	ADV	_	_
+3	mye	mye	adj	adj	_	0	FRAG	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 67
+# segstart = 401.695
+# segstop = 414.525
+# speaker = boemlo_03gm
+# text = ja # ja # og der det var jo sånn veit du at når en møttes enten i posten eller på handelsstedet så var det der en utveksla # nyheter veit du og alt egentlig
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	og	og	konj	konj	_	8	KONJ	_	_
+6	der	der	prep	prep	_	8	ADV	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	1	ADV	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	sånn	sånn	adv	adv	_	8	ADV	_	_
+11	veit	vite	verb	verb	_	8	PAR	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	at	at	sbu	sbu	_	24	SBU	_	_
+14	når	når	sbu	sbu	_	16	SBU	_	_
+15	en	en	pron	pron	_	16	SUBJ	_	_
+16	møttes	møtes	verb	verb	_	23	APP	_	_
+17	enten	enten	konj	konj	_	18	KONJ	_	_
+18	i	i	prep	prep	_	16	ADV	_	_
+19	posten	post	subst	subst	_	18	PUTFYLL	_	_
+20	eller	eller	konj	konj	_	21	KONJ	_	_
+21	på	på	prep	prep	_	18	KOORD	_	_
+22	handelsstedet	handelssted	subst	subst	_	21	PUTFYLL	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	var	være	verb	verb	_	10	APP	_	_
+25	det	det	pron	pron	_	24	FSUBJ	_	_
+26	der	der	adv	adv	_	24	SPRED	_	_
+27	en	en	det	det	_	28	SUBJ	_	_
+28	utveksla	utveksle	verb	verb	_	26	ADV	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	nyheter	nyhet	subst	subst	_	28	DOBJ	_	_
+31	veit	vite	verb	verb	_	24	PAR	_	_
+32	du	du	pron	pron	_	31	SUBJ	_	_
+33	og	og	konj	konj	_	34	KONJ	_	_
+34	alt	alt	det	det	_	30	KOORD	_	_
+35	egentlig	egentlig	adj	adj	_	24	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 68
+# segstart = 414.525
+# segstop = 419.043
+# speaker = sl
+# text = ja ja # hm # em hvor gikk du på skole hen da ?
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	hm	hm	interj	interj	_	1	INTERJ	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	em	em	nol	nol	_	7	FYLL	_	_
+7	hvor	hvor	adv	adv	_	8	ADV	_	_
+8	gikk	gå	verb	verb	_	0	FINV	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	på	på	prep	prep	_	8	ADV	_	_
+11	skole	skole	subst	subst	_	10	PUTFYLL	_	_
+12	hen	hen	prep	prep	_	8	ADV	_	_
+13	da	da	adv	adv	_	8	ADV	_	_
+14	?	?	clb	clb	_	8	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 69
+# segstart = 419.043
+# segstop = 426.947
+# speaker = boemlo_03gm
+# text = skolen var på Meling # e og det var jo da for alle de gardene ute i havgapet og # og da var Meling midt imellom
+1	skolen	skole	subst	subst	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	SPRED	_	_
+4	Meling	Meling	subst	subst	_	3	PUTFYLL	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	var	være	verb	verb	_	2	KOORD	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	da	da	adv	adv	_	9	ADV	_	_
+12	for	for	prep	prep	_	9	ADV	_	_
+13	alle	all	det	det	_	15	DET	_	_
+14	de	de	det	det	_	15	DET	_	_
+15	gardene	gard	subst	subst	_	12	PUTFYLL	_	_
+16	ute	ute	prep	prep	_	15	ATR	_	_
+17	i	i	prep	prep	_	16	PUTFYLL	_	_
+18	havgapet	havgap	subst	subst	_	17	PUTFYLL	_	_
+19	og	og	konj	konj	_	21	REP	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	og	og	konj	konj	_	23	KONJ	_	_
+22	da	da	adv	adv	_	23	ADV	_	_
+23	var	være	verb	verb	_	2	KOORD	_	_
+24	Meling	Meling	subst	subst	_	23	SUBJ	_	_
+25	midt	midt	adv	adv	_	26	ADV	_	_
+26	imellom	imellom	prep	prep	_	23	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 70
+# segstart = 426.947
+# segstop = 437.035
+# speaker = boemlo_03gm
+# text = Meling betyr # mellom garden # så det ligger midt imellom # fire garder ## der var skolen og når jeg gikk på skolen på Meling
+1	Meling	Meling	subst	subst	_	2	SUBJ	_	_
+2	betyr	bety	verb	verb	_	7	APP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	mellom	mellom	prep	prep	_	2	SPRED	_	_
+5	garden	gard	subst	subst	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	adv	adv	_	9	KONJ	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	ligger	ligge	verb	verb	_	0	FINV	_	_
+10	midt	midt	adv	adv	_	11	ADV	_	_
+11	imellom	imellom	prep	prep	_	9	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	fire	fire	det	det	_	14	DET	_	_
+14	garder	gard	subst	subst	_	11	PUTFYLL	_	_
+15	##	##	pause	pause	_	16	IK	_	_
+16	der	der	prep	prep	_	17	SPRED	_	_
+17	var	være	verb	verb	_	9	KOORD	_	_
+18	skolen	skole	subst	subst	_	17	SUBJ	_	_
+19	og	og	konj	konj	_	22	KONJ	_	_
+20	når	når	sbu	sbu	_	22	SBU	_	_
+21	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+22	gikk	gå	verb	verb	_	9	KOORD	_	_
+23	på	på	prep	prep	_	22	ADV	_	_
+24	skolen	skole	subst	subst	_	23	PUTFYLL	_	_
+25	på	på	prep	prep	_	24	ATR	_	_
+26	Meling	Meling	subst	subst	_	25	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 71
+# segstart = 437.035
+# segstop = 439.529
+# speaker = boemlo_03gm
+# text = så var vi hundre elever # cirka
+1	så	så	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	vi	vi	pron	pron	_	2	SUBJ	_	_
+4	hundre	hundre	det	det	_	5	DET	_	_
+5	elever	elev	subst	subst	_	2	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	cirka	cirka	adv	adv	_	2	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 72
+# segstart = 439.529
+# segstop = 439.839
+# speaker = sl
+# text = ehe
+1	ehe	ehe	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 73
+# segstart = 439.839
+# segstop = 447.294
+# speaker = boemlo_03gm
+# text = ja # og så # gikk vi tre dager ## og vi gikk annenhver dag og lørdag var jo en skoledag
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	så	så	adv	adv	_	6	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	gikk	gå	verb	verb	_	0	FINV	_	_
+7	vi	vi	pron	pron	_	6	SUBJ	_	_
+8	tre	tre	det	det	_	9	DET	_	_
+9	dager	dag	subst	subst	_	6	ADV	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	gikk	gå	verb	verb	_	6	KOORD	_	_
+14	annenhver	annenhver	det	det	_	15	DET	_	_
+15	dag	dag	subst	subst	_	13	ADV	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	lørdag	lørdag	subst	subst	_	18	SUBJ	_	_
+18	var	være	verb	verb	_	6	KOORD	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	en	en	det	det	_	21	DET	_	_
+21	skoledag	skoledag	subst	subst	_	18	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 74
+# segstart = 447.294
+# segstop = 453.666
+# speaker = boemlo_03gm
+# text = og så gikk da # de andre klassene de andre dagene # så veksla vi på ifra år til år
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	gikk	gå	verb	verb	_	0	FINV	_	_
+4	da	da	adv	adv	_	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	de	de	det	det	_	8	DET	_	_
+7	andre	andre	det	det	_	8	DET	_	_
+8	klassene	klasse	subst	subst	_	3	SUBJ	_	_
+9	de	de	det	det	_	11	DET	_	_
+10	andre	andre	det	det	_	11	DET	_	_
+11	dagene	dag	subst	subst	_	3	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	veksla	veksle	verb	verb	_	3	KOORD	_	_
+15	vi	vi	pron	pron	_	14	SUBJ	_	_
+16	på	på	prep	prep	_	14	ADV	_	_
+17	ifra	ifra	prep	prep	_	14	ADV	_	_
+18	år	år	subst	subst	_	17	PUTFYLL	_	_
+19	til	til	prep	prep	_	18	ADV	_	_
+20	år	år	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 75
+# segstart = 453.666
+# segstop = 459.39
+# speaker = boemlo_03gm
+# text = mandag onsdag # fredag og så var det tirsdag torsdag # lørdag i neste runde
+1	mandag	mandag	subst	subst	_	0	FRAG	_	_
+2	onsdag	onsdag	subst	subst	_	1	FLAT	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	fredag	fredag	subst	subst	_	1	FLAT	_	_
+5	og	og	konj	konj	_	7	KONJ	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	var	være	verb	verb	_	1	KOORD	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	tirsdag	tirsdag	subst	subst	_	7	SPRED	_	_
+10	torsdag	torsdag	subst	subst	_	9	FLAT	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	lørdag	lørdag	subst	subst	_	9	FLAT	_	_
+13	i	i	prep	prep	_	7	ADV	_	_
+14	neste	neste	det	det	_	15	DET	_	_
+15	runde	runde	subst	subst	_	13	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 76
+# segstart = 459.39
+# segstop = 460.630
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 77
+# segstart = 459.39
+# segstop = 460.630
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 78
+# segstart = 460.630
+# segstop = 464.898
+# speaker = boemlo_03gm
+# text = og det var et gammalt hus veit du med enkle glassruter og
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	et	et	det	det	_	6	DET	_	_
+5	gammalt	gammalt	adj	adj	_	6	ATR	_	_
+6	hus	hus	subst	subst	_	3	SPRED	_	_
+7	veit	vite	verb	verb	_	3	PAR	_	_
+8	du	du	pron	pron	_	7	SUBJ	_	_
+9	med	med	prep	prep	_	6	ATR	_	_
+10	enkle	enkel	adj	adj	_	11	ATR	_	_
+11	glassruter	glassrute	subst	subst	_	9	PUTFYLL	_	_
+12	og	og	konj	konj	_	3	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 79
+# segstart = 464.898
+# segstop = 472.41
+# speaker = boemlo_03gm
+# text = e oppfyringssved kakkelovner med ved og koks og kol ikke sant og # en måtte jo sette på så mye varme
+1	e	e	nol	nol	_	0	FYLL	_	_
+2	oppfyringssved	oppfyringssved	subst	subst	_	0	FRAG	_	_
+3	kakkelovner	kakkelovn	subst	subst	_	1	FLAT	_	_
+4	med	med	prep	prep	_	3	ATR	_	_
+5	ved	ved	subst	subst	_	4	PUTFYLL	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	koks	koks	subst	subst	_	1	FLAT	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	kol	kol	subst	subst	_	7	KOORD	_	_
+10	ikke	ikke	adv	adv	_	11	ADV	_	_
+11	sant	sann	adj	adj	_	1	PAR	_	_
+12	og	og	konj	konj	_	15	KONJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	en	en	pron	pron	_	15	SUBJ	_	_
+15	måtte	måtte	verb	verb	_	1	KOORD	_	_
+16	jo	jo	adv	adv	_	17	ADV	_	_
+17	sette	sette	verb	verb	_	15	INFV	_	_
+18	på	på	prep	prep	_	17	ADV	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	mye	mye	adj	adj	_	21	ATR	_	_
+21	varme	varme	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 80
+# segstart = 472.41
+# segstop = 477.327
+# speaker = boemlo_03gm
+# text = at de måtte ha skjermbrett framforbi så ikke vi skulle bli # svidd vi som satt nærmest
+1	at	at	sbu	sbu	_	3	SBU	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	måtte	måtte	verb	verb	_	7	APP	_	_
+4	ha	ha	verb	verb	_	3	INFV	_	_
+5	skjermbrett	skjermbrett	subst	subst	_	4	DOBJ	_	_
+6	framforbi	framforbi	prep	prep	_	4	ADV	_	_
+7	så	så	adv	adv	_	10	ADV	_	_
+8	ikke	ikke	adv	adv	_	10	ADV	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	skulle	skulle	verb	verb	_	0	FINV	_	_
+11	bli	bli	verb	verb	_	10	INFV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	svidd	svi	verb	verb	_	11	INFV	_	_
+14	vi	vi	pron	pron	_	9	APP	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	satt	sitte	verb	verb	_	14	ATR	_	_
+17	nærmest	nær	adj	adj	_	16	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 81
+# segstart = 477.327
+# segstop = 480.852
+# speaker = boemlo_03gm
+# text = for at en skulle da varme opp hele # hele klasserommet
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	at	at	sbu	sbu	_	4	SBU	_	_
+3	en	en	det	det	_	4	SUBJ	_	_
+4	skulle	skulle	verb	verb	_	1	PUTFYLL	_	_
+5	da	da	adv	adv	_	6	ADV	_	_
+6	varme	varme	verb	verb	_	4	INFV	_	_
+7	opp	opp	prep	prep	_	6	ADV	_	_
+8	hele	hel	adj	adj	_	11	REP	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	hele	hel	adj	adj	_	11	ATR	_	_
+11	klasserommet	klasserom	subst	subst	_	6	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 82
+# segstart = 480.852
+# segstop = 483.747
+# speaker = sl
+# text = mm # men da var det bare et klasserom som … ?
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	bare	bare	adv	adv	_	5	ADV	_	_
+8	et	et	det	det	_	9	DET	_	_
+9	klasserom	klasserom	subst	subst	_	5	PSUBJ	_	_
+10	som	som	prep	prep	_	9	SLETT	_	_
+11	…	…	pause	pause	_	5	FYLL	_	_
+12	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 84
+# segstart = 483.747
+# segstop = 488.665
+# speaker = boemlo_03gm
+# text = da var det to klasserom for det var det var småskole og storskole og så gikk vi da litt i lag
+1	da	da	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	to	to	det	det	_	5	DET	_	_
+5	klasserom	klasserom	subst	subst	_	2	PSUBJ	_	_
+6	for	for	konj	konj	_	10	KONJ	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	10	REP	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	var	være	verb	verb	_	2	KOORD	_	_
+11	småskole	småskole	subst	subst	_	10	PSUBJ	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	storskole	storskole	subst	subst	_	11	KOORD	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	gikk	gå	verb	verb	_	2	KOORD	_	_
+17	vi	vi	pron	pron	_	16	SUBJ	_	_
+18	da	da	adv	adv	_	16	ADV	_	_
+19	litt	litt	adj	adj	_	20	ADV	_	_
+20	i	i	prep	prep	_	16	ADV	_	_
+21	lag	lag	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 85
+# segstart = 488.665
+# segstop = 495.772
+# speaker = boemlo_03gm
+# text = sånn at vi gikk e gjerne første og # andre og tredje og fjerde # ofte var det sånn at førsteklassen var aleine
+1	sånn	sånn	adv	adv	_	0	FRAG	_	_
+2	at	at	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	gikk	gå	verb	verb	_	1	APP	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	gjerne	gjerne	adv	adv	_	4	ADV	_	_
+7	første	første	adj	adj	_	4	DOBJ	_	_
+8	og	og	konj	konj	_	10	KONJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	andre	andre	adj	adj	_	7	KOORD	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	tredje	tredje	adj	adj	_	7	KOORD	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	fjerde	fjerde	adj	adj	_	7	KOORD	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	ofte	oft	adj	adj	_	17	ADV	_	_
+17	var	være	verb	verb	_	1	KOORD	_	_
+18	det	det	pron	pron	_	17	FSUBJ	_	_
+19	sånn	sånn	adv	adv	_	17	SPRED	_	_
+20	at	at	sbu	sbu	_	22	SBU	_	_
+21	førsteklassen	førsteklasse	subst	subst	_	22	SUBJ	_	_
+22	var	være	verb	verb	_	19	APP	_	_
+23	aleine	aleine	adv	adv	_	22	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 86
+# segstart = 495.772
+# segstop = 503.743
+# speaker = boemlo_03gm
+# text = og så blanda en de andre klassene fo- # første klassen skulle jo lære så mye elementært at de kunne egentlig ikke gå # i lag med de andre
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	blanda	blande	verb	verb	_	0	FINV	_	_
+4	en	en	det	det	_	3	SUBJ	_	_
+5	de	de	det	det	_	7	DET	_	_
+6	andre	annen	det	det	_	7	DET	_	_
+7	klassene	klasse	subst	subst	_	3	DOBJ	_	_
+8	fo-	f	ufullst	ufullst	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	første	første	adj	adj	_	11	ATR	_	_
+11	klassen	klasse	subst	subst	_	12	SUBJ	_	_
+12	skulle	skulle	verb	verb	_	3	KOORD	_	_
+13	jo	jo	adv	adv	_	14	ADV	_	_
+14	lære	lære	verb	verb	_	12	INFV	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	mye	mye	adj	adj	_	17	ATR	_	_
+17	elementært	elementær	adj	adj	_	14	ADV	_	_
+18	at	at	sbu	sbu	_	20	SBU	_	_
+19	de	de	pron	pron	_	20	SUBJ	_	_
+20	kunne	kunne	verb	verb	_	17	ATR	_	_
+21	egentlig	egentlig	adj	adj	_	23	ADV	_	_
+22	ikke	ikke	adv	adv	_	23	ADV	_	_
+23	gå	gå	verb	verb	_	20	INFV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	i	i	prep	prep	_	23	ADV	_	_
+26	lag	lag	subst	subst	_	25	PUTFYLL	_	_
+27	med	med	prep	prep	_	26	ATR	_	_
+28	de	de	det	det	_	29	DET	_	_
+29	andre	annen	det	det	_	27	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 87
+# segstart = 503.743
+# segstop = 508.779
+# speaker = sl
+# text = mm # hvordan husker du det eller var det fint syns du å gå sånn ?
+1	mm	mm	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	hvordan	hvordan	adv	adv	_	4	ADV	_	_
+4	husker	huske	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	det	det	pron	pron	_	4	DOBJ	_	_
+7	eller	eller	konj	konj	_	8	KONJ	_	_
+8	var	være	verb	verb	_	4	KOORD	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	fint	fin	adj	adj	_	8	SPRED	_	_
+11	syns	synes	verb	verb	_	4	PAR	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	å	å	inf-merke	inf-merke	_	8	PSUBJ	_	_
+14	gå	gå	verb	verb	_	13	INFV	_	_
+15	sånn	sånn	adv	adv	_	14	ADV	_	_
+16	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 88
+# segstart = 508.779
+# segstop = 519.564
+# speaker = boemlo_03gm
+# text = ja d- det var jo veldig kjekt og og sånt og # men det var jo spartansk og # hvis du hadde sett oss når vi for til fots veit du på e
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	d-	d	ufullst	ufullst	_	3	FYLL	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	kjekt	kjekk	adj	adj	_	4	SPRED	_	_
+8	og	og	konj	konj	_	9	REP	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	sånt	sånt	pron	pron	_	7	KOORD	_	_
+11	og	og	konj	konj	_	13	REP	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	men	men	konj	konj	_	15	KONJ	_	_
+14	det	det	pron	pron	_	15	SUBJ	_	_
+15	var	være	verb	verb	_	4	KOORD	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	spartansk	spartansk	adj	adj	_	15	SPRED	_	_
+18	og	og	konj	konj	_	22	KONJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	hvis	hvis	sbu	sbu	_	22	SBU	_	_
+21	du	du	pron	pron	_	22	SUBJ	_	_
+22	hadde	ha	verb	verb	_	4	ADV	_	_
+23	sett	se	verb	verb	_	22	INFV	_	_
+24	oss	vi	pron	pron	_	23	DOBJ	_	_
+25	når	når	sbu	sbu	_	27	SBU	_	_
+26	vi	vi	pron	pron	_	27	SUBJ	_	_
+27	for	fare	verb	verb	_	23	ADV	_	_
+28	til	til	prep	prep	_	27	ADV	_	_
+29	fots	fot	subst	subst	_	28	PUTFYLL	_	_
+30	veit	vite	verb	verb	_	4	PAR	_	_
+31	du	du	pron	pron	_	30	SUBJ	_	_
+32	på	på	prep	prep	_	27	ADV	_	_
+33	e	e	nol	nol	_	32	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 89
+# segstart = 519.564
+# segstop = 528.919
+# speaker = boemlo_03gm
+# text = stiene og på kjerreveier veit du med # dårlige klær # det var jo ikke boblejakke og # regntøy så vi gikk jo i tøyklær veit du
+1	stiene	sti	subst	subst	_	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	på	på	prep	prep	_	1	KOORD	_	_
+4	kjerreveier	kjerrevei	subst	subst	_	3	PUTFYLL	_	_
+5	veit	vite	verb	verb	_	1	PAR	_	_
+6	du	du	pron	pron	_	5	SUBJ	_	_
+7	med	med	prep	prep	_	1	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	dårlige	dårlig	adj	adj	_	10	ATR	_	_
+10	klær	klær	subst	subst	_	7	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	1	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	ikke	ikke	adv	adv	_	13	ADV	_	_
+16	boblejakke	boblejakke	subst	subst	_	13	PSUBJ	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	regntøy	regntøy	subst	subst	_	16	KOORD	_	_
+20	så	så	adv	adv	_	22	KONJ	_	_
+21	vi	vi	pron	pron	_	22	SUBJ	_	_
+22	gikk	gå	verb	verb	_	13	KOORD	_	_
+23	jo	jo	adv	adv	_	22	ADV	_	_
+24	i	i	prep	prep	_	22	ADV	_	_
+25	tøyklær	tøyklær	subst	subst	_	24	PUTFYLL	_	_
+26	veit	vite	verb	verb	_	13	PAR	_	_
+27	du	du	pron	pron	_	26	SUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 90
+# segstart = 528.919
+# segstop = 535.834
+# speaker = boemlo_03gm
+# text = og var jo søkk gjennomvåte når vi kom fram og # nå hadde ikke jeg så lang vei så jeg var vel tørr de fleste dagene
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	søkk	søkk	adv	adv	_	5	ADV	_	_
+5	gjennomvåte	gjennomvåt	adj	adj	_	2	SPRED	_	_
+6	når	når	sbu	sbu	_	8	SBU	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	kom	komme	verb	verb	_	2	ADV	_	_
+9	fram	fram	prep	prep	_	8	ADV	_	_
+10	og	og	konj	konj	_	13	KONJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	nå	nå	adv	adv	_	13	ADV	_	_
+13	hadde	ha	verb	verb	_	2	KOORD	_	_
+14	ikke	ikke	adv	adv	_	13	ADV	_	_
+15	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	lang	lang	adj	adj	_	18	ATR	_	_
+18	vei	vei	subst	subst	_	13	DOBJ	_	_
+19	så	så	sbu	sbu	_	21	KONJ	_	_
+20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	13	KOORD	_	_
+22	vel	vel	adv	adv	_	21	ADV	_	_
+23	tørr	tørr	adj	adj	_	21	SPRED	_	_
+24	de	de	det	det	_	26	DET	_	_
+25	fleste	fler	adj	adj	_	26	ATR	_	_
+26	dagene	dag	subst	subst	_	21	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 91
+# segstart = 535.834
+# segstop = 544.734
+# speaker = boemlo_03gm
+# text = men vi satt i våt i klasserommet og # klærne tørka på kroppen veit du og den kakkelovnen som sto bakom skjermbrettet
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	satt	sitte	verb	verb	_	0	FINV	_	_
+4	i	i	prep	prep	_	3	ADV	_	_
+5	våt	våt	adj	adj	_	4	PUTFYLL	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	klasserommet	klasserom	subst	subst	_	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	11	KONJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	klærne	klær	subst	subst	_	11	SUBJ	_	_
+11	tørka	tørke	verb	verb	_	3	KOORD	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	kroppen	kropp	subst	subst	_	12	PUTFYLL	_	_
+14	veit	vite	verb	verb	_	3	PAR	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	den	den	det	det	_	18	DET	_	_
+18	kakkelovnen	kakkelovn	subst	subst	_	3	KOORD	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	sto	stå	verb	verb	_	18	ATR	_	_
+21	bakom	bakom	prep	prep	_	20	ADV	_	_
+22	skjermbrettet	skjermbrett	subst	subst	_	21	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 92
+# segstart = 544.734
+# segstop = 547.386
+# speaker = sl
+# text = var det om å gjøre å sitte nærmest den ovnen da eller ?
+1	var	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	om	om	prep	prep	_	1	SPRED	_	_
+4	å	å	inf-merke	inf-merke	_	3	PUTFYLL	_	_
+5	gjøre	gjøre	verb	verb	_	4	INFV	_	_
+6	å	å	inf-merke	inf-merke	_	1	PSUBJ	_	_
+7	sitte	sitte	verb	verb	_	6	INFV	_	_
+8	nærmest	nær	adj	adj	_	7	ADV	_	_
+9	den	den	det	det	_	10	DET	_	_
+10	ovnen	ovn	subst	subst	_	7	DOBJ	_	_
+11	da	da	adv	adv	_	1	ADV	_	_
+12	eller	eller	konj	konj	_	1	KONJ	_	_
+13	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 94
+# segstart = 547.386
+# segstop = 554.783
+# speaker = boemlo_03gm
+# text = nei det var faktisk nesten tortur fordi at det var jo så kokende varmt der # det var jo derfor de hadde disse her
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	faktisk	faktisk	adj	adj	_	3	ADV	_	_
+5	nesten	nesten	adv	adv	_	6	ATR	_	_
+6	tortur	tortur	subst	subst	_	3	SPRED	_	_
+7	fordi	fordi	sbu	sbu	_	10	SBU	_	_
+8	at	at	sbu	sbu	_	7	ADV	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	var	være	verb	verb	_	3	ADV	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	kokende	koke	adj	adj	_	14	ATR	_	_
+14	varmt	varm	adj	adj	_	10	SPRED	_	_
+15	der	der	prep	prep	_	10	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	det	det	pron	pron	_	18	FSUBJ	_	_
+18	var	være	verb	verb	_	3	KOORD	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	derfor	derfor	adv	adv	_	18	SPRED	_	_
+21	de	de	pron	pron	_	22	SUBJ	_	_
+22	hadde	ha	verb	verb	_	20	ATR	_	_
+23	disse	disse	pron	pron	_	22	DOBJ	_	_
+24	her	her	prep	prep	_	23	ATR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 95
+# segstart = 554.783
+# segstop = 555.141
+# speaker = sl
+# text = skjerm- …
+1	skjerm-	skjerm-	ufullst	ufullst	_	0	FRAG	_	_
+2	…	…	pause	pause	_	1	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 96
+# segstart = 555.141
+# segstop = 555.999
+# speaker = boemlo_03gm
+# text = skjermingene ja
+1	skjermingene	skjerming	subst	subst	_	0	FRAG	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 97
+# segstart = 555.999
+# segstop = 557.311
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 98
+# segstart = 555.999
+# segstop = 557.311
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 99
+# segstart = 557.311
+# segstop = 562.128
+# speaker = boemlo_03gm
+# text = så midt midt imellom var kanskje best og så nærmest glassrutene begynte det bli kaldt igjen
+1	så	så	konj	konj	_	5	ADV	_	_
+2	midt	midt	adv	adv	_	3	REP	_	_
+3	midt	midt	adv	adv	_	4	ADV	_	_
+4	imellom	imellom	prep	prep	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+7	best	god	adj	adj	_	5	SPRED	_	_
+8	og	og	konj	konj	_	12	KONJ	_	_
+9	så	så	adv	adv	_	12	ADV	_	_
+10	nærmest	nær	adj	adj	_	11	ATR	_	_
+11	glassrutene	glassrute	subst	subst	_	14	ADV	_	_
+12	begynte	begynne	verb	verb	_	5	KOORD	_	_
+13	det	det	pron	pron	_	12	SUBJ	_	_
+14	bli	bli	verb	verb	_	12	INFV	_	_
+15	kaldt	kald	adj	adj	_	14	SPRED	_	_
+16	igjen	igjen	adv	adv	_	14	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 100
+# segstart = 557.311
+# segstop = 562.128
+# speaker = sl
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 101
+# segstart = 562.128
+# segstop = 570.718
+# speaker = boemlo_03gm
+# text = ja # og der satt jo vi elevene vet du nede på golvet og så var det jo da helt framme # en sånn liten oppbygging
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	der	der	prep	prep	_	5	ADV	_	_
+5	satt	sitte	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	vi	vi	pron	pron	_	5	SUBJ	_	_
+8	elevene	elev	subst	subst	_	7	APP	_	_
+9	vet	vite	verb	verb	_	5	PAR	_	_
+10	du	du	pron	pron	_	9	SUBJ	_	_
+11	nede	nede	prep	prep	_	4	APP	_	_
+12	på	på	prep	prep	_	11	PUTFYLL	_	_
+13	golvet	golv	subst	subst	_	12	PUTFYLL	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	var	være	verb	verb	_	5	KOORD	_	_
+17	det	det	pron	pron	_	16	FSUBJ	_	_
+18	jo	jo	adv	adv	_	16	ADV	_	_
+19	da	da	adv	adv	_	16	ADV	_	_
+20	helt	hel	adj	adj	_	21	ADV	_	_
+21	framme	framme	adv	adv	_	16	SPRED	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	en	en	det	det	_	26	DET	_	_
+24	sånn	sånn	det	det	_	26	DET	_	_
+25	liten	liten	adj	adj	_	26	ATR	_	_
+26	oppbygging	oppbygging	subst	subst	_	16	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 102
+# segstart = 570.718
+# segstop = 579.613
+# speaker = boemlo_03gm
+# text = og det var da podiet der læreren satt bakom kateteret ikke sant # så han var jo litt opphøyd han da i forhold til oss andre og
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	da	da	adv	adv	_	3	ADV	_	_
+5	podiet	podium	subst	subst	_	3	SPRED	_	_
+6	der	der	adv	adv	_	5	ATR	_	_
+7	læreren	lærer	subst	subst	_	8	SUBJ	_	_
+8	satt	sitte	verb	verb	_	6	ADV	_	_
+9	bakom	bakom	prep	prep	_	8	ADV	_	_
+10	kateteret	kateter	subst	subst	_	9	PUTFYLL	_	_
+11	ikke	ikke	adv	adv	_	12	ADV	_	_
+12	sant	sann	adj	adj	_	3	PAR	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	så	så	adv	adv	_	16	ADV	_	_
+15	han	han	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	3	KOORD	_	_
+17	jo	jo	adv	adv	_	16	ADV	_	_
+18	litt	litt	adj	adj	_	19	ADV	_	_
+19	opphøyd	opphøyd	adj	adj	_	16	SPRED	_	_
+20	han	han	pron	pron	_	15	APP	_	_
+21	da	da	adv	adv	_	16	ADV	_	_
+22	i	i	prep	prep	_	16	ADV	_	_
+23	forhold	forhold	subst	subst	_	22	PUTFYLL	_	_
+24	til	til	prep	prep	_	23	ATR	_	_
+25	oss	oss	pron	pron	_	24	PUTFYLL	_	_
+26	andre	andre	det	det	_	25	DET	_	_
+27	og	og	konj	konj	_	16	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 103
+# segstart = 579.613
+# segstop = 589.453
+# speaker = boemlo_03gm
+# text = hadde jo myndighet og var streng ikke sant # og vi blei jo refsa da # dag- dagen lang for # alle de gale tingene vi gjorde
+1	hadde	ha	verb	verb	_	0	FINV	_	_
+2	jo	jo	adv	adv	_	1	ADV	_	_
+3	myndighet	myndighet	subst	subst	_	1	DOBJ	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	var	være	verb	verb	_	1	KOORD	_	_
+6	streng	streng	adj	adj	_	5	SPRED	_	_
+7	ikke	ikke	adv	adv	_	8	ADV	_	_
+8	sant	sann	adj	adj	_	1	PAR	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	vi	vi	pron	pron	_	12	SUBJ	_	_
+12	blei	bli	verb	verb	_	1	KOORD	_	_
+13	jo	jo	adv	adv	_	14	ADV	_	_
+14	refsa	refse	verb	verb	_	12	INFV	_	_
+15	da	da	adv	adv	_	14	ADV	_	_
+16	#	#	pause	pause	_	18	IK	_	_
+17	dag-	dag-	ufullst	ufullst	_	18	REP	_	_
+18	dagen	dag	subst	subst	_	14	ADV	_	_
+19	lang	lang	adj	adj	_	18	ATR	_	_
+20	for	for	prep	prep	_	14	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	alle	alle	det	det	_	25	DET	_	_
+23	de	de	pron	pron	_	25	DET	_	_
+24	gale	gale	adj	adj	_	25	ATR	_	_
+25	tingene	ting	subst	subst	_	20	PUTFYLL	_	_
+26	vi	vi	pron	pron	_	27	SUBJ	_	_
+27	gjorde	gjøre	verb	verb	_	25	ATR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 104
+# segstart = 589.453
+# segstop = 590.55
+# speaker = sl
+# text = litt annerledes enn i dag
+1	litt	litt	adj	adj	_	2	ADV	_	_
+2	annerledes	annerledes	adj	adj	_	0	FRAG	_	_
+3	enn	enn	prep	prep	_	2	ADV	_	_
+4	i	i	prep	prep	_	3	PUTFYLL	_	_
+5	dag	dag	subst	subst	_	4	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 105
+# segstart = 590.55
+# segstop = 602.14
+# speaker = boemlo_03gm
+# text = ja # og ranslene som vi hadde på ryggen det var jo faktisk e bare laget av e # kassefjøler # så hvis du kan tenke deg en sånn gammal
+1	ja	ja	interj	interj	_	11	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	ranslene	ransel	subst	subst	_	10	APP	_	_
+5	som	som	sbu	sbu	_	7	SBU	_	_
+6	vi	vi	pron	pron	_	7	SUBJ	_	_
+7	hadde	ha	verb	verb	_	4	ATR	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	ryggen	rygg	subst	subst	_	8	PUTFYLL	_	_
+10	det	det	pron	pron	_	11	SUBJ	_	_
+11	var	være	verb	verb	_	0	FINV	_	_
+12	jo	jo	adv	adv	_	16	ADV	_	_
+13	faktisk	faktisk	adj	adj	_	16	ADV	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	bare	bare	adv	adv	_	16	ADV	_	_
+16	laget	lage	verb	verb	_	11	INFV	_	_
+17	av	av	prep	prep	_	16	ADV	_	_
+18	e	e	nol	nol	_	20	FYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	kassefjøler	kassefjøl	subst	subst	_	17	PUTFYLL	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	så	så	konj	konj	_	25	ADV	_	_
+23	hvis	hvis	sbu	sbu	_	25	SBU	_	_
+24	du	du	pron	pron	_	25	SUBJ	_	_
+25	kan	kan	verb	verb	_	11	KOORD	_	_
+26	tenke	tenke	verb	verb	_	25	INFV	_	_
+27	deg	deg	pron	pron	_	26	IOBJ	_	_
+28	en	en	det	det	_	30	DET	_	_
+29	sånn	sånn	det	det	_	30	DET	_	_
+30	gammal	gammal	adj	adj	_	26	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 106
+# segstart = 602.14
+# segstop = 609.361
+# speaker = boemlo_03gm
+# text = ja en # trekasse som vi får e frukt i eller # tomat i eller tynne sånne # små spikra isammen
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	en	en	det	det	_	4	DET	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	trekasse	trekasse	subst	subst	_	0	FRAG	_	_
+5	som	som	sbu	sbu	_	7	SBU	_	_
+6	vi	vi	pron	pron	_	7	SUBJ	_	_
+7	får	få	verb	verb	_	4	ATR	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	frukt	frukt	subst	subst	_	7	DOBJ	_	_
+10	i	i	prep	prep	_	11	REP	_	_
+11	eller	eller	konj	konj	_	13	KONJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	tomat	tomat	subst	subst	_	9	KOORD	_	_
+14	i	i	prep	prep	_	9	ADV	_	_
+15	eller	eller	konj	konj	_	20	KONJ	_	_
+16	tynne	tynn	adj	adj	_	20	ATR	_	_
+17	sånne	sånne	det	det	_	20	DET	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	små	små	adj	adj	_	20	ATR	_	_
+20	spikra	spikre	adj	adj	_	9	KOORD	_	_
+21	isammen	isamme	adj	adj	_	20	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 107
+# segstart = 609.361
+# segstop = 610.196
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 108
+# segstart = 609.361
+# segstop = 610.196
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 109
+# segstart = 610.196
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = og så var det lokk oppå # som gjerne da bare var tau # så du kunne åpne lokket og så oppi denne firkanta kassen lå e # lærebøkene våre
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	lokk	lokk	subst	subst	_	3	PSUBJ	_	_
+6	oppå	oppå	prep	prep	_	3	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	som	som	sbu	sbu	_	12	SBU	_	_
+9	gjerne	gjerne	adv	adv	_	12	ADV	_	_
+10	da	da	adv	adv	_	12	ADV	_	_
+11	bare	bare	adv	adv	_	12	ADV	_	_
+12	var	være	verb	verb	_	5	ATR	_	_
+13	tau	tau	subst	subst	_	12	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	17	KONJ	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	kunne	kunne	verb	verb	_	3	KOORD	_	_
+18	åpne	åpne	verb	verb	_	17	INFV	_	_
+19	lokket	lokk	subst	subst	_	18	DOBJ	_	_
+20	og	og	konj	konj	_	26	KONJ	_	_
+21	så	så	adv	adv	_	26	ADV	_	_
+22	oppi	oppi	prep	prep	_	26	ADV	_	_
+23	denne	denne	det	det	_	25	DET	_	_
+24	firkanta	firkanta	adj	adj	_	25	ATR	_	_
+25	kassen	kasse	subst	subst	_	22	PUTFYLL	_	_
+26	lå	ligge	verb	verb	_	3	KOORD	_	_
+27	e	e	nol	nol	_	29	FYLL	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	lærebøkene	lærebok	subst	subst	_	26	SUBJ	_	_
+30	våre	våre	det	det	_	29	DET	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 110
+# segstart = 620.375
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = og så var det litt sånn skrått ned sånn at vannet rant jo egentlig av # og utforbi
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	litt	litt	adj	adj	_	6	ADV	_	_
+6	sånn	sånn	adv	adv	_	7	DET	_	_
+7	skrått	skrått	adj	adj	_	8	ADV	_	_
+8	ned	ned	adv	adv	_	3	SPRED	_	_
+9	sånn	sånn	adv	adv	_	10	ADV	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	vannet	vann	subst	subst	_	12	SUBJ	_	_
+12	rant	renne	verb	verb	_	3	ADV	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	egentlig	egentlig	adj	adj	_	12	ADV	_	_
+15	av	av	prep	prep	_	12	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	utforbi	utforbi	prep	prep	_	15	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 111
+# segstart = 620.375
+# segstop = 625.574
+# speaker = sl
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 112
+# segstart = 625.574
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = ja # men e vi skreiv jo vet du med pennesplitt og hadde blekkhus
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	6	KONJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	skreiv	skrive	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	vet	vite	verb	verb	_	6	PAR	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	med	med	prep	prep	_	6	ADV	_	_
+11	pennesplitt	pennesplitt	subst	subst	_	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	hadde	ha	verb	verb	_	6	KOORD	_	_
+14	blekkhus	blekkhus	subst	subst	_	13	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 113
+# segstart = 631.059
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = nett det samme som Martin Luther satt og # lagde sin bibeloversetting med ikke sant # og i regnværet da så kan du tenke deg at
+1	nett	nett	adv	adv	_	3	ADV	_	_
+2	det	det	det	det	_	3	DET	_	_
+3	samme	samme	det	det	_	0	FRAG	_	_
+4	som	som	prep	prep	_	7	SBU	_	_
+5	Martin	Martin	subst	subst	_	7	SUBJ	_	_
+6	Luther	luther	subst	subst	_	5	FLAT	_	_
+7	satt	sitte	verb	verb	_	3	ATR	_	_
+8	og	og	konj	konj	_	10	KONJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	lagde	lage	verb	verb	_	7	KOORD	_	_
+11	sin	sin	det	det	_	12	DET	_	_
+12	bibeloversetting	bibeloversetting	subst	subst	_	7	DOBJ	_	_
+13	med	med	prep	prep	_	7	ADV	_	_
+14	ikke	ikke	adv	adv	_	15	ADV	_	_
+15	sant	sann	adj	adj	_	3	PAR	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	og	og	konj	konj	_	22	KONJ	_	_
+18	i	i	prep	prep	_	22	ADV	_	_
+19	regnværet	regnvær	subst	subst	_	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	22	ADV	_	_
+21	så	så	adv	adv	_	22	ADV	_	_
+22	kan	kan	verb	verb	_	3	KOORD	_	_
+23	du	du	pron	pron	_	22	SUBJ	_	_
+24	tenke	tenke	verb	verb	_	22	INFV	_	_
+25	deg	deg	pron	pron	_	24	IOBJ	_	_
+26	at	at	sbu	sbu	_	24	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 114
+# segstart = 640.216
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = når # vi gikk i # ettervind som vi sa # så slo jo lokket opp i nakken ikke sant og så regna det rett nedi kassen
+1	når	når	sbu	sbu	_	4	SBU	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	gikk	gå	verb	verb	_	12	APP	_	_
+5	i	i	prep	prep	_	4	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ettervind	ettervind	subst	subst	_	5	PUTFYLL	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	sa	si	verb	verb	_	4	PAR	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	slo	slå	verb	verb	_	0	FINV	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	lokket	lokk	subst	subst	_	13	DOBJ	_	_
+16	opp	opp	prep	prep	_	13	ADV	_	_
+17	i	i	prep	prep	_	16	PUTFYLL	_	_
+18	nakken	nakke	subst	subst	_	17	PUTFYLL	_	_
+19	ikke	ikke	adv	adv	_	20	ADV	_	_
+20	sant	sann	adj	adj	_	13	PAR	_	_
+21	og	og	konj	konj	_	23	KONJ	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	regna	regne	verb	verb	_	13	KOORD	_	_
+24	det	det	pron	pron	_	23	FSUBJ	_	_
+25	rett	rett	adj	adj	_	26	ADV	_	_
+26	nedi	nedi	prep	prep	_	23	ADV	_	_
+27	kassen	kasse	subst	subst	_	26	PUTFYLL	_	_
+
+# Usikker på 'utover med vann'.
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 115
+# segstart = 647.38
+# segstop = 652.507
+# speaker = boemlo_03gm
+# text = og da var jo alle innføringsbøkene full av bekklatter fordi at det fløyt utover med vann
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	alle	alle	det	det	_	6	DET	_	_
+6	innføringsbøkene	innføringsbok	subst	subst	_	3	SUBJ	_	_
+7	full	full	adj	adj	_	3	SPRED	_	_
+8	av	av	prep	prep	_	7	ADV	_	_
+9	bekklatter	bekklatt	subst	subst	_	8	PUTFYLL	_	_
+10	fordi	fordi	sbu	sbu	_	13	SBU	_	_
+11	at	at	sbu	sbu	_	10	ADV	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	fløyt	flyte	verb	verb	_	3	ADV	_	_
+14	utover	utover	prep	prep	_	13	ADV	_	_
+15	med	med	prep	prep	_	14	PUTFYLL	_	_
+16	vann	vann	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 116
+# segstart = 652.507
+# segstop = 653.533
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 117
+# segstart = 652.507
+# segstop = 653.533
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 118
+# segstart = 653.533
+# segstop = 661.264
+# speaker = boemlo_03gm
+# text = så det vi ikke klarte å få til med blekklatter med fingrene det det gjorde regnet og # og været resten av jobben
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	det	det	pron	pron	_	8	PUTFYLL	_	_
+3	vi	vi	pron	pron	_	5	SUBJ	_	_
+4	ikke	ikke	adv	adv	_	5	ADV	_	_
+5	klarte	klare	verb	verb	_	0	FINV	_	_
+6	å	å	inf-merke	inf-merke	_	5	DOBJ	_	_
+7	få	få	verb	verb	_	6	INFV	_	_
+8	til	til	prep	prep	_	7	ADV	_	_
+9	med	med	prep	prep	_	7	ADV	_	_
+10	blekklatter	blekklatt	subst	subst	_	9	PUTFYLL	_	_
+11	med	med	prep	prep	_	7	ADV	_	_
+12	fingrene	finger	subst	subst	_	11	PUTFYLL	_	_
+13	det	det	pron	pron	_	14	REP	_	_
+14	det	det	pron	pron	_	15	SUBJ	_	_
+15	gjorde	gjøre	verb	verb	_	5	KOORD	_	_
+16	regnet	regn	subst	subst	_	15	DOBJ	_	_
+17	og	og	konj	konj	_	19	REP	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	været	vær	subst	subst	_	16	KOORD	_	_
+21	resten	rest	subst	subst	_	15	DOBJ	_	_
+22	av	av	prep	prep	_	21	ATR	_	_
+23	jobben	jobb	subst	subst	_	22	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 119
+# segstart = 661.264
+# segstop = 666.444
+# speaker = boemlo_03gm
+# text = og da var det jo og e # sjølsagt e en reprimande og for for # for det
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	og	og	adv	adv	_	3	ADV	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	sjølsagt	sjølsagt	adj	adj	_	3	ADV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	en	en	det	det	_	12	DET	_	_
+12	reprimande	reprimande	subst	subst	_	3	SPRED	_	_
+13	og	og	adv	adv	_	3	ADV	_	_
+14	for	for	prep	prep	_	17	REP	_	_
+15	for	for	prep	prep	_	17	REP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	for	for	prep	prep	_	12	ATR	_	_
+18	det	det	pron	pron	_	17	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 120
+# segstart = 666.444
+# segstop = 671.490
+# speaker = boemlo_03gm
+# text = at vi ikke var flinke nok med å holde # skriftlige arbeid reint og fint
+1	at	at	sbu	sbu	_	4	SBU	_	_
+2	vi	vi	pron	pron	_	4	SUBJ	_	_
+3	ikke	ikke	adv	adv	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	flinke	flink	adj	adj	_	4	SPRED	_	_
+6	nok	nok	adv	adv	_	5	ADV	_	_
+7	med	med	prep	prep	_	4	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	holde	holde	verb	verb	_	8	INFV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	skriftlige	skriftlig	adj	adj	_	12	ATR	_	_
+12	arbeid	arbeid	subst	subst	_	9	DOBJ	_	_
+13	reint	rein	adj	adj	_	9	OPRED	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	fint	fin	adj	adj	_	13	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 121
+# segstart = 671.490
+# segstop = 673.249
+# speaker = sl
+# text = ja det var vel viktig ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	viktig	viktig	adj	adj	_	3	SPRED	_	_
+6	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 122
+# segstart = 673.249
+# segstop = 683.484
+# speaker = boemlo_03gm
+# text = ja # så det var primitivt og og under trappa ute i e # gangen der sto det ei sinkbøtte # med vann
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	primitivt	primitiv	adj	adj	_	5	SPRED	_	_
+7	og	og	konj	konj	_	8	REP	_	_
+8	og	og	konj	konj	_	17	KONJ	_	_
+9	under	under	prep	prep	_	16	APP	_	_
+10	trappa	trapp	subst	subst	_	9	PUTFYLL	_	_
+11	ute	ute	prep	prep	_	10	ATR	_	_
+12	i	i	prep	prep	_	11	PUTFYLL	_	_
+13	e	e	nol	nol	_	15	FYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	gangen	gang	subst	subst	_	12	PUTFYLL	_	_
+16	der	der	adv	adv	_	17	ADV	_	_
+17	sto	stå	verb	verb	_	5	KOORD	_	_
+18	det	det	pron	pron	_	17	FSUBJ	_	_
+19	ei	ei	det	det	_	20	DET	_	_
+20	sinkbøtte	sinkbøtte	subst	subst	_	17	DOBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	med	med	prep	prep	_	20	ATR	_	_
+23	vann	vann	subst	subst	_	22	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 123
+# segstart = 683.484
+# segstop = 690.758
+# speaker = boemlo_03gm
+# text = og oppi den var det ei ause # og av den ene ausa så drakk da hundre skoleungene # vann
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	oppi	oppi	prep	prep	_	4	ADV	_	_
+3	den	den	pron	pron	_	2	PUTFYLL	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	ei	ei	det	det	_	7	DET	_	_
+7	ause	ause	subst	subst	_	4	PSUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	og	og	konj	konj	_	15	KONJ	_	_
+10	av	av	prep	prep	_	14	APP	_	_
+11	den	den	det	det	_	13	DET	_	_
+12	ene	ene	det	det	_	13	DET	_	_
+13	ausa	ause	subst	subst	_	10	PUTFYLL	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	drakk	drikke	verb	verb	_	4	KOORD	_	_
+16	da	da	sbu	sbu	_	15	ADV	_	_
+17	hundre	hundre	det	det	_	18	DET	_	_
+18	skoleungene	skoleunge	subst	subst	_	15	SUBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	vann	vann	subst	subst	_	15	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 124
+# segstart = 690.758
+# segstop = 691.955
+# speaker = sl
+# text = og dere var aldri syke ?
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	dere	dere	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	aldri	aldri	adv	adv	_	3	ADV	_	_
+5	syke	syk	adj	adj	_	3	SPRED	_	_
+6	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 125
+# segstart = 690.758
+# segstop = 691.955
+# speaker = boemlo_03gm
+# text = * men …
+1	*	*	pause	pause	_	2	IK	_	_
+2	men	men	konj	konj	_	0	FRAG	_	_
+3	…	…	pause	pause	_	2	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 126
+# segstart = 691.955
+# segstop = 699.014
+# speaker = boemlo_03gm
+# text = e det var vi helt sikkert men det var ingen var ingen som var allergisk # for det visste vi ikke hva var #
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	_	3	SPRED	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	helt	hele	adj	adj	_	6	ADV	_	_
+6	sikkert	sikker	adj	adj	_	3	ADV	_	_
+7	men	men	konj	konj	_	11	KONJ	_	_
+8	det	det	pron	pron	_	11	FSUBJ	_	_
+9	var	være	verb	verb	_	11	REP	_	_
+10	ingen	ingen	pron	pron	_	9	PSUBJ	_	_
+11	var	være	verb	verb	_	3	KOORD	_	_
+12	ingen	ingen	pron	pron	_	11	PSUBJ	_	_
+13	som	som	sbu	sbu	_	14	SBU	_	_
+14	var	være	verb	verb	_	12	ATR	_	_
+15	allergisk	allergisk	adj	adj	_	14	SPRED	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	for	for	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	23	SUBJ	_	_
+19	visste	vite	verb	verb	_	3	KOORD	_	_
+20	vi	vi	pron	pron	_	19	SUBJ	_	_
+21	ikke	ikke	adv	adv	_	19	ADV	_	_
+22	hva	hva	pron	pron	_	23	DOBJ	_	_
+23	var	være	verb	verb	_	19	DOBJ	_	_
+24	#	#	pause	pause	_	23	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 127
+# segstart = 699.014
+# segstop = 707.055
+# speaker = boemlo_03gm
+# text = men at vi var forkjølte og e # vi fikk jo alle disse barnesjukdommene vi veit du kanskje mye kjappere enn de gjør i dag
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	at	at	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	forkjølte	forkjøle	adj	adj	_	4	SPRED	_	_
+6	og	og	konj	konj	_	10	KONJ	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	fikk	få	verb	verb	_	4	KOORD	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	alle	alle	det	det	_	14	DET	_	_
+13	disse	disse	det	det	_	14	DET	_	_
+14	barnesjukdommene	barnesjukdom	subst	subst	_	10	DOBJ	_	_
+15	vi	vi	pron	pron	_	9	APP	_	_
+16	veit	vite	verb	verb	_	10	PAR	_	_
+17	du	du	pron	pron	_	16	SUBJ	_	_
+18	kanskje	kanskje	adv	adv	_	10	ADV	_	_
+19	mye	mye	adj	adj	_	20	ATR	_	_
+20	kjappere	kjapp	adj	adj	_	10	ADV	_	_
+21	enn	enn	sbu	sbu	_	23	SBU	_	_
+22	de	de	pron	pron	_	23	SUBJ	_	_
+23	gjør	gjøre	verb	verb	_	20	ADV	_	_
+24	i	i	prep	prep	_	23	ADV	_	_
+25	dag	dag	subst	subst	_	24	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 128
+# segstart = 707.055
+# segstop = 715.068
+# speaker = boemlo_03gm
+# text = så når det kom e # kikhoste eller det kom e # meslingene eller det kom vannkoppene eller # røde hunder
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	kom	komme	verb	verb	_	0	FINV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	kikhoste	kikhoste	subst	subst	_	4	DOBJ	_	_
+8	eller	eller	konj	konj	_	10	KONJ	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	kom	komme	verb	verb	_	4	KOORD	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	meslingene	meslinger	subst	subst	_	10	DOBJ	_	_
+14	eller	eller	konj	konj	_	16	KONJ	_	_
+15	det	det	pron	pron	_	16	FSUBJ	_	_
+16	kom	komme	verb	verb	_	4	KOORD	_	_
+17	vannkoppene	vannkopper	subst	subst	_	16	DOBJ	_	_
+18	eller	eller	konj	konj	_	21	KONJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	røde	rød	adj	adj	_	21	ATR	_	_
+21	hunder	hund	subst	subst	_	17	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 129
+# segstart = 715.068
+# segstop = 725.517
+# speaker = boemlo_03gm
+# text = så fikk jo alle det da var jo # hele skolen nesten lamma # mens det sto på # så ingen skar klar så jeg trur det at disse ausene og
+1	så	så	adv	adv	_	2	ADV	_	_
+2	fikk	få	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	alle	alle	det	det	_	2	SUBJ	_	_
+5	det	det	pron	pron	_	2	DOBJ	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	var	være	verb	verb	_	2	KOORD	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	hele	hel	adj	adj	_	11	ATR	_	_
+11	skolen	skole	subst	subst	_	7	SUBJ	_	_
+12	nesten	nesten	adv	adv	_	13	ADV	_	_
+13	lamma	lamme	adj	adj	_	7	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	mens	mens	sbu	sbu	_	17	SBU	_	_
+16	det	det	pron	pron	_	17	SUBJ	_	_
+17	sto	stå	verb	verb	_	7	ADV	_	_
+18	på	på	prep	prep	_	17	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	så	så	adv	adv	_	22	ADV	_	_
+21	ingen	ingen	det	det	_	22	SUBJ	_	_
+22	skar	skjære	verb	verb	_	2	KOORD	_	_
+23	klar	klar	adj	adj	_	22	SPRED	_	_
+24	så	så	sbu	sbu	_	26	KONJ	_	_
+25	jeg	jeg	pron	pron	_	26	SUBJ	_	_
+26	trur	tru	verb	verb	_	2	KOORD	_	_
+27	det	det	pron	pron	_	26	DOBJ	_	_
+28	at	at	sbu	sbu	_	27	SBU	_	_
+29	disse	disse	det	det	_	30	DET	_	_
+30	ausene	ause	subst	subst	_	28	APP	_	_
+31	og	og	konj	konj	_	26	SLETT	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 130
+# segstart = 725.517
+# segstop = 736.11
+# speaker = boemlo_03gm
+# text = at vi levde så tett innpå livet og de sanitære forholdene var så dårlige # så så blei det nok e smitte # rundt omkring # ja # og så var det utedo
+1	at	at	sbu	sbu	_	3	SBU	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	levde	leve	verb	verb	_	0	FINV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	tett	tett	adj	adj	_	6	ADV	_	_
+6	innpå	innpå	prep	prep	_	3	ADV	_	_
+7	livet	liv	subst	subst	_	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	12	KONJ	_	_
+9	de	de	pron	pron	_	11	DET	_	_
+10	sanitære	sanitær	adj	adj	_	11	ATR	_	_
+11	forholdene	forhold	subst	subst	_	12	SUBJ	_	_
+12	var	være	verb	verb	_	3	KOORD	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	dårlige	dårlig	adj	adj	_	12	SPRED	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	adv	adv	_	17	REP	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	blei	bli	verb	verb	_	3	KOORD	_	_
+19	det	det	pron	pron	_	18	FSUBJ	_	_
+20	nok	nok	adv	adv	_	18	ADV	_	_
+21	e	e	nol	nol	_	22	FYLL	_	_
+22	smitte	smitte	subst	subst	_	18	SPRED	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	rundt	rundt	prep	prep	_	18	ADV	_	_
+25	omkring	omkring	prep	prep	_	24	PUTFYLL	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	ja	ja	interj	interj	_	3	INTERJ	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	og	og	konj	konj	_	31	KONJ	_	_
+30	så	så	adv	adv	_	31	ADV	_	_
+31	var	være	verb	verb	_	3	KOORD	_	_
+32	det	det	pron	pron	_	31	FSUBJ	_	_
+33	utedo	utedo	subst	subst	_	31	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 131
+# segstart = 736.11
+# segstop = 741.027
+# speaker = sl
+# text = ja for jeg trodde egentlig den sinkbøtten var den doen dere hadde så jeg tenkte det var litt lite for hundre personer
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	for	for	konj	konj	_	4	KONJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	trodde	tro	verb	verb	_	0	FINV	_	_
+5	egentlig	egentlig	adj	adj	_	4	ADV	_	_
+6	den	den	det	det	_	7	DET	_	_
+7	sinkbøtten	sinkbøtte	subst	subst	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	4	DOBJ	_	_
+9	den	den	det	det	_	10	DET	_	_
+10	doen	do	subst	subst	_	8	SPRED	_	_
+11	dere	dere	pron	pron	_	12	SUBJ	_	_
+12	hadde	ha	verb	verb	_	10	ATR	_	_
+13	så	så	konj	konj	_	15	KONJ	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	tenkte	tenke	verb	verb	_	4	KOORD	_	_
+16	det	det	pron	pron	_	17	SUBJ	_	_
+17	var	være	verb	verb	_	15	DOBJ	_	_
+18	litt	litt	adj	adj	_	19	ADV	_	_
+19	lite	lite	adj	adj	_	17	SPRED	_	_
+20	for	for	prep	prep	_	19	ADV	_	_
+21	hundre	hundre	det	det	_	20	DET	_	_
+22	personer	person	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 132
+# segstart = 736.11
+# segstop = 741.027
+# speaker = boemlo_03gm
+# text = * ja * nei *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	nei	nei	interj	interj	_	2	INTERJ	_	_
+5	*	*	pause	pause	_	4	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 133
+# segstart = 741.027
+# segstop = 748.468
+# speaker = boemlo_03gm
+# text = sinkbøtta den var inne # # med vann # og blei henta i ei kilde av vaktmesteren og satt fram # dag for dag
+1	sinkbøtta	sinkbøtte	subst	subst	_	2	APP	_	_
+2	den	den	det	det	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	inne	inne	prep	prep	_	3	SPRED	_	_
+5	#	#	pause	pause	_	4	IK	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	med	med	prep	prep	_	4	KOORD	_	_
+8	vann	vann	subst	subst	_	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	blei	bli	verb	verb	_	3	KOORD	_	_
+12	henta	hente	verb	verb	_	11	INFV	_	_
+13	i	i	prep	prep	_	12	ADV	_	_
+14	ei	ei	det	det	_	15	DET	_	_
+15	kilde	kilde	subst	subst	_	13	PUTFYLL	_	_
+16	av	av	prep	prep	_	12	ADV	_	_
+17	vaktmesteren	vaktmester	subst	subst	_	16	PUTFYLL	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	satt	sitte	verb	verb	_	3	KOORD	_	_
+20	fram	fram	prep	prep	_	19	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	dag	dag	subst	subst	_	19	ADV	_	_
+23	for	for	prep	prep	_	22	ATR	_	_
+24	dag	dag	subst	subst	_	23	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 134
+# segstart = 748.468
+# segstop = 748.802
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 135
+# segstart = 748.802
+# segstop = 750.590
+# speaker = boemlo_03gm
+# text = ja # og utedoen var ute
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	utedoen	utedo	subst	subst	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	ute	ute	prep	prep	_	5	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 136
+# segstart = 750.590
+# segstop = 755.464
+# speaker = sl
+# text = ja # mm # ja det hadde vært litt ekkelt om alle skulle gå på en bøtte egentlig # det # det hadde
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	hadde	ha	verb	verb	_	0	FINV	_	_
+8	vært	være	verb	verb	_	7	INFV	_	_
+9	litt	litt	adj	adj	_	10	ADV	_	_
+10	ekkelt	ekkel	adj	adj	_	8	SPRED	_	_
+11	om	om	sbu	sbu	_	13	SBU	_	_
+12	alle	alle	det	det	_	13	SUBJ	_	_
+13	skulle	skulle	verb	verb	_	8	PSUBJ	_	_
+14	gå	gå	verb	verb	_	13	INFV	_	_
+15	på	på	prep	prep	_	14	ADV	_	_
+16	en	en	det	det	_	17	DET	_	_
+17	bøtte	bøtte	subst	subst	_	15	PUTFYLL	_	_
+18	egentlig	egentlig	adj	adj	_	8	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	22	REP	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	det	det	pron	pron	_	23	SUBJ	_	_
+23	hadde	ha	verb	verb	_	7	SLETT	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 137
+# segstart = 750.590
+# segstop = 755.464
+# speaker = boemlo_03gm
+# text = * ja * ja og og
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	og	og	konj	konj	_	6	REP	_	_
+6	og	og	konj	konj	_	2	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 138
+# segstart = 755.464
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og da var det jo ei side med guttedo og ei side med jentedo og midt imellom var det da et vedhus
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	ei	ei	det	det	_	7	DET	_	_
+7	side	side	subst	subst	_	3	PSUBJ	_	_
+8	med	med	prep	prep	_	7	ATR	_	_
+9	guttedo	guttedo	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	ei	ei	det	det	_	12	DET	_	_
+12	side	side	subst	subst	_	7	KOORD	_	_
+13	med	med	prep	prep	_	12	ATR	_	_
+14	jentedo	jentedo	subst	subst	_	13	PUTFYLL	_	_
+15	og	og	konj	konj	_	18	KONJ	_	_
+16	midt	midt	adv	adv	_	17	ADV	_	_
+17	imellom	imellom	prep	prep	_	18	ADV	_	_
+18	var	være	verb	verb	_	3	KOORD	_	_
+19	det	det	pron	pron	_	18	FSUBJ	_	_
+20	da	da	adv	adv	_	18	ADV	_	_
+21	et	et	det	det	_	22	DET	_	_
+22	vedhus	vedhus	subst	subst	_	18	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 139
+# segstart = 761.621
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og der bar jo da vaktmesteren inn ved og la i ovnen # om # ettermiddagen og han vaska golv
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	bar	bære	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	vaktmesteren	vaktmester	subst	subst	_	3	SUBJ	_	_
+7	inn	inn	prep	prep	_	3	ADV	_	_
+8	ved	ved	subst	subst	_	3	DOBJ	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	la	legge	verb	verb	_	3	KOORD	_	_
+11	i	i	prep	prep	_	10	ADV	_	_
+12	ovnen	ovn	subst	subst	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	om	om	prep	prep	_	10	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	ettermiddagen	ettermiddag	subst	subst	_	14	PUTFYLL	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	han	han	pron	pron	_	19	SUBJ	_	_
+19	vaska	vaske	verb	verb	_	3	KOORD	_	_
+20	golv	golv	subst	subst	_	19	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 140
+# segstart = 768.247
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og så kunne læreren tenne på tidlig om morgenen sånn at det var en liten lunk når vi kom # ja
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	kunne	kunne	verb	verb	_	0	FINV	_	_
+4	læreren	lærer	subst	subst	_	3	SUBJ	_	_
+5	tenne	tenne	verb	verb	_	3	INFV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	tidlig	tidlig	adj	adj	_	8	ADV	_	_
+8	om	om	prep	prep	_	5	ADV	_	_
+9	morgenen	morgen	subst	subst	_	8	PUTFYLL	_	_
+10	sånn	sånn	adv	adv	_	11	ADV	_	_
+11	at	at	sbu	sbu	_	13	SBU	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	5	ADV	_	_
+14	en	en	det	det	_	16	DET	_	_
+15	liten	liten	adj	adj	_	16	ATR	_	_
+16	lunk	lunk	subst	subst	_	13	PSUBJ	_	_
+17	når	når	sbu	sbu	_	19	SBU	_	_
+18	vi	vi	pron	pron	_	19	SUBJ	_	_
+19	kom	komme	verb	verb	_	13	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 141
+# segstart = 775.406
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = så det var det var den første skolen # men litt utpå femtitallet så fikk vi ny skole # og da var det strøm
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	5	REP	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	den	den	det	det	_	8	DET	_	_
+7	første	første	adj	adj	_	8	ATR	_	_
+8	skolen	skole	subst	subst	_	5	SPRED	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	men	men	konj	konj	_	15	KONJ	_	_
+11	litt	litt	adj	adj	_	12	ADV	_	_
+12	utpå	utpå	prep	prep	_	14	APP	_	_
+13	femtitallet	femtitall	subst	subst	_	12	PUTFYLL	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	fikk	få	verb	verb	_	5	KOORD	_	_
+16	vi	vi	pron	pron	_	15	SUBJ	_	_
+17	ny	ny	adj	adj	_	18	ATR	_	_
+18	skole	skole	subst	subst	_	15	DOBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	da	da	adv	adv	_	22	ADV	_	_
+22	var	være	verb	verb	_	5	KOORD	_	_
+23	det	det	pron	pron	_	22	FSUBJ	_	_
+24	strøm	strøm	subst	subst	_	22	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 142
+# segstart = 783.59
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = da hadde vi # var òg e faktisk strøm sånn at vi hadde elektrisk lys men ikke elektrisk oppvarming
+1	da	da	adv	adv	_	5	ADV	_	_
+2	hadde	ha	verb	verb	_	5	REP	_	_
+3	vi	vi	pron	pron	_	2	SUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	òg	òg	adv	adv	_	5	ADV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	faktisk	faktisk	adj	adj	_	5	ADV	_	_
+9	strøm	strøm	subst	subst	_	5	SPRED	_	_
+10	sånn	sånn	adv	adv	_	11	ADV	_	_
+11	at	at	sbu	sbu	_	13	SBU	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	hadde	ha	verb	verb	_	5	ADV	_	_
+14	elektrisk	elektrisk	adj	adj	_	15	ATR	_	_
+15	lys	lys	subst	subst	_	13	DOBJ	_	_
+16	men	men	konj	konj	_	19	KONJ	_	_
+17	ikke	ikke	adv	adv	_	19	ADV	_	_
+18	elektrisk	elektrisk	adj	adj	_	19	ATR	_	_
+19	oppvarming	oppvarming	subst	subst	_	13	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 143
+# segstart = 790.602
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og det og d- vi fikk ikke elektrisk oppvarming før et stykke ut på femtitallet # men elektrisk lys hadde vi
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	det	det	pron	pron	_	6	REP	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	d-	d-	ufullst	ufullst	_	5	FYLL	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	fikk	få	verb	verb	_	0	FINV	_	_
+7	ikke	ikke	adv	adv	_	6	ADV	_	_
+8	elektrisk	elektrisk	adj	adj	_	9	ATR	_	_
+9	oppvarming	oppvarming	subst	subst	_	6	DOBJ	_	_
+10	før	før	prep	prep	_	6	ADV	_	_
+11	et	et	det	det	_	12	DET	_	_
+12	stykke	stykke	subst	subst	_	13	ADV	_	_
+13	ut	ut	prep	prep	_	10	PUTFYLL	_	_
+14	på	på	prep	prep	_	13	PUTFYLL	_	_
+15	femtitallet	femtitall	subst	subst	_	14	PUTFYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	men	men	konj	konj	_	20	KONJ	_	_
+18	elektrisk	elektrisk	adj	adj	_	19	ATR	_	_
+19	lys	lys	subst	subst	_	20	DOBJ	_	_
+20	hadde	ha	verb	verb	_	6	KOORD	_	_
+21	vi	vi	pron	pron	_	20	SUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 144
+# segstart = 798.5
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og når vi fikk ny skole da fikk vi faktisk en spring # sånn at du kunne gå inn og så kunne du trykke ned en knapp og så kom vann opp
+1	og	og	konj	konj	_	8	KONJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	fikk	få	verb	verb	_	7	APP	_	_
+5	ny	ny	adj	adj	_	6	ATR	_	_
+6	skole	skole	subst	subst	_	4	DOBJ	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	fikk	få	verb	verb	_	0	FINV	_	_
+9	vi	vi	pron	pron	_	8	SUBJ	_	_
+10	faktisk	faktisk	adj	adj	_	8	ADV	_	_
+11	en	en	det	det	_	12	SUBJ	_	_
+12	spring	spring	subst	subst	_	8	KOORD	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	sånn	sånn	adv	adv	_	15	ADV	_	_
+15	at	at	sbu	sbu	_	17	SBU	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	kunne	kunne	verb	verb	_	8	ADV	_	_
+18	gå	gå	verb	verb	_	17	INFV	_	_
+19	inn	inn	prep	prep	_	18	ADV	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	så	så	adv	adv	_	22	ADV	_	_
+22	kunne	kunne	verb	verb	_	17	KOORD	_	_
+23	du	du	pron	pron	_	22	SUBJ	_	_
+24	trykke	trykke	verb	verb	_	22	INFV	_	_
+25	ned	ned	prep	prep	_	24	ADV	_	_
+26	en	en	det	det	_	27	DET	_	_
+27	knapp	knapp	subst	subst	_	24	DOBJ	_	_
+28	og	og	konj	konj	_	30	KONJ	_	_
+29	så	så	adv	adv	_	30	ADV	_	_
+30	kom	komme	verb	verb	_	17	KOORD	_	_
+31	vann	vann	subst	subst	_	30	SUBJ	_	_
+32	opp	opp	prep	prep	_	30	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 145
+# segstart = 806.298
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og da kunne vi drikke i stedet for at vi hadde ei ause alle # men men den der e sp- spruten var gjerne kanskje litt for høy
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	kunne	kunne	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	drikke	drikke	verb	verb	_	3	DOBJ	_	_
+6	i	i	prep	prep	_	3	ADV	_	_
+7	stedet	sted	subst	subst	_	6	PUTFYLL	_	_
+8	for	for	prep	prep	_	7	ATR	_	_
+9	at	at	sbu	sbu	_	11	SBU	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	hadde	ha	verb	verb	_	8	PUTFYLL	_	_
+12	ei	en	det	det	_	13	DET	_	_
+13	ause	ause	subst	subst	_	11	DOBJ	_	_
+14	alle	all	det	det	_	10	APP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	men	men	konj	konj	_	17	REP	_	_
+17	men	men	konj	konj	_	23	KONJ	_	_
+18	den	den	det	det	_	22	DET	_	_
+19	der	der	prep	prep	_	18	ATR	_	_
+20	e	e	nol	nol	_	22	FYLL	_	_
+21	sp-	s	ufullst	ufullst	_	22	FYLL	_	_
+22	spruten	sprut	subst	subst	_	23	SUBJ	_	_
+23	var	være	verb	verb	_	3	KOORD	_	_
+24	gjerne	gjerne	adv	adv	_	23	ADV	_	_
+25	kanskje	kanskje	adv	adv	_	23	ADV	_	_
+26	litt	litt	adj	adj	_	27	ADV	_	_
+27	for	for	adv	adv	_	28	ADV	_	_
+28	høy	høy	adj	adj	_	23	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 146
+# segstart = 816.188
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = og så g- gikk han ut på golvet # og så sto læreren og passa på at vi ikke fikk lov å drikke da # fordi at da blei
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	g-	g-	ufullst	ufullst	_	4	REP	_	_
+4	gikk	gå	verb	verb	_	0	REP	_	_
+5	han	han	pron	pron	_	4	SUBJ	_	_
+6	ut	ut	prep	prep	_	4	ADV	_	_
+7	på	på	prep	prep	_	6	PUTFYLL	_	_
+8	golvet	golv	subst	subst	_	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	sto	stå	verb	verb	_	4	KOORD	_	_
+13	læreren	lærer	subst	subst	_	12	SUBJ	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	passa	passe	verb	verb	_	12	KOORD	_	_
+16	på	på	prep	prep	_	15	ADV	_	_
+17	at	at	sbu	sbu	_	20	SBU	_	_
+18	vi	vi	pron	pron	_	20	SUBJ	_	_
+19	ikke	ikke	adv	adv	_	20	ADV	_	_
+20	fikk	få	verb	verb	_	16	PUTFYLL	_	_
+21	lov	lov	subst	subst	_	20	DOBJ	_	_
+22	å	å	inf-merke	inf-merke	_	21	ATR	_	_
+23	drikke	drikke	verb	verb	_	22	INFV	_	_
+24	da	da	adv	adv	_	12	ADV	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	fordi	fordi	sbu	sbu	_	29	SBU	_	_
+27	at	at	sbu	sbu	_	26	ADV	_	_
+28	da	da	adv	adv	_	29	ADV	_	_
+29	blei	bli	verb	verb	_	4	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 147
+# segstart = 823.109
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = vaskekona litt for e # sint ikke sant og vaktmesteren for sint at det lå for mye vannpytter på golvet
+1	vaskekona	vaskekone	verb	verb	_	0	FRAG	_	_
+2	litt	litt	adj	adj	_	3	ADV	_	_
+3	for	for	prep	prep	_	6	ATR	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	sint	sint	adj	adj	_	1	ADV	_	_
+7	ikke	ikke	adv	adv	_	8	ADV	_	_
+8	sant	sann	adj	adj	_	1	PAR	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	vaktmesteren	vaktmester	subst	subst	_	1	KOORD	_	_
+11	for	for	prep	prep	_	10	ADV	_	_
+12	sint	sint	adj	adj	_	11	PUTFYLL	_	_
+13	at	at	sbu	sbu	_	15	SBU	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	lå	ligge	verb	verb	_	10	ADV	_	_
+16	for	for	adv	adv	_	17	ADV	_	_
+17	mye	mye	adj	adj	_	18	ATR	_	_
+18	vannpytter	vannpytt	subst	subst	_	15	DOBJ	_	_
+19	på	på	prep	prep	_	15	ADV	_	_
+20	golvet	golv	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 148
+# segstart = 830.516
+# segstop = 833.712
+# speaker = boemlo_03gm
+# text = hvis vi tråkka med skitne sko inne så blei det jo grisete på golvet
+1	hvis	hvis	sbu	sbu	_	3	SBU	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	tråkka	tråkke	verb	verb	_	8	APP	_	_
+4	med	med	prep	prep	_	3	ADV	_	_
+5	skitne	skitten	adj	adj	_	6	ATR	_	_
+6	sko	sko	subst	subst	_	4	PUTFYLL	_	_
+7	inne	inne	prep	prep	_	3	ADV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	blei	bli	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	jo	jo	adv	adv	_	9	ADV	_	_
+12	grisete	grisete	subst	subst	_	9	SPRED	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	golvet	golv	subst	subst	_	13	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 149
+# segstart = 830.516
+# segstop = 833.712
+# speaker = sl
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 150
+# segstart = 833.712
+# segstop = 839.235
+# speaker = boemlo_03gm
+# text = ja # så var ikke alltid at vi fikk lov å bruke den fontenen #
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	alltid	alltid	adv	adv	_	4	SPRED	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	vi	vi	pron	pron	_	9	SUBJ	_	_
+9	fikk	få	verb	verb	_	4	PSUBJ	_	_
+10	lov	lov	subst	subst	_	9	DOBJ	_	_
+11	å	å	inf-merke	inf-merke	_	10	ATR	_	_
+12	bruke	bruke	verb	verb	_	11	INFV	_	_
+13	den	den	det	det	_	14	DET	_	_
+14	fontenen	fontene	subst	subst	_	12	DOBJ	_	_
+15	#	#	pause	pause	_	14	IK	_	_
+
+# Er siste SUBJ riktig her? Eller skulle det være FSUBJ? Hvis man legger godvilja til kan det referere til samfunnet før.
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 151
+# segstart = 839.235
+# segstop = 841.863
+# speaker = sl
+# text = det var før det var veldig mye strengere før altså
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	før	før	prep	prep	_	2	SPRED	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	2	KOORD	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	mye	mye	adj	adj	_	8	ATR	_	_
+8	strengere	streng	adj	adj	_	5	SPRED	_	_
+9	før	før	prep	prep	_	5	ADV	_	_
+10	altså	altså	adv	adv	_	5	ADV	_	_
+
+# Må første element være REP eller kan andre element være det? her er andre REP. (repetition)
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 152
+# segstart = 841.863
+# segstop = 843.871
+# speaker = boemlo_03gm
+# text = kolossalt # kolossalt
+1	kolossalt	kolossal	subst	subst	_	0	FRAG	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kolossalt	kolossal	subst	subst	_	1	REP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 153
+# segstart = 843.871
+# segstop = 849.671
+# speaker = sl
+# text = ja # om barn ikke skulle få lov å drikke vann på skolen nå det hadde jo # vært ramaskrik
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	om	om	prep	prep	_	6	SBU	_	_
+4	barn	barn	subst	subst	_	6	SUBJ	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	skulle	skulle	verb	verb	_	0	FINV	_	_
+7	få	få	verb	verb	_	6	INFV	_	_
+8	lov	lov	subst	subst	_	7	DOBJ	_	_
+9	å	å	inf-merke	inf-merke	_	8	ATR	_	_
+10	drikke	drikke	verb	verb	_	9	INFV	_	_
+11	vann	vann	subst	subst	_	10	DOBJ	_	_
+12	på	på	prep	prep	_	10	ADV	_	_
+13	skolen	skole	subst	subst	_	12	PUTFYLL	_	_
+14	nå	nå	adv	adv	_	6	ADV	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	hadde	ha	verb	verb	_	6	KOORD	_	_
+17	jo	jo	adv	adv	_	19	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	vært	være	verb	verb	_	16	INFV	_	_
+20	ramaskrik	ramaskrik	subst	subst	_	19	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 154
+# segstart = 843.871
+# segstop = 849.671
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 155
+# segstart = 849.671
+# segstop = 857.045
+# speaker = boemlo_03gm
+# text = ja nei vi fikk jo lov å ha ei lita flaske med melk eller saft med oss til maten da # så det fikk være nok
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	nei	nei	interj	interj	_	1	INTERJ	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	fikk	få	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	lov	lov	subst	subst	_	4	DOBJ	_	_
+7	å	å	inf-merke	inf-merke	_	6	ATR	_	_
+8	ha	ha	verb	verb	_	7	INFV	_	_
+9	ei	ei	det	det	_	11	DET	_	_
+10	lita	lite	adj	adj	_	11	ATR	_	_
+11	flaske	flaske	subst	subst	_	8	DOBJ	_	_
+12	med	med	prep	prep	_	11	ATR	_	_
+13	melk	melk	subst	subst	_	12	PUTFYLL	_	_
+14	eller	eller	konj	konj	_	15	KONJ	_	_
+15	saft	saft	subst	subst	_	13	KOORD	_	_
+16	med	med	prep	prep	_	8	ADV	_	_
+17	oss	oss	pron	pron	_	16	PUTFYLL	_	_
+18	til	til	prep	prep	_	8	ADV	_	_
+19	maten	mat	subst	subst	_	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	8	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	så	så	konj	konj	_	24	KONJ	_	_
+23	det	det	pron	pron	_	24	SUBJ	_	_
+24	fikk	få	verb	verb	_	4	ADV	_	_
+25	være	være	verb	verb	_	24	INFV	_	_
+26	nok	nok	adv	adv	_	25	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 156
+# segstart = 857.045
+# segstop = 865.587
+# speaker = boemlo_03gm
+# text = så vi måtte klare oss med det på på seks timer # vi hadde seks timer i storskolen og kanskje # fem i småskolen # hver dag
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	måtte	måtte	verb	verb	_	0	FINV	_	_
+4	klare	klare	verb	verb	_	3	INFV	_	_
+5	oss	oss	pron	pron	_	4	DOBJ	_	_
+6	med	med	prep	prep	_	4	ADV	_	_
+7	det	det	pron	pron	_	6	PUTFYLL	_	_
+8	på	på	prep	prep	_	9	REP	_	_
+9	på	på	prep	prep	_	4	ADV	_	_
+10	seks	seks	det	det	_	11	DET	_	_
+11	timer	time	subst	subst	_	9	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	vi	vi	pron	pron	_	14	SUBJ	_	_
+14	hadde	ha	verb	verb	_	3	KOORD	_	_
+15	seks	seks	det	det	_	16	DET	_	_
+16	timer	time	subst	subst	_	14	DOBJ	_	_
+17	i	i	prep	prep	_	16	ATR	_	_
+18	storskolen	storskole	subst	subst	_	17	PUTFYLL	_	_
+19	og	og	konj	konj	_	22	KONJ	_	_
+20	kanskje	kanskje	adv	adv	_	22	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	fem	fem	det	det	_	16	KOORD	_	_
+23	i	i	prep	prep	_	22	ATR	_	_
+24	småskolen	småskole	subst	subst	_	23	PUTFYLL	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	hver	hver	det	det	_	27	DET	_	_
+27	dag	dag	subst	subst	_	14	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 157
+# segstart = 865.587
+# segstop = 868.539
+# speaker = boemlo_03gm
+# text = litt kortere skoledag jo lenger ned du kom i systemet
+1	litt	litt	adj	adj	_	2	ADV	_	_
+2	kortere	kort	adj	adj	_	3	ATR	_	_
+3	skoledag	skoledag	subst	subst	_	0	FRAG	_	_
+4	jo	jo	adv	adv	_	8	ADV	_	_
+5	lenger	lenger	adv	adv	_	6	ADV	_	_
+6	ned	ned	prep	prep	_	8	ADV	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	kom	komme	verb	verb	_	3	KOORD	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	systemet	system	subst	subst	_	9	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 158
+# segstart = 868.539
+# segstop = 872.437
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 159
+# segstart = 868.993
+# segstop = 869.737
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 160
+# segstart = 869.737
+# segstop = 872.437
+# speaker = sl
+# text = men fem da- fem timer for små barn er ganske lenge det altså
+1	men	men	konj	konj	_	9	KONJ	_	_
+2	fem	fem	det	det	_	5	REP	_	_
+3	da-	da-	ufullst	ufullst	_	4	FYLL	_	_
+4	fem	fem	det	det	_	5	DET	_	_
+5	timer	time	subst	subst	_	9	SUBJ	_	_
+6	for	for	prep	prep	_	5	ATR	_	_
+7	små	små	adj	adj	_	8	ATR	_	_
+8	barn	barn	subst	subst	_	6	PUTFYLL	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	ganske	ganske	adv	adv	_	11	ADV	_	_
+11	lenge	leng	adj	adj	_	9	SPRED	_	_
+12	det	det	pron	pron	_	5	APP	_	_
+13	altså	altså	adv	adv	_	9	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 161
+# segstart = 872.437
+# segstop = 878.261
+# speaker = boemlo_03gm
+# text = ja de helt minste gikk kanskje bare tre og fire og og sånt og så når du kom opp i andre tredje så var det fem
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	de	de	det	det	_	4	DET	_	_
+3	helt	hel	adj	adj	_	4	ADV	_	_
+4	minste	små	adj	adj	_	5	SUBJ	_	_
+5	gikk	gå	verb	verb	_	0	FINV	_	_
+6	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+7	bare	bare	adv	adv	_	5	ADV	_	_
+8	tre	tre	det	det	_	5	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	fire	fire	det	det	_	8	KOORD	_	_
+11	og	og	konj	konj	_	12	REP	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	sånt	sånt	pron	pron	_	8	KOORD	_	_
+14	og	og	konj	konj	_	24	KONJ	_	_
+15	så	så	adv	adv	_	24	ADV	_	_
+16	når	når	sbu	sbu	_	18	SBU	_	_
+17	du	du	pron	pron	_	18	SUBJ	_	_
+18	kom	komme	verb	verb	_	23	APP	_	_
+19	opp	opp	prep	prep	_	18	ADV	_	_
+20	i	i	prep	prep	_	18	ADV	_	_
+21	andre	andre	det	det	_	20	PUTFYLL	_	_
+22	tredje	tredje	adj	adj	_	21	KOORD	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	var	være	verb	verb	_	5	KOORD	_	_
+25	det	det	pron	pron	_	24	FSUBJ	_	_
+26	fem	fem	det	det	_	24	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 162
+# segstart = 878.261
+# segstop = 884.703
+# speaker = boemlo_03gm
+# text = og så i fra fjerde og oppover så var det seks og # litt gradert etter hvor langt du var kommet i systemet
+1	og	og	konj	konj	_	9	KONJ	_	_
+2	så	så	adv	adv	_	9	ADV	_	_
+3	i	i	prep	prep	_	4	ADV	_	_
+4	fra	fra	prep	prep	_	8	APP	_	_
+5	fjerde	fjerde	adj	adj	_	4	PUTFYLL	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	oppover	oppover	prep	prep	_	5	KOORD	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	var	være	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	seks	seks	det	det	_	9	SPRED	_	_
+12	og	og	konj	konj	_	15	KONJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	litt	litt	adj	adj	_	15	ADV	_	_
+15	gradert	gradere	adj	adj	_	11	KOORD	_	_
+16	etter	etter	prep	prep	_	15	ADV	_	_
+17	hvor	hvor	adv	adv	_	18	ADV	_	_
+18	langt	lang	adj	adj	_	20	ADV	_	_
+19	du	du	pron	pron	_	20	SUBJ	_	_
+20	var	være	verb	verb	_	16	PUTFYLL	_	_
+21	kommet	komme	verb	verb	_	20	INFV	_	_
+22	i	i	prep	prep	_	21	ADV	_	_
+23	systemet	system	subst	subst	_	22	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 163
+# segstart = 884.703
+# segstop = 889.569
+# speaker = sl
+# text = ja # mm # men hva pleide dere gjøre i friminuttene da ?
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	7	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	hva	hva	pron	pron	_	9	DOBJ	_	_
+7	pleide	pleie	verb	verb	_	0	FINV	_	_
+8	dere	dere	pron	pron	_	7	SUBJ	_	_
+9	gjøre	gjøre	verb	verb	_	7	INFV	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	friminuttene	friminutt	subst	subst	_	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	9	ADV	_	_
+13	?	?	clb	clb	_	7	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 164
+# segstart = 889.569
+# segstop = 897.654
+# speaker = boemlo_03gm
+# text = nei da var vi bare ute og sprang veit du og så var det vel en fotball som en e sprang litt etter eller så slo en ball
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	2	SUBJ	_	_
+5	bare	bare	adv	adv	_	2	ADV	_	_
+6	ute	ute	prep	prep	_	2	SPRED	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	sprang	springe	verb	verb	_	2	KOORD	_	_
+9	veit	vite	verb	verb	_	2	PAR	_	_
+10	du	du	pron	pron	_	9	SUBJ	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	var	være	verb	verb	_	2	KOORD	_	_
+14	det	det	pron	pron	_	13	FSUBJ	_	_
+15	vel	vel	adv	adv	_	13	ADV	_	_
+16	en	en	det	det	_	17	DET	_	_
+17	fotball	fotball	subst	subst	_	13	PSUBJ	_	_
+18	som	som	sbu	sbu	_	21	SBU	_	_
+19	en	en	det	det	_	21	SUBJ	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	sprang	springe	verb	verb	_	17	ATR	_	_
+22	litt	litt	adj	adj	_	23	ADV	_	_
+23	etter	etter	prep	prep	_	21	ADV	_	_
+24	eller	eller	konj	konj	_	26	KONJ	_	_
+25	så	så	adv	adv	_	26	ADV	_	_
+26	slo	slå	verb	verb	_	2	KOORD	_	_
+27	en	en	det	det	_	28	SUBJ	_	_
+28	ball	ball	subst	subst	_	26	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 165
+# segstart = 897.654
+# segstop = 902.31
+# speaker = boemlo_03gm
+# text = en liten sånn e # gummiball ikke sant som vi slo og # heiv tilbake og sånt
+1	en	en	det	det	_	6	DET	_	_
+2	liten	liten	adj	adj	_	6	ATR	_	_
+3	sånn	sånn	det	det	_	6	DET	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	gummiball	gummiball	subst	subst	_	0	FRAG	_	_
+7	ikke	ikke	adv	adv	_	6	PAR	_	_
+8	sant	sann	adj	adj	_	7	ADV	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	slo	slå	verb	verb	_	6	ATR	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	heiv	hive	verb	verb	_	11	KOORD	_	_
+15	tilbake	tilbake	prep	prep	_	14	ADV	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	sånt	sånt	pron	pron	_	11	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 166
+# segstart = 902.31
+# segstop = 902.620
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 167
+# segstart = 902.620
+# segstop = 913.332
+# speaker = boemlo_03gm
+# text = ja # eller så hadde vi jo noen e spell som du sikkert ikke har hørt noen ting om som het å jeppa # og slå abesetet
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	eller	eller	konj	konj	_	5	KONJ	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	hadde	ha	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	jo	jo	adv	adv	_	5	ADV	_	_
+8	noen	noen	det	det	_	10	DET	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	spell	spell	subst	subst	_	5	DOBJ	_	_
+11	som	som	sbu	sbu	_	15	SBU	_	_
+12	du	du	pron	pron	_	15	SUBJ	_	_
+13	sikkert	sikker	adj	adj	_	15	ADV	_	_
+14	ikke	ikke	adv	adv	_	15	ADV	_	_
+15	har	ha	verb	verb	_	10	PAR	_	_
+16	hørt	høre	verb	verb	_	15	INFV	_	_
+17	noen	noen	det	det	_	18	DET	_	_
+18	ting	ting	subst	subst	_	19	ADV	_	_
+19	om	om	prep	prep	_	16	ADV	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	het	hete	verb	verb	_	10	ATR	_	_
+22	å	å	inf-merke	inf-merke	_	21	SPRED	_	_
+23	jeppa	jeppe	verb	verb	_	22	INFV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	og	og	konj	konj	_	26	KONJ	_	_
+26	slå	slå	verb	verb	_	22	KOORD	_	_
+27	abesetet	abesete	subst	subst	_	26	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 168
+# segstart = 913.332
+# segstop = 915.769
+# speaker = sl
+# text = nei det har jeg ikke hørt om
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	7	PUTFYLL	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	hørt	høre	verb	verb	_	3	INFV	_	_
+7	om	om	prep	prep	_	6	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 169
+# segstart = 913.332
+# segstop = 915.769
+# speaker = boemlo_03gm
+# text = * e og og diss-
+1	*	*	pause	pause	_	3	IK	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	og	og	konj	konj	_	4	REP	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	diss-	diss-	ufullst	ufullst	_	0	FRAG	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 170
+# segstart = 915.769
+# segstop = 924.569
+# speaker = boemlo_03gm
+# text = disse trur jeg e ligger inne i noe sånne gamle # e bøker i fra Bergen for de har sikkert de samme samme lekene der og
+1	disse	disse	pron	pron	_	5	SUBJ	_	_
+2	trur	tru	verb	verb	_	5	PAR	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	ligger	ligge	verb	verb	_	0	FRAG	_	_
+6	inne	inne	prep	prep	_	5	ADV	_	_
+7	i	i	prep	prep	_	6	PUTFYLL	_	_
+8	noe	noe	pron	pron	_	13	DET	_	_
+9	sånne	sånne	det	det	_	13	DET	_	_
+10	gamle	gammel	adj	adj	_	13	ATR	_	_
+11	#	#	pause	pause	_	13	IK	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	bøker	bok	subst	subst	_	7	PUTFYLL	_	_
+14	i	i	prep	prep	_	15	ADV	_	_
+15	fra	fra	prep	prep	_	13	ATR	_	_
+16	Bergen	Bergen	subst	subst	_	15	PUTFYLL	_	_
+17	for	for	konj	konj	_	19	KONJ	_	_
+18	de	de	pron	pron	_	19	SUBJ	_	_
+19	har	ha	verb	verb	_	5	KOORD	_	_
+20	sikkert	sikker	adj	adj	_	19	ADV	_	_
+21	de	de	det	det	_	24	DET	_	_
+22	samme	samme	det	det	_	23	REP	_	_
+23	samme	samme	det	det	_	24	DET	_	_
+24	lekene	lek	subst	subst	_	19	DOBJ	_	_
+25	der	der	prep	prep	_	19	ADV	_	_
+26	og	og	adv	adv	_	25	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 171
+# segstart = 924.569
+# segstop = 931.003
+# speaker = boemlo_03gm
+# text = og jeppe da hadde vi to steinene som lå nede på bakken og så la vi en # pinne # tvers over
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	jeppe	jeppe	verb	verb	_	0	FRAG	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	hadde	ha	verb	verb	_	2	KOORD	_	_
+5	vi	vi	pron	pron	_	4	SUBJ	_	_
+6	to	to	det	det	_	7	DET	_	_
+7	steinene	stein	subst	subst	_	4	DOBJ	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	lå	ligge	verb	verb	_	7	ATR	_	_
+10	nede	nede	prep	prep	_	9	ADV	_	_
+11	på	på	prep	prep	_	10	PUTFYLL	_	_
+12	bakken	bakke	subst	subst	_	11	PUTFYLL	_	_
+13	og	og	konj	konj	_	15	KONJ	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	la	la	verb	verb	_	4	KOORD	_	_
+16	vi	vi	pron	pron	_	15	SUBJ	_	_
+17	en	en	det	det	_	19	DET	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	pinne	pinne	subst	subst	_	15	DOBJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	tvers	tvers	adv	adv	_	15	ADV	_	_
+22	over	over	prep	prep	_	21	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 172
+# segstart = 931.003
+# segstop = 938.644
+# speaker = boemlo_03gm
+# text = og så hadde vi en lang pinne som vi heiv den pinnen ut med # og så kunne de som var ute ta den og hive inn igjen og
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	hadde	ha	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	en	en	det	det	_	7	DET	_	_
+6	lang	lang	adj	adj	_	7	ATR	_	_
+7	pinne	pinne	subst	subst	_	3	DOBJ	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	heiv	hive	verb	verb	_	7	ATR	_	_
+11	den	den	det	det	_	12	DET	_	_
+12	pinnen	pinne	subst	subst	_	10	DOBJ	_	_
+13	ut	ut	prep	prep	_	10	ADV	_	_
+14	med	med	prep	prep	_	10	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	kunne	kunne	verb	verb	_	3	KOORD	_	_
+19	de	de	pron	pron	_	18	SUBJ	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	var	være	verb	verb	_	19	ATR	_	_
+22	ute	ute	prep	prep	_	21	SPRED	_	_
+23	ta	ta	verb	verb	_	18	INFV	_	_
+24	den	den	det	det	_	23	DOBJ	_	_
+25	og	og	konj	konj	_	26	KONJ	_	_
+26	hive	hive	verb	verb	_	23	KOORD	_	_
+27	inn	inn	prep	prep	_	26	ADV	_	_
+28	igjen	igjen	adv	adv	_	26	ADV	_	_
+29	og	og	konj	konj	_	3	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 173
+# segstart = 938.644
+# segstop = 943.49
+# speaker = boemlo_03gm
+# text = hvis de traff på bestemt måte så ute så var de andre sin tur
+1	hvis	hvis	sbu	sbu	_	3	SBU	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	traff	treffe	verb	verb	_	8	APP	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	bestemt	bestemme	adj	adj	_	6	ATR	_	_
+6	måte	måte	subst	subst	_	4	PUTFYLL	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	ute	ute	prep	prep	_	0	FRAG	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	var	være	verb	verb	_	8	KOORD	_	_
+11	de	de	pron	pron	_	12	DET	_	_
+12	andre	andre	det	det	_	13	ADV	_	_
+13	sin	sin	det	det	_	14	DET	_	_
+14	tur	tur	subst	subst	_	10	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 174
+# segstart = 943.49
+# segstop = 951.627
+# speaker = boemlo_03gm
+# text = men hvis at vi klarte å holde den utenforbi en ring og sånn så # så fikk vi # gjøre sånn og så slå på den pinnen
+1	men	men	konj	konj	_	17	KONJ	_	_
+2	hvis	hvis	sbu	sbu	_	5	SBU	_	_
+3	at	at	sbu	sbu	_	2	ADV	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	klarte	klare	verb	verb	_	16	APP	_	_
+6	å	å	inf-merke	inf-merke	_	5	DOBJ	_	_
+7	holde	holde	verb	verb	_	6	INFV	_	_
+8	den	den	det	det	_	7	DOBJ	_	_
+9	utenforbi	utenforbi	prep	prep	_	7	ADV	_	_
+10	en	en	det	det	_	11	DET	_	_
+11	ring	ring	subst	subst	_	9	PUTFYLL	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	sånn	sånn	adv	adv	_	11	KOORD	_	_
+14	så	så	adv	adv	_	16	REP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	fikk	få	verb	verb	_	0	FINV	_	_
+18	vi	vi	pron	pron	_	17	SUBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	gjøre	gjøre	verb	verb	_	17	INFV	_	_
+21	sånn	sånn	adv	adv	_	20	ADV	_	_
+22	og	og	konj	konj	_	24	KONJ	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	slå	slå	verb	verb	_	20	KOORD	_	_
+25	på	på	prep	prep	_	24	ADV	_	_
+26	den	den	det	det	_	27	DET	_	_
+27	pinnen	pinne	subst	subst	_	25	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 175
+# segstart = 951.627
+# segstop = 953.565
+# speaker = boemlo_03gm
+# text = og så telte vi og så fikk vi poeng
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	telte	telle	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	og	og	konj	konj	_	7	KONJ	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	fikk	få	verb	verb	_	3	KOORD	_	_
+8	vi	vi	pron	pron	_	7	SUBJ	_	_
+9	poeng	poeng	subst	subst	_	7	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 176
+# segstart = 953.565
+# segstop = 957.622
+# speaker = sl
+# text = ja ok
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ok	ok	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 177
+# segstart = 954.185
+# segstop = 955.163
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 178
+# segstart = 955.163
+# segstop = 957.622
+# speaker = sl
+# text = heh men var det spilte de på en stor bane da eller ?
+1	heh	heh	interj	interj	_	5	INTERJ	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	var	være	verb	verb	_	5	REP	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	spilte	spille	verb	verb	_	0	FINV	_	_
+6	de	de	pron	pron	_	5	SUBJ	_	_
+7	på	på	prep	prep	_	5	ADV	_	_
+8	en	en	det	det	_	10	DET	_	_
+9	stor	stor	adj	adj	_	10	ATR	_	_
+10	bane	bane	subst	subst	_	7	PUTFYLL	_	_
+11	da	da	adv	adv	_	5	ADV	_	_
+12	eller	eller	konj	konj	_	5	KONJ	_	_
+13	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 180
+# segstart = 957.622
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = ja da kunne vi bruke hele lekeplassen da og s- men vi klarte jo ikke å hive mer enn femten meter eller fem eller ti meter med den # pinnen ut
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	kunne	kunne	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	bruke	bruke	verb	verb	_	3	INFV	_	_
+6	hele	hel	adj	adj	_	7	ATR	_	_
+7	lekeplassen	lekeplass	subst	subst	_	5	DOBJ	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	og	og	konj	konj	_	11	REP	_	_
+10	s-	s-	ufullst	ufullst	_	11	FYLL	_	_
+11	men	men	konj	konj	_	13	KONJ	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	klarte	klare	verb	verb	_	3	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	ikke	ikke	adv	adv	_	13	ADV	_	_
+16	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+17	hive	hive	verb	verb	_	16	INFV	_	_
+18	mer	mye	adj	adj	_	20	ADV	_	_
+19	enn	enn	prep	prep	_	18	ADV	_	_
+20	femten	femten	det	det	_	21	DET	_	_
+21	meter	meter	subst	subst	_	17	ADV	_	_
+22	eller	eller	konj	konj	_	26	KONJ	_	_
+23	fem	fem	det	det	_	26	DET	_	_
+24	eller	eller	konj	konj	_	25	KONJ	_	_
+25	ti	ti	det	det	_	23	KOORD	_	_
+26	meter	meter	subst	subst	_	21	KOORD	_	_
+27	med	med	prep	prep	_	21	ATR	_	_
+28	den	den	det	det	_	30	DET	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	pinnen	pinne	subst	subst	_	27	PUTFYLL	_	_
+31	ut	ut	prep	prep	_	17	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 181
+# segstart = 965.301
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = så det begrensa seg sjøl # så lå det da en sånn strek framforbi som ikke # skulle gå over og sånt og s-
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	begrensa	begrense	verb	verb	_	0	FINV	_	_
+4	seg	seg	pron	pron	_	3	DOBJ	_	_
+5	sjøl	sjøl	det	det	_	4	DET	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	lå	ligge	verb	verb	_	3	KOORD	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	da	da	adv	adv	_	8	ADV	_	_
+11	en	en	det	det	_	13	DET	_	_
+12	sånn	sånn	det	det	_	13	DET	_	_
+13	strek	strek	subst	subst	_	8	DOBJ	_	_
+14	framforbi	framforbi	prep	prep	_	8	ADV	_	_
+15	som	som	sbu	sbu	_	18	SBU	_	_
+16	ikke	ikke	adv	adv	_	18	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	skulle	skulle	verb	verb	_	13	ATR	_	_
+19	gå	gå	verb	verb	_	18	INFV	_	_
+20	over	over	prep	prep	_	19	ADV	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	sånt	sånt	pron	pron	_	19	KOORD	_	_
+23	og	og	konj	konj	_	8	SLETT	_	_
+24	s-	s-	ufullst	ufullst	_	23	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 182
+# segstart = 972.932
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = og slå abesetet da hadde vi bare ei fjøl som lå på skrå og # og så hadde vi en sånn liten # firkanta pinne som lå oppå
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	slå	slå	verb	verb	_	0	FRAG	_	_
+3	abesetet	abesete	subst	subst	_	2	DOBJ	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	hadde	ha	verb	verb	_	2	KOORD	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	bare	bare	adv	adv	_	5	ADV	_	_
+8	ei	ei	det	det	_	9	DET	_	_
+9	fjøl	fjøl	subst	subst	_	5	DOBJ	_	_
+10	som	som	sbu	sbu	_	11	SBU	_	_
+11	lå	ligge	verb	verb	_	9	ATR	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	skrå	skrå	adj	adj	_	12	PUTFYLL	_	_
+14	og	og	konj	konj	_	16	REP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	hadde	ha	verb	verb	_	2	KOORD	_	_
+19	vi	vi	pron	pron	_	18	SUBJ	_	_
+20	en	en	det	det	_	25	DET	_	_
+21	sånn	sånn	det	det	_	25	DET	_	_
+22	liten	liten	adj	adj	_	25	ATR	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	firkanta	firkanta	adj	adj	_	25	ATR	_	_
+25	pinne	pinne	subst	subst	_	18	DOBJ	_	_
+26	som	som	sbu	sbu	_	27	SBU	_	_
+27	lå	ligge	verb	verb	_	25	ATR	_	_
+28	oppå	oppå	prep	prep	_	27	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 183
+# segstart = 981.350
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = med romertall på hvor hvor mye han var verdt # og så var det en ring rundt denne her # og når vi slo den langt ut
+1	med	med	prep	prep	_	0	FRAG	_	_
+2	romertall	romertall	subst	subst	_	1	PUTFYLL	_	_
+3	på	på	prep	prep	_	2	ATR	_	_
+4	hvor	hvor	adv	adv	_	6	REP	_	_
+5	hvor	hvor	adv	adv	_	6	ADV	_	_
+6	mye	mye	adj	adj	_	8	ADV	_	_
+7	han	han	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	3	PUTFYLL	_	_
+9	verdt	verdt	adj	adj	_	8	SPRED	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	var	være	verb	verb	_	1	KOORD	_	_
+14	det	det	pron	pron	_	13	FSUBJ	_	_
+15	en	en	det	det	_	16	DET	_	_
+16	ring	ring	subst	subst	_	13	PSUBJ	_	_
+17	rundt	rundt	prep	prep	_	16	ATR	_	_
+18	denne	denne	pron	pron	_	17	PUTFYLL	_	_
+19	her	her	prep	prep	_	18	ATR	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	og	og	konj	konj	_	24	KONJ	_	_
+22	når	når	sbu	sbu	_	24	SBU	_	_
+23	vi	vi	pron	pron	_	24	SUBJ	_	_
+24	slo	slå	verb	verb	_	1	KOORD	_	_
+25	den	den	det	det	_	24	DOBJ	_	_
+26	langt	lang	adj	adj	_	27	ADV	_	_
+27	ut	ut	prep	prep	_	24	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 184
+# segstart = 990.019
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = så hvis de tok han så var vi ute av spillet men hvis ikke så datt han ned på bakken og da heiv de han inn igjen
+1	så	så	konj	konj	_	7	ADV	_	_
+2	hvis	hvis	sbu	sbu	_	4	SBU	_	_
+3	de	de	pron	pron	_	4	SUBJ	_	_
+4	tok	ta	verb	verb	_	6	APP	_	_
+5	han	han	pron	pron	_	4	DOBJ	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	var	være	verb	verb	_	0	FINV	_	_
+8	vi	vi	pron	pron	_	7	SUBJ	_	_
+9	ute	ute	prep	prep	_	7	SPRED	_	_
+10	av	av	prep	prep	_	9	PUTFYLL	_	_
+11	spillet	spill	subst	subst	_	10	PUTFYLL	_	_
+12	men	men	konj	konj	_	14	KONJ	_	_
+13	hvis	hvis	sbu	sbu	_	14	ADV	_	_
+14	ikke	ikke	adv	adv	_	15	APP	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	datt	dette	verb	verb	_	7	KOORD	_	_
+17	han	han	pron	pron	_	16	SUBJ	_	_
+18	ned	ned	prep	prep	_	16	ADV	_	_
+19	på	på	prep	prep	_	18	PUTFYLL	_	_
+20	bakken	bakke	subst	subst	_	19	PUTFYLL	_	_
+21	og	og	konj	konj	_	23	KONJ	_	_
+22	da	da	adv	adv	_	23	ADV	_	_
+23	heiv	hive	verb	verb	_	7	KOORD	_	_
+24	de	de	pron	pron	_	23	SUBJ	_	_
+25	han	han	pron	pron	_	23	DOBJ	_	_
+26	inn	inn	prep	prep	_	23	ADV	_	_
+27	igjen	igjen	adv	adv	_	23	ADV	_	_
+
+# Usikker på 'klarte møte den', plassering av en eller flere DOBJ
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 185
+# segstart = 995.151
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = hvis han kom innom den ringen rundt # e så e var vi òg ute av spillet men hvis vi klarte møte den
+1	hvis	hvis	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	_	3	SUBJ	_	_
+3	kom	komme	verb	verb	_	10	APP	_	_
+4	innom	innom	prep	prep	_	3	ADV	_	_
+5	den	den	det	det	_	6	DET	_	_
+6	ringen	ring	subst	subst	_	4	PUTFYLL	_	_
+7	rundt	rundt	prep	prep	_	6	ATR	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	så	så	adv	adv	_	12	ADV	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	var	være	verb	verb	_	0	FINV	_	_
+13	vi	vi	pron	pron	_	12	SUBJ	_	_
+14	òg	òg	adv	adv	_	12	ADV	_	_
+15	ute	ute	prep	prep	_	12	SPRED	_	_
+16	av	av	prep	prep	_	15	PUTFYLL	_	_
+17	spillet	spill	subst	subst	_	16	PUTFYLL	_	_
+18	men	men	konj	konj	_	21	KONJ	_	_
+19	hvis	hvis	sbu	sbu	_	21	SBU	_	_
+20	vi	vi	pron	pron	_	21	SUBJ	_	_
+21	klarte	klare	verb	verb	_	12	KOORD	_	_
+22	møte	møte	verb	verb	_	21	INFV	_	_
+23	den	den	det	det	_	22	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 186
+# segstart = 1003.812
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = så fikk vi det tallet som sto på # og det var ti eller tjue eller femti eller hundre og sånn # så telte vi i sammen poeng
+1	så	så	adv	adv	_	2	ADV	_	_
+2	fikk	få	verb	verb	_	0	FINV	_	_
+3	vi	vi	pron	pron	_	2	SUBJ	_	_
+4	det	det	pron	pron	_	5	DET	_	_
+5	tallet	tall	subst	subst	_	2	DOBJ	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	sto	stå	verb	verb	_	5	ATR	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	det	det	pron	pron	_	12	SUBJ	_	_
+12	var	være	verb	verb	_	2	KOORD	_	_
+13	ti	ti	det	det	_	12	SPRED	_	_
+14	eller	eller	konj	konj	_	15	KONJ	_	_
+15	tjue	tjue	det	det	_	13	KOORD	_	_
+16	eller	eller	konj	konj	_	17	KONJ	_	_
+17	femti	femti	det	det	_	13	KOORD	_	_
+18	eller	eller	konj	konj	_	19	KONJ	_	_
+19	hundre	hundre	det	det	_	13	KOORD	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	sånn	sånn	adv	adv	_	13	KOORD	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	telte	telle	verb	verb	_	2	KOORD	_	_
+25	vi	vi	pron	pron	_	24	SUBJ	_	_
+26	i	i	prep	prep	_	27	ADV	_	_
+27	sammen	sammen	adv	adv	_	24	ADV	_	_
+28	poeng	poeng	subst	subst	_	24	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 187
+# segstart = 1013.184
+# segstop = 1017.596
+# speaker = boemlo_03gm
+# text = så det blir vel kanskje litt dette her som du ser i cricket og ligner kanskje litt på det
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	blir	bli	verb	verb	_	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	kanskje	kanskje	adv	adv	_	3	ADV	_	_
+6	litt	litt	adj	adj	_	7	ATR	_	_
+7	dette	dette	pron	pron	_	3	SPRED	_	_
+8	her	her	prep	prep	_	7	ATR	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	ser	se	verb	verb	_	7	ATR	_	_
+12	i	i	prep	prep	_	11	ADV	_	_
+13	cricket	cricket	subst	subst	_	12	PUTFYLL	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	ligner	ligne	verb	verb	_	3	KOORD	_	_
+16	kanskje	kanskje	adv	adv	_	15	ADV	_	_
+17	litt	litt	adj	adj	_	15	ADV	_	_
+18	på	på	prep	prep	_	15	ADV	_	_
+19	det	det	pron	pron	_	18	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 189
+# segstart = 1017.596
+# segstop = 1019.337
+# speaker = sl
+# text = ja det hørtes nesten litt likt ut som det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	hørtes	høres	verb	verb	_	0	FINV	_	_
+4	nesten	nesten	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	_	6	ADV	_	_
+6	likt	like	adj	adj	_	3	SPRED	_	_
+7	ut	ut	prep	prep	_	6	ADV	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	det	det	pron	pron	_	6	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 191
+# segstart = 1019.337
+# segstop = 1020.028
+# speaker = boemlo_03gm
+# text = en avart fra noe sånt
+1	en	en	det	det	_	2	SUBJ	_	_
+2	avart	avart	subst	subst	_	0	FRAG	_	_
+3	fra	fra	prep	prep	_	2	ATR	_	_
+4	noe	noe	det	det	_	5	DET	_	_
+5	sånt	sånt	det	det	_	3	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 192
+# segstart = 1020.028
+# segstop = 1022.667
+# speaker = sl
+# text = mm # men det var et spesielt navn da på denne leken
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	et	et	det	det	_	8	DET	_	_
+7	spesielt	spesiell	adj	adj	_	8	ATR	_	_
+8	navn	navn	subst	subst	_	5	PSUBJ	_	_
+9	da	da	adv	adv	_	5	ADV	_	_
+10	på	på	prep	prep	_	5	ADV	_	_
+11	denne	denne	det	det	_	12	DET	_	_
+12	leken	lek	subst	subst	_	10	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 193
+# segstart = 1022.667
+# segstop = 1027.063
+# speaker = boemlo_03gm
+# text = abesetet ja for det sto sikkert disse bokstavene på de var de hadde verdier
+1	abesetet	abesete	subst	subst	_	0	FRAG	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	for	for	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	sto	stå	verb	verb	_	1	KOORD	_	_
+6	sikkert	sikker	adj	adj	_	5	ADV	_	_
+7	disse	disse	det	det	_	8	DET	_	_
+8	bokstavene	bokstav	subst	subst	_	5	DOBJ	_	_
+9	på	på	prep	prep	_	5	ADV	_	_
+10	de	de	pron	pron	_	11	SUBJ	_	_
+11	var	være	verb	verb	_	13	REP	_	_
+12	de	de	pron	pron	_	13	SUBJ	_	_
+13	hadde	ha	verb	verb	_	5	KOORD	_	_
+14	verdier	verdi	subst	subst	_	13	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 194
+# segstart = 1027.063
+# segstop = 1027.493
+# speaker = sl
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 195
+# segstart = 1027.493
+# segstop = 1032.878
+# speaker = boemlo_03gm
+# text = ja # dette dette finner du sikkert ut i disse bøkene ifra Bergen for de hadde det samme opplegget der
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	dette	dette	det	det	_	4	REP	_	_
+4	dette	dette	pron	pron	_	5	DOBJ	_	_
+5	finner	finne	verb	verb	_	0	FINV	_	_
+6	du	du	pron	pron	_	5	SUBJ	_	_
+7	sikkert	sikker	adj	adj	_	5	ADV	_	_
+8	ut	ut	prep	prep	_	5	ADV	_	_
+9	i	i	prep	prep	_	5	PUTFYLL	_	_
+10	disse	disse	det	det	_	11	DET	_	_
+11	bøkene	bok	subst	subst	_	9	PUTFYLL	_	_
+12	ifra	ifra	prep	prep	_	11	ATR	_	_
+13	Bergen	Bergen	subst	subst	_	12	PUTFYLL	_	_
+14	for	for	prep	prep	_	16	KONJ	_	_
+15	de	de	pron	pron	_	16	SUBJ	_	_
+16	hadde	ha	verb	verb	_	5	KOORD	_	_
+17	det	det	det	det	_	19	DET	_	_
+18	samme	samme	det	det	_	19	DET	_	_
+19	opplegget	opplegg	subst	subst	_	16	DOBJ	_	_
+20	der	der	prep	prep	_	16	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 196
+# segstart = 1032.878
+# segstop = 1035.219
+# speaker = sl
+# text = men hadde # lagde dere det der … ?
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	hadde	ha	verb	verb	_	4	REP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	lagde	lage	verb	verb	_	0	FINV	_	_
+5	dere	dere	pron	pron	_	4	SUBJ	_	_
+6	det	det	pron	pron	_	4	DOBJ	_	_
+7	der	der	prep	prep	_	4	ADV	_	_
+8	…	…	pause	pause	_	4	IK	_	_
+9	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 198
+# segstart = 1035.219
+# segstop = 1036.317
+# speaker = boemlo_03gm
+# text = vi lagde alt dette sjøl
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	lagde	lage	verb	verb	_	0	FINV	_	_
+3	alt	alt	det	det	_	4	DET	_	_
+4	dette	dette	pron	pron	_	2	DOBJ	_	_
+5	sjøl	sjøl	adv	adv	_	2	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 199
+# segstart = 1035.219
+# segstop = 1036.317
+# speaker = sl
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 200
+# segstart = 1036.317
+# segstop = 1043.323
+# speaker = boemlo_03gm
+# text = ja # det var bare fotballen og e gummiballen som e var # innkjøpt eller så var det mye primitivt
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	bare	bare	adv	adv	_	4	ADV	_	_
+6	fotballen	fotball	subst	subst	_	4	SPRED	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	gummiballen	gummiball	subst	subst	_	6	KOORD	_	_
+10	som	som	sbu	sbu	_	12	SBU	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	var	være	verb	verb	_	9	ATR	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	innkjøpt	innkjøpe	adj	adj	_	12	SPRED	_	_
+15	eller	eller	konj	konj	_	17	KONJ	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	var	være	verb	verb	_	4	KOORD	_	_
+18	det	det	pron	pron	_	17	FSUBJ	_	_
+19	mye	mye	adj	adj	_	20	ATR	_	_
+20	primitivt	primitiv	adj	adj	_	17	PSUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 201
+# segstart = 1043.323
+# segstop = 1043.919
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 202
+# segstart = 1043.752
+# segstop = 1043.919
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# Snakk om et spill som heter 'å jeppe'.
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 203
+# segstart = 1043.919
+# segstop = 1047.526
+# speaker = sl
+# text = ja # ja så de pinnene til em jeppe …
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	så	så	konj	konj	_	6	ADV	_	_
+5	de	de	pron	pron	_	6	DET	_	_
+6	pinnene	pinne	subst	subst	_	1	ADV	_	_
+7	til	til	prep	prep	_	6	ATR	_	_
+8	em	em	nol	nol	_	9	FYLL	_	_
+9	jeppe	jeppe	subst	subst	_	7	PUTFYLL	_	_
+10	…	…	pause	pause	_	6	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 205
+# segstart = 1047.526
+# segstop = 1053.942
+# speaker = boemlo_03gm
+# text = det var jo bare en sånn ting som vi brøyt av et tre # av en rogn eller ei bjørk eller # et eller anna sånt
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	bare	bare	adv	adv	_	2	ADV	_	_
+5	en	en	det	det	_	7	DET	_	_
+6	sånn	sånn	det	det	_	7	DET	_	_
+7	ting	ting	subst	subst	_	2	SPRED	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	brøyt	bryte	verb	verb	_	7	ATR	_	_
+11	av	av	prep	prep	_	10	ADV	_	_
+12	et	et	det	det	_	13	DET	_	_
+13	tre	tre	subst	subst	_	11	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	av	av	prep	prep	_	11	KOORD	_	_
+16	en	en	det	det	_	17	DET	_	_
+17	rogn	rogn	subst	subst	_	15	PUTFYLL	_	_
+18	eller	eller	konj	konj	_	20	KONJ	_	_
+19	ei	ei	det	det	_	20	DET	_	_
+20	bjørk	bjørk	subst	subst	_	17	KOORD	_	_
+21	eller	eller	konj	konj	_	26	KONJ	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	et	et	det	det	_	26	DET	_	_
+24	eller	eller	konj	konj	_	25	KONJ	_	_
+25	anna	anna	det	det	_	23	KOORD	_	_
+26	sånt	sånt	det	det	_	17	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 206
+# segstart = 1053.942
+# segstop = 1060.408
+# speaker = sl
+# text = ja # # gjorde dere # om vinteren her pla- har det pleid å være snø og skiføre og sånn eller ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+5	dere	dere	pron	pron	_	4	SUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	om	om	prep	prep	_	4	ADV	_	_
+8	vinteren	vinter	subst	subst	_	7	PUTFYLL	_	_
+9	her	her	prep	prep	_	4	ADV	_	_
+10	pla-	pla-	ufullst	ufullst	_	11	FYLL	_	_
+11	har	ha	verb	verb	_	4	KOORD	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	pleid	pleie	verb	verb	_	11	INFV	_	_
+14	å	å	inf-merke	inf-merke	_	13	INFV	_	_
+15	være	være	verb	verb	_	14	INFV	_	_
+16	snø	snø	subst	subst	_	15	SPRED	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	skiføre	skiføre	subst	subst	_	16	KOORD	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	sånn	sånn	adv	adv	_	16	KOORD	_	_
+21	eller	eller	konj	konj	_	11	KONJ	_	_
+22	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 207
+# segstart = 1060.408
+# segstop = 1064.558
+# speaker = boemlo_03gm
+# text = ja em mer enn i dag for e vi sto jo ganske mye på ski da
+1	ja	ja	interj	interj	_	10	INTERJ	_	_
+2	em	em	nol	nol	_	3	FYLL	_	_
+3	mer	mye	adj	adj	_	10	ADV	_	_
+4	enn	enn	prep	prep	_	3	ADV	_	_
+5	i	i	prep	prep	_	4	PUTFYLL	_	_
+6	dag	dag	subst	subst	_	5	PUTFYLL	_	_
+7	for	for	prep	prep	_	10	KONJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	sto	stå	verb	verb	_	0	FINV	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	ganske	ganske	adv	adv	_	13	ADV	_	_
+13	mye	mye	adj	adj	_	10	ADV	_	_
+14	på	på	prep	prep	_	10	ADV	_	_
+15	ski	ski	subst	subst	_	14	PUTFYLL	_	_
+16	da	da	adv	adv	_	10	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 208
+# segstart = 1064.558
+# segstop = 1065.612
+# speaker = sl
+# text = ja dere gjorde det før ja
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	dere	dere	pron	pron	_	3	SUBJ	_	_
+3	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	DOBJ	_	_
+5	før	før	prep	prep	_	3	ADV	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 209
+# segstart = 1064.558
+# segstop = 1065.612
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 210
+# segstart = 1065.612
+# segstop = 1070.988
+# speaker = boemlo_03gm
+# text = e både gikk langrenn og sto ned bakker og hoppet og # alt mulig
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	både	både	konj	konj	_	3	KONJ	_	_
+3	gikk	gå	verb	verb	_	0	FINV	_	_
+4	langrenn	langrenn	subst	subst	_	3	SUBJ	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	sto	stå	verb	verb	_	3	KOORD	_	_
+7	ned	ned	prep	prep	_	6	ADV	_	_
+8	bakker	bakke	subst	subst	_	6	DOBJ	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	hoppet	hoppe	verb	verb	_	3	KOORD	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	alt	alt	det	det	_	14	DET	_	_
+14	mulig	mulig	adj	adj	_	3	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 211
+# segstart = 1070.988
+# segstop = 1071.393
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# SPRED eller PSUBJ?
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 212
+# segstart = 1071.393
+# segstop = 1076.486
+# speaker = boemlo_03gm
+# text = ja # så det var mer det var mer snø og det var mer aktivitet på snø
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	var	være	verb	verb	_	8	REP	_	_
+6	mer	mye	adj	adj	_	5	SPRED	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	0	FINV	_	_
+9	mer	mye	adj	adj	_	10	ATR	_	_
+10	snø	snø	subst	subst	_	8	SPRED	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	8	KOORD	_	_
+14	mer	mye	adj	adj	_	15	ATR	_	_
+15	aktivitet	aktivitet	subst	subst	_	13	SPRED	_	_
+16	på	på	prep	prep	_	15	ATR	_	_
+17	snø	snø	subst	subst	_	16	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 213
+# segstart = 1076.486
+# segstop = 1084.595
+# speaker = boemlo_03gm
+# text = og ikke minst på is fordi at det å gå på skøyter vet du var jo # faktisk det største det for oss # her ute og
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	ikke	ikke	adv	adv	_	3	ADV	_	_
+3	minst	små	adj	adj	_	4	ADV	_	_
+4	på	på	prep	prep	_	0	FRAG	_	_
+5	is	is	subst	subst	_	4	PUTFYLL	_	_
+6	fordi	fordi	sbu	sbu	_	15	SBU	_	_
+7	at	at	sbu	sbu	_	6	ADV	_	_
+8	det	det	pron	pron	_	15	SUBJ	_	_
+9	å	å	inf-merke	inf-merke	_	8	APP	_	_
+10	gå	gå	verb	verb	_	9	INFV	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	skøyter	skøyte	subst	subst	_	11	PUTFYLL	_	_
+13	vet	vite	verb	verb	_	15	PAR	_	_
+14	du	du	pron	pron	_	13	SUBJ	_	_
+15	var	være	verb	verb	_	4	KOORD	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	faktisk	faktisk	adj	adj	_	15	ADV	_	_
+19	det	det	det	det	_	20	DET	_	_
+20	største	størst	adj	adj	_	15	SPRED	_	_
+21	det	det	pron	pron	_	20	DET	_	_
+22	for	for	prep	prep	_	20	ATR	_	_
+23	oss	oss	pron	pron	_	22	PUTFYLL	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	her	her	prep	prep	_	23	ATR	_	_
+26	ute	ute	prep	prep	_	25	PUTFYLL	_	_
+27	og	og	konj	konj	_	15	KONJ	_	_
+
+# Jeg vet ikke hva som menes med 'skatter'.
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 214
+# segstart = 1084.595
+# segstop = 1092.278
+# speaker = boemlo_03gm
+# text = skøytesport det var det # mest e # skatter av alle sporter som fantes i Norge # ski i og skøyter
+1	skøytesport	skøytesport	subst	subst	_	2	APP	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	9	DET	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	mest	mye	adj	adj	_	9	ATR	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	skatter	skatt	subst	subst	_	3	SPRED	_	_
+10	av	av	prep	prep	_	9	ATR	_	_
+11	alle	alle	det	det	_	12	DET	_	_
+12	sporter	sport	subst	subst	_	10	PUTFYLL	_	_
+13	som	som	sbu	sbu	_	14	SBU	_	_
+14	fantes	finnes	verb	verb	_	12	ATR	_	_
+15	i	i	prep	prep	_	14	ADV	_	_
+16	Norge	Norge	subst	subst	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	ski	ski	subst	subst	_	3	KOORD	_	_
+19	i	i	prep	prep	_	21	REP	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	skøyter	skøyte	subst	subst	_	18	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 215
+# segstart = 1092.278
+# segstop = 1101.798
+# speaker = boemlo_03gm
+# text = spesielt skøyter og Hjallisen ikke sant og # det var jo midt i min generasjon # så det er ingenting som har e fortrengt e skøytesport
+1	spesielt	spesiell	adj	adj	_	2	ATR	_	_
+2	skøyter	skøyte	subst	subst	_	0	FRAG	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	Hjallisen	hjallisen	subst	subst	_	2	KOORD	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	sant	sann	adj	adj	_	2	PAR	_	_
+7	og	og	konj	konj	_	10	KONJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	2	KOORD	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	midt	midt	adv	adv	_	13	ADV	_	_
+13	i	i	prep	prep	_	10	SPRED	_	_
+14	min	min	det	det	_	15	DET	_	_
+15	generasjon	generasjon	subst	subst	_	13	PUTFYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	så	så	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	er	være	verb	verb	_	2	KOORD	_	_
+20	ingenting	ingenting	pron	pron	_	19	SPRED	_	_
+21	som	som	sbu	sbu	_	22	SBU	_	_
+22	har	ha	verb	verb	_	20	ATR	_	_
+23	e	e	nol	nol	_	24	FYLL	_	_
+24	fortrengt	fortrenge	verb	verb	_	22	INFV	_	_
+25	e	e	nol	nol	_	26	FYLL	_	_
+26	skøytesport	skøytesport	subst	subst	_	24	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 216
+# segstart = 1101.798
+# segstop = 1109.74
+# speaker = boemlo_03gm
+# text = for meg # så når jeg sitter og ser e på skøyteløp i dag så # så ler jo de andre heime
+1	for	for	prep	prep	_	18	ADV	_	_
+2	meg	meg	pron	pron	_	1	PUTFYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	så	så	adv	adv	_	7	ADV	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	sitter	sitte	verb	verb	_	17	APP	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	ser	se	verb	verb	_	7	KOORD	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	på	på	prep	prep	_	9	ADV	_	_
+12	skøyteløp	skøyteløp	subst	subst	_	11	PUTFYLL	_	_
+13	i	i	prep	prep	_	9	ADV	_	_
+14	dag	dag	subst	subst	_	13	PUTFYLL	_	_
+15	så	så	adv	adv	_	17	REP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	ler	le	verb	verb	_	0	FINV	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	de	de	pron	pron	_	21	DET	_	_
+21	andre	andre	det	det	_	18	SUBJ	_	_
+22	heime	heime	prep	prep	_	21	ATR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 217
+# segstart = 1109.74
+# segstop = 1115.874
+# speaker = boemlo_03gm
+# text = for de skal jo bare se på fotball ifra England og sånt ikke sant # så disse guttene som jeg har de
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	skal	skal	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	6	ADV	_	_
+5	bare	bare	adv	adv	_	6	ADV	_	_
+6	se	se	verb	verb	_	3	INFV	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	fotball	fotball	subst	subst	_	7	PUTFYLL	_	_
+9	ifra	ifra	prep	prep	_	8	ATR	_	_
+10	England	England	subst	subst	_	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	sånt	sånt	pron	pron	_	8	KOORD	_	_
+13	ikke	ikke	adv	adv	_	14	ADV	_	_
+14	sant	sann	adj	adj	_	3	PAR	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	adv	adv	_	18	ADV	_	_
+17	disse	disse	det	det	_	18	DET	_	_
+18	guttene	gutt	subst	subst	_	3	KOORD	_	_
+19	som	som	sbu	sbu	_	21	SBU	_	_
+20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+21	har	ha	verb	verb	_	18	ATR	_	_
+22	de	de	pron	pron	_	18	SLETT	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 218
+# segstart = 1115.874
+# segstop = 1118.645
+# speaker = boemlo_03gm
+# text = lurer på om det er noe galt galt med meg
+1	lurer	lure	verb	verb	_	0	FINV	_	_
+2	på	på	prep	prep	_	1	ADV	_	_
+3	om	om	sbu	sbu	_	5	SBU	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	2	PUTFYLL	_	_
+6	noe	noe	det	det	_	8	DET	_	_
+7	galt	gale	adj	adj	_	8	REP	_	_
+8	galt	gal	adj	adj	_	5	PSUBJ	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	meg	meg	pron	pron	_	9	PUTFYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 219
+# segstart = 1118.645
+# segstop = 1122.377
+# speaker = sl
+# text = ja men nå gå- nå er det jo litt opptur med han Håvard Bøkko igjen og
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	men	men	konj	konj	_	6	KONJ	_	_
+3	nå	nå	adv	adv	_	4	ADV	_	_
+4	gå-	gå-	ufullst	ufullst	_	6	REP	_	_
+5	nå	nå	adv	adv	_	6	ADV	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	jo	jo	adv	adv	_	6	ADV	_	_
+9	litt	litt	adj	adj	_	10	ATR	_	_
+10	opptur	opptur	subst	subst	_	6	SPRED	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	han	han	pron	pron	_	13	DET	_	_
+13	Håvard	Håvard	subst	subst	_	11	PUTFYLL	_	_
+14	Bøkko	Bøkko	subst	subst	_	13	FLAT	_	_
+15	igjen	igjen	adv	adv	_	6	ADV	_	_
+16	og	og	konj	konj	_	6	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 220
+# segstart = 1118.645
+# segstop = 1122.377
+# speaker = boemlo_03gm
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 221
+# segstart = 1122.377
+# segstop = 1130.836
+# speaker = boemlo_03gm
+# text = ja og derfor så sitter vi jo og ser på dette her og synes det er stort vet du og ## e vi husker jo sjølsagt Hjallisen og Kuppern veit du og
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	og	og	konj	konj	_	5	KONJ	_	_
+3	derfor	derfor	adv	adv	_	4	APP	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	sitter	sitte	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	jo	jo	adv	adv	_	5	ADV	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	ser	se	verb	verb	_	5	KOORD	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	dette	dette	pron	pron	_	10	PUTFYLL	_	_
+12	her	her	prep	prep	_	11	ATR	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	synes	synes	verb	verb	_	5	KOORD	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	er	være	verb	verb	_	14	DOBJ	_	_
+17	stort	stor	adj	adj	_	16	SPRED	_	_
+18	vet	vite	verb	verb	_	5	PAR	_	_
+19	du	du	pron	pron	_	18	SUBJ	_	_
+20	og	og	konj	konj	_	24	KONJ	_	_
+21	##	##	pause	pause	_	23	IK	_	_
+22	e	e	nol	nol	_	23	FYLL	_	_
+23	vi	vi	pron	pron	_	24	SUBJ	_	_
+24	husker	huske	verb	verb	_	5	KOORD	_	_
+25	jo	jo	adv	adv	_	24	ADV	_	_
+26	sjølsagt	sjølsagt	adj	adj	_	24	ADV	_	_
+27	Hjallisen	hjallisen	subst	subst	_	24	DOBJ	_	_
+28	og	og	konj	konj	_	29	KONJ	_	_
+29	Kuppern	Kuppern	subst	subst	_	27	KOORD	_	_
+30	veit	vite	verb	verb	_	24	PAR	_	_
+31	du	du	pron	pron	_	30	SUBJ	_	_
+32	og	og	konj	konj	_	24	KONJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 222
+# segstart = 1130.836
+# segstop = 1134.246
+# speaker = boemlo_03gm
+# text = alle framover hele veien ikke sant
+1	alle	alle	det	det	_	0	FRAG	_	_
+2	framover	framover	prep	prep	_	1	ADV	_	_
+3	hele	hel	adj	adj	_	4	ATR	_	_
+4	veien	vei	subst	subst	_	1	ADV	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	sant	sann	adj	adj	_	1	PAR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 223
+# segstart = 1134.246
+# segstop = 1139.445
+# speaker = sl
+# text = men jeg må jo innrømme at det er kanskje ikke den mest liksom actionfylte # sportsgrenen
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	må	må	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	5	ADV	_	_
+5	innrømme	innrømme	verb	verb	_	3	INFV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	5	DOBJ	_	_
+9	kanskje	kanskje	adv	adv	_	8	ADV	_	_
+10	ikke	ikke	adv	adv	_	8	ADV	_	_
+11	den	den	det	det	_	16	DET	_	_
+12	mest	mye	adj	adj	_	14	ADV	_	_
+13	liksom	liksom	adv	adv	_	16	ADV	_	_
+14	actionfylte	actionfylt	adj	adj	_	16	ATR	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	sportsgrenen	sportsgren	subst	subst	_	8	SPRED	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 224
+# segstart = 1139.445
+# segstop = 1146.698
+# speaker = boemlo_03gm
+# text = nei det har vært lite fornying i e i skøytesporten men nå er de begynt litt med dette her med # par ikke sant at de går e
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	vært	være	verb	verb	_	3	INFV	_	_
+5	lite	liten	adj	adj	_	6	ATR	_	_
+6	fornying	fornying	subst	subst	_	4	SPRED	_	_
+7	i	i	prep	prep	_	9	REP	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	i	i	prep	prep	_	4	ADV	_	_
+10	skøytesporten	skøytesport	subst	subst	_	9	PUTFYLL	_	_
+11	men	men	konj	konj	_	13	KONJ	_	_
+12	nå	nå	adv	adv	_	13	ADV	_	_
+13	er	være	verb	verb	_	3	KOORD	_	_
+14	de	de	pron	pron	_	13	SUBJ	_	_
+15	begynt	begynne	verb	verb	_	13	INFV	_	_
+16	litt	litt	adj	adj	_	15	ADV	_	_
+17	med	med	prep	prep	_	15	ADV	_	_
+18	dette	dette	pron	pron	_	17	PUTFYLL	_	_
+19	her	her	prep	prep	_	18	ADV	_	_
+20	med	med	prep	prep	_	15	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	par	par	subst	subst	_	20	PUTFYLL	_	_
+23	ikke	ikke	adv	adv	_	24	ADV	_	_
+24	sant	sann	adj	adj	_	15	PAR	_	_
+25	at	at	sbu	sbu	_	27	SBU	_	_
+26	de	de	pron	pron	_	27	SUBJ	_	_
+27	går	gå	verb	verb	_	15	ADV	_	_
+28	e	e	nol	nol	_	27	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 225
+# segstart = 1146.698
+# segstop = 1152.779
+# speaker = boemlo_03gm
+# text = tre i lag og # e i verdenscupen så # har de sånn lagtempo
+1	tre	tre	det	det	_	0	FRAG	_	_
+2	i	i	prep	prep	_	1	ADV	_	_
+3	lag	lag	subst	subst	_	2	PUTFYLL	_	_
+4	og	og	konj	konj	_	11	KONJ	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	i	i	prep	prep	_	9	APP	_	_
+8	verdenscupen	verdenscup	subst	subst	_	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	har	ha	verb	verb	_	1	KOORD	_	_
+12	de	de	pron	pron	_	11	SUBJ	_	_
+13	sånn	sånn	det	det	_	14	DET	_	_
+14	lagtempo	lagtempo	subst	subst	_	11	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 226
+# segstart = 1152.779
+# segstop = 1157.606
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 227
+# segstart = 1153.519
+# segstop = 1154.215
+# speaker = boemlo_03gm
+# text = ikke sant
+1	ikke	ikke	adv	adv	_	2	ADV	_	_
+2	sant	sann	adj	adj	_	0	FRAG	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 228
+# segstart = 1154.215
+# segstop = 1157.606
+# speaker = sl
+# text = litt sånn som på sykkel ja
+1	litt	litt	adj	adj	_	2	ADV	_	_
+2	sånn	sånn	adv	adv	_	0	FRAG	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	sykkel	sykkel	subst	subst	_	4	PUTFYLL	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 229
+# segstart = 1154.215
+# segstop = 1157.606
+# speaker = boemlo_03gm
+# text = * ja ja *
+1	*	*	pause	pause	_	0	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	*	*	pause	pause	_	1	IP	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 230
+# segstart = 1157.606
+# segstop = 1159.651
+# speaker = boemlo_03gm
+# text = det ligner jo faktisk på sånn som de hadde på velodrom ja
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	ligner	ligne	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	faktisk	faktisk	adj	adj	_	2	ADV	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	sånn	sånn	adv	adv	_	9	ADV	_	_
+7	som	som	sbu	sbu	_	9	SBU	_	_
+8	de	de	pron	pron	_	9	SUBJ	_	_
+9	hadde	ha	verb	verb	_	5	PUTFYLL	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	velodrom	velodrom	subst	subst	_	10	PUTFYLL	_	_
+12	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 231
+# segstart = 1159.651
+# segstop = 1160.796
+# speaker = sl
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 232
+# segstart = 1159.651
+# segstop = 1160.796
+# speaker = boemlo_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 233
+# segstart = 1160.796
+# segstop = 1162.959
+# speaker = boemlo_03gm
+# text = starta et lag på ei side og så går de
+1	starta	starte	verb	verb	_	0	FINV	_	_
+2	et	et	det	det	_	3	DET	_	_
+3	lag	lag	subst	subst	_	1	DOBJ	_	_
+4	på	på	prep	prep	_	1	ADV	_	_
+5	ei	ei	det	det	_	6	DET	_	_
+6	side	side	subst	subst	_	4	PUTFYLL	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	går	gå	verb	verb	_	1	KOORD	_	_
+10	de	de	pron	pron	_	9	SUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 234
+# segstart = 1160.796
+# segstop = 1162.959
+# speaker = sl
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 235
+# segstart = 1162.959
+# segstop = 1163.317
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# Usikker på denne.
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 236
+# segstart = 1163.317
+# segstop = 1165.786
+# speaker = sl
+# text = og så er det å bytte det på og dra på en måte ja
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	å	å	inf-merke	inf-merke	_	3	SPRED	_	_
+6	bytte	bytte	verb	verb	_	5	INFV	_	_
+7	det	det	pron	pron	_	8	PUTFYLL	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	dra	dra	verb	verb	_	6	KOORD	_	_
+11	på	på	prep	prep	_	3	ADV	_	_
+12	en	en	det	det	_	13	DET	_	_
+13	måte	måte	subst	subst	_	11	PUTFYLL	_	_
+14	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 238
+# segstart = 1165.786
+# segstop = 1173.309
+# speaker = boemlo_03gm
+# text = for eksempel ikke sant så så det er litt kjekkere i dag med en del sånne ting og # og de har jo da sjølsagt e sprint ikke sant
+1	for	for	prep	prep	_	6	APP	_	_
+2	eksempel	eksempel	subst	subst	_	1	PUTFYLL	_	_
+3	ikke	ikke	adv	adv	_	4	ADV	_	_
+4	sant	sann	adj	adj	_	8	PAR	_	_
+5	så	så	adv	adv	_	6	REP	_	_
+6	så	så	adv	adv	_	8	KONJ	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	litt	litt	adj	adj	_	10	ADV	_	_
+10	kjekkere	kjekk	adj	adj	_	8	SPRED	_	_
+11	i	i	prep	prep	_	8	ADV	_	_
+12	dag	dag	subst	subst	_	11	PUTFYLL	_	_
+13	med	med	prep	prep	_	8	ADV	_	_
+14	en	en	det	det	_	15	DET	_	_
+15	del	del	subst	subst	_	17	DET	_	_
+16	sånne	sånn	det	det	_	17	DET	_	_
+17	ting	ting	subst	subst	_	13	PUTFYLL	_	_
+18	og	og	konj	konj	_	20	REP	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	de	de	pron	pron	_	22	SUBJ	_	_
+22	har	ha	verb	verb	_	8	KOORD	_	_
+23	jo	jo	adv	adv	_	22	ADV	_	_
+24	da	da	adv	adv	_	22	ADV	_	_
+25	sjølsagt	sjølsagt	adj	adj	_	22	ADV	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	sprint	sprint	subst	subst	_	22	DOBJ	_	_
+28	ikke	ikke	adv	adv	_	29	ADV	_	_
+29	sant	sann	adj	adj	_	22	PAR	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 239
+# segstart = 1173.309
+# segstop = 1181.22
+# speaker = boemlo_03gm
+# text = da er det på en annen måte og gjort litt mer stas på dem # i gamle dager så var det jo bare ti tusen som var stort veit du og fem tusen
+1	da	da	adv	adv	_	2	ADV	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	SUBJ	_	_
+4	på	på	prep	prep	_	2	SPRED	_	_
+5	en	en	det	det	_	7	DET	_	_
+6	annen	annen	det	det	_	7	DET	_	_
+7	måte	måte	subst	subst	_	4	PUTFYLL	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	gjort	gjøre	verb	verb	_	2	KOORD	_	_
+10	litt	litt	adj	adj	_	11	ADV	_	_
+11	mer	mye	adj	adj	_	12	ATR	_	_
+12	stas	stas	subst	subst	_	9	DOBJ	_	_
+13	på	på	prep	prep	_	12	ATR	_	_
+14	dem	dem	pron	pron	_	13	PUTFYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	i	i	prep	prep	_	19	APP	_	_
+17	gamle	gammel	adj	adj	_	18	ATR	_	_
+18	dager	dag	subst	subst	_	16	PUTFYLL	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	var	være	verb	verb	_	2	KOORD	_	_
+21	det	det	pron	pron	_	20	FSUBJ	_	_
+22	jo	jo	adv	adv	_	20	ADV	_	_
+23	bare	bare	adv	adv	_	20	ADV	_	_
+24	ti	ti	det	det	_	25	DET	_	_
+25	tusen	tusen	subst	subst	_	20	SPRED	_	_
+26	som	som	sbu	sbu	_	27	SBU	_	_
+27	var	være	verb	verb	_	25	ATR	_	_
+28	stort	stor	adj	adj	_	27	SPRED	_	_
+29	veit	vite	verb	verb	_	20	PAR	_	_
+30	du	du	pron	pron	_	29	SUBJ	_	_
+31	og	og	konj	konj	_	25	KONJ	_	_
+32	fem	fem	det	det	_	33	DET	_	_
+33	tusen	tusen	det	det	_	31	KOORD	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 240
+# segstart = 1181.22
+# segstop = 1189.4
+# speaker = boemlo_03gm
+# text = men de går jo hundre meter òg i dag trur jeg så de har begynt å fornye litt så # er litt e litt e mer for flere da
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	går	gå	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	hundre	hundre	det	det	_	6	DET	_	_
+6	meter	meter	subst	subst	_	3	DOBJ	_	_
+7	òg	òg	adv	adv	_	3	ADV	_	_
+8	i	i	prep	prep	_	3	ADV	_	_
+9	dag	dag	subst	subst	_	8	PUTFYLL	_	_
+10	trur	tru	verb	verb	_	3	PAR	_	_
+11	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+12	så	så	konj	konj	_	14	KONJ	_	_
+13	de	de	pron	pron	_	14	SUBJ	_	_
+14	har	ha	verb	verb	_	3	KOORD	_	_
+15	begynt	begynne	verb	verb	_	14	INFV	_	_
+16	å	å	inf-merke	inf-merke	_	15	DOBJ	_	_
+17	fornye	fornye	verb	verb	_	16	INFV	_	_
+18	litt	litt	adj	adj	_	17	ADV	_	_
+19	så	så	adv	adv	_	21	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	er	være	verb	verb	_	3	KOORD	_	_
+22	litt	litt	adj	adj	_	24	REP	_	_
+23	e	e	nol	nol	_	24	FYLL	_	_
+24	litt	litt	adj	adj	_	26	ADV	_	_
+25	e	e	nol	nol	_	26	FYLL	_	_
+26	mer	mye	adj	adj	_	21	SPRED	_	_
+27	for	for	prep	prep	_	21	ADV	_	_
+28	flere	mange	adj	adj	_	27	PUTFYLL	_	_
+29	da	da	adv	adv	_	21	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 241
+# segstart = 1189.4
+# segstop = 1200.608
+# speaker = sl
+# text = så hjelper det jo selvfølgelig å ha- at Norge har de # største stjernene # sånn som det var # da du var ung mere da
+1	så	så	adv	adv	_	2	ADV	_	_
+2	hjelper	hjelpe	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	selvfølgelig	selvfølgelig	adj	adj	_	2	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	2	REP	_	_
+7	ha-	ha-	ufullst	ufullst	_	6	FYLL	_	_
+8	at	at	sbu	sbu	_	10	SBU	_	_
+9	Norge	Norge	subst	subst	_	10	SUBJ	_	_
+10	har	ha	verb	verb	_	2	PSUBJ	_	_
+11	de	de	pron	pron	_	14	DET	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	største	størst	adj	adj	_	14	ATR	_	_
+14	stjernene	stjerne	subst	subst	_	10	DOBJ	_	_
+15	#	#	pause	pause	_	14	IK	_	_
+16	sånn	sånn	adv	adv	_	2	ADV	_	_
+17	som	som	sbu	sbu	_	19	SBU	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	var	være	verb	verb	_	16	APP	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	da	da	adv	adv	_	23	SBU	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	var	være	verb	verb	_	19	ADV	_	_
+24	ung	ung	adj	adj	_	23	SPRED	_	_
+25	mere	mere	adj	adj	_	23	ADV	_	_
+26	da	da	adv	adv	_	23	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 242
+# segstart = 1189.4
+# segstop = 1196.869
+# speaker = boemlo_03gm
+# text = * ja ja * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	*	*	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	2	INTERJ	_	_
+6	*	*	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 243
+# segstart = 1196.869
+# segstop = 1200.608
+# speaker = sl
+# text = faren min òg er jo s- skøytesport er kjempestort for han liksom så
+1	faren	far	subst	subst	_	4	SUBJ	_	_
+2	min	min	det	det	_	1	DET	_	_
+3	òg	òg	adv	adv	_	4	ADV	_	_
+4	er	være	verb	verb	_	8	REP	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	s-	s-	ufullst	ufullst	_	7	FYLL	_	_
+7	skøytesport	skøytesport	subst	subst	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	kjempestort	kjempestor	adj	adj	_	8	SPRED	_	_
+10	for	for	prep	prep	_	8	ADV	_	_
+11	han	han	pron	pron	_	10	PUTFYLL	_	_
+12	liksom	liksom	adv	adv	_	8	ADV	_	_
+13	så	så	adv	adv	_	8	ADV	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 244
+# segstart = 1196.869
+# segstop = 1200.608
+# speaker = boemlo_03gm
+# text = * m
+1	*	*	pause	pause	_	2	IK	_	_
+2	m	m	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 245
+# segstart = 1200.608
+# segstop = 1208.216
+# speaker = boemlo_03gm
+# text = ingenting som kan erstatte e skøytesport for meg # sjøl om jeg ser på fotball og håndball og # e
+1	ingenting	ingenting	pron	pron	_	0	FRAG	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	kan	kan	verb	verb	_	1	ATR	_	_
+4	erstatte	erstatte	verb	verb	_	3	INFV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	skøytesport	skøytesport	subst	subst	_	4	DOBJ	_	_
+7	for	for	prep	prep	_	4	ADV	_	_
+8	meg	meg	pron	pron	_	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	sjøl	sjøl	adv	adv	_	13	ADV	_	_
+11	om	om	sbu	sbu	_	13	SBU	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	ser	se	verb	verb	_	1	KOORD	_	_
+14	på	på	prep	prep	_	13	ADV	_	_
+15	fotball	fotball	subst	subst	_	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	håndball	håndball	subst	subst	_	15	KOORD	_	_
+18	og	og	konj	konj	_	13	KONJ	_	_
+19	#	#	pause	pause	_	18	IK	_	_
+20	e	e	nol	nol	_	19	FYLL	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 246
+# segstart = 1208.216
+# segstop = 1217.72
+# speaker = boemlo_03gm
+# text = det meste som fins kan du si og Tour de France og # heile pakken så så # skøytesport det # går med en gang #
+1	det	det	det	det	_	2	DET	_	_
+2	meste	mye	adj	adj	_	0	SUBJ	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	fins	finnes	verb	verb	_	2	ATR	_	_
+5	kan	kan	verb	verb	_	2	PAR	_	_
+6	du	du	pron	pron	_	5	SUBJ	_	_
+7	si	si	verb	verb	_	5	INFV	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	Tour	Tour	subst	subst	_	2	KOORD	_	_
+10	de	de	subst	subst	_	9	FLAT	_	_
+11	France	france	subst	subst	_	9	FLAT	_	_
+12	og	og	konj	konj	_	15	KONJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	heile	heil	adj	adj	_	15	ATR	_	_
+15	pakken	pakke	subst	subst	_	2	KOORD	_	_
+16	så	så	adv	adv	_	17	REP	_	_
+17	så	så	adv	adv	_	22	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	skøytesport	skøytesport	subst	subst	_	20	APP	_	_
+20	det	det	pron	pron	_	22	SUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	går	gå	verb	verb	_	2	ADV	_	_
+23	med	med	prep	prep	_	22	ADV	_	_
+24	en	en	det	det	_	25	DET	_	_
+25	gang	gang	subst	subst	_	23	PUTFYLL	_	_
+26	#	#	pause	pause	_	25	IK	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 247
+# segstart = 1217.72
+# segstop = 1219.938
+# speaker = boemlo_03gm
+# text = til og med på Vestlandet der vi hadde mye regn
+1	til	til	prep	prep	_	4	ADV	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	med	med	prep	prep	_	1	KOORD	_	_
+4	på	på	prep	prep	_	0	FRAG	_	_
+5	Vestlandet	Vestlandet	subst	subst	_	4	PUTFYLL	_	_
+6	der	der	prep	prep	_	8	ADV	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	hadde	ha	verb	verb	_	5	ATR	_	_
+9	mye	mye	adj	adj	_	10	ATR	_	_
+10	regn	regn	subst	subst	_	8	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 248
+# segstart = 1219.938
+# segstop = 1226.997
+# speaker = sl
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 249
+# segstart = 1220.5
+# segstop = 1221.726
+# speaker = boemlo_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 250
+# segstart = 1221.726
+# segstop = 1226.997
+# speaker = sl
+# text = men du jeg tror vi skal gi oss nå for nå har det gått tjue minutter # så da tror jeg det # holder
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	du	du	pron	pron	_	4	INTERJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	tror	tro	verb	verb	_	0	FINV	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	skal	skal	verb	verb	_	4	DOBJ	_	_
+7	gi	gi	verb	verb	_	6	INFV	_	_
+8	oss	oss	pron	pron	_	7	DOBJ	_	_
+9	nå	nå	adv	adv	_	7	ADV	_	_
+10	for	for	konj	konj	_	12	KONJ	_	_
+11	nå	nå	adv	adv	_	12	ADV	_	_
+12	har	ha	verb	verb	_	4	KOORD	_	_
+13	det	det	pron	pron	_	12	FSUBJ	_	_
+14	gått	gå	verb	verb	_	12	INFV	_	_
+15	tjue	tjue	det	det	_	16	DET	_	_
+16	minutter	minutt	subst	subst	_	14	DOBJ	_	_
+17	#	#	pause	pause	_	16	IK	_	_
+18	så	så	adv	adv	_	20	ADV	_	_
+19	da	da	adv	adv	_	20	ADV	_	_
+20	tror	tro	verb	verb	_	4	KOORD	_	_
+21	jeg	jeg	pron	pron	_	20	SUBJ	_	_
+22	det	det	pron	pron	_	24	FSUBJ	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	holder	holde	verb	verb	_	20	DOBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 252
+# segstart = 1226.997
+# segstop = 1227.831
+# speaker = boemlo_03gm
+# text = ja avspora deg helt jeg
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	avspora	avspore	verb	verb	_	0	FINV	_	_
+3	deg	deg	pron	pron	_	2	DOBJ	_	_
+4	helt	hele	adj	adj	_	2	ADV	_	_
+5	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+
+# annotator = VDT
+# file = boemlo_03gm-sl
+# id = 253
+# segstart = 1226.997
+# segstop = 1227.831
+# speaker = sl
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+

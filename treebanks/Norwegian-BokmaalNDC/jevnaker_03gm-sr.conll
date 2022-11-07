@@ -1,0 +1,4311 @@
+# SR: OK å sette PAR her?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 1
+# segstart = 16.002
+# segstop = 21.392
+# speaker = sr
+# text = første spørsmålet er # jeg vet ikke om du har fortalt det allerede men hvor er du født og oppvokst ?
+1	første	første	adj	adj	_	2	ATR	_	_
+2	spørsmålet	spørsmål	subst	subst	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	vet	vite	verb	verb	_	3	PAR	_	_
+7	ikke	ikke	adv	adv	_	6	ADV	_	_
+8	om	om	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	har	ha	verb	verb	_	6	DOBJ	_	_
+11	fortalt	fortelle	verb	verb	_	10	INFV	_	_
+12	det	det	pron	pron	_	11	DOBJ	_	_
+13	allerede	allerede	adv	adv	_	11	ADV	_	_
+14	men	men	konj	konj	_	11	KONJ	_	_
+15	hvor	hvor	adv	adv	_	18	ADV	_	_
+16	er	være	verb	verb	_	3	SPRED	_	_
+17	du	du	pron	pron	_	16	SUBJ	_	_
+18	født	føde	verb	verb	_	16	INFV	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	oppvokst	oppvokse	verb	verb	_	18	KOORD	_	_
+21	?	?	clb	clb	_	3	IP	_	_
+
+# SR: 'to og tyvende' OK slik?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 2
+# segstart = 21.392
+# segstop = 33.162
+# speaker = jevnaker_03gm
+# text = jeg ## er født i to og tyvende oktober # i nittenfireogtretti # på Brattvold gård # der har jeg levd hele mitt liv
+1	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	født	føde	verb	verb	_	3	INFV	_	_
+5	i	i	prep	prep	_	6	REP	_	_
+6	to	to	det	det	_	9	ATR	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	tyvende	tyvende	adj	adj	_	6	KOORD	_	_
+9	oktober	oktober	subst	subst	_	4	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	i	i	prep	prep	_	9	ATR	_	_
+12	nittenfireogtretti	nittenfireogtretti	det	det	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	på	på	prep	prep	_	4	ADV	_	_
+15	Brattvold	Brattvold	subst	subst	_	14	PUTFYLL	_	_
+16	gård	gård	subst	subst	_	15	FLAT	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	der	der	prep	prep	_	21	ADV	_	_
+19	har	ha	verb	verb	_	3	KOORD	_	_
+20	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+21	levd	leve	verb	verb	_	19	INFV	_	_
+22	hele	hel	adj	adj	_	24	ATR	_	_
+23	mitt	mitt	det	det	_	24	DET	_	_
+24	liv	liv	subst	subst	_	21	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 3
+# segstart = 33.162
+# segstop = 35.358
+# speaker = sr
+# text = ja ## er det langt ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SUBJ	_	_
+5	langt	lang	adj	adj	_	3	SPRED	_	_
+6	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 4
+# segstart = 33.162
+# segstop = 35.358
+# speaker = jevnaker_03gm
+# text = som …
+1	som	som	sbu	sbu	_	0	FRAG	_	_
+2	…	…	pause	pause	_	1	FYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 5
+# segstart = 35.358
+# segstop = 35.716
+# speaker = jevnaker_03gm
+# text = hm ?
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+2	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 6
+# segstart = 35.716
+# segstop = 37.028
+# speaker = sr
+# text = er det langt herfra eller ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	SUBJ	_	_
+3	langt	lang	adj	adj	_	1	SPRED	_	_
+4	herfra	herfra	prep	prep	_	3	ADV	_	_
+5	eller	eller	konj	konj	_	1	KONJ	_	_
+6	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 7
+# segstart = 37.028
+# segstop = 41.154
+# speaker = jevnaker_03gm
+# text = fem kilometer fra senteret # ja
+1	fem	fem	det	det	_	2	DET	_	_
+2	kilometer	kilometer	subst	subst	_	0	FRAG	_	_
+3	fra	fra	prep	prep	_	2	ATR	_	_
+4	senteret	senter	subst	subst	_	3	PUTFYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 8
+# segstart = 41.154
+# segstop = 45.16
+# speaker = sr
+# text = hvordan var det å vokse opp der da ? # eller
+1	hvordan	hvordan	adv	adv	_	2	SPRED	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	å	å	inf-merke	inf-merke	_	2	PSUBJ	_	_
+5	vokse	vokse	verb	verb	_	4	INFV	_	_
+6	opp	opp	prep	prep	_	5	ADV	_	_
+7	der	der	prep	prep	_	5	ADV	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	?	?	clb	clb	_	2	IP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	eller	eller	konj	konj	_	2	KONJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 9
+# segstart = 45.16
+# segstop = 53.22
+# speaker = jevnaker_03gm
+# text = ja jeg husker jo e litt i f- e ## fra de første barneåra det nå er det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	husker	huske	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	litt	litt	adj	adj	_	3	DOBJ	_	_
+7	i	i	prep	prep	_	11	REP	_	_
+8	f-	f-	ufullst	ufullst	_	11	FYLL	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	fra	fra	prep	prep	_	6	ADV	_	_
+12	de	de	det	det	_	14	DET	_	_
+13	første	første	adj	adj	_	14	ATR	_	_
+14	barneåra	barneår	subst	subst	_	11	PUTFYLL	_	_
+15	det	det	pron	pron	_	17	SUBJ	_	_
+16	nå	nå	adv	adv	_	17	ADV	_	_
+17	er	være	verb	verb	_	3	KOORD	_	_
+18	det	det	pron	pron	_	17	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 10
+# segstart = 53.22
+# segstop = 61.4
+# speaker = jevnaker_03gm
+# text = det jeg husker først det var e at jeg beit fatteren i armen når han lå og hvilte # så da # dunka han til meg så jeg datt på golvet
+1	det	det	pron	pron	_	5	APP	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	husker	huske	verb	verb	_	1	ATR	_	_
+4	først	først	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	at	at	sbu	sbu	_	10	SBU	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	beit	bite	verb	verb	_	6	SPRED	_	_
+11	fatteren	fatter	verb	verb	_	10	DOBJ	_	_
+12	i	i	prep	prep	_	10	ADV	_	_
+13	armen	arm	subst	subst	_	12	PUTFYLL	_	_
+14	når	når	sbu	sbu	_	16	SBU	_	_
+15	han	han	pron	pron	_	16	SUBJ	_	_
+16	lå	ligge	verb	verb	_	10	ADV	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	hvilte	hvilte	verb	verb	_	16	KOORD	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	så	så	konj	konj	_	23	KONJ	_	_
+21	da	da	adv	adv	_	23	ADV	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	dunka	dunke	verb	verb	_	6	KOORD	_	_
+24	han	han	pron	pron	_	23	SUBJ	_	_
+25	til	til	prep	prep	_	23	ADV	_	_
+26	meg	meg	pron	pron	_	25	PUTFYLL	_	_
+27	så	så	sbu	sbu	_	29	SBU	_	_
+28	jeg	jeg	pron	pron	_	29	SUBJ	_	_
+29	datt	dette	verb	verb	_	23	ADV	_	_
+30	på	på	prep	prep	_	29	ADV	_	_
+31	golvet	golv	subst	subst	_	30	PUTFYLL	_	_
+
+# file = jevnaker_03gm-sr
+# id = 11
+# segstart = 61.4
+# segstop = 61.822
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 12
+# segstart = 61.822
+# segstop = 68.84
+# speaker = jevnaker_03gm
+# text = ja # men så kom gikk det jo veldig fort til e # nittenførti # og krigsutbruddet det husker jeg
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	6	KONJ	_	_
+4	så	så	adv	adv	_	6	ADV	_	_
+5	kom	komme	verb	verb	_	6	REP	_	_
+6	gikk	gå	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	jo	jo	adv	adv	_	6	ADV	_	_
+9	veldig	veldig	adj	adj	_	10	ADV	_	_
+10	fort	fort	adj	adj	_	6	ADV	_	_
+11	til	til	prep	prep	_	6	ADV	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	nittenførti	nittenførti	det	det	_	11	PUTFYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	og	og	konj	konj	_	19	KONJ	_	_
+17	krigsutbruddet	krigsutbrudd	subst	subst	_	18	APP	_	_
+18	det	det	pron	pron	_	19	DOBJ	_	_
+19	husker	huske	verb	verb	_	6	KOORD	_	_
+20	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 13
+# segstart = 68.84
+# segstop = 69.222
+# speaker = sr
+# text = hm
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 14
+# segstart = 69.222
+# segstop = 70.438
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 15
+# segstart = 70.438
+# segstop = 71.106
+# speaker = sr
+# text = da var du
+1	da	da	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+
+# SR: Er denne PAR'en ok?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 17
+# segstart = 71.106
+# segstop = 82.505
+# speaker = jevnaker_03gm
+# text = og da måtte vi flytta e evakuerte vi sa de da # til et e en nedlagt husmannsplass # som vi var noen få dager mens krigshandlingene hann- gikk gjennom Jevnaker
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	måtte	måtte	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	flytta	flytte	verb	verb	_	3	INFV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	evakuerte	evakuere	verb	verb	_	9	DOBJ	_	_
+8	vi	vi	pron	pron	_	7	SUBJ	_	_
+9	sa	si	verb	verb	_	3	PAR	_	_
+10	de	de	pron	pron	_	9	SUBJ	_	_
+11	da	da	adv	adv	_	9	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	til	til	prep	prep	_	5	ADV	_	_
+14	et	et	det	det	_	18	REP	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	en	en	det	det	_	18	DET	_	_
+17	nedlagt	nedlagt	adj	adj	_	18	ATR	_	_
+18	husmannsplass	husmannsplass	subst	subst	_	13	PUTFYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	som	som	sbu	sbu	_	22	SBU	_	_
+21	vi	vi	pron	pron	_	22	SUBJ	_	_
+22	var	være	verb	verb	_	18	ATR	_	_
+23	noen	noen	det	det	_	25	DET	_	_
+24	få	få	adj	adj	_	25	ATR	_	_
+25	dager	dag	subst	subst	_	22	ADV	_	_
+26	mens	mens	sbu	sbu	_	29	SBU	_	_
+27	krigshandlingene	krigshandling	subst	subst	_	29	SUBJ	_	_
+28	hann-	hann-	ufullst	ufullst	_	29	FYLL	_	_
+29	gikk	gå	verb	verb	_	22	ADV	_	_
+30	gjennom	gjennom	prep	prep	_	29	ADV	_	_
+31	Jevnaker	jevnake	subst	subst	_	30	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 18
+# segstart = 82.505
+# segstop = 88.443
+# speaker = jevnaker_03gm
+# text = ja # og det erindrer jeg ved det var jo i # april med mye snø
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	DOBJ	_	_
+5	erindrer	erindre	verb	verb	_	0	FINV	_	_
+6	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+7	ved	ved	prep	prep	_	5	ADV	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	var	være	verb	verb	_	7	PUTFYLL	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	i	i	prep	prep	_	9	SPRED	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	april	april	subst	subst	_	11	PUTFYLL	_	_
+14	med	med	prep	prep	_	13	ATR	_	_
+15	mye	mye	adj	adj	_	16	ATR	_	_
+16	snø	snø	subst	subst	_	14	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 19
+# segstart = 88.443
+# segstop = 88.848
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 20
+# segstart = 88.848
+# segstop = 90.661
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 21
+# segstart = 90.661
+# segstop = 94.429
+# speaker = sr
+# text = du var fem år eller ?
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	fem	fem	det	det	_	4	DET	_	_
+4	år	år	subst	subst	_	2	SPRED	_	_
+5	eller	eller	konj	konj	_	2	KONJ	_	_
+6	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 22
+# segstart = 94.429
+# segstop = 97.028
+# speaker = jevnaker_03gm
+# text = seks måtte det bli fra fireogtretti til førti
+1	seks	seks	det	det	_	4	SPRED	_	_
+2	måtte	måtte	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	bli	bli	verb	verb	_	2	INFV	_	_
+5	fra	fra	prep	prep	_	4	ADV	_	_
+6	fireogtretti	fireogtretti	det	det	_	5	PUTFYLL	_	_
+7	til	til	prep	prep	_	6	ADV	_	_
+8	førti	førti	det	det	_	7	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 23
+# segstart = 97.028
+# segstop = 97.419
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 24
+# segstart = 97.419
+# segstop = 100.582
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 25
+# segstart = 100.582
+# segstop = 108.905
+# speaker = sr
+# text = mm ## ja her står det hva er det første du husker fra barndommen ? # men det # det var vel kanskje det første ?
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	5	INTERJ	_	_
+4	her	her	prep	prep	_	5	ADV	_	_
+5	står	stå	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	hva	hva	pron	pron	_	8	SPRED	_	_
+8	er	være	verb	verb	_	5	SPRED	_	_
+9	det	det	det	det	_	10	DET	_	_
+10	første	første	adj	adj	_	8	SUBJ	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	husker	huske	verb	verb	_	10	ATR	_	_
+13	fra	fra	prep	prep	_	12	ADV	_	_
+14	barndommen	barndom	subst	subst	_	13	PUTFYLL	_	_
+15	?	?	clb	clb	_	5	IP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	men	men	konj	konj	_	21	KONJ	_	_
+18	det	det	pron	pron	_	20	REP	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	5	KOORD	_	_
+22	vel	vel	adv	adv	_	21	ADV	_	_
+23	kanskje	kanskje	adv	adv	_	21	ADV	_	_
+24	det	det	det	det	_	25	DET	_	_
+25	første	første	adj	adj	_	21	SPRED	_	_
+26	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 26
+# segstart = 100.582
+# segstop = 108.905
+# speaker = jevnaker_03gm
+# text = * det første jeg …
+1	*	*	pause	pause	_	2	IK	_	_
+2	det	det	det	det	_	3	DET	_	_
+3	første	første	adj	adj	_	0	FRAG	_	_
+4	jeg	jeg	pron	pron	_	3	ATR	_	_
+5	…	…	pause	pause	_	4	IK	_	_
+
+# SR: Leddsetning har avvikende ordstilling. Likevel ok med denne strukturen?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 27
+# segstart = 108.905
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = ja det først- ja # jeg vet ikke om jeg har ikke noe barndomsminner
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	det	det	pron	pron	_	4	REP	_	_
+3	først-	først-	ufullst	ufullst	_	4	FYLL	_	_
+4	ja	ja	interj	interj	_	11	SLETT	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	vet	vite	verb	verb	_	11	SLETT	_	_
+8	ikke	ikke	adv	adv	_	7	ADV	_	_
+9	om	om	sbu	sbu	_	7	DOBJ	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	0	FINV	_	_
+12	ikke	ikke	adv	adv	_	11	ADV	_	_
+13	noe	noe	det	det	_	12	DET	_	_
+14	barndomsminner	barndomsminne	subst	subst	_	11	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 28
+# segstart = 114.032
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = ja selvfølgelig vi e vi var jo med # ut til Spydeberg e til han bestefar der han levde den gangen
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	selvfølgelig	selvfølgelig	adv	adv	_	1	ADV	_	_
+3	vi	vi	pron	pron	_	5	REP	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	med	med	prep	prep	_	6	SPRED	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ut	ut	prep	prep	_	8	PUTFYLL	_	_
+11	til	til	prep	prep	_	10	PUTFYLL	_	_
+12	Spydeberg	Spydeberg	subst	subst	_	11	PUTFYLL	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	til	til	prep	prep	_	12	APP	_	_
+15	han	han	pron	pron	_	16	DET	_	_
+16	bestefar	bestefar	subst	subst	_	14	PUTFYLL	_	_
+17	der	der	sbu	sbu	_	19	SBU	_	_
+18	han	han	pron	pron	_	19	SUBJ	_	_
+19	levde	leve	verb	verb	_	12	ATR	_	_
+20	den	den	det	det	_	21	DET	_	_
+21	gangen	gange	subst	subst	_	19	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 29
+# segstart = 121.735
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = det husker jeg erindrer noen e # noen få turer dit vi kjørte buss og tog og # til Østbanen og skifta tog dit og videre utover Østfold
+1	det	det	pron	pron	_	2	DOBJ	_	_
+2	husker	huske	verb	verb	_	4	REP	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	erindrer	erindre	verb	verb	_	0	FINV	_	_
+5	noen	noen	pron	pron	_	8	REP	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	noen	noen	det	det	_	10	DET	_	_
+9	få	få	adj	adj	_	10	ATR	_	_
+10	turer	tur	subst	subst	_	4	DOBJ	_	_
+11	dit	dit	prep	prep	_	10	ATR	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	kjørte	kjøre	verb	verb	_	4	ADV	_	_
+14	buss	buss	subst	subst	_	13	DOBJ	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	tog	tog	subst	subst	_	14	KOORD	_	_
+17	og	og	konj	konj	_	19	REP	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	til	til	prep	prep	_	13	ADV	_	_
+20	Østbanen	Østbanen	subst	subst	_	19	PUTFYLL	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	skifta	skifte	verb	verb	_	13	KOORD	_	_
+23	tog	tog	subst	subst	_	22	DOBJ	_	_
+24	dit	dit	prep	prep	_	22	ADV	_	_
+25	og	og	konj	konj	_	27	KONJ	_	_
+26	videre	videre	adv	adv	_	27	ADV	_	_
+27	utover	utover	prep	prep	_	24	KOORD	_	_
+28	Østfold	Østfold	subst	subst	_	27	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 30
+# segstart = 133.826
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = og så kjørte vi drosje da # de siste meterne # og det var jo noe stort e # før i krigen var en kvinnelig drosjesjåfør til og med
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	kjørte	kjøre	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	drosje	drosje	subst	subst	_	3	DOBJ	_	_
+6	da	da	adv	adv	_	3	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	de	de	det	det	_	10	DET	_	_
+9	siste	sist	adj	adj	_	10	ATR	_	_
+10	meterne	meter	subst	subst	_	3	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	det	det	pron	pron	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	3	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	noe	noen	det	det	_	17	DET	_	_
+17	stort	stor	adj	adj	_	14	SPRED	_	_
+18	e	e	nol	nol	_	20	FYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	før	før	prep	prep	_	21	APP	_	_
+21	i	i	prep	prep	_	23	ADV	_	_
+22	krigen	krig	subst	subst	_	21	PUTFYLL	_	_
+23	var	være	verb	verb	_	3	KOORD	_	_
+24	en	en	pron	pron	_	23	SUBJ	_	_
+25	kvinnelig	kvinnelig	adj	adj	_	26	ATR	_	_
+26	drosjesjåfør	drosjesjåfør	subst	subst	_	23	SPRED	_	_
+27	til	til	prep	prep	_	23	ADV	_	_
+28	og	og	konj	konj	_	29	KONJ	_	_
+29	med	med	prep	prep	_	27	KOORD	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 31
+# segstart = 142.53
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = og det var e # ja ## for hun de bodde sirka ei mil fra Spydeberg stasjon
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	11	REP	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	11	INTERJ	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	for	for	konj	konj	_	11	KONJ	_	_
+9	hun	hun	pron	pron	_	10	REP	_	_
+10	de	de	pron	pron	_	11	SUBJ	_	_
+11	bodde	bo	verb	verb	_	0	FINV	_	_
+12	sirka	sirka	adv	adv	_	13	ADV	_	_
+13	ei	ei	det	det	_	14	DET	_	_
+14	mil	mil	subst	subst	_	11	ADV	_	_
+15	fra	fra	prep	prep	_	14	ATR	_	_
+16	Spydeberg	Spydeberg	subst	subst	_	15	PUTFYLL	_	_
+17	stasjon	stasjon	subst	subst	_	16	FLAT	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 32
+# segstart = 150.996
+# segstop = 161.131
+# speaker = jevnaker_03gm
+# text = ved Hele kirke ## hvis du er kjent der ute da
+1	ved	ved	prep	prep	_	0	FRAG	_	_
+2	Hele	Hele	subst	subst	_	1	PUTFYLL	_	_
+3	kirke	kirke	subst	subst	_	2	FLAT	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	hvis	hvis	sbu	sbu	_	7	SBU	_	_
+6	du	du	pron	pron	_	7	SUBJ	_	_
+7	er	være	verb	verb	_	1	KOORD	_	_
+8	kjent	kjent	adj	adj	_	7	SPRED	_	_
+9	der	der	prep	prep	_	7	ADV	_	_
+10	ute	ute	prep	prep	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	7	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 33
+# segstart = 150.996
+# segstop = 161.131
+# speaker = sr
+# text = * nei dessverre ikke
+1	*	*	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	dessverre	dessverre	adv	adv	_	2	ADV	_	_
+4	ikke	ikke	adv	adv	_	2	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 34
+# segstart = 161.131
+# segstop = 163.284
+# speaker = sr
+# text = men e hvor gikk du på skole ?
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	hvor	hvor	adv	adv	_	4	ADV	_	_
+4	gikk	gå	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	på	på	prep	prep	_	4	ADV	_	_
+7	skole	skole	subst	subst	_	6	PUTFYLL	_	_
+8	?	?	clb	clb	_	4	IP	_	_
+
+# SR: Analysen av 'fem seks hundre' var vi innom på et tidlig stadium, før en oppdatering slettet arbeidet. Ser det OK ut slik? Fem og seks står som FLAT til hundre.
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 35
+# segstart = 163.284
+# segstop = 173.086
+# speaker = jevnaker_03gm
+# text = jeg gikk på Brattvars # skole # st- liten grendeskole ## noe # fem seks hundre meter unna # tunet
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	gikk	gå	verb	verb	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	Brattvars	Brattvars	subst	subst	_	3	PUTFYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	skole	skole	subst	subst	_	4	FLAT	_	_
+7	#	#	pause	pause	_	9	IK	_	_
+8	st-	st-	ufullst	ufullst	_	9	FYLL	_	_
+9	liten	liten	adj	adj	_	10	ATR	_	_
+10	grendeskole	grendeskole	subst	subst	_	4	KOORD	_	_
+11	##	##	pause	pause	_	12	IK	_	_
+12	noe	noe	adv	adv	_	14	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	fem	fem	det	det	_	16	DET	_	_
+15	seks	seks	det	det	_	14	FLAT	_	_
+16	hundre	hundre	det	det	_	17	DET	_	_
+17	meter	meter	subst	subst	_	10	ATR	_	_
+18	unna	unna	prep	prep	_	17	ATR	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	tunet	tun	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 36
+# segstart = 173.086
+# segstop = 173.445
+# speaker = sr
+# text = å ja
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 37
+# segstart = 173.445
+# segstop = 175.544
+# speaker = jevnaker_03gm
+# text = ja # fin skoleveg
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	fin	fin	adj	adj	_	4	ATR	_	_
+4	skoleveg	skoleveg	subst	subst	_	1	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 38
+# segstart = 175.544
+# segstop = 181.363
+# speaker = sr
+# text = ja # noe spesielt du husker fra når du gikk på skolen eller ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	noe	noe	det	det	_	4	DET	_	_
+4	spesielt	spesiell	adj	adj	_	6	DOBJ	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	husker	huske	verb	verb	_	0	FINV	_	_
+7	fra	fra	prep	prep	_	4	ADV	_	_
+8	når	når	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	gikk	gå	verb	verb	_	7	PUTFYLL	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	skolen	skole	subst	subst	_	11	PUTFYLL	_	_
+13	eller	eller	konj	konj	_	6	KONJ	_	_
+14	?	?	clb	clb	_	6	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 39
+# segstart = 181.363
+# segstop = 183.545
+# speaker = jevnaker_03gm
+# text = ja det kan jo være så mangt det men
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	kan	kan	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	5	ADV	_	_
+5	være	være	verb	verb	_	3	INFV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	mangt	mangt	det	det	_	5	SPRED	_	_
+8	det	det	pron	pron	_	2	APP	_	_
+9	men	men	konj	konj	_	3	KONJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 40
+# segstart = 183.545
+# segstop = 184.221
+# speaker = sr
+# text = hva som helst
+1	hva	hva	pron	pron	_	0	FRAG	_	_
+2	som	som	prep	prep	_	1	ATR	_	_
+3	helst	helst	adv	adv	_	2	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 42
+# segstart = 184.221
+# segstop = 193.12
+# speaker = jevnaker_03gm
+# text = ja # ja # det var jo i krigstida da veit du ## og vi var jo # vi guttene var jo litt leie
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	6	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	i	i	prep	prep	_	6	SPRED	_	_
+9	krigstida	krigstid	subst	subst	_	8	PUTFYLL	_	_
+10	da	da	adv	adv	_	6	ADV	_	_
+11	veit	vite	verb	verb	_	6	PAR	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	##	##	pause	pause	_	14	IK	_	_
+14	og	og	konj	konj	_	21	KONJ	_	_
+15	vi	vi	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	21	REP	_	_
+17	jo	jo	adv	adv	_	16	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	vi	vi	pron	pron	_	20	DET	_	_
+20	guttene	gutt	subst	subst	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	6	KOORD	_	_
+22	jo	jo	adv	adv	_	21	ADV	_	_
+23	litt	litt	adj	adj	_	24	ADV	_	_
+24	leie	leie	adj	adj	_	21	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 43
+# segstart = 193.12
+# segstop = 201.634
+# speaker = jevnaker_03gm
+# text = for det var ikke alle som ## det var e noen av elevene var jo e på den gærne side av streken
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	9	REP	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	alle	alle	pron	pron	_	3	SPRED	_	_
+6	som	som	sbu	sbu	_	5	ATR	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	var	være	verb	verb	_	14	REP	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	noen	noen	det	det	_	14	SUBJ	_	_
+12	av	av	prep	prep	_	11	ATR	_	_
+13	elevene	elev	subst	subst	_	12	PUTFYLL	_	_
+14	var	være	verb	verb	_	0	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	på	på	prep	prep	_	14	SPRED	_	_
+18	den	den	det	det	_	20	DET	_	_
+19	gærne	gæren	adj	adj	_	20	ATR	_	_
+20	side	side	subst	subst	_	17	PUTFYLL	_	_
+21	av	av	prep	prep	_	20	ATR	_	_
+22	streken	strek	subst	subst	_	21	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 44
+# segstart = 201.634
+# segstop = 210.863
+# speaker = jevnaker_03gm
+# text = hørt # foreldrene var NS ## så vi var leie mot dem så til slutt så e måtte vi guttene sitte igjen
+1	hørt	høre	verb	verb	_	3	SLETT	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	foreldrene	forelder	subst	subst	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	NS	NS	subst	subst	_	4	SPRED	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	så	så	konj	konj	_	9	KONJ	_	_
+8	vi	vi	pron	pron	_	9	SUBJ	_	_
+9	var	være	verb	verb	_	4	KOORD	_	_
+10	leie	leie	adj	adj	_	9	SPRED	_	_
+11	mot	mot	prep	prep	_	10	ADV	_	_
+12	dem	dem	pron	pron	_	11	PUTFYLL	_	_
+13	så	så	konj	konj	_	18	KONJ	_	_
+14	til	til	prep	prep	_	16	APP	_	_
+15	slutt	slutt	subst	subst	_	14	PUTFYLL	_	_
+16	så	så	adv	adv	_	18	ADV	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	måtte	måtte	verb	verb	_	4	KOORD	_	_
+19	vi	vi	pron	pron	_	20	DET	_	_
+20	guttene	gutt	subst	subst	_	18	SUBJ	_	_
+21	sitte	sitte	verb	verb	_	18	INFV	_	_
+22	igjen	igjen	adv	adv	_	21	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 45
+# segstart = 210.863
+# segstop = 216.586
+# speaker = jevnaker_03gm
+# text = da sa læreren vår det at hvis vi ikke slutta med det så kom han til å bli innsett
+1	da	da	adv	adv	_	2	ADV	_	_
+2	sa	si	verb	verb	_	0	FINV	_	_
+3	læreren	lærer	subst	subst	_	2	SUBJ	_	_
+4	vår	vår	det	det	_	3	DET	_	_
+5	det	det	pron	pron	_	2	DOBJ	_	_
+6	at	at	sbu	sbu	_	14	SBU	_	_
+7	hvis	hvis	sbu	sbu	_	10	SBU	_	_
+8	vi	vi	pron	pron	_	10	SUBJ	_	_
+9	ikke	ikke	adv	adv	_	10	ADV	_	_
+10	slutta	slutte	verb	verb	_	13	APP	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	det	det	pron	pron	_	11	PUTFYLL	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	kom	komme	verb	verb	_	5	APP	_	_
+15	han	han	pron	pron	_	14	SUBJ	_	_
+16	til	til	prep	prep	_	14	ADV	_	_
+17	å	å	inf-merke	inf-merke	_	16	PUTFYLL	_	_
+18	bli	bli	verb	verb	_	17	INFV	_	_
+19	innsett	innsette	verb	verb	_	18	INFV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 46
+# segstart = 216.586
+# segstop = 224.36
+# speaker = jevnaker_03gm
+# text = så da ble vi måtte vi slutte med det da å mobbe # mobbe heter det nå da men # da # erting og # ja
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	da	da	adv	adv	_	5	ADV	_	_
+3	ble	bli	verb	verb	_	5	REP	_	_
+4	vi	vi	pron	pron	_	5	REP	_	_
+5	måtte	måtte	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	slutte	slutte	verb	verb	_	5	INFV	_	_
+8	med	med	prep	prep	_	7	ADV	_	_
+9	det	det	pron	pron	_	8	PUTFYLL	_	_
+10	da	da	adv	adv	_	7	ADV	_	_
+11	å	å	inf-merke	inf-merke	_	9	APP	_	_
+12	mobbe	mobbe	verb	verb	_	11	INFV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	mobbe	mobbe	verb	verb	_	15	SPRED	_	_
+15	heter	hete	verb	verb	_	7	KOORD	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	nå	nå	adv	adv	_	15	ADV	_	_
+18	da	da	adv	adv	_	15	ADV	_	_
+19	men	men	konj	konj	_	15	KONJ	_	_
+20	#	#	pause	pause	_	19	IK	_	_
+21	da	da	adv	adv	_	23	REP	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	erting	erting	subst	subst	_	15	SLETT	_	_
+24	og	og	konj	konj	_	26	KONJ	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	ja	ja	interj	interj	_	23	KOORD	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 47
+# segstart = 224.36
+# segstop = 226.721
+# speaker = sr
+# text = innsendt hva ville det si ?
+1	innsendt	innsende	verb	verb	_	4	APP	_	_
+2	hva	hva	pron	pron	_	5	DOBJ	_	_
+3	ville	ville	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	si	si	verb	verb	_	3	INFV	_	_
+6	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 48
+# segstart = 224.36
+# segstop = 226.721
+# speaker = jevnaker_03gm
+# text = * innsett
+1	*	*	pause	pause	_	2	IK	_	_
+2	innsett	innsette	verb	verb	_	0	FRAG	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 49
+# segstart = 226.721
+# segstop = 227.389
+# speaker = sr
+# text = innsett å ja
+1	innsett	innsette	verb	verb	_	2	ADV	_	_
+2	å	å	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 50
+# segstart = 227.389
+# segstop = 229.941
+# speaker = jevnaker_03gm
+# text = av tyskerne # til Grini
+1	av	av	prep	prep	_	0	ADV	_	_
+2	tyskerne	tysker	subst	subst	_	1	PUTFYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	til	til	prep	prep	_	1	ADV	_	_
+5	Grini	Grini	subst	subst	_	4	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 51
+# segstart = 229.941
+# segstop = 231.515
+# speaker = sr
+# text = å ja # ok
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ok	ok	adj	adj	_	2	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 52
+# segstart = 231.515
+# segstop = 233.637
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 53
+# segstart = 233.637
+# segstop = 234.091
+# speaker = sr
+# text = hm
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 54
+# segstart = 234.091
+# segstop = 243.439
+# speaker = jevnaker_03gm
+# text = ja ## så vet ikke om jeg husker noe helt spesielt på skolen var ikke # vanlig vi gikk jo
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	4	KONJ	_	_
+4	vet	vite	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	om	om	sbu	sbu	_	8	SBU	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	husker	huske	verb	verb	_	4	DOBJ	_	_
+9	noe	noe	det	det	_	11	ADV	_	_
+10	helt	hele	adj	adj	_	11	ADV	_	_
+11	spesielt	spesiell	adj	adj	_	8	SPRED	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	skolen	skole	subst	subst	_	12	PUTFYLL	_	_
+14	var	være	verb	verb	_	4	KOORD	_	_
+15	ikke	ikke	adv	adv	_	14	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	vanlig	vanlig	adj	adj	_	14	SPRED	_	_
+18	vi	vi	pron	pron	_	19	SUBJ	_	_
+19	gikk	gå	verb	verb	_	14	SLETT	_	_
+20	jo	jo	adv	adv	_	19	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 55
+# segstart = 243.439
+# segstop = 252.807
+# speaker = jevnaker_03gm
+# text = vi hadde tre år da # for lærerinne og så hadde vi fire år # for lærer ## var delt # på den måten
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	hadde	ha	verb	verb	_	0	FINV	_	_
+3	tre	tre	det	det	_	4	DET	_	_
+4	år	år	subst	subst	_	2	DOBJ	_	_
+5	da	da	adv	adv	_	2	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	for	for	prep	prep	_	2	ADV	_	_
+8	lærerinne	lærerinne	subst	subst	_	7	PUTFYLL	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	hadde	ha	verb	verb	_	2	KOORD	_	_
+12	vi	vi	pron	pron	_	11	SUBJ	_	_
+13	fire	fire	det	det	_	14	DET	_	_
+14	år	år	subst	subst	_	11	DOBJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	for	for	prep	prep	_	11	ADV	_	_
+17	lærer	lærer	subst	subst	_	16	PUTFYLL	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	var	være	verb	verb	_	2	KOORD	_	_
+20	delt	delt	adj	adj	_	19	SPRED	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	på	på	prep	prep	_	20	ADV	_	_
+23	den	den	det	det	_	24	DET	_	_
+24	måten	måte	subst	subst	_	22	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 56
+# segstart = 252.807
+# segstop = 261.344
+# speaker = jevnaker_03gm
+# text = så når v- jeg gikk begynte i fjerdeklassen så hadde gikk vi sammen med femteklassen og # var to kl- e trinn i samme klasserommet
+1	så	så	konj	konj	_	11	KONJ	_	_
+2	når	når	sbu	sbu	_	6	SBU	_	_
+3	v-	v-	ufullst	ufullst	_	4	FYLL	_	_
+4	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+5	gikk	gå	verb	verb	_	6	REP	_	_
+6	begynte	begynne	verb	verb	_	9	APP	_	_
+7	i	i	prep	prep	_	6	ADV	_	_
+8	fjerdeklassen	fjerdeklasse	subst	subst	_	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	hadde	ha	verb	verb	_	11	REP	_	_
+11	gikk	gå	verb	verb	_	0	FINV	_	_
+12	vi	vi	pron	pron	_	11	SUBJ	_	_
+13	sammen	sammen	adv	adv	_	14	ADV	_	_
+14	med	med	prep	prep	_	11	ADV	_	_
+15	femteklassen	femteklasse	subst	subst	_	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	var	være	verb	verb	_	11	KOORD	_	_
+19	to	to	det	det	_	22	DET	_	_
+20	kl-	kl-	ufullst	ufullst	_	22	FYLL	_	_
+21	e	e	nol	nol	_	22	FYLL	_	_
+22	trinn	trinn	subst	subst	_	18	SPRED	_	_
+23	i	i	prep	prep	_	22	ATR	_	_
+24	samme	samme	det	det	_	25	DET	_	_
+25	klasserommet	klasserom	subst	subst	_	23	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 57
+# segstart = 261.344
+# segstop = 265.422
+# speaker = sr
+# text = ok ## m tre år for lærer nei
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	m	m	interj	interj	_	1	INTERJ	_	_
+4	tre	tre	det	det	_	5	DET	_	_
+5	år	år	subst	subst	_	1	ADV	_	_
+6	for	for	prep	prep	_	5	ATR	_	_
+7	lærer	lære	subst	subst	_	6	PUTFYLL	_	_
+8	nei	nei	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 59
+# segstart = 265.422
+# segstop = 271.241
+# speaker = jevnaker_03gm
+# text = tre lærerinne # først # første annen og tredje # da hadde vi f- kvinnelig # lærerinne
+1	tre	tre	det	det	_	2	DET	_	_
+2	lærerinne	lærerinne	subst	subst	_	12	SLETT	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	først	først	adv	adv	_	6	REP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	første	første	adj	adj	_	11	APP	_	_
+7	annen	annen	adj	adj	_	6	KOORD	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	tredje	tredje	adj	adj	_	7	KOORD	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	da	da	adv	adv	_	12	ADV	_	_
+12	hadde	ha	verb	verb	_	0	FINV	_	_
+13	vi	vi	pron	pron	_	12	SUBJ	_	_
+14	f-	f-	ufullst	ufullst	_	15	FYLL	_	_
+15	kvinnelig	kvinnelig	adj	adj	_	17	ATR	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	lærerinne	lærerinne	subst	subst	_	12	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 60
+# segstart = 271.241
+# segstop = 271.694
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 61
+# segstart = 271.694
+# segstop = 273.149
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 62
+# segstart = 273.149
+# segstop = 276.082
+# speaker = sr
+# text = mm # men i friminuttene og sånn hva gjorde dere da ?
+1	mm	mm	interj	interj	_	9	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	9	KONJ	_	_
+4	i	i	prep	prep	_	11	APP	_	_
+5	friminuttene	friminutt	subst	subst	_	4	PUTFYLL	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	sånn	sånn	adv	adv	_	5	ADV	_	_
+8	hva	hva	pron	pron	_	9	DOBJ	_	_
+9	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+10	dere	dere	pron	pron	_	9	SUBJ	_	_
+11	da	da	adv	adv	_	9	ADV	_	_
+12	?	?	clb	clb	_	9	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 64
+# segstart = 276.082
+# segstop = 282.688
+# speaker = jevnaker_03gm
+# text = ja da særs om vinteren da hadde vi ski # åkte mye på ski og sparka fotball om sommeren
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	særs	særs	adv	adv	_	4	ADV	_	_
+4	om	om	prep	prep	_	6	APP	_	_
+5	vinteren	vinter	subst	subst	_	4	PUTFYLL	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	hadde	ha	verb	verb	_	0	FINV	_	_
+8	vi	vi	pron	pron	_	7	SUBJ	_	_
+9	ski	ski	subst	subst	_	7	DOBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	åkte	åke	verb	verb	_	7	KOORD	_	_
+12	mye	mye	adj	adj	_	11	ADV	_	_
+13	på	på	prep	prep	_	11	ADV	_	_
+14	ski	ski	subst	subst	_	13	PUTFYLL	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	sparka	sparke	verb	verb	_	7	KOORD	_	_
+17	fotball	fotball	subst	subst	_	16	DOBJ	_	_
+18	om	om	prep	prep	_	16	ADV	_	_
+19	sommeren	sommer	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 65
+# segstart = 282.688
+# segstop = 294.54
+# speaker = jevnaker_03gm
+# text = og vi åkte veldig mye det gjorde vi gitt # og så hadde vi noe som heter skøytebiler ## s- det kunne vi sitte oppi og så styre sånne hjemmegjorte # kjøredoninger
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	åkte	åke	verb	verb	_	0	FINV	_	_
+4	veldig	veldig	adj	adj	_	5	ADV	_	_
+5	mye	mye	adj	adj	_	3	DOBJ	_	_
+6	det	det	pron	pron	_	7	DOBJ	_	_
+7	gjorde	gjøre	verb	verb	_	3	KOORD	_	_
+8	vi	vi	pron	pron	_	7	SUBJ	_	_
+9	gitt	gitt	interj	interj	_	7	INTERJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	hadde	ha	verb	verb	_	3	KOORD	_	_
+14	vi	vi	pron	pron	_	13	SUBJ	_	_
+15	noe	noe	pron	pron	_	13	DOBJ	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	heter	hete	verb	verb	_	15	ATR	_	_
+18	skøytebiler	skøytebil	subst	subst	_	17	SPRED	_	_
+19	##	##	pause	pause	_	21	IK	_	_
+20	s-	s-	ufullst	ufullst	_	21	FYLL	_	_
+21	det	det	pron	pron	_	25	PUTFYLL	_	_
+22	kunne	kunne	verb	verb	_	3	KOORD	_	_
+23	vi	vi	pron	pron	_	22	SUBJ	_	_
+24	sitte	sitte	verb	verb	_	22	INFV	_	_
+25	oppi	oppi	prep	prep	_	24	ADV	_	_
+26	og	og	konj	konj	_	28	KONJ	_	_
+27	så	så	adv	adv	_	28	ADV	_	_
+28	styre	styre	verb	verb	_	24	KOORD	_	_
+29	sånne	sånne	det	det	_	32	DET	_	_
+30	hjemmegjorte	hjemmegjort	adj	adj	_	32	ATR	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	kjøredoninger	kjøredoning	subst	subst	_	28	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 66
+# segstart = 294.54
+# segstop = 296.329
+# speaker = sr
+# text = e nedoverbakke eller flatt ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	nedoverbakke	nedoverbakke	subst	subst	_	0	FRAG	_	_
+3	eller	eller	konj	konj	_	4	KONJ	_	_
+4	flatt	flat	adj	adj	_	2	KOORD	_	_
+5	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 67
+# segstart = 294.54
+# segstop = 296.329
+# speaker = jevnaker_03gm
+# text = e * nedoverbakke
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	*	*	pause	pause	_	3	IK	_	_
+3	nedoverbakke	nedoverbakke	subst	subst	_	0	FRAG	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 68
+# segstart = 296.329
+# segstop = 296.657
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: Sette lemma for 'verre' til 'ille'?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 69
+# segstart = 296.657
+# segstop = 304.795
+# speaker = jevnaker_03gm
+# text = selvfølgelig nedoverbakke ja ja ## og det var nok nedoverbakke der det var bare verre å komme teb- oppatt til skolen # ja
+1	selvfølgelig	selvfølgelig	adv	adv	_	3	ADV	_	_
+2	nedoverbakke	nedoverbakke	subst	subst	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	ja	ja	interj	interj	_	3	INTERJ	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	og	og	konj	konj	_	8	KONJ	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	3	KOORD	_	_
+9	nok	nok	adv	adv	_	10	ATR	_	_
+10	nedoverbakke	nedoverbakke	subst	subst	_	8	PSUBJ	_	_
+11	der	der	prep	prep	_	8	ADV	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	3	KOORD	_	_
+14	bare	bare	adv	adv	_	13	ADV	_	_
+15	verre	vond	adj	adj	_	13	SPRED	_	_
+16	å	å	inf-merke	inf-merke	_	13	PSUBJ	_	_
+17	komme	komme	verb	verb	_	16	INFV	_	_
+18	teb-	teb-	ufullst	ufullst	_	19	FYLL	_	_
+19	oppatt	oppatt	prep	prep	_	17	ADV	_	_
+20	til	til	prep	prep	_	19	PUTFYLL	_	_
+21	skolen	skole	subst	subst	_	20	PUTFYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	ja	ja	interj	interj	_	13	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 70
+# segstart = 304.795
+# segstop = 307.371
+# speaker = sr
+# text = ja # velta du noen gang ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	velta	velte	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	noen	noen	det	det	_	6	DET	_	_
+6	gang	gang	subst	subst	_	3	ADV	_	_
+7	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 71
+# segstart = 307.371
+# segstop = 316.099
+# speaker = jevnaker_03gm
+# text = det hendte nok ja det hendte nok det trur jeg ikke slo meg noe s- # kan ikke erindre at jeg har slått meg på skolen
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	hendte	hende	verb	verb	_	0	FINV	_	_
+3	nok	nok	adv	adv	_	2	ADV	_	_
+4	ja	ja	interj	interj	_	6	INTERJ	_	_
+5	det	det	pron	pron	_	6	SUBJ	_	_
+6	hendte	hende	verb	verb	_	2	KOORD	_	_
+7	nok	nok	adv	adv	_	6	ADV	_	_
+8	det	det	pron	pron	_	5	APP	_	_
+9	trur	tru	verb	verb	_	6	KOORD	_	_
+10	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+11	ikke	ikke	adv	adv	_	12	ADV	_	_
+12	slo	slå	verb	verb	_	9	DOBJ	_	_
+13	meg	meg	pron	pron	_	12	DOBJ	_	_
+14	noe	noe	adv	adv	_	12	ADV	_	_
+15	s-	s-	ufullst	ufullst	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	kan	kan	verb	verb	_	9	KOORD	_	_
+18	ikke	ikke	adv	adv	_	19	ADV	_	_
+19	erindre	erindre	verb	verb	_	17	INFV	_	_
+20	at	at	sbu	sbu	_	22	SBU	_	_
+21	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+22	har	ha	verb	verb	_	19	DOBJ	_	_
+23	slått	slå	verb	verb	_	22	INFV	_	_
+24	meg	meg	pron	pron	_	23	DOBJ	_	_
+25	på	på	prep	prep	_	23	ADV	_	_
+26	skolen	skole	subst	subst	_	25	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 72
+# segstart = 316.099
+# segstop = 320.208
+# speaker = jevnaker_03gm
+# text = det var jo ikke så mange av oss det var e ti elleve stykker i klassen
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	ikke	ikke	adv	adv	_	2	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	mange	mange	adj	adj	_	2	PSUBJ	_	_
+7	av	av	prep	prep	_	6	ADV	_	_
+8	oss	oss	pron	pron	_	7	PUTFYLL	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	var	være	verb	verb	_	2	KOORD	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	ti	ti	det	det	_	14	DET	_	_
+13	elleve	elleve	det	det	_	12	FLAT	_	_
+14	stykker	stykke	subst	subst	_	10	PSUBJ	_	_
+15	i	i	prep	prep	_	10	ADV	_	_
+16	klassen	klasse	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 73
+# segstart = 320.208
+# segstop = 322.585
+# speaker = sr
+# text = ok # og hele skolen ?
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	hele	hel	adj	adj	_	5	ATR	_	_
+5	skolen	skole	subst	subst	_	1	KOORD	_	_
+6	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 74
+# segstart = 322.585
+# segstop = 323.992
+# speaker = jevnaker_03gm
+# text = i min klasse
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	min	min	det	det	_	3	DET	_	_
+3	klasse	klasse	subst	subst	_	1	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 75
+# segstart = 323.992
+# segstop = 327.235
+# speaker = sr
+# text = e nei hele skolen var det s- hvor mange gikk der ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	nei	nei	interj	interj	_	5	INTERJ	_	_
+3	hele	hel	adj	adj	_	4	ATR	_	_
+4	skolen	skole	subst	subst	_	5	ADV	_	_
+5	var	være	verb	verb	_	10	REP	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	s-	s-	ufullst	ufullst	_	8	FYLL	_	_
+8	hvor	hvor	adv	adv	_	9	ADV	_	_
+9	mange	mange	adj	adj	_	10	SUBJ	_	_
+10	gikk	gå	verb	verb	_	0	FINV	_	_
+11	der	der	prep	prep	_	10	ADV	_	_
+12	?	?	clb	clb	_	10	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 77
+# segstart = 327.235
+# segstop = 335.582
+# speaker = jevnaker_03gm
+# text = ja hvis du sier de var ti i hver da så ble det s- ja det ble en og sytti det da ja ## kunne nok være en sytti åtti # elever der i det hele
+1	ja	ja	interj	interj	_	17	INTERJ	_	_
+2	hvis	hvis	sbu	sbu	_	4	SBU	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	sier	si	verb	verb	_	11	APP	_	_
+5	de	de	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	4	DOBJ	_	_
+7	ti	ti	det	det	_	6	SPRED	_	_
+8	i	i	prep	prep	_	7	ATR	_	_
+9	hver	hver	det	det	_	8	PUTFYLL	_	_
+10	da	da	adv	adv	_	6	ADV	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	ble	bli	verb	verb	_	17	REP	_	_
+13	det	det	pron	pron	_	12	FSUBJ	_	_
+14	s-	s-	ufullst	ufullst	_	15	FYLL	_	_
+15	ja	ja	interj	interj	_	17	INTERJ	_	_
+16	det	det	pron	pron	_	17	SUBJ	_	_
+17	ble	bli	verb	verb	_	0	FINV	_	_
+18	en	en	det	det	_	17	SPRED	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	sytti	sytti	subst	subst	_	18	KOORD	_	_
+21	det	det	pron	pron	_	16	APP	_	_
+22	da	da	adv	adv	_	17	ADV	_	_
+23	ja	ja	interj	interj	_	25	INTERJ	_	_
+24	##	##	pause	pause	_	25	IK	_	_
+25	kunne	kunne	verb	verb	_	17	KOORD	_	_
+26	nok	nok	adv	adv	_	27	ADV	_	_
+27	være	være	verb	verb	_	25	INFV	_	_
+28	en	en	adv	adv	_	29	DET	_	_
+29	sytti	sytti	adj	adj	_	32	DET	_	_
+30	åtti	åtti	subst	subst	_	29	FLAT	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	elever	elev	subst	subst	_	27	PSUBJ	_	_
+33	der	der	prep	prep	_	27	ADV	_	_
+34	i	i	prep	prep	_	27	ADV	_	_
+35	det	det	det	det	_	36	DET	_	_
+36	hele	hel	adj	adj	_	34	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 78
+# segstart = 335.582
+# segstop = 335.797
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 79
+# segstart = 335.797
+# segstop = 345.241
+# speaker = jevnaker_03gm
+# text = ja ## ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# SR: Er disse APP'ene ok?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 80
+# segstart = 345.241
+# segstop = 349.772
+# speaker = sr
+# text = på fritiden da etter skolen hva gikk dagene med til da eller ?
+1	på	på	prep	prep	_	4	APP	_	_
+2	fritiden	fritid	subst	subst	_	1	PUTFYLL	_	_
+3	da	da	adv	adv	_	1	ADV	_	_
+4	etter	etter	prep	prep	_	11	APP	_	_
+5	skolen	skole	subst	subst	_	4	PUTFYLL	_	_
+6	hva	hva	pron	pron	_	10	PUTFYLL	_	_
+7	gikk	gå	verb	verb	_	0	FINV	_	_
+8	dagene	dag	subst	subst	_	7	SUBJ	_	_
+9	med	med	prep	prep	_	7	ADV	_	_
+10	til	til	prep	prep	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	7	ADV	_	_
+12	eller	eller	konj	konj	_	7	KONJ	_	_
+13	?	?	clb	clb	_	7	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 81
+# segstart = 360.933
+# segstop = 368.97
+# speaker = jevnaker_03gm
+# text = og det var dagen før jeg fylte åtte år ## og så var jeg eldst så da kom nok ganske fort ansvar
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	dagen	dag	subst	subst	_	3	SPRED	_	_
+5	før	før	prep	prep	_	4	ATR	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	fylte	fylle	verb	verb	_	5	PUTFYLL	_	_
+8	åtte	åtte	det	det	_	9	DET	_	_
+9	år	år	subst	subst	_	7	DOBJ	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	var	være	verb	verb	_	3	KOORD	_	_
+14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+15	eldst	gammel	adj	adj	_	13	SPRED	_	_
+16	så	så	konj	konj	_	18	KONJ	_	_
+17	da	da	adv	adv	_	18	ADV	_	_
+18	kom	komme	verb	verb	_	3	KOORD	_	_
+19	nok	nok	adv	adv	_	18	ADV	_	_
+20	ganske	ganske	adv	adv	_	21	ADV	_	_
+21	fort	fort	adj	adj	_	18	ADV	_	_
+22	ansvar	ansvar	subst	subst	_	18	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 82
+# segstart = 368.97
+# segstop = 369.345
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 83
+# segstart = 369.345
+# segstop = 380.352
+# speaker = jevnaker_03gm
+# text = ja # så jeg hadde mye ansvar i e # for dyr og # folk og alt hele gården han ble jo # ble avskåret fra å komme ut han da
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	hadde	ha	verb	verb	_	0	FINV	_	_
+6	mye	mye	adj	adj	_	7	ATR	_	_
+7	ansvar	ansvar	subst	subst	_	5	DOBJ	_	_
+8	i	i	prep	prep	_	11	REP	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	for	for	prep	prep	_	7	ATR	_	_
+12	dyr	dyr	subst	subst	_	11	PUTFYLL	_	_
+13	og	og	konj	konj	_	15	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	folk	folk	subst	subst	_	12	KOORD	_	_
+16	og	og	konj	konj	_	19	KONJ	_	_
+17	alt	alt	det	det	_	19	REP	_	_
+18	hele	hel	adj	adj	_	19	ATR	_	_
+19	gården	gård	subst	subst	_	12	KOORD	_	_
+20	han	han	pron	pron	_	24	SUBJ	_	_
+21	ble	bli	verb	verb	_	24	REP	_	_
+22	jo	jo	adv	adv	_	21	ADV	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	ble	bli	verb	verb	_	5	KOORD	_	_
+25	avskåret	avskjære	verb	verb	_	24	INFV	_	_
+26	fra	fra	prep	prep	_	25	ADV	_	_
+27	å	å	inf-merke	inf-merke	_	26	PUTFYLL	_	_
+28	komme	komme	verb	verb	_	27	INFV	_	_
+29	ut	ut	prep	prep	_	28	ADV	_	_
+30	han	han	pron	pron	_	20	APP	_	_
+31	da	da	adv	adv	_	24	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 84
+# segstart = 380.352
+# segstop = 383.171
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 85
+# segstart = 380.829
+# segstop = 381.258
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 86
+# segstart = 381.258
+# segstop = 383.171
+# speaker = sr
+# text = men du var ikke gammel da # nei
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	gammel	gammel	adj	adj	_	3	SPRED	_	_
+6	da	da	adv	adv	_	3	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	nei	nei	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 87
+# segstart = 383.171
+# segstop = 384.764
+# speaker = jevnaker_03gm
+# text = åtte
+1	åtte	åtte	det	det	_	0	FRAG	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 88
+# segstart = 384.764
+# segstop = 385.408
+# speaker = sr
+# text = var tidlig
+1	var	være	verb	verb	_	0	FINV	_	_
+2	tidlig	tidlig	adj	adj	_	1	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 89
+# segstart = 385.408
+# segstop = 395.4
+# speaker = jevnaker_03gm
+# text = åtte år ja # ja # så jeg husker veldig godt alle vi hadde her ute # før krigen var slutt
+1	åtte	åtte	det	det	_	2	DET	_	_
+2	år	år	subst	subst	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	3	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	konj	konj	_	9	KONJ	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	husker	huske	verb	verb	_	3	KOORD	_	_
+10	veldig	veldig	adj	adj	_	11	ADV	_	_
+11	godt	god	adj	adj	_	9	ADV	_	_
+12	alle	alle	det	det	_	9	DOBJ	_	_
+13	vi	vi	pron	pron	_	14	SUBJ	_	_
+14	hadde	ha	verb	verb	_	11	ATR	_	_
+15	her	her	prep	prep	_	14	ADV	_	_
+16	ute	ute	prep	prep	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	før	før	sbu	sbu	_	20	SBU	_	_
+19	krigen	krig	subst	subst	_	20	SUBJ	_	_
+20	var	være	verb	verb	_	14	ADV	_	_
+21	slutt	slutt	adj	adj	_	20	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 90
+# segstart = 395.4
+# segstop = 401.147
+# speaker = jevnaker_03gm
+# text = da e # tyskersoldatene marsjerte her # med sånne høge
+1	da	da	sbu	sbu	_	5	ADV	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	tyskersoldatene	tyskersoldat	subst	subst	_	5	SUBJ	_	_
+5	marsjerte	marsjere	verb	verb	_	0	FINV	_	_
+6	her	her	prep	prep	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	med	med	prep	prep	_	5	ADV	_	_
+9	sånne	sånne	det	det	_	10	DET	_	_
+10	høge	høge	adj	adj	_	8	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 91
+# segstart = 401.147
+# segstop = 402.053
+# speaker = sr
+# text = støvler
+1	støvler	støvel	subst	subst	_	0	FRAG	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 93
+# segstart = 402.053
+# segstop = 412.498
+# speaker = jevnaker_03gm
+# text = høge støvler ja ja # det husker jeg veldig godt ja # og de var vrede og en gang som de kom til oss og # da var det rassia
+1	høge	høge	adj	adj	_	2	ATR	_	_
+2	støvler	støvel	subst	subst	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	ja	ja	interj	interj	_	3	INTERJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	_	7	DOBJ	_	_
+7	husker	huske	verb	verb	_	3	KOORD	_	_
+8	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+9	veldig	veldig	adj	adj	_	10	ADV	_	_
+10	godt	god	adj	adj	_	7	ADV	_	_
+11	ja	ja	interj	interj	_	7	INTERJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	og	og	konj	konj	_	15	KONJ	_	_
+14	de	de	pron	pron	_	15	SUBJ	_	_
+15	var	være	verb	verb	_	7	KOORD	_	_
+16	vrede	vred	adj	adj	_	15	SPRED	_	_
+17	og	og	konj	konj	_	28	KONJ	_	_
+18	en	en	det	det	_	19	DET	_	_
+19	gang	gang	subst	subst	_	27	APP	_	_
+20	som	som	sbu	sbu	_	22	SBU	_	_
+21	de	de	pron	pron	_	22	SUBJ	_	_
+22	kom	komme	verb	verb	_	19	ATR	_	_
+23	til	til	prep	prep	_	22	ADV	_	_
+24	oss	oss	pron	pron	_	23	PUTFYLL	_	_
+25	og	og	konj	konj	_	22	SLETT	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	da	da	adv	adv	_	28	ADV	_	_
+28	var	være	verb	verb	_	7	KOORD	_	_
+29	det	det	pron	pron	_	28	FSUBJ	_	_
+30	rassia	rassia	subst	subst	_	28	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 94
+# segstart = 412.498
+# segstop = 417.768
+# speaker = jevnaker_03gm
+# text = så da slengte de noe over taket noe lytteutstyr over taket
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	slengte	slenge	verb	verb	_	0	FINV	_	_
+4	de	de	pron	pron	_	3	SUBJ	_	_
+5	noe	noe	pron	pron	_	3	DOBJ	_	_
+6	over	over	prep	prep	_	3	ADV	_	_
+7	taket	tak	subst	subst	_	6	PUTFYLL	_	_
+8	noe	noe	det	det	_	9	DET	_	_
+9	lytteutstyr	lytteutstyr	subst	subst	_	3	KOORD	_	_
+10	over	over	prep	prep	_	9	ATR	_	_
+11	taket	tak	subst	subst	_	10	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 95
+# segstart = 417.768
+# segstop = 425.376
+# speaker = jevnaker_03gm
+# text = men vi guttungene vi hadde e da krabba vi under stabburstrammen vi for når vi hadde gjort noe galt så da gjemte vi oss under stabburstrammen
+1	men	men	konj	konj	_	8	KONJ	_	_
+2	vi	vi	pron	pron	_	3	DET	_	_
+3	guttungene	guttunge	subst	subst	_	4	APP	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	hadde	ha	verb	verb	_	8	REP	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	krabba	krabbe	verb	verb	_	0	FINV	_	_
+9	vi	vi	pron	pron	_	8	SUBJ	_	_
+10	under	under	prep	prep	_	8	ADV	_	_
+11	stabburstrammen	stabburstram	subst	subst	_	10	PUTFYLL	_	_
+12	vi	vi	pron	pron	_	9	APP	_	_
+13	for	for	konj	konj	_	22	KONJ	_	_
+14	når	når	sbu	sbu	_	16	SBU	_	_
+15	vi	vi	pron	pron	_	16	SUBJ	_	_
+16	hadde	ha	verb	verb	_	21	APP	_	_
+17	gjort	gjøre	verb	verb	_	16	INFV	_	_
+18	noe	noe	det	det	_	19	DET	_	_
+19	galt	gal	adj	adj	_	17	DOBJ	_	_
+20	så	så	adv	adv	_	16	ADV	_	_
+21	da	da	adv	adv	_	22	ADV	_	_
+22	gjemte	gjemme	verb	verb	_	8	KOORD	_	_
+23	vi	vi	pron	pron	_	22	SUBJ	_	_
+24	oss	oss	pron	pron	_	22	DOBJ	_	_
+25	under	under	prep	prep	_	22	ADV	_	_
+26	stabburstrammen	stabburstram	subst	subst	_	25	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 96
+# segstart = 425.376
+# segstop = 431.982
+# speaker = jevnaker_03gm
+# text = for der k- var det ingen som kom fikk tak i oss # så vi la oss der vi da mens de holdt på med det derre undersøkelsene sine
+1	for	for	konj	konj	_	4	KONJ	_	_
+2	der	der	prep	prep	_	4	ADV	_	_
+3	k-	k-	ufullst	ufullst	_	4	FYLL	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	ingen	ingen	pron	pron	_	4	PSUBJ	_	_
+7	som	som	sbu	sbu	_	9	SBU	_	_
+8	kom	komme	verb	verb	_	9	REP	_	_
+9	fikk	få	verb	verb	_	6	ATR	_	_
+10	tak	tak	subst	subst	_	9	DOBJ	_	_
+11	i	i	prep	prep	_	10	ATR	_	_
+12	oss	oss	pron	pron	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	så	så	adv	adv	_	16	KONJ	_	_
+15	vi	vi	pron	pron	_	16	SUBJ	_	_
+16	la	legge	verb	verb	_	4	KOORD	_	_
+17	oss	oss	pron	pron	_	16	DOBJ	_	_
+18	der	der	prep	prep	_	16	ADV	_	_
+19	vi	vi	pron	pron	_	15	APP	_	_
+20	da	da	adv	adv	_	16	ADV	_	_
+21	mens	mens	sbu	sbu	_	23	SBU	_	_
+22	de	de	pron	pron	_	23	SUBJ	_	_
+23	holdt	holde	verb	verb	_	16	ADV	_	_
+24	på	på	prep	prep	_	23	ADV	_	_
+25	med	med	prep	prep	_	23	ADV	_	_
+26	det	det	det	det	_	28	DET	_	_
+27	derre	derre	adv	adv	_	28	ATR	_	_
+28	undersøkelsene	undersøkelse	subst	subst	_	25	PUTFYLL	_	_
+29	sine	sine	det	det	_	28	DET	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 98
+# segstart = 432.372
+# segstop = 443.786
+# speaker = jevnaker_03gm
+# text = ja ## men da var vi redde # det var skummelt kom en bil vet du svær bil og så # slengte lytterutstyr over # taket
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	redde	redd	adj	adj	_	5	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	5	KOORD	_	_
+11	skummelt	skummel	adj	adj	_	10	SPRED	_	_
+12	kom	komme	verb	verb	_	5	KOORD	_	_
+13	en	en	det	det	_	14	DET	_	_
+14	bil	bil	subst	subst	_	12	SPRED	_	_
+15	vet	vite	verb	verb	_	12	PAR	_	_
+16	du	du	pron	pron	_	15	SUBJ	_	_
+17	svær	svær	adj	adj	_	18	ATR	_	_
+18	bil	bil	subst	subst	_	14	APP	_	_
+19	og	og	konj	konj	_	22	KONJ	_	_
+20	så	så	adv	adv	_	22	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	slengte	slenge	subst	subst	_	5	KOORD	_	_
+23	lytterutstyr	lytterutstyr	subst	subst	_	22	DOBJ	_	_
+24	over	over	prep	prep	_	22	ADV	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	taket	tak	subst	subst	_	24	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 99
+# segstart = 443.786
+# segstop = 449.295
+# speaker = jevnaker_03gm
+# text = og lette etter ## fanger eller s- rømlinger og
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	lette	lete	verb	verb	_	0	KOORD	_	_
+3	etter	etter	prep	prep	_	2	ADV	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	fanger	fange	subst	subst	_	3	PUTFYLL	_	_
+6	eller	eller	konj	konj	_	8	KONJ	_	_
+7	s-	s-	ufullst	ufullst	_	8	FYLL	_	_
+8	rømlinger	rømling	subst	subst	_	5	KOORD	_	_
+9	og	og	konj	konj	_	8	KONJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 100
+# segstart = 449.295
+# segstop = 449.717
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 101
+# segstart = 449.717
+# segstop = 450.695
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 102
+# segstart = 450.695
+# segstop = 452.085
+# speaker = sr
+# text = var det noen hjemme da ?
+1	var	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	noen	noen	pron	pron	_	1	PSUBJ	_	_
+4	hjemme	hjemme	prep	prep	_	1	SPRED	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 103
+# segstart = 452.085
+# segstop = 456.926
+# speaker = jevnaker_03gm
+# text = nei var nei var ingen hos oss vi hadde ikke noe kontakt med noe sånt vi hadde ikke det nei # men det gikk og
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	var	være	verb	verb	_	4	REP	_	_
+3	nei	nei	interj	interj	_	4	INTERJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	ingen	ingen	pron	pron	_	4	PSUBJ	_	_
+6	hos	hos	prep	prep	_	4	SPRED	_	_
+7	oss	oss	pron	pron	_	6	PUTFYLL	_	_
+8	vi	vi	pron	pron	_	9	SUBJ	_	_
+9	hadde	ha	verb	verb	_	4	KOORD	_	_
+10	ikke	ikke	adv	adv	_	9	ADV	_	_
+11	noe	noe	det	det	_	12	DET	_	_
+12	kontakt	kontakt	subst	subst	_	9	DOBJ	_	_
+13	med	med	prep	prep	_	12	ATR	_	_
+14	noe	noe	det	det	_	15	DET	_	_
+15	sånt	sånt	pron	pron	_	13	PUTFYLL	_	_
+16	vi	vi	pron	pron	_	17	SUBJ	_	_
+17	hadde	ha	verb	verb	_	4	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	det	det	pron	pron	_	17	DOBJ	_	_
+20	nei	nei	interj	interj	_	17	INTERJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	men	men	konj	konj	_	24	KONJ	_	_
+23	det	det	pron	pron	_	24	FSUBJ	_	_
+24	gikk	gå	verb	verb	_	4	SLETT	_	_
+25	og	og	konj	konj	_	24	KONJ	_	_
+
+# SR: Her har jeg annotert 'soldater' som PSUBJ, da taler åpenbart har utelatt formelt subjekt. Kan vi i slike tilfeller forfremme PSUBJ til SUBJ? Det vil jo ofte bryte med normert ordstilling, og er dermed kanskje en litt uheldig løsning?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 104
+# segstart = 456.926
+# segstop = 464.366
+# speaker = jevnaker_03gm
+# text = det var rassia sto f- # soldater ute og vi så jo nedover bygda veit du og sto folk e soldater over alt nedover bygda
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	rassia	rassia	subst	subst	_	2	SPRED	_	_
+4	sto	stå	verb	verb	_	2	KOORD	_	_
+5	f-	f-	ufullst	ufullst	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	soldater	soldat	subst	subst	_	4	PSUBJ	_	_
+8	ute	ute	prep	prep	_	4	ADV	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	så	så	verb	verb	_	2	KOORD	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	nedover	nedover	prep	prep	_	11	ADV	_	_
+14	bygda	bygd	subst	subst	_	13	PUTFYLL	_	_
+15	veit	vite	verb	verb	_	11	PAR	_	_
+16	du	du	pron	pron	_	15	SUBJ	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	sto	stå	verb	verb	_	2	KOORD	_	_
+19	folk	folk	subst	subst	_	21	REP	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	soldater	soldat	subst	subst	_	18	PSUBJ	_	_
+22	over	over	prep	prep	_	18	ADV	_	_
+23	alt	alt	det	det	_	22	ADV	_	_
+24	nedover	nedover	prep	prep	_	18	ADV	_	_
+25	bygda	bygd	subst	subst	_	24	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 105
+# segstart = 464.366
+# segstop = 464.881
+# speaker = sr
+# text = hm
+1	hm	hm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 106
+# segstart = 464.881
+# segstop = 468.182
+# speaker = jevnaker_03gm
+# text = ja # så det har ikke du opplevd
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	5	KONJ	_	_
+4	det	det	pron	pron	_	7	DOBJ	_	_
+5	har	ha	verb	verb	_	0	FINV	_	_
+6	ikke	ikke	adv	adv	_	7	ADV	_	_
+7	du	du	pron	pron	_	5	SUBJ	_	_
+8	opplevd	oppleve	verb	verb	_	5	INFV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 107
+# segstart = 468.182
+# segstop = 468.659
+# speaker = sr
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = jevnaker_03gm-sr
+# id = 108
+# segstart = 468.659
+# segstop = 471.783
+# speaker = jevnaker_03gm
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 109
+# segstart = 471.783
+# segstop = 476.767
+# speaker = sr
+# text = men var det sånn # i i lang tid eller ?
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	sånn	sånn	adv	adv	_	2	SPRED	_	_
+5	#	#	pause	pause	_	4	IK	_	_
+6	i	i	prep	prep	_	7	REP	_	_
+7	i	i	prep	prep	_	2	ADV	_	_
+8	lang	lang	adj	adj	_	9	ATR	_	_
+9	tid	tid	subst	subst	_	7	PUTFYLL	_	_
+10	eller	eller	konj	konj	_	2	KONJ	_	_
+11	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 110
+# segstart = 476.767
+# segstop = 484.279
+# speaker = jevnaker_03gm
+# text = en fårrm- de # da vi sto opp om morgenen da sto soldatene på plass # og så vi ut v- det var en dag
+1	en	en	det	det	_	3	DET	_	_
+2	fårrm-	fårrm-	ufullst	ufullst	_	3	FYLL	_	_
+3	de	de	pron	pron	_	12	SLETT	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	da	da	adv	adv	_	7	SBU	_	_
+6	vi	vi	pron	pron	_	7	SUBJ	_	_
+7	sto	stå	verb	verb	_	11	APP	_	_
+8	opp	opp	prep	prep	_	7	ADV	_	_
+9	om	om	prep	prep	_	7	ADV	_	_
+10	morgenen	morgen	subst	subst	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	12	ADV	_	_
+12	sto	stå	verb	verb	_	0	FINV	_	_
+13	soldatene	soldat	subst	subst	_	12	SUBJ	_	_
+14	på	på	prep	prep	_	12	ADV	_	_
+15	plass	plass	subst	subst	_	14	PUTFYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	og	og	konj	konj	_	23	KONJ	_	_
+18	så	så	adv	adv	_	19	ADV	_	_
+19	vi	vi	pron	pron	_	23	REP	_	_
+20	ut	ut	prep	prep	_	19	REP	_	_
+21	v-	v-	ufullst	ufullst	_	22	FYLL	_	_
+22	det	det	pron	pron	_	23	FSUBJ	_	_
+23	var	være	verb	verb	_	12	KOORD	_	_
+24	en	en	det	det	_	25	DET	_	_
+25	dag	dag	subst	subst	_	23	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 111
+# segstart = 484.279
+# segstop = 484.654
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 112
+# segstart = 484.654
+# segstop = 492.745
+# speaker = jevnaker_03gm
+# text = ja # løpet av dagen så kom de til oss ja ## hadde telefon i fjøset da # samband med # omverdenen
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	løpet	løp	subst	subst	_	6	APP	_	_
+4	av	av	prep	prep	_	3	ATR	_	_
+5	dagen	dag	subst	subst	_	4	PUTFYLL	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	kom	komme	verb	verb	_	0	FINV	_	_
+8	de	de	pron	pron	_	7	SUBJ	_	_
+9	til	til	prep	prep	_	7	ADV	_	_
+10	oss	oss	pron	pron	_	9	PUTFYLL	_	_
+11	ja	ja	interj	interj	_	7	INTERJ	_	_
+12	##	##	pause	pause	_	13	IK	_	_
+13	hadde	ha	verb	verb	_	7	KOORD	_	_
+14	telefon	telefon	subst	subst	_	13	DOBJ	_	_
+15	i	i	prep	prep	_	13	ADV	_	_
+16	fjøset	fjøse	subst	subst	_	15	PUTFYLL	_	_
+17	da	da	adv	adv	_	13	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	samband	samband	subst	subst	_	7	KOORD	_	_
+20	med	med	prep	prep	_	19	ATR	_	_
+21	#	#	pause	pause	_	20	IK	_	_
+22	omverdenen	omverden	subst	subst	_	20	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 113
+# segstart = 492.745
+# segstop = 493.104
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 114
+# segstart = 493.104
+# segstop = 498.29
+# speaker = jevnaker_03gm
+# text = ja ## ja ## ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 115
+# segstart = 498.29
+# segstop = 501.2
+# speaker = sr
+# text = men fikk du noe hjelp # på e på gården da e
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	fikk	få	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	noe	noe	det	det	_	5	DET	_	_
+5	hjelp	hjelp	subst	subst	_	2	DOBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	på	på	prep	prep	_	9	REP	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	på	på	prep	prep	_	2	ADV	_	_
+10	gården	gård	subst	subst	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	2	ADV	_	_
+12	e	e	nol	nol	_	11	FYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 117
+# segstart = 501.2
+# segstop = 508.831
+# speaker = jevnaker_03gm
+# text = jo og ja ja så ja så lenge etter ## ja han hadde jo agronom fatteren så lenge han levde
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	og	og	konj	konj	_	1	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	ja	ja	interj	interj	_	1	INTERJ	_	_
+7	så	så	adv	adv	_	6	ADV	_	_
+8	lenge	lenge	adv	adv	_	13	REP	_	_
+9	etter	etter	prep	prep	_	13	REP	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	13	INTERJ	_	_
+12	han	han	pron	pron	_	13	SUBJ	_	_
+13	hadde	ha	verb	verb	_	1	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	agronom	agronom	subst	subst	_	13	DOBJ	_	_
+16	fatteren	fatter	subst	subst	_	12	APP	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	lenge	lenge	adv	adv	_	20	ADV	_	_
+19	han	han	pron	pron	_	20	SUBJ	_	_
+20	levde	leve	verb	verb	_	13	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 118
+# segstart = 508.831
+# segstop = 517.201
+# speaker = jevnaker_03gm
+# text = men etter da han var død så da fikk vi gårdsbestyrer ## fire fem år og så ble mutteren og jeg da # som dreiv
+1	men	men	konj	konj	_	9	KONJ	_	_
+2	etter	etter	prep	prep	_	5	REP	_	_
+3	da	da	sbu	sbu	_	5	SBU	_	_
+4	han	han	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	8	APP	_	_
+6	død	død	adj	adj	_	5	SPRED	_	_
+7	så	så	adv	adv	_	5	ADV	_	_
+8	da	da	adv	adv	_	9	ADV	_	_
+9	fikk	få	verb	verb	_	0	FINV	_	_
+10	vi	vi	pron	pron	_	9	SUBJ	_	_
+11	gårdsbestyrer	gårdsbestyrer	subst	subst	_	9	DOBJ	_	_
+12	##	##	pause	pause	_	13	IK	_	_
+13	fire	fire	det	det	_	15	DET	_	_
+14	fem	fem	det	det	_	13	FLAT	_	_
+15	år	år	subst	subst	_	9	ADV	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	ble	bli	verb	verb	_	9	KOORD	_	_
+19	mutteren	mutter	subst	subst	_	18	SPRED	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	jeg	jeg	pron	pron	_	19	KOORD	_	_
+22	da	da	adv	adv	_	18	ADV	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	som	som	sbu	sbu	_	25	SBU	_	_
+25	dreiv	drive	verb	verb	_	21	ATR	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 119
+# segstart = 517.201
+# segstop = 526.613
+# speaker = jevnaker_03gm
+# text = i fra høsten toogfemti ## så da begynte egentlig ## arbeidsdagen min for fullt
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	fra	fra	prep	prep	_	1	PUTFYLL	_	_
+3	høsten	høst	subst	subst	_	2	PUTFYLL	_	_
+4	toogfemti	toogfemti	det	det	_	3	ATR	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	så	så	konj	konj	_	8	KONJ	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	begynte	begynne	verb	verb	_	1	KOORD	_	_
+9	egentlig	egentlig	adj	adj	_	8	ADV	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	arbeidsdagen	arbeidsdag	subst	subst	_	8	SUBJ	_	_
+12	min	min	det	det	_	11	DET	_	_
+13	for	for	prep	prep	_	8	ADV	_	_
+14	fullt	full	adj	adj	_	13	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 120
+# segstart = 526.613
+# segstop = 528.307
+# speaker = sr
+# text = slutta du på skolen da eller ?
+1	slutta	slutte	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	på	på	prep	prep	_	1	ADV	_	_
+4	skolen	skole	subst	subst	_	3	PUTFYLL	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	eller	eller	konj	konj	_	1	KONJ	_	_
+7	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 121
+# segstart = 528.307
+# segstop = 530.143
+# speaker = jevnaker_03gm
+# text = ja gikk ikke noe særlig på skolen
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	gikk	gå	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	noe	noe	det	det	_	5	ADV	_	_
+5	særlig	særlig	adj	adj	_	2	ADV	_	_
+6	på	på	prep	prep	_	2	ADV	_	_
+7	skolen	skole	subst	subst	_	6	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 122
+# segstart = 530.143
+# segstop = 530.471
+# speaker = sr
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 123
+# segstart = 530.471
+# segstop = 538.889
+# speaker = jevnaker_03gm
+# text = nei # gikk ei stund på framhaldsskolen og # men det var så mye hjemme å gjøre som skulle gjøres måtte jo slutte lenge før e
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	gikk	gå	verb	verb	_	0	FINV	_	_
+4	ei	ei	det	det	_	5	DET	_	_
+5	stund	stund	subst	subst	_	3	ADV	_	_
+6	på	på	prep	prep	_	3	ADV	_	_
+7	framhaldsskolen	framhaldsskole	subst	subst	_	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	10	REP	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	men	men	konj	konj	_	12	KONJ	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	var	være	verb	verb	_	3	KOORD	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	mye	mye	adj	adj	_	12	SPRED	_	_
+15	hjemme	hjemme	prep	prep	_	19	ADV	_	_
+16	å	å	inf-merke	inf-merke	_	19	REP	_	_
+17	gjøre	gjøre	verb	verb	_	16	INFV	_	_
+18	som	som	sbu	sbu	_	19	SBU	_	_
+19	skulle	skulle	verb	verb	_	14	ADV	_	_
+20	gjøres	gjøre	verb	verb	_	19	INFV	_	_
+21	måtte	måtte	verb	verb	_	3	KOORD	_	_
+22	jo	jo	adv	adv	_	23	ADV	_	_
+23	slutte	slutte	verb	verb	_	21	INFV	_	_
+24	lenge	lenge	adv	adv	_	25	ADV	_	_
+25	før	før	prep	prep	_	23	ADV	_	_
+26	e	e	nol	nol	_	23	FYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 124
+# segstart = 538.889
+# segstop = 541.679
+# speaker = jevnaker_03gm
+# text = om våren så slutta jeg for å være med i våronna
+1	om	om	prep	prep	_	3	APP	_	_
+2	våren	vår	subst	subst	_	1	PUTFYLL	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	slutta	slutte	verb	verb	_	0	FINV	_	_
+5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+6	for	for	prep	prep	_	4	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	være	være	verb	verb	_	6	INFV	_	_
+9	med	med	prep	prep	_	8	SPRED	_	_
+10	i	i	prep	prep	_	9	PUTFYLL	_	_
+11	våronna	våronn	subst	subst	_	10	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 125
+# segstart = 541.679
+# segstop = 542.054
+# speaker = sr
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 126
+# segstart = 542.054
+# segstop = 551.814
+# speaker = jevnaker_03gm
+# text = ja # så gikk jeg en vinter på Vestoppland folkehøgskole da # i fra e nittenfemti høsten nittenfemti til våren enogfemti
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	gikk	gå	verb	verb	_	0	FINV	_	_
+5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+6	en	en	det	det	_	7	DET	_	_
+7	vinter	vinter	subst	subst	_	4	ADV	_	_
+8	på	på	prep	prep	_	4	ADV	_	_
+9	Vestoppland	Vestoppland	subst	subst	_	8	PUTFYLL	_	_
+10	folkehøgskole	folkehøgskole	subst	subst	_	9	FLAT	_	_
+11	da	da	adv	adv	_	4	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	4	ADV	_	_
+14	fra	fra	prep	prep	_	13	PUTFYLL	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	nittenfemti	nittenfemti	det	det	_	17	REP	_	_
+17	høsten	høst	subst	subst	_	14	ATR	_	_
+18	nittenfemti	nittenfemti	det	det	_	17	ATR	_	_
+19	til	til	prep	prep	_	4	ADV	_	_
+20	våren	vår	subst	subst	_	19	PUTFYLL	_	_
+21	enogfemti	enogfemti	det	det	_	20	ATR	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 127
+# segstart = 551.814
+# segstop = 559.97
+# speaker = jevnaker_03gm
+# text = og det er den fineste tida jeg har hatt # ja # det er en fin altså # ble òg særskilt gode venner vi som gikk der og # ja
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	REP	_	_
+4	den	den	det	det	_	6	DET	_	_
+5	fineste	fin	adj	adj	_	6	ATR	_	_
+6	tida	tid	subst	subst	_	3	SPRED	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	har	ha	verb	verb	_	6	ATR	_	_
+9	hatt	ha	verb	verb	_	8	INFV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	19	INTERJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	det	det	pron	pron	_	14	FSUBJ	_	_
+14	er	være	verb	verb	_	19	REP	_	_
+15	en	en	det	det	_	16	DET	_	_
+16	fin	fin	adj	adj	_	14	SPRED	_	_
+17	altså	altså	adv	adv	_	14	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	ble	bli	verb	verb	_	3	KOORD	_	_
+20	òg	òg	adv	adv	_	19	ADV	_	_
+21	særskilt	særskilt	adj	adj	_	22	ADV	_	_
+22	gode	god	adj	adj	_	23	ATR	_	_
+23	venner	venn	subst	subst	_	19	SPRED	_	_
+24	vi	vi	pron	pron	_	19	SUBJ	_	_
+25	som	som	sbu	sbu	_	26	SBU	_	_
+26	gikk	gå	verb	verb	_	24	ATR	_	_
+27	der	der	prep	prep	_	26	ADV	_	_
+28	og	og	konj	konj	_	30	KONJ	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	ja	ja	interj	interj	_	19	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 128
+# segstart = 559.97
+# segstop = 561.353
+# speaker = sr
+# text = e kjenner du noen ennå ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	kjenner	kjenne	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	noen	noen	pron	pron	_	2	DOBJ	_	_
+5	ennå	ennå	adv	adv	_	2	ADV	_	_
+6	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 129
+# segstart = 561.353
+# segstop = 567.625
+# speaker = jevnaker_03gm
+# text = å ja jøss kjenner jo folk enda gitt ja # ja de begynner å dø # dessverre ja
+1	å	å	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	jøss	jøss	interj	interj	_	1	INTERJ	_	_
+4	kjenner	kjenne	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	folk	folk	subst	subst	_	4	DOBJ	_	_
+7	enda	enda	adv	adv	_	4	ADV	_	_
+8	gitt	gitt	interj	interj	_	4	INTERJ	_	_
+9	ja	ja	interj	interj	_	4	INTERJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	13	INTERJ	_	_
+12	de	de	pron	pron	_	13	SUBJ	_	_
+13	begynner	begynne	verb	verb	_	4	KOORD	_	_
+14	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+15	dø	dø	verb	verb	_	14	INFV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	dessverre	dessverre	adv	adv	_	15	ADV	_	_
+18	ja	ja	interj	interj	_	13	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 130
+# segstart = 567.625
+# segstop = 568.047
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 131
+# segstart = 568.047
+# segstop = 579.494
+# speaker = jevnaker_03gm
+# text = ja # så det er ikke så le- det var nå i sommer jeg traff igjen en ## M1 han har jeg sett bare en gang sia vi # gikk på folkehøgskolen
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	10	REP	_	_
+6	ikke	ikke	adv	adv	_	5	ADV	_	_
+7	så	så	adv	adv	_	5	ADV	_	_
+8	le-	le-	ufullst	ufullst	_	5	FYLL	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	var	være	verb	verb	_	0	FINV	_	_
+11	nå	nå	adv	adv	_	10	ADV	_	_
+12	i	i	prep	prep	_	10	SPRED	_	_
+13	sommer	sommer	subst	subst	_	12	PUTFYLL	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	traff	treffe	verb	verb	_	10	PSUBJ	_	_
+16	igjen	igjen	adv	adv	_	15	ADV	_	_
+17	en	en	pron	pron	_	15	DOBJ	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	M1	M1	subst	subst	_	20	APP	_	_
+20	han	han	pron	pron	_	23	DOBJ	_	_
+21	har	ha	verb	verb	_	10	KOORD	_	_
+22	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+23	sett	se	verb	verb	_	21	INFV	_	_
+24	bare	bare	adv	adv	_	25	ADV	_	_
+25	en	en	det	det	_	26	DET	_	_
+26	gang	gang	subst	subst	_	23	ADV	_	_
+27	sia	siden	sbu	sbu	_	30	SBU	_	_
+28	vi	vi	pron	pron	_	30	SUBJ	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	gikk	gå	verb	verb	_	23	ADV	_	_
+31	på	på	prep	prep	_	30	ADV	_	_
+32	folkehøgskolen	folkehøgskole	subst	subst	_	31	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 132
+# segstart = 579.494
+# segstop = 580.567
+# speaker = sr
+# text = kjente du han igjen da ?
+1	kjente	kjenne	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	han	han	pron	pron	_	1	DOBJ	_	_
+4	igjen	igjen	adv	adv	_	1	ADV	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 133
+# segstart = 580.567
+# segstop = 581.76
+# speaker = jevnaker_03gm
+# text = han kjente igjen meg
+1	han	han	pron	pron	_	2	SUBJ	_	_
+2	kjente	kjenne	verb	verb	_	0	FINV	_	_
+3	igjen	igjen	adv	adv	_	2	ADV	_	_
+4	meg	meg	pron	pron	_	2	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 134
+# segstart = 581.76
+# segstop = 582.142
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 135
+# segstart = 582.142
+# segstop = 592.229
+# speaker = jevnaker_03gm
+# text = ja # ja # vi var i Tingelstad gamle kirke i # på gudstjeneste ## i bort i # Brandbu
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	6	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	i	i	prep	prep	_	6	ADV	_	_
+8	Tingelstad	Tingelstad	subst	subst	_	7	PUTFYLL	_	_
+9	gamle	gammel	adj	adj	_	8	FLAT	_	_
+10	kirke	kirke	subst	subst	_	8	FLAT	_	_
+11	i	i	prep	prep	_	13	REP	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	på	på	prep	prep	_	6	SPRED	_	_
+14	gudstjeneste	gudstjeneste	subst	subst	_	13	PUTFYLL	_	_
+15	##	##	pause	pause	_	16	IK	_	_
+16	i	i	prep	prep	_	17	REP	_	_
+17	bort	bort	prep	prep	_	6	ADV	_	_
+18	i	i	prep	prep	_	17	PUTFYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	Brandbu	Brandbu	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 136
+# segstart = 592.229
+# segstop = 592.854
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 137
+# segstart = 592.854
+# segstop = 596.932
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 138
+# segstart = 596.932
+# segstop = 598.959
+# speaker = sr
+# text = men agronom hva er det ?
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	agronom	agronom	subst	subst	_	5	APP	_	_
+3	hva	hva	pron	pron	_	4	SPRED	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	SUBJ	_	_
+6	?	?	clb	clb	_	4	IP	_	_
+
+# SR: Usikker på funksjonen til 'det å gå på...'. Valgte derfor SPRED etter intuisjon, men er det OK med dobbel SPRED?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 139
+# segstart = 598.959
+# segstop = 610.954
+# speaker = jevnaker_03gm
+# text = agronom # han har e gått på landbruksskolen ## da ble de agronomer # så jeg er ikke noe agronom altså for det ble ikke anledning det å gå på en landbruksskole
+1	agronom	agronom	subst	subst	_	3	APP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	han	han	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	gått	gå	verb	verb	_	4	INFV	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	landbruksskolen	landbruksskole	subst	subst	_	7	PUTFYLL	_	_
+9	##	##	pause	pause	_	10	IK	_	_
+10	da	da	adv	adv	_	11	ADV	_	_
+11	ble	bli	verb	verb	_	4	KOORD	_	_
+12	de	de	pron	pron	_	11	SUBJ	_	_
+13	agronomer	agronom	subst	subst	_	11	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	17	KONJ	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	er	være	verb	verb	_	4	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	noe	noe	pron	pron	_	20	DET	_	_
+20	agronom	agronom	subst	subst	_	17	SPRED	_	_
+21	altså	altså	adv	adv	_	17	ADV	_	_
+22	for	for	konj	konj	_	24	KONJ	_	_
+23	det	det	pron	pron	_	24	FSUBJ	_	_
+24	ble	bli	verb	verb	_	4	KOORD	_	_
+25	ikke	ikke	adv	adv	_	24	ADV	_	_
+26	anledning	anledning	subst	subst	_	24	SPRED	_	_
+27	det	det	pron	pron	_	26	ATR	_	_
+28	å	å	inf-merke	inf-merke	_	27	APP	_	_
+29	gå	gå	verb	verb	_	28	INFV	_	_
+30	på	på	prep	prep	_	29	ADV	_	_
+31	en	en	det	det	_	32	DET	_	_
+32	landbruksskole	landbruksskole	subst	subst	_	30	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 140
+# segstart = 610.954
+# segstop = 611.423
+# speaker = sr
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 141
+# segstart = 611.423
+# segstop = 623.49
+# speaker = jevnaker_03gm
+# text = nei ## så jeg veit egentlig åssen det er å komme ut i livet uten # skole # og det # unner jeg ingen
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	veit	vite	verb	verb	_	0	FINV	_	_
+6	egentlig	egentlig	adj	adj	_	5	ADV	_	_
+7	åssen	åssen	adv	adv	_	9	SPRED	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	5	DOBJ	_	_
+10	å	å	inf-merke	inf-merke	_	9	PSUBJ	_	_
+11	komme	komme	verb	verb	_	10	INFV	_	_
+12	ut	ut	prep	prep	_	11	ADV	_	_
+13	i	i	prep	prep	_	12	PUTFYLL	_	_
+14	livet	liv	subst	subst	_	13	PUTFYLL	_	_
+15	uten	uten	prep	prep	_	11	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	skole	skole	subst	subst	_	15	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	og	og	konj	konj	_	22	KONJ	_	_
+20	det	det	pron	pron	_	22	DOBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	unner	unne	verb	verb	_	5	KOORD	_	_
+23	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+24	ingen	ingen	det	det	_	22	IOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 142
+# segstart = 623.49
+# segstop = 623.991
+# speaker = sr
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# SR: Her virker det som han bruker 'det fakta' tilsvarende 'de facto'. :D Satte som ADV, men strukturen bør kanskje være flat?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 143
+# segstart = 623.991
+# segstop = 635.772
+# speaker = jevnaker_03gm
+# text = nei det ## da blir en ## da blir en det fakta hjelpeslaus # veldig fort gitt
+1	nei	nei	interj	interj	_	9	INTERJ	_	_
+2	det	det	pron	pron	_	5	REP	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	blir	bli	verb	verb	_	9	REP	_	_
+6	en	en	pron	pron	_	5	SUBJ	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	da	da	adv	adv	_	9	ADV	_	_
+9	blir	bli	verb	verb	_	0	FINV	_	_
+10	en	en	pron	pron	_	9	SUBJ	_	_
+11	det	det	det	det	_	9	ADV	_	_
+12	fakta	faktum	subst	subst	_	11	FLAT	_	_
+13	hjelpeslaus	hjelpeslaus	adj	adj	_	9	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	veldig	veldig	adj	adj	_	16	ADV	_	_
+16	fort	fort	adj	adj	_	9	ADV	_	_
+17	gitt	gitt	interj	interj	_	9	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 144
+# segstart = 635.772
+# segstop = 644.262
+# speaker = jevnaker_03gm
+# text = får det derre redsels- ## føler at du ikke når opp # i sammen med # jeg har jo vært ve-
+1	får	få	verb	verb	_	6	REP	_	_
+2	det	det	det	det	_	1	DOBJ	_	_
+3	derre	derre	adv	adv	_	2	ATR	_	_
+4	redsels-	redsel	ufullst	ufullst	_	6	FYLL	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	føler	føle	verb	verb	_	0	FINV	_	_
+7	at	at	sbu	sbu	_	10	SBU	_	_
+8	du	du	pron	pron	_	10	SUBJ	_	_
+9	ikke	ikke	adv	adv	_	10	ADV	_	_
+10	når	nå	verb	verb	_	6	DOBJ	_	_
+11	opp	opp	prep	prep	_	10	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	14	ADV	_	_
+14	sammen	sammen	adv	adv	_	15	ADV	_	_
+15	med	med	prep	prep	_	10	SLETT	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	har	ha	verb	verb	_	6	SLETT	_	_
+19	jo	jo	adv	adv	_	20	ADV	_	_
+20	vært	være	verb	verb	_	18	INFV	_	_
+21	ve-	ve	ufullst	ufullst	_	20	FYLL	_	_
+
+# SR: Noe sier meg at 'veldig mye' bør modifisere 'med i alt...', men usikker.
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 145
+# segstart = 644.262
+# segstop = 653.014
+# speaker = jevnaker_03gm
+# text = jeg som vaksen har jeg vært veldig mye med # i alt som har skjedd i bygda altså ## det har jeg så jeg
+1	jeg	jeg	pron	pron	_	4	REP	_	_
+2	som	som	prep	prep	_	4	SPRED	_	_
+3	vaksen	vaksen	adj	adj	_	2	PUTFYLL	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+6	vært	være	verb	verb	_	4	INFV	_	_
+7	veldig	veldig	adj	adj	_	8	ADV	_	_
+8	mye	mye	adj	adj	_	9	ADV	_	_
+9	med	med	prep	prep	_	6	SPRED	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	i	i	prep	prep	_	9	PUTFYLL	_	_
+12	alt	alt	pron	pron	_	11	PUTFYLL	_	_
+13	som	som	sbu	sbu	_	14	SBU	_	_
+14	har	ha	verb	verb	_	12	ATR	_	_
+15	skjedd	skje	verb	verb	_	14	INFV	_	_
+16	i	i	prep	prep	_	15	ADV	_	_
+17	bygda	bygd	subst	subst	_	16	PUTFYLL	_	_
+18	altså	altså	adv	adv	_	15	ADV	_	_
+19	##	##	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	21	DOBJ	_	_
+21	har	ha	verb	verb	_	4	KOORD	_	_
+22	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+23	så	så	konj	konj	_	22	KONJ	_	_
+24	jeg	jeg	pron	pron	_	21	SLETT	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 146
+# segstart = 653.014
+# segstop = 659.508
+# speaker = jevnaker_03gm
+# text = og vært leder i e i den som er gardbruker han kom ble knytta til så mye
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	vært	være	verb	verb	_	13	SLETT	_	_
+3	leder	leder	subst	subst	_	2	SPRED	_	_
+4	i	i	prep	prep	_	6	REP	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	i	i	prep	prep	_	3	ATR	_	_
+7	den	den	pron	pron	_	11	APP	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	er	være	verb	verb	_	7	ATR	_	_
+10	gardbruker	gardbruker	subst	subst	_	9	SPRED	_	_
+11	han	han	pron	pron	_	13	SUBJ	_	_
+12	kom	komme	verb	verb	_	13	REP	_	_
+13	ble	bli	verb	verb	_	0	FINV	_	_
+14	knytta	knytte	verb	verb	_	13	INFV	_	_
+15	til	til	prep	prep	_	14	ADV	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	mye	mye	adj	adj	_	15	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 147
+# segstart = 659.508
+# segstop = 667.099
+# speaker = jevnaker_03gm
+# text = s- det er grunneierlag og det er bondelag og det er skolelag og # alt sånt
+1	s-	s-	ufullst	ufullst	_	2	FYLL	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	grunneierlag	grunneierlag	subst	subst	_	3	PSUBJ	_	_
+5	og	og	konj	konj	_	7	KONJ	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	3	KOORD	_	_
+8	bondelag	bondelag	subst	subst	_	7	PSUBJ	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	3	KOORD	_	_
+12	skolelag	skolelag	subst	subst	_	11	SPRED	_	_
+13	og	og	konj	konj	_	16	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	alt	alt	det	det	_	16	DET	_	_
+16	sånt	sånt	pron	pron	_	12	KOORD	_	_
+
+# file = jevnaker_03gm-sr
+# id = 148
+# segstart = 667.099
+# segstop = 674.253
+# speaker = jevnaker_03gm
+# text = så når jeg ## var ferdig med alle de jobbene og så da hadde jeg jammen hatt sånne jobber i tretti
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	når	når	sbu	sbu	_	5	SBU	_	_
+3	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	var	være	verb	verb	_	13	APP	_	_
+6	ferdig	ferdig	adj	adj	_	5	SPRED	_	_
+7	med	med	prep	prep	_	6	ADV	_	_
+8	alle	alle	det	det	_	10	DET	_	_
+9	de	de	det	det	_	10	DET	_	_
+10	jobbene	jobb	subst	subst	_	7	PUTFYLL	_	_
+11	og	og	konj	konj	_	5	KONJ	_	_
+12	så	så	adv	adv	_	5	ADV	_	_
+13	da	da	adv	adv	_	14	ADV	_	_
+14	hadde	ha	verb	verb	_	0	KOORD	_	_
+15	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+16	jammen	jammen	adv	adv	_	17	ADV	_	_
+17	hatt	ha	verb	verb	_	14	INFV	_	_
+18	sånne	sånne	det	det	_	19	DET	_	_
+19	jobber	jobbe	subst	subst	_	17	DOBJ	_	_
+20	i	i	prep	prep	_	17	ADV	_	_
+21	tretti	tretti	det	det	_	20	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 149
+# segstart = 674.253
+# segstop = 678.618
+# speaker = jevnaker_03gm
+# text = hvis jeg la dem etter hverandre så ble det tretti år det gitt
+1	hvis	hvis	sbu	sbu	_	3	SBU	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	la	legge	verb	verb	_	7	APP	_	_
+4	dem	dem	pron	pron	_	3	DOBJ	_	_
+5	etter	etter	prep	prep	_	3	ADV	_	_
+6	hverandre	hverandre	pron	pron	_	5	PUTFYLL	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	ble	bli	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	tretti	tretti	det	det	_	9	DET	_	_
+11	år	år	subst	subst	_	8	SPRED	_	_
+12	det	det	pron	pron	_	9	APP	_	_
+13	gitt	gitt	interj	interj	_	8	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 150
+# segstart = 678.618
+# segstop = 679.095
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 151
+# segstart = 679.095
+# segstop = 687.132
+# speaker = jevnaker_03gm
+# text = ja # så det ei # det er utdannelsen min for så vidt da har vært med på mye sånt # foreningsliv og
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	8	KONJ	_	_
+4	det	det	pron	pron	_	5	REP	_	_
+5	ei	en	det	det	_	7	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	utdannelsen	utdannelse	subst	subst	_	8	SPRED	_	_
+10	min	min	det	det	_	9	DET	_	_
+11	for	for	prep	prep	_	8	ADV	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	vidt	vid	adj	adj	_	11	PUTFYLL	_	_
+14	da	da	adv	adv	_	8	ADV	_	_
+15	har	ha	verb	verb	_	8	KOORD	_	_
+16	vært	være	verb	verb	_	15	INFV	_	_
+17	med	med	prep	prep	_	16	SPRED	_	_
+18	på	på	prep	prep	_	17	PUTFYLL	_	_
+19	mye	mye	adj	adj	_	22	ATR	_	_
+20	sånt	sånn	det	det	_	22	DET	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	foreningsliv	foreningsliv	subst	subst	_	18	PUTFYLL	_	_
+23	og	og	konj	konj	_	22	KONJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 152
+# segstart = 687.132
+# segstop = 687.976
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 153
+# segstart = 687.976
+# segstop = 692.259
+# speaker = jevnaker_03gm
+# text = ja # men dette blir kanskje litt utafor spørrelista dette herre her eller ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	dette	dette	pron	pron	_	5	SUBJ	_	_
+5	blir	bli	verb	verb	_	0	FINV	_	_
+6	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+7	litt	litt	adj	adj	_	8	ADV	_	_
+8	utafor	utafor	prep	prep	_	5	SPRED	_	_
+9	spørrelista	spørreliste	subst	subst	_	8	PUTFYLL	_	_
+10	dette	dette	pron	pron	_	4	APP	_	_
+11	herre	herre	adv	adv	_	10	ATR	_	_
+12	her	her	prep	prep	_	10	ATR	_	_
+13	eller	eller	konj	konj	_	5	KONJ	_	_
+14	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 154
+# segstart = 692.259
+# segstop = 693.356
+# speaker = sr
+# text = nei det har ikke noe å si det
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	noe	noe	pron	pron	_	3	DOBJ	_	_
+6	å	å	inf-merke	inf-merke	_	5	ATR	_	_
+7	si	si	verb	verb	_	6	INFV	_	_
+8	det	det	pron	pron	_	2	APP	_	_
+
+# SR: Angående 'prøver å så gjemme'. Denne 'å så ...'-konstruksjon er vel ganske vanlig i talemål. 'Så' kan vel ikke annoteres som noe annet enn adverbial?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 155
+# segstart = 693.356
+# segstop = 702.537
+# speaker = jevnaker_03gm
+# text = det har ikke noe å si nei # nei jeg har jo vært # så jeg prøver selvfølgelig å så gjemme de gode minnene
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	noe	noe	pron	pron	_	2	DOBJ	_	_
+5	å	å	inf-merke	inf-merke	_	4	ATR	_	_
+6	si	si	verb	verb	_	5	INFV	_	_
+7	nei	nei	interj	interj	_	2	INTERJ	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	nei	nei	interj	interj	_	11	INTERJ	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	17	REP	_	_
+12	jo	jo	adv	adv	_	13	ADV	_	_
+13	vært	være	verb	verb	_	11	INFV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	17	KONJ	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	prøver	prøve	verb	verb	_	2	KOORD	_	_
+18	selvfølgelig	selvfølgelig	adj	adj	_	17	ADV	_	_
+19	å	å	inf-merke	inf-merke	_	17	DOBJ	_	_
+20	så	så	adv	adv	_	19	FLAT	_	_
+21	gjemme	gjemme	verb	verb	_	19	INFV	_	_
+22	de	de	det	det	_	24	DET	_	_
+23	gode	god	adj	adj	_	24	ATR	_	_
+24	minnene	minne	subst	subst	_	21	DOBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 156
+# segstart = 702.537
+# segstop = 713.507
+# speaker = jevnaker_03gm
+# text = og så # glømme det som ikke er så # så jeg synes jeg sitter med mange gode minner ifra # alt selv om jeg var livende redd vet du når jeg
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	glømme	glømme	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	DOBJ	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	ikke	ikke	adv	adv	_	8	ADV	_	_
+8	er	være	verb	verb	_	5	ATR	_	_
+9	så	så	adv	adv	_	8	SPRED	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	så	så	konj	konj	_	13	KONJ	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	synes	synes	verb	verb	_	4	KOORD	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	sitter	sitte	verb	verb	_	13	DOBJ	_	_
+16	med	med	prep	prep	_	15	ADV	_	_
+17	mange	mange	adj	adj	_	19	ATR	_	_
+18	gode	god	adj	adj	_	19	ATR	_	_
+19	minner	minne	subst	subst	_	16	PUTFYLL	_	_
+20	ifra	ifra	prep	prep	_	19	ATR	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	alt	alt	pron	pron	_	20	PUTFYLL	_	_
+23	selv	selv	adv	adv	_	24	ADV	_	_
+24	om	om	sbu	sbu	_	26	SBU	_	_
+25	jeg	jeg	pron	pron	_	26	SUBJ	_	_
+26	var	være	verb	verb	_	15	ADV	_	_
+27	livende	livende	adj	adj	_	28	ADV	_	_
+28	redd	redd	adj	adj	_	26	SPRED	_	_
+29	vet	vite	verb	verb	_	26	PAR	_	_
+30	du	du	pron	pron	_	29	SUBJ	_	_
+31	når	når	sbu	sbu	_	30	SBU	_	_
+32	jeg	jeg	pron	pron	_	26	SLETT	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 157
+# segstart = 713.507
+# segstop = 720.089
+# speaker = jevnaker_03gm
+# text = vi hadde jo til og med Per Borten her # i toogsytti # jeg tok i mot han i toogsytti
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	hadde	ha	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	til	til	prep	prep	_	7	ATR	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	med	med	prep	prep	_	4	KOORD	_	_
+7	Per	Per	subst	subst	_	2	PUTFYLL	_	_
+8	Borten	Borten	subst	subst	_	7	FLAT	_	_
+9	her	her	prep	prep	_	2	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	i	i	prep	prep	_	2	ADV	_	_
+12	toogsytti	toogsytti	det	det	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	tok	ta	verb	verb	_	2	KOORD	_	_
+16	i	i	prep	prep	_	15	ADV	_	_
+17	mot	mot	prep	prep	_	16	PUTFYLL	_	_
+18	han	han	pron	pron	_	15	DOBJ	_	_
+19	i	i	prep	prep	_	15	ADV	_	_
+20	toogsytti	toogsytti	det	det	_	19	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 158
+# segstart = 720.089
+# segstop = 720.59
+# speaker = sr
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 159
+# segstart = 720.59
+# segstop = 734.374
+# speaker = jevnaker_03gm
+# text = ja det e # ja da var jeg ikke fælt høg i hatten men # i ettertida # lokale bort da som
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	det	det	pron	pron	_	7	REP	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	7	INTERJ	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	var	være	verb	verb	_	0	FINV	_	_
+8	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+9	ikke	ikke	adv	adv	_	7	ADV	_	_
+10	fælt	fælt	adj	adj	_	11	ADV	_	_
+11	høg	høg	adj	adj	_	7	SPRED	_	_
+12	i	i	prep	prep	_	11	ADV	_	_
+13	hatten	hatt	subst	subst	_	12	PUTFYLL	_	_
+14	men	men	konj	konj	_	16	KONJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	i	i	prep	prep	_	7	KOORD	_	_
+17	ettertida	ettertid	subst	subst	_	16	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	FYLL	_	_
+19	lokale	lokal	subst	subst	_	7	SLETT	_	_
+20	bort	bort	prep	prep	_	19	ADV	_	_
+21	da	da	adv	adv	_	19	ADV	_	_
+22	som	som	sbu	sbu	_	19	SBU	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 160
+# segstart = 728.937
+# segstop = 734.374
+# speaker = jevnaker_03gm
+# text = Bøndernes hus var der vi hadde møte om e- # es- EEC het det da
+1	Bøndernes	Bøndernes	subst	subst	_	3	SUBJ	_	_
+2	hus	hus	subst	subst	_	1	FLAT	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	der	der	sbu	sbu	_	6	SBU	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	hadde	ha	verb	verb	_	3	SPRED	_	_
+7	møte	møte	subst	subst	_	6	DOBJ	_	_
+8	om	om	prep	prep	_	7	ATR	_	_
+9	e-	e-	ufullst	ufullst	_	12	FYLL	_	_
+10	#	#	pause	pause	_	12	IK	_	_
+11	es-	es-	ufullst	ufullst	_	12	FYLL	_	_
+12	EEC	EEC	subst	subst	_	8	PUTFYLL	_	_
+13	het	hete	verb	verb	_	3	PAR	_	_
+14	det	det	pron	pron	_	13	FSUBJ	_	_
+15	da	da	adv	adv	_	13	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 161
+# segstart = 728.937
+# segstop = 734.374
+# speaker = sr
+# text = * EEC ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	EEC	EEC	subst	subst	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 162
+# segstart = 734.374
+# segstop = 743.269
+# speaker = jevnaker_03gm
+# text = ja ## da var det fullt her gitt to hundre og femti stykker # ja ## så det ble et minne # for livet det
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	fullt	full	adj	adj	_	4	SPRED	_	_
+7	her	her	prep	prep	_	4	ADV	_	_
+8	gitt	gitt	interj	interj	_	4	INTERJ	_	_
+9	to	to	det	det	_	10	DET	_	_
+10	hundre	hundre	det	det	_	13	DET	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	femti	femti	det	det	_	10	KOORD	_	_
+13	stykker	stykke	subst	subst	_	4	KOORD	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	ja	ja	interj	interj	_	19	INTERJ	_	_
+16	##	##	pause	pause	_	17	IK	_	_
+17	så	så	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	19	SUBJ	_	_
+19	ble	bli	verb	verb	_	4	KOORD	_	_
+20	et	et	det	det	_	21	DET	_	_
+21	minne	minne	subst	subst	_	19	SPRED	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	for	for	prep	prep	_	21	ATR	_	_
+24	livet	liv	subst	subst	_	23	PUTFYLL	_	_
+25	det	det	pron	pron	_	18	APP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 163
+# segstart = 743.269
+# segstop = 743.722
+# speaker = sr
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 164
+# segstart = 743.722
+# segstop = 746.512
+# speaker = jevnaker_03gm
+# text = ja en av toppfigurene i Norge det veit du
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	en	en	det	det	_	1	ADV	_	_
+3	av	av	prep	prep	_	2	ATR	_	_
+4	toppfigurene	toppfigur	subst	subst	_	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	4	ATR	_	_
+6	Norge	Norge	subst	subst	_	4	PUTFYLL	_	_
+7	det	det	pron	pron	_	2	APP	_	_
+8	veit	vite	verb	verb	_	1	PAR	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 165
+# segstart = 746.512
+# segstop = 746.777
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 166
+# segstart = 746.777
+# segstop = 756.623
+# speaker = jevnaker_03gm
+# text = ja ## tyvende april # toogsytti ## ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	tyvende	tyvende	adj	adj	_	4	ATR	_	_
+4	april	april	subst	subst	_	1	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	toogsytti	toogsytti	det	det	_	1	ADV	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 167
+# segstart = 756.623
+# segstop = 759.604
+# speaker = sr
+# text = var du # for eller mot ?
+1	var	være	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	for	for	prep	prep	_	1	SPRED	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	mot	mot	prep	prep	_	4	KOORD	_	_
+7	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 168
+# segstart = 762.8
+# segstop = 765.686
+# speaker = jevnaker_03gm
+# text = ja ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 169
+# segstart = 765.686
+# segstop = 766.514
+# speaker = sr
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 170
+# segstart = 766.514
+# segstop = 767.301
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 171
+# segstart = 767.301
+# segstop = 773.501
+# speaker = sr
+# text = noen andre # gode minner du vil # eller s- husker spesielt ?
+1	noen	noen	det	det	_	5	DET	_	_
+2	andre	andre	det	det	_	5	DET	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	gode	god	adj	adj	_	5	ATR	_	_
+5	minner	minne	subst	subst	_	0	FRAG	_	_
+6	du	du	pron	pron	_	11	SUBJ	_	_
+7	vil	vil	verb	verb	_	11	REP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	eller	eller	konj	konj	_	11	KONJ	_	_
+10	s-	s-	ufullst	ufullst	_	11	FYLL	_	_
+11	husker	huske	verb	verb	_	5	ATR	_	_
+12	spesielt	spesiell	adj	adj	_	11	ADV	_	_
+13	?	?	clb	clb	_	11	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 172
+# segstart = 773.501
+# segstop = 788.811
+# speaker = jevnaker_03gm
+# text = som # fra foreningsliv eller som # perso- privat # ja ## jeg var jo # gården hjemme da for å k- ta litt om den
+1	som	som	prep	prep	_	0	FRAG	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	fra	fra	prep	prep	_	1	PUTFYLL	_	_
+4	foreningsliv	foreningsliv	subst	subst	_	3	PUTFYLL	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	som	som	prep	prep	_	1	KOORD	_	_
+7	#	#	pause	pause	_	9	IK	_	_
+8	perso-	perso-	ufullst	ufullst	_	9	FYLL	_	_
+9	privat	privat	adj	adj	_	6	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	14	INTERJ	_	_
+12	##	##	pause	pause	_	13	IK	_	_
+13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	17	REP	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	gården	gård	subst	subst	_	1	KOORD	_	_
+18	hjemme	hjemme	prep	prep	_	17	ATR	_	_
+19	da	da	adv	adv	_	17	ADV	_	_
+20	for	for	prep	prep	_	17	PAR	_	_
+21	å	å	inf-merke	inf-merke	_	20	PUTFYLL	_	_
+22	k-	k-	ufullst	ufullst	_	23	FYLL	_	_
+23	ta	ta	verb	verb	_	21	INFV	_	_
+24	litt	litt	adj	adj	_	23	ADV	_	_
+25	om	om	prep	prep	_	23	ADV	_	_
+26	den	den	det	det	_	25	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 173
+# segstart = 788.811
+# segstop = 797.587
+# speaker = jevnaker_03gm
+# text = så den e da faren min tok over så ble gården delt på nytt # mellom to brødre
+1	så	så	konj	konj	_	10	KONJ	_	_
+2	den	den	det	det	_	10	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	da	da	sbu	sbu	_	7	SBU	_	_
+5	faren	fare	subst	subst	_	7	SUBJ	_	_
+6	min	min	det	det	_	5	DET	_	_
+7	tok	ta	verb	verb	_	9	APP	_	_
+8	over	over	prep	prep	_	7	ADV	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	ble	bli	verb	verb	_	0	FINV	_	_
+11	gården	gård	subst	subst	_	10	SUBJ	_	_
+12	delt	dele	verb	verb	_	10	INFV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	nytt	ny	adj	adj	_	13	PUTFYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	mellom	mellom	prep	prep	_	12	ADV	_	_
+17	to	to	det	det	_	18	DET	_	_
+18	brødre	bror	subst	subst	_	16	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 174
+# segstart = 797.587
+# segstop = 807.054
+# speaker = jevnaker_03gm
+# text = og han e han M2 han levde # til i femogsytti han # men han ble ikke gift
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	han	han	pron	pron	_	4	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	han	han	pron	pron	_	5	DET	_	_
+5	M2	M2	subst	subst	_	6	APP	_	_
+6	han	han	pron	pron	_	7	SUBJ	_	_
+7	levde	leve	verb	verb	_	0	FINV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	til	til	prep	prep	_	7	ADV	_	_
+10	i	i	prep	prep	_	9	PUTFYLL	_	_
+11	femogsytti	femogsytti	det	det	_	10	PUTFYLL	_	_
+12	han	han	pron	pron	_	6	APP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	men	men	konj	konj	_	16	KONJ	_	_
+15	han	han	pron	pron	_	16	SUBJ	_	_
+16	ble	bli	verb	verb	_	7	KOORD	_	_
+17	ikke	ikke	adv	adv	_	16	ADV	_	_
+18	gift	gift	adj	adj	_	16	SPRED	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 175
+# segstart = 807.054
+# segstop = 814.352
+# speaker = jevnaker_03gm
+# text = så da den gården skulle skifte eier da så da drev vi i syv år og # krangla om det
+1	så	så	konj	konj	_	11	KONJ	_	_
+2	da	da	sbu	sbu	_	5	SBU	_	_
+3	den	den	det	det	_	4	DET	_	_
+4	gården	gård	subst	subst	_	5	SUBJ	_	_
+5	skulle	skulle	verb	verb	_	9	APP	_	_
+6	skifte	skifte	verb	verb	_	5	INFV	_	_
+7	eier	eier	subst	subst	_	6	DOBJ	_	_
+8	da	da	adv	adv	_	6	ADV	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	da	da	adv	adv	_	11	ADV	_	_
+11	drev	drive	verb	verb	_	0	KOORD	_	_
+12	vi	vi	pron	pron	_	11	SUBJ	_	_
+13	i	i	prep	prep	_	11	ADV	_	_
+14	syv	syv	det	det	_	15	DET	_	_
+15	år	år	subst	subst	_	13	PUTFYLL	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	krangla	krangle	verb	verb	_	11	KOORD	_	_
+19	om	om	prep	prep	_	18	ADV	_	_
+20	det	det	pron	pron	_	19	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 176
+# segstart = 814.352
+# segstop = 821.077
+# speaker = jevnaker_03gm
+# text = så ble det da s- e ble eiendommen solgt på auksjon # her i samfunnshuset da e satt rundt formannskapsbolig
+1	så	så	adv	adv	_	7	ADV	_	_
+2	ble	bli	verb	verb	_	7	REP	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	s-	s-	ufullst	ufullst	_	7	FYLL	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	ble	bli	verb	verb	_	0	FINV	_	_
+8	eiendommen	eiendom	subst	subst	_	7	SUBJ	_	_
+9	solgt	selge	verb	verb	_	7	INFV	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	auksjon	auksjon	subst	subst	_	10	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	her	her	prep	prep	_	9	ADV	_	_
+14	i	i	prep	prep	_	13	PUTFYLL	_	_
+15	samfunnshuset	samfunnshus	subst	subst	_	14	PUTFYLL	_	_
+16	da	da	adv	adv	_	9	ADV	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	satt	sitte	verb	verb	_	7	KOORD	_	_
+19	rundt	rundt	prep	prep	_	18	ADV	_	_
+20	formannskapsbolig	formannskapsbolig	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 177
+# segstart = 821.077
+# segstop = 830.449
+# speaker = jevnaker_03gm
+# text = familien # som var interessert i å ta det over ## og da e # den som ville betale mest den fikk den
+1	familien	familie	subst	subst	_	0	FRAG	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	var	være	verb	verb	_	1	ATR	_	_
+5	interessert	interessert	adj	adj	_	4	SPRED	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	ta	ta	verb	verb	_	7	INFV	_	_
+9	det	det	pron	pron	_	8	DOBJ	_	_
+10	over	over	prep	prep	_	8	ADV	_	_
+11	##	##	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	22	KONJ	_	_
+13	da	da	adv	adv	_	16	REP	_	_
+14	e	e	nol	nol	_	16	FYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	den	den	pron	pron	_	21	APP	_	_
+17	som	som	sbu	sbu	_	18	SBU	_	_
+18	ville	ville	verb	verb	_	16	ATR	_	_
+19	betale	betale	verb	verb	_	18	INFV	_	_
+20	mest	mye	adj	adj	_	19	ADV	_	_
+21	den	den	pron	pron	_	22	SUBJ	_	_
+22	fikk	få	verb	verb	_	1	FINV	_	_
+23	den	den	pron	pron	_	22	DOBJ	_	_
+
+# SR: Ok å sette to APPer slik som dette?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 178
+# segstart = 830.449
+# segstop = 838.39
+# speaker = jevnaker_03gm
+# text = så det glømmer jeg jo aldri da sorenskriveren slo da vet da gården var solgt og jeg hadde høgeste bud # da fikk jeg slått i sammen igjen
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	DOBJ	_	_
+3	glømmer	glømme	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	aldri	aldri	adv	adv	_	3	ADV	_	_
+7	da	da	sbu	sbu	_	9	SBU	_	_
+8	sorenskriveren	sorenskriver	subst	subst	_	9	SUBJ	_	_
+9	slo	slå	verb	verb	_	2	APP	_	_
+10	da	da	adv	adv	_	9	ADV	_	_
+11	vet	vite	verb	verb	_	12	REP	_	_
+12	da	da	sbu	sbu	_	14	SBU	_	_
+13	gården	gård	subst	subst	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	9	ADV	_	_
+15	solgt	selge	verb	verb	_	14	INFV	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	hadde	ha	verb	verb	_	14	KOORD	_	_
+19	høgeste	høg	adj	adj	_	20	ATR	_	_
+20	bud	bud	subst	subst	_	18	DOBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	da	da	adv	adv	_	23	ADV	_	_
+23	fikk	få	verb	verb	_	3	KOORD	_	_
+24	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+25	slått	slå	verb	verb	_	23	INFV	_	_
+26	i	i	prep	prep	_	25	ADV	_	_
+27	sammen	sammen	adv	adv	_	26	PUTFYLL	_	_
+28	igjen	igjen	adv	adv	_	25	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 179
+# segstart = 838.39
+# segstop = 838.605
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 180
+# segstart = 838.605
+# segstop = 839.654
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 181
+# segstart = 839.654
+# segstop = 840.155
+# speaker = sr
+# text = oi
+1	oi	oi	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 182
+# segstart = 840.155
+# segstop = 840.823
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 183
+# segstart = 840.823
+# segstop = 842.54
+# speaker = sr
+# text = og det ble holdt sammen siden eller ?
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	ble	bli	verb	verb	_	0	FINV	_	_
+4	holdt	holde	verb	verb	_	3	INFV	_	_
+5	sammen	sammen	adv	adv	_	4	ADV	_	_
+6	siden	siden	adv	adv	_	4	ADV	_	_
+7	eller	eller	konj	konj	_	3	KONJ	_	_
+8	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 184
+# segstart = 842.54
+# segstop = 843.875
+# speaker = jevnaker_03gm
+# text = ja nå må det være ett ja
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	nå	nå	adv	adv	_	3	ADV	_	_
+3	må	må	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	være	være	verb	verb	_	3	INFV	_	_
+6	ett	ett	det	det	_	5	SPRED	_	_
+7	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 185
+# segstart = 843.875
+# segstop = 844.305
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 186
+# segstart = 844.305
+# segstop = 850.028
+# speaker = jevnaker_03gm
+# text = ja # nå må det være ett gitt ja ## det går jo den vegen til større enheter
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	nå	nå	adv	adv	_	4	ADV	_	_
+4	må	måtte	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	være	være	verb	verb	_	4	INFV	_	_
+7	ett	ett	det	det	_	6	SPRED	_	_
+8	gitt	gitt	interj	interj	_	4	INTERJ	_	_
+9	ja	ja	interj	interj	_	4	INTERJ	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	går	gå	verb	verb	_	4	KOORD	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	den	den	det	det	_	15	DET	_	_
+15	vegen	veg	subst	subst	_	12	ADV	_	_
+16	til	til	prep	prep	_	15	ATR	_	_
+17	større	stor	adj	adj	_	18	ATR	_	_
+18	enheter	enhet	subst	subst	_	16	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 187
+# segstart = 850.028
+# segstop = 850.465
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 188
+# segstart = 850.465
+# segstop = 854.321
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 189
+# segstart = 854.321
+# segstop = 857.159
+# speaker = sr
+# text = men søsknene dine de de du er eldst ikke sant ?
+1	men	men	konj	konj	_	7	KONJ	_	_
+2	søsknene	søsken	subst	subst	_	5	APP	_	_
+3	dine	dine	det	det	_	2	DET	_	_
+4	de	de	pron	pron	_	5	REP	_	_
+5	de	de	pron	pron	_	7	REP	_	_
+6	du	du	pron	pron	_	7	SUBJ	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	eldst	gammel	adj	adj	_	7	SPRED	_	_
+9	ikke	ikke	adv	adv	_	10	ADV	_	_
+10	sant	sann	adj	adj	_	7	ADV	_	_
+11	?	?	clb	clb	_	7	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 190
+# segstart = 857.159
+# segstop = 864.504
+# speaker = jevnaker_03gm
+# text = jeg er eldst ja # to brødre # han M3 har vært bankmann pensjonert bankmann
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	eldst	gammel	adj	adj	_	2	SPRED	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	to	to	det	det	_	7	DET	_	_
+7	brødre	bror	subst	subst	_	2	KOORD	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	han	han	pron	pron	_	10	DET	_	_
+10	M3	M3	subst	subst	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	2	KOORD	_	_
+12	vært	være	verb	verb	_	11	INFV	_	_
+13	bankmann	bankmann	subst	subst	_	12	SPRED	_	_
+14	pensjonert	pensjonert	adj	adj	_	15	ATR	_	_
+15	bankmann	bankmann	subst	subst	_	13	APP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 191
+# segstart = 864.504
+# segstop = 870.704
+# speaker = jevnaker_03gm
+# text = og han M4 han blir sytti år nå sjuende januar førstkommende # og jobber som tekniker i Kringkastinga
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	han	han	pron	pron	_	3	DET	_	_
+3	M4	M4	subst	subst	_	4	APP	_	_
+4	han	han	pron	pron	_	5	SUBJ	_	_
+5	blir	bli	verb	verb	_	0	FINV	_	_
+6	sytti	sytti	det	det	_	7	DET	_	_
+7	år	år	subst	subst	_	5	SPRED	_	_
+8	nå	nå	adv	adv	_	5	ADV	_	_
+9	sjuende	sjuende	adj	adj	_	10	ATR	_	_
+10	januar	januar	subst	subst	_	5	ADV	_	_
+11	førstkommende	førstkommende	adj	adj	_	10	ATR	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	jobber	jobbe	verb	verb	_	5	KOORD	_	_
+15	som	som	prep	prep	_	14	ADV	_	_
+16	tekniker	tekniker	subst	subst	_	15	PUTFYLL	_	_
+17	i	i	prep	prep	_	14	ADV	_	_
+18	Kringkastinga	Kringkastinga	subst	subst	_	17	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 192
+# segstart = 870.704
+# segstop = 871.173
+# speaker = sr
+# text = å ja
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# SR: Her lurer jeg på om dependentrelasjonene i første konstituent ser greit ut. I tillegg er det nok et eksempel på at 'da' står til et substantiv.
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 193
+# segstart = 871.173
+# segstop = 878.733
+# speaker = jevnaker_03gm
+# text = ja # der hele tida han # og da # og søstera mi da hun bor på Gjøvik
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	der	der	prep	prep	_	1	ADV	_	_
+4	hele	hel	adj	adj	_	5	ATR	_	_
+5	tida	tid	subst	subst	_	1	ADV	_	_
+6	han	han	pron	pron	_	1	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	og	og	konj	konj	_	16	KONJ	_	_
+9	da	da	adv	adv	_	12	REP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	søstera	søster	subst	subst	_	15	APP	_	_
+13	mi	min	det	det	_	12	DET	_	_
+14	da	da	adv	adv	_	16	ADV	_	_
+15	hun	hun	pron	pron	_	16	SUBJ	_	_
+16	bor	bo	verb	verb	_	1	KOORD	_	_
+17	på	på	prep	prep	_	16	ADV	_	_
+18	Gjøvik	Gjøvik	subst	subst	_	17	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 194
+# segstart = 878.733
+# segstop = 884.194
+# speaker = jevnaker_03gm
+# text = hun jobba til slutt i e Madshus # ble fort- førtidspensjonert hun for e
+1	hun	hun	pron	pron	_	2	SUBJ	_	_
+2	jobba	jobbe	verb	verb	_	0	FINV	_	_
+3	til	til	prep	prep	_	2	ADV	_	_
+4	slutt	slutt	subst	subst	_	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	Madshus	Madshus	subst	subst	_	5	PUTFYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ble	bli	verb	verb	_	2	KOORD	_	_
+10	fort-	fort-	ufullst	ufullst	_	11	FYLL	_	_
+11	førtidspensjonert	førtidspensjonere	verb	verb	_	9	INFV	_	_
+12	hun	hun	pron	pron	_	9	SUBJ	_	_
+13	for	for	konj	konj	_	9	SLETT	_	_
+14	e	e	nol	nol	_	13	FYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 195
+# segstart = 884.194
+# segstop = 885.148
+# speaker = sr
+# text = skifab- …
+1	skifab-	skifab-	ufullst	ufullst	_	0	FRAG	_	_
+2	…	…	pause	pause	_	1	IK	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 196
+# segstart = 885.148
+# segstop = 893.803
+# speaker = jevnaker_03gm
+# text = skifabrikken ja # kontorlandet der ## det ble hun
+1	skifabrikken	skifabrikk	subst	subst	_	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	kontorlandet	kontorland	subst	subst	_	1	APP	_	_
+5	der	der	prep	prep	_	4	ATR	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	SPRED	_	_
+8	ble	bli	verb	verb	_	2	KOORD	_	_
+9	hun	hun	pron	pron	_	8	SUBJ	_	_
+
+# SR: Ny mulig FOPRED-analyse for 'hvordan'?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 197
+# segstart = 893.803
+# segstop = 906.373
+# speaker = sr
+# text = hm ## så em # hvordan vil du karakterisere # dialekten # der du vokste opp ? ## hvis du # kan si noe om det
+1	hm	hm	interj	interj	_	7	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	7	KONJ	_	_
+4	em	em	nol	nol	_	6	FYLL	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	hvordan	hvordan	adv	adv	_	9	ADV	_	_
+7	vil	vil	verb	verb	_	0	FINV	_	_
+8	du	du	pron	pron	_	7	SUBJ	_	_
+9	karakterisere	karakterisere	verb	verb	_	7	INFV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	dialekten	dialekt	subst	subst	_	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	der	der	sbu	sbu	_	15	SBU	_	_
+14	du	du	pron	pron	_	15	SUBJ	_	_
+15	vokste	vokse	verb	verb	_	11	ATR	_	_
+16	opp	opp	prep	prep	_	15	ADV	_	_
+17	?	?	clb	clb	_	7	IP	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	hvis	hvis	sbu	sbu	_	22	SBU	_	_
+20	du	du	pron	pron	_	22	SUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	kan	kunne	verb	verb	_	7	KOORD	_	_
+23	si	si	verb	verb	_	22	INFV	_	_
+24	noe	noe	pron	pron	_	23	DOBJ	_	_
+25	om	om	prep	prep	_	24	ATR	_	_
+26	det	det	pron	pron	_	25	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 198
+# segstart = 906.373
+# segstop = 914.863
+# speaker = jevnaker_03gm
+# text = det kan jeg ikke si så mye om men jeg # det har forandra seg på Jevnaker fordi jeg har # j er jo his-
+1	det	det	pron	pron	_	8	PUTFYLL	_	_
+2	kan	kunne	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	ikke	ikke	adv	adv	_	5	ADV	_	_
+5	si	si	verb	verb	_	2	INFV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	mye	mye	adj	adj	_	5	DOBJ	_	_
+8	om	om	prep	prep	_	7	ATR	_	_
+9	men	men	konj	konj	_	13	KONJ	_	_
+10	jeg	jeg	pron	pron	_	12	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	har	ha	verb	verb	_	2	KOORD	_	_
+14	forandra	forandre	verb	verb	_	13	INFV	_	_
+15	seg	seg	pron	pron	_	14	DOBJ	_	_
+16	på	på	prep	prep	_	14	ADV	_	_
+17	Jevnaker	jevnake	subst	subst	_	16	PUTFYLL	_	_
+18	fordi	fordi	sbu	sbu	_	20	SBU	_	_
+19	jeg	jeg	pron	pron	_	20	SUBJ	_	_
+20	har	ha	verb	verb	_	13	SLETT	_	_
+21	#	#	pause	pause	_	23	IK	_	_
+22	j	j	subst	subst	_	23	SLETT	_	_
+23	er	være	verb	verb	_	2	SLETT	_	_
+24	jo	jo	adv	adv	_	23	ADV	_	_
+25	his-	his-	ufullst	ufullst	_	23	FYLL	_	_
+
+# SR: Fant 'ljot' i NAOB og satte det som lemma for 'jøtt'. OK selv om det ikke har oppføringer i Bokmålsordboka?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 199
+# segstart = 914.863
+# segstop = 922.804
+# speaker = jevnaker_03gm
+# text = jeg synes historie er jøtt interessant # og når det kommer amerikabesøk det det er jo spesielt spennende
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	synes	synes	verb	verb	_	0	FINV	_	_
+3	historie	historie	subst	subst	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	2	DOBJ	_	_
+5	jøtt	ljot	adj	adj	_	6	ADV	_	_
+6	interessant	interessant	adj	adj	_	4	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	og	og	konj	konj	_	15	KONJ	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	kommer	komme	verb	verb	_	14	APP	_	_
+12	amerikabesøk	amerikabesøk	subst	subst	_	11	PSUBJ	_	_
+13	det	det	pron	pron	_	14	REP	_	_
+14	det	det	pron	pron	_	15	SUBJ	_	_
+15	er	være	verb	verb	_	2	KOORD	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	spesielt	spesiell	adj	adj	_	18	ADV	_	_
+18	spennende	spennende	adj	adj	_	15	SPRED	_	_
+
+# SR: APP'et 'åssen de prata' til 'dem'. OK? 'Dialekt' er ikke godkjent som hunkjønnsord i ordboka. Skrive om transkripsjonen til 'jevnakerdialektEN'?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 200
+# segstart = 922.804
+# segstop = 931.842
+# speaker = jevnaker_03gm
+# text = og da hører du dem åssen de prata da # det språket de lærte i Amerika det var det gamle norske # jevnakerdialekta
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	hører	høre	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	dem	dem	pron	pron	_	3	DOBJ	_	_
+6	åssen	åssen	adv	adv	_	8	ADV	_	_
+7	de	de	pron	pron	_	8	SUBJ	_	_
+8	prata	prate	verb	verb	_	5	APP	_	_
+9	da	da	adv	adv	_	8	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	det	det	pron	pron	_	12	DET	_	_
+12	språket	språk	subst	subst	_	17	APP	_	_
+13	de	de	pron	pron	_	14	SUBJ	_	_
+14	lærte	lære	verb	verb	_	12	ATR	_	_
+15	i	i	prep	prep	_	14	ADV	_	_
+16	Amerika	Amerika	subst	subst	_	15	PUTFYLL	_	_
+17	det	det	pron	pron	_	18	SUBJ	_	_
+18	var	være	verb	verb	_	3	KOORD	_	_
+19	det	det	det	det	_	21	DET	_	_
+20	gamle	gammel	adj	adj	_	21	ATR	_	_
+21	norske	norsk	adj	adj	_	18	SPRED	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	jevnakerdialekta	jevnakerdialekt	subst	subst	_	21	APP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 201
+# segstart = 931.842
+# segstop = 936.85
+# speaker = jevnaker_03gm
+# text = og det er masse ord der som ## som ikke er med nå lenger
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	masse	masse	adj	adj	_	5	ATR	_	_
+5	ord	ord	subst	subst	_	3	PSUBJ	_	_
+6	der	der	prep	prep	_	3	ADV	_	_
+7	som	som	sbu	sbu	_	9	REP	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	ikke	ikke	adv	adv	_	11	ADV	_	_
+11	er	være	verb	verb	_	5	ATR	_	_
+12	med	med	prep	prep	_	11	ADV	_	_
+13	nå	nå	adv	adv	_	14	ADV	_	_
+14	lenger	lenger	adv	adv	_	11	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 202
+# segstart = 936.85
+# segstop = 938.376
+# speaker = sr
+# text = som de tar med eller ja
+1	som	som	sbu	sbu	_	3	SBU	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	tar	ta	verb	verb	_	0	FINV	_	_
+4	med	med	prep	prep	_	3	ADV	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 203
+# segstart = 936.85
+# segstop = 938.376
+# speaker = jevnaker_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 204
+# segstart = 938.376
+# segstop = 952.385
+# speaker = jevnaker_03gm
+# text = ja det er grådig mange gitt ja ## det er det ja ## og vi au er prega av e # bymiljøene
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	grådig	grådig	adj	adj	_	5	ADV	_	_
+5	mange	mange	adj	adj	_	3	PSUBJ	_	_
+6	gitt	gitt	interj	interj	_	3	INTERJ	_	_
+7	ja	ja	interj	interj	_	10	INTERJ	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	3	KOORD	_	_
+11	det	det	pron	pron	_	10	PSUBJ	_	_
+12	ja	ja	interj	interj	_	10	INTERJ	_	_
+13	##	##	pause	pause	_	14	IK	_	_
+14	og	og	konj	konj	_	17	KONJ	_	_
+15	vi	vi	pron	pron	_	17	SUBJ	_	_
+16	au	au	adv	adv	_	15	ATR	_	_
+17	er	være	verb	verb	_	3	KOORD	_	_
+18	prega	prege	adj	adj	_	17	SPRED	_	_
+19	av	av	prep	prep	_	18	ADV	_	_
+20	e	e	nol	nol	_	22	FYLL	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	bymiljøene	bymiljø	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 205
+# segstart = 952.385
+# segstop = 952.767
+# speaker = sr
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 206
+# segstart = 952.767
+# segstop = 960.398
+# speaker = jevnaker_03gm
+# text = ja # og engelsken da det er jo klart det er jo mer og ## kapsen er jo noe av det jeg hadde lagt merke til det er jo
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	engelsken	engelsk	subst	subst	_	1	ADV	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	4	KOORD	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	klart	klare	adj	adj	_	7	SPRED	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	7	KOORD	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	mer	mye	adj	adj	_	11	SPRED	_	_
+14	og	og	konj	konj	_	17	KONJ	_	_
+15	##	##	pause	pause	_	16	IK	_	_
+16	kapsen	kaps	subst	subst	_	17	SUBJ	_	_
+17	er	være	verb	verb	_	7	KOORD	_	_
+18	jo	jo	adv	adv	_	17	ADV	_	_
+19	noe	noe	det	det	_	17	SPRED	_	_
+20	av	av	prep	prep	_	19	ATR	_	_
+21	det	det	pron	pron	_	20	PUTFYLL	_	_
+22	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+23	hadde	ha	verb	verb	_	21	ATR	_	_
+24	lagt	legge	verb	verb	_	23	INFV	_	_
+25	merke	merke	subst	subst	_	24	DOBJ	_	_
+26	til	til	prep	prep	_	25	ATR	_	_
+27	det	det	pron	pron	_	28	FSUBJ	_	_
+28	er	være	verb	verb	_	7	SLETT	_	_
+29	jo	jo	adv	adv	_	28	ADV	_	_
+
+# SR: OL er kun nøytrum i ordboka. Endre transkripsjon?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 207
+# segstart = 960.398
+# segstop = 963.927
+# speaker = jevnaker_03gm
+# text = da de drev på Lillehammer # i OL-en ved da
+1	da	da	sbu	sbu	_	3	SBU	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	drev	drive	verb	verb	_	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	Lillehammer	Lillehammer	subst	subst	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	i	i	prep	prep	_	3	ADV	_	_
+8	OL-en	OL	subst	subst	_	7	PUTFYLL	_	_
+9	ved	ved	prep	prep	_	8	REP	_	_
+10	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 208
+# segstart = 963.927
+# segstop = 964.357
+# speaker = sr
+# text = ehe
+1	ehe	ehe	interj	interj	_	0	INTERJ	_	_
+
+# SR: ''for noe' kan kanskje analyseres som ATR-dependent til 'hva' eller 'kaps'?
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 209
+# segstart = 964.357
+# segstop = 969.842
+# speaker = jevnaker_03gm
+# text = ja # det var # jeg visste ikke det hva kaps var for noe jeg før da
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	7	REP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	visste	vite	verb	verb	_	0	FINV	_	_
+8	ikke	ikke	adv	adv	_	7	ADV	_	_
+9	det	det	pron	pron	_	7	DOBJ	_	_
+10	hva	hva	pron	pron	_	12	SPRED	_	_
+11	kaps	kaps	verb	verb	_	12	SUBJ	_	_
+12	var	være	verb	verb	_	9	APP	_	_
+13	for	for	prep	prep	_	12	ADV	_	_
+14	noe	noe	pron	pron	_	13	DET	_	_
+15	jeg	jeg	pron	pron	_	6	APP	_	_
+16	før	før	prep	prep	_	7	ADV	_	_
+17	da	da	adv	adv	_	16	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 210
+# segstart = 969.842
+# segstop = 971.011
+# speaker = sr
+# text = hva kalte du det for ?
+1	hva	hva	pron	pron	_	5	PUTFYLL	_	_
+2	kalte	kalle	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	det	det	pron	pron	_	2	DOBJ	_	_
+5	for	for	prep	prep	_	2	ADV	_	_
+6	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 211
+# segstart = 971.011
+# segstop = 972.728
+# speaker = jevnaker_03gm
+# text = lue # ja
+1	lue	lue	subst	subst	_	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 212
+# segstart = 972.728
+# segstop = 973.3
+# speaker = sr
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 213
+# segstart = 973.3
+# segstop = 976.043
+# speaker = jevnaker_03gm
+# text = ja # ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 214
+# segstart = 976.043
+# segstop = 984.628
+# speaker = sr
+# text = hvis du skal si noe om # den dialekten du har e i forhold til de andre # e stedene rundt her
+1	hvis	hvis	sbu	sbu	_	3	SBU	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	skal	skal	verb	verb	_	0	FINV	_	_
+4	si	si	verb	verb	_	3	INFV	_	_
+5	noe	noe	pron	pron	_	4	DOBJ	_	_
+6	om	om	prep	prep	_	5	ATR	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	den	den	det	det	_	9	DET	_	_
+9	dialekten	dialekt	subst	subst	_	6	PUTFYLL	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	9	ATR	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	i	i	prep	prep	_	11	ADV	_	_
+14	forhold	forhold	subst	subst	_	13	PUTFYLL	_	_
+15	til	til	prep	prep	_	14	ATR	_	_
+16	de	de	det	det	_	20	DET	_	_
+17	andre	andre	det	det	_	20	DET	_	_
+18	#	#	pause	pause	_	20	IK	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	stedene	sted	subst	subst	_	15	PUTFYLL	_	_
+21	rundt	rundt	prep	prep	_	20	ATR	_	_
+22	her	her	prep	prep	_	21	PUTFYLL	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 215
+# segstart = 984.628
+# segstop = 989.994
+# speaker = jevnaker_03gm
+# text = nei det trur jeg ikke er noe vis- vesentlig forskjell det hører jeg ikke sjøl # jeg er forresten ikke noe språkmann eller altså
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	6	FSUBJ	_	_
+3	trur	tru	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	er	være	verb	verb	_	3	DOBJ	_	_
+7	noe	noe	det	det	_	10	DET	_	_
+8	vis-	vis-	ufullst	ufullst	_	9	FYLL	_	_
+9	vesentlig	vesentlig	adj	adj	_	10	ATR	_	_
+10	forskjell	forskjell	subst	subst	_	6	PSUBJ	_	_
+11	det	det	pron	pron	_	12	DOBJ	_	_
+12	hører	høre	verb	verb	_	3	KOORD	_	_
+13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+14	ikke	ikke	adv	adv	_	12	ADV	_	_
+15	sjøl	sjøl	adv	adv	_	12	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	er	være	verb	verb	_	3	KOORD	_	_
+19	forresten	forresten	adv	adv	_	18	ADV	_	_
+20	ikke	ikke	adv	adv	_	18	ADV	_	_
+21	noe	noe	det	det	_	22	DET	_	_
+22	språkmann	språkmann	subst	subst	_	18	SPRED	_	_
+23	eller	eller	konj	konj	_	24	KONJ	_	_
+24	altså	altså	adv	adv	_	18	KOORD	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 216
+# segstart = 989.994
+# segstop = 990.423
+# speaker = sr
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 217
+# segstart = 990.423
+# segstop = 1004.684
+# speaker = jevnaker_03gm
+# text = nei er ikke det gitt så det ## der kommer nok hun Jevnaker 04gk e # hun er lærer hun og er # mere skarpskodd # ja # ja
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	_	2	SPRED	_	_
+5	gitt	gitt	interj	interj	_	2	INTERJ	_	_
+6	så	så	konj	konj	_	10	KONJ	_	_
+7	det	det	pron	pron	_	10	REP	_	_
+8	##	##	pause	pause	_	9	IK	_	_
+9	der	der	prep	prep	_	10	ADV	_	_
+10	kommer	komme	verb	verb	_	2	KOORD	_	_
+11	nok	nok	adv	adv	_	10	ADV	_	_
+12	hun	hun	pron	pron	_	13	DET	_	_
+13	Jevnaker	Jevnaker	subst	subst	_	10	SUBJ	_	_
+14	04gk	04gk	subst	subst	_	13	FLAT	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	hun	hun	pron	pron	_	18	SUBJ	_	_
+18	er	være	verb	verb	_	2	KOORD	_	_
+19	lærer	lære	verb	verb	_	18	SPRED	_	_
+20	hun	hun	pron	pron	_	17	APP	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	er	være	verb	verb	_	18	KOORD	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	mere	mye	adj	adj	_	25	ATR	_	_
+25	skarpskodd	skarpskodd	adj	adj	_	22	SPRED	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	ja	ja	interj	interj	_	18	INTERJ	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	ja	ja	interj	interj	_	18	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 218
+# segstart = 1004.684
+# segstop = 1010.431
+# speaker = sr
+# text = mm # så det
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	4	KONJ	_	_
+4	det	det	pron	pron	_	1	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 219
+# segstart = 1010.431
+# segstop = 1012.029
+# speaker = jevnaker_03gm
+# text = har vi drevet ti minutt ?
+1	har	ha	verb	verb	_	0	FINV	_	_
+2	vi	vi	pron	pron	_	1	SUBJ	_	_
+3	drevet	drive	verb	verb	_	1	INFV	_	_
+4	ti	ti	det	det	_	5	DET	_	_
+5	minutt	minutt	subst	subst	_	3	ADV	_	_
+6	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 220
+# segstart = 1012.029
+# segstop = 1014.628
+# speaker = sr
+# text = tror det altså et kvarter har det gått nå
+1	tror	tro	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	DOBJ	_	_
+3	altså	altså	adv	adv	_	1	ADV	_	_
+4	et	et	det	det	_	5	DET	_	_
+5	kvarter	kvarter	subst	subst	_	8	PSUBJ	_	_
+6	har	ha	verb	verb	_	1	KOORD	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	gått	gå	verb	verb	_	6	INFV	_	_
+9	nå	nå	adv	adv	_	8	ADV	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 221
+# segstart = 1014.628
+# segstop = 1015.821
+# speaker = jevnaker_03gm
+# text = har det gått et kvarter alt ?
+1	har	ha	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	gått	gå	verb	verb	_	1	INFV	_	_
+4	et	et	det	det	_	5	DET	_	_
+5	kvarter	kvarter	subst	subst	_	3	PSUBJ	_	_
+6	alt	alt	adv	adv	_	3	ADV	_	_
+7	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 222
+# segstart = 1015.821
+# segstop = 1016.298
+# speaker = sr
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 223
+# segstart = 1016.298
+# segstop = 1018.707
+# speaker = jevnaker_03gm
+# text = ja ja # jeg har prata helt bort jeg
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	0	FINV	_	_
+6	prata	prat	verb	verb	_	5	INFV	_	_
+7	helt	hele	adj	adj	_	8	ADV	_	_
+8	bort	bort	adv	adv	_	6	ADV	_	_
+9	jeg	jeg	pron	pron	_	4	APP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 224
+# segstart = 1018.707
+# segstop = 1019.494
+# speaker = sr
+# text = men det er bra det
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	bra	bra	adj	adj	_	3	SPRED	_	_
+5	det	det	pron	pron	_	2	APP	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 225
+# segstart = 1019.494
+# segstop = 1021.02
+# speaker = jevnaker_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = jevnaker_03gm-sr
+# id = 226
+# segstart = 1021.02
+# segstop = 1023.405
+# speaker = sr
+# text = em # tror vi gjerne bare stopper egentlig
+1	em	em	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	tror	tro	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	7	SUBJ	_	_
+5	gjerne	gjerne	adv	adv	_	7	ADV	_	_
+6	bare	bare	adv	adv	_	7	ADV	_	_
+7	stopper	stoppe	verb	verb	_	3	DOBJ	_	_
+8	egentlig	egentlig	adj	adj	_	7	ADV	_	_
+

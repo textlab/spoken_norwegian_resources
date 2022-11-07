@@ -1,0 +1,3580 @@
+# VDT, SR
+# file = sokndal_01um-jbj
+# id = 1
+# segstart = 1.669
+# segstop = 6.653
+# speaker = jbj
+# text = ja # e da vil jeg bare spørre deg hvor du er e født og oppvokst hen ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	vil	vil	verb	verb	_	0	FINV	_	_
+6	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+7	bare	bare	adv	adv	_	8	ADV	_	_
+8	spørre	spørre	verb	verb	_	5	INFV	_	_
+9	deg	deg	pron	pron	_	8	IOBJ	_	_
+10	hvor	hvor	adv	adv	_	14	ADV	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	er	være	verb	verb	_	8	DOBJ	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	født	føde	verb	verb	_	12	INFV	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	oppvokst	oppvokse	verb	verb	_	14	KOORD	_	_
+17	hen	hen	prep	prep	_	12	ADV	_	_
+18	?	?	clb	clb	_	5	IP	_	_
+
+# VDT, SR
+# file = sokndal_01um-jbj
+# id = 2
+# segstart = 6.653
+# segstop = 10.612
+# speaker = sokndal_01um
+# text = e jeg er født og oppvokst her på Hauge # eller Hauge i Dalane da
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	født	føde	verb	verb	_	3	INFV	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	oppvokst	oppvokse	verb	verb	_	4	KOORD	_	_
+7	her	her	prep	prep	_	6	ADV	_	_
+8	på	på	prep	prep	_	7	PUTFYLL	_	_
+9	Hauge	Hauge	subst	subst	_	8	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	Hauge	Hauge	subst	subst	_	9	APP	_	_
+13	i	i	prep	prep	_	12	ATR	_	_
+14	Dalane	Dalane	subst	subst	_	13	PUTFYLL	_	_
+15	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 3
+# segstart = 10.612
+# segstop = 11.685
+# speaker = jbj
+# text = Hauge i Dalane
+1	Hauge	Hauge	subst	subst	_	0	FRAG	_	_
+2	i	i	prep	prep	_	1	ATR	_	_
+3	Dalane	Dalane	subst	subst	_	2	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 4
+# segstart = 11.685
+# segstop = 12.711
+# speaker = sokndal_01um
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 5
+# segstart = 12.711
+# segstop = 14.452
+# speaker = jbj
+# text = Hauge eller Hauge ?
+1	Hauge	Hauge	subst	subst	_	0	FRAG	_	_
+2	eller	eller	konj	konj	_	3	KONJ	_	_
+3	Hauge	Hauge	subst	subst	_	1	KOORD	_	_
+4	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 6
+# segstart = 14.452
+# segstop = 20.366
+# speaker = sokndal_01um
+# text = her på Hauge så sier vi # sier vi på Hauge da men # for utenforstående da så er det jo Hauge i Dalene eller Sokndal
+1	her	her	prep	prep	_	4	APP	_	_
+2	på	på	prep	prep	_	1	PUTFYLL	_	_
+3	Hauge	Hauge	subst	subst	_	2	PUTFYLL	_	_
+4	så	så	adv	adv	_	8	ADV	_	_
+5	sier	si	verb	verb	_	8	REP	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	sier	si	verb	verb	_	0	FINV	_	_
+9	vi	vi	pron	pron	_	8	SUBJ	_	_
+10	på	på	prep	prep	_	8	DOBJ	_	_
+11	Hauge	Hauge	subst	subst	_	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	8	ADV	_	_
+13	men	men	konj	konj	_	19	KONJ	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	for	for	prep	prep	_	18	APP	_	_
+16	utenforstående	utenforstå	adj	adj	_	15	PUTFYLL	_	_
+17	da	da	adv	adv	_	15	ADV	_	_
+18	så	så	adv	adv	_	19	ADV	_	_
+19	er	være	verb	verb	_	8	KOORD	_	_
+20	det	det	pron	pron	_	19	SUBJ	_	_
+21	jo	jo	adv	adv	_	19	ADV	_	_
+22	Hauge	Hauge	subst	subst	_	19	SPRED	_	_
+23	i	i	prep	prep	_	22	ATR	_	_
+24	Dalene	Dalene	subst	subst	_	23	PUTFYLL	_	_
+25	eller	eller	konj	konj	_	26	KONJ	_	_
+26	Sokndal	Sokndal	subst	subst	_	22	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 7
+# segstart = 20.366
+# segstop = 24.778
+# speaker = jbj
+# text = å ja # mm Hauge # ja Hauge kan jeg godt klare å si
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	mm	mm	interj	interj	_	1	ADV	_	_
+5	Hauge	Hauge	subst	subst	_	4	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	9	INTERJ	_	_
+8	Hauge	Hauge	subst	subst	_	14	DOBJ	_	_
+9	kan	kan	verb	verb	_	1	KOORD	_	_
+10	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+11	godt	god	adj	adj	_	12	ADV	_	_
+12	klare	klare	verb	verb	_	9	INFV	_	_
+13	å	å	inf-merke	inf-merke	_	12	DOBJ	_	_
+14	si	si	verb	verb	_	13	INFV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 8
+# segstart = 20.366
+# segstop = 24.778
+# speaker = sokndal_01um
+# text = * ja * Hauge
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INFV	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	Hauge	Hauge	subst	subst	_	2	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 9
+# segstart = 24.778
+# segstop = 25.732
+# speaker = sokndal_01um
+# text = h a u a
+1	h	h	subst	subst	_	0	FRAG	_	_
+2	a	a	subst	subst	_	1	FLAT	_	_
+3	u	u	subst	subst	_	1	FLAT	_	_
+4	a	a	subst	subst	_	1	FLAT	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 10
+# segstart = 25.732
+# segstop = 33.984
+# speaker = jbj
+# text = ja # du e her er det jo utrolig vakkert for oss utenforstående
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	du	du	pron	pron	_	6	INTERJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	her	her	prep	prep	_	6	ADV	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	jo	jo	adv	adv	_	6	ADV	_	_
+9	utrolig	utrolig	adj	adj	_	10	ADV	_	_
+10	vakkert	vakker	adj	adj	_	6	SPRED	_	_
+11	for	for	prep	prep	_	6	ADV	_	_
+12	oss	oss	pron	pron	_	11	PUTFYLL	_	_
+13	utenforstående	utenforstå	adj	adj	_	12	APP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 11
+# segstart = 31.622
+# segstop = 32.195
+# speaker = sokndal_01um
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 12
+# segstart = 32.195
+# segstop = 33.984
+# speaker = jbj
+# text = hva synes du om stedet ?
+1	hva	hva	pron	pron	_	2	DOBJ	_	_
+2	synes	synes	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	om	om	prep	prep	_	2	ADV	_	_
+5	stedet	sted	subst	subst	_	4	PUTFYLL	_	_
+6	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 13
+# segstart = 33.984
+# segstop = 40.494
+# speaker = sokndal_01um
+# text = jeg synes der er veldig fin natur er veldig glad i å jogge da # så jeg synes det er veldig veldig fin landevei for å ta seg en joggetur for eksempel
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	synes	synes	verb	verb	_	0	FINV	_	_
+3	der	der	prep	prep	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	2	SPRED	_	_
+5	veldig	veldig	adj	adj	_	6	ADV	_	_
+6	fin	fin	adj	adj	_	7	ATR	_	_
+7	natur	natur	subst	subst	_	4	PSUBJ	_	_
+8	er	være	verb	verb	_	2	KOORD	_	_
+9	veldig	veldig	adj	adj	_	10	ADV	_	_
+10	glad	glad	adj	adj	_	8	SPRED	_	_
+11	i	i	prep	prep	_	10	ADV	_	_
+12	å	å	inf-merke	inf-merke	_	11	PUTFYLL	_	_
+13	jogge	jogge	verb	verb	_	12	INFV	_	_
+14	da	da	adv	adv	_	8	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	konj	konj	_	18	ADV	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	synes	synes	verb	verb	_	2	KOORD	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	er	være	verb	verb	_	18	SPRED	_	_
+21	veldig	veldig	adj	adj	_	22	REP	_	_
+22	veldig	veldig	adj	adj	_	23	ADV	_	_
+23	fin	fin	adj	adj	_	24	ATR	_	_
+24	landevei	landevei	subst	subst	_	20	SPRED	_	_
+25	for	for	prep	prep	_	20	ADV	_	_
+26	å	å	inf-merke	inf-merke	_	25	PUTFYLL	_	_
+27	ta	ta	verb	verb	_	26	INFV	_	_
+28	seg	seg	pron	pron	_	27	IOBJ	_	_
+29	en	en	det	det	_	30	DET	_	_
+30	joggetur	joggetur	subst	subst	_	27	DOBJ	_	_
+31	for	for	prep	prep	_	27	ADV	_	_
+32	eksempel	eksempel	subst	subst	_	31	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 14
+# segstart = 40.494
+# segstop = 44.381
+# speaker = jbj
+# text = mm # hvor da er det da du tar seg en- tar deg den turen ?
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	hvor	hvor	adv	adv	_	5	ADV	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	da	da	adv	adv	_	5	ADV	_	_
+8	du	du	pron	pron	_	12	SUBJ	_	_
+9	tar	ta	verb	verb	_	12	REP	_	_
+10	seg	seg	pron	pron	_	9	DOBJ	_	_
+11	en-	en-	ufullst	ufullst	_	12	FYLL	_	_
+12	tar	ta	verb	verb	_	5	SPRED	_	_
+13	deg	deg	pron	pron	_	12	IOBJ	_	_
+14	den	den	det	det	_	15	DET	_	_
+15	turen	tur	subst	subst	_	12	DOBJ	_	_
+16	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 15
+# segstart = 44.381
+# segstop = 48.963
+# speaker = sokndal_01um
+# text = da jogger jeg som regel rundt en plass som heter Hanaberg eller Lindland da
+1	da	da	adv	adv	_	2	ADV	_	_
+2	jogger	jogge	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	som	som	prep	prep	_	2	ADV	_	_
+5	regel	regel	subst	subst	_	4	PUTFYLL	_	_
+6	rundt	rundt	prep	prep	_	2	ADV	_	_
+7	en	en	det	det	_	8	DET	_	_
+8	plass	plass	subst	subst	_	6	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	heter	hete	verb	verb	_	8	ATR	_	_
+11	Hanaberg	Hanaberg	subst	subst	_	10	SPRED	_	_
+12	eller	eller	konj	konj	_	13	KONJ	_	_
+13	Lindland	Lindland	subst	subst	_	11	KOORD	_	_
+14	da	da	adv	adv	_	2	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 16
+# segstart = 48.963
+# segstop = 52.54
+# speaker = jbj
+# text = er det # vei eller sti ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vei	vei	subst	subst	_	1	PSUBJ	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	sti	sti	subst	subst	_	4	KOORD	_	_
+7	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 17
+# segstart = 52.54
+# segstop = 57.81
+# speaker = sokndal_01um
+# text = det er # det er vei # det er vei du kan kj- der du kan kjøre bil altså # det er det altså
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	5	REP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	vei	vei	subst	subst	_	5	PSUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	5	KOORD	_	_
+10	vei	vei	subst	subst	_	9	PSUBJ	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	kan	kan	verb	verb	_	10	REP	_	_
+13	kj-	kj-	ufullst	ufullst	_	12	FYLL	_	_
+14	der	der	sbu	sbu	_	16	SBU	_	_
+15	du	du	pron	pron	_	16	SUBJ	_	_
+16	kan	kan	verb	verb	_	10	ATR	_	_
+17	kjøre	kjøre	verb	verb	_	16	INFV	_	_
+18	bil	bil	subst	subst	_	17	DOBJ	_	_
+19	altså	altså	adv	adv	_	17	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	det	det	pron	pron	_	22	SUBJ	_	_
+22	er	være	verb	verb	_	5	KOORD	_	_
+23	det	det	pron	pron	_	22	SPRED	_	_
+24	altså	altså	adv	adv	_	22	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 18
+# segstart = 57.81
+# segstop = 64.225
+# speaker = sokndal_01um
+# text = og der bur liksom noen # noen folk langs strekningen da # så der er folk som kjører der til daglig
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	FSUBJ	_	_
+3	bur	bu	verb	verb	_	0	FINV	_	_
+4	liksom	liksom	adv	adv	_	3	ADV	_	_
+5	noen	noen	det	det	_	8	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	noen	noen	det	det	_	8	DET	_	_
+8	folk	folk	subst	subst	_	3	DOBJ	_	_
+9	langs	langs	prep	prep	_	3	ADV	_	_
+10	strekningen	strekning	subst	subst	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	3	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	så	så	adv	adv	_	15	ADV	_	_
+14	der	der	prep	prep	_	15	FSUBJ	_	_
+15	er	være	verb	verb	_	3	KOORD	_	_
+16	folk	folk	subst	subst	_	15	SUBJ	_	_
+17	som	som	sbu	sbu	_	18	SBU	_	_
+18	kjører	kjøre	verb	verb	_	16	ATR	_	_
+19	der	der	prep	prep	_	18	ADV	_	_
+20	til	til	prep	prep	_	18	ADV	_	_
+21	daglig	daglig	adj	adj	_	20	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 19
+# segstart = 64.225
+# segstop = 69.029
+# speaker = sokndal_01um
+# text = men der er deler av veien som er grusvei så har du da # resten er # asfalt da
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	deler	del	subst	subst	_	3	PSUBJ	_	_
+5	av	av	prep	prep	_	4	ATR	_	_
+6	veien	vei	subst	subst	_	5	PUTFYLL	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	er	være	verb	verb	_	6	ATR	_	_
+9	grusvei	grusvei	subst	subst	_	8	SPRED	_	_
+10	så	så	adv	adv	_	16	ADV	_	_
+11	har	ha	verb	verb	_	16	REP	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	da	da	adv	adv	_	11	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	resten	rest	subst	subst	_	16	SUBJ	_	_
+16	er	være	verb	verb	_	3	KOORD	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	asfalt	asfalt	subst	subst	_	16	SPRED	_	_
+19	da	da	adv	adv	_	16	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 20
+# segstart = 69.029
+# segstop = 74.225
+# speaker = jbj
+# text = mm # men du finner deg ikke en hei å jogge i ?
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	finner	finne	verb	verb	_	0	FINV	_	_
+6	deg	deg	pron	pron	_	5	IOBJ	_	_
+7	ikke	ikke	adv	adv	_	5	ADV	_	_
+8	en	en	det	det	_	9	DET	_	_
+9	hei	hei	subst	subst	_	5	DOBJ	_	_
+10	å	å	inf-merke	inf-merke	_	9	ATR	_	_
+11	jogge	jogge	verb	verb	_	10	INFV	_	_
+12	i	i	prep	prep	_	11	ADV	_	_
+13	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 21
+# segstart = 74.225
+# segstop = 79.686
+# speaker = sokndal_01um
+# text = e jeg er ikke så glad i å jogge i skogen egentlig # for jeg har hatt en del vonde opplevelser med med at jeg har
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	glad	glad	adj	adj	_	3	SPRED	_	_
+7	i	i	prep	prep	_	6	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	jogge	jogge	verb	verb	_	8	INFV	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	skogen	skog	subst	subst	_	10	PUTFYLL	_	_
+12	egentlig	egentlig	adj	adj	_	3	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	for	for	konj	konj	_	16	KONJ	_	_
+15	jeg	jeg	pron	pron	_	16	SUBJ	_	_
+16	har	ha	verb	verb	_	3	KOORD	_	_
+17	hatt	ha	verb	verb	_	16	INFV	_	_
+18	en	en	det	det	_	19	DET	_	_
+19	del	del	subst	subst	_	21	DET	_	_
+20	vonde	vond	adj	adj	_	21	ATR	_	_
+21	opplevelser	opplevelse	subst	subst	_	17	DOBJ	_	_
+22	med	med	prep	prep	_	23	REP	_	_
+23	med	med	prep	prep	_	17	ADV	_	_
+24	at	at	sbu	sbu	_	26	SBU	_	_
+25	jeg	jeg	pron	pron	_	26	SUBJ	_	_
+26	har	ha	verb	verb	_	23	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 22
+# segstart = 79.686
+# segstop = 86.793
+# speaker = sokndal_01um
+# text = ikke brukket beina da men at jeg har forstua litt forskjellig # så jeg liker å # jogge der jeg kan # ja # beint terreng egentlig
+1	ikke	ikke	adv	adv	_	2	ADV	_	_
+2	brukket	brekke	verb	verb	_	0	FINV	_	_
+3	beina	bein	subst	subst	_	2	DOBJ	_	_
+4	da	da	adv	adv	_	2	ADV	_	_
+5	men	men	konj	konj	_	8	KONJ	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	har	ha	verb	verb	_	2	KOORD	_	_
+9	forstua	forstue	verb	verb	_	8	INFV	_	_
+10	litt	litt	adj	adj	_	11	ADV	_	_
+11	forskjellig	forskjellig	adj	adj	_	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	så	så	konj	konj	_	15	KONJ	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	liker	like	verb	verb	_	2	KOORD	_	_
+16	å	å	inf-merke	inf-merke	_	15	DOBJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	jogge	jogge	verb	verb	_	16	INFV	_	_
+19	der	der	prep	prep	_	18	ADV	_	_
+20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+21	kan	kan	verb	verb	_	19	ATR	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	ja	ja	interj	interj	_	18	INTERJ	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	beint	bein	adj	adj	_	26	ATR	_	_
+26	terreng	terreng	subst	subst	_	18	ADV	_	_
+27	egentlig	egentlig	adj	adj	_	18	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 23
+# segstart = 86.793
+# segstop = 89.106
+# speaker = jbj
+# text = slipper å løfte beina så veldig da ?
+1	slipper	slippe	verb	verb	_	0	FINV	_	_
+2	å	å	inf-merke	inf-merke	_	1	DOBJ	_	_
+3	løfte	løfte	verb	verb	_	2	INFV	_	_
+4	beina	bein	subst	subst	_	3	DOBJ	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	veldig	veldig	adj	adj	_	1	ADV	_	_
+7	da	da	adv	adv	_	1	ADV	_	_
+8	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 24
+# segstart = 89.106
+# segstop = 95.257
+# speaker = sokndal_01um
+# text = nei det går ikke så mye i det det går egentlig mest i det at jeg veit at der som jeg trår # der er der # flatt egentlig
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	går	gå	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	mye	mye	adj	adj	_	3	ADV	_	_
+7	i	i	prep	prep	_	3	ADV	_	_
+8	det	det	pron	pron	_	7	PUTFYLL	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	går	gå	verb	verb	_	3	KOORD	_	_
+11	egentlig	egentlig	adj	adj	_	10	ADV	_	_
+12	mest	mye	adj	adj	_	10	ADV	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	det	det	pron	pron	_	13	PUTFYLL	_	_
+15	at	at	sbu	sbu	_	17	SBU	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	veit	vite	verb	verb	_	14	ATR	_	_
+18	at	at	sbu	sbu	_	25	SBU	_	_
+19	der	der	prep	prep	_	22	ADV	_	_
+20	som	som	sbu	sbu	_	22	SBU	_	_
+21	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+22	trår	trå	verb	verb	_	24	APP	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	der	der	prep	prep	_	25	ADV	_	_
+25	er	være	verb	verb	_	17	ADV	_	_
+26	der	der	prep	prep	_	25	FSUBJ	_	_
+27	#	#	pause	pause	_	28	IK	_	_
+28	flatt	flatt	adj	adj	_	25	SPRED	_	_
+29	egentlig	egentlig	adj	adj	_	25	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 25
+# segstart = 95.257
+# segstop = 102.938
+# speaker = jbj
+# text = ja ## ja når vi først snakker om dette her med jogging liker du å trene ?
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	når	når	sbu	sbu	_	7	SBU	_	_
+5	vi	vi	pron	pron	_	7	SUBJ	_	_
+6	først	først	adv	adv	_	7	ADV	_	_
+7	snakker	snakke	verb	verb	_	0	FINV	_	_
+8	om	om	prep	prep	_	7	ADV	_	_
+9	dette	dette	pron	pron	_	8	PUTFYLL	_	_
+10	her	her	prep	prep	_	9	ATR	_	_
+11	med	med	prep	prep	_	9	ATR	_	_
+12	jogging	jogging	subst	subst	_	11	PUTFYLL	_	_
+13	liker	like	verb	verb	_	7	KOORD	_	_
+14	du	du	pron	pron	_	13	SUBJ	_	_
+15	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+16	trene	trene	verb	verb	_	15	INFV	_	_
+17	?	?	clb	clb	_	13	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 27
+# segstart = 102.938
+# segstop = 116.98
+# speaker = sokndal_01um
+# text = ja jeg e liker veldig godt å trene # pleier å trene # tre fire ganger i uka ## ja da # tar jeg meg som regel
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	liker	like	verb	verb	_	0	FINV	_	_
+5	veldig	veldig	adj	adj	_	6	ADV	_	_
+6	godt	god	adj	adj	_	4	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+8	trene	trene	verb	verb	_	7	INFV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	pleier	pleie	verb	verb	_	4	KOORD	_	_
+11	å	å	inf-merke	inf-merke	_	10	DOBJ	_	_
+12	trene	trene	verb	verb	_	11	INFV	_	_
+13	#	#	pause	pause	_	12	IK	_	_
+14	tre	tre	det	det	_	16	DET	_	_
+15	fire	fire	det	det	_	14	FLAT	_	_
+16	ganger	gang	subst	subst	_	12	ADV	_	_
+17	i	i	prep	prep	_	16	ADV	_	_
+18	uka	uke	subst	subst	_	17	PUTFYLL	_	_
+19	##	##	pause	pause	_	20	IK	_	_
+20	ja	ja	interj	interj	_	23	INTERJ	_	_
+21	da	da	adv	adv	_	23	ADV	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	tar	ta	verb	verb	_	4	KOORD	_	_
+24	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+25	meg	meg	pron	pron	_	23	DOBJ	_	_
+26	som	som	prep	prep	_	23	ADV	_	_
+27	regel	regel	subst	subst	_	26	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 28
+# segstart = 116.98
+# segstop = 123.443
+# speaker = sokndal_01um
+# text = to eller tre joggeturer i uka da # og det er # før så jogga jeg litt på tredemølla men # jogger som regel alltid ute
+1	to	to	det	det	_	4	DET	_	_
+2	eller	eller	konj	konj	_	3	KONJ	_	_
+3	tre	tre	det	det	_	1	KOORD	_	_
+4	joggeturer	joggetur	subst	subst	_	0	FRAG	_	_
+5	i	i	prep	prep	_	4	ATR	_	_
+6	uka	uke	subst	subst	_	5	PUTFYLL	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	og	og	konj	konj	_	15	KONJ	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	15	REP	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	før	før	prep	prep	_	15	ADV	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	jogga	jogge	verb	verb	_	4	PUTFYLL	_	_
+16	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+17	litt	litt	adj	adj	_	15	ADV	_	_
+18	på	på	prep	prep	_	15	ADV	_	_
+19	tredemølla	tredemølle	subst	subst	_	18	PUTFYLL	_	_
+20	men	men	konj	konj	_	22	KONJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	jogger	jogge	subst	subst	_	15	KOORD	_	_
+23	som	som	prep	prep	_	22	ADV	_	_
+24	regel	regel	subst	subst	_	23	PUTFYLL	_	_
+25	alltid	alltid	adv	adv	_	22	ADV	_	_
+26	ute	ute	prep	prep	_	22	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 29
+# segstart = 123.443
+# segstop = 131.217
+# speaker = sokndal_01um
+# text = egentlig det samme åssen åssen type vær der er da # e så pleier jeg au å så trene to tre ganger styrke
+1	egentlig	egentlig	adj	adj	_	3	ADV	_	_
+2	det	det	det	det	_	3	DET	_	_
+3	samme	samme	det	det	_	0	FRAG	_	_
+4	åssen	åssen	adv	adv	_	5	REP	_	_
+5	åssen	åssen	adv	adv	_	6	ADV	_	_
+6	type	type	subst	subst	_	7	ATR	_	_
+7	vær	vær	subst	subst	_	3	ATR	_	_
+8	der	der	prep	prep	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	7	ATR	_	_
+10	da	da	adv	adv	_	9	ADV	_	_
+11	#	#	pause	pause	_	13	IK	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	pleier	pleie	verb	verb	_	3	KOORD	_	_
+15	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+16	au	au	adv	adv	_	14	ADV	_	_
+17	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
+18	så	så	adv	adv	_	17	FLAT	_	_
+19	trene	trene	verb	verb	_	17	INFV	_	_
+20	to	to	det	det	_	22	DET	_	_
+21	tre	tre	det	det	_	22	DET	_	_
+22	ganger	ganger	subst	subst	_	19	ADV	_	_
+23	styrke	styrke	subst	subst	_	19	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 30
+# segstart = 131.217
+# segstop = 134.818
+# speaker = sokndal_01um
+# text = på # på Atletklubben som det heter da # e klubben da
+1	på	på	prep	prep	_	3	REP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	på	på	prep	prep	_	0	FRAG	_	_
+4	Atletklubben	atletklubben	subst	subst	_	3	PUTFYLL	_	_
+5	som	som	sbu	sbu	_	7	SBU	_	_
+6	det	det	pron	pron	_	7	SUBJ	_	_
+7	heter	hete	verb	verb	_	4	ATR	_	_
+8	da	da	adv	adv	_	7	ADV	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	klubben	klubb	subst	subst	_	6	APP	_	_
+12	da	da	adv	adv	_	7	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 31
+# segstart = 134.818
+# segstop = 137.87
+# speaker = jbj
+# text = mm # er det her # i Sokn- her i Hauge ?
+1	mm	mm	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SUBJ	_	_
+5	her	her	prep	prep	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	i	i	prep	prep	_	9	REP	_	_
+8	Sokn-	Sokn-	ufullst	ufullst	_	7	FYLL	_	_
+9	her	her	prep	prep	_	3	SPRED	_	_
+10	i	i	prep	prep	_	9	PUTFYLL	_	_
+11	Hauge	Hauge	subst	subst	_	10	PUTFYLL	_	_
+12	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 32
+# segstart = 137.87
+# segstop = 142.473
+# speaker = sokndal_01um
+# text = ja det er her på Hauge på på gamleskolen som det heter
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	her	her	prep	prep	_	3	SPRED	_	_
+5	på	på	prep	prep	_	4	PUTFYLL	_	_
+6	Hauge	Hauge	subst	subst	_	5	PUTFYLL	_	_
+7	på	på	prep	prep	_	8	REP	_	_
+8	på	på	prep	prep	_	4	PUTFYLL	_	_
+9	gamleskolen	gamleskole	subst	subst	_	8	PUTFYLL	_	_
+10	som	som	sbu	sbu	_	12	SBU	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	heter	hete	verb	verb	_	9	ATR	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 33
+# segstart = 142.473
+# segstop = 144.619
+# speaker = jbj
+# text = ok
+1	ok	ok	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 34
+# segstart = 144.619
+# segstop = 146.608
+# speaker = sokndal_01um
+# text = rett og slett
+1	rett	rett	adj	adj	_	0	FRAG	_	_
+2	og	og	konj	konj	_	1	KONJ	_	_
+3	slett	slett	adj	adj	_	1	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 35
+# segstart = 146.608
+# segstop = 149.852
+# speaker = jbj
+# text = men utenom å trene hva gjør du da i fritiden ?
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	utenom	utenom	prep	prep	_	6	ADV	_	_
+3	å	å	inf-merke	inf-merke	_	2	PUTFYLL	_	_
+4	trene	trene	verb	verb	_	3	INFV	_	_
+5	hva	hva	pron	pron	_	6	DOBJ	_	_
+6	gjør	gjøre	verb	verb	_	0	FINV	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+8	da	da	adv	adv	_	6	ADV	_	_
+9	i	i	prep	prep	_	6	ADV	_	_
+10	fritiden	fritid	subst	subst	_	9	PUTFYLL	_	_
+11	?	?	clb	clb	_	6	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 36
+# segstart = 149.852
+# segstop = 152.451
+# speaker = sokndal_01um
+# text = da arbeider jeg en del # e
+1	da	da	adv	adv	_	2	ADV	_	_
+2	arbeider	arbeide	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	en	en	det	det	_	5	DET	_	_
+5	del	del	subst	subst	_	2	ADV	_	_
+6	#	#	pause	pause	_	5	IK	_	_
+7	e	e	nol	nol	_	5	FYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 37
+# segstart = 152.451
+# segstop = 154.168
+# speaker = jbj
+# text = arbeider hvor da ?
+1	arbeider	arbeide	verb	verb	_	0	FINV	_	_
+2	hvor	hvor	adv	adv	_	1	ADV	_	_
+3	da	da	adv	adv	_	1	ADV	_	_
+4	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 39
+# segstart = 154.168
+# segstop = 156.792
+# speaker = sokndal_01um
+# text = jeg er vekter
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	vekter	vekter	subst	subst	_	2	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 40
+# segstart = 156.792
+# segstop = 158.056
+# speaker = jbj
+# text = hvor da ?
+1	hvor	hvor	adv	adv	_	0	FRAG	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 41
+# segstart = 158.056
+# segstop = 165.701
+# speaker = sokndal_01um
+# text = e på # Aker Solutions # i Egersund ## rett og slett
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	på	på	prep	prep	_	0	FRAG	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	Aker	Aker	subst	subst	_	2	PUTFYLL	_	_
+5	Solutions	Solutions	subst	subst	_	4	FLAT	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	i	i	prep	prep	_	4	ATR	_	_
+8	Egersund	Egersund	subst	subst	_	7	PUTFYLL	_	_
+9	##	##	pause	pause	_	10	IK	_	_
+10	rett	rett	adj	adj	_	2	KOORD	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	slett	slett	adj	adj	_	10	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 42
+# segstart = 165.701
+# segstop = 168.253
+# speaker = sokndal_01um
+# text = jeg ve- jeg veit ikke hvor mye jeg har lov til å si egentlig om
+1	jeg	jeg	pron	pron	_	3	REP	_	_
+2	ve-	ve-	ufullst	ufullst	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	veit	vite	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	hvor	hvor	adv	adv	_	7	ADV	_	_
+7	mye	mye	adj	adj	_	9	ADV	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	har	ha	verb	verb	_	4	DOBJ	_	_
+10	lov	lov	subst	subst	_	9	DOBJ	_	_
+11	til	til	prep	prep	_	10	ATR	_	_
+12	å	å	inf-merke	inf-merke	_	11	PUTFYLL	_	_
+13	si	si	verb	verb	_	12	INFV	_	_
+14	egentlig	egentlig	adj	adj	_	9	ADV	_	_
+15	om	om	sbu	sbu	_	9	SLETT	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 43
+# segstart = 168.253
+# segstop = 177.029
+# speaker = jbj
+# text = nei du må ikke begynne å avsløre forretningshemmeligheter # # men em # hva ellers gjør du ?
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	må	må	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	5	ADV	_	_
+5	begynne	begynne	verb	verb	_	3	INFV	_	_
+6	å	å	inf-merke	inf-merke	_	5	DOBJ	_	_
+7	avsløre	avsløre	verb	verb	_	6	INFV	_	_
+8	forretningshemmeligheter	forretningshemmelighet	subst	subst	_	7	DOBJ	_	_
+9	#	#	pause	pause	_	8	IK	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	men	men	konj	konj	_	16	KONJ	_	_
+12	em	em	nol	nol	_	11	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	hva	hva	pron	pron	_	16	DOBJ	_	_
+15	ellers	ellers	adv	adv	_	16	ADV	_	_
+16	gjør	gjøre	verb	verb	_	3	KOORD	_	_
+17	du	du	pron	pron	_	16	SUBJ	_	_
+18	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 44
+# segstart = 168.253
+# segstop = 177.029
+# speaker = sokndal_01um
+# text = * nei *
+1	*	*	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IK	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 45
+# segstart = 177.029
+# segstop = 191.047
+# speaker = sokndal_01um
+# text = ellers spiller litt gitar e er med venner # tar meg fest # er med dama mi ikke minst # e # har noen kompiser i Stavanger # er der litt
+1	ellers	ellers	adv	adv	_	2	ADV	_	_
+2	spiller	spille	verb	verb	_	0	FINV	_	_
+3	litt	litt	adj	adj	_	4	ATR	_	_
+4	gitar	gitar	subst	subst	_	2	DOBJ	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	er	være	verb	verb	_	2	KOORD	_	_
+7	med	med	prep	prep	_	6	SPRED	_	_
+8	venner	venn	subst	subst	_	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	tar	ta	verb	verb	_	2	KOORD	_	_
+11	meg	meg	pron	pron	_	10	IOBJ	_	_
+12	fest	fest	subst	subst	_	10	DOBJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	er	være	verb	verb	_	2	KOORD	_	_
+15	med	med	prep	prep	_	14	SPRED	_	_
+16	dama	dame	subst	subst	_	15	PUTFYLL	_	_
+17	mi	mi	det	det	_	16	DET	_	_
+18	ikke	ikke	adv	adv	_	19	ADV	_	_
+19	minst	små	adj	adj	_	14	ADV	_	_
+20	#	#	pause	pause	_	23	IK	_	_
+21	e	e	nol	nol	_	23	FYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	har	ha	verb	verb	_	2	KOORD	_	_
+24	noen	noen	det	det	_	25	DET	_	_
+25	kompiser	kompis	subst	subst	_	23	DOBJ	_	_
+26	i	i	prep	prep	_	25	ATR	_	_
+27	Stavanger	Stavanger	subst	subst	_	26	PUTFYLL	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	er	være	verb	verb	_	23	KOORD	_	_
+30	der	der	prep	prep	_	29	SUBJ	_	_
+31	litt	litt	adj	adj	_	29	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 46
+# segstart = 191.047
+# segstop = 195.149
+# speaker = sokndal_01um
+# text = ja # har ikke så veldig mange forskjellige ting jeg gjør da men
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	mange	mange	adj	adj	_	9	ATR	_	_
+8	forskjellige	forskjellig	adj	adj	_	9	ATR	_	_
+9	ting	ting	subst	subst	_	3	DOBJ	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	gjør	gjøre	verb	verb	_	9	ATR	_	_
+12	da	da	adv	adv	_	11	ADV	_	_
+13	men	men	konj	konj	_	3	KONJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 47
+# segstart = 195.149
+# segstop = 206.715
+# speaker = jbj
+# text = men nå er du jo # tjueen år
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	nå	nå	adv	adv	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	tjueen	tjueen	det	det	_	8	DET	_	_
+8	år	år	subst	subst	_	3	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 48
+# segstart = 197.564
+# segstop = 198.407
+# speaker = sokndal_01um
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 49
+# segstart = 198.407
+# segstop = 206.715
+# speaker = jbj
+# text = og du har jo bodd her hele ungdomstiden
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	5	ADV	_	_
+5	bodd	bo	verb	verb	_	3	INFV	_	_
+6	her	her	prep	prep	_	5	ADV	_	_
+7	hele	hel	adj	adj	_	8	ATR	_	_
+8	ungdomstiden	ungdomstid	subst	subst	_	5	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 50
+# segstart = 200.777
+# segstop = 202.089
+# speaker = sokndal_01um
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 51
+# segstart = 202.089
+# segstop = 206.715
+# speaker = jbj
+# text = kan du si litt om hva du gjorde opp gjennom ungdomstiden ?
+1	kan	kan	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	si	si	verb	verb	_	1	INFV	_	_
+4	litt	litt	adj	adj	_	3	ADV	_	_
+5	om	om	prep	prep	_	3	ADV	_	_
+6	hva	hva	pron	pron	_	8	DOBJ	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	gjorde	gjøre	verb	verb	_	5	PUTFYLL	_	_
+9	opp	opp	prep	prep	_	8	ADV	_	_
+10	gjennom	gjennom	prep	prep	_	9	PUTFYLL	_	_
+11	ungdomstiden	ungdomstid	subst	subst	_	10	PUTFYLL	_	_
+12	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 52
+# segstart = 206.715
+# segstop = 213.986
+# speaker = sokndal_01um
+# text = e åssen er det sånn du tenker sånn i forhold til # når vi når vi gikk ut på en fredag # e
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	åssen	åsse	subst	subst	_	3	ADV	_	_
+3	er	være	verb	verb	_	7	REP	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	sånn	sånn	adv	adv	_	7	ADV	_	_
+6	du	du	pron	pron	_	7	SUBJ	_	_
+7	tenker	tenke	verb	verb	_	0	FINV	_	_
+8	sånn	sånn	adv	adv	_	7	ADV	_	_
+9	i	i	prep	prep	_	7	ADV	_	_
+10	forhold	forhold	subst	subst	_	9	PUTFYLL	_	_
+11	til	til	prep	prep	_	10	ATR	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	når	når	sbu	sbu	_	17	REP	_	_
+14	vi	vi	pron	pron	_	17	REP	_	_
+15	når	når	sbu	sbu	_	17	SBU	_	_
+16	vi	vi	pron	pron	_	17	SUBJ	_	_
+17	gikk	gå	verb	verb	_	11	PUTFYLL	_	_
+18	ut	ut	prep	prep	_	17	ADV	_	_
+19	på	på	prep	prep	_	17	ADV	_	_
+20	en	en	det	det	_	21	DET	_	_
+21	fredag	fredag	subst	subst	_	19	PUTFYLL	_	_
+22	#	#	pause	pause	_	21	FYLL	_	_
+23	e	e	nol	nol	_	22	FYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 53
+# segstart = 213.986
+# segstop = 217.182
+# speaker = jbj
+# text = ja du drev vel ikke og jogga så mye kanskje da når du mindre ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	drev	drive	verb	verb	_	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	ikke	ikke	adv	adv	_	3	ADV	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	jogga	jogge	verb	verb	_	3	KOORD	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	mye	mye	adj	adj	_	7	ADV	_	_
+10	kanskje	kanskje	adv	adv	_	7	ADV	_	_
+11	da	da	adv	adv	_	7	ADV	_	_
+12	når	når	sbu	sbu	_	14	KONJ	_	_
+13	du	du	pron	pron	_	14	SUBJ	_	_
+14	mindre	små	adj	adj	_	7	ADV	_	_
+15	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 54
+# segstart = 217.182
+# segstop = 247.321
+# speaker = sokndal_01um
+# text = nei når jeg var yngre spilte jeg jo fotball da i # i fra jeg var # seks sju åtte gammal helt opp til jeg blei myndig da
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	6	ADV	_	_
+5	yngre	yngre	adj	adj	_	4	SPRED	_	_
+6	spilte	spille	verb	verb	_	0	FINV	_	_
+7	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+8	jo	jo	adv	adv	_	6	ADV	_	_
+9	fotball	fotball	subst	subst	_	6	DOBJ	_	_
+10	da	da	adv	adv	_	6	ADV	_	_
+11	i	i	prep	prep	_	13	REP	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	6	REP	_	_
+14	fra	fra	sbu	sbu	_	16	SBU	_	_
+15	jeg	jeg	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	6	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	seks	seks	det	det	_	21	DET	_	_
+19	sju	sju	det	det	_	18	FLAT	_	_
+20	åtte	åtte	det	det	_	18	FLAT	_	_
+21	gammal	gammal	adj	adj	_	16	SPRED	_	_
+22	helt	hele	adj	adj	_	23	ADV	_	_
+23	opp	opp	prep	prep	_	16	ADV	_	_
+24	til	til	sbu	sbu	_	26	SBU	_	_
+25	jeg	jeg	pron	pron	_	26	SUBJ	_	_
+26	blei	bli	verb	verb	_	23	PUTFYLL	_	_
+27	myndig	myndig	adj	adj	_	26	SPRED	_	_
+28	da	da	adv	adv	_	26	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 55
+# segstart = 225.862
+# segstop = 247.321
+# speaker = sokndal_01um
+# text = da spilte jeg fotball en tre ganger i uka på # for SIK da # Sokndal h- idrettsklubb # spilte der spilte kamper og trente
+1	da	da	adv	adv	_	2	ADV	_	_
+2	spilte	spille	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	fotball	fotball	verb	verb	_	2	DOBJ	_	_
+5	en	en	det	det	_	6	DET	_	_
+6	tre	tre	det	det	_	7	DET	_	_
+7	ganger	gang	subst	subst	_	2	ADV	_	_
+8	i	i	prep	prep	_	7	ATR	_	_
+9	uka	uke	subst	subst	_	8	PUTFYLL	_	_
+10	på	på	prep	prep	_	12	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	for	for	prep	prep	_	2	ADV	_	_
+13	SIK	sik	subst	subst	_	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	12	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	Sokndal	Sokndal	subst	subst	_	13	APP	_	_
+17	h-	h-	ufullst	ufullst	_	18	FYLL	_	_
+18	idrettsklubb	idrettsklubb	subst	subst	_	16	FLAT	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	spilte	spille	verb	verb	_	22	REP	_	_
+21	der	der	prep	prep	_	20	ADV	_	_
+22	spilte	spille	verb	verb	_	2	KOORD	_	_
+23	kamper	kamp	subst	subst	_	22	DOBJ	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	trente	trene	verb	verb	_	22	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 56
+# segstart = 235.139
+# segstop = 247.321
+# speaker = sokndal_01um
+# text = ellers når vi blei litt eldre da så # gikk vi på en plass som heter Bø # sånn ungdomsklubb på på fredagene og lørdagene da
+1	ellers	ellers	adv	adv	_	10	ADV	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	blei	bli	verb	verb	_	8	APP	_	_
+5	litt	litt	adj	adj	_	6	ADV	_	_
+6	eldre	gammel	adj	adj	_	4	SPRED	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+8	så	så	adv	adv	_	10	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	gikk	gå	verb	verb	_	0	FINV	_	_
+11	vi	vi	pron	pron	_	10	SUBJ	_	_
+12	på	på	prep	prep	_	10	ADV	_	_
+13	en	en	det	det	_	14	DET	_	_
+14	plass	plass	subst	subst	_	12	PUTFYLL	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	heter	hete	verb	verb	_	14	ATR	_	_
+17	Bø	Bø	subst	subst	_	16	SPRED	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	sånn	sånn	det	det	_	20	DET	_	_
+20	ungdomsklubb	ungdomsklubb	subst	subst	_	17	APP	_	_
+21	på	på	prep	prep	_	22	REP	_	_
+22	på	på	prep	prep	_	10	ADV	_	_
+23	fredagene	fredag	subst	subst	_	22	PUTFYLL	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	lørdagene	lørdag	subst	subst	_	23	KOORD	_	_
+26	da	da	adv	adv	_	10	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 57
+# segstart = 243.251
+# segstop = 247.321
+# speaker = sokndal_01um
+# text = spilte bordtennis # satt og snakket drakk bru- drakk brus
+1	spilte	spille	verb	verb	_	0	FINV	_	_
+2	bordtennis	bordtennis	subst	subst	_	1	DOBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	satt	sitte	verb	verb	_	1	KOORD	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	snakket	snakke	verb	verb	_	4	KOORD	_	_
+7	drakk	drikke	verb	verb	_	9	REP	_	_
+8	bru-	bru-	ufullst	ufullst	_	9	FYLL	_	_
+9	drakk	drikke	verb	verb	_	1	KOORD	_	_
+10	brus	brus	subst	subst	_	9	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 58
+# segstart = 243.251
+# segstop = 247.321
+# speaker = jbj
+# text = * hvor var det hen ?
+1	*	*	pause	pause	_	2	IK	_	_
+2	hvor	hvor	adv	adv	_	3	SPRED	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SUBJ	_	_
+5	hen	hen	prep	prep	_	3	ADV	_	_
+6	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 59
+# segstart = 247.321
+# segstop = 248.156
+# speaker = sokndal_01um
+# text = hvor det ligger hen ?
+1	hvor	hvor	adv	adv	_	3	ADV	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	ligger	ligge	verb	verb	_	0	FINV	_	_
+4	hen	hen	prep	prep	_	3	ADV	_	_
+5	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 60
+# segstart = 248.156
+# segstop = 249.444
+# speaker = jbj
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 61
+# segstart = 249.444
+# segstop = 252.091
+# speaker = sokndal_01um
+# text = det ligger faktisk rett med kirka
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	ligger	ligge	verb	verb	_	0	FINV	_	_
+3	faktisk	faktisk	adj	adj	_	2	ADV	_	_
+4	rett	rett	adj	adj	_	2	ADV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	kirka	kirke	subst	subst	_	5	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 62
+# segstart = 252.091
+# segstop = 253.379
+# speaker = jbj
+# text = her i Hauge ?
+1	her	her	prep	prep	_	0	FRAG	_	_
+2	i	i	prep	prep	_	1	PUTFYLL	_	_
+3	Hauge	Hauge	subst	subst	_	2	PUTFYLL	_	_
+4	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 63
+# segstart = 253.379
+# segstop = 257.862
+# speaker = sokndal_01um
+# text = ja # hvis du hvis du kommer hvis du kommer i fra Egersund og kjører riksvei 44 da
+1	ja	ja	interj	interj	_	10	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	hvis	hvis	sbu	sbu	_	7	REP	_	_
+4	du	du	pron	pron	_	7	REP	_	_
+5	hvis	hvis	sbu	sbu	_	7	SBU	_	_
+6	du	du	pron	pron	_	7	SUBJ	_	_
+7	kommer	komme	verb	verb	_	10	REP	_	_
+8	hvis	hvis	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	kommer	komme	verb	verb	_	0	FINV	_	_
+11	i	i	prep	prep	_	10	ADV	_	_
+12	fra	fra	prep	prep	_	11	PUTFYLL	_	_
+13	Egersund	Egersund	subst	subst	_	12	PUTFYLL	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	kjører	kjøre	verb	verb	_	10	KOORD	_	_
+16	riksvei	riksvei	subst	subst	_	15	DOBJ	_	_
+17	44	44	det	det	_	16	FLAT	_	_
+18	da	da	adv	adv	_	15	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 64
+# segstart = 257.862
+# segstop = 263.895
+# speaker = sokndal_01um
+# text = så sv- svinger du # til venstre opp mot Bø # etter kirka # så følger du den veien litt opp
+1	så	så	adv	adv	_	3	ADV	_	_
+2	sv-	sv-	ufullst	ufullst	_	3	FYLL	_	_
+3	svinger	svinge	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	til	til	prep	prep	_	3	ADV	_	_
+7	venstre	venstre	adj	adj	_	6	PUTFYLL	_	_
+8	opp	opp	prep	prep	_	3	ADV	_	_
+9	mot	mot	prep	prep	_	8	PUTFYLL	_	_
+10	Bø	Bø	subst	subst	_	9	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	etter	etter	prep	prep	_	3	ADV	_	_
+13	kirka	kirke	subst	subst	_	12	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	følger	følge	verb	verb	_	3	KOORD	_	_
+17	du	du	pron	pron	_	16	SUBJ	_	_
+18	den	den	det	det	_	19	DET	_	_
+19	veien	vei	subst	subst	_	16	DOBJ	_	_
+20	litt	litt	adj	adj	_	21	ADV	_	_
+21	opp	opp	prep	prep	_	16	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 65
+# segstart = 263.895
+# segstop = 271.622
+# speaker = sokndal_01um
+# text = og så ser du ned til venstre så ligger der et sånt # rødt lokale som er # som er det bedehuset da # der pleide de fleste å samles da
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	ser	se	verb	verb	_	9	ADV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	ned	ned	prep	prep	_	3	ADV	_	_
+6	til	til	prep	prep	_	5	PUTFYLL	_	_
+7	venstre	venstre	adj	adj	_	6	PUTFYLL	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	ligger	ligge	verb	verb	_	0	FINV	_	_
+10	der	der	prep	prep	_	9	FSUBJ	_	_
+11	et	et	det	det	_	15	DET	_	_
+12	sånt	sånt	det	det	_	15	DET	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	rødt	rød	adj	adj	_	15	ATR	_	_
+15	lokale	lokale	subst	subst	_	9	DOBJ	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	er	være	verb	verb	_	20	REP	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	er	være	verb	verb	_	15	ATR	_	_
+21	det	det	pron	pron	_	22	DET	_	_
+22	bedehuset	bedehus	subst	subst	_	20	SPRED	_	_
+23	da	da	adv	adv	_	9	ADV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	der	der	prep	prep	_	26	ADV	_	_
+26	pleide	pleie	verb	verb	_	9	KOORD	_	_
+27	de	de	det	det	_	28	DET	_	_
+28	fleste	fler	adj	adj	_	26	SUBJ	_	_
+29	å	å	inf-merke	inf-merke	_	26	DOBJ	_	_
+30	samles	samle	verb	verb	_	29	INFV	_	_
+31	da	da	adv	adv	_	26	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 66
+# segstart = 271.622
+# segstop = 275.652
+# speaker = jbj
+# text = ok # var det bedehuset eller var det en ungdomsklubb ?
+1	ok	ok	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SUBJ	_	_
+5	bedehuset	bedehus	subst	subst	_	3	SPRED	_	_
+6	eller	eller	konj	konj	_	7	KONJ	_	_
+7	var	være	verb	verb	_	3	KOORD	_	_
+8	det	det	pron	pron	_	7	SUBJ	_	_
+9	en	en	det	det	_	10	DET	_	_
+10	ungdomsklubb	ungdomsklubb	subst	subst	_	7	SPRED	_	_
+11	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 67
+# segstart = 275.652
+# segstop = 284.118
+# speaker = sokndal_01um
+# text = det var egentlig # kombinasjonen # altså om du var # kristen eller om du var # ateist egentlig uansett hva du var så
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	egentlig	egentlig	adj	adj	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	kombinasjonen	kombinasjon	subst	subst	_	2	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	altså	altså	adv	adv	_	10	ADV	_	_
+8	om	om	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	2	KOORD	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	kristen	kristen	adj	adj	_	10	SPRED	_	_
+13	eller	eller	konj	konj	_	16	KONJ	_	_
+14	om	om	sbu	sbu	_	16	SBU	_	_
+15	du	du	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	2	KOORD	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	ateist	ateist	subst	subst	_	16	SPRED	_	_
+19	egentlig	egentlig	adj	adj	_	23	ADV	_	_
+20	uansett	uansett	prep	prep	_	23	ADV	_	_
+21	hva	hva	pron	pron	_	23	SPRED	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	var	være	verb	verb	_	2	KOORD	_	_
+24	så	så	adv	adv	_	23	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 68
+# segstart = 284.118
+# segstop = 292.965
+# speaker = sokndal_01um
+# text = det gikk i grunnen litt i det at det var det eneste # skikkelige tilbudet der var # til til ungdom da # så det var der de pleide å henge da ## rett og slett
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	gikk	gå	verb	verb	_	0	FINV	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	grunnen	grunn	subst	subst	_	3	PUTFYLL	_	_
+5	litt	litt	adj	adj	_	6	ADV	_	_
+6	i	i	prep	prep	_	2	ADV	_	_
+7	det	det	pron	pron	_	6	PUTFYLL	_	_
+8	at	at	sbu	sbu	_	10	SBU	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	7	APP	_	_
+11	det	det	det	det	_	15	DET	_	_
+12	eneste	eneste	det	det	_	11	DET	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	skikkelige	skikkelig	adj	adj	_	15	ATR	_	_
+15	tilbudet	tilbud	subst	subst	_	10	SPRED	_	_
+16	der	der	prep	prep	_	17	FSUBJ	_	_
+17	var	være	verb	verb	_	15	ATR	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	til	til	prep	prep	_	20	REP	_	_
+20	til	til	prep	prep	_	17	PSUBJ	_	_
+21	ungdom	ungdom	subst	subst	_	20	PUTFYLL	_	_
+22	da	da	adv	adv	_	17	ADV	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	så	så	konj	konj	_	26	KONJ	_	_
+25	det	det	pron	pron	_	26	FSUBJ	_	_
+26	var	være	verb	verb	_	10	KOORD	_	_
+27	der	der	adv	adv	_	26	SPRED	_	_
+28	de	de	pron	pron	_	29	SUBJ	_	_
+29	pleide	pleie	verb	verb	_	27	ATR	_	_
+30	å	å	inf-merke	inf-merke	_	29	DOBJ	_	_
+31	henge	henge	verb	verb	_	30	INFV	_	_
+32	da	da	adv	adv	_	31	ADV	_	_
+33	##	##	pause	pause	_	34	IK	_	_
+34	rett	rett	adj	adj	_	29	ADV	_	_
+35	og	og	konj	konj	_	36	KONJ	_	_
+36	slett	slett	adj	adj	_	34	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 69
+# segstart = 292.965
+# segstop = 294.325
+# speaker = jbj
+# text = på bedehuset
+1	på	på	prep	prep	_	0	FRAG	_	_
+2	bedehuset	bedehus	subst	subst	_	1	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 70
+# segstart = 294.325
+# segstop = 297.091
+# speaker = sokndal_01um
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 71
+# segstart = 297.091
+# segstop = 299.094
+# speaker = jbj
+# text = kino da ?
+1	kino	kino	subst	subst	_	0	FRAG	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 72
+# segstart = 299.094
+# segstop = 305.82
+# speaker = sokndal_01um
+# text = e # pleide ikke henge på kinoen men det hendte jo selvfølgelig at du # gikk på kino # det gjorde det
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	pleide	pleie	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	henge	henge	verb	verb	_	3	DOBJ	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	kinoen	kino	subst	subst	_	6	PUTFYLL	_	_
+8	men	men	konj	konj	_	10	KONJ	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	hendte	hende	verb	verb	_	3	KOORD	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	selvfølgelig	selvfølgelig	adj	adj	_	10	ADV	_	_
+13	at	at	sbu	sbu	_	16	SBU	_	_
+14	du	du	pron	pron	_	16	SUBJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	gikk	gå	verb	verb	_	10	PSUBJ	_	_
+17	på	på	prep	prep	_	16	ADV	_	_
+18	kino	kino	subst	subst	_	17	PUTFYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	21	SUBJ	_	_
+21	gjorde	gjøre	verb	verb	_	3	KOORD	_	_
+22	det	det	pron	pron	_	21	FOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 73
+# segstart = 305.82
+# segstop = 313.761
+# speaker = sokndal_01um
+# text = så bygde de jo de ut kinosalen her # veit ikke helt hva tid det var men det blei # iallfall god lyd # god # god plass
+1	så	så	adv	adv	_	2	ADV	_	_
+2	bygde	bygge	verb	verb	_	0	FINV	_	_
+3	de	de	pron	pron	_	2	SUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	de	de	pron	pron	_	2	REP	_	_
+6	ut	ut	prep	prep	_	2	ADV	_	_
+7	kinosalen	kinosal	subst	subst	_	6	PUTFYLL	_	_
+8	her	her	prep	prep	_	2	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	veit	veit	verb	verb	_	2	KOORD	_	_
+11	ikke	ikke	adv	adv	_	10	ADV	_	_
+12	helt	hele	adj	adj	_	10	ADV	_	_
+13	hva	hva	pron	pron	_	14	DET	_	_
+14	tid	tid	subst	subst	_	10	ADV	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	14	ATR	_	_
+17	men	men	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	blei	bli	verb	verb	_	2	KOORD	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	iallfall	iallfall	adv	adv	_	19	ADV	_	_
+22	god	god	adj	adj	_	23	ATR	_	_
+23	lyd	lyd	subst	subst	_	19	SPRED	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	god	god	adj	adj	_	28	REP	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	god	god	adj	adj	_	28	ATR	_	_
+28	plass	plass	subst	subst	_	19	KOORD	_	_
+
+# Usikker på denne.
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 74
+# segstart = 313.761
+# segstop = 317.1
+# speaker = sokndal_01um
+# text = så der er ingenting i veien for # gå på kino det er der ikke altså
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	ingenting	ingenting	pron	pron	_	3	SPRED	_	_
+5	i	i	prep	prep	_	4	ATR	_	_
+6	veien	vei	subst	subst	_	5	PUTFYLL	_	_
+7	for	for	prep	prep	_	6	ATR	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	gå	gå	verb	verb	_	7	PUTFYLL	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	kino	kino	subst	subst	_	10	PUTFYLL	_	_
+12	det	det	pron	pron	_	13	SUBJ	_	_
+13	er	være	verb	verb	_	3	KOORD	_	_
+14	der	der	prep	prep	_	13	SPRED	_	_
+15	ikke	ikke	adv	adv	_	13	ADV	_	_
+16	altså	altså	adv	adv	_	13	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 75
+# segstart = 317.1
+# segstop = 319.383
+# speaker = jbj
+# text = men gjør du det ?
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	gjør	gjøre	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	det	det	pron	pron	_	2	DOBJ	_	_
+5	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 76
+# segstart = 319.383
+# segstop = 322.99
+# speaker = sokndal_01um
+# text = e ikke så mye her da er det helst i Egersund eller i Stavanger da
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ikke	ikke	adv	adv	_	3	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	mye	mye	adj	adj	_	0	FRAG	_	_
+5	her	her	prep	prep	_	4	ADV	_	_
+6	da	da	adv	adv	_	7	ADV	_	_
+7	er	være	verb	verb	_	4	KOORD	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	helst	helst	adv	adv	_	7	ADV	_	_
+10	i	i	prep	prep	_	7	SPRED	_	_
+11	Egersund	Egersund	subst	subst	_	10	PUTFYLL	_	_
+12	eller	eller	konj	konj	_	13	KONJ	_	_
+13	i	i	prep	prep	_	10	KOORD	_	_
+14	Stavanger	Stavanger	subst	subst	_	13	PUTFYLL	_	_
+15	da	da	adv	adv	_	7	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 77
+# segstart = 322.99
+# segstop = 327.808
+# speaker = jbj
+# text = ja ## hvorfor det ?
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	hvorfor	hvorfor	adv	adv	_	1	ADV	_	_
+4	det	det	pron	pron	_	1	ADV	_	_
+5	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 78
+# segstart = 327.808
+# segstop = 335.500
+# speaker = sokndal_01um
+# text = det går nok litt i det at # jeg har en del kompiser nordover da # så # da da blir det bare litt til det egentlig
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	går	gå	verb	verb	_	0	FINV	_	_
+3	nok	nok	adv	adv	_	2	ADV	_	_
+4	litt	litt	adj	adj	_	2	ADV	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	det	det	pron	pron	_	5	PUTFYLL	_	_
+7	at	at	sbu	sbu	_	10	SBU	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	har	ha	verb	verb	_	6	APP	_	_
+11	en	en	det	det	_	12	DET	_	_
+12	del	del	subst	subst	_	13	DET	_	_
+13	kompiser	kompis	subst	subst	_	10	DOBJ	_	_
+14	nordover	nordover	prep	prep	_	10	ADV	_	_
+15	da	da	adv	adv	_	10	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	så	så	konj	konj	_	21	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	da	da	adv	adv	_	20	REP	_	_
+20	da	da	adv	adv	_	21	ADV	_	_
+21	blir	bli	verb	verb	_	2	KOORD	_	_
+22	det	det	pron	pron	_	21	FSUBJ	_	_
+23	bare	bare	adv	adv	_	21	ADV	_	_
+24	litt	litt	adj	adj	_	21	ADV	_	_
+25	til	til	prep	prep	_	21	SPRED	_	_
+26	det	det	det	det	_	25	PUTFYLL	_	_
+27	egentlig	egentlig	adj	adj	_	21	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 79
+# segstart = 335.500
+# segstop = 347.053
+# speaker = jbj
+# text = mm ## ja # snakker om disse kompisene som er nordover ja
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	snakker	snakke	verb	verb	_	0	FINV	_	_
+6	om	om	prep	prep	_	5	ADV	_	_
+7	disse	disse	det	det	_	8	DET	_	_
+8	kompisene	kompis	subst	subst	_	6	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	er	være	verb	verb	_	8	ATR	_	_
+11	nordover	nordover	prep	prep	_	10	SPRED	_	_
+12	ja	ja	interj	interj	_	5	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 80
+# segstart = 341.343
+# segstop = 341.749
+# speaker = sokndal_01um
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 81
+# segstart = 341.749
+# segstop = 347.053
+# speaker = jbj
+# text = e har du lyst til å fortsette å bo her i Hauge hele livet ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	lyst	lyst	subst	subst	_	2	DOBJ	_	_
+5	til	til	prep	prep	_	4	ATR	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	fortsette	fortsette	verb	verb	_	6	INFV	_	_
+8	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
+9	bo	bo	verb	verb	_	8	INFV	_	_
+10	her	her	prep	prep	_	9	ADV	_	_
+11	i	i	prep	prep	_	9	ADV	_	_
+12	Hauge	Hauge	subst	subst	_	11	PUTFYLL	_	_
+13	hele	hel	adj	adj	_	14	ATR	_	_
+14	livet	liv	subst	subst	_	9	ADV	_	_
+15	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 82
+# segstart = 347.053
+# segstop = 352.833
+# speaker = sokndal_01um
+# text = det veit jeg ikke jeg ser for meg det kanskje flytte vekk kanskje noen år # når jeg skal studere og sånn så har jeg veldig lyst å flytte vekk
+1	det	det	pron	pron	_	2	DOBJ	_	_
+2	veit	vite	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	ikke	ikke	adv	adv	_	2	ADV	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	ser	se	verb	verb	_	2	KOORD	_	_
+7	for	for	prep	prep	_	6	ADV	_	_
+8	meg	meg	pron	pron	_	7	PUTFYLL	_	_
+9	det	det	pron	pron	_	6	DOBJ	_	_
+10	kanskje	kanskje	adv	adv	_	11	ADV	_	_
+11	flytte	flytte	verb	verb	_	2	KOORD	_	_
+12	vekk	vekk	prep	prep	_	11	ADV	_	_
+13	kanskje	kanskje	adv	adv	_	11	ADV	_	_
+14	noen	noen	det	det	_	15	DET	_	_
+15	år	år	subst	subst	_	11	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	når	når	sbu	sbu	_	19	SBU	_	_
+18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+19	skal	skal	verb	verb	_	23	APP	_	_
+20	studere	studere	verb	verb	_	19	INFV	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	sånn	sånn	adv	adv	_	20	KOORD	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	har	ha	verb	verb	_	2	KOORD	_	_
+25	jeg	jeg	pron	pron	_	24	SUBJ	_	_
+26	veldig	veldig	adj	adj	_	27	ATR	_	_
+27	lyst	lyst	subst	subst	_	24	DOBJ	_	_
+28	å	å	inf-merke	inf-merke	_	27	ATR	_	_
+29	flytte	flytte	verb	verb	_	28	INFV	_	_
+30	vekk	vekk	prep	prep	_	29	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 83
+# segstart = 352.833
+# segstop = 359.749
+# speaker = sokndal_01um
+# text = bare for å få litt forandring # ikke at er noe galt med bygda i seg sjøl men # e # du får ikke så mye impulser egentlig
+1	bare	bare	adv	adv	_	2	ADV	_	_
+2	for	for	prep	prep	_	0	FRAG	_	_
+3	å	å	inf-merke	inf-merke	_	2	PUTFYLL	_	_
+4	få	få	verb	verb	_	3	INFV	_	_
+5	litt	litt	adj	adj	_	6	ATR	_	_
+6	forandring	forandring	subst	subst	_	4	DOBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	ikke	ikke	adv	adv	_	10	ADV	_	_
+9	at	at	sbu	sbu	_	10	SBU	_	_
+10	er	være	verb	verb	_	2	KOORD	_	_
+11	noe	noe	det	det	_	12	DET	_	_
+12	galt	gal	adj	adj	_	10	SPRED	_	_
+13	med	med	prep	prep	_	12	ADV	_	_
+14	bygda	bygd	subst	subst	_	13	PUTFYLL	_	_
+15	i	i	prep	prep	_	14	ATR	_	_
+16	seg	seg	pron	pron	_	17	DET	_	_
+17	sjøl	sjøl	det	det	_	15	PUTFYLL	_	_
+18	men	men	konj	konj	_	23	KONJ	_	_
+19	#	#	pause	pause	_	22	IK	_	_
+20	e	e	nol	nol	_	22	FYLL	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	får	få	verb	verb	_	2	KOORD	_	_
+24	ikke	ikke	adv	adv	_	23	ADV	_	_
+25	så	så	adv	adv	_	26	ADV	_	_
+26	mye	mye	adj	adj	_	27	ATR	_	_
+27	impulser	impuls	subst	subst	_	23	DOBJ	_	_
+28	egentlig	egentlig	adj	adj	_	23	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 84
+# segstart = 359.749
+# segstop = 367.357
+# speaker = sokndal_01um
+# text = ifra # ifra bygda da # så du må ut for å ## ja utvide horisonten litt # for å si det sånn
+1	ifra	ifra	prep	prep	_	3	REP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ifra	ifra	prep	prep	_	0	FRAG	_	_
+4	bygda	bygd	subst	subst	_	3	PUTFYLL	_	_
+5	da	da	adv	adv	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	konj	konj	_	9	KONJ	_	_
+8	du	du	pron	pron	_	9	SUBJ	_	_
+9	må	må	verb	verb	_	3	KOORD	_	_
+10	ut	ut	prep	prep	_	9	ADV	_	_
+11	for	for	prep	prep	_	9	ADV	_	_
+12	å	å	inf-merke	inf-merke	_	11	PUTFYLL	_	_
+13	##	##	pause	pause	_	14	IK	_	_
+14	ja	ja	interj	interj	_	15	INTERJ	_	_
+15	utvide	utvide	verb	verb	_	12	INFV	_	_
+16	horisonten	horisont	subst	subst	_	15	DOBJ	_	_
+17	litt	litt	adj	adj	_	15	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	for	for	prep	prep	_	15	PAR	_	_
+20	å	å	inf-merke	inf-merke	_	19	PUTFYLL	_	_
+21	si	si	verb	verb	_	20	INFV	_	_
+22	det	det	pron	pron	_	21	DOBJ	_	_
+23	sånn	sånn	adv	adv	_	21	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 85
+# segstart = 367.357
+# segstop = 371.864
+# speaker = jbj
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 86
+# segstart = 368.549
+# segstop = 369.193
+# speaker = sokndal_01um
+# text = rett og slett
+1	rett	rett	adj	adj	_	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	slett	slett	adj	adj	_	1	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 87
+# segstart = 369.193
+# segstop = 371.864
+# speaker = jbj
+# text = hvor langt ut vil du da ?
+1	hvor	hvor	adv	adv	_	2	ADV	_	_
+2	langt	lang	adj	adj	_	3	ADV	_	_
+3	ut	ut	prep	prep	_	4	ADV	_	_
+4	vil	vil	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 88
+# segstart = 371.864
+# segstop = 378.231
+# speaker = sokndal_01um
+# text = e # tenkte iallfall Stavanger ## kanskje Bergen # sørover mot Kristiansand
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	tenkte	tenke	verb	verb	_	0	FINV	_	_
+4	iallfall	iallfall	adv	adv	_	3	ADV	_	_
+5	Stavanger	Stavanger	subst	subst	_	3	DOBJ	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	kanskje	kanskje	adv	adv	_	8	ADV	_	_
+8	Bergen	Bergen	subst	subst	_	3	KOORD	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	sørover	sørover	prep	prep	_	3	KOORD	_	_
+11	mot	mot	prep	prep	_	10	PUTFYLL	_	_
+12	Kristiansand	Kristiansand	subst	subst	_	11	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 89
+# segstart = 378.231
+# segstop = 384.632
+# speaker = jbj
+# text = ja # du holder deg unna # Nord-Norge og # Trøndelag og Østlandet
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	holder	holde	verb	verb	_	0	FINV	_	_
+5	deg	deg	pron	pron	_	4	DOBJ	_	_
+6	unna	unna	prep	prep	_	4	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	Nord-Norge	Nord-Norge	subst	subst	_	6	PUTFYLL	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	Trøndelag	Trøndelag	subst	subst	_	8	KOORD	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	Østlandet	Østlandet	subst	subst	_	8	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 90
+# segstart = 384.632
+# segstop = 390.124
+# speaker = sokndal_01um
+# text = det er jo det er jo litt skremmende tanke for det er jo langt # vekkantifra men # det er jo ikke det er ikke heilt umulig da
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	5	REP	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	litt	litt	adj	adj	_	8	ADV	_	_
+8	skremmende	skremme	adj	adj	_	9	ATR	_	_
+9	tanke	tanke	subst	subst	_	5	SPRED	_	_
+10	for	for	konj	konj	_	12	KONJ	_	_
+11	det	det	pron	pron	_	12	SUBJ	_	_
+12	er	være	verb	verb	_	5	ADV	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	langt	lang	adj	adj	_	16	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	vekkantifra	vekkantifra	adv	adv	_	12	SPRED	_	_
+17	men	men	konj	konj	_	20	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	det	det	pron	pron	_	20	SUBJ	_	_
+20	er	være	verb	verb	_	24	REP	_	_
+21	jo	jo	adv	adv	_	20	ADV	_	_
+22	ikke	ikke	adv	adv	_	20	ADV	_	_
+23	det	det	pron	pron	_	24	SUBJ	_	_
+24	er	være	verb	verb	_	5	KOORD	_	_
+25	ikke	ikke	adv	adv	_	24	ADV	_	_
+26	heilt	heil	adj	adj	_	27	ADV	_	_
+27	umulig	umulig	adj	adj	_	24	SPRED	_	_
+28	da	da	adv	adv	_	24	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 91
+# segstart = 390.124
+# segstop = 394.846
+# speaker = jbj
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 92
+# segstart = 390.696
+# segstop = 392.175
+# speaker = sokndal_01um
+# text = det er det ikke
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	SPRED	_	_
+4	ikke	ikke	adv	adv	_	2	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 93
+# segstart = 392.175
+# segstop = 394.846
+# speaker = jbj
+# text = det er jo uanse- det er jo fortsatt Norge
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	6	REP	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	uanse-	uanse-	ufullst	ufullst	_	2	FYLL	_	_
+5	det	det	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	fortsatt	fortsatt	adv	adv	_	9	ATR	_	_
+9	Norge	Norge	subst	subst	_	6	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 94
+# segstart = 394.846
+# segstop = 396.372
+# speaker = sokndal_01um
+# text = det er fortsa- ja ja ja # ja
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	fortsa-	fortsa-	ufullst	ufullst	_	4	FYLL	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	ja	ja	interj	interj	_	4	INTERJ	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	6	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 95
+# segstart = 396.372
+# segstop = 401.356
+# speaker = jbj
+# text = for han # jeg snakka jo med en annen som hadde vært på hvalfangst i Antarktis
+1	for	for	konj	konj	_	2	KONJ	_	_
+2	han	han	pron	pron	_	5	REP	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	snakka	snakke	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	med	med	prep	prep	_	5	ADV	_	_
+8	en	en	det	det	_	9	DET	_	_
+9	annen	annen	det	det	_	7	PUTFYLL	_	_
+10	som	som	sbu	sbu	_	11	SBU	_	_
+11	hadde	ha	verb	verb	_	9	ATR	_	_
+12	vært	være	verb	verb	_	11	INFV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	hvalfangst	hvalfangst	subst	subst	_	13	PUTFYLL	_	_
+15	i	i	prep	prep	_	12	ADV	_	_
+16	Antarktis	Antarktis	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 96
+# segstart = 400.012
+# segstop = 400.418
+# speaker = sokndal_01um
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 97
+# segstart = 400.418
+# segstop = 401.356
+# speaker = jbj
+# text = når han var femten
+1	når	når	sbu	sbu	_	3	SBU	_	_
+2	han	han	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	femten	femten	det	det	_	3	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 98
+# segstart = 401.356
+# segstop = 411.491
+# speaker = sokndal_01um
+# text = ja # # nei men så så lenge du finner noe du trives med du finner folk du kan # ha det gøy sammen med så er det i grunnen samme
+1	ja	ja	interj	interj	_	27	INTERJ	_	_
+2	#	#	pause	pause	_	1	IK	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	nei	nei	interj	interj	_	27	INTERJ	_	_
+5	men	men	konj	konj	_	10	KONJ	_	_
+6	så	så	adv	adv	_	7	REP	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	lenge	lenge	adj	adj	_	10	ADV	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	finner	finne	verb	verb	_	26	APP	_	_
+11	noe	noe	pron	pron	_	10	DOBJ	_	_
+12	du	du	pron	pron	_	13	SUBJ	_	_
+13	trives	trives	verb	verb	_	11	ATR	_	_
+14	med	med	prep	prep	_	13	ADV	_	_
+15	du	du	pron	pron	_	16	SUBJ	_	_
+16	finner	finne	verb	verb	_	10	KOORD	_	_
+17	folk	folk	subst	subst	_	16	DOBJ	_	_
+18	du	du	pron	pron	_	19	SUBJ	_	_
+19	kan	kunne	verb	verb	_	17	ATR	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ha	ha	verb	verb	_	19	INFV	_	_
+22	det	det	pron	pron	_	21	FOBJ	_	_
+23	gøy	gøy	adj	adj	_	21	OPRED	_	_
+24	sammen	sammen	adv	adv	_	25	ADV	_	_
+25	med	med	prep	prep	_	21	ADV	_	_
+26	så	så	adv	adv	_	27	ADV	_	_
+27	er	være	verb	verb	_	0	FINV	_	_
+28	det	det	pron	pron	_	27	FSUBJ	_	_
+29	i	i	prep	prep	_	27	ADV	_	_
+30	grunnen	grunn	subst	subst	_	29	PUTFYLL	_	_
+31	samme	samme	det	det	_	27	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 99
+# segstart = 411.491
+# segstop = 415.71
+# speaker = sokndal_01um
+# text = hvor du er hen # egentlig # spiller ingen rolle
+1	hvor	hvor	adv	adv	_	3	ADV	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	8	SUBJ	_	_
+4	hen	hen	prep	prep	_	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	egentlig	egentlig	adj	adj	_	8	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	spiller	spille	verb	verb	_	0	FINV	_	_
+9	ingen	ingen	det	det	_	10	DET	_	_
+10	rolle	rolle	subst	subst	_	8	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 100
+# segstart = 415.71
+# segstop = 417.356
+# speaker = jbj
+# text = det er nok riktig
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	nok	nok	adv	adv	_	2	ADV	_	_
+4	riktig	riktig	adj	adj	_	2	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 101
+# segstart = 417.356
+# segstop = 418.572
+# speaker = sokndal_01um
+# text = det er det
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 102
+# segstart = 418.572
+# segstop = 424.439
+# speaker = jbj
+# text = men hva vil du bli da ? # eller hvordan ser du for deg liksom # fremtiden din ?
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	hva	hva	pron	pron	_	5	DOBJ	_	_
+3	vil	vil	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	bli	bli	verb	verb	_	3	INFV	_	_
+6	da	da	adv	adv	_	5	ADV	_	_
+7	?	?	clb	clb	_	9	IK	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	eller	eller	konj	konj	_	11	KONJ	_	_
+10	hvordan	hvordan	adv	adv	_	11	ADV	_	_
+11	ser	se	verb	verb	_	3	KOORD	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	for	for	prep	prep	_	11	ADV	_	_
+14	deg	deg	pron	pron	_	13	PUTFYLL	_	_
+15	liksom	liksom	adv	adv	_	11	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	fremtiden	fremtid	subst	subst	_	11	DOBJ	_	_
+18	din	din	det	det	_	17	DET	_	_
+19	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 103
+# segstart = 424.439
+# segstop = 431.856
+# speaker = sokndal_01um
+# text = jeg har jo lyst å jobbe med folk da # liker jo å snakke med folk omgås folk # jeg li- jeg liker ikke yrker der du
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	lyst	lyst	subst	subst	_	2	DOBJ	_	_
+5	å	å	inf-merke	inf-merke	_	4	ATR	_	_
+6	jobbe	jobbe	verb	verb	_	5	INFV	_	_
+7	med	med	prep	prep	_	6	ADV	_	_
+8	folk	folk	subst	subst	_	7	PUTFYLL	_	_
+9	da	da	adv	adv	_	6	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	liker	like	verb	verb	_	2	KOORD	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	å	å	inf-merke	inf-merke	_	11	DOBJ	_	_
+14	snakke	snakke	verb	verb	_	13	INFV	_	_
+15	med	med	prep	prep	_	14	ADV	_	_
+16	folk	folk	subst	subst	_	15	PUTFYLL	_	_
+17	omgås	omgås	verb	verb	_	14	KOORD	_	_
+18	folk	folk	subst	subst	_	17	DOBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	jeg	jeg	pron	pron	_	22	REP	_	_
+21	li-	li-	ufullst	ufullst	_	22	FYLL	_	_
+22	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+23	liker	like	verb	verb	_	2	KOORD	_	_
+24	ikke	ikke	adv	adv	_	23	ADV	_	_
+25	yrker	yrke	subst	subst	_	23	DOBJ	_	_
+26	der	der	prep	prep	_	23	ADV	_	_
+27	du	du	pron	pron	_	26	SUBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 104
+# segstart = 431.856
+# segstop = 439.726
+# speaker = sokndal_01um
+# text = der du sitt- der du snakker lite med folk der du # sitter ganske mye for deg sjøl # det må være ganske stusselig ganske kjedelig da
+1	der	der	prep	prep	_	6	REP	_	_
+2	du	du	pron	pron	_	6	REP	_	_
+3	sitt-	sitt-	ufullst	ufullst	_	4	FYLL	_	_
+4	der	der	prep	prep	_	6	ADV	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	snakker	snakke	verb	verb	_	0	FINV	_	_
+7	lite	lite	adj	adj	_	6	ADV	_	_
+8	med	med	prep	prep	_	6	ADV	_	_
+9	folk	folk	subst	subst	_	8	PUTFYLL	_	_
+10	der	der	prep	prep	_	13	ADV	_	_
+11	du	du	pron	pron	_	13	SUBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	sitter	sitte	verb	verb	_	6	KOORD	_	_
+14	ganske	ganske	adv	adv	_	15	ADV	_	_
+15	mye	mye	adj	adj	_	13	DOBJ	_	_
+16	for	for	prep	prep	_	13	ADV	_	_
+17	deg	deg	pron	pron	_	16	PUTFYLL	_	_
+18	sjøl	sjøl	det	det	_	17	DET	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	21	SUBJ	_	_
+21	må	må	verb	verb	_	6	KOORD	_	_
+22	være	være	verb	verb	_	21	INFV	_	_
+23	ganske	ganske	adv	adv	_	24	ADV	_	_
+24	stusselig	stusselig	subst	subst	_	22	SPRED	_	_
+25	ganske	ganske	adv	adv	_	26	ADV	_	_
+26	kjedelig	kjedelig	adj	adj	_	24	KOORD	_	_
+27	da	da	adv	adv	_	22	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 105
+# segstart = 439.726
+# segstop = 446.379
+# speaker = sokndal_01um
+# text = så jeg ser for meg at jeg # er i et yrke der jeg kan # jobbe mye blant folk få ulike arbeidsoppgaver
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	ser	se	verb	verb	_	0	FINV	_	_
+4	for	for	prep	prep	_	3	ADV	_	_
+5	meg	meg	pron	pron	_	4	PUTFYLL	_	_
+6	at	at	sbu	sbu	_	9	SBU	_	_
+7	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	er	være	verb	verb	_	3	DOBJ	_	_
+10	i	i	prep	prep	_	9	SPRED	_	_
+11	et	et	det	det	_	12	DET	_	_
+12	yrke	yrke	subst	subst	_	10	PUTFYLL	_	_
+13	der	der	sbu	sbu	_	15	SBU	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	kan	kan	verb	verb	_	12	ATR	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	jobbe	jobbe	verb	verb	_	15	INFV	_	_
+18	mye	mye	adj	adj	_	19	ADV	_	_
+19	blant	blant	prep	prep	_	17	ADV	_	_
+20	folk	folk	subst	subst	_	19	PUTFYLL	_	_
+21	få	få	verb	verb	_	17	KOORD	_	_
+22	ulike	ulike	adj	adj	_	23	ATR	_	_
+23	arbeidsoppgaver	arbeidsoppgave	subst	subst	_	21	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 106
+# segstart = 446.379
+# segstop = 455.452
+# speaker = sokndal_01um
+# text = politi for eksempel # har tenkt på å bli sosionom # tenkte på barnevernet # e sånne yrker som det egentlig
+1	politi	politi	subst	subst	_	0	FRAG	_	_
+2	for	for	prep	prep	_	1	ATR	_	_
+3	eksempel	eksempel	subst	subst	_	2	PUTFYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	har	ha	verb	verb	_	1	KOORD	_	_
+6	tenkt	tenke	verb	verb	_	5	INFV	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	bli	bli	verb	verb	_	8	INFV	_	_
+10	sosionom	sosionom	subst	subst	_	9	SPRED	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	tenkte	tenke	verb	verb	_	1	KOORD	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	barnevernet	barnevern	subst	subst	_	13	PUTFYLL	_	_
+15	#	#	pause	pause	_	17	IK	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	sånne	sånn	det	det	_	18	DET	_	_
+18	yrker	yrke	subst	subst	_	1	KOORD	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	det	det	pron	pron	_	18	ATR	_	_
+21	egentlig	egentlig	adj	adj	_	20	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 107
+# segstart = 455.452
+# segstop = 459.578
+# speaker = sokndal_01um
+# text = det er da du utvikler deg # litt som menneske da # hvis du kan gå så djupt
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	da	da	adv	adv	_	2	SPRED	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	utvikler	utvikle	verb	verb	_	3	ADV	_	_
+6	deg	deg	pron	pron	_	5	DOBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	litt	litt	adj	adj	_	5	ADV	_	_
+9	som	som	prep	prep	_	5	ADV	_	_
+10	menneske	menneske	subst	subst	_	8	PUTFYLL	_	_
+11	da	da	adv	adv	_	5	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	hvis	hvis	sbu	sbu	_	15	SBU	_	_
+14	du	du	pron	pron	_	15	SUBJ	_	_
+15	kan	kan	verb	verb	_	2	KOORD	_	_
+16	gå	gå	verb	verb	_	15	INFV	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	djupt	djupt	adj	adj	_	16	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 108
+# segstart = 459.578
+# segstop = 462.869
+# speaker = jbj
+# text = mm # lærer da ?
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	lærer	lærer	subst	subst	_	1	ADV	_	_
+4	da	da	adv	adv	_	3	ADV	_	_
+5	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 109
+# segstart = 462.869
+# segstop = 468.593
+# speaker = sokndal_01um
+# text = e jeg har aldri vært den som er så veldig glad i å snakke i store forsamlinger ja jeg var iallfall ikke det tidligere da
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	aldri	aldri	adv	adv	_	5	ADV	_	_
+5	vært	være	verb	verb	_	3	INFV	_	_
+6	den	den	pron	pron	_	5	SPRED	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	er	være	verb	verb	_	6	ATR	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	veldig	veldig	adj	adj	_	11	ADV	_	_
+11	glad	glad	adj	adj	_	8	SPRED	_	_
+12	i	i	prep	prep	_	11	ADV	_	_
+13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
+14	snakke	snakke	verb	verb	_	13	INFV	_	_
+15	i	i	prep	prep	_	14	ADV	_	_
+16	store	stor	adj	adj	_	17	ATR	_	_
+17	forsamlinger	forsamling	subst	subst	_	15	PUTFYLL	_	_
+18	ja	ja	interj	interj	_	20	INTERJ	_	_
+19	jeg	jeg	pron	pron	_	20	SUBJ	_	_
+20	var	være	verb	verb	_	3	KOORD	_	_
+21	iallfall	iallfall	adv	adv	_	20	ADV	_	_
+22	ikke	ikke	adv	adv	_	20	ADV	_	_
+23	det	det	pron	pron	_	20	SPRED	_	_
+24	tidligere	tidlig	adj	adj	_	20	ADV	_	_
+25	da	da	adv	adv	_	20	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 110
+# segstart = 468.593
+# segstop = 475.675
+# speaker = sokndal_01um
+# text = men e jeg trur etter et år på Elkjøp så lærer du å snakke med folk da # snakker du med ulike f- personer hver dag men
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	trur	tru	verb	verb	_	10	APP	_	_
+5	etter	etter	prep	prep	_	4	DOBJ	_	_
+6	et	et	det	det	_	7	DET	_	_
+7	år	år	subst	subst	_	5	PUTFYLL	_	_
+8	på	på	prep	prep	_	7	ATR	_	_
+9	Elkjøp	Elkjøp	subst	subst	_	8	PUTFYLL	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	lærer	lære	verb	verb	_	0	FINV	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	å	å	inf-merke	inf-merke	_	11	DOBJ	_	_
+14	snakke	snakk	verb	verb	_	13	INFV	_	_
+15	med	med	prep	prep	_	14	ADV	_	_
+16	folk	folk	subst	subst	_	15	PUTFYLL	_	_
+17	da	da	adv	adv	_	14	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	snakker	snakke	verb	verb	_	11	KOORD	_	_
+20	du	du	pron	pron	_	19	SUBJ	_	_
+21	med	med	prep	prep	_	19	ADV	_	_
+22	ulike	ulike	adj	adj	_	24	ATR	_	_
+23	f-	f-	ufullst	ufullst	_	24	FYLL	_	_
+24	personer	person	subst	subst	_	21	PUTFYLL	_	_
+25	hver	hver	det	det	_	26	DET	_	_
+26	dag	dag	subst	subst	_	19	ADV	_	_
+27	men	men	konj	konj	_	19	KONJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 111
+# segstart = 475.675
+# segstop = 483.02
+# speaker = sokndal_01um
+# text = foreløp- foreløpig så ser ikke jeg at det er noe som # jeg kunne tenkt meg da # iallfall ikke for å
+1	foreløp-	foreløp-	ufullst	ufullst	_	2	FYLL	_	_
+2	foreløpig	foreløpig	adj	adj	_	3	APP	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	ser	se	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	4	DOBJ	_	_
+10	noe	noe	pron	pron	_	9	DET	_	_
+11	som	som	sbu	sbu	_	14	SBU	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+14	kunne	kunne	verb	verb	_	10	ATR	_	_
+15	tenkt	tenke	verb	verb	_	14	INFV	_	_
+16	meg	meg	pron	pron	_	15	DOBJ	_	_
+17	da	da	adv	adv	_	15	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	iallfall	iallfall	adv	adv	_	20	ADV	_	_
+20	ikke	ikke	adv	adv	_	21	ADV	_	_
+21	for	for	prep	prep	_	14	SLETT	_	_
+22	å	å	inf-merke	inf-merke	_	21	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 112
+# segstart = 483.02
+# segstop = 491.796
+# speaker = sokndal_01um
+# text = grunnsko- det måtte blitt måtte blitt videregående skole i så tilfelle da # litt mer seriøst #
+1	grunnsko-	grunnsko-	ufullst	ufullst	_	2	FYLL	_	_
+2	det	det	pron	pron	_	5	SUBJ	_	_
+3	måtte	måtte	verb	verb	_	5	REP	_	_
+4	blitt	bli	verb	verb	_	3	INFV	_	_
+5	måtte	måtte	verb	verb	_	0	FINV	_	_
+6	blitt	bli	verb	verb	_	5	INFV	_	_
+7	videregående	videregående	adj	adj	_	8	ATR	_	_
+8	skole	skole	subst	subst	_	6	SPRED	_	_
+9	i	i	prep	prep	_	6	ADV	_	_
+10	så	så	adv	adv	_	11	ATR	_	_
+11	tilfelle	tilfelle	subst	subst	_	9	PUTFYLL	_	_
+12	da	da	adv	adv	_	6	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	litt	litt	adj	adj	_	15	ADV	_	_
+15	mer	mye	adj	adj	_	16	ADV	_	_
+16	seriøst	seriøs	adj	adj	_	6	KOORD	_	_
+17	#	#	pause	pause	_	16	IK	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 113
+# segstart = 491.796
+# segstop = 494.538
+# speaker = jbj
+# text = ja men du liker jo å være fysisk
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	liker	like	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+7	være	være	verb	verb	_	6	INFV	_	_
+8	fysisk	fysisk	adj	adj	_	7	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 114
+# segstart = 494.538
+# segstop = 502.598
+# speaker = sokndal_01um
+# text = ja je- jeg liker godt fysisk arbeid det er derfor jeg tenkte på på militæret # t- har tenkt litt på på brannmann au egentlig # eller fengselsbetjent
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	je-	je-	ufullst	ufullst	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	liker	like	verb	verb	_	0	FINV	_	_
+5	godt	god	adj	adj	_	4	ADV	_	_
+6	fysisk	fysisk	adj	adj	_	7	ATR	_	_
+7	arbeid	arbeid	subst	subst	_	4	DOBJ	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	4	KOORD	_	_
+10	derfor	derfor	adv	adv	_	9	ADV	_	_
+11	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+12	tenkte	tenke	verb	verb	_	10	ADV	_	_
+13	på	på	prep	prep	_	14	REP	_	_
+14	på	på	prep	prep	_	12	ADV	_	_
+15	militæret	militær	subst	subst	_	14	PUTFYLL	_	_
+16	#	#	pause	pause	_	18	IK	_	_
+17	t-	t-	ufullst	ufullst	_	18	FYLL	_	_
+18	har	ha	verb	verb	_	4	KOORD	_	_
+19	tenkt	tenke	verb	verb	_	18	INFV	_	_
+20	litt	litt	adj	adj	_	19	ADV	_	_
+21	på	på	prep	prep	_	22	REP	_	_
+22	på	på	prep	prep	_	19	ADV	_	_
+23	brannmann	brannmann	subst	subst	_	22	PUTFYLL	_	_
+24	au	au	adv	adv	_	19	ADV	_	_
+25	egentlig	egentlig	adj	adj	_	19	ADV	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	eller	eller	konj	konj	_	28	KONJ	_	_
+28	fengselsbetjent	fengselsbetjent	subst	subst	_	22	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 115
+# segstart = 502.598
+# segstop = 507.675
+# speaker = sokndal_01um
+# text = fe- jeg leste en artikkel var ei som sa hun var # var ei faktisk som var var brannmann da
+1	fe-	fe-	ufullst	ufullst	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	leste	lese	verb	verb	_	0	FINV	_	_
+4	en	en	det	det	_	5	DET	_	_
+5	artikkel	artikkel	subst	subst	_	3	DOBJ	_	_
+6	var	være	verb	verb	_	3	REP	_	_
+7	ei	ei	det	det	_	6	SPRED	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	sa	si	verb	verb	_	7	ATR	_	_
+10	hun	hun	pron	pron	_	11	SUBJ	_	_
+11	var	være	verb	verb	_	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	var	være	verb	verb	_	3	KOORD	_	_
+14	ei	ei	det	det	_	13	SPRED	_	_
+15	faktisk	faktisk	adj	adj	_	13	ADV	_	_
+16	som	som	sbu	sbu	_	18	SBU	_	_
+17	var	være	verb	verb	_	18	REP	_	_
+18	var	være	verb	verb	_	14	ATR	_	_
+19	brannmann	brannmann	subst	subst	_	18	SPRED	_	_
+20	da	da	adv	adv	_	18	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 116
+# segstart = 507.675
+# segstop = 511.586
+# speaker = sokndal_01um
+# text = og hun likte det for hun kunne kombinere trening med # med j- arbeid da
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	hun	hun	pron	pron	_	3	SUBJ	_	_
+3	likte	like	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	DOBJ	_	_
+5	for	for	konj	konj	_	7	KONJ	_	_
+6	hun	hun	pron	pron	_	7	SUBJ	_	_
+7	kunne	kunne	verb	verb	_	3	ADV	_	_
+8	kombinere	kombinere	verb	verb	_	7	INFV	_	_
+9	trening	trening	subst	subst	_	8	DOBJ	_	_
+10	med	med	prep	prep	_	12	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	med	med	prep	prep	_	8	ADV	_	_
+13	j-	j-	ufullst	ufullst	_	14	FYLL	_	_
+14	arbeid	arbeid	subst	subst	_	12	PUTFYLL	_	_
+15	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 117
+# segstart = 511.586
+# segstop = 514.972
+# speaker = jbj
+# text = mm # for det er sant # de kan trene utrolig mye
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	for	for	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	sant	sann	adj	adj	_	5	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	de	de	pron	pron	_	9	SUBJ	_	_
+9	kan	kan	verb	verb	_	5	KOORD	_	_
+10	trene	trene	verb	verb	_	9	INFV	_	_
+11	utrolig	utrolig	adj	adj	_	12	ADV	_	_
+12	mye	mye	adj	adj	_	10	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 118
+# segstart = 514.972
+# segstop = 518.263
+# speaker = sokndal_01um
+# text = ja # det er det er noe jeg ville satt pris på
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	6	REP	_	_
+5	det	det	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	noe	noe	pron	pron	_	6	SPRED	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	ville	ville	verb	verb	_	7	ATR	_	_
+10	satt	sitte	verb	verb	_	9	INFV	_	_
+11	pris	pris	subst	subst	_	10	DOBJ	_	_
+12	på	på	prep	prep	_	10	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 119
+# segstart = 518.263
+# segstop = 524.201
+# speaker = jbj
+# text = mm # det er kanskje ikke- hvordan hadde det vært å gå inn i brennende hus ?
+1	mm	mm	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	8	REP	_	_
+5	kanskje	kanskje	adv	adv	_	4	ADV	_	_
+6	ikke-	ikke-	ufullst	ufullst	_	4	FYLL	_	_
+7	hvordan	hvordan	adv	adv	_	10	ADV	_	_
+8	hadde	ha	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	vært	være	verb	verb	_	8	INFV	_	_
+11	å	å	inf-merke	inf-merke	_	10	SPRED	_	_
+12	gå	gå	verb	verb	_	11	INFV	_	_
+13	inn	inn	prep	prep	_	12	ADV	_	_
+14	i	i	prep	prep	_	13	PUTFYLL	_	_
+15	brennende	brenne	adj	adj	_	16	ATR	_	_
+16	hus	hus	subst	subst	_	14	PUTFYLL	_	_
+17	?	?	clb	clb	_	8	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 120
+# segstart = 524.201
+# segstop = 533.603
+# speaker = sokndal_01um
+# text = får jeg opplæring på alt så # trur jeg skulle takla det fint ## du har jo selvfølgelig en viss risiko men
+1	får	få	verb	verb	_	6	APP	_	_
+2	jeg	jeg	pron	pron	_	1	SUBJ	_	_
+3	opplæring	opplæring	subst	subst	_	1	DOBJ	_	_
+4	på	på	prep	prep	_	3	ATR	_	_
+5	alt	alt	det	det	_	4	PUTFYLL	_	_
+6	så	så	adv	adv	_	8	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	trur	tru	verb	verb	_	0	FINV	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	skulle	skulle	verb	verb	_	8	DOBJ	_	_
+11	takla	takle	verb	verb	_	10	INFV	_	_
+12	det	det	pron	pron	_	11	DOBJ	_	_
+13	fint	fin	adj	adj	_	11	OPRED	_	_
+14	##	##	pause	pause	_	15	IK	_	_
+15	du	du	pron	pron	_	16	SUBJ	_	_
+16	har	ha	verb	verb	_	8	KOORD	_	_
+17	jo	jo	adv	adv	_	16	ADV	_	_
+18	selvfølgelig	selvfølgelig	verb	verb	_	16	ADV	_	_
+19	en	en	det	det	_	21	DET	_	_
+20	viss	viss	adj	adj	_	21	ATR	_	_
+21	risiko	risiko	subst	subst	_	16	DOBJ	_	_
+22	men	men	konj	konj	_	16	KONJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 121
+# segstart = 533.603
+# segstop = 538.087
+# speaker = sokndal_01um
+# text = så er de- t- gleden desto større når du # får det til altså når du får slukket brannen
+1	så	så	adv	adv	_	2	ADV	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	de-	de-	ufullst	ufullst	_	5	FYLL	_	_
+4	t-	t-	ufullst	ufullst	_	5	FYLL	_	_
+5	gleden	glede	subst	subst	_	2	SUBJ	_	_
+6	desto	desto	adv	adv	_	7	ADV	_	_
+7	større	stor	adj	adj	_	2	SPRED	_	_
+8	når	når	sbu	sbu	_	11	SBU	_	_
+9	du	du	pron	pron	_	11	SUBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	får	få	verb	verb	_	2	ADV	_	_
+12	det	det	pron	pron	_	11	DOBJ	_	_
+13	til	til	prep	prep	_	11	ADV	_	_
+14	altså	altså	adv	adv	_	17	ADV	_	_
+15	når	når	sbu	sbu	_	17	SBU	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	får	få	verb	verb	_	11	APP	_	_
+18	slukket	slukke	verb	verb	_	17	INFV	_	_
+19	brannen	brann	subst	subst	_	18	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 122
+# segstart = 538.087
+# segstop = 557.893
+# speaker = jbj
+# text = ja # det er sant # ja # men e # det er jo litt sånn fraflytting her i denne bygda
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	sant	sann	adj	adj	_	4	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	4	INTERJ	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	men	men	konj	konj	_	13	KONJ	_	_
+10	e	e	nol	nol	_	12	FYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	er	være	verb	verb	_	4	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	litt	litt	adj	adj	_	13	ADV	_	_
+16	sånn	sånn	det	det	_	17	DET	_	_
+17	fraflytting	fraflytting	subst	subst	_	13	PSUBJ	_	_
+18	her	her	prep	prep	_	13	ADV	_	_
+19	i	i	prep	prep	_	18	PUTFYLL	_	_
+20	denne	denne	det	det	_	21	DET	_	_
+21	bygda	bygd	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 123
+# segstart = 551.192
+# segstop = 553.386
+# speaker = sokndal_01um
+# text = ja e egentlig
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	egentlig	egentlig	adj	adj	_	1	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 124
+# segstart = 553.386
+# segstop = 557.893
+# speaker = jbj
+# text = det blir færre og færre # sakte men sikkert blir det færre og færre folk her
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	blir	bli	verb	verb	_	0	FINV	_	_
+3	færre	færre	adj	adj	_	2	SPRED	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	færre	færre	adj	adj	_	3	KOORD	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	sakte	sakte	adj	adj	_	10	ADV	_	_
+8	men	men	konj	konj	_	9	KONJ	_	_
+9	sikkert	sikker	adj	adj	_	7	KOORD	_	_
+10	blir	bli	verb	verb	_	2	KOORD	_	_
+11	det	det	pron	pron	_	10	FSUBJ	_	_
+12	færre	færre	adj	adj	_	15	ATR	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	færre	færre	adj	adj	_	12	KOORD	_	_
+15	folk	folk	subst	subst	_	10	SPRED	_	_
+16	her	her	prep	prep	_	10	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 125
+# segstart = 557.893
+# segstop = 566.356
+# speaker = sokndal_01um
+# text = ja for det at # altså sånn yrkesmessig så # sier seg sjøl altså # de yrka som dominerer i bygda der har du jo
+1	ja	ja	interj	interj	_	23	INTERJ	_	_
+2	for	for	konj	konj	_	8	KONJ	_	_
+3	det	det	pron	pron	_	2	FLAT	_	_
+4	at	at	sbu	sbu	_	8	SBU	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	altså	altså	adv	adv	_	8	ADV	_	_
+7	sånn	sånn	det	det	_	8	DET	_	_
+8	yrkesmessig	yrkesmessig	adj	adj	_	9	APP	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	sier	si	verb	verb	_	23	KOORD	_	_
+12	seg	seg	pron	pron	_	11	DOBJ	_	_
+13	sjøl	sjøl	det	det	_	12	DET	_	_
+14	altså	altså	adv	adv	_	11	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	de	de	det	det	_	17	DET	_	_
+17	yrka	yrke	subst	subst	_	23	ADV	_	_
+18	som	som	sbu	sbu	_	19	SBU	_	_
+19	dominerer	dominere	verb	verb	_	17	ATR	_	_
+20	i	i	prep	prep	_	19	ADV	_	_
+21	bygda	bygd	subst	subst	_	20	PUTFYLL	_	_
+22	der	der	prep	prep	_	23	ADV	_	_
+23	har	ha	verb	verb	_	0	FINV	_	_
+24	du	du	pron	pron	_	23	SUBJ	_	_
+25	jo	jo	adv	adv	_	23	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 126
+# segstart = 566.356
+# segstop = 574.369
+# speaker = sokndal_01um
+# text = entreprenør anleggsarbeidere sånn sånn så det # det er jo begrensa hvor mange folk som kan komme tilbake # i i de yrka da
+1	entreprenør	entreprenør	subst	subst	_	0	FRAG	_	_
+2	anleggsarbeidere	anleggsarbeider	subst	subst	_	1	FLAT	_	_
+3	sånn	sånn	adv	adv	_	1	KOORD	_	_
+4	sånn	sånn	adv	adv	_	9	ADV	_	_
+5	så	så	adv	adv	_	9	KONJ	_	_
+6	det	det	pron	pron	_	8	REP	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	1	KOORD	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	begrensa	begrensa	adj	adj	_	9	SPRED	_	_
+12	hvor	hvor	adv	adv	_	13	ADV	_	_
+13	mange	mange	adj	adj	_	14	ATR	_	_
+14	folk	folk	subst	subst	_	9	PSUBJ	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	kan	kan	verb	verb	_	14	ATR	_	_
+17	komme	komme	verb	verb	_	16	INFV	_	_
+18	tilbake	tilbake	prep	prep	_	17	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	i	i	prep	prep	_	21	REP	_	_
+21	i	i	prep	prep	_	18	PUTFYLL	_	_
+22	de	de	det	det	_	23	DET	_	_
+23	yrka	yrke	subst	subst	_	21	PUTFYLL	_	_
+24	da	da	adv	adv	_	17	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 127
+# segstart = 574.369
+# segstop = 582.382
+# speaker = sokndal_01um
+# text = altså de som # de unge som får de jobbene # de som tar den utdanninga og tar de jobbene da # de blir e
+1	altså	altså	adv	adv	_	6	ADV	_	_
+2	de	de	pron	pron	_	6	REP	_	_
+3	som	som	sbu	sbu	_	2	SBU	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	de	de	det	det	_	6	DET	_	_
+6	unge	ung	adj	adj	_	23	APP	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	får	få	verb	verb	_	6	ATR	_	_
+9	de	de	pron	pron	_	10	DET	_	_
+10	jobbene	jobb	subst	subst	_	8	DOBJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	de	de	pron	pron	_	23	APP	_	_
+13	som	som	sbu	sbu	_	14	SBU	_	_
+14	tar	ta	verb	verb	_	12	ATR	_	_
+15	den	den	det	det	_	16	DET	_	_
+16	utdanninga	utdanning	subst	subst	_	14	DOBJ	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	tar	ta	verb	verb	_	12	KOORD	_	_
+19	de	de	det	det	_	20	DET	_	_
+20	jobbene	jobb	subst	subst	_	18	DOBJ	_	_
+21	da	da	adv	adv	_	18	ADV	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	de	de	pron	pron	_	24	SUBJ	_	_
+24	blir	bli	verb	verb	_	0	FINV	_	_
+25	e	e	nol	nol	_	24	FYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 128
+# segstart = 582.382
+# segstop = 587.342
+# speaker = sokndal_01um
+# text = de blir som regel værende i bygda da # så er det jo ma- så er det jo noen som skal ut i Nordsjøen au veit du og da
+1	de	de	pron	pron	_	2	SUBJ	_	_
+2	blir	bli	verb	verb	_	0	FINV	_	_
+3	som	som	prep	prep	_	2	ADV	_	_
+4	regel	regel	subst	subst	_	3	PUTFYLL	_	_
+5	værende	være	verb	verb	_	2	SPRED	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	bygda	bygd	subst	subst	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	2	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	er	være	verb	verb	_	16	REP	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	jo	jo	adv	adv	_	11	ADV	_	_
+14	ma-	ma-	ufullst	ufullst	_	11	FYLL	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	er	være	verb	verb	_	2	KOORD	_	_
+17	det	det	pron	pron	_	16	FSUBJ	_	_
+18	jo	jo	adv	adv	_	16	ADV	_	_
+19	noen	noen	pron	pron	_	16	PSUBJ	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	skal	skal	verb	verb	_	19	ATR	_	_
+22	ut	ut	prep	prep	_	21	ADV	_	_
+23	i	i	prep	prep	_	22	PUTFYLL	_	_
+24	Nordsjøen	Nordsjøen	subst	subst	_	23	PUTFYLL	_	_
+25	au	au	subst	subst	_	21	ADV	_	_
+26	veit	veit	verb	verb	_	2	PAR	_	_
+27	du	du	pron	pron	_	26	SUBJ	_	_
+28	og	og	konj	konj	_	2	KONJ	_	_
+29	da	da	adv	adv	_	28	ADV	_	_
+
+# Siste ledd APP eller KOORD?
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 129
+# segstart = 587.342
+# segstop = 592.99
+# speaker = sokndal_01um
+# text = de blir jo au værende i bygda da # så har du sånn andre yrker sånn mer akademiske yrker
+1	de	de	pron	pron	_	2	SUBJ	_	_
+2	blir	bli	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	au	au	adv	adv	_	2	ADV	_	_
+5	værende	være	verb	verb	_	2	SPRED	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	bygda	bygd	subst	subst	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	2	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	har	ha	verb	verb	_	2	KOORD	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	sånn	sånn	adv	adv	_	15	DET	_	_
+14	andre	andre	det	det	_	15	DET	_	_
+15	yrker	yrke	subst	subst	_	11	DOBJ	_	_
+16	sånn	sånn	adv	adv	_	19	DET	_	_
+17	mer	mye	adj	adj	_	19	ATR	_	_
+18	akademiske	akademisk	adj	adj	_	19	ATR	_	_
+19	yrker	yrke	subst	subst	_	15	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 130
+# segstart = 592.99
+# segstop = 599.286
+# speaker = sokndal_01um
+# text = der er litt begrensa hvor # hvor mye det er her i bygda da # så jeg trur det går det går litt på det
+1	der	der	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	litt	litt	adj	adj	_	4	ADV	_	_
+4	begrensa	begrensa	adj	adj	_	2	SPRED	_	_
+5	hvor	hvor	adv	adv	_	10	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	hvor	hvor	adv	adv	_	8	ADV	_	_
+8	mye	mye	adj	adj	_	10	ADV	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	2	PSUBJ	_	_
+11	her	her	prep	prep	_	10	ADV	_	_
+12	i	i	prep	prep	_	11	PUTFYLL	_	_
+13	bygda	bygd	subst	subst	_	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	10	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	konj	konj	_	18	KONJ	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	trur	tru	verb	verb	_	2	KOORD	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	går	gå	verb	verb	_	22	REP	_	_
+21	det	det	pron	pron	_	22	FSUBJ	_	_
+22	går	gå	verb	verb	_	18	DOBJ	_	_
+23	litt	litt	adj	adj	_	22	ADV	_	_
+24	på	på	prep	prep	_	22	ADV	_	_
+25	det	det	pron	pron	_	24	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 131
+# segstart = 599.286
+# segstop = 607.609
+# speaker = jbj
+# text = men du de yrkene dine som du sa kunne det latt seg kombinere med # å bo her ?
+1	men	men	konj	konj	_	9	KONJ	_	_
+2	du	du	pron	pron	_	9	INTERJ	_	_
+3	de	de	pron	pron	_	4	DET	_	_
+4	yrkene	yrke	subst	subst	_	10	APP	_	_
+5	dine	dine	det	det	_	4	DET	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	sa	si	verb	verb	_	4	ATR	_	_
+9	kunne	kunne	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	SUBJ	_	_
+11	latt	la	verb	verb	_	9	INFV	_	_
+12	seg	seg	pron	pron	_	11	IOBJ	_	_
+13	kombinere	kombinere	verb	verb	_	11	DOBJ	_	_
+14	med	med	prep	prep	_	13	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	å	å	inf-merke	inf-merke	_	14	PUTFYLL	_	_
+17	bo	bo	verb	verb	_	16	INFV	_	_
+18	her	her	prep	prep	_	17	ADV	_	_
+19	?	?	clb	clb	_	9	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 132
+# segstart = 607.609
+# segstop = 616.289
+# speaker = sokndal_01um
+# text = noen av dem trur jeg heilt sikkert kunne latt seg kombinere # altså om jeg ikke hadde fått arbeid i bygda så kunne jeg # fått arbeid i # Egersund
+1	noen	noen	det	det	_	8	SUBJ	_	_
+2	av	av	prep	prep	_	1	ATR	_	_
+3	dem	dem	pron	pron	_	2	PUTFYLL	_	_
+4	trur	tru	verb	verb	_	0	FINV	_	_
+5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+6	heilt	heil	adj	adj	_	7	ADV	_	_
+7	sikkert	sikker	adj	adj	_	9	ADV	_	_
+8	kunne	kunne	verb	verb	_	4	DOBJ	_	_
+9	latt	la	verb	verb	_	8	INFV	_	_
+10	seg	seg	pron	pron	_	9	IOBJ	_	_
+11	kombinere	kombinere	verb	verb	_	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	altså	altså	adv	adv	_	17	ADV	_	_
+14	om	om	sbu	sbu	_	17	SBU	_	_
+15	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+16	ikke	ikke	adv	adv	_	18	ADV	_	_
+17	hadde	ha	verb	verb	_	22	APP	_	_
+18	fått	få	verb	verb	_	17	INFV	_	_
+19	arbeid	arbeid	subst	subst	_	18	DOBJ	_	_
+20	i	i	prep	prep	_	18	ADV	_	_
+21	bygda	bygd	subst	subst	_	20	PUTFYLL	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	kunne	kunne	verb	verb	_	4	KOORD	_	_
+24	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	fått	få	verb	verb	_	23	INFV	_	_
+27	arbeid	arbeid	subst	subst	_	26	DOBJ	_	_
+28	i	i	prep	prep	_	27	ATR	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	Egersund	Egersund	subst	subst	_	28	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 133
+# segstart = 616.289
+# segstop = 619.294
+# speaker = sokndal_01um
+# text = sørover for eksempel kunne jeg fortsatt blitt buende i bygda da
+1	sørover	sørover	prep	prep	_	8	ADV	_	_
+2	for	for	prep	prep	_	4	ADV	_	_
+3	eksempel	eksempel	subst	subst	_	2	PUTFYLL	_	_
+4	kunne	kunne	verb	verb	_	0	FINV	_	_
+5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+6	fortsatt	fortsatt	adv	adv	_	7	ADV	_	_
+7	blitt	bli	verb	verb	_	4	INFV	_	_
+8	buende	bu	verb	verb	_	7	SPRED	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	bygda	bygd	subst	subst	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	8	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 134
+# segstart = 619.294
+# segstop = 621.393
+# speaker = jbj
+# text = mm # politimann
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	politimann	politimann	subst	subst	_	1	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 135
+# segstart = 621.393
+# segstop = 623.253
+# speaker = sokndal_01um
+# text = for eksempel
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	eksempel	eksempel	subst	subst	_	1	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 136
+# segstart = 623.253
+# segstop = 625.113
+# speaker = jbj
+# text = militær ?
+1	militær	militær	subst	subst	_	0	FRAG	_	_
+2	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 137
+# segstart = 625.113
+# segstop = 632.792
+# speaker = sokndal_01um
+# text = e # jeg har tenkt litt på det au men jeg er # er ikke jeg har ikke problemer med synet men jeg e
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	tenkt	tenke	verb	verb	_	4	INFV	_	_
+6	litt	litt	adj	adj	_	5	ADV	_	_
+7	på	på	prep	prep	_	5	ADV	_	_
+8	det	det	pron	pron	_	7	PUTFYLL	_	_
+9	au	au	adv	adv	_	5	ADV	_	_
+10	men	men	konj	konj	_	14	KONJ	_	_
+11	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+12	er	være	verb	verb	_	14	REP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	er	være	verb	verb	_	17	REP	_	_
+15	ikke	ikke	adv	adv	_	14	ADV	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	har	ha	verb	verb	_	4	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	problemer	problem	subst	subst	_	17	DOBJ	_	_
+20	med	med	prep	prep	_	19	ATR	_	_
+21	synet	syn	subst	subst	_	20	PUTFYLL	_	_
+22	men	men	konj	konj	_	23	KONJ	_	_
+23	jeg	jeg	pron	pron	_	17	KOORD	_	_
+24	e	e	nol	nol	_	23	FYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 138
+# segstart = 632.792
+# segstop = 639.159
+# speaker = sokndal_01um
+# text = hadde litt problemer med å skulle skyte med AG3 i i forsvaret da
+1	hadde	ha	verb	verb	_	0	FINV	_	_
+2	litt	litt	adj	adj	_	3	ATR	_	_
+3	problemer	problem	subst	subst	_	1	DOBJ	_	_
+4	med	med	prep	prep	_	3	ATR	_	_
+5	å	å	inf-merke	inf-merke	_	4	PUTFYLL	_	_
+6	skulle	skulle	verb	verb	_	5	INFV	_	_
+7	skyte	skyte	verb	verb	_	6	INFV	_	_
+8	med	med	prep	prep	_	7	ADV	_	_
+9	AG3	AG3	subst	subst	_	8	PUTFYLL	_	_
+10	i	i	prep	prep	_	11	REP	_	_
+11	i	i	prep	prep	_	7	ADV	_	_
+12	forsvaret	forsvaret	subst	subst	_	11	PUTFYLL	_	_
+13	da	da	adv	adv	_	7	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 139
+# segstart = 639.159
+# segstop = 644.501
+# speaker = sokndal_01um
+# text = og det er jeg har noe med øynene som gjør at jeg ikke klarte å så # å si fokusere skikkelig når jeg skulle # skulle sikte da
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	5	REP	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	0	FINV	_	_
+6	noe	noe	det	det	_	5	DOBJ	_	_
+7	med	med	prep	prep	_	6	ATR	_	_
+8	øynene	øye	subst	subst	_	7	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	gjør	gjøre	verb	verb	_	8	ATR	_	_
+11	at	at	sbu	sbu	_	14	SBU	_	_
+12	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+13	ikke	ikke	adv	adv	_	14	ADV	_	_
+14	klarte	klare	verb	verb	_	10	DOBJ	_	_
+15	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
+16	så	så	adv	adv	_	15	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	å	å	inf-merke	inf-merke	_	16	ADV	_	_
+19	si	si	verb	verb	_	18	INFV	_	_
+20	fokusere	fokusere	verb	verb	_	15	INFV	_	_
+21	skikkelig	skikkelig	adj	adj	_	20	ADV	_	_
+22	når	når	sbu	sbu	_	26	SBU	_	_
+23	jeg	jeg	pron	pron	_	26	SUBJ	_	_
+24	skulle	skulle	verb	verb	_	26	REP	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	skulle	skulle	verb	verb	_	20	ADV	_	_
+27	sikte	sikte	verb	verb	_	26	INFV	_	_
+28	da	da	adv	adv	_	27	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 140
+# segstart = 644.501
+# segstop = 651.154
+# speaker = jbj
+# text = å ja ja nå trodde jeg du mente # at du ikke likte å skyte på folk jeg
+1	å	å	interj	interj	_	5	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	nå	nå	adv	adv	_	5	ADV	_	_
+5	trodde	tro	verb	verb	_	0	FINV	_	_
+6	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+8	mente	mene	verb	verb	_	5	DOBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	at	at	sbu	sbu	_	13	SBU	_	_
+11	du	du	pron	pron	_	13	SUBJ	_	_
+12	ikke	ikke	adv	adv	_	13	ADV	_	_
+13	likte	like	verb	verb	_	7	DOBJ	_	_
+14	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+15	skyte	skyte	verb	verb	_	14	INFV	_	_
+16	på	på	prep	prep	_	15	ADV	_	_
+17	folk	folk	subst	subst	_	16	PUTFYLL	_	_
+18	jeg	jeg	pron	pron	_	6	APP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 141
+# segstart = 651.154
+# segstop = 676.766
+# speaker = sokndal_01um
+# text = nei ne- nei e nei # # nei nei jeg har jeg har jeg har aldri skutt på noen da men e # jeg har i grunnen ikke tatt noen stilling til det
+1	nei	nei	interj	interj	_	15	INTERJ	_	_
+2	ne-	ne	ufullst	ufullst	_	3	FYLL	_	_
+3	nei	nei	interj	interj	_	1	INTERJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	nei	nei	interj	interj	_	1	INTERJ	_	_
+6	#	#	pause	pause	_	5	IK	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	nei	nei	interj	interj	_	15	INTERJ	_	_
+9	nei	nei	interj	interj	_	8	INTERJ	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	15	REP	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	har	ha	verb	verb	_	15	REP	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	har	ha	verb	verb	_	0	FINV	_	_
+16	aldri	aldri	adv	adv	_	17	ADV	_	_
+17	skutt	skyte	verb	verb	_	15	INFV	_	_
+18	på	på	prep	prep	_	17	ADV	_	_
+19	noen	noen	det	det	_	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	17	ADV	_	_
+21	men	men	konj	konj	_	25	KONJ	_	_
+22	e	e	nol	nol	_	24	FYLL	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	jeg	jeg	pron	pron	_	25	SUBJ	_	_
+25	har	ha	verb	verb	_	15	KOORD	_	_
+26	i	i	prep	prep	_	29	ADV	_	_
+27	grunnen	grunn	subst	subst	_	26	PUTFYLL	_	_
+28	ikke	ikke	adv	adv	_	29	ADV	_	_
+29	tatt	ta	verb	verb	_	25	INFV	_	_
+30	noen	noen	det	det	_	31	DET	_	_
+31	stilling	stilling	subst	subst	_	29	DOBJ	_	_
+32	til	til	prep	prep	_	31	ATR	_	_
+33	det	det	pron	pron	_	32	PUTFYLL	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 142
+# segstart = 660.264
+# segstop = 676.766
+# speaker = sokndal_01um
+# text = vi- e hvis du hadde vært i krig så hadde du jo vært i krig så da # da er det enten du eller eller han som går i grava så # ja
+1	vi-	vi-	ufullst	ufullst	_	3	FYLL	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	hvis	hvis	sbu	sbu	_	5	SBU	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	hadde	ha	verb	verb	_	9	APP	_	_
+6	vært	være	verb	verb	_	5	INFV	_	_
+7	i	i	prep	prep	_	6	SPRED	_	_
+8	krig	krig	subst	subst	_	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	hadde	ha	verb	verb	_	0	FINV	_	_
+11	du	du	pron	pron	_	10	SUBJ	_	_
+12	jo	jo	adv	adv	_	13	ADV	_	_
+13	vært	være	verb	verb	_	10	INFV	_	_
+14	i	i	prep	prep	_	13	SPRED	_	_
+15	krig	krig	subst	subst	_	14	PUTFYLL	_	_
+16	så	så	adv	adv	_	19	REP	_	_
+17	da	da	adv	adv	_	19	REP	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	da	da	adv	adv	_	20	ADV	_	_
+20	er	være	verb	verb	_	10	KOORD	_	_
+21	det	det	pron	pron	_	20	FSUBJ	_	_
+22	enten	enten	konj	konj	_	23	KONJ	_	_
+23	du	du	pron	pron	_	20	SPRED	_	_
+24	eller	eller	konj	konj	_	25	REP	_	_
+25	eller	eller	konj	konj	_	26	KONJ	_	_
+26	han	han	pron	pron	_	23	KOORD	_	_
+27	som	som	sbu	sbu	_	28	SBU	_	_
+28	går	gå	verb	verb	_	26	ATR	_	_
+29	i	i	prep	prep	_	28	ADV	_	_
+30	grava	grav	subst	subst	_	29	PUTFYLL	_	_
+31	så	så	adv	adv	_	20	ADV	_	_
+32	#	#	pause	pause	_	33	IK	_	_
+33	ja	ja	interj	interj	_	10	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 143
+# segstart = 668.825
+# segstop = 676.766
+# speaker = sokndal_01um
+# text = men det er jo hvis du er hvis du er i krig hvis du er en fotsoldat selvfølgelig
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	hvis	hvis	sbu	sbu	_	7	SBU	_	_
+6	du	du	pron	pron	_	7	SUBJ	_	_
+7	er	være	verb	verb	_	3	REP	_	_
+8	hvis	hvis	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	er	være	verb	verb	_	3	SPRED	_	_
+11	i	i	prep	prep	_	10	SPRED	_	_
+12	krig	krig	subst	subst	_	11	PUTFYLL	_	_
+13	hvis	hvis	sbu	sbu	_	15	SBU	_	_
+14	du	du	pron	pron	_	15	SUBJ	_	_
+15	er	være	verb	verb	_	3	ADV	_	_
+16	en	en	det	det	_	17	DET	_	_
+17	fotsoldat	fotsoldat	subst	subst	_	15	SPRED	_	_
+18	selvfølgelig	selvfølgelig	adv	adv	_	15	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 144
+# segstart = 672.831
+# segstop = 676.766
+# speaker = sokndal_01um
+# text = om krigen er rette beslutninga å ta det er jo # det er et annet heilt annet spørsmål
+1	om	om	sbu	sbu	_	3	SBU	_	_
+2	krigen	krig	subst	subst	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	12	APP	_	_
+4	rette	rett	adj	adj	_	5	ATR	_	_
+5	beslutninga	beslutning	subst	subst	_	3	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	5	ATR	_	_
+7	ta	ta	verb	verb	_	6	INFV	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	13	REP	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	det	det	pron	pron	_	13	SUBJ	_	_
+13	er	være	verb	verb	_	0	FINV	_	_
+14	et	et	det	det	_	18	DET	_	_
+15	annet	annet	det	det	_	18	REP	_	_
+16	heilt	heil	adj	adj	_	17	ADV	_	_
+17	annet	annet	det	det	_	18	DET	_	_
+18	spørsmål	spørsmål	subst	subst	_	13	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 146
+# segstart = 676.766
+# segstop = 686.567
+# speaker = jbj
+# text = du dette er en m- vi kan ikke vi kan ikke snakke om det # nei # fortell meg heller om noe du synes er utrolig hyggelig å gjøre
+1	du	du	pron	pron	_	10	INTERJ	_	_
+2	dette	dette	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	7	REP	_	_
+4	en	en	det	det	_	6	FYLL	_	_
+5	m-	m-	ufullst	ufullst	_	6	FYLL	_	_
+6	vi	vi	pron	pron	_	7	SUBJ	_	_
+7	kan	kan	verb	verb	_	10	REP	_	_
+8	ikke	ikke	adv	adv	_	7	ADV	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	kan	kan	verb	verb	_	0	FINV	_	_
+11	ikke	ikke	adv	adv	_	12	ADV	_	_
+12	snakke	snakke	verb	verb	_	10	INFV	_	_
+13	om	om	prep	prep	_	12	ADV	_	_
+14	det	det	pron	pron	_	13	PUTFYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	nei	nei	interj	interj	_	18	INTERJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	fortell	fortelle	verb	verb	_	10	KOORD	_	_
+19	meg	meg	pron	pron	_	18	DOBJ	_	_
+20	heller	heller	adv	adv	_	18	ADV	_	_
+21	om	om	prep	prep	_	18	ADV	_	_
+22	noe	noe	pron	pron	_	21	PUTFYLL	_	_
+23	du	du	pron	pron	_	24	SUBJ	_	_
+24	synes	synes	verb	verb	_	22	ATR	_	_
+25	er	være	verb	verb	_	24	SPRED	_	_
+26	utrolig	utrolig	adj	adj	_	27	ADV	_	_
+27	hyggelig	hyggelig	adj	adj	_	25	SPRED	_	_
+28	å	å	inf-merke	inf-merke	_	27	ADV	_	_
+29	gjøre	gjøre	verb	verb	_	28	INFV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 147
+# segstart = 676.766
+# segstop = 686.567
+# speaker = sokndal_01um
+# text = * * nei
+1	*	*	pause	pause	_	0	IK	_	_
+2	*	*	pause	pause	_	3	IK	_	_
+3	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 148
+# segstart = 686.567
+# segstop = 687.45
+# speaker = sokndal_01um
+# text = som jeg synes er gøy å gjøre ?
+1	som	som	sbu	sbu	_	3	SBU	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	synes	synes	verb	verb	_	0	FINV	_	_
+4	er	være	verb	verb	_	3	SPRED	_	_
+5	gøy	gøy	adj	adj	_	4	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	5	ADV	_	_
+7	gjøre	gjøre	verb	verb	_	6	INFV	_	_
+8	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 149
+# segstart = 687.45
+# segstop = 690.097
+# speaker = jbj
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 150
+# segstart = 690.097
+# segstop = 695.963
+# speaker = sokndal_01um
+# text = em # fikk litt jernteppe
+1	em	em	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	fikk	få	verb	verb	_	0	FINV	_	_
+4	litt	litt	adj	adj	_	5	ATR	_	_
+5	jernteppe	jernteppe	subst	subst	_	3	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 151
+# segstart = 695.963
+# segstop = 700.852
+# speaker = jbj
+# text = fortell meg hvorfor det er så utrolig gøy å jogge
+1	fortell	fortelle	verb	verb	_	0	FINV	_	_
+2	meg	meg	pron	pron	_	1	IOBJ	_	_
+3	hvorfor	hvorfor	adv	adv	_	5	ADV	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	1	DOBJ	_	_
+6	så	så	adv	adv	_	8	ADV	_	_
+7	utrolig	utrolig	adj	adj	_	8	ADV	_	_
+8	gøy	gøy	adj	adj	_	5	SPRED	_	_
+9	å	å	inf-merke	inf-merke	_	5	PSUBJ	_	_
+10	jogge	jogge	verb	verb	_	9	INFV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 152
+# segstart = 700.852
+# segstop = 709.938
+# speaker = sokndal_01um
+# text = det # du får sånn befriende følelse # altså # jogger altså du jogger heilt aleine samme åssen været er du har # vil- veldig viktig å ha med seg musikk
+1	det	det	pron	pron	_	3	REP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	får	få	verb	verb	_	0	FINV	_	_
+5	sånn	sånn	det	det	_	7	DET	_	_
+6	befriende	befriende	adj	adj	_	7	ATR	_	_
+7	følelse	følelse	subst	subst	_	4	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	altså	altså	adv	adv	_	11	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	jogger	jogge	verb	verb	_	14	REP	_	_
+12	altså	altså	adv	adv	_	14	ADV	_	_
+13	du	du	pron	pron	_	14	SUBJ	_	_
+14	jogger	jogge	verb	verb	_	4	KOORD	_	_
+15	heilt	heil	adj	adj	_	16	ADV	_	_
+16	aleine	aleine	adv	adv	_	14	ADV	_	_
+17	samme	samme	det	det	_	18	DET	_	_
+18	åssen	åssen	adv	adv	_	20	ADV	_	_
+19	været	vær	subst	subst	_	20	SUBJ	_	_
+20	er	være	verb	verb	_	14	ADV	_	_
+21	du	du	pron	pron	_	22	SUBJ	_	_
+22	har	ha	verb	verb	_	26	REP	_	_
+23	#	#	pause	pause	_	25	IK	_	_
+24	vil-	vil-	ufullst	ufullst	_	25	FYLL	_	_
+25	veldig	veldig	adj	adj	_	26	ADV	_	_
+26	viktig	viktig	adj	adj	_	4	KOORD	_	_
+27	å	å	inf-merke	inf-merke	_	26	ADV	_	_
+28	ha	ha	verb	verb	_	27	INFV	_	_
+29	med	med	prep	prep	_	28	ADV	_	_
+30	seg	seg	pron	pron	_	29	PUTFYLL	_	_
+31	musikk	musikk	subst	subst	_	28	DOBJ	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 153
+# segstart = 709.938
+# segstop = 717.665
+# speaker = sokndal_01um
+# text = musikk som passer til jogginga da # så du kobler heilt av # heilt fantastisk god følelse
+1	musikk	musikk	subst	subst	_	0	FRAG	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	passer	passe	verb	verb	_	1	ATR	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	jogginga	jogging	subst	subst	_	4	PUTFYLL	_	_
+6	da	da	adv	adv	_	3	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	så	så	konj	konj	_	10	ADV	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	kobler	koble	verb	verb	_	1	KOORD	_	_
+11	heilt	heil	adj	adj	_	12	ADV	_	_
+12	av	av	prep	prep	_	10	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	heilt	heil	adj	adj	_	15	ADV	_	_
+15	fantastisk	fantastisk	adj	adj	_	16	ADV	_	_
+16	god	god	adj	adj	_	17	ATR	_	_
+17	følelse	følelse	subst	subst	_	1	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 154
+# segstart = 717.665
+# segstop = 722.172
+# speaker = jbj
+# text = mm # og hvor lenge varer da den joggeturen ?
+1	mm	mm	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	hvor	hvor	adv	adv	_	5	ADV	_	_
+5	lenge	leng	adj	adj	_	6	ADV	_	_
+6	varer	vare	verb	verb	_	0	FINV	_	_
+7	da	da	sbu	sbu	_	6	ADV	_	_
+8	den	den	det	det	_	9	DET	_	_
+9	joggeturen	joggetur	subst	subst	_	6	SUBJ	_	_
+10	?	?	clb	clb	_	6	IP	_	_
+
+# Usikker på hvordan denne skal analyseres.
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 155
+# segstart = 722.172
+# segstop = 724.056
+# speaker = sokndal_01um
+# text = halvtimes tid tre kvarter kanskje
+1	halvtimes	halvtime	det	det	_	2	DET	_	_
+2	tid	tid	subst	subst	_	0	FRAG	_	_
+3	tre	tre	det	det	_	4	DET	_	_
+4	kvarter	kvarter	subst	subst	_	2	KOORD	_	_
+5	kanskje	kanskje	adv	adv	_	4	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 156
+# segstart = 724.056
+# segstop = 728.47
+# speaker = jbj
+# text = og er den fantastiske følelsen gjennom hele turen ?
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	den	den	det	det	_	5	DET	_	_
+4	fantastiske	fantastisk	adj	adj	_	5	ATR	_	_
+5	følelsen	følelse	subst	subst	_	2	SUBJ	_	_
+6	gjennom	gjennom	prep	prep	_	2	SPRED	_	_
+7	hele	hel	adj	adj	_	8	ATR	_	_
+8	turen	tur	subst	subst	_	6	PUTFYLL	_	_
+9	?	?	clb	clb	_	2	IP	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 157
+# segstart = 728.47
+# segstop = 731.857
+# speaker = sokndal_01um
+# text = det kommer jo selvfølgelig an på litt an på hva slags form du er i da
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	kommer	komme	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	selvfølgelig	selvfølgelig	adj	adj	_	2	ADV	_	_
+5	an	an	adv	adv	_	8	REP	_	_
+6	på	på	prep	prep	_	8	REP	_	_
+7	litt	litt	adj	adj	_	8	ADV	_	_
+8	an	an	adv	adv	_	2	ADV	_	_
+9	på	på	prep	prep	_	2	ADV	_	_
+10	hva	hva	pron	pron	_	11	DET	_	_
+11	slags	slags	subst	subst	_	12	ATR	_	_
+12	form	form	subst	subst	_	9	PUTFYLL	_	_
+13	du	du	pron	pron	_	14	SUBJ	_	_
+14	er	være	verb	verb	_	12	ATR	_	_
+15	i	i	prep	prep	_	14	SPRED	_	_
+16	da	da	adv	adv	_	2	ADV	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 158
+# segstart = 731.857
+# segstop = 737.604
+# speaker = sokndal_01um
+# text = men e # noen ganger så er det heilt fantastisk # du kjenner at du bare # motivasjonen stiger tempoet stiger
+1	men	men	konj	konj	_	7	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	noen	noen	det	det	_	5	DET	_	_
+5	ganger	gang	subst	subst	_	6	APP	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	det	det	pron	pron	_	7	SUBJ	_	_
+9	heilt	heil	adj	adj	_	10	ADV	_	_
+10	fantastisk	fantastisk	adj	adj	_	7	SPRED	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	du	du	pron	pron	_	13	SUBJ	_	_
+13	kjenner	kjenne	verb	verb	_	7	KOORD	_	_
+14	at	at	sbu	sbu	_	19	SBU	_	_
+15	du	du	pron	pron	_	19	SLETT	_	_
+16	bare	bare	adv	adv	_	19	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	motivasjonen	motivasjon	subst	subst	_	19	SUBJ	_	_
+19	stiger	stige	verb	verb	_	13	DOBJ	_	_
+20	tempoet	tempo	subst	subst	_	21	SUBJ	_	_
+21	stiger	stige	verb	verb	_	19	KOORD	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 159
+# segstart = 737.604
+# segstop = 745.116
+# speaker = sokndal_01um
+# text = andre ganger så er det tyngre da # hvis du har hatt n- par gode julemiddager før for eksempel # da kan det bli ganske hardt
+1	andre	annen	det	det	_	2	DET	_	_
+2	ganger	gang	subst	subst	_	3	APP	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	SUBJ	_	_
+6	tyngre	tung	adj	adj	_	4	SPRED	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	hvis	hvis	sbu	sbu	_	11	SBU	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	22	ADV	_	_
+12	hatt	ha	verb	verb	_	11	INFV	_	_
+13	n-	n	ufullst	ufullst	_	14	FYLL	_	_
+14	par	par	subst	subst	_	16	DET	_	_
+15	gode	god	adj	adj	_	16	ATR	_	_
+16	julemiddager	julemiddag	subst	subst	_	12	DOBJ	_	_
+17	før	før	prep	prep	_	18	REP	_	_
+18	for	for	prep	prep	_	12	ADV	_	_
+19	eksempel	eksempel	subst	subst	_	18	PUTFYLL	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	da	da	adv	adv	_	22	ADV	_	_
+22	kan	kunne	verb	verb	_	4	KOORD	_	_
+23	det	det	pron	pron	_	22	SUBJ	_	_
+24	bli	bli	verb	verb	_	22	INFV	_	_
+25	ganske	ganske	adv	adv	_	26	ADV	_	_
+26	hardt	hard	adj	adj	_	24	SPRED	_	_
+
+# annotator = VDT
+# file = sokndal_01um-jbj
+# id = 160
+# segstart = 745.116
+# segstop = 747.358
+# speaker = jbj
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+

@@ -1,0 +1,3987 @@
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 1
+# segstart = 0
+# segstop = 2.957
+# speaker = ran
+# text = ja # og vi skal prate ti minutter
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	skal	skulle	verb	verb	_	0	FINV	_	_
+6	prate	prate	verb	verb	_	5	INFV	_	_
+7	ti	ti	det	det	_	8	DET	_	_
+8	minutter	minutt	subst	subst	_	6	ADV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 2
+# segstart = 2.957
+# segstop = 4.176
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 3
+# segstart = 4.176
+# segstop = 10.135
+# speaker = ran
+# text = # ja ja trondheim_04gk # det var veldig hyggelig at du ville komme hit i dag
+1	#	#	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	7	INTERJ	_	_
+3	ja	ja	interj	interj	_	7	INTERJ	_	_
+4	trondheim_04gk	trondheim_04gk	subst	subst	_	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	var	være	verb	verb	_	0	FINV	_	_
+8	veldig	veldig	adj	adj	_	9	ADV	_	_
+9	hyggelig	hyggelig	adj	adj	_	7	SPRED	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	ville	ville	verb	verb	_	7	PSUBJ	_	_
+13	komme	komme	verb	verb	_	12	INFV	_	_
+14	hit	hit	prep	prep	_	13	ADV	_	_
+15	i	i	prep	prep	_	13	ADV	_	_
+16	dag	dag	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 4
+# segstart = 10.135
+# segstop = 12.114
+# speaker = trondheim_04gk
+# text = ja det var koselig å få komme òg
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	koselig	koselig	adj	adj	_	3	SPRED	_	_
+5	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
+6	få	få	verb	verb	_	5	INFV	_	_
+7	komme	komme	verb	verb	_	6	INFV	_	_
+8	òg	òg	adv	adv	_	7	KONJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 5
+# segstart = 12.114
+# segstop = 16.955
+# speaker = ran
+# text = ja # det er jo litt spesielt da at vi ber folk komme hit bare for å snakke med oss
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	litt	litt	adj	adj	_	7	ADV	_	_
+7	spesielt	spesiell	adj	adj	_	4	SPRED	_	_
+8	da	da	adv	adv	_	4	ADV	_	_
+9	at	at	sbu	sbu	_	11	SBU	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	ber	be	verb	verb	_	4	PSUBJ	_	_
+12	folk	folk	subst	subst	_	11	IOBJ	_	_
+13	komme	komme	verb	verb	_	11	DOBJ	_	_
+14	hit	hit	prep	prep	_	13	ADV	_	_
+15	bare	bare	adv	adv	_	16	ADV	_	_
+16	for	for	prep	prep	_	13	ADV	_	_
+17	å	å	inf-merke	inf-merke	_	16	PUTFYLL	_	_
+18	snakke	snakke	verb	verb	_	17	INFV	_	_
+19	med	med	prep	prep	_	18	ADV	_	_
+20	oss	oss	pron	pron	_	19	PUTFYLL	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 6
+# segstart = 12.114
+# segstop = 16.955
+# speaker = trondheim_04gk
+# text = * m
+1	*	*	pause	pause	_	2	IK	_	_
+2	m	m	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 7
+# segstart = 16.955
+# segstop = 17.504
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# SR: Ønsker at plassering / funksjon av 'på programmet' dobbeltsjekkes.
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 8
+# segstart = 17.504
+# segstop = 23.466
+# speaker = ran
+# text = mm uten at # uten at man har noe annet på programmet enn å høre hvordan du egentlig snakker
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	uten	uten	prep	prep	_	5	REP	_	_
+3	at	at	sbu	sbu	_	2	PUTFYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	uten	uten	prep	prep	_	1	ADV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	man	man	pron	pron	_	8	SUBJ	_	_
+8	har	ha	verb	verb	_	5	PUTFYLL	_	_
+9	noe	noe	det	det	_	10	DET	_	_
+10	annet	annet	det	det	_	8	DOBJ	_	_
+11	på	på	prep	prep	_	8	ADV	_	_
+12	programmet	program	subst	subst	_	11	PUTFYLL	_	_
+13	enn	enn	prep	prep	_	10	ADV	_	_
+14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	_
+15	høre	høre	verb	verb	_	14	INFV	_	_
+16	hvordan	hvordan	adv	adv	_	19	ADV	_	_
+17	du	du	pron	pron	_	19	SUBJ	_	_
+18	egentlig	egentlig	adj	adj	_	19	ADV	_	_
+19	snakker	snakke	verb	verb	_	15	DOBJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 9
+# segstart = 17.504
+# segstop = 23.466
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 10
+# segstart = 23.466
+# segstop = 25.278
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 11
+# segstart = 25.278
+# segstop = 32.528
+# speaker = ran
+# text = e # e kan du fortelle lite grann e # er du f- nei du # er du født og oppvokst i Trondheim du ?
+1	e	e	nol	nol	_	4	FYLL	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	kan	kunne	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	fortelle	fortelle	verb	verb	_	4	INFV	_	_
+7	lite	lite	adj	adj	_	8	ATR	_	_
+8	grann	grann	subst	subst	_	6	DOBJ	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	er	være	verb	verb	_	17	REP	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	f-	f	ufullst	ufullst	_	14	FYLL	_	_
+14	nei	nei	interj	interj	_	11	INTERJ	_	_
+15	du	du	pron	pron	_	17	REP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	er	være	verb	verb	_	4	ADV	_	_
+18	du	du	pron	pron	_	17	SUBJ	_	_
+19	født	føde	verb	verb	_	17	INFV	_	_
+20	og	og	konj	konj	_	21	KONJ	_	_
+21	oppvokst	oppvokse	verb	verb	_	19	KOORD	_	_
+22	i	i	prep	prep	_	21	ADV	_	_
+23	Trondheim	Trondheim	subst	subst	_	22	PUTFYLL	_	_
+24	du	du	pron	pron	_	15	APP	_	_
+25	?	$?	clb	clb	_	17	IP	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 12
+# segstart = 32.528
+# segstop = 53.593
+# speaker = trondheim_04gk
+# text = jeg vokste opp i Trondheim men e er født e på Løkken da Løkken verk # og der bodde jeg til vi flytta til Trondheim når jeg var seks år
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	vokste	vokse	verb	verb	_	0	FINV	_	_
+3	opp	opp	prep	prep	_	2	ADV	_	_
+4	i	i	prep	prep	_	2	ADV	_	_
+5	Trondheim	Trondheim	subst	subst	_	4	PUTFYLL	_	_
+6	men	men	konj	konj	_	8	KONJ	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	er	være	verb	verb	_	2	KOORD	_	_
+9	født	føde	verb	verb	_	8	INFV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	på	på	prep	prep	_	9	ADV	_	_
+12	Løkken	løkke	subst	subst	_	11	PUTFYLL	_	_
+13	da	da	sbu	sbu	_	8	ADV	_	_
+14	Løkken	løkke	subst	subst	_	12	APP	_	_
+15	verk	verk	subst	subst	_	14	FLAT	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	der	der	prep	prep	_	19	ADV	_	_
+19	bodde	bo	verb	verb	_	2	KOORD	_	_
+20	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+21	til	til	sbu	sbu	_	23	SBU	_	_
+22	vi	vi	pron	pron	_	23	SUBJ	_	_
+23	flytta	flytte	verb	verb	_	19	INFV	_	_
+24	til	til	prep	prep	_	23	ADV	_	_
+25	Trondheim	Trondheim	subst	subst	_	24	PUTFYLL	_	_
+26	når	når	sbu	sbu	_	28	SBU	_	_
+27	jeg	jeg	pron	pron	_	28	SUBJ	_	_
+28	var	være	verb	verb	_	23	ADV	_	_
+29	seks	seks	det	det	_	30	DET	_	_
+30	år	år	subst	subst	_	28	SPRED	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 13
+# segstart = 42.687
+# segstop = 53.593
+# speaker = trondheim_04gk
+# text = og da flytta vi til Rotvoll først da bodde der mens huset var ferdigbygd på Byåsen # mens huset # ble e bygd ferdig da # ja
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	flytta	flytte	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	Rotvoll	Rotvoll	subst	subst	_	5	PUTFYLL	_	_
+7	først	først	adv	adv	_	3	ADV	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+9	bodde	bo	verb	verb	_	3	KOORD	_	_
+10	der	der	prep	prep	_	9	ADV	_	_
+11	mens	mens	sbu	sbu	_	13	SBU	_	_
+12	huset	hus	subst	subst	_	13	SUBJ	_	_
+13	var	være	verb	verb	_	21	REP	_	_
+14	ferdigbygd	ferdigbygd	verb	verb	_	13	INFV	_	_
+15	på	på	prep	prep	_	14	ADV	_	_
+16	Byåsen	byåse	subst	subst	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	mens	mens	sbu	sbu	_	21	SBU	_	_
+19	huset	hus	subst	subst	_	21	SUBJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ble	bli	verb	verb	_	9	ADV	_	_
+22	e	e	nol	nol	_	23	FYLL	_	_
+23	bygd	bygge	verb	verb	_	21	INFV	_	_
+24	ferdig	ferdig	adj	adj	_	23	SPRED	_	_
+25	da	da	adv	adv	_	23	ADV	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 14
+# segstart = 42.687
+# segstop = 53.593
+# speaker = ran
+# text = på Byåsen ja
+1	på	på	prep	prep	_	0	FRAG	_	_
+2	Byåsen	byåse	subst	subst	_	1	PUTFYLL	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 15
+# segstart = 53.593
+# segstop = 54.166
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 16
+# segstart = 54.166
+# segstop = 57.433
+# speaker = ran
+# text = du sier Rotvoll var det noen spesiell grunn til at dere flytta til Rotvoll ?
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	sier	si	verb	verb	_	0	FINV	_	_
+3	Rotvoll	Rotvoll	subst	subst	_	2	DOBJ	_	_
+4	var	være	verb	verb	_	2	KOORD	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	noen	noen	det	det	_	8	DET	_	_
+7	spesiell	spesiell	adj	adj	_	8	ATR	_	_
+8	grunn	grunn	subst	subst	_	4	PSUBJ	_	_
+9	til	til	prep	prep	_	8	ATR	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	dere	dere	pron	pron	_	12	SUBJ	_	_
+12	flytta	flytte	verb	verb	_	9	PUTFYLL	_	_
+13	til	til	prep	prep	_	12	ADV	_	_
+14	Rotvoll	Rotvoll	subst	subst	_	13	PUTFYLL	_	_
+15	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 18
+# segstart = 57.433
+# segstop = 70.43
+# speaker = trondheim_04gk
+# text = det altså v- far jobba på som lege der da og e så var det en sånn midlertidig e mulighet vi fikk e ## m fikk en leilighet der da # et knapt år
+1	det	det	pron	pron	_	5	REP	_	_
+2	altså	altså	adv	adv	_	5	ADV	_	_
+3	v-	v-	ufullst	ufullst	_	4	FYLL	_	_
+4	far	far	subst	subst	_	5	SUBJ	_	_
+5	jobba	jobbe	verb	verb	_	0	FINV	_	_
+6	på	på	prep	prep	_	7	REP	_	_
+7	som	som	prep	prep	_	5	ADV	_	_
+8	lege	lege	subst	subst	_	7	PUTFYLL	_	_
+9	der	der	prep	prep	_	5	ADV	_	_
+10	da	da	adv	adv	_	5	ADV	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	var	være	verb	verb	_	5	KOORD	_	_
+15	det	det	pron	pron	_	14	FSUBJ	_	_
+16	en	en	det	det	_	20	DET	_	_
+17	sånn	sånn	det	det	_	20	DET	_	_
+18	midlertidig	midlertidig	adj	adj	_	20	ATR	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	mulighet	mulighet	subst	subst	_	14	SPRED	_	_
+21	vi	vi	pron	pron	_	22	SUBJ	_	_
+22	fikk	få	verb	verb	_	20	ATR	_	_
+23	e	e	nol	nol	_	26	FYLL	_	_
+24	##	##	pause	pause	_	26	IK	_	_
+25	m	m	nol	nol	_	26	FYLL	_	_
+26	fikk	få	verb	verb	_	5	KOORD	_	_
+27	en	en	det	det	_	28	DET	_	_
+28	leilighet	leilighet	subst	subst	_	26	DOBJ	_	_
+29	der	der	prep	prep	_	26	ADV	_	_
+30	da	da	adv	adv	_	26	ADV	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	et	et	det	det	_	34	DET	_	_
+33	knapt	knapp	adj	adj	_	34	ATR	_	_
+34	år	år	subst	subst	_	26	ADV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 19
+# segstart = 70.43
+# segstop = 80.554
+# speaker = ran
+# text = ja for jeg husker også fra Rotvoll
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	for	for	konj	konj	_	4	KONJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	husker	huske	verb	verb	_	0	FINV	_	_
+5	også	også	adv	adv	_	4	ADV	_	_
+6	fra	fra	prep	prep	_	4	ADV	_	_
+7	Rotvoll	Rotvoll	subst	subst	_	6	PUTFYLL	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 20
+# segstart = 72.409
+# segstop = 72.971
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 21
+# segstart = 72.971
+# segstop = 80.554
+# speaker = ran
+# text = ja for jeg bodde inn på Lade da jeg var jentungen
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	for	for	konj	konj	_	4	KONJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	bodde	bo	verb	verb	_	0	FINV	_	_
+5	inn	inn	prep	prep	_	4	ADV	_	_
+6	på	på	prep	prep	_	5	PUTFYLL	_	_
+7	Lade	Lade	subst	subst	_	6	PUTFYLL	_	_
+8	da	da	sbu	sbu	_	10	SBU	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	4	ADV	_	_
+11	jentungen	jentunge	subst	subst	_	10	SPRED	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 22
+# segstart = 75.093
+# segstop = 80.554
+# speaker = ran
+# text = * så var litt skummelt med Rotvoll da
+1	*	*	pause	pause	_	2	IK	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	litt	litt	adj	adj	_	5	ADV	_	_
+5	skummelt	skummel	adj	adj	_	3	SPRED	_	_
+6	med	med	prep	prep	_	5	ADV	_	_
+7	Rotvoll	Rotvoll	subst	subst	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 23
+# segstart = 75.093
+# segstop = 78.098
+# speaker = trondheim_04gk
+# text = akkurat # ja
+1	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 24
+# segstart = 78.098
+# segstop = 80.554
+# speaker = ran
+# text = * Østmarka og Reitgjerdet vi hadde dem jo
+1	*	*	pause	pause	_	2	IK	_	_
+2	Østmarka	Østmarka	subst	subst	_	7	APP	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	Reitgjerdet	Reitgjerdet	subst	subst	_	2	KOORD	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	hadde	ha	verb	verb	_	0	FINV	_	_
+7	dem	dem	pron	pron	_	6	DOBJ	_	_
+8	jo	jo	adv	adv	_	6	ADV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 25
+# segstart = 78.098
+# segstop = 80.554
+# speaker = trondheim_04gk
+# text = å ja * ja * ja * ja
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	*	*	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	1	INTERJ	_	_
+7	*	*	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 26
+# segstart = 80.554
+# segstop = 83.797
+# speaker = trondheim_04gk
+# text = ja # det var sjøveien da så mm
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	sjøveien	sjøvei	subst	subst	_	4	SPRED	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	så	så	konj	konj	_	4	ADV	_	_
+8	mm	mm	interj	interj	_	4	KONJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 27
+# segstart = 80.554
+# segstop = 83.797
+# speaker = ran
+# text = mm * den gangen *
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	*	*	pause	pause	_	3	IK	_	_
+3	den	den	det	det	_	4	DET	_	_
+4	gangen	gang	subst	subst	_	1	ADV	_	_
+5	*	*	pause	pause	_	1	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 28
+# segstart = 83.797
+# segstop = 84.56
+# speaker = ran
+# text = ja riktig
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	riktig	riktig	adj	adj	_	1	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 29
+# segstart = 83.797
+# segstop = 84.56
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 30
+# segstart = 84.56
+# segstop = 90.689
+# speaker = ran
+# text = ja ## ok Byåsen sa du hvor på Byåsen du har trådt dine …
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ok	ok	adj	adj	_	5	INTERJ	_	_
+4	Byåsen	byåse	subst	subst	_	5	DOBJ	_	_
+5	sa	si	verb	verb	_	0	FINV	_	_
+6	du	du	pron	pron	_	5	SUBJ	_	_
+7	hvor	hvor	adv	adv	_	12	ADV	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	Byåsen	byåse	subst	subst	_	8	PUTFYLL	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	5	KOORD	_	_
+12	trådt	trådt	verb	verb	_	11	INFV	_	_
+13	dine	dine	det	det	_	12	DOBJ	_	_
+14	…	…	nol	nol	_	5	IP	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 31
+# segstart = 84.56
+# segstop = 90.689
+# speaker = trondheim_04gk
+# text = * så ja * mm * Sverresborg
+1	*	*	pause	pause	_	2	IK	_	_
+2	så	så	konj	konj	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	*	*	pause	pause	_	5	IK	_	_
+5	mm	mm	interj	interj	_	3	INTERJ	_	_
+6	*	*	pause	pause	_	7	IK	_	_
+7	Sverresborg	Sverresborg	subst	subst	_	5	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 32
+# segstart = 90.689
+# segstop = 91.905
+# speaker = ran
+# text = Sverresborg ja
+1	Sverresborg	Sverresborg	subst	subst	_	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 33
+# segstart = 90.689
+# segstop = 91.905
+# speaker = trondheim_04gk
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 34
+# segstart = 91.905
+# segstop = 92.936
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 35
+# segstart = 92.936
+# segstop = 99.799
+# speaker = trondheim_04gk
+# text = der e vi bygde jo fikk jo bygd hus der da så vi e bodde jo i # i nytt hus da
+1	der	der	prep	prep	_	3	REP	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	vi	vi	pron	pron	_	6	SUBJ	_	_
+4	bygde	bygge	verb	verb	_	6	REP	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	fikk	få	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	8	ADV	_	_
+8	bygd	bygge	verb	verb	_	6	INFV	_	_
+9	hus	hus	subst	subst	_	8	DOBJ	_	_
+10	der	der	prep	prep	_	8	ADV	_	_
+11	da	da	adv	adv	_	8	ADV	_	_
+12	så	så	konj	konj	_	15	KONJ	_	_
+13	vi	vi	pron	pron	_	15	SUBJ	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	bodde	bo	verb	verb	_	6	KOORD	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	i	i	prep	prep	_	19	REP	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	i	i	prep	prep	_	15	ADV	_	_
+20	nytt	ny	adj	adj	_	21	ATR	_	_
+21	hus	hus	subst	subst	_	19	PUTFYLL	_	_
+22	da	da	adv	adv	_	15	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 36
+# segstart = 99.799
+# segstop = 100.236
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 37
+# segstart = 100.236
+# segstop = 102.661
+# speaker = trondheim_04gk
+# text = ja # seks søsken ble vi etter hvert
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	seks	seks	det	det	_	4	DET	_	_
+4	søsken	søsken	subst	subst	_	5	SPRED	_	_
+5	ble	bli	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	etter	etter	prep	prep	_	5	ADV	_	_
+8	hvert	hvert	det	det	_	7	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 39
+# segstart = 102.661
+# segstop = 102.923
+# speaker = ran
+# text = oi oi
+1	oi	oi	interj	interj	_	0	INTERJ	_	_
+2	oi	oi	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 40
+# segstart = 102.923
+# segstop = 104.879
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 41
+# segstart = 104.879
+# segstop = 107.407
+# speaker = ran
+# text = etter hvert sa du betyr det at du var først ?
+1	etter	etter	prep	prep	_	6	APP	_	_
+2	hvert	hvert	det	det	_	1	PUTFYLL	_	_
+3	sa	si	verb	verb	_	5	PAR	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	betyr	bety	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	SUBJ	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	du	du	pron	pron	_	9	SUBJ	_	_
+9	var	være	verb	verb	_	5	DOBJ	_	_
+10	først	først	adv	adv	_	9	SPRED	_	_
+11	?	?	clb	clb	_	5	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 42
+# segstart = 104.879
+# segstop = 107.407
+# speaker = trondheim_04gk
+# text = * heh *
+1	*	*	pause	pause	_	2	IK	_	_
+2	heh	heh	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 43
+# segstart = 107.407
+# segstop = 119.14
+# speaker = trondheim_04gk
+# text = ja jeg er e jeg er eldst av oss ## så var det tvillinger da som var født året etter meg og så e før e mens jeg ennå var tre år # så fikk jeg enda ei søster
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	6	REP	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	eldst	gammel	adj	adj	_	6	SPRED	_	_
+8	av	av	prep	prep	_	7	ADV	_	_
+9	oss	oss	pron	pron	_	8	PUTFYLL	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	var	være	verb	verb	_	6	KOORD	_	_
+13	det	det	pron	pron	_	12	FSUBJ	_	_
+14	tvillinger	tvilling	subst	subst	_	12	SPRED	_	_
+15	da	da	adv	adv	_	12	ADV	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	var	være	verb	verb	_	14	ATR	_	_
+18	født	føde	verb	verb	_	17	INFV	_	_
+19	året	år	subst	subst	_	18	ADV	_	_
+20	etter	etter	prep	prep	_	19	ATR	_	_
+21	meg	meg	pron	pron	_	20	PUTFYLL	_	_
+22	og	og	konj	konj	_	35	KONJ	_	_
+23	så	så	adv	adv	_	27	REP	_	_
+24	e	e	nol	nol	_	25	FYLL	_	_
+25	før	før	prep	prep	_	27	REP	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	mens	mens	sbu	sbu	_	30	SBU	_	_
+28	jeg	jeg	pron	pron	_	30	SUBJ	_	_
+29	ennå	ennå	adv	adv	_	30	ADV	_	_
+30	var	være	verb	verb	_	34	APP	_	_
+31	tre	tre	det	det	_	32	DET	_	_
+32	år	år	subst	subst	_	30	SPRED	_	_
+33	#	#	pause	pause	_	34	IK	_	_
+34	så	så	adv	adv	_	35	ADV	_	_
+35	fikk	få	verb	verb	_	6	KOORD	_	_
+36	jeg	jeg	pron	pron	_	35	SUBJ	_	_
+37	enda	enda	adv	adv	_	38	ATR	_	_
+38	ei	ei	det	det	_	39	DET	_	_
+39	søster	søster	subst	subst	_	35	DOBJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 44
+# segstart = 119.14
+# segstop = 129.514
+# speaker = trondheim_04gk
+# text = så vi var faktisk fire søstre da e før jeg ble fire år # og så e fikk vi en bror # og så fikk vi ei søster når jeg ble elleve år
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	faktisk	faktisk	adj	adj	_	3	ADV	_	_
+5	fire	fire	det	det	_	6	DET	_	_
+6	søstre	søster	subst	subst	_	3	SPRED	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	før	før	sbu	sbu	_	11	SBU	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	ble	bli	verb	verb	_	3	ADV	_	_
+12	fire	fire	det	det	_	13	DET	_	_
+13	år	år	subst	subst	_	11	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	og	og	konj	konj	_	18	KONJ	_	_
+16	så	så	adv	adv	_	18	ADV	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	fikk	få	verb	verb	_	3	KOORD	_	_
+19	vi	vi	pron	pron	_	18	SUBJ	_	_
+20	en	en	det	det	_	21	DET	_	_
+21	bror	bror	subst	subst	_	18	DOBJ	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	og	og	konj	konj	_	25	KONJ	_	_
+24	så	så	adv	adv	_	25	ADV	_	_
+25	fikk	få	verb	verb	_	3	KOORD	_	_
+26	vi	vi	pron	pron	_	25	SUBJ	_	_
+27	ei	ei	det	det	_	28	DET	_	_
+28	søster	søste	subst	subst	_	25	DOBJ	_	_
+29	når	når	sbu	sbu	_	31	SBU	_	_
+30	jeg	jeg	pron	pron	_	31	SUBJ	_	_
+31	ble	bli	verb	verb	_	25	ADV	_	_
+32	elleve	elleve	det	det	_	33	DET	_	_
+33	år	år	subst	subst	_	31	SPRED	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 45
+# segstart = 129.514
+# segstop = 129.872
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 46
+# segstart = 129.872
+# segstop = 130.349
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 47
+# segstart = 130.349
+# segstop = 132.519
+# speaker = ran
+# text = du store min var produktive foreldre
+1	du	du	pron	pron	_	4	INTERJ	_	_
+2	store	stor	adj	adj	_	1	FLAT	_	_
+3	min	min	det	det	_	1	FLAT	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	produktive	produktiv	adj	adj	_	6	ATR	_	_
+6	foreldre	forelder	subst	subst	_	4	SPRED	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 48
+# segstart = 130.349
+# segstop = 132.519
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 49
+# segstart = 132.519
+# segstop = 133.044
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 50
+# segstart = 133.044
+# segstop = 133.926
+# speaker = ran
+# text = ja det må en si
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	5	DOBJ	_	_
+3	må	måtte	verb	verb	_	0	FINV	_	_
+4	en	en	pron	pron	_	3	SUBJ	_	_
+5	si	si	verb	verb	_	3	INFV	_	_
+
+# SR: - Gjorde 'for oss' dependent til 'artig'.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 52
+# segstart = 133.926
+# segstop = 135.786
+# speaker = trondheim_04gk
+# text = men det var jo artig for oss da
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	artig	artig	adj	adj	_	3	SPRED	_	_
+6	for	for	prep	prep	_	5	ADV	_	_
+7	oss	oss	pron	pron	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 53
+# segstart = 133.926
+# segstop = 135.786
+# speaker = ran
+# text = * ja klart
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	klart	klar	adj	adj	_	2	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 54
+# segstart = 135.786
+# segstop = 136.478
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 55
+# segstart = 136.478
+# segstop = 140.103
+# speaker = ran
+# text = ja det er jo fint å være mange søsken # ikke minst
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	fint	fin	adj	adj	_	3	SPRED	_	_
+6	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
+7	være	være	verb	verb	_	6	INFV	_	_
+8	mange	mange	adj	adj	_	9	ATR	_	_
+9	søsken	søsken	subst	subst	_	7	SPRED	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ikke	ikke	adv	adv	_	7	ADV	_	_
+12	minst	minst	adj	adj	_	11	FLAT	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 56
+# segstart = 136.478
+# segstop = 140.103
+# speaker = trondheim_04gk
+# text = * da * mm *
+1	*	*	pause	pause	_	2	IK	_	_
+2	da	da	adv	adv	_	0	FRAG	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	mm	mm	interj	interj	_	2	INTERJ	_	_
+5	*	*	pause	pause	_	2	IK	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 57
+# segstart = 140.103
+# segstop = 141.844
+# speaker = trondheim_04gk
+# text = og nå er vi fire av oss som bor i Trondheim
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	nå	nå	adv	adv	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	fire	fire	det	det	_	3	SPRED	_	_
+6	av	av	prep	prep	_	5	ADV	_	_
+7	oss	oss	pron	pron	_	6	PUTFYLL	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	bor	bo	verb	verb	_	7	ATR	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	Trondheim	Trondheim	subst	subst	_	10	PUTFYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 58
+# segstart = 141.844
+# segstop = 143.847
+# speaker = ran
+# text = å ja så heldig du er
+1	å	å	interj	interj	_	6	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	heldig	heldig	adj	adj	_	6	SPRED	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 59
+# segstart = 141.844
+# segstop = 143.847
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 60
+# segstart = 143.847
+# segstop = 144.205
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 61
+# segstart = 144.205
+# segstop = 145.85
+# speaker = ran
+# text = ja det er heldig ja
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	heldig	heldig	adj	adj	_	3	SPRED	_	_
+5	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 62
+# segstart = 145.85
+# segstop = 147.448
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 63
+# segstart = 147.448
+# segstop = 155.341
+# speaker = ran
+# text = Løkken sa det var selvfølgelig i forbindelse med ## faren din sin jobb at dere bodde på Løkken òg da # eller ?
+1	Løkken	løkken	subst	subst	_	2	DOBJ	_	_
+2	sa	si	verb	verb	_	4	SLETT	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	selvfølgelig	selvfølgelig	adj	adj	_	4	ADV	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	forbindelse	forbindelse	subst	subst	_	6	PUTFYLL	_	_
+8	med	med	prep	prep	_	7	ATR	_	_
+9	##	##	pause	pause	_	10	IK	_	_
+10	faren	far	subst	subst	_	12	ADV	_	_
+11	din	din	det	det	_	10	DET	_	_
+12	sin	sin	det	det	_	13	DET	_	_
+13	jobb	jobb	subst	subst	_	8	PUTFYLL	_	_
+14	at	at	sbu	sbu	_	16	SBU	_	_
+15	dere	dere	pron	pron	_	16	SUBJ	_	_
+16	bodde	bo	verb	verb	_	4	PSUBJ	_	_
+17	på	på	prep	prep	_	16	ADV	_	_
+18	Løkken	løkken	subst	subst	_	17	PUTFYLL	_	_
+19	òg	òg	adv	adv	_	16	ADV	_	_
+20	da	da	adv	adv	_	16	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	eller	eller	konj	konj	_	4	KONJ	_	_
+23	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 65
+# segstart = 155.341
+# segstop = 169.578
+# speaker = trondheim_04gk
+# text = ja det både mor og far er vokst opp i Meldalen da # så e det var jo nær slekt # farmor og farfar bodde i Meldalen og mormor og morfar bodde i Meldalen og
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	det	det	pron	pron	_	7	SLETT	_	_
+3	både	både	konj	konj	_	4	KONJ	_	_
+4	mor	mor	subst	subst	_	7	SUBJ	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	far	far	subst	subst	_	4	KOORD	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	vokst	vokse	verb	verb	_	7	INFV	_	_
+9	opp	opp	prep	prep	_	8	ADV	_	_
+10	i	i	prep	prep	_	8	ADV	_	_
+11	Meldalen	meldalen	subst	subst	_	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	8	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	så	så	konj	konj	_	17	KONJ	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	det	det	pron	pron	_	17	FSUBJ	_	_
+17	var	være	verb	verb	_	7	KOORD	_	_
+18	jo	jo	adv	adv	_	17	ADV	_	_
+19	nær	nær	adj	adj	_	20	ATR	_	_
+20	slekt	slekt	subst	subst	_	17	PSUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	farmor	farmor	subst	subst	_	25	SUBJ	_	_
+23	og	og	konj	konj	_	24	KONJ	_	_
+24	farfar	farfar	subst	subst	_	22	KOORD	_	_
+25	bodde	bo	verb	verb	_	7	KOORD	_	_
+26	i	i	prep	prep	_	25	ADV	_	_
+27	Meldalen	meldalen	subst	subst	_	26	PUTFYLL	_	_
+28	og	og	konj	konj	_	32	KONJ	_	_
+29	mormor	mormor	subst	subst	_	32	SUBJ	_	_
+30	og	og	konj	konj	_	31	KONJ	_	_
+31	morfar	morfar	subst	subst	_	29	KOORD	_	_
+32	bodde	bo	verb	verb	_	25	KOORD	_	_
+33	i	i	prep	prep	_	32	ADV	_	_
+34	Meldalen	meldalen	subst	subst	_	33	PUTFYLL	_	_
+35	og	og	konj	konj	_	32	KONJ	_	_
+
+# SR: Endret siste leddsetning til SPRED. Vi kan vel ikke ha potensielle subjekter i setninger som inneholder referensielle?
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 66
+# segstart = 169.578
+# segstop = 176.589
+# speaker = trondheim_04gk
+# text = så e det var vel det som gjorde det da men e så grunnen til at vi flytta til Trondheim det var jo at far fikk jobb der da
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	vel	vel	adv	adv	_	4	ADV	_	_
+6	det	det	pron	pron	_	4	SPRED	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	gjorde	gjøre	verb	verb	_	6	ATR	_	_
+9	det	det	pron	pron	_	8	DOBJ	_	_
+10	da	da	adv	adv	_	8	ADV	_	_
+11	men	men	konj	konj	_	22	KONJ	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	så	så	konj	konj	_	14	KONJ	_	_
+14	grunnen	grunn	subst	subst	_	21	APP	_	_
+15	til	til	prep	prep	_	14	ATR	_	_
+16	at	at	sbu	sbu	_	18	SBU	_	_
+17	vi	vi	pron	pron	_	18	SUBJ	_	_
+18	flytta	flytte	verb	verb	_	15	PUTFYLL	_	_
+19	til	til	prep	prep	_	18	ADV	_	_
+20	Trondheim	Trondheim	subst	subst	_	19	PUTFYLL	_	_
+21	det	det	pron	pron	_	22	SUBJ	_	_
+22	var	være	verb	verb	_	4	KOORD	_	_
+23	jo	jo	adv	adv	_	22	ADV	_	_
+24	at	at	sbu	sbu	_	26	SBU	_	_
+25	far	far	subst	subst	_	26	SUBJ	_	_
+26	fikk	få	verb	verb	_	22	SPRED	_	_
+27	jobb	jobb	subst	subst	_	26	DOBJ	_	_
+28	der	der	prep	prep	_	26	ADV	_	_
+29	da	da	adv	adv	_	22	ADV	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 67
+# segstart = 176.589
+# segstop = 177.152
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = trondheim_04gk-ran
+# id = 68
+# segstart = 177.152
+# segstop = 177.7
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 69
+# segstart = 177.7
+# segstop = 181.325
+# speaker = ran
+# text = men du har aldri prata meldaling da ?
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	aldri	aldri	adv	adv	_	5	ADV	_	_
+5	prata	prate	verb	verb	_	3	INFV	_	_
+6	meldaling	meldaling	subst	subst	_	5	DOBJ	_	_
+7	da	da	adv	adv	_	5	ADV	_	_
+8	?	?	clb	clb	_	3	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 70
+# segstart = 181.325
+# segstop = 194.823
+# speaker = trondheim_04gk
+# text = nei altså egentlig ikke for e foreldra mine snakker mer sånn e bokmål ## så e # som jeg kan huske så har jeg aldri snakka # en e meldaling da
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	altså	altså	adv	adv	_	1	ADV	_	_
+3	egentlig	egentlig	adj	adj	_	1	ADV	_	_
+4	ikke	ikke	adv	adv	_	1	ADV	_	_
+5	for	for	konj	konj	_	9	KONJ	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	foreldra	forelder	subst	subst	_	9	SUBJ	_	_
+8	mine	mine	det	det	_	7	DET	_	_
+9	snakker	snakke	verb	verb	_	1	KOORD	_	_
+10	mer	mye	adj	adj	_	13	ATR	_	_
+11	sånn	sånn	adv	adv	_	13	DET	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	bokmål	bokmål	subst	subst	_	9	DOBJ	_	_
+14	##	##	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	23	KONJ	_	_
+16	e	e	nol	nol	_	18	FYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	som	som	sbu	sbu	_	20	SBU	_	_
+19	jeg	jeg	pron	pron	_	20	SUBJ	_	_
+20	kan	kunne	verb	verb	_	22	APP	_	_
+21	huske	huske	verb	verb	_	20	INFV	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	har	ha	verb	verb	_	9	KOORD	_	_
+24	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+25	aldri	aldri	adv	adv	_	26	ADV	_	_
+26	snakka	snakke	verb	verb	_	23	INFV	_	_
+27	#	#	pause	pause	_	28	IK	_	_
+28	en	en	det	det	_	30	SLETT	_	_
+29	e	e	nol	nol	_	30	FYLL	_	_
+30	meldaling	meldaling	subst	subst	_	26	DOBJ	_	_
+31	da	da	sbu	sbu	_	26	ADV	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 71
+# segstart = 194.823
+# segstop = 199.163
+# speaker = ran
+# text = nei # men så var du jo så ung når du kom til Trondheim så
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	du	du	pron	pron	_	5	SUBJ	_	_
+7	jo	jo	adv	adv	_	5	ADV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	ung	ung	adj	adj	_	5	SPRED	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	kom	komme	verb	verb	_	5	ADV	_	_
+13	til	til	prep	prep	_	12	ADV	_	_
+14	Trondheim	Trondheim	subst	subst	_	13	PUTFYLL	_	_
+15	så	så	konj	konj	_	5	KONJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 72
+# segstart = 194.823
+# segstop = 199.163
+# speaker = trondheim_04gk
+# text = * men jeg * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	men	men	konj	konj	_	3	KONJ	_	_
+3	jeg	jeg	pron	pron	_	0	FRAG	_	_
+4	*	*	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# SR: - Endret funksjoner/struktur i 'nesten litt på bokmål'
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 73
+# segstart = 199.163
+# segstop = 206.389
+# speaker = trondheim_04gk
+# text = og jeg har lydbåndopptak fra em jeg var lita da og da gikk det nesten litt på bokmål
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	lydbåndopptak	lydbåndopptak	subst	subst	_	3	DOBJ	_	_
+5	fra	fra	prep	prep	_	4	ATR	_	_
+6	em	em	nol	nol	_	7	FYLL	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	5	PUTFYLL	_	_
+9	lita	lite	adj	adj	_	8	SPRED	_	_
+10	da	da	adv	adv	_	8	ADV	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	da	da	adv	adv	_	13	ADV	_	_
+13	gikk	gå	verb	verb	_	3	KOORD	_	_
+14	det	det	pron	pron	_	13	SUBJ	_	_
+15	nesten	nesten	adv	adv	_	17	ADV	_	_
+16	litt	litt	adj	adj	_	17	ADV	_	_
+17	på	på	prep	prep	_	13	ADV	_	_
+18	bokmål	bokmål	subst	subst	_	17	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 74
+# segstart = 206.389
+# segstop = 212.232
+# speaker = trondheim_04gk
+# text = nå skal jeg synge en sang jeg heter trondheim_04gk nå skal jeg synge en sang så det var e
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	skal	skal	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	synge	synge	verb	verb	_	2	INFV	_	_
+5	en	en	det	det	_	6	DET	_	_
+6	sang	sang	subst	subst	_	4	DOBJ	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	heter	hete	verb	verb	_	2	KOORD	_	_
+9	trondheim_04gk	trondheim_04gk	pron	pron	_	8	SPRED	_	_
+10	nå	nå	adv	adv	_	11	ADV	_	_
+11	skal	skal	verb	verb	_	2	KOORD	_	_
+12	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+13	synge	synge	verb	verb	_	11	INFV	_	_
+14	en	en	det	det	_	15	DET	_	_
+15	sang	sang	subst	subst	_	13	DOBJ	_	_
+16	så	så	konj	konj	_	18	KONJ	_	_
+17	det	det	pron	pron	_	18	FSUBJ	_	_
+18	var	være	verb	verb	_	2	KOORD	_	_
+19	e	e	nol	nol	_	18	FYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 75
+# segstart = 212.232
+# segstop = 214.044
+# speaker = ran
+# text = du snakket pent trondheimsk
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	snakket	snakke	verb	verb	_	0	FINV	_	_
+3	pent	pen	adj	adj	_	4	ATR	_	_
+4	trondheimsk	trondheimsk	subst	subst	_	2	DOBJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 77
+# segstart = 214.044
+# segstop = 216.119
+# speaker = trondheim_04gk
+# text = jeg gjorde vel me- mer eller mindre det ja
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	me-	me-	ufullst	ufullst	_	5	REP	_	_
+5	mer	mye	adj	adj	_	2	ADV	_	_
+6	eller	eller	konj	konj	_	7	KONJ	_	_
+7	mindre	små	adj	adj	_	5	KOORD	_	_
+8	det	det	pron	pron	_	2	DOBJ	_	_
+9	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 78
+# segstart = 214.044
+# segstop = 216.119
+# speaker = ran
+# text = * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 79
+# segstart = 216.119
+# segstop = 216.667
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 80
+# segstart = 216.667
+# segstop = 221.365
+# speaker = ran
+# text = jo jo men Byåsen er jo heller ikke et område hvor du har den breieste trondheimsdialekten
+1	jo	jo	interj	interj	_	5	INTERJ	_	_
+2	jo	jo	interj	interj	_	1	INTERJ	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	Byåsen	byåsen	subst	subst	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	heller	heller	adv	adv	_	5	ADV	_	_
+8	ikke	ikke	adv	adv	_	5	ADV	_	_
+9	et	et	det	det	_	10	DET	_	_
+10	område	område	subst	subst	_	5	SPRED	_	_
+11	hvor	hvor	adv	adv	_	13	SBU	_	_
+12	du	du	pron	pron	_	13	SUBJ	_	_
+13	har	ha	verb	verb	_	10	ATR	_	_
+14	den	den	det	det	_	16	DET	_	_
+15	breieste	brei	adj	adj	_	16	ATR	_	_
+16	trondheimsdialekten	trondheimsdialekt	subst	subst	_	13	DOBJ	_	_
+
+# SR: - Gjorde 'helt' til ADV
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 81
+# segstart = 221.365
+# segstop = 241.373
+# speaker = trondheim_04gk
+# text = nei men altså med en gang vi jeg begynte på skolen så e jeg har jo snakka trønder helt siden jeg e # begynte på skolen ifall
+1	nei	nei	interj	interj	_	9	INTERJ	_	_
+2	men	men	konj	konj	_	9	KONJ	_	_
+3	altså	altså	adv	adv	_	9	ADV	_	_
+4	med	med	prep	prep	_	9	ADV	_	_
+5	en	en	det	det	_	6	DET	_	_
+6	gang	gang	subst	subst	_	4	PUTFYLL	_	_
+7	vi	vi	pron	pron	_	8	REP	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	begynte	begynne	verb	verb	_	15	SLETT	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	skolen	skole	subst	subst	_	10	PUTFYLL	_	_
+12	så	så	adv	adv	_	9	ADV	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	har	ha	verb	verb	_	0	FINV	_	_
+16	jo	jo	adv	adv	_	17	ADV	_	_
+17	snakka	snakke	verb	verb	_	15	INFV	_	_
+18	trønder	trønder	subst	subst	_	17	DOBJ	_	_
+19	helt	hele	adj	adj	_	20	ADV	_	_
+20	siden	siden	adv	adv	_	24	SBU	_	_
+21	jeg	jeg	pron	pron	_	24	SUBJ	_	_
+22	e	e	nol	nol	_	24	FYLL	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	begynte	begynne	verb	verb	_	17	ADV	_	_
+25	på	på	prep	prep	_	24	ADV	_	_
+26	skolen	skole	subst	subst	_	25	PUTFYLL	_	_
+27	i_hvert_fall	i_hvert_fall	adv	adv	_	24	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 82
+# segstart = 230.212
+# segstop = 241.373
+# speaker = trondheim_04gk
+# text = så e jeg har ikke vært noe sånn bokmål # e jeg har ikke snakka bokmål etterog_slett nei da
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	13	REP	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	vært	være	verb	verb	_	4	INFV	_	_
+7	noe	noe	det	det	_	9	DET	_	_
+8	sånn	sånn	det	det	_	9	DET	_	_
+9	bokmål	bokmål	subst	subst	_	6	SPRED	_	_
+10	#	#	pause	pause	_	12	IK	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	har	ha	verb	verb	_	0	FINV	_	_
+14	ikke	ikke	adv	adv	_	15	ADV	_	_
+15	snakka	snakke	verb	verb	_	13	INFV	_	_
+16	bokmål	bokmål	subst	subst	_	15	DOBJ	_	_
+17	etter_at	etter_at	sbu	sbu	_	21	SBU	_	_
+18	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+19	#	#	pause	pause	_	21	IK	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	begynte	begynne	verb	verb	_	15	ADV	_	_
+22	på	på	prep	prep	_	21	ADV	_	_
+23	skolen	skole	subst	subst	_	22	PUTFYLL	_	_
+24	rett_og_slett	rett_og_slett	adv	adv	_	13	FYLL	_	_
+25	nei	nei	interj	interj	_	13	INTERJ	_	_
+26	da	da	adv	adv	_	13	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 83
+# segstart = 230.212
+# segstop = 241.373
+# speaker = ran
+# text = * nei * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	mm	mm	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 84
+# segstart = 241.373
+# segstop = 242.685
+# speaker = trondheim_04gk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 85
+# segstart = 241.373
+# segstop = 242.685
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 86
+# segstart = 242.685
+# segstop = 247.407
+# speaker = ran
+# text = e hvilken skole gikk du på # barneskolen
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	hvilken	hvilken	det	det	_	3	DET	_	_
+3	skole	skole	subst	subst	_	5	PUTFYLL	_	_
+4	gikk	gå	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	på	på	prep	prep	_	4	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	barneskolen	barneskole	subst	subst	_	4	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 87
+# segstart = 242.685
+# segstop = 247.407
+# speaker = trondheim_04gk
+# text = * gikk på e
+1	*	*	pause	pause	_	2	IK	_	_
+2	gikk	gå	verb	verb	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	e	e	nol	nol	_	2	FYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 88
+# segstart = 247.407
+# segstop = 252.463
+# speaker = trondheim_04gk
+# text = gikk på Åsveien # og så e bygde de Nyborg skole
+1	gikk	gå	verb	verb	_	0	FINV	_	_
+2	på	på	prep	prep	_	1	ADV	_	_
+3	Åsveien	åsveien	subst	subst	_	2	PUTFYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	og	og	konj	konj	_	8	KONJ	_	_
+6	så	så	adv	adv	_	8	ADV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	bygde	bygge	verb	verb	_	1	KOORD	_	_
+9	de	de	pron	pron	_	8	SUBJ	_	_
+10	Nyborg	Nyborg	subst	subst	_	8	DOBJ	_	_
+11	skole	skole	subst	subst	_	10	FLAT	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 89
+# segstart = 252.463
+# segstop = 253.119
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Endret 'heller ikke' og koordinerte alle konstituentene.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 90
+# segstart = 253.119
+# segstop = 262.825
+# speaker = trondheim_04gk
+# text = ja og den ble jo heller ikke ferdig som planlagt og Åsveien skole var sprengt # så jeg gikk et år på gamle Åsveien skole da gikk jeg i femte klasse
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	den	den	pron	pron	_	4	SUBJ	_	_
+4	ble	bli	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	heller	heller	adv	adv	_	4	ADV	_	_
+7	ikke	ikke	adv	adv	_	4	ADV	_	_
+8	ferdig	ferdig	adj	adj	_	4	SPRED	_	_
+9	som	som	prep	prep	_	8	ADV	_	_
+10	planlagt	planlagt	adj	adj	_	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	Åsveien	åsveien	subst	subst	_	14	SUBJ	_	_
+13	skole	skole	subst	subst	_	12	FLAT	_	_
+14	var	være	verb	verb	_	4	KOORD	_	_
+15	sprengt	sprengt	adj	adj	_	14	SPRED	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	så	så	konj	konj	_	19	KONJ	_	_
+18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+19	gikk	gå	verb	verb	_	4	KOORD	_	_
+20	et	et	det	det	_	21	DET	_	_
+21	år	år	subst	subst	_	19	DOBJ	_	_
+22	på	på	prep	prep	_	19	ADV	_	_
+23	gamle	gammel	adj	adj	_	24	ATR	_	_
+24	Åsveien	åsveien	subst	subst	_	22	PUTFYLL	_	_
+25	skole	skole	subst	subst	_	24	FLAT	_	_
+26	da	da	adv	adv	_	27	ADV	_	_
+27	gikk	gå	verb	verb	_	4	KOORD	_	_
+28	jeg	jeg	pron	pron	_	27	SUBJ	_	_
+29	i	i	prep	prep	_	27	ADV	_	_
+30	femte	femte	det	det	_	31	DET	_	_
+31	klasse	klasse	subst	subst	_	29	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 91
+# segstart = 262.825
+# segstop = 263.517
+# speaker = ran
+# text = aha
+1	aha	aha	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 92
+# segstart = 263.517
+# segstop = 267.189
+# speaker = trondheim_04gk
+# text = ja så når jeg begynte i sjette da var Nyborg skole ferdig
+1	ja	ja	interj	interj	_	9	INTERJ	_	_
+2	så	så	konj	konj	_	9	KONJ	_	_
+3	når	når	sbu	sbu	_	5	SBU	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	begynte	begynne	verb	verb	_	8	APP	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	sjette	sjette	det	det	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	9	ADV	_	_
+9	var	være	verb	verb	_	0	FINV	_	_
+10	Nyborg	Nyborg	subst	subst	_	9	SUBJ	_	_
+11	skole	skole	subst	subst	_	10	FLAT	_	_
+12	ferdig	ferdig	adj	adj	_	9	SPRED	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 93
+# segstart = 267.189
+# segstop = 269.932
+# speaker = ran
+# text = ja # og da var nesten du ferdig òg skulle jeg til å si
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	nesten	nesten	adv	adv	_	5	ADV	_	_
+7	du	du	pron	pron	_	5	SUBJ	_	_
+8	ferdig	ferdig	adj	adj	_	5	SPRED	_	_
+9	òg	òg	adv	adv	_	5	ADV	_	_
+10	skulle	skulle	verb	verb	_	5	PAR	_	_
+11	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+12	til	til	prep	prep	_	10	ADV	_	_
+13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
+14	si	si	verb	verb	_	13	INFV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 95
+# segstart = 269.932
+# segstop = 277.802
+# speaker = trondheim_04gk
+# text = og da fikk jeg siste året på barneskolen der # og så e ungdomsskolen det var Sverresborg
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	fikk	få	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	siste	sist	adj	adj	_	6	ATR	_	_
+6	året	år	subst	subst	_	3	DOBJ	_	_
+7	på	på	prep	prep	_	6	ATR	_	_
+8	barneskolen	barneskole	subst	subst	_	7	PUTFYLL	_	_
+9	der	der	adv	adv	_	3	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	16	KONJ	_	_
+12	så	så	adv	adv	_	16	KONJ	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	ungdomsskolen	ungdomsskole	subst	subst	_	15	APP	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	3	KOORD	_	_
+17	Sverresborg	Sverresborg	subst	subst	_	16	SPRED	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 96
+# segstart = 277.802
+# segstop = 281.641
+# speaker = ran
+# text = ja så du har holdt deg oppå Byåsen bor fremdeles på Byåsen kanskje eller ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	så	så	konj	konj	_	4	KONJ	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	holdt	holde	verb	verb	_	4	INFV	_	_
+6	deg	deg	pron	pron	_	5	DOBJ	_	_
+7	oppå	oppå	prep	prep	_	5	ADV	_	_
+8	Byåsen	byåsen	subst	subst	_	7	PUTFYLL	_	_
+9	bor	bo	verb	verb	_	4	KOORD	_	_
+10	fremdeles	fremdeles	adv	adv	_	9	ADV	_	_
+11	på	på	prep	prep	_	9	ADV	_	_
+12	Byåsen	byåsen	subst	subst	_	11	PUTFYLL	_	_
+13	kanskje	kanskje	adv	adv	_	9	ADV	_	_
+14	eller	eller	konj	konj	_	4	KONJ	_	_
+15	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 98
+# segstart = 281.641
+# segstop = 282.69
+# speaker = trondheim_04gk
+# text = nå bor jeg på Strindheim
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	bor	bo	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	Strindheim	Strindheim	subst	subst	_	4	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 99
+# segstart = 282.69
+# segstop = 283.835
+# speaker = ran
+# text = på Strindheim ja
+1	på	på	prep	prep	_	3	ADV	_	_
+2	Strindheim	Strindheim	subst	subst	_	1	PUTFYLL	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 100
+# segstart = 282.69
+# segstop = 283.835
+# speaker = trondheim_04gk
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 101
+# segstart = 283.835
+# segstop = 286.625
+# speaker = ran
+# text = ja # så da jeg flytta over byen
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	6	KONJ	_	_
+4	da	da	adv	adv	_	6	ADV	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	flytta	flytte	verb	verb	_	0	FINV	_	_
+7	over	over	prep	prep	_	6	ADV	_	_
+8	byen	by	subst	subst	_	7	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 102
+# segstart = 286.625
+# segstop = 287.102
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 104
+# segstart = 287.102
+# segstop = 288.604
+# speaker = ran
+# text = over sentrum og på andre siden
+1	over	over	prep	prep	_	0	FRAG	_	_
+2	sentrum	sentrum	subst	subst	_	1	PUTFYLL	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	på	på	prep	prep	_	1	KOORD	_	_
+5	andre	andre	det	det	_	6	DET	_	_
+6	siden	side	subst	subst	_	4	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 105
+# segstart = 287.102
+# segstop = 288.604
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 106
+# segstart = 288.604
+# segstop = 290.536
+# speaker = trondheim_04gk
+# text = ja # mm
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 107
+# segstart = 288.604
+# segstop = 290.536
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 108
+# segstart = 290.536
+# segstop = 302.531
+# speaker = ran
+# text = kan du huske noen spesielle # episoder fra du var lita ? hva er det første du husker fra du var # barn ?
+1	kan	kunne	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	huske	huske	verb	verb	_	1	INFV	_	_
+4	noen	noen	det	det	_	7	DET	_	_
+5	spesielle	spesiell	adj	adj	_	7	ATR	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	episoder	episode	subst	subst	_	3	DOBJ	_	_
+8	fra	fra	sbu	sbu	_	10	ADV	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	7	ATR	_	_
+11	lita	liten	adj	adj	_	10	SPRED	_	_
+12	?	?	clb	clb	_	3	IK	_	_
+13	hva	hva	pron	pron	_	14	SPRED	_	_
+14	er	være	verb	verb	_	1	KOORD	_	_
+15	det	det	det	det	_	16	DET	_	_
+16	første	første	adj	adj	_	14	SUBJ	_	_
+17	du	du	pron	pron	_	18	SUBJ	_	_
+18	husker	huske	verb	verb	_	16	ATR	_	_
+19	fra	fra	prep	prep	_	18	ADV	_	_
+20	du	du	pron	pron	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	19	PUTFYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	barn	barn	subst	subst	_	21	SPRED	_	_
+24	?	?	clb	clb	_	1	IP	_	_
+
+# file = trondheim_04gk-ran
+# id = 109
+# segstart = 300.647
+# segstop = 302.531
+# speaker = ran
+# text = vanskelig å si kanskje
+1	vanskelig	vanskelig	adj	adj	_	0	FRAG	_	_
+2	å	å	inf-merke	inf-merke	_	1	ADV	_	_
+3	si	si	verb	verb	_	2	INFV	_	_
+4	kanskje	kanskje	adv	adv	_	1	ADV	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 111
+# segstart = 302.531
+# segstop = 330.205
+# speaker = trondheim_04gk
+# text = jeg husker at vi hadde to katter # det var jo på Løkken da og så husker jeg spesielt en maler som e malte huset vårt
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	husker	huske	verb	verb	_	0	FINV	_	_
+3	at	at	sbu	sbu	_	5	SBU	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	hadde	ha	verb	verb	_	2	DOBJ	_	_
+6	to	to	det	det	_	7	DET	_	_
+7	katter	katt	subst	subst	_	5	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	var	være	verb	verb	_	2	KOORD	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	på	på	prep	prep	_	10	SPRED	_	_
+13	Løkken	løkke	subst	subst	_	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	10	ADV	_	_
+15	og	og	konj	konj	_	17	KONJ	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	husker	huske	verb	verb	_	2	KOORD	_	_
+18	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+19	spesielt	spesiell	adj	adj	_	17	ADV	_	_
+20	en	en	det	det	_	21	DET	_	_
+21	maler	maler	subst	subst	_	17	DOBJ	_	_
+22	som	som	sbu	sbu	_	24	SBU	_	_
+23	e	e	nol	nol	_	24	FYLL	_	_
+24	malte	male	verb	verb	_	21	ATR	_	_
+25	huset	hus	subst	subst	_	24	DOBJ	_	_
+26	vårt	vårt	det	det	_	25	DET	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 112
+# segstart = 312.499
+# segstop = 330.205
+# speaker = trondheim_04gk
+# text = og han e spurte hva jeg het # og e trondheim_04gk og da sang han N1
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	han	han	pron	pron	_	4	SUBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	spurte	spørre	verb	verb	_	0	FINV	_	_
+5	hva	hva	pron	pron	_	7	SPRED	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	het	hete	verb	verb	_	4	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	trondheim_04gk	trondheim_04gk	subst	subst	_	4	KOORD	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	da	da	adv	adv	_	14	ADV	_	_
+14	sang	synge	verb	verb	_	4	KOORD	_	_
+15	han	han	pron	pron	_	14	SUBJ	_	_
+16	N1	N1	subst	subst	_	14	DOBJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 113
+# segstart = 319.831
+# segstop = 330.205
+# speaker = trondheim_04gk
+# text = og det det var en veldig spesiell e # e hendelse som jeg husker veldig godt da # den maleren jeg fikk et spesielt forhold til han
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	det	det	pron	pron	_	3	REP	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	en	en	det	det	_	11	DET	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	spesiell	spesiell	adj	adj	_	11	ATR	_	_
+8	e	e	nol	nol	_	11	FYLL	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	hendelse	hendelse	subst	subst	_	4	PSUBJ	_	_
+12	som	som	sbu	sbu	_	14	SBU	_	_
+13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+14	husker	huske	verb	verb	_	11	ATR	_	_
+15	veldig	veldig	adj	adj	_	16	ADV	_	_
+16	godt	god	adj	adj	_	14	ADV	_	_
+17	da	da	adv	adv	_	14	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	den	den	det	det	_	20	DET	_	_
+20	maleren	maler	subst	subst	_	27	APP	_	_
+21	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+22	fikk	få	verb	verb	_	4	KOORD	_	_
+23	et	et	det	det	_	25	DET	_	_
+24	spesielt	spesiell	adj	adj	_	25	ATR	_	_
+25	forhold	forhold	subst	subst	_	22	DOBJ	_	_
+26	til	til	prep	prep	_	25	ATR	_	_
+27	han	han	pron	pron	_	26	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 114
+# segstart = 319.831
+# segstop = 330.205
+# speaker = ran
+# text = * mm * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 115
+# segstart = 330.205
+# segstop = 331.421
+# speaker = trondheim_04gk
+# text = ja # mm
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 117
+# segstart = 331.421
+# segstop = 343.722
+# speaker = ran
+# text = ja N1 ja # men du e det var noe jeg hadde tenkt å spørre deg om jo # nettopp sang ja
+1	ja	ja	interj	interj	_	9	INTERJ	_	_
+2	N1	N1	subst	subst	_	1	ADV	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	men	men	konj	konj	_	9	KONJ	_	_
+6	du	du	pron	pron	_	9	INTERJ	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	var	være	verb	verb	_	0	FINV	_	_
+10	noe	noe	pron	pron	_	9	PSUBJ	_	_
+11	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+12	hadde	ha	verb	verb	_	10	ATR	_	_
+13	tenkt	tenke	verb	verb	_	12	INFV	_	_
+14	å	å	inf-merke	inf-merke	_	13	DOBJ	_	_
+15	spørre	spørre	verb	verb	_	14	INFV	_	_
+16	deg	deg	pron	pron	_	15	DOBJ	_	_
+17	om	om	prep	prep	_	15	ADV	_	_
+18	jo	jo	interj	interj	_	9	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	nettopp	nettopp	adv	adv	_	9	ADV	_	_
+21	sang	sang	subst	subst	_	9	SPRED	_	_
+22	ja	ja	interj	interj	_	21	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 118
+# segstart = 339.362
+# segstop = 343.722
+# speaker = ran
+# text = jeg vet ikke jeg men det er noe med stemmen din
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	vet	vite	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	jeg	jeg	pron	pron	_	1	APP	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	2	KOORD	_	_
+8	noe	noe	pron	pron	_	7	PSUBJ	_	_
+9	med	med	prep	prep	_	8	ATR	_	_
+10	stemmen	stemme	subst	subst	_	9	PUTFYLL	_	_
+11	din	din	det	det	_	10	DET	_	_
+
+# file = trondheim_04gk-ran
+# id = 119
+# segstart = 341.508
+# segstop = 342.196
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 120
+# segstart = 342.196
+# segstop = 343.722
+# speaker = ran
+# text = synger du du ?
+1	synger	synge	verb	verb	_	0	FINV	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	du	du	pron	pron	_	2	APP	_	_
+4	?	?	clb	clb	_	1	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 121
+# segstart = 343.722
+# segstop = 345.892
+# speaker = trondheim_04gk
+# text = jeg er med i kor ja men det er jo et e
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	med	med	prep	prep	_	2	ADV	_	_
+4	i	i	prep	prep	_	3	PUTFYLL	_	_
+5	kor	kor	subst	subst	_	4	PUTFYLL	_	_
+6	ja	ja	interj	interj	_	2	INTERJ	_	_
+7	men	men	konj	konj	_	9	KONJ	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	2	KOORD	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	et	et	det	det	_	9	SLETT	_	_
+12	e	e	nol	nol	_	9	FYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 123
+# segstart = 345.892
+# segstop = 346.584
+# speaker = ran
+# text = ja vet du hva jeg kan høre det på stemmen din
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	vet	vite	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	hva	hva	pron	pron	_	2	DOBJ	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	kan	kan	verb	verb	_	2	KOORD	_	_
+7	høre	høre	verb	verb	_	6	INFV	_	_
+8	det	det	pron	pron	_	7	DOBJ	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	stemmen	stemme	subst	subst	_	9	PUTFYLL	_	_
+11	din	din	det	det	_	10	DET	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 125
+# segstart = 346.584
+# segstop = 348.539
+# speaker = trondheim_04gk
+# text = ja akkurat ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# SR: - Endret til PSUBJ.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 126
+# segstart = 348.539
+# segstop = 351.163
+# speaker = ran
+# text = er veldig sånn sonoritet i stemmen en sånn k- fin klang
+1	er	være	verb	verb	_	0	FINV	_	_
+2	veldig	veldig	adj	adj	_	4	ATR	_	_
+3	sånn	sånn	det	det	_	4	DET	_	_
+4	sonoritet	sonoritet	subst	subst	_	1	PSUBJ	_	_
+5	i	i	prep	prep	_	4	ATR	_	_
+6	stemmen	stemme	subst	subst	_	5	PUTFYLL	_	_
+7	en	en	det	det	_	11	DET	_	_
+8	sånn	sånn	det	det	_	11	DET	_	_
+9	k-	k-	ufullst	ufullst	_	10	FYLL	_	_
+10	fin	fin	adj	adj	_	11	ATR	_	_
+11	klang	klang	subst	subst	_	4	KOORD	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 127
+# segstart = 348.539
+# segstop = 351.163
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 128
+# segstart = 351.163
+# segstop = 353.977
+# speaker = trondheim_04gk
+# text = jaha # ja jeg er med i e
+1	jaha	jaha	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	5	INTERJ	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	med	med	prep	prep	_	5	SPRED	_	_
+7	i	i	prep	prep	_	6	PUTFYLL	_	_
+8	e	e	nol	nol	_	7	FYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 129
+# segstart = 351.163
+# segstop = 353.977
+# speaker = ran
+# text = * mm ja #
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	ja	ja	interj	interj	_	2	INTERJ	_	_
+4	#	#	pause	pause	_	3	IK	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 130
+# segstart = 353.977
+# segstop = 354.716
+# speaker = ran
+# text = fortell litt om koret ditt
+1	fortell	fortelle	verb	verb	_	0	FINV	_	_
+2	litt	litt	adj	adj	_	1	ADV	_	_
+3	om	om	prep	prep	_	1	ADV	_	_
+4	koret	kor	subst	subst	_	3	PUTFYLL	_	_
+5	ditt	ditt	det	det	_	4	DET	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 132
+# segstart = 354.716
+# segstop = 362.777
+# speaker = trondheim_04gk
+# text = ja # det er et amatørkor da men det er # e bedriftskor # som jeg er med i da
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	et	et	det	det	_	6	DET	_	_
+6	amatørkor	amatørkor	subst	subst	_	4	SPRED	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+8	men	men	konj	konj	_	10	KONJ	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	er	være	verb	verb	_	4	KOORD	_	_
+11	#	#	pause	pause	_	13	IK	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	bedriftskor	bedriftskor	subst	subst	_	10	SPRED	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	som	som	sbu	sbu	_	17	SBU	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	er	være	verb	verb	_	13	ATR	_	_
+18	med	med	prep	prep	_	17	SPRED	_	_
+19	i	i	prep	prep	_	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	17	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 133
+# segstart = 362.777
+# segstop = 365.567
+# speaker = ran
+# text = bedriftskor har NTNU jobber ikke du på NTNU
+1	bedriftskor	bedriftskor	subst	subst	_	2	DOBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	NTNU	NTNU	subst	subst	_	2	SUBJ	_	_
+4	jobber	jobbe	verb	verb	_	2	KOORD	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	du	du	pron	pron	_	4	SUBJ	_	_
+7	på	på	prep	prep	_	4	ADV	_	_
+8	NTNU	NTNU	subst	subst	_	7	PUTFYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 134
+# segstart = 362.777
+# segstop = 365.567
+# speaker = trondheim_04gk
+# text = * det er
+1	*	*	pause	pause	_	2	IK	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+
+# SR: - Hang 'i SiT' på 'kor' og satte til ATR.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 135
+# segstart = 365.567
+# segstop = 371.505
+# speaker = trondheim_04gk
+# text = ja det men det er i SiT Studentsamskipnaden i Trondheim # ja # så vi har e kor i SiT
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	det	det	pron	pron	_	5	REP	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	i	i	prep	prep	_	5	SPRED	_	_
+7	SiT	SiT	subst	subst	_	6	PUTFYLL	_	_
+8	Studentsamskipnaden	studentsamskipnad	subst	subst	_	7	APP	_	_
+9	i	i	prep	prep	_	8	FLAT	_	_
+10	Trondheim	Trondheim	subst	subst	_	8	FLAT	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	ja	ja	interj	interj	_	16	INTERJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	så	så	adv	adv	_	16	KONJ	_	_
+15	vi	vi	pron	pron	_	16	SUBJ	_	_
+16	har	ha	verb	verb	_	5	KOORD	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	kor	kor	subst	subst	_	16	DOBJ	_	_
+19	i	i	prep	prep	_	18	ATR	_	_
+20	SiT	SiT	subst	subst	_	19	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 136
+# segstart = 371.505
+# segstop = 372.96
+# speaker = ran
+# text = aha
+1	aha	aha	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 137
+# segstart = 371.505
+# segstop = 372.96
+# speaker = trondheim_04gk
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 138
+# segstart = 372.96
+# segstop = 375.202
+# speaker = ran
+# text = ja jobber du i s- studentsamskipnaden
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	jobber	jobbe	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	i	i	prep	prep	_	2	ADV	_	_
+5	s-	s-	ufullst	ufullst	_	6	REP	_	_
+6	studentsamskipnaden	studentsamskipnad	subst	subst	_	4	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 139
+# segstart = 372.96
+# segstop = 375.202
+# speaker = trondheim_04gk
+# text = * så * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 140
+# segstart = 375.202
+# segstop = 376.156
+# speaker = ran
+# text = ok
+1	ok	ok	adj	adj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 141
+# segstart = 375.202
+# segstop = 376.156
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 142
+# segstart = 376.156
+# segstop = 376.848
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Gjorde 'der' dependent til det leksikalske verbet.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 143
+# segstart = 376.848
+# segstop = 378.66
+# speaker = ran
+# text = ja der har jeg sittet i styret en gang
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	der	der	prep	prep	_	5	ADV	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	sittet	sitte	verb	verb	_	3	INFV	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	styret	styre	subst	subst	_	6	PUTFYLL	_	_
+8	en	en	det	det	_	9	DET	_	_
+9	gang	gang	subst	subst	_	3	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 144
+# segstart = 378.66
+# segstop = 379.71
+# speaker = trondheim_04gk
+# text = å ja du har det ja
+1	å	å	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	DOBJ	_	_
+6	ja	ja	interj	interj	_	4	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 145
+# segstart = 379.71
+# segstop = 396.424
+# speaker = ran
+# text = mm # lenge siden som studentrepresentant
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	lenge	leng	adj	adj	_	5	ADV	_	_
+4	siden	siden	adv	adv	_	3	ADV	_	_
+5	som	som	prep	prep	_	1	ADV	_	_
+6	studentrepresentant	studentrepresentant	subst	subst	_	5	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 146
+# segstart = 379.71
+# segstop = 381.928
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 147
+# segstart = 381.928
+# segstop = 383.24
+# speaker = trondheim_04gk
+# text = akkurat
+1	akkurat	akkurat	adv	adv	_	0	FRAG	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 148
+# segstart = 383.24
+# segstop = 396.424
+# speaker = ran
+# text = vi som holdt kaffeprisene ned vet du
+1	vi	vi	pron	pron	_	0	FRAG	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	holdt	holde	verb	verb	_	1	ATR	_	_
+4	kaffeprisene	kaffepris	subst	subst	_	3	DOBJ	_	_
+5	ned	ned	prep	prep	_	3	ADV	_	_
+6	vet	vite	verb	verb	_	1	PAR	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 150
+# segstart = 385.267
+# segstop = 385.839
+# speaker = trondheim_04gk
+# text = ja vel
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 151
+# segstart = 385.839
+# segstop = 396.424
+# speaker = ran
+# text = og den gangen hadde # hadde studentrepresentantene flertall i styret
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	den	den	det	det	_	3	DET	_	_
+3	gangen	gang	subst	subst	_	6	ADV	_	_
+4	hadde	ha	verb	verb	_	6	REP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	hadde	ha	verb	verb	_	0	FINV	_	_
+7	studentrepresentantene	studentrepresentant	subst	subst	_	6	SUBJ	_	_
+8	flertall	flertall	subst	subst	_	6	DOBJ	_	_
+9	i	i	prep	prep	_	8	ATR	_	_
+10	styret	styre	subst	subst	_	9	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 152
+# segstart = 391.014
+# segstop = 391.607
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 153
+# segstart = 391.607
+# segstop = 396.424
+# speaker = ran
+# text = fordi lederen alltid var fra studentene og hadde dobbelstemme ved stemmelikhet
+1	fordi	fordi	sbu	sbu	_	4	SBU	_	_
+2	lederen	leder	subst	subst	_	4	SUBJ	_	_
+3	alltid	alltid	adv	adv	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	fra	fra	prep	prep	_	4	SPRED	_	_
+6	studentene	student	subst	subst	_	5	PUTFYLL	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	hadde	ha	verb	verb	_	4	KOORD	_	_
+9	dobbelstemme	dobbelstemme	subst	subst	_	8	DOBJ	_	_
+10	ved	ved	prep	prep	_	8	ADV	_	_
+11	stemmelikhet	stemmelikhet	subst	subst	_	10	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 154
+# segstart = 391.607
+# segstop = 396.424
+# speaker = trondheim_04gk
+# text = * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 155
+# segstart = 396.424
+# segstop = 398.618
+# speaker = trondheim_04gk
+# text = men det e er det fortsatt da
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	det	det	pron	pron	_	4	SUBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	SPRED	_	_
+6	fortsatt	fortsatt	adv	adv	_	4	ADV	_	_
+7	da	da	adv	adv	_	4	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 156
+# segstart = 398.618
+# segstop = 399.024
+# speaker = ran
+# text = ja_vel
+1	ja_vel	ja_vel	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 157
+# segstart = 399.024
+# segstop = 399.585
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 158
+# segstart = 399.585
+# segstop = 400.258
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 159
+# segstart = 400.258
+# segstop = 403.114
+# speaker = trondheim_04gk
+# text = så e når satt du i styret der ?
+1	så	så	adv	adv	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	når	når	adv	adv	_	4	ADV	_	_
+4	satt	sitte	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	styret	styre	subst	subst	_	6	PUTFYLL	_	_
+8	der	der	adv	adv	_	4	ADV	_	_
+9	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 161
+# segstart = 403.114
+# segstop = 405.737
+# speaker = ran
+# text = når F1 var leder
+1	når	når	sbu	sbu	_	3	SBU	_	_
+2	F1	F1	subst	subst	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	leder	leder	subst	subst	_	3	SPRED	_	_
+
+# file = trondheim_04gk-ran
+# id = 162
+# segstart = 403.114
+# segstop = 403.806
+# speaker = trondheim_04gk
+# text = * å
+1	*	*	pause	pause	_	2	IK	_	_
+2	å	å	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 163
+# segstart = 403.806
+# segstop = 404.831
+# speaker = trondheim_04gk
+# text = akkurat ja
+1	akkurat	akkurat	adv	adv	_	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 165
+# segstart = 404.831
+# segstop = 405.737
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 166
+# segstart = 405.737
+# segstop = 408.17
+# speaker = trondheim_04gk
+# text = men jeg begynte jo i SiT i enogåtti
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	begynte	begynne	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	i	i	prep	prep	_	3	ADV	_	_
+6	SiT	SiT	subst	subst	_	5	PUTFYLL	_	_
+7	i	i	prep	prep	_	3	ADV	_	_
+8	enogåtti	enogåtti	det	det	_	7	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 167
+# segstart = 408.17
+# segstop = 410.34
+# speaker = ran
+# text = jaha så da satt du i SiT en gang ?
+1	jaha	jahe	interj	interj	_	4	INTERJ	_	_
+2	så	så	konj	konj	_	4	KONJ	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	satt	sitte	verb	verb	_	0	FINV	_	_
+5	du	du	pron	pron	_	4	SUBJ	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	SiT	SiT	subst	subst	_	6	PUTFYLL	_	_
+8	en	en	det	det	_	9	DET	_	_
+9	gang	gang	subst	subst	_	4	ADV	_	_
+10	?	?	clb	clb	_	4	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 168
+# segstart = 408.17
+# segstop = 410.34
+# speaker = trondheim_04gk
+# text = * mm * så e
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	så	så	adv	adv	_	2	ADV	_	_
+5	e	e	nol	nol	_	2	FYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 169
+# segstart = 410.34
+# segstop = 410.65
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 170
+# segstart = 410.65
+# segstop = 411.126
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Gjorde 'som' til hode og hang det på 'sittet' som ADV.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 171
+# segstart = 411.126
+# segstop = 414.776
+# speaker = trondheim_04gk
+# text = og jeg har sjøl sittet i styret og da # som ansattes representant
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	sjøl	sjøl	adv	adv	_	3	ADV	_	_
+5	sittet	sitte	verb	verb	_	3	INFV	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	styret	styre	subst	subst	_	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	11	KONJ	_	_
+9	da	da	adv	adv	_	11	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	som	som	prep	prep	_	5	ADV	_	_
+12	ansattes	ansatt	adj	adj	_	13	DET	_	_
+13	representant	representant	subst	subst	_	11	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 172
+# segstart = 411.126
+# segstop = 414.776
+# speaker = ran
+# text = * ja * jaha
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	jaha	jaha	interj	interj	_	2	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 173
+# segstart = 414.776
+# segstop = 415.229
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 175
+# segstart = 415.229
+# segstop = 417.042
+# speaker = ran
+# text = men jeg tror ikke vi satt der samtidig # så
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	tror	tro	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	satt	sitte	verb	verb	_	3	DOBJ	_	_
+7	der	der	prep	prep	_	6	ADV	_	_
+8	samtidig	samtidig	adj	adj	_	6	ADV	_	_
+9	#	#	pause	pause	_	3	IK	_	_
+10	så	så	konj	konj	_	3	KONJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 177
+# segstart = 417.042
+# segstop = 424.625
+# speaker = trondheim_04gk
+# text = nei det er ikke sikkert det nei men altså jeg satt jo samtidig som F1 med og # hun var altså # ansatt i SiT
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	sikkert	sikker	adj	adj	_	3	SPRED	_	_
+6	det	det	pron	pron	_	2	APP	_	_
+7	nei	nei	interj	interj	_	3	INTERJ	_	_
+8	men	men	konj	konj	_	11	KONJ	_	_
+9	altså	altså	adv	adv	_	11	ADV	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	satt	sitte	verb	verb	_	3	KOORD	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	samtidig	samtidig	adj	adj	_	11	ADV	_	_
+14	som	som	prep	prep	_	13	ADV	_	_
+15	F1	F1	subst	subst	_	14	PUTFYLL	_	_
+16	med	med	prep	prep	_	11	SLETT	_	_
+17	og	og	konj	konj	_	20	KONJ	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	hun	hun	pron	pron	_	20	SUBJ	_	_
+20	var	være	verb	verb	_	11	KOORD	_	_
+21	altså	altså	adv	adv	_	20	ADV	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	ansatt	ansatt	subst	subst	_	20	SPRED	_	_
+24	i	i	prep	prep	_	23	ATR	_	_
+25	SiT	SiT	subst	subst	_	24	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 178
+# segstart = 417.042
+# segstop = 424.625
+# speaker = ran
+# text = * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 179
+# segstart = 424.625
+# segstop = 431.374
+# speaker = trondheim_04gk
+# text = ja # e så da var jeg med i et utvalg sammen med henne # dyktig e dyktig dame
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	så	så	konj	konj	_	6	KONJ	_	_
+5	da	da	adv	adv	_	6	ADV	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+8	med	med	prep	prep	_	6	SPRED	_	_
+9	i	i	prep	prep	_	8	PUTFYLL	_	_
+10	et	et	det	det	_	11	DET	_	_
+11	utvalg	utvalg	subst	subst	_	9	PUTFYLL	_	_
+12	sammen	sammen	adv	adv	_	13	ADV	_	_
+13	med	med	prep	prep	_	6	ADV	_	_
+14	henne	henne	pron	pron	_	13	PUTFYLL	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	dyktig	dyktig	adj	adj	_	18	REP	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	dyktig	dyktig	adj	adj	_	19	ATR	_	_
+19	dame	dame	subst	subst	_	14	APP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 180
+# segstart = 424.625
+# segstop = 431.374
+# speaker = ran
+# text = * mm * å ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	å	å	interj	interj	_	2	INTERJ	_	_
+5	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 181
+# segstart = 431.374
+# segstop = 436.978
+# speaker = ran
+# text = veldig # veldig # flink til å organisere ting og veldig flink til å ordlegge seg
+1	veldig	veldig	adj	adj	_	3	REP	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	veldig	veldig	adj	adj	_	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	flink	flink	adj	adj	_	0	FRAG	_	_
+6	til	til	prep	prep	_	5	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	organisere	organisere	verb	verb	_	7	INFV	_	_
+9	ting	ting	subst	subst	_	8	DOBJ	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	veldig	veldig	adj	adj	_	12	ADV	_	_
+12	flink	flink	adj	adj	_	5	KOORD	_	_
+13	til	til	prep	prep	_	12	ADV	_	_
+14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	_
+15	ordlegge	ordlegge	verb	verb	_	14	INFV	_	_
+16	seg	seg	pron	pron	_	15	DOBJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 182
+# segstart = 431.374
+# segstop = 436.978
+# speaker = trondheim_04gk
+# text = ja * mm * mm * ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	*	*	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+4	*	*	pause	pause	_	5	IK	_	_
+5	mm	mm	interj	interj	_	1	INTERJ	_	_
+6	*	*	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 183
+# segstart = 436.978
+# segstop = 437.379
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 184
+# segstart = 437.379
+# segstop = 437.908
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 185
+# segstart = 437.908
+# segstop = 438.409
+# speaker = trondheim_04gk
+# text = ja ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 186
+# segstart = 438.409
+# segstop = 441.414
+# speaker = ran
+# text = ja # og nå # styrer hun på med Trondheim by
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	nå	nå	adv	adv	_	6	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	styrer	styre	verb	verb	_	0	FINV	_	_
+7	hun	hun	pron	pron	_	6	SUBJ	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	med	med	prep	prep	_	6	ADV	_	_
+10	Trondheim	Trondheim	subst	subst	_	9	PUTFYLL	_	_
+11	by	by	subst	subst	_	10	FLAT	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 187
+# segstart = 441.414
+# segstop = 442.225
+# speaker = trondheim_04gk
+# text = ja hun gjør det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	hun	hun	pron	pron	_	3	SUBJ	_	_
+3	gjør	gjøre	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	DOBJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 188
+# segstart = 442.225
+# segstop = 442.871
+# speaker = ran
+# text = ehe
+1	ehe	ehe	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 189
+# segstart = 442.871
+# segstop = 452.338
+# speaker = trondheim_04gk
+# text = jeg husker spesielt altså hun vi skulle jo over på sånn aksje- e # på AS og da var det e aksjelov og
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	husker	huske	verb	verb	_	0	FINV	_	_
+3	spesielt	spesiell	adj	adj	_	2	ADV	_	_
+4	altså	altså	adv	adv	_	7	ADV	_	_
+5	hun	hun	pron	pron	_	6	REP	_	_
+6	vi	vi	pron	pron	_	7	SUBJ	_	_
+7	skulle	skulle	verb	verb	_	2	KOORD	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	over	over	prep	prep	_	7	ADV	_	_
+10	på	på	prep	prep	_	15	REP	_	_
+11	sånn	sånn	det	det	_	16	DET	_	_
+12	aksje-	aksje-	ufullst	ufullst	_	15	FYLL	_	_
+13	e	e	nol	nol	_	15	FYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	på	på	prep	prep	_	9	PUTFYLL	_	_
+16	AS	AS	subst	subst	_	15	PUTFYLL	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	da	da	adv	adv	_	19	ADV	_	_
+19	var	være	verb	verb	_	2	KOORD	_	_
+20	det	det	pron	pron	_	19	FSUBJ	_	_
+21	e	e	nol	nol	_	22	FYLL	_	_
+22	aksjelov	aksjelov	subst	subst	_	19	SPRED	_	_
+23	og	og	konj	konj	_	19	KONJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 190
+# segstart = 452.338
+# segstop = 461.043
+# speaker = trondheim_04gk
+# text = og hun var så flink til å trekke ut essensen i en tekst # så e det var veldig interessant å jobbe sammen med henne
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	hun	hun	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	flink	flink	adj	adj	_	3	SPRED	_	_
+6	til	til	prep	prep	_	5	ADV	_	_
+7	å	å	inf-merke	inf-merke	_	6	PUTFYLL	_	_
+8	trekke	trekke	verb	verb	_	7	INFV	_	_
+9	ut	ut	prep	prep	_	8	ADV	_	_
+10	essensen	essens	subst	subst	_	8	DOBJ	_	_
+11	i	i	prep	prep	_	10	ATR	_	_
+12	en	en	det	det	_	13	DET	_	_
+13	tekst	tekst	subst	subst	_	11	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	18	KONJ	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	det	det	pron	pron	_	18	FSUBJ	_	_
+18	var	være	verb	verb	_	3	KOORD	_	_
+19	veldig	veldig	adj	adj	_	20	ADV	_	_
+20	interessant	interessant	adj	adj	_	18	SPRED	_	_
+21	å	å	inf-merke	inf-merke	_	18	PSUBJ	_	_
+22	jobbe	jobbe	verb	verb	_	21	INFV	_	_
+23	sammen	sammen	adv	adv	_	24	ADV	_	_
+24	med	med	prep	prep	_	22	ADV	_	_
+25	henne	henne	pron	pron	_	24	PUTFYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 191
+# segstart = 461.043
+# segstop = 464.692
+# speaker = ran
+# text = ja absolutt # vi var på samme parti hun F1 og jeg da sjø
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	absolutt	absolutt	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	på	på	prep	prep	_	5	SPRED	_	_
+7	samme	samme	det	det	_	8	DET	_	_
+8	parti	parti	subst	subst	_	6	PUTFYLL	_	_
+9	hun	hun	pron	pron	_	10	DET	_	_
+10	F1	F1	subst	subst	_	4	APP	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	jeg	jeg	pron	pron	_	10	KOORD	_	_
+13	da	da	adv	adv	_	5	ADV	_	_
+14	sjø	sjø	interj	interj	_	5	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 192
+# segstart = 461.043
+# segstop = 464.692
+# speaker = trondheim_04gk
+# text = * mm *
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 193
+# segstart = 464.692
+# segstop = 466.91
+# speaker = trondheim_04gk
+# text = ja akkurat ja # ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 194
+# segstart = 464.692
+# segstop = 466.91
+# speaker = ran
+# text = * den gangen
+1	*	*	pause	pause	_	3	IK	_	_
+2	den	den	det	det	_	3	DET	_	_
+3	gangen	gang	subst	subst	_	0	FRAG	_	_
+
+# file = trondheim_04gk-ran
+# id = 195
+# segstart = 466.91
+# segstop = 468.031
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 196
+# segstart = 468.031
+# segstop = 469.009
+# speaker = ran
+# text = det var morsomt
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	morsomt	morsom	adj	adj	_	2	SPRED	_	_
+
+# file = trondheim_04gk-ran
+# id = 197
+# segstart = 469.009
+# segstop = 469.915
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 199
+# segstart = 469.915
+# segstop = 476.544
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Underordnet 'fordi'-setningen.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 200
+# segstart = 471.727
+# segstop = 476.544
+# speaker = trondheim_04gk
+# text = * jeg prøver å kjenne igjen deg jeg nå fordi at det # jeg må ha sett deg
+1	*	*	pause	pause	_	2	IK	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	prøver	prøve	verb	verb	_	0	FINV	_	_
+4	å	å	inf-merke	inf-merke	_	3	DOBJ	_	_
+5	kjenne	kjenne	verb	verb	_	4	INFV	_	_
+6	igjen	igjen	adv	adv	_	5	ADV	_	_
+7	deg	deg	pron	pron	_	5	DOBJ	_	_
+8	jeg	jeg	pron	pron	_	2	APP	_	_
+9	nå	nå	adv	adv	_	5	ADV	_	_
+10	fordi	fordi	sbu	sbu	_	15	SBU	_	_
+11	at	at	sbu	sbu	_	10	FLAT	_	_
+12	det	det	pron	pron	_	14	SLETT	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	må	må	verb	verb	_	5	ADV	_	_
+16	ha	ha	verb	verb	_	15	INFV	_	_
+17	sett	se	verb	verb	_	16	INFV	_	_
+18	deg	deg	pron	pron	_	17	DOBJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 201
+# segstart = 471.727
+# segstop = 476.544
+# speaker = ran
+# text = ja men *
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	men	men	konj	konj	_	1	KONJ	_	_
+3	*	*	pause	pause	_	1	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 202
+# segstart = 476.544
+# segstop = 481.838
+# speaker = ran
+# text = ja kunne hende at jeg var jo på en eller annen samskipnadssammenkomst om det var til jul eller et eller annet så har vi sikkert men jeg
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	kunne	kunne	verb	verb	_	0	FINV	_	_
+3	hende	hende	verb	verb	_	2	INFV	_	_
+4	at	at	sbu	sbu	_	6	SLETT	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	2	KOORD	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	på	på	prep	prep	_	6	SPRED	_	_
+9	en	en	det	det	_	12	DET	_	_
+10	eller	eller	konj	konj	_	11	KONJ	_	_
+11	annen	annen	det	det	_	9	KOORD	_	_
+12	samskipnadssammenkomst	samskipnadssammenkomst	subst	subst	_	8	PUTFYLL	_	_
+13	om	om	sbu	sbu	_	15	SBU	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	var	være	verb	verb	_	6	ADV	_	_
+16	til	til	prep	prep	_	15	SPRED	_	_
+17	jul	jul	subst	subst	_	16	PUTFYLL	_	_
+18	eller	eller	konj	konj	_	19	KONJ	_	_
+19	et	et	det	det	_	17	KOORD	_	_
+20	eller	eller	konj	konj	_	21	KONJ	_	_
+21	annet	annet	det	det	_	19	KOORD	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	har	ha	verb	verb	_	2	SLETT	_	_
+24	vi	vi	pron	pron	_	23	SUBJ	_	_
+25	sikkert	sikker	adj	adj	_	23	ADV	_	_
+26	men	men	konj	konj	_	23	KONJ	_	_
+27	jeg	jeg	pron	pron	_	23	SLETT	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 203
+# segstart = 476.544
+# segstop = 481.838
+# speaker = trondheim_04gk
+# text = ja jeg må ha * ja * jeg * ja *
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	må	må	verb	verb	_	0	FINV	_	_
+4	ha	ha	verb	verb	_	3	INFV	_	_
+5	*	*	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+7	*	*	pause	pause	_	8	IK	_	_
+8	jeg	jeg	pron	pron	_	3	SLETT	_	_
+9	*	*	pause	pause	_	10	IK	_	_
+10	ja	ja	interj	interj	_	3	INTERJ	_	_
+11	*	*	pause	pause	_	3	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 204
+# segstart = 481.838
+# segstop = 483.317
+# speaker = trondheim_04gk
+# text = jeg kjørte nok lønna di den gangen
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	kjørte	kjøre	verb	verb	_	0	FINV	_	_
+3	nok	nok	adv	adv	_	2	ADV	_	_
+4	lønna	lønn	subst	subst	_	2	DOBJ	_	_
+5	di	di	det	det	_	4	ADV	_	_
+6	den	den	det	det	_	7	DET	_	_
+7	gangen	gang	subst	subst	_	2	ADV	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 206
+# segstart = 483.317
+# segstop = 486.25
+# speaker = ran
+# text = det gjorde du nok nei men vi hadde jo ikke ja vi fikk jo noe godtgjørelse gjorde vi det ?
+1	det	det	pron	pron	_	2	DOBJ	_	_
+2	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	nok	nok	adv	adv	_	2	ADV	_	_
+5	nei	nei	interj	interj	_	8	INTERJ	_	_
+6	men	men	konj	konj	_	8	KONJ	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	hadde	ha	verb	verb	_	13	REP	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	ikke	ikke	adv	adv	_	8	ADV	_	_
+11	ja	ja	interj	interj	_	13	INTERJ	_	_
+12	vi	vi	pron	pron	_	13	SUBJ	_	_
+13	fikk	få	verb	verb	_	2	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	noe	noe	det	det	_	16	DET	_	_
+16	godtgjørelse	godtgjørelse	subst	subst	_	13	DOBJ	_	_
+17	gjorde	gjøre	verb	verb	_	13	KOORD	_	_
+18	vi	vi	pron	pron	_	17	SUBJ	_	_
+19	det	det	pron	pron	_	17	DOBJ	_	_
+20	?	?	clb	clb	_	13	IP	_	_
+
+# file = trondheim_04gk-ran
+# id = 207
+# segstart = 483.317
+# segstop = 486.25
+# speaker = trondheim_04gk
+# text = * mm * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 208
+# segstart = 486.25
+# segstop = 488.945
+# speaker = trondheim_04gk
+# text = det var styrehonorar # det har vært det hele veien
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	styrehonorar	styrehonorar	subst	subst	_	2	PSUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	det	det	pron	pron	_	6	PSUBJ	_	_
+6	har	ha	verb	verb	_	2	KOORD	_	_
+7	vært	være	verb	verb	_	6	INFV	_	_
+8	det	det	det	det	_	7	FSUBJ	_	_
+9	hele	hel	adj	adj	_	10	ATR	_	_
+10	veien	vei	subst	subst	_	7	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 210
+# segstart = 488.945
+# segstop = 489.303
+# speaker = ran
+# text = ja det var det vel
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	PSUBJ	_	_
+5	vel	vel	adv	adv	_	3	ADV	_	_
+
+# file = trondheim_04gk-ran
+# id = 211
+# segstart = 489.303
+# segstop = 489.875
+# speaker = trondheim_04gk
+# text = ja da
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 212
+# segstart = 489.875
+# segstop = 490.996
+# speaker = ran
+# text = husker nesten ikke det
+1	husker	huske	verb	verb	_	0	FINV	_	_
+2	nesten	nesten	adv	adv	_	1	ADV	_	_
+3	ikke	ikke	adv	adv	_	1	ADV	_	_
+4	det	det	pron	pron	_	1	DOBJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 214
+# segstart = 490.996
+# segstop = 492.022
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 215
+# segstart = 492.022
+# segstop = 511.22
+# speaker = ran
+# text = ja ## e skal vi se om du skulle forsøke # å lokke noen til Trondheim # som ikke bor i Trondheim
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	##	##	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	skal	skal	verb	verb	_	9	PAR	_	_
+5	vi	vi	pron	pron	_	4	SUBJ	_	_
+6	se	se	verb	verb	_	4	INFV	_	_
+7	om	om	sbu	sbu	_	9	SBU	_	_
+8	du	du	pron	pron	_	9	SUBJ	_	_
+9	skulle	skulle	verb	verb	_	0	FINV	_	_
+10	forsøke	forsøke	verb	verb	_	9	INFV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	å	å	interj	interj	_	10	DOBJ	_	_
+13	lokke	lokke	verb	verb	_	12	INFV	_	_
+14	noen	noen	pron	pron	_	13	DOBJ	_	_
+15	til	til	prep	prep	_	13	ADV	_	_
+16	Trondheim	Trondheim	subst	subst	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	som	som	sbu	sbu	_	20	SBU	_	_
+19	ikke	ikke	adv	adv	_	20	ADV	_	_
+20	bor	bo	verb	verb	_	14	ATR	_	_
+21	i	i	prep	prep	_	20	ADV	_	_
+22	Trondheim	Trondheim	subst	subst	_	21	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 216
+# segstart = 492.022
+# segstop = 503.183
+# speaker = trondheim_04gk
+# text = * mm *
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 217
+# segstart = 503.183
+# segstop = 511.22
+# speaker = ran
+# text = * l- vil du lokke noen til å komme på besøk hva ville du friste med da bortsett fra god trøndersk mat selvfølgelig og hyggelige folk ?
+1	*	*	pause	pause	_	3	IK	_	_
+2	l-	l	ufullst	ufullst	_	3	FYLL	_	_
+3	vil	ville	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	lokke	lokke	verb	verb	_	3	INFV	_	_
+6	noen	noen	pron	pron	_	5	DOBJ	_	_
+7	til	til	prep	prep	_	5	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	komme	komme	verb	verb	_	8	INFV	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	besøk	besøk	subst	subst	_	10	PUTFYLL	_	_
+12	hva	hva	pron	pron	_	16	PUTFYLL	_	_
+13	ville	ville	verb	verb	_	3	KOORD	_	_
+14	du	du	pron	pron	_	13	SUBJ	_	_
+15	friste	friste	verb	verb	_	13	INFV	_	_
+16	med	med	prep	prep	_	15	ADV	_	_
+17	da	da	adv	adv	_	15	ADV	_	_
+18	bortsett	bortse	adj	adj	_	15	ADV	_	_
+19	fra	fra	prep	prep	_	18	ADV	_	_
+20	god	god	adj	adj	_	22	ATR	_	_
+21	trøndersk	trøndersk	subst	subst	_	22	ATR	_	_
+22	mat	mat	subst	subst	_	19	PUTFYLL	_	_
+23	selvfølgelig	selvfølgelig	adv	adv	_	22	ATR	_	_
+24	og	og	konj	konj	_	26	KONJ	_	_
+25	hyggelige	hyggelig	adj	adj	_	26	ATR	_	_
+26	folk	folk	subst	subst	_	22	KOORD	_	_
+27	?	$?	clb	clb	_	3	IP	_	_
+
+# file = trondheim_04gk-ran
+# id = 218
+# segstart = 503.183
+# segstop = 511.22
+# speaker = trondheim_04gk
+# text = ja *
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	*	*	pause	pause	_	1	IP	_	_
+
+# SR: -APPet 'i Trondheim' og satte 'i' som PUTFYLL til 'fram'
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 219
+# segstart = 511.22
+# segstop = 524.478
+# speaker = trondheim_04gk
+# text = i Trondheim så har vi egentlig alt # vi har både utmark og by og e det er veldig altså byen er veldig strukturert og fin og enkel å finne fram i
+1	i	i	prep	prep	_	3	APP	_	_
+2	Trondheim	Trondheim	subst	subst	_	1	PUTFYLL	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	vi	vi	pron	pron	_	4	SUBJ	_	_
+6	egentlig	egentlig	adj	adj	_	4	ADV	_	_
+7	alt	alt	det	det	_	4	DOBJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	har	ha	verb	verb	_	4	KOORD	_	_
+11	både	både	konj	konj	_	12	KONJ	_	_
+12	utmark	utmark	subst	subst	_	10	DOBJ	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	by	by	subst	subst	_	12	KOORD	_	_
+15	og	og	konj	konj	_	22	KONJ	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	det	det	pron	pron	_	18	FSUBJ	_	_
+18	er	være	verb	verb	_	22	REP	_	_
+19	veldig	veldig	adj	adj	_	18	SPRED	_	_
+20	altså	altså	adv	adv	_	22	ADV	_	_
+21	byen	by	subst	subst	_	22	SUBJ	_	_
+22	er	være	verb	verb	_	4	KOORD	_	_
+23	veldig	veldig	adj	adj	_	24	ADV	_	_
+24	strukturert	strukturert	adj	adj	_	22	SPRED	_	_
+25	og	og	konj	konj	_	26	KONJ	_	_
+26	fin	fin	adj	adj	_	24	KOORD	_	_
+27	og	og	konj	konj	_	28	KONJ	_	_
+28	enkel	enkel	adj	adj	_	24	KOORD	_	_
+29	å	å	inf-merke	inf-merke	_	28	ADV	_	_
+30	finne	finne	verb	verb	_	29	INFV	_	_
+31	fram	fram	prep	prep	_	30	ADV	_	_
+32	i	i	prep	prep	_	31	PUTFYLL	_	_
+
+# SR: - Satte 'det' som DOBJ til 'skal', under tvil.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 220
+# segstart = 524.478
+# segstop = 536.188
+# speaker = trondheim_04gk
+# text = og vi har masse fine tilbud og # e ja akkurat for barnefamilier så e så er ikke Trondheim e best men det skal ikke jeg n-
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	masse	masse	adj	adj	_	6	ATR	_	_
+5	fine	fin	adj	adj	_	6	ATR	_	_
+6	tilbud	tilbud	subst	subst	_	3	DOBJ	_	_
+7	og	og	konj	konj	_	17	KONJ	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	ja	ja	interj	interj	_	17	INTERJ	_	_
+11	akkurat	akkurat	adv	adv	_	12	ADV	_	_
+12	for	for	prep	prep	_	16	APP	_	_
+13	barnefamilier	barnefamilie	subst	subst	_	12	PUTFYLL	_	_
+14	så	så	adv	adv	_	16	REP	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	er	være	verb	verb	_	3	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	Trondheim	Trondheim	subst	subst	_	17	SUBJ	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	best	god	adj	adj	_	17	SPRED	_	_
+22	men	men	konj	konj	_	24	KONJ	_	_
+23	det	det	pron	pron	_	24	DOBJ	_	_
+24	skal	skal	verb	verb	_	3	SLETT	_	_
+25	ikke	ikke	adv	adv	_	24	ADV	_	_
+26	jeg	jeg	pron	pron	_	24	SUBJ	_	_
+27	n-	n-	ufullst	ufullst	_	26	FYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 221
+# segstart = 536.188
+# segstop = 546.085
+# speaker = trondheim_04gk
+# text = altså vi ha- vi har ikke noen dyrehage og sånne ting # e men e vi har jo s- s- fint svømmebasseng og e fine utflukter
+1	altså	altså	adv	adv	_	5	ADV	_	_
+2	vi	vi	pron	pron	_	4	REP	_	_
+3	ha-	ha-	ufullst	ufullst	_	4	REP	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	0	FINV	_	_
+6	ikke	ikke	adv	adv	_	5	ADV	_	_
+7	noen	noen	det	det	_	8	DET	_	_
+8	dyrehage	dyrehage	subst	subst	_	5	DOBJ	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	sånne	sånne	det	det	_	11	DET	_	_
+11	ting	ting	subst	subst	_	8	KOORD	_	_
+12	#	#	pause	pause	_	14	IK	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	men	men	konj	konj	_	17	KONJ	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	vi	vi	pron	pron	_	17	SUBJ	_	_
+17	har	ha	verb	verb	_	5	KOORD	_	_
+18	jo	jo	adv	adv	_	17	ADV	_	_
+19	s-	s-	ufullst	ufullst	_	21	FYLL	_	_
+20	s-	s-	ufullst	ufullst	_	21	FYLL	_	_
+21	fint	fin	adj	adj	_	22	ATR	_	_
+22	svømmebasseng	svømmebasseng	subst	subst	_	17	DOBJ	_	_
+23	og	og	konj	konj	_	26	KONJ	_	_
+24	e	e	nol	nol	_	25	FYLL	_	_
+25	fine	fin	adj	adj	_	26	ATR	_	_
+26	utflukter	utflukt	subst	subst	_	22	KOORD	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 222
+# segstart = 546.085
+# segstop = 559.735
+# speaker = trondheim_04gk
+# text = vi har Munkholmen vi har e Nidarosdomen og # og utfartsterreng altså # ski e turer m på sommerstid det er veldig fint her
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	Munkholmen	Munkholmen	subst	subst	_	2	DOBJ	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	2	KOORD	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	Nidarosdomen	Nidarosdomen	subst	subst	_	5	DOBJ	_	_
+8	og	og	konj	konj	_	10	REP	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	utfartsterreng	utfartsterreng	subst	subst	_	7	KOORD	_	_
+12	altså	altså	adv	adv	_	11	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	ski	ski	subst	subst	_	11	KOORD	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	turer	tur	subst	subst	_	11	KOORD	_	_
+17	m	m	interj	interj	_	18	INTERJ	_	_
+18	på	på	prep	prep	_	16	ATR	_	_
+19	sommerstid	sommerstid	subst	subst	_	18	PUTFYLL	_	_
+20	det	det	pron	pron	_	21	FSUBJ	_	_
+21	er	være	verb	verb	_	2	KOORD	_	_
+22	veldig	veldig	adj	adj	_	23	ADV	_	_
+23	fint	fin	adj	adj	_	21	SPRED	_	_
+24	her	her	prep	prep	_	21	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 223
+# segstart = 559.735
+# segstop = 561.5
+# speaker = ran
+# text = det er veldig fint her i Trondheim
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	veldig	veldig	adj	adj	_	4	ADV	_	_
+4	fint	fin	adj	adj	_	2	SPRED	_	_
+5	her	her	prep	prep	_	2	ADV	_	_
+6	i	i	prep	prep	_	5	PUTFYLL	_	_
+7	Trondheim	Trondheim	subst	subst	_	6	PUTFYLL	_	_
+
+# file = trondheim_04gk-ran
+# id = 224
+# segstart = 559.735
+# segstop = 561.5
+# speaker = trondheim_04gk
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 225
+# segstart = 561.5
+# segstop = 563.646
+# speaker = ran
+# text = ja det er sant det # jeg må jo bare være enig
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	sant	sann	adj	adj	_	3	SPRED	_	_
+5	det	det	pron	pron	_	2	APP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	må	må	verb	verb	_	3	KOORD	_	_
+9	jo	jo	adv	adv	_	11	ADV	_	_
+10	bare	bare	adv	adv	_	11	ADV	_	_
+11	være	være	verb	verb	_	8	INFV	_	_
+12	enig	enig	adj	adj	_	11	SPRED	_	_
+
+# file = trondheim_04gk-ran
+# id = 226
+# segstart = 561.5
+# segstop = 563.646
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 227
+# segstart = 563.646
+# segstop = 565.053
+# speaker = trondheim_04gk
+# text = ja ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 228
+# segstart = 565.053
+# segstop = 574.174
+# speaker = ran
+# text = det går ikke an å være uenig i det
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	går	gå	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	an	an	adv	adv	_	2	ADV	_	_
+5	å	å	inf-merke	inf-merke	_	2	PSUBJ	_	_
+6	være	være	verb	verb	_	5	INFV	_	_
+7	uenig	uenig	adj	adj	_	6	SPRED	_	_
+8	i	i	prep	prep	_	7	ADV	_	_
+9	det	det	pron	pron	_	8	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 229
+# segstart = 565.053
+# segstop = 566.603
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 230
+# segstart = 566.603
+# segstop = 567.258
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 231
+# segstart = 567.258
+# segstop = 574.174
+# speaker = ran
+# text = så em # men e ## du sier du het- e er du gift trondheim_04gk eller e
+1	så	så	adv	adv	_	8	ADV	_	_
+2	em	em	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	men	men	konj	konj	_	8	KONJ	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	##	##	pause	pause	_	7	IK	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	sier	si	verb	verb	_	12	SLETT	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	het-	het-	ufullst	ufullst	_	8	DOBJ	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	er	være	verb	verb	_	0	FINV	_	_
+13	du	du	pron	pron	_	12	SUBJ	_	_
+14	gift	gift	adj	adj	_	12	SPRED	_	_
+15	trondheim_04gk	trondheim_04gk	subst	subst	_	14	ADV	_	_
+16	eller	eller	konj	konj	_	12	KONJ	_	_
+17	e	e	nol	nol	_	12	FYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 233
+# segstart = 574.174
+# segstop = 575.557
+# speaker = trondheim_04gk
+# text = nei det er barn-
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	barn-	barn-	ufullst	ufullst	_	3	FYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 234
+# segstart = 575.557
+# segstop = 577.393
+# speaker = ran
+# text = barn- så du he- du har hett det bestandig
+1	barn-	barn-	ufullst	ufullst	_	2	FYLL	_	_
+2	så	så	konj	konj	_	6	KONJ	_	_
+3	du	du	pron	pron	_	5	REP	_	_
+4	he-	he-	ufullst	ufullst	_	5	REP	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	har	ha	verb	verb	_	0	FINV	_	_
+7	hett	hete	verb	verb	_	6	INFV	_	_
+8	det	det	pron	pron	_	7	DOBJ	_	_
+9	bestandig	bestandig	adj	adj	_	7	ADV	_	_
+
+# file = trondheim_04gk-ran
+# id = 235
+# segstart = 577.393
+# segstop = 577.768
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 236
+# segstart = 577.768
+# segstop = 578.18
+# speaker = ran
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 237
+# segstart = 578.18
+# segstop = 578.804
+# speaker = trondheim_04gk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 238
+# segstart = 578.804
+# segstop = 582.473
+# speaker = ran
+# text = så e har d- du sa at du hadde fem søsken ?
+1	så	så	adv	adv	_	3	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	har	ha	verb	verb	_	6	REP	_	_
+4	d-	d-	ufullst	ufullst	_	3	FYLL	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	sa	si	verb	verb	_	0	FINV	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	du	du	pron	pron	_	9	SUBJ	_	_
+9	hadde	ha	verb	verb	_	6	DOBJ	_	_
+10	fem	fem	det	det	_	11	DET	_	_
+11	søsken	søsken	subst	subst	_	9	DOBJ	_	_
+12	?	?	clb	clb	_	6	IP	_	_
+
+# file = trondheim_04gk-ran
+# id = 239
+# segstart = 582.473
+# segstop = 583.534
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Endret funksjon av 'hvordan' til ADV
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 240
+# segstart = 583.534
+# segstop = 587.326
+# speaker = ran
+# text = og en bror stakkar hvordan har det gått med han med alle de jentene
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	en	en	det	det	_	3	DET	_	_
+3	bror	bror	subst	subst	_	10	APP	_	_
+4	stakkar	stakkar	subst	subst	_	3	APP	_	_
+5	hvordan	hvordan	adv	adv	_	8	ADV	_	_
+6	har	ha	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	SUBJ	_	_
+8	gått	gå	verb	verb	_	6	INFV	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	han	han	pron	pron	_	9	PUTFYLL	_	_
+11	med	med	prep	prep	_	8	ADV	_	_
+12	alle	alle	det	det	_	14	DET	_	_
+13	de	de	det	det	_	14	DET	_	_
+14	jentene	jente	subst	subst	_	11	PUTFYLL	_	_
+
+# SR: - Gjorde 'stakkars meg' dependent til 'si'
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 242
+# segstart = 587.326
+# segstop = 605.808
+# speaker = trondheim_04gk
+# text = du han e stakkars meg bruker han å si han e # han e måtte jo e vi måtte jo rydde rommet vårt og sånn da og det sa vi at han skulle ikke slippe unna
+1	du	du	pron	pron	_	6	INTERJ	_	_
+2	han	han	pron	pron	_	6	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	stakkars	stakkars	adj	adj	_	5	ATR	_	_
+5	meg	meg	pron	pron	_	9	DOBJ	_	_
+6	bruker	bruke	verb	verb	_	0	FINV	_	_
+7	han	han	pron	pron	_	6	SUBJ	_	_
+8	å	å	inf-merke	inf-merke	_	6	DOBJ	_	_
+9	si	si	verb	verb	_	8	INFV	_	_
+10	han	han	pron	pron	_	13	REP	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	han	han	pron	pron	_	15	REP	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	måtte	måtte	verb	verb	_	19	REP	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	e	e	nol	nol	_	18	FYLL	_	_
+18	vi	vi	pron	pron	_	19	SUBJ	_	_
+19	måtte	måtte	verb	verb	_	6	KOORD	_	_
+20	jo	jo	adv	adv	_	19	ADV	_	_
+21	rydde	rydde	verb	verb	_	19	INFV	_	_
+22	rommet	rom	subst	subst	_	21	DOBJ	_	_
+23	vårt	vårt	det	det	_	22	DET	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	sånn	sånn	adv	adv	_	21	ADV	_	_
+26	da	da	adv	adv	_	25	ADV	_	_
+27	og	og	konj	konj	_	29	KONJ	_	_
+28	det	det	pron	pron	_	36	PUTFYLL	_	_
+29	sa	si	verb	verb	_	19	KOORD	_	_
+30	vi	vi	pron	pron	_	29	SUBJ	_	_
+31	at	at	sbu	sbu	_	33	SBU	_	_
+32	han	han	pron	pron	_	33	SUBJ	_	_
+33	skulle	skulle	verb	verb	_	29	DOBJ	_	_
+34	ikke	ikke	adv	adv	_	35	ADV	_	_
+35	slippe	slippe	verb	verb	_	33	INFV	_	_
+36	unna	unna	prep	prep	_	35	ADV	_	_
+
+# SR: - Satte 'opplært' som INFV, under tvil.
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 243
+# segstart = 599.154
+# segstop = 605.808
+# speaker = trondheim_04gk
+# text = han skulle få lov å ha de samme pliktene som oss # så han er godt opplært
+1	han	han	pron	pron	_	2	SUBJ	_	_
+2	skulle	skulle	verb	verb	_	0	FINV	_	_
+3	få	få	verb	verb	_	2	INFV	_	_
+4	lov	lov	subst	subst	_	3	DOBJ	_	_
+5	å	å	inf-merke	inf-merke	_	4	ATR	_	_
+6	ha	ha	verb	verb	_	5	INFV	_	_
+7	de	de	det	det	_	9	DET	_	_
+8	samme	samme	det	det	_	9	DET	_	_
+9	pliktene	plikt	subst	subst	_	6	DOBJ	_	_
+10	som	som	prep	prep	_	9	ATR	_	_
+11	oss	oss	pron	pron	_	10	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	så	så	adv	adv	_	15	KONJ	_	_
+14	han	han	pron	pron	_	15	SUBJ	_	_
+15	er	være	verb	verb	_	2	KOORD	_	_
+16	godt	god	adj	adj	_	15	ADV	_	_
+17	opplært	opplære	verb	verb	_	15	INFV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 244
+# segstart = 599.154
+# segstop = 605.808
+# speaker = ran
+# text = * mm * ja stakkar
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	stakkar	stakkar	subst	subst	_	2	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 245
+# segstart = 605.808
+# segstop = 606.881
+# speaker = trondheim_04gk
+# text = ja # så det
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	1	ADV	_	_
+4	det	det	pron	pron	_	1	ADV	_	_
+
+# file = trondheim_04gk-ran
+# id = 246
+# segstart = 605.808
+# segstop = 606.881
+# speaker = ran
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 247
+# segstart = 606.881
+# segstop = 609.576
+# speaker = ran
+# text = ja men det var bra det # han ble sikkert en veldig bra mann
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	bra	bra	adj	adj	_	4	SPRED	_	_
+6	det	det	pron	pron	_	3	APP	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	han	han	pron	pron	_	9	SUBJ	_	_
+9	ble	bli	verb	verb	_	4	KOORD	_	_
+10	sikkert	sikker	adj	adj	_	9	ADV	_	_
+11	en	en	det	det	_	14	DET	_	_
+12	veldig	veldig	adj	adj	_	13	ADV	_	_
+13	bra	bra	adj	adj	_	14	ATR	_	_
+14	mann	mann	subst	subst	_	9	SPRED	_	_
+
+# file = trondheim_04gk-ran
+# id = 248
+# segstart = 606.881
+# segstop = 609.576
+# speaker = trondheim_04gk
+# text = * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 249
+# segstart = 609.576
+# segstop = 610.053
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 250
+# segstart = 610.053
+# segstop = 610.697
+# speaker = ran
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 251
+# segstart = 610.697
+# segstop = 614.966
+# speaker = trondheim_04gk
+# text = han e er nok det ja vi er veldig glad i han # han bor i Oslo han da
+1	han	han	pron	pron	_	3	SUBJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	nok	nok	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	3	SPRED	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	3	KOORD	_	_
+9	veldig	veldig	adj	adj	_	10	ADV	_	_
+10	glad	glad	adj	adj	_	8	SPRED	_	_
+11	i	i	prep	prep	_	10	ADV	_	_
+12	han	han	pron	pron	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	han	han	pron	pron	_	15	SUBJ	_	_
+15	bor	bo	verb	verb	_	3	KOORD	_	_
+16	i	i	prep	prep	_	15	ADV	_	_
+17	Oslo	Oslo	subst	subst	_	16	PUTFYLL	_	_
+18	han	han	pron	pron	_	14	APP	_	_
+19	da	da	adv	adv	_	15	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 252
+# segstart = 614.966
+# segstop = 615.801
+# speaker = ran
+# text = han gjør det ja
+1	han	han	pron	pron	_	2	SUBJ	_	_
+2	gjør	gjøre	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	DOBJ	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 253
+# segstart = 615.801
+# segstop = 634.779
+# speaker = trondheim_04gk
+# text = så # i for et par år siden så sa han det # jeg har ei ferieuke til gode # og den tenkte jeg å komme til Trondheim og ta sammen med dere
+1	så	så	konj	konj	_	10	KONJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	i	i	prep	prep	_	4	REP	_	_
+4	for	for	prep	prep	_	9	APP	_	_
+5	et	et	det	det	_	6	DET	_	_
+6	par	par	subst	subst	_	7	DET	_	_
+7	år	år	subst	subst	_	4	PUTFYLL	_	_
+8	siden	siden	adv	adv	_	7	ATR	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	sa	si	verb	verb	_	0	FINV	_	_
+11	han	han	pron	pron	_	10	SUBJ	_	_
+12	det	det	pron	pron	_	10	DOBJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+15	har	ha	verb	verb	_	12	APP	_	_
+16	ei	ei	det	det	_	17	DET	_	_
+17	ferieuke	ferieuke	subst	subst	_	15	DOBJ	_	_
+18	til	til	prep	prep	_	17	ATR	_	_
+19	gode	god	subst	subst	_	18	PUTFYLL	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	og	og	konj	konj	_	23	KONJ	_	_
+22	den	den	pron	pron	_	30	DOBJ	_	_
+23	tenkte	tenke	verb	verb	_	15	KOORD	_	_
+24	jeg	jeg	pron	pron	_	23	SUBJ	_	_
+25	å	å	inf-merke	inf-merke	_	23	DOBJ	_	_
+26	komme	komme	verb	verb	_	25	INFV	_	_
+27	til	til	prep	prep	_	26	ADV	_	_
+28	Trondheim	Trondheim	subst	subst	_	27	PUTFYLL	_	_
+29	og	og	konj	konj	_	30	KONJ	_	_
+30	ta	ta	verb	verb	_	26	KOORD	_	_
+31	sammen	sammen	adv	adv	_	30	ADV	_	_
+32	med	med	prep	prep	_	31	ADV	_	_
+33	dere	dere	pron	pron	_	32	PUTFYLL	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 254
+# segstart = 624.72
+# segstop = 634.779
+# speaker = trondheim_04gk
+# text = og da skal jeg ligge en natt hos dere trondheimlaughter_
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	skal	skal	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	ligge	ligge	verb	verb	_	3	INFV	_	_
+6	en	en	det	det	_	7	DET	_	_
+7	natt	natt	subst	subst	_	5	ADV	_	_
+8	hos	hos	prep	prep	_	7	ATR	_	_
+9	dere	dere	pron	pron	_	10	DET	_	_
+10	trondheim_04gk	trondheim_04gk	subst	subst	_	8	PUTFYLL	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	en	en	det	det	_	13	DET	_	_
+13	natt	natt	subst	subst	_	7	KOORD	_	_
+14	hos	hos	prep	prep	_	13	ATR	_	_
+15	F2	F2	subst	subst	_	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	en	en	det	det	_	18	DET	_	_
+18	natt	natt	subst	subst	_	7	KOORD	_	_
+19	hos	hos	prep	prep	_	18	ATR	_	_
+20	F3	F3	subst	subst	_	19	PUTFYLL	_	_
+21	og	og	konj	konj	_	26	KONJ	_	_
+22	så	så	adv	adv	_	25	REP	_	_
+23	han	han	pron	pron	_	25	REP	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	han	han	pron	pron	_	26	SUBJ	_	_
+26	var	være	verb	verb	_	3	KOORD	_	_
+27	hos	hos	prep	prep	_	26	SPRED	_	_
+28	oss	oss	pron	pron	_	27	PUTFYLL	_	_
+29	alle	alle	det	det	_	28	DET	_	_
+30	da	da	adv	adv	_	26	ADV	_	_
+31	og	og	konj	konj	_	33	KONJ	_	_
+32	det	det	pron	pron	_	33	SUBJ	_	_
+33	var	være	verb	verb	_	3	KOORD	_	_
+34	jo	jo	adv	adv	_	33	ADV	_	_
+35	en	en	det	det	_	34	DET	_	_
+36	kjempeuke	kjempeuke	subst	subst	_	33	SPRED	_	_
+
+# file = trondheim_04gk-ran
+# id = 255
+# segstart = 624.72
+# segstop = 634.779
+# speaker = ran
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 256
+# segstart = 634.779
+# segstop = 636.043
+# speaker = ran
+# text = ja det er jeg sikker på
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	6	PUTFYLL	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	sikker	sikker	adj	adj	_	3	SPRED	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 257
+# segstart = 634.779
+# segstop = 636.043
+# speaker = trondheim_04gk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 258
+# segstart = 636.043
+# segstop = 637.831
+# speaker = trondheim_04gk
+# text = ja # så da
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	1	ADV	_	_
+4	da	da	adv	adv	_	1	ADV	_	_
+
+# file = trondheim_04gk-ran
+# id = 259
+# segstart = 636.043
+# segstop = 637.831
+# speaker = ran
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = trondheim_04gk-ran
+# id = 260
+# segstart = 637.831
+# segstop = 639.31
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 261
+# segstart = 639.31
+# segstop = 642.983
+# speaker = ran
+# text = e ja jeg vet ikke om vi skal snart ta og gi oss da
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	vet	vite	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	om	om	sbu	sbu	_	8	SBU	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	skal	skulle	verb	verb	_	4	DOBJ	_	_
+9	snart	snar	adv	adv	_	8	ADV	_	_
+10	ta	ta	verb	verb	_	8	INFV	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	gi	gi	verb	verb	_	10	KOORD	_	_
+13	oss	oss	pron	pron	_	12	DOBJ	_	_
+14	da	da	adv	adv	_	10	ADV	_	_
+
+# file = trondheim_04gk-ran
+# id = 262
+# segstart = 642.983
+# segstop = 643.436
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# SR: - Kan vi annotere 'takk' som rot?
+# annotator = VDT, SR
+# file = trondheim_04gk-ran
+# id = 263
+# segstart = 643.436
+# segstop = 646.727
+# speaker = ran
+# text = tusen takk for intervjuet det var så koselig å prate med deg
+1	tusen	tusen	det	det	_	2	DET	_	_
+2	takk	takk	subst	subst	_	0	FRAG	_	_
+3	for	for	prep	prep	_	2	ATR	_	_
+4	intervjuet	intervju	subst	subst	_	3	PUTFYLL	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	var	være	verb	verb	_	2	KOORD	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	koselig	koselig	adj	adj	_	6	SPRED	_	_
+9	å	å	inf-merke	inf-merke	_	6	PSUBJ	_	_
+10	prate	prate	verb	verb	_	9	INFV	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	deg	deg	pron	pron	_	11	PUTFYLL	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 264
+# segstart = 643.436
+# segstop = 646.727
+# speaker = trondheim_04gk
+# text = * imåte ja
+1	*	*	pause	pause	_	0	IK	_	_
+2	i_like_måte	i_like_måte	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = VDT
+# file = trondheim_04gk-ran
+# id = 265
+# segstart = 646.727
+# segstop = 648.062
+# speaker = trondheim_04gk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+

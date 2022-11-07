@@ -1,0 +1,3404 @@
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 12
+# segstart = 42.676
+# segstop = 46.707
+# speaker = heroeyMR_03gm
+# text = ja for der var sjukeheimen før i gamledager og # der nede er jeg født
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	for	for	konj	konj	_	4	KONJ	_	_
+3	der	der	prep	prep	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	sjukeheimen	sjukeheim	subst	subst	_	4	SUBJ	_	_
+6	før	før	prep	prep	_	4	ADV	_	_
+7	i	i	prep	prep	_	6	APP	_	_
+8	gamledager	gamledager	subst	subst	_	7	PUTFYLL	_	_
+9	og	og	konj	konj	_	13	KONJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	der	der	prep	prep	_	13	ADV	_	_
+12	nede	nede	prep	prep	_	11	PUTFYLL	_	_
+13	er	være	verb	verb	_	4	KOORD	_	_
+14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+15	født	føde	verb	verb	_	13	INFV	_	_
+
+# Kanskje 'når det gjelder Ulsteinvik' bør være PAR?
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 30
+# segstart = 116.214
+# segstop = 129.67
+# speaker = ta
+# text = ja # akkurat # når når det gjelder Ulsteinvik det det blir jo en annen kommune # er det hvordan vil du si forholdet er mellom Herøy og Ulstein # kommune eller er det noe slik kiving for eksempel mellom kommunene ?
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	når	når	sbu	sbu	_	6	REP	_	_
+6	når	når	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	gjelder	gjelde	verb	verb	_	12	ADV	_	_
+9	Ulsteinvik	Ulsteinvik	subst	subst	_	8	DOBJ	_	_
+10	det	det	pron	pron	_	11	REP	_	_
+11	det	det	pron	pron	_	12	SUBJ	_	_
+12	blir	bli	verb	verb	_	0	FINV	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	en	en	det	det	_	16	DET	_	_
+15	annen	annen	det	det	_	16	DET	_	_
+16	kommune	kommune	subst	subst	_	12	SPRED	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	er	være	verb	verb	_	21	REP	_	_
+19	det	det	pron	pron	_	18	FSUBJ	_	_
+20	hvordan	hvordan	adv	adv	_	25	SPRED	_	_
+21	vil	ville	verb	verb	_	12	KOORD	_	_
+22	du	du	pron	pron	_	21	SUBJ	_	_
+23	si	si	verb	verb	_	21	INFV	_	_
+24	forholdet	forhold	subst	subst	_	25	SUBJ	_	_
+25	er	være	verb	verb	_	23	DOBJ	_	_
+26	mellom	mellom	prep	prep	_	25	ADV	_	_
+27	Herøy	Herøy	subst	subst	_	26	PUTFYLL	_	_
+28	og	og	konj	konj	_	29	KONJ	_	_
+29	Ulstein	Ulstein	subst	subst	_	27	KOORD	_	_
+30	#	#	pause	pause	_	31	IK	_	_
+31	kommune	kommune	subst	subst	_	29	FLAT	_	_
+32	eller	eller	konj	konj	_	33	KONJ	_	_
+33	er	være	verb	verb	_	12	KOORD	_	_
+34	det	det	pron	pron	_	33	FSUBJ	_	_
+35	noe	noen	det	det	_	37	DET	_	_
+36	slik	slik	det	det	_	37	DET	_	_
+37	kiving	kiving	subst	subst	_	33	PSUBJ	_	_
+38	for	for	prep	prep	_	33	ADV	_	_
+39	eksempel	eksempel	subst	subst	_	38	PUTFYLL	_	_
+40	mellom	mellom	prep	prep	_	37	ATR	_	_
+41	kommunene	kommune	subst	subst	_	40	PUTFYLL	_	_
+42	?	$?	clb	clb	_	12	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 32
+# segstart = 129.67
+# segstop = 142.139
+# speaker = heroeyMR_03gm
+# text = de- der er ikke forholdet sett så bra nei # og der har jo det vært sånn at det er Ulsteinvik fremigjennom da har jo # e villet vært storebror # i grunnen da
+1	de-	de-	ufullst	ufullst	_	2	FYLL	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	forholdet	forhold	subst	subst	_	3	SUBJ	_	_
+6	sett	se	verb	verb	_	3	INFV	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	bra	bra	adj	adj	_	6	SPRED	_	_
+9	nei	nei	interj	interj	_	13	INTERJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	der	der	prep	prep	_	16	ADV	_	_
+13	har	ha	verb	verb	_	3	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	det	det	pron	pron	_	13	SUBJ	_	_
+16	vært	være	verb	verb	_	13	INFV	_	_
+17	sånn	sånn	adv	adv	_	16	SPRED	_	_
+18	at	at	sbu	sbu	_	20	SBU	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	er	være	verb	verb	_	17	APP	_	_
+21	Ulsteinvik	Ulsteinvik	subst	subst	_	20	SPRED	_	_
+22	fremigjennom	fremigjennom	prep	prep	_	20	ADV	_	_
+23	da	da	adv	adv	_	28	ADV	_	_
+24	har	ha	verb	verb	_	3	KOORD	_	_
+25	jo	jo	adv	adv	_	28	ADV	_	_
+26	#	#	pause	pause	_	28	IK	_	_
+27	e	e	nol	nol	_	28	FYLL	_	_
+28	villet	ville	verb	verb	_	24	INFV	_	_
+29	vært	være	verb	verb	_	28	INFV	_	_
+30	storebror	storebror	subst	subst	_	29	SPRED	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	i	i	prep	prep	_	29	ADV	_	_
+33	grunnen	grunn	subst	subst	_	32	PUTFYLL	_	_
+34	da	da	adv	adv	_	29	ADV	_	_
+
+# SR: Lot 'det vil si' ta direkte objekt, men mulig med KOORD-analyse også?
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 34
+# segstart = 158.228
+# segstop = 170.625
+# speaker = heroeyMR_03gm
+# text = e de var til og med de ville ha til og med folketannrøkta som det heter # opp til Vik det vil si da måtte vi ta ungene våre og # kjøre til Vik for å få dem til tannlegen
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	8	REP	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	med	med	prep	prep	_	4	KOORD	_	_
+7	de	de	pron	pron	_	8	SUBJ	_	_
+8	ville	ville	verb	verb	_	0	FINV	_	_
+9	ha	ha	verb	verb	_	8	INFV	_	_
+10	til	til	prep	prep	_	13	ATR	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	med	med	prep	prep	_	10	KOORD	_	_
+13	folketannrøkta	folketannrøkt	subst	subst	_	9	DOBJ	_	_
+14	som	som	sbu	sbu	_	16	SBU	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	heter	hete	verb	verb	_	13	ATR	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	opp	opp	prep	prep	_	9	ADV	_	_
+19	til	til	prep	prep	_	18	PUTFYLL	_	_
+20	Vik	Vik	subst	subst	_	19	PUTFYLL	_	_
+21	det	det	pron	pron	_	22	SUBJ	_	_
+22	vil	ville	verb	verb	_	25	PAR	_	_
+23	si	si	verb	verb	_	22	INFV	_	_
+24	da	da	adv	adv	_	25	ADV	_	_
+25	måtte	måtte	verb	verb	_	8	KOORD	_	_
+26	vi	vi	pron	pron	_	25	SUBJ	_	_
+27	ta	ta	verb	verb	_	25	INFV	_	_
+28	ungene	unge	subst	subst	_	27	DOBJ	_	_
+29	våre	vår	det	det	_	28	DET	_	_
+30	og	og	konj	konj	_	32	KONJ	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	kjøre	kjøre	verb	verb	_	27	KOORD	_	_
+33	til	til	prep	prep	_	32	ADV	_	_
+34	Vik	Vik	subst	subst	_	33	PUTFYLL	_	_
+35	for	for	prep	prep	_	32	ADV	_	_
+36	å	å	inf-merke	inf-merke	_	35	PUTFYLL	_	_
+37	få	få	verb	verb	_	36	INFV	_	_
+38	dem	de	pron	pron	_	37	DOBJ	_	_
+39	til	til	prep	prep	_	37	ADV	_	_
+40	tannlegen	tannlege	subst	subst	_	39	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 36
+# segstart = 179.268
+# segstop = 182.701
+# speaker = heroeyMR_03gm
+# text = det har nok vært ja # og det er det til dels fremdeles
+1	det	det	pron	pron	_	2	PSUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	nok	nok	adv	adv	_	4	ADV	_	_
+4	vært	være	verb	verb	_	2	INFV	_	_
+5	ja	ja	interj	interj	_	4	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	det	det	pron	pron	_	9	PSUBJ	_	_
+9	er	være	verb	verb	_	2	KOORD	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	til	til	prep	prep	_	9	ADV	_	_
+12	dels	dels	adv	adv	_	11	PUTFYLL	_	_
+13	fremdeles	fremdeles	adv	adv	_	9	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 47
+# segstart = 213.405
+# segstop = 219.057
+# speaker = heroeyMR_03gm
+# text = opp til Vi- g- vi forko- vi e forkorter det til Vik stort sett e for det meste # opp til Vik
+1	opp	opp	prep	prep	_	7	REP	_	_
+2	til	til	prep	prep	_	1	PUTFYLL	_	_
+3	Vi-	V	ufullst	ufullst	_	2	FYLL	_	_
+4	g-	g	ufullst	ufullst	_	7	FYLL	_	_
+5	vi	vi	pron	pron	_	7	REP	_	_
+6	forko-	fork	ufullst	ufullst	_	7	FYLL	_	_
+7	vi	vi	pron	pron	_	9	SUBJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	forkorter	forkorte	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	DOBJ	_	_
+11	til	til	prep	prep	_	9	ADV	_	_
+12	Vik	Vik	subst	subst	_	11	PUTFYLL	_	_
+13	stort	stor	adj	adj	_	14	ADV	_	_
+14	sett	se	verb	verb	_	9	ADV	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	for	for	prep	prep	_	9	ADV	_	_
+17	det	det	det	det	_	18	DET	_	_
+18	meste	mye	adj	adj	_	16	PUTFYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	opp	opp	prep	prep	_	9	KOORD	_	_
+21	til	til	prep	prep	_	20	PUTFYLL	_	_
+22	Vik	Vik	subst	subst	_	21	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 77
+# segstart = 332.52
+# segstop = 339.834
+# speaker = heroeyMR_03gm
+# text = for em ## da var der så mye snø at e vi som da var der snø oppi fjella her så du kunne
+1	for	for	prep	prep	_	5	KONJ	_	_
+2	em	em	nol	nol	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	da	da	adv	adv	_	5	ADV	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	der	der	prep	prep	_	5	FSUBJ	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	mye	mye	adj	adj	_	9	ATR	_	_
+9	snø	snø	subst	subst	_	5	PSUBJ	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	vi	vi	pron	pron	_	7	SLETT	_	_
+13	som	som	sbu	sbu	_	12	REP	_	_
+14	da	da	adv	adv	_	15	ADV	_	_
+15	var	være	verb	verb	_	5	KOORD	_	_
+16	der	der	prep	prep	_	15	FSUBJ	_	_
+17	snø	snø	subst	subst	_	15	PSUBJ	_	_
+18	oppi	oppi	prep	prep	_	15	ADV	_	_
+19	fjella	fjella	subst	subst	_	18	PUTFYLL	_	_
+20	her	her	prep	prep	_	19	ATR	_	_
+21	så	så	konj	konj	_	23	KONJ	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	kunne	kunne	verb	verb	_	5	SLETT	_	_
+
+# SR: Hjelpeverb mangler og partisippen utgjør rota. OK å sette FINV, eller er det bedre med FRAG?
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 80
+# segstart = 351.967
+# segstop = 355.794
+# speaker = heroeyMR_03gm
+# text = sjelden han ligget her mer l- ei lita uke # så nær som i i fjor da
+1	sjelden	sjelden	adv	adv	_	3	ADV	_	_
+2	han	han	pron	pron	_	3	SUBJ	_	_
+3	ligget	ligge	verb	verb	_	0	FRAG	_	_
+4	her	her	prep	prep	_	3	ADV	_	_
+5	mer	mye	adj	adj	_	7	REP	_	_
+6	l-	l	ufullst	ufullst	_	7	FYLL	_	_
+7	ei	en	det	det	_	9	DET	_	_
+8	lita	liten	adj	adj	_	9	ATR	_	_
+9	uke	uke	subst	subst	_	3	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	nær	nær	adj	adj	_	3	ADV	_	_
+13	som	som	prep	prep	_	11	ADV	_	_
+14	i	i	prep	prep	_	15	REP	_	_
+15	i	i	prep	prep	_	13	PUTFYLL	_	_
+16	fjor	fjor	subst	subst	_	15	PUTFYLL	_	_
+17	da	da	adv	adv	_	15	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 81
+# segstart = 355.794
+# segstop = 358.121
+# speaker = ta
+# text = ja i fjor var det nå en streng vinter ja
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	i	i	prep	prep	_	4	ADV	_	_
+3	fjor	fjor	subst	subst	_	2	PUTFYLL	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	nå	nå	adv	adv	_	4	ADV	_	_
+7	en	en	det	det	_	9	DET	_	_
+8	streng	streng	adj	adj	_	9	ATR	_	_
+9	vinter	vinter	subst	subst	_	4	SPRED	_	_
+10	ja	ja	interj	interj	_	4	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 99
+# segstart = 486.55
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = og den den hun var jo her e den herre fiskeriministeren og greier så hun var her i går og
+1	og	og	konj	konj	_	5	KONJ	_	_
+2	den	den	det	det	_	4	REP	_	_
+3	den	den	det	det	_	4	REP	_	_
+4	hun	hun	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	her	her	prep	prep	_	5	ADV	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	den	den	det	det	_	11	DET	_	_
+10	herre	herre	adv	adv	_	9	ATR	_	_
+11	fiskeriministeren	fiskeriminister	subst	subst	_	4	APP	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	greier	greie	subst	subst	_	11	KOORD	_	_
+14	så	så	sbu	sbu	_	16	KONJ	_	_
+15	hun	hun	pron	pron	_	16	SUBJ	_	_
+16	var	være	verb	verb	_	5	KOORD	_	_
+17	her	her	prep	prep	_	16	SPRED	_	_
+18	i	i	prep	prep	_	16	ADV	_	_
+19	går	går	subst	subst	_	18	PUTFYLL	_	_
+20	og	og	konj	konj	_	16	KONJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 106
+# segstart = 516.606
+# segstop = 521.965
+# speaker = heroeyMR_03gm
+# text = e var sannsynligvis i g- i # jeg har ikke Sunnmørspost i dag men sannsynligvis i går da
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	var	være	verb	verb	_	9	REP	_	_
+3	sannsynligvis	sannsynligvis	adv	adv	_	2	ADV	_	_
+4	i	i	prep	prep	_	6	REP	_	_
+5	g-	g	ufullst	ufullst	_	6	FYLL	_	_
+6	i	i	prep	prep	_	2	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	har	ha	verb	verb	_	0	FINV	_	_
+10	ikke	ikke	adv	adv	_	9	ADV	_	_
+11	Sunnmørspost	Sunnmørspost	subst	subst	_	9	DOBJ	_	_
+12	i	i	prep	prep	_	9	ADV	_	_
+13	dag	dag	subst	subst	_	12	PUTFYLL	_	_
+14	men	men	konj	konj	_	16	KONJ	_	_
+15	sannsynligvis	sannsynligvis	adv	adv	_	16	ADV	_	_
+16	i	i	prep	prep	_	9	KOORD	_	_
+17	går	gå	verb	verb	_	16	PUTFYLL	_	_
+18	da	da	adv	adv	_	16	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 108
+# segstart = 521.965
+# segstop = 526.364
+# speaker = ta
+# text = i går kanskje ja # da det stod om det ja at det var noe e arrangement i forbindelse med det ja
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	går	går	subst	subst	_	1	PUTFYLL	_	_
+3	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	da	da	adv	adv	_	8	ADV	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	stod	stå	verb	verb	_	1	KOORD	_	_
+9	om	om	prep	prep	_	8	ADV	_	_
+10	det	det	pron	pron	_	9	PUTFYLL	_	_
+11	ja	ja	interj	interj	_	14	INTERJ	_	_
+12	at	at	sbu	sbu	_	14	SBU	_	_
+13	det	det	pron	pron	_	14	FSUBJ	_	_
+14	var	være	verb	verb	_	10	APP	_	_
+15	noe	noen	det	det	_	17	DET	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	arrangement	arrangement	subst	subst	_	14	PSUBJ	_	_
+18	i	i	prep	prep	_	17	ATR	_	_
+19	forbindelse	forbindelse	subst	subst	_	18	PUTFYLL	_	_
+20	med	med	prep	prep	_	19	ATR	_	_
+21	det	det	pron	pron	_	20	PUTFYLL	_	_
+22	ja	ja	interj	interj	_	14	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 110
+# segstart = 526.364
+# segstop = 531.806
+# speaker = heroeyMR_03gm
+# text = ja ## eller kanskje det var i dag for det var i går dette skjedde
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	eller	eller	konj	konj	_	6	KONJ	_	_
+4	kanskje	kanskje	adv	adv	_	6	ADV	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	var	være	verb	verb	_	0	FINV	_	_
+7	i	i	prep	prep	_	6	SPRED	_	_
+8	dag	dag	subst	subst	_	7	PUTFYLL	_	_
+9	for	for	konj	konj	_	11	KONJ	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	var	være	verb	verb	_	6	KOORD	_	_
+12	i	i	prep	prep	_	11	SPRED	_	_
+13	går	går	subst	subst	_	12	PUTFYLL	_	_
+14	dette	dette	pron	pron	_	15	SUBJ	_	_
+15	skjedde	skjedde	subst	subst	_	11	PSUBJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 111
+# segstart = 531.806
+# segstop = 536.145
+# speaker = ta
+# text = det var kanskje i dag jeg husker ikke jeg så den både i går og i dag så det
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+4	i	i	prep	prep	_	2	SPRED	_	_
+5	dag	dag	subst	subst	_	4	PUTFYLL	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	husker	huske	verb	verb	_	2	KOORD	_	_
+8	ikke	ikke	adv	adv	_	7	ADV	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	så	se	verb	verb	_	2	KONJ	_	_
+11	den	den	det	det	_	10	DOBJ	_	_
+12	både	både	konj	konj	_	13	KONJ	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	går	går	subst	subst	_	13	PUTFYLL	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	i	i	prep	prep	_	13	ADV	_	_
+17	dag	dag	subst	subst	_	16	PUTFYLL	_	_
+18	så	så	konj	konj	_	19	KONJ	_	_
+19	det	det	pron	pron	_	2	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 112
+# segstart = 536.145
+# segstop = 542.24
+# speaker = heroeyMR_03gm
+# text = mm ## men det var jo innslag i e i lokal-TV s- også da i går
+1	mm	mm	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	innslag	innslag	subst	subst	_	5	PSUBJ	_	_
+8	i	i	prep	prep	_	10	REP	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	i	i	prep	prep	_	7	ATR	_	_
+11	lokal-TV	lokal-TV	subst	subst	_	10	PUTFYLL	_	_
+12	s-	s	ufullst	ufullst	_	13	FYLL	_	_
+13	også	også	adv	adv	_	5	ADV	_	_
+14	da	da	adv	adv	_	5	KOORD	_	_
+15	i	i	prep	prep	_	5	ADV	_	_
+16	går	går	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 113
+# segstart = 542.24
+# segstop = 545.901
+# speaker = ta
+# text = ja vel # akkurat # og det var kinesere her og ?
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	og	og	konj	konj	_	8	KONJ	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	0	FINV	_	_
+9	kinesere	kineser	subst	subst	_	8	PSUBJ	_	_
+10	her	her	prep	prep	_	8	ADV	_	_
+11	og	og	konj	konj	_	8	KONJ	_	_
+12	?	$?	clb	clb	_	8	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 121
+# segstart = 584.45
+# segstop = 586.826
+# speaker = ta
+# text = ja # akkurat og det er sau de driver på med stort sett ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	sau	sau	subst	subst	_	6	SPRED	_	_
+8	de	de	pron	pron	_	9	SUBJ	_	_
+9	driver	drive	verb	verb	_	7	ATR	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	med	med	prep	prep	_	9	ADV	_	_
+12	stort	stor	adj	adj	_	13	ADV	_	_
+13	sett	se	verb	verb	_	9	ADV	_	_
+14	?	$?	clb	clb	_	6	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 123
+# segstart = 586.826
+# segstop = 595.021
+# speaker = heroeyMR_03gm
+# text = det er sauer f- stort sett ja # sauer og så villsauer har jo nå blitt litt # populært her ute å holde disse herre # utgangesauene som vi sier …
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	sauer	sau	subst	subst	_	2	SPRED	_	_
+4	f-	f	ufullst	ufullst	_	5	FYLL	_	_
+5	stort	stor	adj	adj	_	6	ADV	_	_
+6	sett	se	verb	verb	_	2	ADV	_	_
+7	ja	ja	interj	interj	_	2	INTERJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	sauer	sau	subst	subst	_	3	APP	_	_
+10	og	og	konj	konj	_	13	KONJ	_	_
+11	så	så	adv	adv	_	13	ADV	_	_
+12	villsauer	villsau	subst	subst	_	13	SUBJ	_	_
+13	har	ha	verb	verb	_	2	KOORD	_	_
+14	jo	jo	adv	adv	_	16	ADV	_	_
+15	nå	nå	adv	adv	_	16	ADV	_	_
+16	blitt	bli	verb	verb	_	13	INFV	_	_
+17	litt	litt	adj	adj	_	19	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	populært	populær	adj	adj	_	16	SPRED	_	_
+20	her	her	prep	prep	_	16	ADV	_	_
+21	ute	ute	prep	prep	_	20	PUTFYLL	_	_
+22	å	å	inf-merke	inf-merke	_	13	KOORD	_	_
+23	holde	holde	verb	verb	_	22	INFV	_	_
+24	disse	disse	det	det	_	27	DET	_	_
+25	herre	herre	adv	adv	_	24	ATR	_	_
+26	#	#	pause	pause	_	27	IK	_	_
+27	utgangesauene	utgangesauene	subst	subst	_	23	DOBJ	_	_
+28	som	som	sbu	sbu	_	30	SBU	_	_
+29	vi	vi	pron	pron	_	30	SUBJ	_	_
+30	sier	si	verb	verb	_	27	ATR	_	_
+31	…	…	pause	pause	_	27	IK	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 152
+# segstart = 715.339
+# segstop = 715.998
+# speaker = heroeyMR_03gm
+# text = ja vel
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 1
+# segstart = 11.441
+# segstop = 15.723
+# speaker = ta
+# text = skal vi se e bare det er så mye å # knapper å passe på her men
+1	skal	skulle	verb	verb	_	0	FINV	_	_
+2	vi	vi	pron	pron	_	1	SUBJ	_	_
+3	se	se	verb	verb	_	1	INFV	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	bare	bare	adv	adv	_	3	REP	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	1	KOORD	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	mye	mye	adj	adj	_	7	PSUBJ	_	_
+10	å	å	inf-merke	inf-merke	_	9	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	knapper	knapper	subst	subst	_	9	ATR	_	_
+13	å	å	inf-merke	inf-merke	_	12	ATR	_	_
+14	passe	passe	verb	verb	_	13	INFV	_	_
+15	på	på	prep	prep	_	14	ADV	_	_
+16	her	her	prep	prep	_	14	ADV	_	_
+17	men	men	konj	konj	_	7	KONJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 3
+# segstart = 15.723
+# segstop = 19.227
+# speaker = heroeyMR_03gm
+# text = my- mye å passe på # er det l- elektroniske varer ?
+1	my-	my	ufullst	ufullst	_	2	FYLL	_	_
+2	mye	mye	adj	adj	_	0	FRAG	_	_
+3	å	å	inf-merke	inf-merke	_	2	ADV	_	_
+4	passe	passe	verb	verb	_	3	INFV	_	_
+5	på	på	prep	prep	_	4	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	er	være	verb	verb	_	2	KOORD	_	_
+8	det	det	pron	pron	_	7	SUBJ	_	_
+9	l-	l	ufullst	ufullst	_	10	FYLL	_	_
+10	elektroniske	elektronisk	adj	adj	_	11	ATR	_	_
+11	varer	vare	subst	subst	_	7	SPRED	_	_
+12	?	$?	clb	clb	_	7	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 5
+# segstart = 19.227
+# segstop = 37.955
+# speaker = ta
+# text = ja spesielt når jeg er aleine om e om det # men e jo vi får ta et e lite intervju # e
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	spesielt	spesiell	adj	adj	_	5	ADV	_	_
+3	når	når	sbu	sbu	_	5	SBU	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	aleine	aleine	adv	adv	_	5	SPRED	_	_
+7	om	om	prep	prep	_	9	REP	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	om	om	prep	prep	_	6	ADV	_	_
+10	det	det	pron	pron	_	9	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	men	men	konj	konj	_	16	KONJ	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	jo	jo	interj	interj	_	16	ADV	_	_
+15	vi	vi	pron	pron	_	16	SUBJ	_	_
+16	får	få	verb	verb	_	5	KOORD	_	_
+17	ta	ta	verb	verb	_	16	INFV	_	_
+18	et	en	det	det	_	21	DET	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	lite	lite	adj	adj	_	21	ATR	_	_
+21	intervju	intervju	subst	subst	_	17	DOBJ	_	_
+22	#	#	pause	pause	_	21	IK	_	_
+23	e	e	nol	nol	_	21	FYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 6
+# segstart = 25.722
+# segstop = 37.955
+# speaker = ta
+# text = og som jeg s- e tidligere her nå så er det ikke så nøye hva du sier skulle å si bare du sier noe # men e
+1	og	og	konj	konj	_	10	KONJ	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	jeg	jeg	pron	pron	_	9	APP	_	_
+4	s-	s	ufullst	ufullst	_	6	FYLL	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	tidligere	tidlig	adj	adj	_	3	ADV	_	_
+7	her	her	prep	prep	_	3	ADV	_	_
+8	nå	nå	adv	adv	_	3	ADV	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	er	være	verb	verb	_	0	FINV	_	_
+11	det	det	pron	pron	_	10	FSUBJ	_	_
+12	ikke	ikke	adv	adv	_	10	ADV	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	nøye	nøye	adj	adj	_	10	SPRED	_	_
+15	hva	hva	pron	pron	_	17	DOBJ	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	sier	si	verb	verb	_	10	PSUBJ	_	_
+18	skulle	skulle	verb	verb	_	10	PAR	_	_
+19	å	å	inf-merke	inf-merke	_	18	DOBJ	_	_
+20	si	si	verb	verb	_	19	INFV	_	_
+21	bare	bare	adv	adv	_	23	ADV	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	sier	si	verb	verb	_	10	KOORD	_	_
+24	noe	noen	det	det	_	23	DOBJ	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	men	men	konj	konj	_	10	KONJ	_	_
+27	e	e	nol	nol	_	26	FYLL	_	_
+
+# file = heroeyMR_03gm-ta
+# id = 8
+# segstart = 32.344
+# segstop = 37.955
+# speaker = ta
+# text = men men du er altså f- du er født og oppvokst her i e Herøy ?
+1	men	men	konj	konj	_	2	REP	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	8	REP	_	_
+5	altså	altså	adv	adv	_	4	ADV	_	_
+6	f-	f-	ufullst	ufullst	_	7	FYLL	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	født	føde	verb	verb	_	8	SPRED	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	oppvokst	oppvokst	adj	adj	_	9	KOORD	_	_
+12	her	her	prep	prep	_	11	ADV	_	_
+13	i	i	prep	prep	_	12	PUTFYLL	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	Herøy	Herøy	subst	subst	_	13	PUTFYLL	_	_
+16	?	?	clb	clb	_	8	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 9
+# segstart = 37.955
+# segstop = 41.288
+# speaker = heroeyMR_03gm
+# text = jeg er født og oppvokst her i Herøy ja # på Eggesbønes
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	født	føde	verb	verb	_	2	SPRED	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	oppvokst	oppvokse	verb	verb	_	3	KOORD	_	_
+6	her	her	prep	prep	_	5	ADV	_	_
+7	i	i	prep	prep	_	6	PUTFYLL	_	_
+8	Herøy	Herøy	subst	subst	_	7	PUTFYLL	_	_
+9	ja	ja	interj	interj	_	5	INTERJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	på	på	prep	prep	_	5	ADV	_	_
+12	Eggesbønes	Eggesbønes	subst	subst	_	11	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 10
+# segstart = 41.288
+# segstop = 42.676
+# speaker = ta
+# text = på Eggesbønes ja # akkurat
+1	på	på	prep	prep	_	3	ADV	_	_
+2	Eggesbønes	Eggesbønes	subst	subst	_	1	PUTFYLL	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 13
+# segstart = 46.707
+# segstop = 52.856
+# speaker = ta
+# text = ja # e hvordan er forholdet mellom Fosnavåg e eller sier du Fosnavåg eller sier du Fosnavågen ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	hvordan	hvordan	adv	adv	_	5	SPRED	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	forholdet	forhold	subst	subst	_	5	SUBJ	_	_
+7	mellom	mellom	prep	prep	_	6	ATR	_	_
+8	Fosnavåg	Fosnavåg	subst	subst	_	7	PUTFYLL	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	eller	eller	konj	konj	_	11	KONJ	_	_
+11	sier	si	verb	verb	_	5	KOORD	_	_
+12	du	du	pron	pron	_	11	SUBJ	_	_
+13	Fosnavåg	Fosnavåg	subst	subst	_	11	DOBJ	_	_
+14	eller	eller	konj	konj	_	15	KONJ	_	_
+15	sier	si	verb	verb	_	5	KOORD	_	_
+16	du	du	pron	pron	_	15	SUBJ	_	_
+17	Fosnavågen	Fosnavågen	subst	subst	_	15	DOBJ	_	_
+18	?	$?	clb	clb	_	5	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 14
+# segstart = 52.856
+# segstop = 54.357
+# speaker = heroeyMR_03gm
+# text = nei vi sier Fosnavåg
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	sier	si	verb	verb	_	0	FINV	_	_
+4	Fosnavåg	Fosnavåg	subst	subst	_	3	DOBJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 15
+# segstart = 54.357
+# segstop = 59.349
+# speaker = ta
+# text = Fosnavåg ja e men hvordan er forholdet mellom Fosnavåg og Eggesbønes ? # slik …
+1	Fosnavåg	Fosnavåg	subst	subst	_	2	ADV	_	_
+2	ja	ja	interj	interj	_	6	INTERJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	men	men	konj	konj	_	6	KONJ	_	_
+5	hvordan	hvordan	adv	adv	_	6	SPRED	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	forholdet	forhold	subst	subst	_	6	SUBJ	_	_
+8	mellom	mellom	prep	prep	_	7	ATR	_	_
+9	Fosnavåg	Fosnavåg	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	Eggesbønes	Eggesbønes	subst	subst	_	9	KOORD	_	_
+12	?	$?	clb	clb	_	6	IP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	slik	slik	adv	adv	_	6	KOORD	_	_
+15	…	…	pause	pause	_	14	FYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 16
+# segstart = 59.349
+# segstop = 61.797
+# speaker = heroeyMR_03gm
+# text = språkmessig meiner du eller eller e … ?
+1	språkmessig	språkmessig	adj	adj	_	2	DOBJ	_	_
+2	meiner	mene	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	eller	eller	konj	konj	_	5	REP	_	_
+5	eller	eller	konj	konj	_	2	KONJ	_	_
+6	e	e	nol	nol	_	5	FYLL	_	_
+7	…	…	pause	pause	_	5	FYLL	_	_
+8	?	$?	clb	clb	_	2	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 18
+# segstart = 61.797
+# segstop = 66.389
+# speaker = ta
+# text = nei nå tenker jeg mer på slik e som tettsted eller som sted på en måte
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	nå	nå	adv	adv	_	3	ADV	_	_
+3	tenker	tenke	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	mer	mye	adj	adj	_	3	ADV	_	_
+6	på	på	prep	prep	_	3	ADV	_	_
+7	slik	slik	adv	adv	_	6	PUTFYLL	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	som	som	sbu	sbu	_	10	ADV	_	_
+10	tettsted	tettsted	subst	subst	_	7	ADV	_	_
+11	eller	eller	konj	konj	_	13	KONJ	_	_
+12	som	som	sbu	sbu	_	13	SBU	_	_
+13	sted	sted	subst	subst	_	7	KOORD	_	_
+14	på	på	prep	prep	_	3	ADV	_	_
+15	en	en	det	det	_	16	DET	_	_
+16	måte	måte	subst	subst	_	14	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 20
+# segstart = 66.389
+# segstop = 74.482
+# speaker = heroeyMR_03gm
+# text = nei e jeg føler nå det at det det er så tett integrert likevel at i dag er ikke her så veldig stor forskjell det er sånn som jeg føler det da
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	føler	føle	verb	verb	_	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	det	det	pron	pron	_	4	DOBJ	_	_
+7	at	at	sbu	sbu	_	10	SBU	_	_
+8	det	det	pron	pron	_	9	REP	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	6	APP	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	tett	tett	adj	adj	_	13	ADV	_	_
+13	integrert	integrere	adj	adj	_	10	SPRED	_	_
+14	likevel	likevel	adv	adv	_	10	ADV	_	_
+15	at	at	sbu	sbu	_	18	SBU	_	_
+16	i	i	prep	prep	_	18	ADV	_	_
+17	dag	dag	subst	subst	_	16	PUTFYLL	_	_
+18	er	være	verb	verb	_	13	ADV	_	_
+19	ikke	ikke	adv	adv	_	18	ADV	_	_
+20	her	her	prep	prep	_	18	FSUBJ	_	_
+21	så	så	adv	adv	_	22	ADV	_	_
+22	veldig	veldig	adj	adj	_	23	ADV	_	_
+23	stor	stor	adj	adj	_	24	ATR	_	_
+24	forskjell	forskjell	subst	subst	_	18	PSUBJ	_	_
+25	det	det	pron	pron	_	26	SUBJ	_	_
+26	er	være	verb	verb	_	4	KOORD	_	_
+27	sånn	sånn	adv	adv	_	26	SPRED	_	_
+28	som	som	sbu	sbu	_	30	SBU	_	_
+29	jeg	jeg	pron	pron	_	30	SUBJ	_	_
+30	føler	føle	verb	verb	_	27	ADV	_	_
+31	det	det	pron	pron	_	30	DOBJ	_	_
+32	da	da	adv	adv	_	30	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 21
+# segstart = 74.482
+# segstop = 82.951
+# speaker = heroeyMR_03gm
+# text = for e det har nå blitt sånn da at det nedpå neset har vi de fleste institusjonene som e # sjukeheim
+1	for	for	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	nå	nå	adv	adv	_	6	ADV	_	_
+6	blitt	bli	verb	verb	_	4	INFV	_	_
+7	sånn	sånn	adv	adv	_	6	SPRED	_	_
+8	da	da	adv	adv	_	6	ADV	_	_
+9	at	at	sbu	sbu	_	13	SBU	_	_
+10	det	det	det	det	_	13	SLETT	_	_
+11	nedpå	nedpå	adj	adj	_	13	ADV	_	_
+12	neset	nes	subst	subst	_	11	PUTFYLL	_	_
+13	har	ha	verb	verb	_	7	APP	_	_
+14	vi	vi	pron	pron	_	13	SUBJ	_	_
+15	de	de	det	det	_	17	DET	_	_
+16	fleste	mange	adj	adj	_	17	ATR	_	_
+17	institusjonene	institusjon	subst	subst	_	13	DOBJ	_	_
+18	som	som	prep	prep	_	17	ATR	_	_
+19	e	e	nol	nol	_	21	FYLL	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	sjukeheim	sykehjem	subst	subst	_	18	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 22
+# segstart = 82.951
+# segstop = 91.717
+# speaker = heroeyMR_03gm
+# text = der er trygdekontor eller NAV som det heter nå og der er # de fleste butikkene er der nede matvarer og sånn
+1	der	der	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	trygdekontor	trygdekontor	subst	subst	_	2	PSUBJ	_	_
+4	eller	eller	konj	konj	_	5	KONJ	_	_
+5	NAV	N	subst	subst	_	3	KOORD	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	heter	hete	verb	verb	_	5	ATR	_	_
+9	nå	nå	adv	adv	_	8	ADV	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	der	der	prep	prep	_	12	FSUBJ	_	_
+12	er	være	verb	verb	_	17	REP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	de	de	det	det	_	16	DET	_	_
+15	fleste	mange	adj	adj	_	16	ATR	_	_
+16	butikkene	butikk	subst	subst	_	17	SUBJ	_	_
+17	er	være	verb	verb	_	2	KOORD	_	_
+18	der	der	prep	prep	_	17	SPRED	_	_
+19	nede	nede	prep	prep	_	18	PUTFYLL	_	_
+20	matvarer	matvare	subst	subst	_	2	KOORD	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	sånn	sånn	adv	adv	_	20	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 23
+# segstart = 91.717
+# segstop = 102.204
+# speaker = heroeyMR_03gm
+# text = og e # og her ute er det mer kontrastert konse- konsentrert seg om e # ja du har sikker vært og sett her e klær og alt dette # som bruker å være her
+1	og	og	konj	konj	_	4	REP	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	7	KONJ	_	_
+5	her	her	prep	prep	_	7	ADV	_	_
+6	ute	ute	prep	prep	_	5	PUTFYLL	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	mer	mye	adj	adj	_	12	ADV	_	_
+10	kontrastert	kontrastere	adj	adj	_	12	REP	_	_
+11	konse-	konse-	ufullst	ufullst	_	12	REP	_	_
+12	konsentrert	konsentrere	adj	adj	_	7	SPRED	_	_
+13	seg	seg	pron	pron	_	12	DOBJ	_	_
+14	om	om	prep	prep	_	12	ADV	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	ja	ja	interj	interj	_	19	INTERJ	_	_
+18	du	du	pron	pron	_	19	SUBJ	_	_
+19	har	ha	verb	verb	_	12	PAR	_	_
+20	sikker	sikker	adj	adj	_	19	ADV	_	_
+21	vært	være	verb	verb	_	19	INFV	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	sett	se	verb	verb	_	21	KOORD	_	_
+24	her	her	prep	prep	_	23	ADV	_	_
+25	e	e	nol	nol	_	26	FYLL	_	_
+26	klær	klær	subst	subst	_	14	PUTFYLL	_	_
+27	og	og	konj	konj	_	29	KONJ	_	_
+28	alt	all	det	det	_	29	DET	_	_
+29	dette	dette	pron	pron	_	26	KOORD	_	_
+30	#	#	pause	pause	_	31	IK	_	_
+31	som	som	sbu	sbu	_	32	SBU	_	_
+32	bruker	bruke	verb	verb	_	29	ATR	_	_
+33	å	å	inf-merke	inf-merke	_	32	DOBJ	_	_
+34	være	være	verb	verb	_	33	INFV	_	_
+35	her	her	prep	prep	_	34	SPRED	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 24
+# segstart = 102.204
+# segstop = 103.532
+# speaker = heroeyMR_03gm
+# text = og så er der rådhus her ute da
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	der	der	prep	prep	_	3	FSUBJ	_	_
+5	rådhus	rådhus	subst	subst	_	3	PSUBJ	_	_
+6	her	her	prep	prep	_	3	ADV	_	_
+7	ute	ute	prep	prep	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	3	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 25
+# segstart = 103.532
+# segstop = 111.565
+# speaker = ta
+# text = ja jeg så jo rådhuset var her ja # så men kommunesenteret det er på det er her eller altså i og med at rådhuset er her da
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	så	se	verb	verb	_	0	ADV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	rådhuset	rådhus	subst	subst	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	3	DOBJ	_	_
+7	her	her	prep	prep	_	6	ADV	_	_
+8	ja	ja	interj	interj	_	6	INTERJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	så	så	adv	adv	_	14	KONJ	_	_
+11	men	men	konj	konj	_	14	KONJ	_	_
+12	kommunesenteret	kommunesenter	adj	adj	_	16	APP	_	_
+13	det	det	pron	pron	_	14	SUBJ	_	_
+14	er	være	verb	verb	_	17	REP	_	_
+15	på	på	prep	prep	_	14	SPRED	_	_
+16	det	det	pron	pron	_	17	SUBJ	_	_
+17	er	være	verb	verb	_	6	KOORD	_	_
+18	her	her	prep	prep	_	17	SPRED	_	_
+19	eller	eller	konj	konj	_	17	KONJ	_	_
+20	altså	altså	adv	adv	_	17	ADV	_	_
+21	i	i	prep	prep	_	17	ADV	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	med	med	prep	prep	_	21	KOORD	_	_
+24	at	at	sbu	sbu	_	26	SBU	_	_
+25	rådhuset	rådhus	subst	subst	_	26	SUBJ	_	_
+26	er	være	verb	verb	_	23	PUTFYLL	_	_
+27	her	her	prep	prep	_	26	SPRED	_	_
+28	da	da	adv	adv	_	26	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 26
+# segstart = 103.532
+# segstop = 109.741
+# speaker = heroeyMR_03gm
+# text = * e * ja * s- … * det er her i … * ja
+1	*	*	pause	pause	_	4	FYLL	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	10	INTERJ	_	_
+5	*	*	pause	pause	_	9	IK	_	_
+6	s-	s	ufullst	ufullst	_	9	FYLL	_	_
+7	…	…	pause	pause	_	9	FYLL	_	_
+8	*	*	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	SUBJ	_	_
+10	er	være	verb	verb	_	0	FINV	_	_
+11	her	her	prep	prep	_	10	SPRED	_	_
+12	i	i	prep	prep	_	11	PUTFYLL	_	_
+13	…	…	pause	pause	_	14	FYLL	_	_
+14	*	*	pause	pause	_	15	IK	_	_
+15	ja	ja	interj	interj	_	10	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 27
+# segstart = 109.741
+# segstop = 111.565
+# speaker = ta
+# text = men ellers er det fordelt ganske bra ?
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	ellers	ellers	adv	adv	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SUBJ	_	_
+5	fordelt	fordele	verb	verb	_	3	INFV	_	_
+6	ganske	ganske	adv	adv	_	7	ADV	_	_
+7	bra	bra	adj	adj	_	5	SPRED	_	_
+8	?	$?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 29
+# segstart = 111.565
+# segstop = 116.214
+# speaker = heroeyMR_03gm
+# text = ja jeg f- jeg føler på det da og når det gjelder andre institusjoner da # som er nevnt
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	4	REP	_	_
+3	f-	f	ufullst	ufullst	_	4	FYLL	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	føler	føle	verb	verb	_	0	FINV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	det	det	pron	pron	_	6	PUTFYLL	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	og	og	konj	konj	_	12	KONJ	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	gjelder	gjelde	verb	verb	_	5	KOORD	_	_
+13	andre	annen	det	det	_	14	DET	_	_
+14	institusjoner	institusjon	subst	subst	_	12	DOBJ	_	_
+15	da	da	adv	adv	_	12	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	som	som	sbu	sbu	_	18	SBU	_	_
+18	er	være	verb	verb	_	14	ATR	_	_
+19	nevnt	nevne	verb	verb	_	18	SPRED	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 31
+# segstart = 116.214
+# segstop = 129.67
+# speaker = heroeyMR_03gm
+# text = * e
+1	*	*	pause	pause	_	0	IK	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 33
+# segstart = 142.139
+# segstop = 158.228
+# speaker = heroeyMR_03gm
+# text = og e # og her er vært ei viss kiving e for at Ulsteinvik skulle ha # prøvd å e ## e det som vi sier grave til seg e disse herre offisielle institusjoner sånn som politi
+1	og	og	konj	konj	_	4	REP	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	og	og	konj	konj	_	6	KONJ	_	_
+5	her	her	prep	prep	_	6	FSUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	vært	være	verb	verb	_	6	INFV	_	_
+8	ei	en	det	det	_	10	DET	_	_
+9	viss	viss	adj	adj	_	10	ATR	_	_
+10	kiving	kiving	subst	subst	_	7	PSUBJ	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	for	for	prep	prep	_	10	ATR	_	_
+13	at	at	sbu	sbu	_	15	SBU	_	_
+14	Ulsteinvik	Ulsteinvik	subst	subst	_	15	SUBJ	_	_
+15	skulle	skulle	verb	verb	_	12	PUTFYLL	_	_
+16	ha	ha	verb	verb	_	15	INFV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	prøvd	prøve	verb	verb	_	16	INFV	_	_
+19	å	å	inf-merke	inf-merke	_	18	DOBJ	_	_
+20	e	e	nol	nol	_	23	FYLL	_	_
+21	##	##	pause	pause	_	23	IK	_	_
+22	e	e	nol	nol	_	23	FYLL	_	_
+23	det	det	pron	pron	_	26	REP	_	_
+24	som	som	sbu	sbu	_	26	SBU	_	_
+25	vi	vi	pron	pron	_	26	SUBJ	_	_
+26	sier	si	verb	verb	_	27	PAR	_	_
+27	grave	grave	subst	subst	_	19	INFV	_	_
+28	til	til	prep	prep	_	27	ADV	_	_
+29	seg	seg	pron	pron	_	28	PUTFYLL	_	_
+30	e	e	nol	nol	_	31	FYLL	_	_
+31	disse	disse	det	det	_	32	DET	_	_
+32	herre	herre	adv	adv	_	34	ATR	_	_
+33	offisielle	offisiell	adj	adj	_	34	ATR	_	_
+34	institusjoner	institusjon	subst	subst	_	27	DOBJ	_	_
+35	sånn	sånn	adv	adv	_	34	ATR	_	_
+36	som	som	sbu	sbu	_	35	ADV	_	_
+37	politi	politi	subst	subst	_	36	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 35
+# segstart = 170.625
+# segstop = 179.268
+# speaker = heroeyMR_03gm
+# text = det fikk jo de stoppa så her har vært ei # veldig kiving imellom ## Ulsteinvik og oss da
+1	det	det	pron	pron	_	5	DOBJ	_	_
+2	fikk	få	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	de	de	pron	pron	_	2	SUBJ	_	_
+5	stoppa	stoppe	verb	verb	_	2	INFV	_	_
+6	så	så	adv	adv	_	8	KONJ	_	_
+7	her	her	prep	prep	_	8	FSUBJ	_	_
+8	har	ha	verb	verb	_	2	KOORD	_	_
+9	vært	være	verb	verb	_	8	INFV	_	_
+10	ei	en	det	det	_	13	DET	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	veldig	veldig	adj	adj	_	13	ATR	_	_
+13	kiving	kiving	adj	adj	_	9	PSUBJ	_	_
+14	imellom	imellom	prep	prep	_	13	ATR	_	_
+15	##	##	pause	pause	_	16	IK	_	_
+16	Ulsteinvik	Ulsteinvik	subst	subst	_	14	PUTFYLL	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	oss	vi	pron	pron	_	16	KOORD	_	_
+19	da	da	adv	adv	_	9	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 37
+# segstart = 182.701
+# segstop = 187.368
+# speaker = ta
+# text = ja # om å være liksom det # mest sentrale eller der de sentrale funksjonene er
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	om	om	prep	prep	_	0	FRAG	_	_
+4	å	å	inf-merke	inf-merke	_	3	PUTFYLL	_	_
+5	være	være	verb	verb	_	4	INFV	_	_
+6	liksom	liksom	adv	adv	_	5	ADV	_	_
+7	det	det	pron	pron	_	10	DET	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	mest	mye	adj	adj	_	10	ADV	_	_
+10	sentrale	sentral	adj	adj	_	5	SPRED	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	der	der	prep	prep	_	10	KOORD	_	_
+13	de	de	det	det	_	15	DET	_	_
+14	sentrale	sentral	adj	adj	_	15	ATR	_	_
+15	funksjonene	funksjon	subst	subst	_	16	SUBJ	_	_
+16	er	være	verb	verb	_	12	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 39
+# segstart = 187.368
+# segstop = 192.441
+# speaker = heroeyMR_03gm
+# text = ja Ulsteinvik meiner nå det de de ligger mest sentralt til og e geografisk sett så gjør de også det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	Ulsteinvik	Ulsteinvik	subst	subst	_	3	SUBJ	_	_
+3	meiner	mene	verb	verb	_	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	3	DOBJ	_	_
+6	de	de	pron	pron	_	7	REP	_	_
+7	de	de	pron	pron	_	8	SUBJ	_	_
+8	ligger	ligge	verb	verb	_	3	KOORD	_	_
+9	mest	mye	adj	adj	_	10	ADV	_	_
+10	sentralt	sentral	adj	adj	_	8	ADV	_	_
+11	til	til	prep	prep	_	8	ADV	_	_
+12	og	og	konj	konj	_	17	KONJ	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	geografisk	geografisk	adj	adj	_	17	ADV	_	_
+15	sett	se	adj	adj	_	14	ADV	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	gjør	gjøre	verb	verb	_	3	KOORD	_	_
+18	de	de	pron	pron	_	17	SUBJ	_	_
+19	også	også	adv	adv	_	17	ADV	_	_
+20	det	det	pron	pron	_	17	DOBJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 40
+# segstart = 192.441
+# segstop = 203.654
+# speaker = heroeyMR_03gm
+# text = for # hvis du setter passeren ned på Vik og så gjør sånn så får du med Hareid og Herøy og S1 ikkje sant og de ligger omtrent # omtrent i midten for å si det sånn da
+1	for	for	konj	konj	_	5	KONJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	hvis	hvis	sbu	sbu	_	5	SBU	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	setter	sette	verb	verb	_	0	FINV	_	_
+6	passeren	passer	subst	subst	_	5	DOBJ	_	_
+7	ned	ned	prep	prep	_	5	ADV	_	_
+8	på	på	prep	prep	_	7	PUTFYLL	_	_
+9	Vik	Vik	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	gjør	gjøre	verb	verb	_	5	KOORD	_	_
+13	sånn	sånn	adv	adv	_	12	ADV	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	får	få	verb	verb	_	13	ADV	_	_
+16	du	du	pron	pron	_	15	SUBJ	_	_
+17	med	med	prep	prep	_	15	ADV	_	_
+18	Hareid	Hareid	subst	subst	_	17	PUTFYLL	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	Herøy	Herøy	subst	subst	_	18	KOORD	_	_
+21	og	og	konj	konj	_	22	KONJ	_	_
+22	S1	S	subst	subst	_	18	KOORD	_	_
+23	ikkje	ikke	adv	adv	_	24	ADV	_	_
+24	sant	sann	adj	adj	_	15	ADV	_	_
+25	og	og	konj	konj	_	27	KONJ	_	_
+26	de	de	pron	pron	_	27	SUBJ	_	_
+27	ligger	ligge	verb	verb	_	5	KOORD	_	_
+28	omtrent	omtrent	adv	adv	_	30	REP	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	omtrent	omtrent	adv	adv	_	31	ADV	_	_
+31	i	i	prep	prep	_	27	ADV	_	_
+32	midten	midt	subst	subst	_	31	PUTFYLL	_	_
+33	for	for	prep	prep	_	27	ADV	_	_
+34	å	å	inf-merke	inf-merke	_	33	PUTFYLL	_	_
+35	si	si	verb	verb	_	34	INFV	_	_
+36	det	det	pron	pron	_	35	DOBJ	_	_
+37	sånn	sånn	adv	adv	_	35	ADV	_	_
+38	da	da	adv	adv	_	35	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 41
+# segstart = 203.654
+# segstop = 208.321
+# speaker = ta
+# text = men Vik er det er g- e hva er det for noe det er # er det Ulsteinvik du kaller Vik ?
+1	men	men	konj	konj	_	9	KONJ	_	_
+2	Vik	Vik	subst	subst	_	10	APP	_	_
+3	er	være	verb	verb	_	5	REP	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	9	REP	_	_
+6	g-	g	ufullst	ufullst	_	8	FYLL	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	hva	hva	pron	pron	_	9	SPRED	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	SUBJ	_	_
+11	for	for	prep	prep	_	9	ADV	_	_
+12	noe	noe	pron	pron	_	11	PUTFYLL	_	_
+13	det	det	pron	pron	_	14	FSUBJ	_	_
+14	er	være	verb	verb	_	16	REP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	er	være	verb	verb	_	9	KOORD	_	_
+17	det	det	pron	pron	_	16	FSUBJ	_	_
+18	Ulsteinvik	Ulsteinvik	subst	subst	_	16	SPRED	_	_
+19	du	du	pron	pron	_	20	SUBJ	_	_
+20	kaller	kalle	verb	verb	_	18	ATR	_	_
+21	Vik	Vik	subst	subst	_	20	DOBJ	_	_
+22	?	$?	clb	clb	_	9	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 42
+# segstart = 208.321
+# segstop = 208.723
+# speaker = heroeyMR_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 43
+# segstart = 208.723
+# segstop = 211.683
+# speaker = ta
+# text = ja ja slik altså tettstedet Ulsteinvik altså
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	slik	slik	adv	adv	_	1	ADV	_	_
+4	altså	altså	adv	adv	_	1	ADV	_	_
+5	tettstedet	tettsted	subst	subst	_	6	APP	_	_
+6	Ulsteinvik	Ulsteinvik	subst	subst	_	1	ADV	_	_
+7	altså	altså	adv	adv	_	1	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 44
+# segstart = 208.723
+# segstop = 211.683
+# speaker = heroeyMR_03gm
+# text = * e tettstedet ja
+1	*	*	pause	pause	_	3	IK	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	tettstedet	tettsted	subst	subst	_	4	ADV	_	_
+4	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 45
+# segstart = 211.683
+# segstop = 213.405
+# speaker = ta
+# text = akkurat # ja så du kaller det Vik …
+1	akkurat	akkurat	adv	adv	_	6	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	6	INTERJ	_	_
+4	så	så	konj	konj	_	6	KONJ	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	kaller	kalle	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	DOBJ	_	_
+8	Vik	Vik	subst	subst	_	6	OPRED	_	_
+9	…	…	pause	pause	_	6	FYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 46
+# segstart = 211.683
+# segstop = 213.405
+# speaker = heroeyMR_03gm
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 49
+# segstart = 219.057
+# segstop = 226.285
+# speaker = ta
+# text = ja da # det er ganske vanlig å gjøre det slik ja
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	ganske	ganske	adv	adv	_	5	ADV	_	_
+7	vanlig	vanlig	adj	adj	_	5	SPRED	_	_
+8	å	å	inf-merke	inf-merke	_	5	PSUBJ	_	_
+9	gjøre	gjøre	verb	verb	_	8	INFV	_	_
+10	det	det	pron	pron	_	9	DOBJ	_	_
+11	slik	slik	adv	adv	_	9	ADV	_	_
+12	ja	ja	interj	interj	_	5	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 50
+# segstart = 219.057
+# segstop = 221.429
+# speaker = heroeyMR_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 51
+# segstart = 221.429
+# segstop = 226.285
+# speaker = ta
+# text = em # skal vi se # det var e det em # e hvor var det du gikk på skole hen ?
+1	em	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	skal	skulle	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	se	se	verb	verb	_	3	INFV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	14	REP	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	det	det	pron	pron	_	8	SPRED	_	_
+11	em	e	nol	nol	_	14	FYLL	_	_
+12	#	#	pause	pause	_	14	IK	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	hvor	hvor	adv	adv	_	18	ADV	_	_
+15	var	være	verb	verb	_	3	KOORD	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	du	du	pron	pron	_	18	SUBJ	_	_
+18	gikk	gå	verb	verb	_	15	PSUBJ	_	_
+19	på	på	prep	prep	_	18	ADV	_	_
+20	skole	skole	subst	subst	_	19	PUTFYLL	_	_
+21	hen	hen	prep	prep	_	18	ADV	_	_
+22	?	$?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 52
+# segstart = 226.285
+# segstop = 228.122
+# speaker = heroeyMR_03gm
+# text = jeg gikk på skole i Volda
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	gikk	gå	verb	verb	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	skole	skole	subst	subst	_	3	PUTFYLL	_	_
+5	i	i	prep	prep	_	2	ADV	_	_
+6	Volda	Volda	subst	subst	_	5	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 53
+# segstart = 228.122
+# segstop = 230.938
+# speaker = ta
+# text = e Volda ja ja akkurat men men e n- på barneskole tenker jeg på nå
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	Volda	Volda	subst	subst	_	12	ADV	_	_
+3	ja	ja	interj	interj	_	12	INTERJ	_	_
+4	ja	ja	interj	interj	_	12	INTERJ	_	_
+5	akkurat	akkurat	adv	adv	_	12	ADV	_	_
+6	men	men	konj	konj	_	7	REP	_	_
+7	men	men	konj	konj	_	12	KONJ	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	n-	n	ufullst	ufullst	_	10	FYLL	_	_
+10	på	på	prep	prep	_	12	ADV	_	_
+11	barneskole	barneskole	subst	subst	_	10	PUTFYLL	_	_
+12	tenker	tenke	verb	verb	_	0	FINV	_	_
+13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+14	på	på	prep	prep	_	12	ADV	_	_
+15	nå	nå	adv	adv	_	12	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 54
+# segstart = 228.122
+# segstop = 230.938
+# speaker = heroeyMR_03gm
+# text = * m
+1	*	*	pause	pause	_	2	IK	_	_
+2	m	m	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 55
+# segstart = 230.938
+# segstop = 232.632
+# speaker = heroeyMR_03gm
+# text = nei det var her # i Herøy
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	her	her	prep	prep	_	3	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	i	i	prep	prep	_	4	PUTFYLL	_	_
+7	Herøy	Herøy	subst	subst	_	6	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 56
+# segstart = 232.632
+# segstop = 246.012
+# speaker = ta
+# text = ja # så det er m jeg trur det passerte en skole da jeg # da jeg kom # som ligger mellom Eggesbønes og her
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	8	REP	_	_
+6	m	m	interj	interj	_	8	INTERJ	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	trur	tru	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	passerte	passere	verb	verb	_	8	DOBJ	_	_
+11	en	en	det	det	_	12	DET	_	_
+12	skole	skole	subst	subst	_	10	DOBJ	_	_
+13	da	da	sbu	sbu	_	16	REP	_	_
+14	jeg	jeg	pron	pron	_	16	REP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	da	da	sbu	sbu	_	18	SBU	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	kom	komme	verb	verb	_	10	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	ligger	ligge	verb	verb	_	12	ATR	_	_
+22	mellom	mellom	prep	prep	_	21	ADV	_	_
+23	Eggesbønes	Eggesbønes	subst	subst	_	22	PUTFYLL	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	her	her	prep	prep	_	23	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 57
+# segstart = 241.809
+# segstop = 246.012
+# speaker = ta
+# text = eller stemmer kanskje ikke det det at det var ei kirke oppå Ås eller oppover
+1	eller	eller	konj	konj	_	2	KONJ	_	_
+2	stemmer	stemme	verb	verb	_	0	FINV	_	_
+3	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+4	ikke	ikke	adv	adv	_	2	ADV	_	_
+5	det	det	pron	pron	_	2	SUBJ	_	_
+6	det	det	pron	pron	_	8	REP	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	var	være	verb	verb	_	2	DOBJ	_	_
+10	ei	en	det	det	_	11	DET	_	_
+11	kirke	kirke	subst	subst	_	9	PSUBJ	_	_
+12	oppå	oppå	prep	prep	_	11	ATR	_	_
+13	Ås	Ås	subst	subst	_	12	PUTFYLL	_	_
+14	eller	eller	konj	konj	_	15	KONJ	_	_
+15	oppover	oppover	prep	prep	_	12	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 58
+# segstart = 241.809
+# segstop = 246.012
+# speaker = heroeyMR_03gm
+# text = * ja * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 59
+# segstart = 246.012
+# segstop = 256.644
+# speaker = heroeyMR_03gm
+# text = der ligger e s- s- største skolen barneskolen ligger oppå der # men e jeg er så gammel at jeg gikk på en skole som e ligger inni Flusund heter det
+1	der	der	prep	prep	_	2	ADV	_	_
+2	ligger	ligge	verb	verb	_	0	FINV	_	_
+3	e	e	nol	nol	_	6	FYLL	_	_
+4	s-	s	ufullst	ufullst	_	6	FYLL	_	_
+5	s-	s	ufullst	ufullst	_	6	FYLL	_	_
+6	største	stor	adj	adj	_	7	ATR	_	_
+7	skolen	skole	adj	adj	_	2	SUBJ	_	_
+8	barneskolen	barneskole	subst	subst	_	9	SUBJ	_	_
+9	ligger	ligge	verb	verb	_	2	KOORD	_	_
+10	oppå	oppå	prep	prep	_	9	ADV	_	_
+11	der	der	prep	prep	_	10	PUTFYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	men	men	konj	konj	_	16	KONJ	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	jeg	jeg	pron	pron	_	16	SUBJ	_	_
+16	er	være	verb	verb	_	2	KOORD	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	gammel	gammel	adj	adj	_	16	SPRED	_	_
+19	at	at	sbu	sbu	_	21	SBU	_	_
+20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+21	gikk	gå	verb	verb	_	18	ADV	_	_
+22	på	på	prep	prep	_	21	ADV	_	_
+23	en	en	det	det	_	24	DET	_	_
+24	skole	skole	subst	subst	_	22	PUTFYLL	_	_
+25	som	som	sbu	sbu	_	27	SBU	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	ligger	ligge	verb	verb	_	24	ATR	_	_
+28	inni	inni	prep	prep	_	27	ADV	_	_
+29	Flusund	Flusund	subst	subst	_	28	PUTFYLL	_	_
+30	heter	hete	verb	verb	_	27	PAR	_	_
+31	det	det	pron	pron	_	30	FSUBJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 60
+# segstart = 256.644
+# segstop = 269.713
+# speaker = heroeyMR_03gm
+# text = det er da e ## ja e det er det er på S2 det òg da # så det ligger vel nærmere ## ja ## e tett tett før du kommer til Eggesbønes
+1	det	det	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	11	REP	_	_
+3	da	da	adv	adv	_	2	ADV	_	_
+4	e	e	nol	nol	_	6	FYLL	_	_
+5	##	##	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	11	INTERJ	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	det	det	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	11	REP	_	_
+10	det	det	pron	pron	_	11	SUBJ	_	_
+11	er	være	verb	verb	_	0	FINV	_	_
+12	på	på	prep	prep	_	11	SPRED	_	_
+13	S2	S	subst	subst	_	12	PUTFYLL	_	_
+14	det	det	pron	pron	_	10	APP	_	_
+15	òg	òg	adv	adv	_	14	ATR	_	_
+16	da	da	adv	adv	_	11	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	så	så	konj	konj	_	20	KONJ	_	_
+19	det	det	pron	pron	_	20	SUBJ	_	_
+20	ligger	ligge	verb	verb	_	11	KOORD	_	_
+21	vel	vel	adv	adv	_	20	ADV	_	_
+22	nærmere	nær	adj	adj	_	20	ADV	_	_
+23	##	##	pause	pause	_	24	IK	_	_
+24	ja	ja	interj	interj	_	20	INTERJ	_	_
+25	##	##	pause	pause	_	27	IK	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	tett	tett	adj	adj	_	28	REP	_	_
+28	tett	tett	adj	adj	_	31	ADV	_	_
+29	før	før	sbu	sbu	_	31	SBU	_	_
+30	du	du	pron	pron	_	31	SUBJ	_	_
+31	kommer	komme	verb	verb	_	20	ADV	_	_
+32	til	til	prep	prep	_	31	ADV	_	_
+33	Eggesbønes	Eggesbønes	subst	subst	_	32	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 61
+# segstart = 269.713
+# segstop = 273.572
+# speaker = heroeyMR_03gm
+# text = så og det var ikke lenger at jeg gikk fra Eggesbønes og inn på den skolen
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	og	og	konj	konj	_	4	KONJ	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	lenger	lenge	adj	adj	_	4	SPRED	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	gikk	gå	verb	verb	_	6	ADV	_	_
+10	fra	fra	prep	prep	_	9	ADV	_	_
+11	Eggesbønes	Eggesbønes	subst	subst	_	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	inn	inn	prep	prep	_	10	KOORD	_	_
+14	på	på	prep	prep	_	13	PUTFYLL	_	_
+15	den	den	det	det	_	16	DET	_	_
+16	skolen	skole	subst	subst	_	14	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 62
+# segstart = 273.572
+# segstop = 280.995
+# speaker = ta
+# text = akkurat # er det noe spesielt du husker fra barndommen eller fra skoledagene altså fra
+1	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	noe	noen	det	det	_	6	DET	_	_
+6	spesielt	spesiell	adj	adj	_	3	PSUBJ	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	husker	huske	verb	verb	_	6	ATR	_	_
+9	fra	fra	prep	prep	_	8	ADV	_	_
+10	barndommen	barndom	subst	subst	_	9	PUTFYLL	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	fra	fra	prep	prep	_	8	KOORD	_	_
+13	skoledagene	skoledagene	det	det	_	12	PUTFYLL	_	_
+14	altså	altså	adv	adv	_	13	ADV	_	_
+15	fra	fra	prep	prep	_	8	SLETT	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 63
+# segstart = 280.995
+# segstop = 282.603
+# speaker = heroeyMR_03gm
+# text = ja hva du meiner e ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	hva	hva	pron	pron	_	4	DOBJ	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	meiner	meine	verb	verb	_	0	FINV	_	_
+5	e	e	nol	nol	_	4	FYLL	_	_
+6	?	$?	clb	clb	_	4	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 65
+# segstart = 282.603
+# segstop = 291.084
+# speaker = ta
+# text = nei om det v- skjedde noe eller e var det noe f- om det var noen hending som e det er verdt å fortelle om
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	om	om	sbu	sbu	_	5	SBU	_	_
+3	det	det	pron	pron	_	5	FSUBJ	_	_
+4	v-	v	ufullst	ufullst	_	5	FYLL	_	_
+5	skjedde	skje	verb	verb	_	0	FINV	_	_
+6	noe	noen	det	det	_	5	DOBJ	_	_
+7	eller	eller	konj	konj	_	9	KONJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	var	være	verb	verb	_	5	REP	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	noe	noen	det	det	_	9	PSUBJ	_	_
+12	f-	f	ufullst	ufullst	_	9	FYLL	_	_
+13	om	om	sbu	sbu	_	15	SBU	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	var	være	verb	verb	_	5	KOORD	_	_
+16	noen	noen	det	det	_	17	DET	_	_
+17	hending	hending	subst	subst	_	15	PSUBJ	_	_
+18	som	som	sbu	sbu	_	21	SBU	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	det	det	pron	pron	_	21	FSUBJ	_	_
+21	er	være	verb	verb	_	17	ATR	_	_
+22	verdt	verdt	adj	adj	_	21	SPRED	_	_
+23	å	å	inf-merke	inf-merke	_	22	ADV	_	_
+24	fortelle	fortelle	verb	verb	_	23	INFV	_	_
+25	om	om	prep	prep	_	24	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 67
+# segstart = 288.154
+# segstop = 291.084
+# speaker = ta
+# text = eller om e # eller hva var det dere gjorde på ?
+1	eller	eller	konj	konj	_	7	REP	_	_
+2	om	om	prep	prep	_	1	ADV	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	eller	eller	konj	konj	_	7	KONJ	_	_
+6	hva	hva	pron	pron	_	7	SPRED	_	_
+7	var	være	verb	verb	_	0	FINV	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	dere	dere	pron	pron	_	10	SUBJ	_	_
+10	gjorde	gjøre	verb	verb	_	6	ATR	_	_
+11	på	på	prep	prep	_	10	ADV	_	_
+12	?	$?	clb	clb	_	7	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 68
+# segstart = 291.084
+# segstop = 296.511
+# speaker = heroeyMR_03gm
+# text = nei ikke noe så- ikke noe sånn spesielt ## ikke noe spesielt
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	ikke	ikke	adv	adv	_	5	REP	_	_
+3	noe	noen	det	det	_	5	REP	_	_
+4	så-	så	ufullst	ufullst	_	5	FYLL	_	_
+5	ikke	ikke	adv	adv	_	8	ADV	_	_
+6	noe	noen	det	det	_	8	DET	_	_
+7	sånn	sånn	det	det	_	8	DET	_	_
+8	spesielt	spesiell	adj	adj	_	1	ADV	_	_
+9	##	##	pause	pause	_	10	IK	_	_
+10	ikke	ikke	adv	adv	_	12	ADV	_	_
+11	noe	noen	det	det	_	12	DET	_	_
+12	spesielt	spesiell	adj	adj	_	1	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 69
+# segstart = 296.511
+# segstop = 299.598
+# speaker = ta
+# text = er det er det mye snø her om e vinteren ?
+1	er	være	verb	verb	_	3	REP	_	_
+2	det	det	pron	pron	_	3	REP	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	mye	mye	adj	adj	_	6	ATR	_	_
+6	snø	snø	subst	subst	_	3	PSUBJ	_	_
+7	her	her	adv	adv	_	3	ADV	_	_
+8	om	om	prep	prep	_	3	ADV	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	vinteren	vinter	subst	subst	_	8	PUTFYLL	_	_
+11	?	$?	clb	clb	_	3	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 70
+# segstart = 299.598
+# segstop = 301.398
+# speaker = heroeyMR_03gm
+# text = det har ikke vært det før e nå i år da
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	4	ADV	_	_
+4	vært	være	verb	verb	_	2	INFV	_	_
+5	det	det	pron	pron	_	4	PSUBJ	_	_
+6	før	før	prep	prep	_	4	ADV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	nå	nå	adv	adv	_	6	PUTFYLL	_	_
+9	i	i	prep	prep	_	8	ADV	_	_
+10	år	år	subst	subst	_	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	4	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 71
+# segstart = 301.398
+# segstop = 306.254
+# speaker = ta
+# text = nei # men e er det er det noe skigåing altså har det og er det en tradisjon eller er det mer e ?
+1	nei	nei	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	7	KONJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	er	være	verb	verb	_	7	REP	_	_
+6	det	det	pron	pron	_	7	REP	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	det	det	pron	pron	_	7	FSUBJ	_	_
+9	noe	noen	det	det	_	10	DET	_	_
+10	skigåing	skigåing	subst	subst	_	7	SPRED	_	_
+11	altså	altså	adv	adv	_	12	ADV	_	_
+12	har	ha	verb	verb	_	15	REP	_	_
+13	det	det	pron	pron	_	12	SUBJ	_	_
+14	og	og	adv	adv	_	13	ATR	_	_
+15	er	være	verb	verb	_	7	KOORD	_	_
+16	det	det	pron	pron	_	15	SUBJ	_	_
+17	en	en	det	det	_	18	DET	_	_
+18	tradisjon	tradisjon	subst	subst	_	15	SPRED	_	_
+19	eller	eller	konj	konj	_	20	KONJ	_	_
+20	er	være	verb	verb	_	7	KOORD	_	_
+21	det	det	pron	pron	_	20	SUBJ	_	_
+22	mer	mye	adj	adj	_	20	SPRED	_	_
+23	e	e	nol	nol	_	22	FYLL	_	_
+24	?	$?	clb	clb	_	7	IP	_	_
+
+# 'i det hele tatt' etter INESS
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 72
+# segstart = 306.254
+# segstop = 314.215
+# speaker = heroeyMR_03gm
+# text = her er ikke noe skigåing # ikke i det heile tatt for her er # her er ikke snø # som du kan trene deg på så
+1	her	her	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	noe	noen	det	det	_	5	DET	_	_
+5	skigåing	skigåing	subst	subst	_	2	PSUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ikke	ikke	adv	adv	_	11	ADV	_	_
+8	i	i	prep	prep	_	11	ADV	_	_
+9	det	det	det	det	_	10	DET	_	_
+10	heile	heil	adj	adj	_	8	PUTFYLL	_	_
+11	tatt	tatt	adj	adj	_	2	ADV	_	_
+12	for	for	prep	prep	_	14	KONJ	_	_
+13	her	her	prep	prep	_	14	FSUBJ	_	_
+14	er	være	verb	verb	_	17	REP	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	her	her	prep	prep	_	17	ADV	_	_
+17	er	være	verb	verb	_	2	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	snø	snø	subst	subst	_	17	SUBJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	som	som	sbu	sbu	_	23	SBU	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	kan	kunne	verb	verb	_	19	ATR	_	_
+24	trene	trene	verb	verb	_	23	INFV	_	_
+25	deg	du	pron	pron	_	24	DOBJ	_	_
+26	på	på	prep	prep	_	24	ADV	_	_
+27	så	så	konj	konj	_	2	KONJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 73
+# segstart = 314.215
+# segstop = 322.463
+# speaker = heroeyMR_03gm
+# text = m de mest entusiastiske da de farer nå e med bil e # e inn i Ørsta # som oftest inn på Båndalseidet
+1	m	m	interj	interj	_	7	INTERJ	_	_
+2	de	de	pron	pron	_	4	DET	_	_
+3	mest	mye	adj	adj	_	4	ADV	_	_
+4	entusiastiske	entusiastisk	adj	adj	_	6	APP	_	_
+5	da	da	sbu	sbu	_	7	ADV	_	_
+6	de	de	pron	pron	_	7	SUBJ	_	_
+7	farer	fare	verb	verb	_	0	FINV	_	_
+8	nå	nå	adv	adv	_	7	ADV	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	med	med	prep	prep	_	7	ADV	_	_
+11	bil	bil	subst	subst	_	10	PUTFYLL	_	_
+12	e	e	nol	nol	_	15	FYLL	_	_
+13	#	#	pause	pause	_	15	IK	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	inn	inn	prep	prep	_	7	ADV	_	_
+16	i	i	prep	prep	_	15	PUTFYLL	_	_
+17	Ørsta	Ørsta	subst	subst	_	16	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	som	som	sbu	sbu	_	7	ADV	_	_
+20	oftest	ofte	adj	adj	_	19	PUTFYLL	_	_
+21	inn	inn	prep	prep	_	7	ADV	_	_
+22	på	på	prep	prep	_	21	PUTFYLL	_	_
+23	Båndalseidet	Båndalseidet	subst	subst	_	22	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 74
+# segstart = 322.463
+# segstop = 325.228
+# speaker = ta
+# text = ja # såpass langt ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	såpass	såpass	adv	adv	_	4	ADV	_	_
+4	langt	lang	adj	adj	_	1	ADV	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 75
+# segstart = 322.463
+# segstop = 325.228
+# speaker = heroeyMR_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 76
+# segstart = 325.228
+# segstop = 332.52
+# speaker = heroeyMR_03gm
+# text = så e men jeg jeg husker når jeg altså tidligere når jeg var e guttefant så husker jeg det var snø da òg da
+1	så	så	adv	adv	_	6	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	men	men	konj	konj	_	6	KONJ	_	_
+4	jeg	jeg	pron	pron	_	5	REP	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	husker	huske	verb	verb	_	17	REP	_	_
+7	når	når	sbu	sbu	_	8	SBU	_	_
+8	jeg	jeg	pron	pron	_	6	DOBJ	_	_
+9	altså	altså	adv	adv	_	13	ADV	_	_
+10	tidligere	tidlig	adj	adj	_	13	ADV	_	_
+11	når	når	sbu	sbu	_	13	SBU	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	var	være	verb	verb	_	16	APP	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	guttefant	guttefant	subst	subst	_	13	SPRED	_	_
+16	så	så	adv	adv	_	20	ADV	_	_
+17	husker	huske	verb	verb	_	0	FINV	_	_
+18	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	var	være	verb	verb	_	17	DOBJ	_	_
+21	snø	snø	subst	subst	_	20	PSUBJ	_	_
+22	da	da	adv	adv	_	20	ADV	_	_
+23	òg	òg	adv	adv	_	20	ADV	_	_
+24	da	da	adv	adv	_	17	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 78
+# segstart = 339.834
+# segstop = 347.745
+# speaker = heroeyMR_03gm
+# text = som guttunge da # men så ble der l- mildere periode og da har snø her vært vekk vært her to tre dager og så
+1	som	som	prep	prep	_	0	FRAG	_	_
+2	guttunge	guttunge	subst	subst	_	1	PUTFYLL	_	_
+3	da	da	adv	adv	_	1	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	ble	bli	verb	verb	_	1	KOORD	_	_
+8	der	der	prep	prep	_	7	FSUBJ	_	_
+9	l-	l	ufullst	ufullst	_	10	FYLL	_	_
+10	mildere	mild	adj	adj	_	11	ATR	_	_
+11	periode	periode	subst	subst	_	7	PSUBJ	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	da	da	adv	adv	_	17	ADV	_	_
+14	har	ha	verb	verb	_	7	KOORD	_	_
+15	snø	snø	subst	subst	_	14	SUBJ	_	_
+16	her	her	prep	prep	_	17	ADV	_	_
+17	vært	være	verb	verb	_	14	INFV	_	_
+18	vekk	vekk	prep	prep	_	17	SPRED	_	_
+19	vært	være	verb	verb	_	14	KOORD	_	_
+20	her	her	prep	prep	_	19	SPRED	_	_
+21	to	to	det	det	_	23	DET	_	_
+22	tre	tre	det	det	_	21	FLAT	_	_
+23	dager	dag	subst	subst	_	19	ADV	_	_
+24	og	og	konj	konj	_	23	KONJ	_	_
+25	så	så	adv	adv	_	24	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 79
+# segstart = 347.745
+# segstop = 351.967
+# speaker = heroeyMR_03gm
+# text = li- ligget rundt null grader eller sånn så er han forsvunnet igjen etter
+1	li-	li	ufullst	ufullst	_	2	REP	_	_
+2	ligget	ligge	verb	verb	_	0	FINV	_	_
+3	rundt	rundt	prep	prep	_	2	ADV	_	_
+4	null	null	det	det	_	5	DET	_	_
+5	grader	grad	subst	subst	_	3	PUTFYLL	_	_
+6	eller	eller	konj	konj	_	7	KONJ	_	_
+7	sånn	sånn	adv	adv	_	3	ADV	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	er	være	verb	verb	_	2	KOORD	_	_
+10	han	han	pron	pron	_	9	SUBJ	_	_
+11	forsvunnet	forsvinne	verb	verb	_	9	INFV	_	_
+12	igjen	igjen	adv	adv	_	11	ADV	_	_
+13	etter	etter	prep	prep	_	11	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 82
+# segstart = 355.794
+# segstop = 358.121
+# speaker = heroeyMR_03gm
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IK	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 83
+# segstart = 358.121
+# segstop = 360.272
+# speaker = heroeyMR_03gm
+# text = skikkelig streng vinter her ute med
+1	skikkelig	skikkelig	adj	adj	_	2	ADV	_	_
+2	streng	streng	adj	adj	_	3	ATR	_	_
+3	vinter	vinter	subst	subst	_	0	FRAG	_	_
+4	her	her	prep	prep	_	3	ATR	_	_
+5	ute	ute	prep	prep	_	4	PUTFYLL	_	_
+6	med	med	prep	prep	_	5	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 84
+# segstart = 360.272
+# segstop = 377.33
+# speaker = ta
+# text = ja # e # hva e eller # hvis # du hadde skullet # e oppfordra noen eller kanskje lokka noen til å bosette seg i Herøy kommune ha- e hva du ville ha lagt vekt på som liksom kan du si attraktivt med å bo her ?
+1	ja	ja	interj	interj	_	12	INTERJ	_	_
+2	#	#	pause	pause	_	5	IK	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	hva	hva	pron	pron	_	12	REP	_	_
+6	e	e	nol	nol	_	5	FYLL	_	_
+7	eller	eller	konj	konj	_	12	KONJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	hvis	hvis	sbu	sbu	_	12	SBU	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	hadde	ha	verb	verb	_	33	ADV	_	_
+13	skullet	skulle	verb	verb	_	12	INFV	_	_
+14	#	#	pause	pause	_	16	IK	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	oppfordra	oppfordre	verb	verb	_	13	INFV	_	_
+17	noen	noen	det	det	_	16	DOBJ	_	_
+18	eller	eller	konj	konj	_	20	KONJ	_	_
+19	kanskje	kanskje	adv	adv	_	20	ADV	_	_
+20	lokka	lokke	verb	verb	_	16	KOORD	_	_
+21	noen	noen	det	det	_	20	DOBJ	_	_
+22	til	til	prep	prep	_	20	ADV	_	_
+23	å	å	inf-merke	inf-merke	_	22	PUTFYLL	_	_
+24	bosette	bosette	verb	verb	_	23	INFV	_	_
+25	seg	seg	pron	pron	_	24	DOBJ	_	_
+26	i	i	prep	prep	_	24	ADV	_	_
+27	Herøy	Herøy	subst	subst	_	26	PUTFYLL	_	_
+28	kommune	kommune	subst	subst	_	27	FLAT	_	_
+29	ha-	ha	ufullst	ufullst	_	31	FYLL	_	_
+30	e	e	nol	nol	_	31	FYLL	_	_
+31	hva	hva	pron	pron	_	37	PUTFYLL	_	_
+32	du	du	pron	pron	_	33	SUBJ	_	_
+33	ville	ville	verb	verb	_	0	FINV	_	_
+34	ha	ha	verb	verb	_	33	INFV	_	_
+35	lagt	legge	verb	verb	_	34	INFV	_	_
+36	vekt	vekt	subst	subst	_	35	DOBJ	_	_
+37	på	på	prep	prep	_	35	ADV	_	_
+38	som	som	prep	prep	_	31	ATR	_	_
+39	liksom	liksom	adv	adv	_	40	ADV	_	_
+40	kan	kunne	verb	verb	_	33	PAR	_	_
+41	du	du	pron	pron	_	40	SUBJ	_	_
+42	si	si	verb	verb	_	40	INFV	_	_
+43	attraktivt	attraktiv	adj	adj	_	38	PUTFYLL	_	_
+44	med	med	prep	prep	_	43	ADV	_	_
+45	å	å	inf-merke	inf-merke	_	44	PUTFYLL	_	_
+46	bo	bo	verb	verb	_	45	INFV	_	_
+47	her	her	prep	prep	_	46	ADV	_	_
+48	?	$?	clb	clb	_	33	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 85
+# segstart = 377.33
+# segstop = 390.206
+# speaker = heroeyMR_03gm
+# text = nei det er nå selvfølgelig hvis man er interessert i e det maritime da # for e ## e Herøy kommune er en av de største maritime kommunene som er i Norge
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	selvfølgelig	selvfølgelig	adv	adv	_	3	ADV	_	_
+6	hvis	hvis	sbu	sbu	_	8	SBU	_	_
+7	man	man	pron	pron	_	8	SUBJ	_	_
+8	er	være	verb	verb	_	3	ADV	_	_
+9	interessert	interessere	adj	adj	_	8	SPRED	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	det	det	det	det	_	13	DET	_	_
+13	maritime	maritim	subst	subst	_	10	PUTFYLL	_	_
+14	da	da	adv	adv	_	8	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	for	for	prep	prep	_	22	KONJ	_	_
+17	e	e	nol	nol	_	20	FYLL	_	_
+18	##	##	pause	pause	_	20	IK	_	_
+19	e	e	nol	nol	_	20	FYLL	_	_
+20	Herøy	Herøy	subst	subst	_	22	SUBJ	_	_
+21	kommune	kommune	subst	subst	_	20	FLAT	_	_
+22	er	være	verb	verb	_	3	KOORD	_	_
+23	en	en	det	det	_	22	SPRED	_	_
+24	av	av	prep	prep	_	23	ATR	_	_
+25	de	de	det	det	_	28	DET	_	_
+26	største	stor	adj	adj	_	28	ATR	_	_
+27	maritime	maritim	adj	adj	_	28	ATR	_	_
+28	kommunene	kommune	subst	subst	_	24	PUTFYLL	_	_
+29	som	som	sbu	sbu	_	30	SBU	_	_
+30	er	være	verb	verb	_	28	ATR	_	_
+31	i	i	prep	prep	_	30	SPRED	_	_
+32	Norge	Norge	subst	subst	_	31	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 86
+# segstart = 390.206
+# segstop = 400.091
+# speaker = heroeyMR_03gm
+# text = når det gjelder både fiske og fangst altså s- ## pelagisk # fisk # det vil si sild og makrell og # og dette her som de fisker der
+1	når	når	sbu	sbu	_	3	SBU	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	gjelder	gjelde	verb	verb	_	0	FINV	_	_
+4	både	både	konj	konj	_	5	KONJ	_	_
+5	fiske	fiske	subst	subst	_	3	DOBJ	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	fangst	fangst	subst	subst	_	5	KOORD	_	_
+8	altså	altså	adv	adv	_	13	ATR	_	_
+9	s-	s	ufullst	ufullst	_	11	FYLL	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	pelagisk	pelagisk	adj	adj	_	13	ATR	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	fisk	fisk	subst	subst	_	7	APP	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	det	det	pron	pron	_	16	SUBJ	_	_
+16	vil	ville	verb	verb	_	13	APP	_	_
+17	si	si	verb	verb	_	16	INFV	_	_
+18	sild	sild	subst	subst	_	17	DOBJ	_	_
+19	og	og	konj	konj	_	20	KONJ	_	_
+20	makrell	makrell	subst	subst	_	18	KOORD	_	_
+21	og	og	konj	konj	_	23	REP	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	og	og	konj	konj	_	24	KONJ	_	_
+24	dette	dette	pron	pron	_	18	KOORD	_	_
+25	her	her	prep	prep	_	24	ATR	_	_
+26	som	som	sbu	sbu	_	28	SBU	_	_
+27	de	de	pron	pron	_	28	SUBJ	_	_
+28	fisker	fiske	verb	verb	_	24	ATR	_	_
+29	der	der	prep	prep	_	28	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 87
+# segstart = 400.091
+# segstop = 409.951
+# speaker = heroeyMR_03gm
+# text = og så # har vi da også e en kolossalt stor e # supplybåt # som er her også
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	vi	vi	pron	pron	_	4	SUBJ	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	også	også	adv	adv	_	4	ADV	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	en	en	det	det	_	14	DET	_	_
+10	kolossalt	kolossal	adj	adj	_	11	ADV	_	_
+11	stor	stor	adj	adj	_	14	ATR	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	supplybåt	supplybåt	subst	subst	_	4	DOBJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	som	som	sbu	sbu	_	17	SBU	_	_
+17	er	være	verb	verb	_	14	ATR	_	_
+18	her	her	prep	prep	_	17	ADV	_	_
+19	også	også	adv	adv	_	18	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 88
+# segstart = 409.951
+# segstop = 416.755
+# speaker = heroeyMR_03gm
+# text = så så det er klart at det hvis du interesserte deg i i jobb der # så er der uante muligheter sånn sett
+1	så	så	konj	konj	_	2	REP	_	_
+2	så	så	adv	adv	_	4	KONJ	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	klart	klar	adj	adj	_	4	SPRED	_	_
+6	at	at	sbu	sbu	_	18	SBU	_	_
+7	det	det	pron	pron	_	17	REP	_	_
+8	hvis	hvis	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	interesserte	interessere	verb	verb	_	17	APP	_	_
+11	deg	du	pron	pron	_	10	DOBJ	_	_
+12	i	i	prep	prep	_	13	REP	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	jobb	jobb	subst	subst	_	13	PUTFYLL	_	_
+15	der	der	prep	prep	_	14	ATR	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	er	være	verb	verb	_	4	PSUBJ	_	_
+19	der	der	prep	prep	_	18	FSUBJ	_	_
+20	uante	uant	adj	adj	_	21	ATR	_	_
+21	muligheter	mulighet	subst	subst	_	18	PSUBJ	_	_
+22	sånn	sånn	adv	adv	_	23	ADV	_	_
+23	sett	se	verb	verb	_	18	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 89
+# segstart = 416.755
+# segstop = 419.17
+# speaker = ta
+# text = er det lett å få jobb her for folk ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	lett	lett	adj	adj	_	1	SPRED	_	_
+4	å	å	inf-merke	inf-merke	_	1	PSUBJ	_	_
+5	få	få	verb	verb	_	4	INFV	_	_
+6	jobb	jobb	subst	subst	_	5	DOBJ	_	_
+7	her	her	prep	prep	_	5	ADV	_	_
+8	for	for	prep	prep	_	5	ADV	_	_
+9	folk	folk	subst	subst	_	8	PUTFYLL	_	_
+10	?	$?	clb	clb	_	1	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 90
+# segstart = 419.17
+# segstop = 422.279
+# speaker = heroeyMR_03gm
+# text = jeg har alltid sagt at hvis du har lyst og vil jobbe så får du jobb
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	alltid	alltid	adv	adv	_	4	ADV	_	_
+4	sagt	si	verb	verb	_	2	INFV	_	_
+5	at	at	sbu	sbu	_	14	SBU	_	_
+6	hvis	hvis	sbu	sbu	_	8	SBU	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	har	ha	verb	verb	_	13	APP	_	_
+9	lyst	lyst	subst	subst	_	8	DOBJ	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	vil	ville	verb	verb	_	8	KOORD	_	_
+12	jobbe	jobbe	verb	verb	_	11	INFV	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	får	få	verb	verb	_	4	DOBJ	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	jobb	jobb	subst	subst	_	14	DOBJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 91
+# segstart = 422.279
+# segstop = 426.372
+# speaker = ta
+# text = ja # akkurat # ja nettopp slik er det jo mange plasser da
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	8	INTERJ	_	_
+6	nettopp	nettopp	adv	adv	_	5	ADV	_	_
+7	slik	slik	adv	adv	_	8	ADV	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	jo	jo	adv	adv	_	8	ADV	_	_
+11	mange	mange	adj	adj	_	12	ATR	_	_
+12	plasser	plass	subst	subst	_	8	ADV	_	_
+13	da	da	adv	adv	_	8	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 93
+# segstart = 426.372
+# segstop = 439.479
+# speaker = heroeyMR_03gm
+# text = ja men e det er klart at det jo det herre her er vært her er det her er nesten utlysinger både på m s- # e stillinger både med hu- med og uten utdannelse hver eneste u- e uke i disse blada
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	klart	klar	adj	adj	_	5	SPRED	_	_
+7	at	at	sbu	sbu	_	19	SBU	_	_
+8	det	det	pron	pron	_	19	REP	_	_
+9	jo	jo	adv	adv	_	19	ADV	_	_
+10	det	det	pron	pron	_	13	SUBJ	_	_
+11	herre	herre	adv	adv	_	10	ATR	_	_
+12	her	her	prep	prep	_	10	ATR	_	_
+13	er	være	verb	verb	_	19	REP	_	_
+14	vært	være	verb	verb	_	13	INFV	_	_
+15	her	her	prep	prep	_	16	ADV	_	_
+16	er	være	verb	verb	_	19	REP	_	_
+17	det	det	pron	pron	_	16	FSUBJ	_	_
+18	her	her	prep	prep	_	19	FSUBJ	_	_
+19	er	være	verb	verb	_	5	PSUBJ	_	_
+20	nesten	nesten	adv	adv	_	19	ADV	_	_
+21	utlysinger	utlysing	subst	subst	_	19	PSUBJ	_	_
+22	både	både	konj	konj	_	32	REP	_	_
+23	på	på	prep	prep	_	32	ADV	_	_
+24	m	m	interj	interj	_	28	INTERJ	_	_
+25	s-	s	ufullst	ufullst	_	28	FYLL	_	_
+26	#	#	pause	pause	_	28	IK	_	_
+27	e	e	nol	nol	_	28	FYLL	_	_
+28	stillinger	stilling	subst	subst	_	23	PUTFYLL	_	_
+29	både	både	konj	konj	_	32	KONJ	_	_
+30	med	med	prep	prep	_	32	REP	_	_
+31	hu-	hu	ufullst	ufullst	_	32	FYLL	_	_
+32	med	med	prep	prep	_	19	ADV	_	_
+33	og	og	konj	konj	_	34	KONJ	_	_
+34	uten	uten	prep	prep	_	32	KOORD	_	_
+35	utdannelse	utdannelse	subst	subst	_	34	PUTFYLL	_	_
+36	hver	hver	det	det	_	40	DET	_	_
+37	eneste	eneste	det	det	_	40	ATR	_	_
+38	u-	u-	ufullst	ufullst	_	40	FYLL	_	_
+39	e	e	nol	nol	_	40	FYLL	_	_
+40	uke	uke	subst	subst	_	19	ADV	_	_
+41	i	i	prep	prep	_	40	ATR	_	_
+42	disse	disse	det	det	_	43	DET	_	_
+43	blada	blad	subst	subst	_	41	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 94
+# segstart = 439.479
+# segstop = 453.065
+# speaker = ta
+# text = ja # en se- en ser jo det når du kommer sant kjørende slik som jeg gjorde i dag da så e sl- er er det jo slående hvor mye slike industribygg og # det virker voldsomt slik e # hva jeg skal si e livskraftig næringsliv da
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	en	en	det	det	_	5	REP	_	_
+4	se-	se	ufullst	ufullst	_	5	FYLL	_	_
+5	en	en	pron	pron	_	6	SUBJ	_	_
+6	ser	se	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	det	det	pron	pron	_	6	DOBJ	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	kommer	komme	verb	verb	_	21	APP	_	_
+12	sant	sann	adj	adj	_	11	ADV	_	_
+13	kjørende	kjørende	adj	adj	_	11	ADV	_	_
+14	slik	slik	adv	adv	_	11	ADV	_	_
+15	som	som	sbu	sbu	_	17	SBU	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	gjorde	gjøre	verb	verb	_	14	ADV	_	_
+18	i	i	prep	prep	_	17	ADV	_	_
+19	dag	dag	subst	subst	_	18	PUTFYLL	_	_
+20	da	da	adv	adv	_	6	ADV	_	_
+21	så	så	adv	adv	_	25	ADV	_	_
+22	e	e	nol	nol	_	24	FYLL	_	_
+23	sl-	s	ufullst	ufullst	_	24	FYLL	_	_
+24	er	være	verb	verb	_	25	REP	_	_
+25	er	være	verb	verb	_	6	KOORD	_	_
+26	det	det	pron	pron	_	25	FSUBJ	_	_
+27	jo	jo	adv	adv	_	25	ADV	_	_
+28	slående	slående	adj	adj	_	25	SPRED	_	_
+29	hvor	hvor	adv	adv	_	30	ADV	_	_
+30	mye	mye	adj	adj	_	32	ATR	_	_
+31	slike	slik	det	det	_	32	DET	_	_
+32	industribygg	industribygg	subst	subst	_	25	PSUBJ	_	_
+33	og	og	konj	konj	_	36	KONJ	_	_
+34	#	#	pause	pause	_	35	IK	_	_
+35	det	det	pron	pron	_	36	FSUBJ	_	_
+36	virker	virke	verb	verb	_	25	KOORD	_	_
+37	voldsomt	voldsom	adj	adj	_	38	ADV	_	_
+38	slik	slik	det	det	_	36	SLETT	_	_
+39	e	e	nol	nol	_	41	FYLL	_	_
+40	#	#	pause	pause	_	41	IK	_	_
+41	hva	hva	pron	pron	_	44	DOBJ	_	_
+42	jeg	jeg	pron	pron	_	43	SUBJ	_	_
+43	skal	skulle	verb	verb	_	36	PAR	_	_
+44	si	si	verb	verb	_	43	INFV	_	_
+45	e	e	nol	nol	_	46	FYLL	_	_
+46	livskraftig	livskraftig	adj	adj	_	47	ATR	_	_
+47	næringsliv	næringsliv	subst	subst	_	36	SPRED	_	_
+48	da	da	adv	adv	_	25	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 95
+# segstart = 453.065
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = e hvert fall når det gjelder innen e offshore og e og e # så jeg vet ikke hvor mange rederi her er bare den offshoren men e her er mye # her er mye
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	hvert	hver	det	det	_	3	DET	_	_
+3	fall	fall	subst	subst	_	6	ADV	_	_
+4	når	når	sbu	sbu	_	6	SBU	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	gjelder	gjelde	verb	verb	_	0	FINV	_	_
+7	innen	innen	prep	prep	_	6	ADV	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	offshore	offshore	adj	adj	_	7	PUTFYLL	_	_
+10	og	og	konj	konj	_	12	REP	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	og	og	konj	konj	_	15	REP	_	_
+13	e	e	nol	nol	_	15	FYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	konj	konj	_	17	KONJ	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	vet	vite	verb	verb	_	6	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	hvor	hvor	adv	adv	_	20	ADV	_	_
+20	mange	mange	adj	adj	_	21	ATR	_	_
+21	rederi	rederi	subst	subst	_	23	PSUBJ	_	_
+22	her	her	prep	prep	_	23	FSUBJ	_	_
+23	er	være	verb	verb	_	17	DOBJ	_	_
+24	bare	bare	adv	adv	_	26	ATR	_	_
+25	den	den	det	det	_	26	DET	_	_
+26	offshoren	offshore	subst	subst	_	23	KOORD	_	_
+27	men	men	konj	konj	_	30	KONJ	_	_
+28	e	e	nol	nol	_	29	FYLL	_	_
+29	her	her	prep	prep	_	30	FSUBJ	_	_
+30	er	være	verb	verb	_	6	KOORD	_	_
+31	mye	mye	adj	adj	_	30	SPRED	_	_
+32	#	#	pause	pause	_	33	IK	_	_
+33	her	her	prep	prep	_	34	FSUBJ	_	_
+34	er	være	verb	verb	_	6	KOORD	_	_
+35	mye	mye	adj	adj	_	34	SPRED	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 96
+# segstart = 465.728
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = og bare lakseslakteriet nedpå # neset da n- Eggesbønes der som jeg bor er jo sier de skal være verdens største da
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	bare	bare	adv	adv	_	3	ATR	_	_
+3	lakseslakteriet	lakseslakteri	subst	subst	_	16	SUBJ	_	_
+4	nedpå	nedpå	prep	prep	_	3	ATR	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	neset	nes	subst	subst	_	4	PUTFYLL	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	n-	n	ufullst	ufullst	_	9	FYLL	_	_
+9	Eggesbønes	Eggesbønes	subst	subst	_	6	APP	_	_
+10	der	der	prep	prep	_	13	ADV	_	_
+11	som	som	sbu	sbu	_	13	SBU	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	bor	bo	verb	verb	_	9	ATR	_	_
+14	er	være	verb	verb	_	16	REP	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	sier	si	verb	verb	_	0	KOORD	_	_
+17	de	de	pron	pron	_	18	SUBJ	_	_
+18	skal	skulle	verb	verb	_	16	DOBJ	_	_
+19	være	være	verb	verb	_	18	INFV	_	_
+20	verdens	verden	subst	subst	_	21	DET	_	_
+21	største	stor	adj	adj	_	19	SPRED	_	_
+22	da	da	adv	adv	_	16	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 97
+# segstart = 474.21
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = så e jeg vet ikke om du fikk med deg det var en sånn e # gimmick som de kaller på fint
+1	så	så	konj	konj	_	4	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	vet	vite	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	om	om	sbu	sbu	_	8	SBU	_	_
+7	du	du	pron	pron	_	8	SUBJ	_	_
+8	fikk	få	verb	verb	_	4	DOBJ	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	deg	du	pron	pron	_	9	PUTFYLL	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	var	være	verb	verb	_	4	KOORD	_	_
+13	en	en	det	det	_	17	DET	_	_
+14	sånn	sånn	det	det	_	17	DET	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	gimmick	gimmick	subst	subst	_	12	PSUBJ	_	_
+18	som	som	sbu	sbu	_	20	SBU	_	_
+19	de	de	pron	pron	_	20	SUBJ	_	_
+20	kaller	kalle	verb	verb	_	17	ATR	_	_
+21	på	på	prep	prep	_	20	ADV	_	_
+22	fint	fin	adj	adj	_	21	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 98
+# segstart = 480.093
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = laks nummer ti millioner # skulle nå til e ## Kina
+1	laks	laks	subst	subst	_	6	SUBJ	_	_
+2	nummer	nummer	subst	subst	_	3	ADV	_	_
+3	ti	ti	det	det	_	4	DET	_	_
+4	millioner	million	subst	subst	_	1	ATR	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	skulle	skulle	verb	verb	_	0	FINV	_	_
+7	nå	nå	adv	adv	_	6	ADV	_	_
+8	til	til	prep	prep	_	6	ADV	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	Kina	Kina	subst	subst	_	8	PUTFYLL	_	_
+
+# 'utnevnt' flyttet fra ATR til 'kina' til INFV til 'fikk' - 'fikk utnevnt'. Enig/uenig?
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 100
+# segstart = 492.71
+# segstop = 505.081
+# speaker = heroeyMR_03gm
+# text = så e # det spørs på nå da når vi fikk denne her Kina ## e utnevnt til e ## til sånn e fredsprisgreier
+1	så	så	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	spørs	spørres	verb	verb	_	0	FINV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	nå	nå	adv	adv	_	5	ADV	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	fikk	få	verb	verb	_	5	ADV	_	_
+12	denne	denne	pron	pron	_	14	DET	_	_
+13	her	her	prep	prep	_	12	ATR	_	_
+14	Kina	Kina	subst	subst	_	17	DOBJ	_	_
+15	##	##	pause	pause	_	17	IK	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	utnevnt	utnevne	verb	verb	_	11	INFV	_	_
+18	til	til	prep	prep	_	21	REP	_	_
+19	e	e	nol	nol	_	21	FYLL	_	_
+20	##	##	pause	pause	_	21	IK	_	_
+21	til	til	prep	prep	_	17	ADV	_	_
+22	sånn	sånn	det	det	_	24	DET	_	_
+23	e	e	nol	nol	_	24	FYLL	_	_
+24	fredsprisgreier	fredsprisgreier	subst	subst	_	21	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 102
+# segstart = 505.081
+# segstop = 516.606
+# speaker = ta
+# text = ja e jeg har e hatt e det er ikke sikkert det harmonerer så godt nei
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	9	SLETT	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	hatt	ha	verb	verb	_	4	INFV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	0	KOORD	_	_
+10	ikke	ikke	adv	adv	_	9	ADV	_	_
+11	sikkert	sikker	adj	adj	_	9	SPRED	_	_
+12	det	det	pron	pron	_	13	SUBJ	_	_
+13	harmonerer	harmonere	verb	verb	_	9	PSUBJ	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	godt	god	adj	adj	_	13	ADV	_	_
+16	nei	nei	interj	interj	_	9	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 104
+# segstart = 508.577
+# segstop = 516.606
+# speaker = ta
+# text = * men jeg fikk med meg det her # e at det var e det sto en jeg tror det var hovedoppslaget Sunnmørsposten e var det i dag eller går
+1	*	*	pause	pause	_	2	IK	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	fikk	få	verb	verb	_	0	FINV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	meg	jeg	pron	pron	_	5	PUTFYLL	_	_
+7	det	det	pron	pron	_	4	DOBJ	_	_
+8	her	her	prep	prep	_	7	ATR	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	at	at	sbu	sbu	_	16	SBU	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	16	REP	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	det	det	pron	pron	_	16	FSUBJ	_	_
+16	sto	stå	verb	verb	_	7	APP	_	_
+17	en	en	det	det	_	16	ADV	_	_
+18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
+19	tror	tro	verb	verb	_	16	PAR	_	_
+20	det	det	pron	pron	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	19	DOBJ	_	_
+22	hovedoppslaget	hovedoppslag	subst	subst	_	21	SPRED	_	_
+23	Sunnmørsposten	Sunnmørsposten	subst	subst	_	21	ADV	_	_
+24	e	e	nol	nol	_	25	FYLL	_	_
+25	var	være	verb	verb	_	16	KOORD	_	_
+26	det	det	pron	pron	_	25	SUBJ	_	_
+27	i	i	prep	prep	_	25	ADV	_	_
+28	dag	dag	subst	subst	_	27	PUTFYLL	_	_
+29	eller	eller	konj	konj	_	30	KONJ	_	_
+30	går	går	subst	subst	_	28	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 105
+# segstart = 508.577
+# segstop = 516.606
+# speaker = heroeyMR_03gm
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 109
+# segstart = 521.965
+# segstop = 526.364
+# speaker = heroeyMR_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 114
+# segstart = 545.901
+# segstop = 547.321
+# speaker = heroeyMR_03gm
+# text = e sånn forstod jeg det ja
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	sånn	sånn	adv	adv	_	3	ADV	_	_
+3	forstod	forstå	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	det	det	pron	pron	_	3	DOBJ	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 115
+# segstart = 547.321
+# segstop = 556.247
+# speaker = ta
+# text = ja det så slik ut # det gjorde det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	så	se	verb	verb	_	0	FINV	_	_
+4	slik	slik	adv	adv	_	3	ADV	_	_
+5	ut	ut	prep	prep	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	SUBJ	_	_
+8	gjorde	gjøre	verb	verb	_	3	KOORD	_	_
+9	det	det	pron	pron	_	8	SPRED	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 116
+# segstart = 547.321
+# segstop = 550.288
+# speaker = heroeyMR_03gm
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 117
+# segstart = 550.288
+# segstop = 556.247
+# speaker = ta
+# text = er det hvordan er det e altså det er sikkert ikke så mye jordbruk her eller er det # fins det ?
+1	er	være	verb	verb	_	9	REP	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	hvordan	hvordan	adv	adv	_	4	ADV	_	_
+4	er	være	verb	verb	_	9	REP	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	altså	altså	adv	adv	_	9	ADV	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	sikkert	sikker	adj	adj	_	9	ADV	_	_
+11	ikke	ikke	adv	adv	_	9	ADV	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	mye	mye	adj	adj	_	14	ATR	_	_
+14	jordbruk	jordbruk	subst	subst	_	9	PSUBJ	_	_
+15	her	her	prep	prep	_	9	ADV	_	_
+16	eller	eller	konj	konj	_	20	KONJ	_	_
+17	er	være	verb	verb	_	20	REP	_	_
+18	det	det	pron	pron	_	17	FSUBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	fins	finnes	verb	verb	_	9	KOORD	_	_
+21	det	det	pron	pron	_	20	FSUBJ	_	_
+22	?	$?	clb	clb	_	9	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 118
+# segstart = 556.247
+# segstop = 569.982
+# speaker = heroeyMR_03gm
+# text = e ja # det fins # men e # ikke på S2 # lenger her er noen små ## småbønder for å kalle det som har ei femten tjue tretti sauer
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	fins	finnes	verb	verb	_	0	FINV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	men	men	konj	konj	_	11	KONJ	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ikke	ikke	adv	adv	_	11	ADV	_	_
+11	på	på	prep	prep	_	5	KOORD	_	_
+12	S2	S	subst	subst	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	lenger	lenger	adv	adv	_	11	ADV	_	_
+15	her	her	prep	prep	_	16	FSUBJ	_	_
+16	er	være	verb	verb	_	5	KOORD	_	_
+17	noen	noen	det	det	_	20	DET	_	_
+18	små	liten	adj	adj	_	20	REP	_	_
+19	##	##	pause	pause	_	20	IK	_	_
+20	småbønder	småbonde	subst	subst	_	16	PSUBJ	_	_
+21	for	for	prep	prep	_	20	ATR	_	_
+22	å	å	inf-merke	inf-merke	_	21	PUTFYLL	_	_
+23	kalle	kalle	verb	verb	_	22	INFV	_	_
+24	det	det	pron	pron	_	23	DOBJ	_	_
+25	som	som	sbu	sbu	_	26	SBU	_	_
+26	har	ha	verb	verb	_	20	ATR	_	_
+27	ei	en	adv	adv	_	30	ADV	_	_
+28	femten	femten	det	det	_	30	FLAT	_	_
+29	tjue	tjue	det	det	_	30	FLAT	_	_
+30	tretti	tretti	det	det	_	31	DET	_	_
+31	sauer	sau	subst	subst	_	26	DOBJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 119
+# segstart = 569.982
+# segstop = 580.056
+# speaker = heroeyMR_03gm
+# text = men e # m jeg vil nå si her her er her er # hvis du farer lenger utover # mot Igesund og farer over mot Nærlandsøya
+1	men	men	konj	konj	_	6	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	m	m	interj	interj	_	6	INTERJ	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	vil	ville	verb	verb	_	0	FINV	_	_
+7	nå	nå	adv	adv	_	8	ADV	_	_
+8	si	si	verb	verb	_	6	INFV	_	_
+9	her	her	prep	prep	_	11	REP	_	_
+10	her	her	prep	prep	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	13	REP	_	_
+12	her	her	prep	prep	_	13	FSUBJ	_	_
+13	er	være	verb	verb	_	17	REP	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	hvis	hvis	sbu	sbu	_	17	SBU	_	_
+16	du	du	pron	pron	_	17	SUBJ	_	_
+17	farer	fare	verb	verb	_	8	DOBJ	_	_
+18	lenger	lenger	adv	adv	_	19	ADV	_	_
+19	utover	utover	prep	prep	_	17	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	mot	mot	prep	prep	_	19	PUTFYLL	_	_
+22	Igesund	Igesund	subst	subst	_	21	PUTFYLL	_	_
+23	og	og	konj	konj	_	24	KONJ	_	_
+24	farer	fare	verb	verb	_	17	KOORD	_	_
+25	over	over	prep	prep	_	24	ADV	_	_
+26	mot	mot	prep	prep	_	25	PUTFYLL	_	_
+27	Nærlandsøya	Nærlandsøya	subst	subst	_	26	PUTFYLL	_	_
+
+# Endret hode for KOORD fra 'småbruk' til 'det'
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 120
+# segstart = 580.056
+# segstop = 584.45
+# speaker = heroeyMR_03gm
+# text = der er der er mer # av den sorten da men det bare bare småbruk
+1	der	der	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	4	REP	_	_
+3	der	der	prep	prep	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	mer	mye	adj	adj	_	4	PSUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	av	av	prep	prep	_	5	ADV	_	_
+8	den	den	det	det	_	9	DET	_	_
+9	sorten	sort	subst	subst	_	7	PUTFYLL	_	_
+10	da	da	adv	adv	_	4	ADV	_	_
+11	men	men	konj	konj	_	12	KONJ	_	_
+12	det	det	pron	pron	_	4	KOORD	_	_
+13	bare	bare	adv	adv	_	12	REP	_	_
+14	bare	bare	adv	adv	_	12	ATR	_	_
+15	småbruk	småbruk	subst	subst	_	12	SPRED	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 125
+# segstart = 595.021
+# segstop = 597.269
+# speaker = ta
+# text = ja som går e hele året rundt ute ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	går	gå	verb	verb	_	0	FINV	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	hele	hel	adj	adj	_	6	ATR	_	_
+6	året	år	subst	subst	_	7	PUTFYLL	_	_
+7	rundt	rundt	prep	prep	_	3	ADV	_	_
+8	ute	ute	adv	adv	_	3	ADV	_	_
+9	?	$?	clb	clb	_	3	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 127
+# segstart = 597.269
+# segstop = 597.573
+# speaker = heroeyMR_03gm
+# text = går heile året ja
+1	går	gå	verb	verb	_	0	FINV	_	_
+2	heile	heil	adj	adj	_	3	ATR	_	_
+3	året	år	subst	subst	_	1	ADV	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 128
+# segstart = 597.269
+# segstop = 597.573
+# speaker = ta
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 129
+# segstart = 597.573
+# segstop = 599.704
+# speaker = heroeyMR_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 130
+# segstart = 599.704
+# segstop = 601.216
+# speaker = ta
+# text = e # hvis du skulle ha t- # ja ?
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	hvis	hvis	sbu	sbu	_	5	SBU	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	skulle	skulle	verb	verb	_	0	FINV	_	_
+6	ha	ha	verb	verb	_	5	INFV	_	_
+7	t-	t	ufullst	ufullst	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ja	ja	interj	interj	_	5	INTERJ	_	_
+10	?	$?	clb	clb	_	5	IP	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 132
+# segstart = 601.216
+# segstop = 609.529
+# speaker = heroeyMR_03gm
+# text = nei da så så e så e det å ha kyr # og melkeproduksjon er jo blitt nedbygd i de siste åra så
+1	nei	nei	interj	interj	_	15	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	så	så	konj	konj	_	6	REP	_	_
+4	så	så	konj	konj	_	6	REP	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	så	så	konj	konj	_	15	KONJ	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	det	det	pron	pron	_	15	SUBJ	_	_
+9	å	å	inf-merke	inf-merke	_	8	APP	_	_
+10	ha	ha	verb	verb	_	9	INFV	_	_
+11	kyr	ku	subst	subst	_	10	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	melkeproduksjon	melkeproduksjon	subst	subst	_	11	KOORD	_	_
+15	er	være	verb	verb	_	0	FINV	_	_
+16	jo	jo	adv	adv	_	17	ADV	_	_
+17	blitt	bli	verb	verb	_	15	INFV	_	_
+18	nedbygd	nedbygge	verb	verb	_	17	INFV	_	_
+19	i	i	prep	prep	_	18	ADV	_	_
+20	de	de	det	det	_	22	DET	_	_
+21	siste	sist	adj	adj	_	22	ATR	_	_
+22	åra	år	subst	subst	_	19	PUTFYLL	_	_
+23	så	så	konj	konj	_	15	KONJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 133
+# segstart = 609.529
+# segstop = 613.109
+# speaker = heroeyMR_03gm
+# text = der er kanskje noen en håndfull igjen her ute
+1	der	der	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+4	noen	noen	det	det	_	6	REP	_	_
+5	en	en	det	det	_	6	DET	_	_
+6	håndfull	håndfull	subst	subst	_	2	PSUBJ	_	_
+7	igjen	igjen	adv	adv	_	2	ADV	_	_
+8	her	her	prep	prep	_	2	ADV	_	_
+9	ute	ute	prep	prep	_	8	PUTFYLL	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 134
+# segstart = 613.109
+# segstop = 626.813
+# speaker = ta
+# text = ja ## e hvis du skulle altså altså lagt e m eller hvis du skulle ha sagt noe som ikke var så positivt med å hvis noen skulle flytte hit da er det noe # du kommer på i farten der ? # e
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	hvis	hvis	sbu	sbu	_	6	SBU	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	skulle	skulle	verb	verb	_	15	REP	_	_
+7	altså	altså	adv	adv	_	9	REP	_	_
+8	altså	altså	adv	adv	_	9	ADV	_	_
+9	lagt	legge	verb	verb	_	6	INFV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	m	m	interj	interj	_	9	INTERJ	_	_
+12	eller	eller	konj	konj	_	15	KONJ	_	_
+13	hvis	hvis	sbu	sbu	_	15	SBU	_	_
+14	du	du	pron	pron	_	15	SUBJ	_	_
+15	skulle	skulle	verb	verb	_	32	KOORD	_	_
+16	ha	ha	verb	verb	_	15	INFV	_	_
+17	sagt	si	verb	verb	_	16	INFV	_	_
+18	noe	noe	pron	pron	_	17	DOBJ	_	_
+19	som	som	sbu	sbu	_	21	SBU	_	_
+20	ikke	ikke	adv	adv	_	21	ADV	_	_
+21	var	være	verb	verb	_	18	ATR	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	positivt	positiv	adj	adj	_	21	SPRED	_	_
+24	med	med	prep	prep	_	23	ADV	_	_
+25	å	å	inf-merke	inf-merke	_	24	PUTFYLL	_	_
+26	hvis	hvis	sbu	sbu	_	28	SBU	_	_
+27	noen	noen	pron	pron	_	28	SUBJ	_	_
+28	skulle	skulle	verb	verb	_	29	REP	_	_
+29	flytte	flytte	verb	verb	_	25	INFV	_	_
+30	hit	hit	prep	prep	_	29	ADV	_	_
+31	da	da	adv	adv	_	21	ADV	_	_
+32	er	være	verb	verb	_	0	FINV	_	_
+33	det	det	pron	pron	_	32	FSUBJ	_	_
+34	noe	noen	det	det	_	32	PSUBJ	_	_
+35	#	#	pause	pause	_	36	IK	_	_
+36	du	du	pron	pron	_	37	SUBJ	_	_
+37	kommer	komme	verb	verb	_	34	ATR	_	_
+38	på	på	prep	prep	_	37	ADV	_	_
+39	i	i	prep	prep	_	37	ADV	_	_
+40	farten	fart	subst	subst	_	39	PUTFYLL	_	_
+41	der	der	prep	prep	_	37	ADV	_	_
+42	?	$?	clb	clb	_	32	IP	_	_
+43	#	#	pause	pause	_	42	IK	_	_
+44	e	e	nol	nol	_	43	FYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 135
+# segstart = 613.109
+# segstop = 626.813
+# speaker = heroeyMR_03gm
+# text = * ja *
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	2	IK	_	_
+
+# Mulig 'værmessig' skal ta DET 'noe' og stå til verbet?
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 136
+# segstart = 626.813
+# segstop = 644.493
+# speaker = heroeyMR_03gm
+# text = nei he- her er en jo i utkant da # det er her og e # hvis man ikke liker vind og vær og sørvestkuling og og regnet rundt Statt som du veit om så # er ikke her noe for e ## værmessig da
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	he-	he	ufullst	ufullst	_	3	FYLL	_	_
+3	her	her	prep	prep	_	4	ADV	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	en	en	det	det	_	4	SUBJ	_	_
+6	jo	jo	adv	adv	_	4	ADV	_	_
+7	i	i	prep	prep	_	4	SPRED	_	_
+8	utkant	utkant	subst	subst	_	7	PUTFYLL	_	_
+9	da	da	adv	adv	_	4	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	det	det	pron	pron	_	12	PSUBJ	_	_
+12	er	være	verb	verb	_	4	KOORD	_	_
+13	her	her	prep	prep	_	12	FSUBJ	_	_
+14	og	og	konj	konj	_	20	KONJ	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	hvis	hvis	sbu	sbu	_	20	SBU	_	_
+18	man	man	pron	pron	_	20	SUBJ	_	_
+19	ikke	ikke	adv	adv	_	20	ADV	_	_
+20	liker	like	verb	verb	_	35	APP	_	_
+21	vind	vind	subst	subst	_	20	DOBJ	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	vær	vær	subst	subst	_	21	KOORD	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	sørvestkuling	sørvestkuling	subst	subst	_	21	KOORD	_	_
+26	og	og	konj	konj	_	27	REP	_	_
+27	og	og	konj	konj	_	28	KONJ	_	_
+28	regnet	regn	subst	subst	_	21	KOORD	_	_
+29	rundt	rundt	prep	prep	_	28	ADV	_	_
+30	Statt	Statt	subst	subst	_	29	PUTFYLL	_	_
+31	som	som	sbu	sbu	_	33	SBU	_	_
+32	du	du	pron	pron	_	33	SUBJ	_	_
+33	veit	vite	verb	verb	_	28	ATR	_	_
+34	om	om	prep	prep	_	33	ADV	_	_
+35	så	så	adv	adv	_	37	ADV	_	_
+36	#	#	pause	pause	_	37	IK	_	_
+37	er	være	verb	verb	_	12	KOORD	_	_
+38	ikke	ikke	adv	adv	_	37	ADV	_	_
+39	her	her	prep	prep	_	37	FSUBJ	_	_
+40	noe	noe	pron	pron	_	37	PSUBJ	_	_
+41	for	for	prep	prep	_	40	ADV	_	_
+42	e	e	nol	nol	_	44	FYLL	_	_
+43	##	##	pause	pause	_	44	IK	_	_
+44	værmessig	værmessig	subst	subst	_	37	ADV	_	_
+45	da	da	adv	adv	_	37	ADV	_	_
+
+# Endret struktur på APP fra 'noe' som hode til 'negativt'
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 137
+# segstart = 644.493
+# segstop = 654.229
+# speaker = heroeyMR_03gm
+# text = her er veldig sånn men e ## nei noe annet negativt ## nei det vet ikke jeg ## nei
+1	her	her	prep	prep	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	veldig	veldig	adj	adj	_	4	ADV	_	_
+4	sånn	sånn	adv	adv	_	2	SPRED	_	_
+5	men	men	konj	konj	_	15	KONJ	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	##	##	pause	pause	_	8	IK	_	_
+8	nei	nei	interj	interj	_	15	INTERJ	_	_
+9	noe	noen	det	det	_	10	DET	_	_
+10	annet	annen	det	det	_	11	DET	_	_
+11	negativt	negativ	adj	adj	_	14	APP	_	_
+12	##	##	pause	pause	_	13	IK	_	_
+13	nei	nei	interj	interj	_	15	INTERJ	_	_
+14	det	det	pron	pron	_	15	DOBJ	_	_
+15	vet	vite	verb	verb	_	2	KOORD	_	_
+16	ikke	ikke	adv	adv	_	15	ADV	_	_
+17	jeg	jeg	pron	pron	_	15	SUBJ	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	nei	nei	interj	interj	_	15	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 138
+# segstart = 654.229
+# segstop = 672.057
+# speaker = ta
+# text = nei # da e bare t- til slutt her em e det her fuglefjellet utpå Runde
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	da	da	adv	adv	_	7	ADV	_	_
+4	e	e	nol	nol	_	7	FYLL	_	_
+5	bare	bare	adv	adv	_	7	ADV	_	_
+6	t-	t	ufullst	ufullst	_	7	FYLL	_	_
+7	til	til	prep	prep	_	1	KOORD	_	_
+8	slutt	slutt	subst	subst	_	7	PUTFYLL	_	_
+9	her	her	prep	prep	_	7	PUTFYLL	_	_
+10	em	e	nol	nol	_	12	FYLL	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	det	det	pron	pron	_	14	DET	_	_
+13	her	her	prep	prep	_	12	ATR	_	_
+14	fuglefjellet	fuglefjell	subst	subst	_	1	KOORD	_	_
+15	utpå	utpå	prep	prep	_	14	ATR	_	_
+16	Runde	Runde	subst	subst	_	15	PUTFYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 139
+# segstart = 659.891
+# segstop = 660.338
+# speaker = heroeyMR_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 140
+# segstart = 660.338
+# segstop = 672.057
+# speaker = ta
+# text = er det noe # e jeg har hørt at # at e det ikke er så mye fugl lenger eller er s- e er det noe som er ## omtalt her ?
+1	er	være	verb	verb	_	7	SLETT	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	noe	noen	det	det	_	1	PSUBJ	_	_
+4	#	#	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+7	har	ha	verb	verb	_	0	FINV	_	_
+8	hørt	høre	verb	verb	_	7	INFV	_	_
+9	at	at	sbu	sbu	_	11	REP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	at	at	sbu	sbu	_	15	SBU	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	det	det	pron	pron	_	15	FSUBJ	_	_
+14	ikke	ikke	adv	adv	_	15	ADV	_	_
+15	er	være	verb	verb	_	8	DOBJ	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	mye	mye	adj	adj	_	18	ATR	_	_
+18	fugl	fugl	subst	subst	_	15	PSUBJ	_	_
+19	lenger	lenger	adv	adv	_	15	ADV	_	_
+20	eller	eller	konj	konj	_	24	KONJ	_	_
+21	er	være	verb	verb	_	24	REP	_	_
+22	s-	s	ufullst	ufullst	_	24	FYLL	_	_
+23	e	e	nol	nol	_	24	FYLL	_	_
+24	er	være	verb	verb	_	7	KOORD	_	_
+25	det	det	pron	pron	_	24	SUBJ	_	_
+26	noe	noe	pron	pron	_	24	SPRED	_	_
+27	som	som	sbu	sbu	_	28	SBU	_	_
+28	er	være	verb	verb	_	26	ATR	_	_
+29	##	##	pause	pause	_	30	IK	_	_
+30	omtalt	omtale	verb	verb	_	28	INFV	_	_
+31	her	her	prep	prep	_	30	ADV	_	_
+32	?	$?	clb	clb	_	7	IP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 141
+# segstart = 672.057
+# segstop = 681.629
+# speaker = heroeyMR_03gm
+# text = nei veldig lite det s- veldig lite du ser det i e her ute da at det er omtalt her for e # e nå e
+1	nei	nei	interj	interj	_	9	INTERJ	_	_
+2	veldig	veldig	adj	adj	_	3	ADV	_	_
+3	lite	lite	adj	adj	_	1	ADV	_	_
+4	det	det	pron	pron	_	6	REP	_	_
+5	s-	s	ufullst	ufullst	_	6	FYLL	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	lite	lite	adj	adj	_	1	ADV	_	_
+8	du	du	pron	pron	_	9	SUBJ	_	_
+9	ser	se	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	DOBJ	_	_
+11	i	i	prep	prep	_	13	REP	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	her	her	prep	prep	_	9	ADV	_	_
+14	ute	ute	prep	prep	_	13	PUTFYLL	_	_
+15	da	da	adv	adv	_	9	ADV	_	_
+16	at	at	sbu	sbu	_	18	SBU	_	_
+17	det	det	pron	pron	_	18	SUBJ	_	_
+18	er	være	verb	verb	_	10	APP	_	_
+19	omtalt	omtale	verb	verb	_	18	INFV	_	_
+20	her	her	prep	prep	_	19	ADV	_	_
+21	for	for	konj	konj	_	9	KONJ	_	_
+22	e	e	nol	nol	_	25	FYLL	_	_
+23	#	#	pause	pause	_	25	IK	_	_
+24	e	e	nol	nol	_	25	FYLL	_	_
+25	nå	nå	adv	adv	_	9	ADV	_	_
+26	e	e	nol	nol	_	25	FYLL	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 142
+# segstart = 681.629
+# segstop = 685.442
+# speaker = heroeyMR_03gm
+# text = hvis du f- hvis du farer ut der når der er fugl i fjella så er der mye fugl enda
+1	hvis	hvis	sbu	sbu	_	6	REP	_	_
+2	du	du	pron	pron	_	6	REP	_	_
+3	f-	f	ufullst	ufullst	_	4	FYLL	_	_
+4	hvis	hvis	sbu	sbu	_	6	SBU	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	farer	fare	verb	verb	_	15	APP	_	_
+7	ut	ut	prep	prep	_	6	ADV	_	_
+8	der	der	prep	prep	_	7	PUTFYLL	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	der	der	prep	prep	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	6	KOORD	_	_
+12	fugl	fugl	subst	subst	_	11	PSUBJ	_	_
+13	i	i	prep	prep	_	11	ADV	_	_
+14	fjella	fjell	det	det	_	13	PUTFYLL	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	er	være	verb	verb	_	0	FINV	_	_
+17	der	der	prep	prep	_	16	FSUBJ	_	_
+18	mye	mye	adj	adj	_	19	ATR	_	_
+19	fugl	fugl	subst	subst	_	16	PSUBJ	_	_
+20	enda	enda	adv	adv	_	16	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 143
+# segstart = 685.442
+# segstop = 685.744
+# speaker = ta
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# Bytta rekkefølge på APPene - E1 som dependent til 'de', igjen dependent til 'de'
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 144
+# segstart = 685.744
+# segstop = 703.48
+# speaker = heroeyMR_03gm
+# text = ja # men det er klart han E1 og denne gjengen her de som e driver tellinga de ser # her er visse variasjoner da
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	klart	klar	adj	adj	_	5	SPRED	_	_
+7	han	han	pron	pron	_	8	DET	_	_
+8	E1	E	subst	subst	_	13	APP	_	_
+9	og	og	konj	konj	_	8	KONJ	_	_
+10	denne	denne	det	det	_	11	DET	_	_
+11	gjengen	gjeng	subst	subst	_	9	KOORD	_	_
+12	her	her	prep	prep	_	11	ATR	_	_
+13	de	de	pron	pron	_	18	APP	_	_
+14	som	som	sbu	sbu	_	16	SBU	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	driver	drive	verb	verb	_	13	ATR	_	_
+17	tellinga	telling	subst	subst	_	16	DOBJ	_	_
+18	de	de	pron	pron	_	19	SUBJ	_	_
+19	ser	se	verb	verb	_	5	PSUBJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	her	her	prep	prep	_	22	FSUBJ	_	_
+22	er	være	verb	verb	_	19	DOBJ	_	_
+23	visse	viss	adj	adj	_	24	ATR	_	_
+24	variasjoner	variasjon	subst	subst	_	22	PSUBJ	_	_
+25	da	da	adv	adv	_	22	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 145
+# segstart = 693.236
+# segstop = 703.48
+# speaker = heroeyMR_03gm
+# text = men at det det har minka e fra nå og fra en del tiår tilbake det # det har nok gjort men der er # for oss vanlige folk å fare ut der så er der masse fugler enda
+1	men	men	konj	konj	_	5	KONJ	_	_
+2	at	at	sbu	sbu	_	5	SBU	_	_
+3	det	det	pron	pron	_	4	REP	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	18	APP	_	_
+6	minka	minke	verb	verb	_	5	INFV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	fra	fra	prep	prep	_	6	ADV	_	_
+9	nå	nå	adv	adv	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	fra	fra	prep	prep	_	8	KOORD	_	_
+12	en	en	det	det	_	13	DET	_	_
+13	del	del	subst	subst	_	14	DET	_	_
+14	tiår	tiår	subst	subst	_	11	PUTFYLL	_	_
+15	tilbake	tilbake	prep	prep	_	14	ATR	_	_
+16	det	det	pron	pron	_	18	REP	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	det	det	pron	pron	_	19	SUBJ	_	_
+19	har	ha	verb	verb	_	0	FINV	_	_
+20	nok	nok	adv	adv	_	21	ADV	_	_
+21	gjort	gjøre	verb	verb	_	19	INFV	_	_
+22	men	men	konj	konj	_	24	KONJ	_	_
+23	der	der	prep	prep	_	24	FSUBJ	_	_
+24	er	være	verb	verb	_	35	REP	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	for	for	prep	prep	_	34	APP	_	_
+27	oss	vi	pron	pron	_	26	PUTFYLL	_	_
+28	vanlige	vanlig	adj	adj	_	29	ATR	_	_
+29	folk	folk	subst	subst	_	27	APP	_	_
+30	å	å	inf-merke	inf-merke	_	27	ATR	_	_
+31	fare	fare	verb	verb	_	30	INFV	_	_
+32	ut	ut	prep	prep	_	31	ADV	_	_
+33	der	der	prep	prep	_	32	PUTFYLL	_	_
+34	så	så	adv	adv	_	35	ADV	_	_
+35	er	være	verb	verb	_	19	KOORD	_	_
+36	der	der	prep	prep	_	35	FSUBJ	_	_
+37	masse	masse	adj	adj	_	38	ATR	_	_
+38	fugler	fugl	subst	subst	_	35	PSUBJ	_	_
+39	enda	enda	adv	adv	_	35	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 146
+# segstart = 693.236
+# segstop = 703.48
+# speaker = ta
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 147
+# segstart = 703.48
+# segstop = 703.972
+# speaker = heroeyMR_03gm
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 148
+# segstart = 703.972
+# segstop = 709.06
+# speaker = ta
+# text = ja jeg var der for et par år siden det var nå mye fugl da det var lundefugl og alt
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	der	der	prep	prep	_	3	SPRED	_	_
+5	for	for	prep	prep	_	3	ADV	_	_
+6	et	en	det	det	_	7	DET	_	_
+7	par	par	subst	subst	_	8	DET	_	_
+8	år	år	subst	subst	_	5	PUTFYLL	_	_
+9	siden	siden	adv	adv	_	8	ATR	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	var	være	verb	verb	_	3	KOORD	_	_
+12	nå	nå	adv	adv	_	11	ADV	_	_
+13	mye	mye	adj	adj	_	14	ATR	_	_
+14	fugl	fugl	subst	subst	_	11	PSUBJ	_	_
+15	da	da	adv	adv	_	11	ADV	_	_
+16	det	det	pron	pron	_	17	FSUBJ	_	_
+17	var	være	verb	verb	_	3	KOORD	_	_
+18	lundefugl	lundefugl	subst	subst	_	17	PSUBJ	_	_
+19	og	og	konj	konj	_	18	KONJ	_	_
+20	alt	alt	adv	adv	_	18	KOORD	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 149
+# segstart = 703.972
+# segstop = 709.06
+# speaker = heroeyMR_03gm
+# text = * ja * ja da
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	2	INTERJ	_	_
+5	da	da	adv	adv	_	2	ADV	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 150
+# segstart = 709.06
+# segstop = 709.841
+# speaker = heroeyMR_03gm
+# text = det er det er det
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	4	REP	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	SPRED	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 151
+# segstart = 709.841
+# segstop = 719.813
+# speaker = ta
+# text = ja ## skal vi se # da trur jeg nesten vi sier kan si oss ferdig jeg
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	skal	skulle	verb	verb	_	0	FINV	_	_
+4	vi	vi	pron	pron	_	3	SUBJ	_	_
+5	se	se	verb	verb	_	3	INFV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	trur	tru	verb	verb	_	3	KOORD	_	_
+9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+10	nesten	nesten	adv	adv	_	8	ADV	_	_
+11	vi	vi	pron	pron	_	13	SUBJ	_	_
+12	sier	si	verb	verb	_	13	REP	_	_
+13	kan	kunne	verb	verb	_	8	DOBJ	_	_
+14	si	si	verb	verb	_	13	INFV	_	_
+15	oss	vi	pron	pron	_	14	DOBJ	_	_
+16	ferdig	ferdig	adj	adj	_	14	OPRED	_	_
+17	jeg	jeg	pron	pron	_	9	APP	_	_
+
+# annotator = SR, VDT
+# file = heroeyMR_03gm-ta
+# id = 153
+# segstart = 715.998
+# segstop = 719.813
+# speaker = ta
+# text = vi har da vel snakka en cirka tjue minutter
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	da	da	adv	adv	_	5	ADV	_	_
+4	vel	vel	adv	adv	_	5	ADV	_	_
+5	snakka	snakke	verb	verb	_	2	INFV	_	_
+6	en	en	adv	adv	_	9	ATR	_	_
+7	cirka	cirka	adv	adv	_	9	ATR	_	_
+8	tjue	tjue	det	det	_	9	DET	_	_
+9	minutter	minutt	subst	subst	_	5	ADV	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 154
+# segstart = 717.773
+# segstop = 718.68
+# speaker = heroeyMR_03gm
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# annotator = SR
+# file = heroeyMR_03gm-ta
+# id = 155
+# segstart = 718.68
+# segstop = 719.813
+# speaker = ta
+# text = så da får du ha takk
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	får	få	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	ha	ha	verb	verb	_	3	INFV	_	_
+6	takk	takk	subst	subst	_	5	DOBJ	_	_
+

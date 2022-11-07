@@ -1,0 +1,2776 @@
+# file = joelster_02uk-ov
+# id = 1
+# segstart = 6.677
+# segstop = 12.258
+# speaker = ov
+# text = ok da har jeg noen spørsmål her # # e hvor er du født og oppvokst ?
+1	ok	ok	adj	adj	_	2	FYLL	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	noen	noen	det	det	_	6	DET	_	_
+6	spørsmål	spørsmål	subst	subst	_	3	DOBJ	_	_
+7	her	her	prep	prep	_	3	ADV	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	hvor	hvor	adv	adv	_	12	ADV	_	_
+12	er	være	verb	verb	_	3	KOORD	_	_
+13	du	du	pron	pron	_	12	SUBJ	_	_
+14	født	føde	verb	verb	_	12	SPRED	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	oppvokst	oppvokst	adj	adj	_	14	KOORD	_	_
+17	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 2
+# segstart = 12.258
+# segstop = 16.216
+# speaker = joelster_02uk
+# text = jeg er født her på Vassenden # inni Gjesdalen og vokste opp der
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	født	føde	adj	adj	_	2	SPRED	_	_
+4	her	her	prep	prep	_	3	ADV	_	_
+5	på	på	prep	prep	_	4	PUTFYLL	_	_
+6	Vassenden	vassende	subst	subst	_	5	PUTFYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	inni	inni	prep	prep	_	2	ADV	_	_
+9	Gjesdalen	gjesdale	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	vokste	vokse	verb	verb	_	2	KOORD	_	_
+12	opp	opp	prep	prep	_	11	ADV	_	_
+13	der	der	prep	prep	_	11	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 3
+# segstart = 16.216
+# segstop = 17.79
+# speaker = ov
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 4
+# segstart = 16.574
+# segstop = 16.812
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 5
+# segstart = 16.812
+# segstop = 17.79
+# speaker = ov
+# text = Nesdalen hvor er det ?
+1	Nesdalen	Nesdalen	subst	subst	_	3	ADV	_	_
+2	hvor	hvor	adv	adv	_	3	SPRED	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SPRED	_	_
+5	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 6
+# segstart = 17.79
+# segstop = 19.483
+# speaker = joelster_02uk
+# text = Gjesdalen det er sko-
+1	Gjesdalen	gjesdale	subst	subst	_	2	APP	_	_
+2	det	det	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	sko-	sko-	ufullst	ufullst	_	3	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 7
+# segstart = 17.79
+# segstop = 19.483
+# speaker = ov
+# text = * Gjesdalen ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	Gjesdalen	gjesdale	subst	subst	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 8
+# segstart = 19.483
+# segstop = 23.466
+# speaker = joelster_02uk
+# text = skolen ligger i Gjesdalen liksom så det er # innafor e # her
+1	skolen	skole	subst	subst	_	2	SUBJ	_	_
+2	ligger	ligge	verb	verb	_	0	FINV	_	_
+3	i	i	prep	prep	_	2	ADV	_	_
+4	Gjesdalen	gjesdale	subst	subst	_	3	PUTFYLL	_	_
+5	liksom	liksom	adv	adv	_	2	ADV	_	_
+6	så	så	adv	adv	_	8	KONJ	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	2	KOORD	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	innafor	innafor	prep	prep	_	13	REP	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	her	her	prep	prep	_	8	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 9
+# segstart = 23.466
+# segstop = 23.809
+# speaker = ov
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 10
+# segstart = 23.809
+# segstop = 25.216
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 11
+# segstart = 25.216
+# segstop = 27.219
+# speaker = ov
+# text = hvordan var det å vokse opp her da ?
+1	hvordan	hvordan	adv	adv	_	2	ADV	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	FSUBJ	_	_
+4	å	å	inf-merke	inf-merke	_	2	PSUBJ	_	_
+5	vokse	vokse	verb	verb	_	4	INFV	_	_
+6	opp	opp	prep	prep	_	5	ADV	_	_
+7	her	her	prep	prep	_	5	ADV	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 12
+# segstart = 27.219
+# segstop = 37.116
+# speaker = joelster_02uk
+# text = nei det var nå jeg trur det er ganske sånn som det er å vokse opp andre plasser # det er nå litt sånn bygde- ## ja # det er nå ei bygd da # em
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	trur	tru	verb	verb	_	3	KOORD	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	6	DOBJ	_	_
+9	ganske	ganske	adv	adv	_	10	ADV	_	_
+10	sånn	sånn	adv	adv	_	8	SPRED	_	_
+11	som	som	sbu	sbu	_	13	SBU	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	er	være	verb	verb	_	10	ADV	_	_
+14	å	å	inf-merke	inf-merke	_	13	PSUBJ	_	_
+15	vokse	vokse	verb	verb	_	14	INFV	_	_
+16	opp	opp	prep	prep	_	15	ADV	_	_
+17	andre	andre	det	det	_	18	DET	_	_
+18	plasser	plassere	subst	subst	_	15	DOBJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	det	det	pron	pron	_	21	FSUBJ	_	_
+21	er	være	verb	verb	_	3	KOORD	_	_
+22	nå	nå	adv	adv	_	21	ADV	_	_
+23	litt	litt	adj	adj	_	24	ADV	_	_
+24	sånn	sånn	det	det	_	22	ADV	_	_
+25	bygde-	bygde-	ufullst	ufullst	_	27	FYLL	_	_
+26	##	##	pause	pause	_	27	IK	_	_
+27	ja	ja	interj	interj	_	30	INTERJ	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	det	det	pron	pron	_	30	FSUBJ	_	_
+30	er	være	verb	verb	_	3	KOORD	_	_
+31	nå	nå	adv	adv	_	30	ADV	_	_
+32	ei	ei	det	det	_	30	SPRED	_	_
+33	bygd	bygge	subst	subst	_	32	SPRED	_	_
+34	da	da	adv	adv	_	33	ADV	_	_
+35	#	#	pause	pause	_	34	FYLL	_	_
+36	em	em	ukjent	ukjent	_	35	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 13
+# segstart = 37.116
+# segstop = 44.485
+# speaker = joelster_02uk
+# text = og ellers så var det nå e mye # aktiviteter ## som vi kunne være med på # som vi var med på og sånn
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	ellers	ellers	adv	adv	_	3	FYLL	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	nå	nå	adv	adv	_	4	ADV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	mye	mye	adj	adj	_	10	ATR	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	aktiviteter	aktivitet	subst	subst	_	4	SPRED	_	_
+11	##	##	pause	pause	_	12	IK	_	_
+12	som	som	sbu	sbu	_	14	SBU	_	_
+13	vi	vi	pron	pron	_	14	SUBJ	_	_
+14	kunne	kunne	verb	verb	_	10	ATR	_	_
+15	være	være	verb	verb	_	14	INFV	_	_
+16	med	med	prep	prep	_	15	ADV	_	_
+17	på	på	prep	prep	_	19	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	som	som	sbu	sbu	_	20	SBU	_	_
+20	vi	vi	pron	pron	_	21	SUBJ	_	_
+21	var	være	verb	verb	_	4	KOORD	_	_
+22	med	med	prep	prep	_	20	ADV	_	_
+23	på	på	prep	prep	_	22	ADV	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	sånn	sånn	adv	adv	_	23	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 14
+# segstart = 44.485
+# segstop = 50.757
+# speaker = ov
+# text = mm ## hva var det e hva er det første du kan huske ifra barndommen ?
+1	mm	mm	interj	interj	_	8	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	hva	hva	pron	pron	_	8	SUBJ	_	_
+4	var	være	verb	verb	_	3	ADV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	hva	hva	pron	pron	_	4	DET	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	det	det	det	det	_	10	DET	_	_
+10	første	første	adj	adj	_	7	APP	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	kan	kan	verb	verb	_	10	ATR	_	_
+13	huske	huske	verb	verb	_	12	INFV	_	_
+14	ifra	ifra	prep	prep	_	13	ADV	_	_
+15	barndommen	barndom	subst	subst	_	14	PUTFYLL	_	_
+16	?	?	clb	clb	_	4	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 15
+# segstart = 50.757
+# segstop = 54.835
+# speaker = joelster_02uk
+# text = # oi ## det første
+1	#	#	pause	pause	_	2	IK	_	_
+2	oi	oie	adv	adv	_	0	ADV	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	det	det	det	det	_	5	DET	_	_
+5	første	første	adj	adj	_	2	ATR	_	_
+
+# file = joelster_02uk-ov
+# id = 16
+# segstart = 54.835
+# segstop = 59.843
+# speaker = ov
+# text = ja har du noe minne liksom e # # ett eller annet #
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	noe	noe	det	det	_	5	DET	_	_
+5	minne	minne	subst	subst	_	2	DOBJ	_	_
+6	liksom	liksom	adv	adv	_	5	ADV	_	_
+7	e	e	nol	nol	_	10	FYLL	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ett	ett	det	det	_	12	DET	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	annet	annet	det	det	_	2	KOORD	_	_
+13	#	#	pause	pause	_	12	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 17
+# segstart = 59.843
+# segstop = 61.369
+# speaker = joelster_02uk
+# text = en episode liksom eller
+1	en	en	det	det	_	2	DET	_	_
+2	episode	episode	subst	subst	_	0	FRAG	_	_
+3	liksom	liksom	adv	adv	_	2	ATR	_	_
+4	eller	eller	konj	konj	_	3	KONJ	_	_
+
+# file = joelster_02uk-ov
+# id = 18
+# segstart = 61.369
+# segstop = 66.472
+# speaker = ov
+# text = ja liksom når du tenker tilbake # det første du husker når du var # skikkelig liten
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	liksom	liksom	adv	adv	_	1	ADV	_	_
+3	når	når	sbu	sbu	_	5	SBU	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	tenker	tenke	verb	verb	_	1	ADV	_	_
+6	tilbake	tilbake	prep	prep	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	det	det	_	9	DET	_	_
+9	første	første	adj	adj	_	5	DOBJ	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	husker	huske	verb	verb	_	9	KOORD	_	_
+12	når	når	sbu	sbu	_	14	SBU	_	_
+13	du	du	pron	pron	_	14	SUBJ	_	_
+14	var	være	verb	verb	_	11	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	skikkelig	skikkelig	adj	adj	_	17	ADV	_	_
+17	liten	liten	adj	adj	_	14	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 19
+# segstart = 66.472
+# segstop = 79.445
+# speaker = joelster_02uk
+# text = # em ## jeg husker at vi var ute og segla på akebrett en gang # i e bakken heime og så e # for jeg hadde e fått meg heilt nytt akebrett
+1	#	#	pause	pause	_	4	IK	_	_
+2	em	em	ukjent	ukjent	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	husker	huske	verb	verb	_	0	FINV	_	_
+6	at	at	sbu	sbu	_	8	SBU	_	_
+7	vi	vi	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	5	DOBJ	_	_
+9	ute	ute	prep	prep	_	8	SPRED	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	segla	segl	verb	verb	_	8	KOORD	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	akebrett	akebrett	subst	subst	_	12	PUTFYLL	_	_
+14	en	en	det	det	_	15	DET	_	_
+15	gang	gang	subst	subst	_	8	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	i	i	prep	prep	_	8	ADV	_	_
+18	e	e	nol	nol	_	19	FYLL	_	_
+19	bakken	bakke	subst	subst	_	17	PUTFYLL	_	_
+20	heime	heime	prep	prep	_	19	ATR	_	_
+21	og	og	konj	konj	_	27	KONJ	_	_
+22	så	så	adv	adv	_	27	ADV	_	_
+23	e	e	nol	nol	_	25	FYLL	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	for	for	konj	konj	_	27	KONJ	_	_
+26	jeg	jeg	pron	pron	_	25	DET	_	_
+27	hadde	ha	verb	verb	_	5	KOORD	_	_
+28	e	e	nol	nol	_	29	FYLL	_	_
+29	fått	få	verb	verb	_	27	INFV	_	_
+30	meg	meg	pron	pron	_	29	IOBJ	_	_
+31	heilt	heil	adj	adj	_	32	ADV	_	_
+32	nytt	nyte	adj	adj	_	33	ATR	_	_
+33	akebrett	akebrett	subst	subst	_	29	DOBJ	_	_
+
+# file = joelster_02uk-ov
+# id = 20
+# segstart = 79.445
+# segstop = 87.72
+# speaker = joelster_02uk
+# text = jeg var med # de to eldre søstrene mine # # og så for jeg utfor kanten # det er liksom det m # første dramatiske jeg husker da
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	med	med	prep	prep	_	2	SPRED	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	de	de	det	det	_	8	DET	_	_
+6	to	to	det	det	_	8	DET	_	_
+7	eldre	gammel	adj	adj	_	8	ATR	_	_
+8	søstrene	søster	subst	subst	_	3	PUTFYLL	_	_
+9	mine	mine	det	det	_	8	DET	_	_
+10	#	#	pause	pause	_	9	IK	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	20	KONJ	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	for	for	konj	konj	_	20	KONJ	_	_
+15	jeg	jeg	pron	pron	_	14	PUTFYLL	_	_
+16	utfor	utfor	prep	prep	_	15	KOORD	_	_
+17	kanten	kant	subst	subst	_	16	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	er	være	verb	verb	_	2	KOORD	_	_
+21	liksom	liksom	adv	adv	_	20	ADV	_	_
+22	det	det	pron	pron	_	20	SPRED	_	_
+23	m	m	inf-merke	inf-merke	_	28	INTERJ	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	første	første	adj	adj	_	26	ATR	_	_
+26	dramatiske	dramatisk	subst	subst	_	27	APP	_	_
+27	jeg	jeg	pron	pron	_	28	SUBJ	_	_
+28	husker	huske	verb	verb	_	2	KOORD	_	_
+29	da	da	adv	adv	_	28	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 21
+# segstart = 87.72
+# segstop = 92.664
+# speaker = joelster_02uk
+# text = for det var ganske høg mur ned # # det er liksom det første sånn
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	ganske	ganske	adv	adv	_	5	ADV	_	_
+5	høg	høg	adj	adj	_	6	ATR	_	_
+6	mur	mur	subst	subst	_	3	SPRED	_	_
+7	ned	ned	prep	prep	_	3	ADV	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	er	være	verb	verb	_	3	KOORD	_	_
+12	liksom	liksom	adv	adv	_	11	ADV	_	_
+13	det	det	det	det	_	14	DET	_	_
+14	første	første	adj	adj	_	11	SPRED	_	_
+15	sånn	sånn	adv	adv	_	11	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 22
+# segstart = 92.664
+# segstop = 94.667
+# speaker = ov
+# text = hvor gammel tror du du var # da ?
+1	hvor	hvor	adv	adv	_	3	ADV	_	_
+2	gammel	gammel	adj	adj	_	6	SPRED	_	_
+3	tror	tro	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	3	DOBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	da	da	adv	adv	_	6	ADV	_	_
+9	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 23
+# segstart = 94.667
+# segstop = 99.675
+# speaker = joelster_02uk
+# text = e nei jeg kan ikke m # jeg var kanskje en # fire # tre fire år
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	nei	nei	interj	interj	_	4	INTERJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	kan	kan	verb	verb	_	9	REP	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	m	m	verb	verb	_	9	INTERJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	var	være	verb	verb	_	0	FINV	_	_
+10	kanskje	kanskje	adv	adv	_	9	ADV	_	_
+11	en	en	det	det	_	17	DET	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	fire	fire	det	det	_	17	DET	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	tre	tre	det	det	_	17	DET	_	_
+16	fire	fire	det	det	_	17	DET	_	_
+17	år	år	subst	subst	_	9	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 24
+# segstart = 99.675
+# segstop = 104.182
+# speaker = ov
+# text = ja # mm ## hvor gikk du på skole hen da ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	6	INTERJ	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	hvor	hvor	adv	adv	_	6	ADV	_	_
+6	gikk	gå	verb	verb	_	0	FINV	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	skole	skole	subst	subst	_	8	PUTFYLL	_	_
+10	hen	hen	prep	prep	_	6	ADV	_	_
+11	da	da	adv	adv	_	6	ADV	_	_
+12	?	?	clb	clb	_	6	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 25
+# segstart = 104.182
+# segstop = 105.716
+# speaker = joelster_02uk
+# text = gikk på skole her på Vassenden
+1	gikk	gå	verb	verb	_	0	FINV	_	_
+2	på	på	prep	prep	_	1	ADV	_	_
+3	skole	skole	subst	subst	_	2	PUTFYLL	_	_
+4	her	her	prep	prep	_	1	ADV	_	_
+5	på	på	prep	prep	_	1	ADV	_	_
+6	Vassenden	vassende	subst	subst	_	5	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 26
+# segstart = 105.716
+# segstop = 106.217
+# speaker = ov
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 27
+# segstart = 106.217
+# segstop = 106.551
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 28
+# segstart = 106.551
+# segstop = 108.101
+# speaker = ov
+# text = # denne skolen ?
+1	#	#	pause	pause	_	2	IK	_	_
+2	denne	denne	det	det	_	3	DET	_	_
+3	skolen	skole	subst	subst	_	0	APP	_	_
+4	?	?	clb	clb	_	0	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 29
+# segstart = 108.101
+# segstop = 109.174
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 30
+# segstart = 109.174
+# segstop = 112.632
+# speaker = ov
+# text = mm # sa du nå Vassenden ?
+1	mm	mm	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	sa	si	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	nå	nå	adv	adv	_	3	ADV	_	_
+6	Vassenden	vassende	subst	subst	_	3	DOBJ	_	_
+7	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 31
+# segstart = 112.632
+# segstop = 113.371
+# speaker = joelster_02uk
+# text = Vassenden ja
+1	Vassenden	vassende	subst	subst	_	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 32
+# segstart = 113.371
+# segstop = 115.851
+# speaker = ov
+# text = mm # med liksom Vass- Vassenden
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	med	med	prep	prep	_	1	ADV	_	_
+4	liksom	liksom	adv	adv	_	6	ADV	_	_
+5	Vass-	Vass-	ufullst	ufullst	_	6	FYLL	_	_
+6	Vassenden	vassende	subst	subst	_	3	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 34
+# segstart = 115.851
+# segstop = 116.519
+# speaker = joelster_02uk
+# text = Vassenden
+1	Vassenden	vassende	subst	subst	_	0	FRAG	_	_
+
+# file = joelster_02uk-ov
+# id = 35
+# segstart = 116.519
+# segstop = 119.691
+# speaker = ov
+# text = mm det er det det heter ? # liksom
+1	mm	mm	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SPRED	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	heter	hete	verb	verb	_	4	ATR	_	_
+7	?	?	clb	clb	_	3	IK	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	liksom	liksom	adv	adv	_	6	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 36
+# segstart = 116.519
+# segstop = 119.691
+# speaker = joelster_02uk
+# text = * e * ja
+1	*	*	pause	pause	_	4	IK	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	*	*	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 37
+# segstart = 119.691
+# segstop = 121.575
+# speaker = joelster_02uk
+# text = vi sier det men det
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	sier	si	verb	verb	_	0	FINV	_	_
+3	det	det	pron	pron	_	2	DOBJ	_	_
+4	men	men	konj	konj	_	5	KONJ	_	_
+5	det	det	pron	pron	_	2	KOORD	_	_
+
+# file = joelster_02uk-ov
+# id = 38
+# segstart = 121.575
+# segstop = 123.936
+# speaker = ov
+# text = # det er ikke Vassenden altså ?
+1	#	#	pause	pause	_	2	IK	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	Vassenden	vassende	subst	subst	_	3	SPRED	_	_
+6	altså	altså	adv	adv	_	3	ADV	_	_
+7	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 39
+# segstart = 123.936
+# segstop = 124.413
+# speaker = joelster_02uk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 40
+# segstart = 124.413
+# segstop = 130.923
+# speaker = ov
+# text = nei ## artig ## e har du noen minner ifra skoledagene da ?
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	artig	artig	adj	adj	_	6	ADV	_	_
+4	##	##	pause	pause	_	6	IK	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	har	ha	verb	verb	_	0	FINV	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+8	noen	noen	det	det	_	9	DET	_	_
+9	minner	minne	subst	subst	_	6	DOBJ	_	_
+10	ifra	ifra	prep	prep	_	9	ATR	_	_
+11	skoledagene	skoledag	subst	subst	_	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	6	ADV	_	_
+13	?	?	clb	clb	_	6	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 41
+# segstart = 130.923
+# segstop = 138.84
+# speaker = joelster_02uk
+# text = ja # det var mye # galt # ja vi var en gans- …
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	mye	mye	adj	adj	_	4	SPRED	_	_
+6	#	#	pause	pause	_	5	IK	_	_
+7	galt	gale	adj	adj	_	5	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ja	ja	interj	interj	_	11	INTERJ	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	var	være	verb	verb	_	4	KOORD	_	_
+12	en	en	det	det	_	11	DET	_	_
+13	gans-	gans-	ufullst	ufullst	_	4	FYLL	_	_
+14	…	…	ukjent	ukjent	_	4	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 43
+# segstart = 138.84
+# segstop = 140.009
+# speaker = ov
+# text = kanskje så galt at ikke skal ta det på teip ?
+1	kanskje	kanskje	adv	adv	_	3	ADV	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	galt	gale	adj	adj	_	0	FRAG	_	_
+4	at	at	sbu	sbu	_	6	SBU	_	_
+5	ikke	ikke	adv	adv	_	6	ADV	_	_
+6	skal	skal	verb	verb	_	3	ADV	_	_
+7	ta	ta	verb	verb	_	6	INFV	_	_
+8	det	det	pron	pron	_	7	DOBJ	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	teip	teipe	subst	subst	_	9	PUTFYLL	_	_
+11	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 44
+# segstart = 138.84
+# segstop = 140.009
+# speaker = joelster_02uk
+# text = e
+1	e	e	nol	nol	_	0	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 45
+# segstart = 140.009
+# segstop = 150.955
+# speaker = joelster_02uk
+# text = ja kanskje # vi var en ganske vilter klasse # em ## så det var ikke så veldig mange som klarte å # holde oss helt nedpå jorda
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	vi	vi	pron	pron	_	5	SUBJ	_	_
+5	var	være	verb	verb	_	0	FINV	_	_
+6	en	en	det	det	_	9	DET	_	_
+7	ganske	ganske	adv	adv	_	8	ADV	_	_
+8	vilter	vilte	adj	adj	_	9	ATR	_	_
+9	klasse	klasse	subst	subst	_	5	SPRED	_	_
+10	#	#	pause	pause	_	13	IK	_	_
+11	em	em	ukjent	ukjent	_	13	FYLL	_	_
+12	##	##	pause	pause	_	13	IK	_	_
+13	så	så	konj	konj	_	15	KONJ	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	var	være	verb	verb	_	5	KOORD	_	_
+16	ikke	ikke	adv	adv	_	15	ADV	_	_
+17	så	så	adv	adv	_	15	ADV	_	_
+18	veldig	veldig	adj	adj	_	19	ADV	_	_
+19	mange	mange	adj	adj	_	17	SPRED	_	_
+20	som	som	sbu	sbu	_	21	SBU	_	_
+21	klarte	klare	verb	verb	_	19	ADV	_	_
+22	å	å	inf-merke	inf-merke	_	21	DOBJ	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	holde	holde	verb	verb	_	22	INFV	_	_
+25	oss	oss	pron	pron	_	24	DOBJ	_	_
+26	helt	hele	adj	adj	_	27	ADV	_	_
+27	nedpå	nedpå	prep	prep	_	24	ADV	_	_
+28	jorda	jorde	subst	subst	_	27	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 46
+# segstart = 150.955
+# segstop = 158.753
+# speaker = joelster_02uk
+# text = vi var fire og tjue stykker i klassen da # der halvparten var jenter og halvparten var gutter # em # og m # gu-
+1	vi	vi	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	fire	fire	det	det	_	6	DET	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	tjue	tjue	det	det	_	3	KOORD	_	_
+6	stykker	stykke	subst	subst	_	2	SPRED	_	_
+7	i	i	prep	prep	_	6	ATR	_	_
+8	klassen	klasse	subst	subst	_	7	PUTFYLL	_	_
+9	da	da	adv	adv	_	2	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	der	der	prep	prep	_	13	ADV	_	_
+12	halvparten	halvpart	subst	subst	_	13	SUBJ	_	_
+13	var	være	verb	verb	_	2	ADV	_	_
+14	jenter	jente	subst	subst	_	13	SPRED	_	_
+15	og	og	konj	konj	_	17	KONJ	_	_
+16	halvparten	halvpart	subst	subst	_	17	SUBJ	_	_
+17	var	være	verb	verb	_	2	KOORD	_	_
+18	gutter	gutt	subst	subst	_	17	SPRED	_	_
+19	#	#	pause	pause	_	22	IK	_	_
+20	em	em	ukjent	ukjent	_	22	FYLL	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	og	og	konj	konj	_	23	KONJ	_	_
+23	m	m	interj	interj	_	2	INTERJ	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	gu-	gu-	ufullst	ufullst	_	2	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 47
+# segstart = 158.753
+# segstop = 167.227
+# speaker = joelster_02uk
+# text = ja # jentene var nå omtrent like gale som guttene iallfall # i mangt og mye #
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	1	IK	_	_
+3	jentene	jente	subst	subst	_	4	SUBJ	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	omtrent	omtrent	adv	adv	_	4	ADV	_	_
+7	like	like	adv	adv	_	8	ADV	_	_
+8	gale	gale	adj	adj	_	4	SPRED	_	_
+9	som	som	prep	prep	_	8	ADV	_	_
+10	guttene	gutt	subst	subst	_	9	PUTFYLL	_	_
+11	iallfall	iallfall	adv	adv	_	13	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	4	ADV	_	_
+14	mangt	mangt	det	det	_	13	PUTFYLL	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	mye	mye	adj	adj	_	14	KOORD	_	_
+17	#	#	pause	pause	_	16	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 48
+# segstart = 167.227
+# segstop = 174.62
+# speaker = ov
+# text = e ja # du sa jo at det var mye å gjøre på og hva var det du pleide å gjøre på fritida ? #
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	du	du	pron	pron	_	5	SUBJ	_	_
+5	sa	si	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	var	være	verb	verb	_	5	DOBJ	_	_
+10	mye	mye	adj	adj	_	9	SPRED	_	_
+11	å	å	inf-merke	inf-merke	_	10	PSUBJ	_	_
+12	gjøre	gjøre	verb	verb	_	11	INFV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	hva	hva	pron	pron	_	16	SPRED	_	_
+16	var	være	verb	verb	_	5	KOORD	_	_
+17	det	det	pron	pron	_	16	FSUBJ	_	_
+18	du	du	pron	pron	_	19	SUBJ	_	_
+19	pleide	pleie	verb	verb	_	16	ATR	_	_
+20	å	å	inf-merke	inf-merke	_	19	DOBJ	_	_
+21	gjøre	gjøre	verb	verb	_	20	INFV	_	_
+22	på	på	prep	prep	_	21	ADV	_	_
+23	fritida	fritid	subst	subst	_	22	PUTFYLL	_	_
+24	?	?	clb	clb	_	5	SBU	_	_
+25	#	#	pause	pause	_	24	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 49
+# segstart = 174.62
+# segstop = 185.685
+# speaker = joelster_02uk
+# text = em jeg er litt sånn organisasjonsmenneske da # så e Ungdomslaget og 4H det er på måte det som har # opptatt meg i det meste av ## oppveksten
+1	em	em	ukjent	ukjent	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	litt	litt	adj	adj	_	5	ADV	_	_
+5	sånn	sånn	det	det	_	6	DET	_	_
+6	organisasjonsmenneske	organisasjonsmennesk	subst	subst	_	3	SPRED	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	så	så	adv	adv	_	3	ADV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	Ungdomslaget	ungdomslag	subst	subst	_	9	DET	_	_
+12	og	og	konj	konj	_	15	KONJ	_	_
+13	4H	4H	adv	adv	_	12	KOORD	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	er	være	verb	verb	_	3	KOORD	_	_
+16	på	på	prep	prep	_	15	ADV	_	_
+17	måte	måte	subst	subst	_	16	PUTFYLL	_	_
+18	det	det	pron	pron	_	15	SPRED	_	_
+19	som	som	sbu	sbu	_	22	SBU	_	_
+20	har	ha	verb	verb	_	22	REP	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	opptatt	opptatt	adj	adj	_	18	ATR	_	_
+23	meg	meg	pron	pron	_	22	DOBJ	_	_
+24	i	i	prep	prep	_	22	ADV	_	_
+25	det	det	det	det	_	26	DET	_	_
+26	meste	mye	adj	adj	_	24	PUTFYLL	_	_
+27	av	av	prep	prep	_	22	ADV	_	_
+28	##	##	pause	pause	_	29	IK	_	_
+29	oppveksten	oppvekst	subst	subst	_	27	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 50
+# segstart = 185.685
+# segstop = 191.147
+# speaker = joelster_02uk
+# text = dans # gjorde jeg # eller jeg har # dan- dansa gammaldans #
+1	dans	dans	subst	subst	_	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	gjorde	gjøre	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	eller	eller	konj	konj	_	8	KONJ	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	har	ha	verb	verb	_	11	REP	_	_
+9	#	#	pause	pause	_	11	IK	_	_
+10	dan-	dan-	ufullst	ufullst	_	11	FYLL	_	_
+11	dansa	danse	adj	adj	_	3	KOORD	_	_
+12	gammaldans	gammaldans	subst	subst	_	11	DOBJ	_	_
+13	#	#	pause	pause	_	12	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 51
+# segstart = 191.147
+# segstop = 202.141
+# speaker = ov
+# text = mm # ## ja # em hvordan vil du e karakterisere språket her da ? # # på Vassenden # der du vokste opp
+1	mm	mm	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	1	IK	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	8	INTERJ	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	em	em	ukjent	ukjent	_	7	FYLL	_	_
+7	hvordan	hvordan	adv	adv	_	11	REP	_	_
+8	vil	vil	verb	verb	_	0	FINV	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	karakterisere	karakterisere	verb	verb	_	8	INFV	_	_
+12	språket	språk	subst	subst	_	11	DOBJ	_	_
+13	her	her	prep	prep	_	11	ADV	_	_
+14	da	da	adv	adv	_	11	ADV	_	_
+15	?	?	clb	clb	_	8	IK	_	_
+16	#	#	pause	pause	_	15	IK	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	på	på	prep	prep	_	16	ATR	_	_
+19	Vassenden	vassende	subst	subst	_	18	PUTFYLL	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	der	der	prep	prep	_	23	ADV	_	_
+22	du	du	pron	pron	_	23	SUBJ	_	_
+23	vokste	vokse	verb	verb	_	16	ATR	_	_
+24	opp	opp	prep	prep	_	23	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 52
+# segstart = 202.141
+# segstop = 211.775
+# speaker = joelster_02uk
+# text = em ## nei det er jo litt sånn at de som kommer ifra # bygg- altså da- litt dalene de e # snakker litt breiere enn de som # kommer fra byggefelta
+1	em	em	ukjent	ukjent	_	3	FYLL	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	nei	nei	interj	interj	_	5	INTERJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	litt	litt	adj	adj	_	8	ADV	_	_
+8	sånn	sånn	adv	adv	_	5	SPRED	_	_
+9	at	at	sbu	sbu	_	23	SBU	_	_
+10	de	de	pron	pron	_	23	SUBJ	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	kommer	komme	verb	verb	_	10	ATR	_	_
+13	ifra	ifra	prep	prep	_	12	ADV	_	_
+14	#	#	pause	pause	_	16	IK	_	_
+15	bygg-	bygg-	ufullst	ufullst	_	16	FYLL	_	_
+16	altså	altså	adv	adv	_	12	ADV	_	_
+17	da-	da-	ufullst	ufullst	_	18	FYLL	_	_
+18	litt	litt	adj	adj	_	19	ADV	_	_
+19	dalene	dal	adj	adj	_	20	APP	_	_
+20	de	de	pron	pron	_	23	SUBJ	_	_
+21	e	e	nol	nol	_	23	FYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	snakker	snakke	verb	verb	_	8	APP	_	_
+24	litt	litt	adj	adj	_	25	ADV	_	_
+25	breiere	breiere	adj	adj	_	23	ADV	_	_
+26	enn	enn	prep	prep	_	30	SBU	_	_
+27	de	de	pron	pron	_	30	SUBJ	_	_
+28	som	som	sbu	sbu	_	30	SBU	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	kommer	komme	verb	verb	_	23	ADV	_	_
+31	fra	fra	prep	prep	_	30	ADV	_	_
+32	byggefelta	byggefelte	subst	subst	_	31	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 53
+# segstart = 211.775
+# segstop = 220.864
+# speaker = joelster_02uk
+# text = for der er jo det veldig mye # tilflyttere ## sånn at # der er det jo ganske utvatna ## em ja
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	3	FSUBJ	_	_
+6	veldig	veldig	adj	adj	_	7	ADV	_	_
+7	mye	mye	adj	adj	_	9	ATR	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	tilflyttere	tilflytter	subst	subst	_	3	SPRED	_	_
+10	##	##	pause	pause	_	11	IK	_	_
+11	sånn	sånn	adv	adv	_	12	ADV	_	_
+12	at	at	sbu	sbu	_	15	SBU	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	der	der	adv	adv	_	15	ADV	_	_
+15	er	være	verb	verb	_	3	KOORD	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	jo	jo	adv	adv	_	15	ADV	_	_
+18	ganske	ganske	adv	adv	_	19	ADV	_	_
+19	utvatna	utvatne	adj	adj	_	15	SPRED	_	_
+20	##	##	pause	pause	_	22	IK	_	_
+21	em	em	ukjent	ukjent	_	22	FYLL	_	_
+22	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 54
+# segstart = 220.864
+# segstop = 223.797
+# speaker = ov
+# text = er det blitt annerledes nå enn det var da du # var liten ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	blitt	blive	verb	verb	_	1	INFV	_	_
+4	annerledes	annerledes	adj	adj	_	3	SPRED	_	_
+5	nå	nå	adv	adv	_	3	ADV	_	_
+6	enn	enn	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	var	være	verb	verb	_	1	ADV	_	_
+9	da	da	adv	adv	_	12	SBU	_	_
+10	du	du	pron	pron	_	12	SUBJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	var	være	verb	verb	_	1	ADV	_	_
+13	liten	liten	adj	adj	_	12	SPRED	_	_
+14	?	?	clb	clb	_	1	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 55
+# segstart = 223.797
+# segstop = 228.638
+# speaker = joelster_02uk
+# text = # jeg trur det har blitt enda mer utvatna enn det det var # da jeg var liten
+1	#	#	pause	pause	_	2	IK	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	trur	tru	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	5	SUBJ	_	_
+5	har	ha	verb	verb	_	3	DOBJ	_	_
+6	blitt	blive	verb	verb	_	5	INFV	_	_
+7	enda	enda	adv	adv	_	8	ADV	_	_
+8	mer	mye	adj	adj	_	9	ADV	_	_
+9	utvatna	utvatne	subst	subst	_	6	SPRED	_	_
+10	enn	enn	sbu	sbu	_	13	SBU	_	_
+11	det	det	pron	pron	_	13	FOBJ	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	var	være	verb	verb	_	6	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	da	da	sbu	sbu	_	17	SBU	_	_
+16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
+17	var	være	verb	verb	_	3	ADV	_	_
+18	liten	liten	adj	adj	_	17	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 56
+# segstart = 228.638
+# segstop = 232.311
+# speaker = ov
+# text = når du # sier utvanna er det da mot mer som Førde ?
+1	når	når	sbu	sbu	_	4	SBU	_	_
+2	du	du	pron	pron	_	4	SUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	sier	si	verb	verb	_	6	REP	_	_
+5	utvanna	utvanna	adv	adv	_	6	SPRED	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	da	da	adv	adv	_	6	ADV	_	_
+9	mot	mot	prep	prep	_	6	SPRED	_	_
+10	mer	mye	adj	adj	_	9	ATR	_	_
+11	som	som	prep	prep	_	10	ADV	_	_
+12	Førde	Førde	subst	subst	_	11	PUTFYLL	_	_
+13	?	?	clb	clb	_	6	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 57
+# segstart = 232.311
+# segstop = 242.032
+# speaker = joelster_02uk
+# text = ja # så masse mer sånne bokmålsord # em # ja # spise og kjøre og # høre og # ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	masse	masse	adj	adj	_	1	DET	_	_
+5	mer	mye	adj	adj	_	4	INTERJ	_	_
+6	sånne	sånne	det	det	_	7	DET	_	_
+7	bokmålsord	bokmålsord	subst	subst	_	5	APP	_	_
+8	#	#	pause	pause	_	11	IK	_	_
+9	em	em	ukjent	ukjent	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	7	INTERJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	spise	spise	verb	verb	_	11	KOORD	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	kjøre	kjøre	subst	subst	_	13	KOORD	_	_
+16	og	og	konj	konj	_	18	KONJ	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	høre	høre	verb	verb	_	13	KOORD	_	_
+19	og	og	konj	konj	_	21	KONJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ja	ja	interj	interj	_	13	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 58
+# segstart = 242.032
+# segstop = 254.417
+# speaker = ov
+# text = mm ## men e du sier jo det sant ? # for # for det da
+1	mm	mm	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	6	KONJ	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	sier	si	verb	verb	_	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	det	det	pron	pron	_	6	DOBJ	_	_
+9	sant	sann	adj	adj	_	6	ADV	_	_
+10	?	?	clb	clb	_	12	IK	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	for	for	prep	prep	_	14	REP	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	for	for	prep	prep	_	6	ADV	_	_
+15	det	det	pron	pron	_	14	PUTFYLL	_	_
+16	da	da	adv	adv	_	6	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 59
+# segstart = 247.453
+# segstop = 248.288
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 60
+# segstart = 248.288
+# segstop = 254.417
+# speaker = ov
+# text = # akkurat som jeg gjør
+1	#	#	pause	pause	_	2	IK	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	som	som	sbu	sbu	_	5	SBU	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	gjør	gjøre	verb	verb	_	0	FINV	_	_
+
+# file = joelster_02uk-ov
+# id = 61
+# segstart = 249.886
+# segstop = 250.911
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 62
+# segstart = 250.911
+# segstop = 254.417
+# speaker = ov
+# text = er det noe som forsvinner òg eller ? # at de sier # det ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	noe	noe	pron	pron	_	1	SPRED	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	forsvinner	forsvinne	verb	verb	_	3	ATR	_	_
+6	òg	òg	adv	adv	_	5	ADV	_	_
+7	eller	eller	konj	konj	_	12	KONJ	_	_
+8	?	?	clb	clb	_	10	IK	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	at	at	sbu	sbu	_	12	SBU	_	_
+11	de	de	pron	pron	_	12	SUBJ	_	_
+12	sier	si	verb	verb	_	1	KOORD	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	det	det	pron	pron	_	12	DOBJ	_	_
+15	?	?	clb	clb	_	1	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 63
+# segstart = 254.417
+# segstop = 261.467
+# speaker = joelster_02uk
+# text = det trur jeg kanskje det kan gjøre ja ## e men ja # det har ikke jeg tenkt så mye på men e
+1	det	det	pron	pron	_	2	DOBJ	_	_
+2	trur	tru	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	kanskje	kanskje	adv	adv	_	2	ADV	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	kan	kan	verb	verb	_	2	DOBJ	_	_
+7	gjøre	gjøre	verb	verb	_	6	INFV	_	_
+8	ja	ja	interj	interj	_	7	INTERJ	_	_
+9	##	##	pause	pause	_	11	IK	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	men	men	konj	konj	_	15	KONJ	_	_
+12	ja	ja	interj	interj	_	15	INTERJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	det	det	pron	pron	_	18	DOBJ	_	_
+15	har	ha	verb	verb	_	2	KOORD	_	_
+16	ikke	ikke	adv	adv	_	18	ADV	_	_
+17	jeg	jeg	pron	pron	_	16	SUBJ	_	_
+18	tenkt	tenke	verb	verb	_	15	INFV	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	mye	mye	adj	adj	_	18	DOBJ	_	_
+21	på	på	prep	prep	_	18	ADV	_	_
+22	men	men	konj	konj	_	18	KONJ	_	_
+23	e	e	nol	nol	_	22	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 64
+# segstart = 261.467
+# segstop = 270.915
+# speaker = ov
+# text = mm ## jeg lurer på hvor den grensa går altså # for jeg tror ikke de sier det i # Nordfjord og
+1	mm	mm	interj	interj	_	4	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	lurer	lure	verb	verb	_	0	FINV	_	_
+5	på	på	prep	prep	_	4	ADV	_	_
+6	hvor	hvor	adv	adv	_	9	ADV	_	_
+7	den	den	det	det	_	8	DET	_	_
+8	grensa	grense	subst	subst	_	9	SUBJ	_	_
+9	går	gåre	verb	verb	_	4	DOBJ	_	_
+10	altså	altså	adv	adv	_	9	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	for	for	konj	konj	_	14	KONJ	_	_
+13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+14	tror	tro	verb	verb	_	4	KOORD	_	_
+15	ikke	ikke	adv	adv	_	14	ADV	_	_
+16	de	de	pron	pron	_	17	SUBJ	_	_
+17	sier	si	verb	verb	_	14	DOBJ	_	_
+18	det	det	pron	pron	_	17	DOBJ	_	_
+19	i	i	prep	prep	_	17	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	Nordfjord	Nordfjord	subst	subst	_	19	PUTFYLL	_	_
+22	og	og	konj	konj	_	21	KONJ	_	_
+
+# file = joelster_02uk-ov
+# id = 65
+# segstart = 268.316
+# segstop = 270.915
+# speaker = ov
+# text = men det er # jeg veit andre plasser i Sunnfjord at det sier det
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	6	REP	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	veit	veit	verb	verb	_	0	FINV	_	_
+7	andre	andre	det	det	_	8	DET	_	_
+8	plasser	plassere	subst	subst	_	6	DOBJ	_	_
+9	i	i	prep	prep	_	8	ATR	_	_
+10	Sunnfjord	Sunnfjord	subst	subst	_	9	PUTFYLL	_	_
+11	at	at	sbu	sbu	_	13	SBU	_	_
+12	det	det	pron	pron	_	13	FSUBJ	_	_
+13	sier	si	verb	verb	_	6	DOBJ	_	_
+14	det	det	pron	pron	_	13	DOBJ	_	_
+
+# file = joelster_02uk-ov
+# id = 66
+# segstart = 268.316
+# segstop = 270.915
+# speaker = joelster_02uk
+# text = * nei
+1	*	*	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 67
+# segstart = 270.915
+# segstop = 271.368
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 68
+# segstart = 271.368
+# segstop = 279.023
+# speaker = ov
+# text = ja ## ok hv- em # e # hvor eller hvor da # bor du i dag ?
+1	ja	ja	interj	interj	_	14	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ok	ok	adj	adj	_	14	ADV	_	_
+4	hv-	hv-	ufullst	ufullst	_	9	FYLL	_	_
+5	em	em	ukjent	ukjent	_	9	FYLL	_	_
+6	#	#	pause	pause	_	9	IK	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	hvor	hvor	adv	adv	_	10	FYLL	_	_
+10	eller	eller	konj	konj	_	14	KONJ	_	_
+11	hvor	hvor	adv	adv	_	14	INTERJ	_	_
+12	da	da	adv	adv	_	14	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	bor	bore	verb	verb	_	0	FINV	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	i	i	prep	prep	_	14	ADV	_	_
+17	dag	dag	subst	subst	_	16	PUTFYLL	_	_
+18	?	?	clb	clb	_	14	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 70
+# segstart = 279.023
+# segstop = 281.718
+# speaker = joelster_02uk
+# text = # jeg bur e nedpå Vassenden
+1	#	#	pause	pause	_	2	IK	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	bur	bur	verb	verb	_	0	FINV	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	nedpå	nedpå	prep	prep	_	3	ADV	_	_
+6	Vassenden	vassende	subst	subst	_	5	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 71
+# segstart = 281.718
+# segstop = 283.316
+# speaker = ov
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 72
+# segstart = 283.316
+# segstop = 284.325
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 73
+# segstart = 284.325
+# segstop = 293.769
+# speaker = ov
+# text = og em ## hvis du skulle forsøke å lokke noen til Vassenden # hva ville du si da ?
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	em	em	ukjent	ukjent	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	hvis	hvis	sbu	sbu	_	6	SBU	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	skulle	skulle	verb	verb	_	0	FINV	_	_
+7	forsøke	forsøke	verb	verb	_	6	INFV	_	_
+8	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
+9	lokke	lokke	verb	verb	_	8	INFV	_	_
+10	noen	noen	pron	pron	_	9	DOBJ	_	_
+11	til	til	prep	prep	_	9	ADV	_	_
+12	Vassenden	vassende	subst	subst	_	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	hva	hva	pron	pron	_	17	DOBJ	_	_
+15	ville	ville	verb	verb	_	6	KOORD	_	_
+16	du	du	pron	pron	_	15	SUBJ	_	_
+17	si	si	verb	verb	_	15	INFV	_	_
+18	da	da	adv	adv	_	17	ADV	_	_
+19	?	?	clb	clb	_	6	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 74
+# segstart = 293.769
+# segstop = 301.639
+# speaker = joelster_02uk
+# text = # oi # ja nei her er jo e mye som skjer da # em her er mye å være med på
+1	#	#	pause	pause	_	2	IK	_	_
+2	oi	oie	subst	subst	_	7	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	7	INTERJ	_	_
+5	nei	nei	interj	interj	_	7	INTERJ	_	_
+6	her	her	prep	prep	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	0	FINV	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	mye	mye	adj	adj	_	7	SPRED	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	skjer	skje	verb	verb	_	10	ATR	_	_
+13	da	da	adv	adv	_	12	ADV	_	_
+14	#	#	pause	pause	_	16	IK	_	_
+15	em	em	ukjent	ukjent	_	16	FYLL	_	_
+16	her	her	prep	prep	_	17	FSUBJ	_	_
+17	er	være	verb	verb	_	7	KOORD	_	_
+18	mye	mye	adj	adj	_	17	SPRED	_	_
+19	å	å	inf-merke	inf-merke	_	18	ADV	_	_
+20	være	være	verb	verb	_	19	INFV	_	_
+21	med	med	prep	prep	_	20	ADV	_	_
+22	på	på	prep	prep	_	20	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 75
+# segstart = 301.639
+# segstop = 307.935
+# speaker = joelster_02uk
+# text = det er ikke så langt ifra Førde # så hvis du ikke får jobb her så kan du jobbe i Førde # det tar bare tjue minutter
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	langt	lang	adj	adj	_	2	SPRED	_	_
+6	ifra	ifra	prep	prep	_	5	ADV	_	_
+7	Førde	Førde	subst	subst	_	6	PUTFYLL	_	_
+8	#	#	pause	pause	_	7	IK	_	_
+9	så	så	konj	konj	_	17	ADV	_	_
+10	hvis	hvis	sbu	sbu	_	13	SBU	_	_
+11	du	du	pron	pron	_	13	SUBJ	_	_
+12	ikke	ikke	adv	adv	_	13	ADV	_	_
+13	får	få	verb	verb	_	16	APP	_	_
+14	jobb	jobb	subst	subst	_	13	DOBJ	_	_
+15	her	her	prep	prep	_	13	ADV	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	kan	kunne	verb	verb	_	2	KOORD	_	_
+18	du	du	pron	pron	_	17	SUBJ	_	_
+19	jobbe	jobbe	verb	verb	_	17	INFV	_	_
+20	i	i	prep	prep	_	19	ADV	_	_
+21	Førde	Førde	subst	subst	_	20	PUTFYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	det	det	pron	pron	_	24	FSUBJ	_	_
+24	tar	ta	verb	verb	_	2	KOORD	_	_
+25	bare	bare	adv	adv	_	24	ADV	_	_
+26	tjue	tjue	det	det	_	27	DET	_	_
+27	minutter	minutt	subst	subst	_	24	DOBJ	_	_
+
+# file = joelster_02uk-ov
+# id = 76
+# segstart = 307.935
+# segstop = 319.0
+# speaker = joelster_02uk
+# text = em # her er jo da hakket billigere å bu enn å bu i Førde # em ## ja ## jeg trur det blir det
+1	em	e	ukjent	ukjent	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	her	her	prep	prep	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	hakket	hakk	subst	subst	_	8	REP	_	_
+8	billigere	billig	adj	adj	_	4	SPRED	_	_
+9	å	å	inf-merke	inf-merke	_	8	ADV	_	_
+10	bu	bue	verb	verb	_	9	INFV	_	_
+11	enn	enn	prep	prep	_	9	ADV	_	_
+12	å	å	inf-merke	inf-merke	_	11	PUTFYLL	_	_
+13	bu	bue	verb	verb	_	12	INFV	_	_
+14	i	i	prep	prep	_	13	ADV	_	_
+15	Førde	Førde	subst	subst	_	14	PUTFYLL	_	_
+16	#	#	pause	pause	_	19	IK	_	_
+17	em	e	ukjent	ukjent	_	19	FYLL	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	ja	ja	interj	interj	_	13	INTERJ	_	_
+20	##	##	pause	pause	_	21	IK	_	_
+21	jeg	jeg	pron	pron	_	22	SUBJ	_	_
+22	trur	tru	verb	verb	_	4	KOORD	_	_
+23	det	det	pron	pron	_	24	FSUBJ	_	_
+24	blir	bli	verb	verb	_	22	DOBJ	_	_
+25	det	det	pron	pron	_	24	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 77
+# segstart = 319.0
+# segstop = 320.335
+# speaker = ov
+# text = naturen er den e bra her ?
+1	naturen	natur	subst	subst	_	2	SUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	den	den	det	det	_	2	DET	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	bra	bra	adj	adj	_	2	SPRED	_	_
+6	her	her	prep	prep	_	2	ADV	_	_
+7	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 78
+# segstart = 320.335
+# segstop = 325.2
+# speaker = joelster_02uk
+# text = ja sjølsagt # det er sånn som en glømmer når en vokste opp her
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	sjølsagt	sjølsagt	subst	subst	_	5	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	sånn	sånn	adv	adv	_	5	SPRED	_	_
+7	som	som	sbu	sbu	_	9	SBU	_	_
+8	en	en	det	det	_	9	SUBJ	_	_
+9	glømmer	glømme	subst	subst	_	6	ADV	_	_
+10	når	når	sbu	sbu	_	12	SBU	_	_
+11	en	en	pron	pron	_	12	SUBJ	_	_
+12	vokste	vokse	verb	verb	_	9	ADV	_	_
+13	opp	opp	prep	prep	_	12	ADV	_	_
+14	her	her	prep	prep	_	12	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 79
+# segstart = 325.2
+# segstop = 326.297
+# speaker = ov
+# text = kort veg til fjells
+1	kort	kort	adj	adj	_	2	ATR	_	_
+2	veg	veg	subst	subst	_	0	FRAG	_	_
+3	til	til	prep	prep	_	2	ATR	_	_
+4	fjells	fjell	subst	subst	_	3	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 80
+# segstart = 326.297
+# segstop = 328.801
+# speaker = joelster_02uk
+# text = mm # og så vatnet # og
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	1	KONJ	_	_
+4	så	så	adv	adv	_	3	ADV	_	_
+5	vatnet	vatn	subst	subst	_	4	SUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	og	og	konj	konj	_	5	KONJ	_	_
+
+# file = joelster_02uk-ov
+# id = 81
+# segstart = 328.801
+# segstop = 334.31
+# speaker = ov
+# text = ja # men jeg tenkte på en ting e # pleier det å le- e være åpent vatn om vinteren ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+5	tenkte	tenke	verb	verb	_	0	FINV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	en	en	det	det	_	8	DET	_	_
+8	ting	ting	subst	subst	_	6	PUTFYLL	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	pleier	pleie	verb	verb	_	5	KOORD	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	å	å	inf-merke	inf-merke	_	11	DOBJ	_	_
+14	le-	le-	ufullst	ufullst	_	16	FYLL	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	være	være	verb	verb	_	13	INFV	_	_
+17	åpent	åpen	adj	adj	_	18	ATR	_	_
+18	vatn	vatne	subst	subst	_	16	SPRED	_	_
+19	om	om	prep	prep	_	16	ADV	_	_
+20	vinteren	vinter	subst	subst	_	19	PUTFYLL	_	_
+21	?	?	clb	clb	_	5	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 82
+# segstart = 334.31
+# segstop = 341.014
+# speaker = joelster_02uk
+# text = # e før når vi var mindre så var det alltid fryst # her nede da # og så når du kom opp # litt lenger oppover så åpna det seg
+1	#	#	pause	pause	_	3	IK	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	før	før	prep	prep	_	9	ADV	_	_
+4	når	når	sbu	sbu	_	6	SBU	_	_
+5	vi	vi	pron	pron	_	6	SUBJ	_	_
+6	var	være	verb	verb	_	8	APP	_	_
+7	mindre	små	adj	adj	_	6	SPRED	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	var	være	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	alltid	alltid	adv	adv	_	9	ADV	_	_
+12	fryst	fryse	subst	subst	_	9	SPRED	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	her	her	prep	prep	_	12	ADV	_	_
+15	nede	nede	prep	prep	_	14	PUTFYLL	_	_
+16	da	da	adv	adv	_	12	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	og	og	konj	konj	_	29	KONJ	_	_
+19	så	så	adv	adv	_	29	ADV	_	_
+20	når	når	sbu	sbu	_	22	SBU	_	_
+21	du	du	pron	pron	_	22	SUBJ	_	_
+22	kom	komme	verb	verb	_	29	APP	_	_
+23	opp	opp	prep	prep	_	22	ADV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	litt	litt	adj	adj	_	26	ADV	_	_
+26	lenger	lenger	adj	adj	_	22	ADV	_	_
+27	oppover	oppover	prep	prep	_	22	ADV	_	_
+28	så	så	adv	adv	_	29	ADV	_	_
+29	åpna	åpne	verb	verb	_	9	KOORD	_	_
+30	det	det	pron	pron	_	29	FSUBJ	_	_
+31	seg	seg	pron	pron	_	29	DOBJ	_	_
+
+# file = joelster_02uk-ov
+# id = 83
+# segstart = 341.014
+# segstop = 350.243
+# speaker = joelster_02uk
+# text = men det har vel litt med vind og sånt å gjøre # e men nå faktisk # tre år sia trur jeg # det har vært tilfryst sist
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	_	3	ADV	_	_
+6	med	med	prep	prep	_	3	ADV	_	_
+7	vind	vind	subst	subst	_	6	PUTFYLL	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	sånt	sånt	pron	pron	_	7	KOORD	_	_
+10	å	å	inf-merke	inf-merke	_	3	ADV	_	_
+11	gjøre	gjøre	verb	verb	_	10	INFV	_	_
+12	#	#	pause	pause	_	14	IK	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	men	men	konj	konj	_	21	KONJ	_	_
+15	nå	nå	adv	adv	_	21	ADV	_	_
+16	faktisk	faktisk	adj	adj	_	15	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	tre	tre	det	det	_	19	DET	_	_
+19	år	år	subst	subst	_	21	ADV	_	_
+20	sia	sie	adv	adv	_	19	ATR	_	_
+21	trur	tru	verb	verb	_	3	KOORD	_	_
+22	jeg	jeg	pron	pron	_	21	SUBJ	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	det	det	pron	pron	_	25	SUBJ	_	_
+25	har	ha	verb	verb	_	3	KOORD	_	_
+26	vært	være	verb	verb	_	25	INFV	_	_
+27	tilfryst	tilfryst	subst	subst	_	26	SPRED	_	_
+28	sist	sist	adv	adv	_	26	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 84
+# segstart = 350.243
+# segstop = 353.677
+# speaker = ov
+# text = ok # jeg har nå hørt om isfiske på Jølstravatnet og sånn
+1	ok	ok	adj	adj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	har	ha	verb	verb	_	0	FINV	_	_
+5	nå	nå	adv	adv	_	6	ADV	_	_
+6	hørt	høre	verb	verb	_	4	INFV	_	_
+7	om	om	prep	prep	_	6	ADV	_	_
+8	isfiske	isfisk	subst	subst	_	7	PUTFYLL	_	_
+9	på	på	prep	prep	_	8	ADV	_	_
+10	Jølstravatnet	Jølstravatnet	subst	subst	_	9	PUTFYLL	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	sånn	sånn	adv	adv	_	6	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 85
+# segstart = 350.243
+# segstop = 353.677
+# speaker = joelster_02uk
+# text = * mm
+1	*	*	pause	pause	_	2	IK	_	_
+2	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 86
+# segstart = 353.677
+# segstop = 363.463
+# speaker = joelster_02uk
+# text = mm # før var det visst veldig # da hadde de sånn skøyteløp da # e og det var visst veldig kjent # det var jeg faktisk ikke klar over før hin dagen
+1	mm	mm	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	før	før	prep	prep	_	4	ADV	_	_
+4	var	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	visst	vite	adv	adv	_	4	ADV	_	_
+7	veldig	veldig	adj	adj	_	10	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	da	da	adv	adv	_	10	ADV	_	_
+10	hadde	ha	verb	verb	_	4	KOORD	_	_
+11	de	de	pron	pron	_	10	SUBJ	_	_
+12	sånn	sånn	det	det	_	13	DET	_	_
+13	skøyteløp	skøyteløp	subst	subst	_	10	DOBJ	_	_
+14	da	da	adv	adv	_	10	ADV	_	_
+15	#	#	pause	pause	_	17	IK	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	og	og	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	var	være	verb	verb	_	4	KOORD	_	_
+20	visst	vite	adj	adj	_	19	ADV	_	_
+21	veldig	veldig	adj	adj	_	22	ADV	_	_
+22	kjent	kjent	adj	adj	_	19	SPRED	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	det	det	pron	pron	_	25	FSUBJ	_	_
+25	var	være	verb	verb	_	4	KOORD	_	_
+26	jeg	jeg	pron	pron	_	25	SUBJ	_	_
+27	faktisk	faktisk	adj	adj	_	25	ADV	_	_
+28	ikke	ikke	adv	adv	_	25	ADV	_	_
+29	klar	klar	adj	adj	_	25	SPRED	_	_
+30	over	over	prep	prep	_	29	ADV	_	_
+31	før	før	prep	prep	_	30	PUTFYLL	_	_
+32	hin	hin	det	det	_	33	DET	_	_
+33	dagen	dag	subst	subst	_	31	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 87
+# segstart = 363.463
+# segstop = 367.159
+# speaker = joelster_02uk
+# text = da dreiv de og saga sånne store baner # saga hull i isen # sånn at den
+1	da	da	adv	adv	_	2	ADV	_	_
+2	dreiv	dreiv	verb	verb	_	0	FINV	_	_
+3	de	de	pron	pron	_	2	SUBJ	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	saga	sage	subst	subst	_	2	KOORD	_	_
+6	sånne	sånne	det	det	_	8	DET	_	_
+7	store	stor	adj	adj	_	8	ATR	_	_
+8	baner	bane	subst	subst	_	5	DOBJ	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	saga	sage	subst	subst	_	2	KOORD	_	_
+11	hull	hull	subst	subst	_	10	DOBJ	_	_
+12	i	i	prep	prep	_	10	ADV	_	_
+13	isen	is	subst	subst	_	12	PUTFYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	sånn	sånn	adv	adv	_	16	ADV	_	_
+16	at	at	sbu	sbu	_	10	SBU	_	_
+17	den	den	det	det	_	16	DET	_	_
+
+# file = joelster_02uk-ov
+# id = 89
+# segstart = 368.018
+# segstop = 368.4
+# speaker = joelster_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 90
+# segstart = 368.4
+# segstop = 370.689
+# speaker = ov
+# text = mm ## hm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	hm	hm	interj	interj	_	1	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 91
+# segstart = 370.689
+# segstop = 372.764
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 92
+# segstart = 372.764
+# segstop = 376.556
+# speaker = ov
+# text = e # er det noe som ikke er så bra med denne plassen da ?
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	noe	noe	pron	pron	_	3	SPRED	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	ikke	ikke	adv	adv	_	8	ADV	_	_
+8	er	være	verb	verb	_	5	ATR	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	bra	bra	adj	adj	_	8	SPRED	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	denne	denne	det	det	_	13	DET	_	_
+13	plassen	plass	subst	subst	_	11	PUTFYLL	_	_
+14	da	da	adv	adv	_	8	ADV	_	_
+15	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 93
+# segstart = 376.556
+# segstop = 389.205
+# speaker = joelster_02uk
+# text = ## em ## ja # em # jeg er jo litt sånn bygdejente da # så jeg syns jo det er begynt å bli litt e stort her
+1	##	##	pause	pause	_	4	IK	_	_
+2	em	em	ukjent	ukjent	_	4	FYLL	_	_
+3	##	##	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	9	INTERJ	_	_
+5	#	#	pause	pause	_	8	IK	_	_
+6	em	em	ukjent	ukjent	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	litt	litt	adj	adj	_	13	ADV	_	_
+12	sånn	sånn	det	det	_	13	DET	_	_
+13	bygdejente	bygdejene	subst	subst	_	9	SPRED	_	_
+14	da	da	adv	adv	_	9	ADV	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	så	så	konj	konj	_	18	ADV	_	_
+17	jeg	jeg	pron	pron	_	18	SUBJ	_	_
+18	syns	synse	verb	verb	_	9	KOORD	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	det	det	pron	pron	_	21	FSUBJ	_	_
+21	er	være	verb	verb	_	18	DOBJ	_	_
+22	begynt	begynne	adj	adj	_	21	INFV	_	_
+23	å	å	inf-merke	inf-merke	_	22	DOBJ	_	_
+24	bli	bli	verb	verb	_	23	INFV	_	_
+25	litt	litt	adj	adj	_	27	ADV	_	_
+26	e	e	nol	nol	_	27	FYLL	_	_
+27	stort	stor	adj	adj	_	24	SPRED	_	_
+28	her	her	prep	prep	_	24	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 94
+# segstart = 389.205
+# segstop = 395.549
+# speaker = joelster_02uk
+# text = det er blitt litt mange # og så er det blitt litt sånn mentalitet at en skal ikke # en skal ikke bry seg om naboen og sånn
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	blitt	blive	verb	verb	_	2	INFV	_	_
+4	litt	litt	adj	adj	_	5	ADV	_	_
+5	mange	mange	adj	adj	_	3	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	og	og	konj	konj	_	9	KONJ	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	er	være	verb	verb	_	2	KOORD	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	blitt	blive	verb	verb	_	9	INFV	_	_
+12	litt	litt	adj	adj	_	13	ADV	_	_
+13	sånn	sånn	det	det	_	14	DET	_	_
+14	mentalitet	mentalite	subst	subst	_	11	SPRED	_	_
+15	at	at	sbu	sbu	_	17	SBU	_	_
+16	en	en	pron	pron	_	17	SUBJ	_	_
+17	skal	skal	verb	verb	_	11	KOORD	_	_
+18	ikke	ikke	adv	adv	_	17	ADV	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	en	en	subst	subst	_	21	SUBJ	_	_
+21	skal	skal	verb	verb	_	2	KOORD	_	_
+22	ikke	ikke	adv	adv	_	23	ADV	_	_
+23	bry	bry	verb	verb	_	21	INFV	_	_
+24	seg	seg	pron	pron	_	23	DOBJ	_	_
+25	om	om	prep	prep	_	23	ADV	_	_
+26	naboen	nabo	subst	subst	_	25	PUTFYLL	_	_
+27	og	og	konj	konj	_	28	KONJ	_	_
+28	sånn	sånn	adv	adv	_	23	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 95
+# segstart = 395.549
+# segstop = 402.418
+# speaker = joelster_02uk
+# text = # e vi merker ikke det så mye her oppå Vassenden men jeg merker det # når vi kommer ned i byggefelta og sånn så er ikke det så # ja
+1	#	#	pause	pause	_	3	IK	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	vi	vi	pron	pron	_	4	SUBJ	_	_
+4	merker	merke	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	det	det	pron	pron	_	4	DOBJ	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	mye	mye	adj	adj	_	6	ATR	_	_
+9	her	her	prep	prep	_	4	ADV	_	_
+10	oppå	oppå	prep	prep	_	9	PUTFYLL	_	_
+11	Vassenden	vassende	subst	subst	_	10	PUTFYLL	_	_
+12	men	men	konj	konj	_	14	KONJ	_	_
+13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+14	merker	merke	verb	verb	_	4	KOORD	_	_
+15	det	det	pron	pron	_	14	DOBJ	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	når	når	sbu	sbu	_	19	SBU	_	_
+18	vi	vi	pron	pron	_	19	SUBJ	_	_
+19	kommer	komme	verb	verb	_	14	ADV	_	_
+20	ned	ned	prep	prep	_	19	ADV	_	_
+21	i	i	prep	prep	_	19	ADV	_	_
+22	byggefelta	byggefelte	subst	subst	_	21	PUTFYLL	_	_
+23	og	og	konj	konj	_	26	KONJ	_	_
+24	sånn	sånn	adv	adv	_	26	ADV	_	_
+25	så	så	adv	adv	_	26	ADV	_	_
+26	er	være	verb	verb	_	4	KOORD	_	_
+27	ikke	ikke	adv	adv	_	26	ADV	_	_
+28	det	det	pron	pron	_	26	SPRED	_	_
+29	så	så	adv	adv	_	26	ADV	_	_
+30	#	#	pause	pause	_	31	IK	_	_
+31	ja	ja	interj	interj	_	4	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 96
+# segstart = 402.418
+# segstop = 404.499
+# speaker = joelster_02uk
+# text = en skal ikke # ha noe med noe å gjøre
+1	en	en	pron	pron	_	2	SUBJ	_	_
+2	skal	skal	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ha	ha	verb	verb	_	2	INFV	_	_
+6	noe	noe	pron	pron	_	5	DOBJ	_	_
+7	med	med	prep	prep	_	6	ATR	_	_
+8	noe	noe	pron	pron	_	9	REP	_	_
+9	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+10	gjøre	gjøre	verb	verb	_	9	INFV	_	_
+
+# file = joelster_02uk-ov
+# id = 97
+# segstart = 404.499
+# segstop = 407.872
+# speaker = ov
+# text = nei # skal ikke komme på # uanmeldt på besøk ?
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	skal	skal	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	5	ADV	_	_
+5	komme	komme	verb	verb	_	3	INFV	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	uanmeldt	uanmeldt	adj	adj	_	6	ADV	_	_
+9	på	på	prep	prep	_	8	ADV	_	_
+10	besøk	besøk	subst	subst	_	9	PUTFYLL	_	_
+11	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 98
+# segstart = 407.872
+# segstop = 408.492
+# speaker = joelster_02uk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 99
+# segstart = 408.492
+# segstop = 421.966
+# speaker = ov
+# text = mm ## # ja # kan du beskrive boligen din ? # # eller hvordan er den i forhold til den boligen der du vokste opp ?
+1	mm	mm	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	4	IK	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	6	INTERJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	kan	kan	verb	verb	_	0	FINV	_	_
+7	du	du	pron	pron	_	6	SUBJ	_	_
+8	beskrive	beskriv	verb	verb	_	6	INFV	_	_
+9	boligen	bolig	subst	subst	_	8	DOBJ	_	_
+10	din	din	det	det	_	9	DET	_	_
+11	?	?	clb	clb	_	6	IK	_	_
+12	#	#	pause	pause	_	11	IK	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	eller	eller	konj	konj	_	16	KONJ	_	_
+15	hvordan	hvordan	adv	adv	_	16	ADV	_	_
+16	er	være	verb	verb	_	6	KOORD	_	_
+17	den	den	det	det	_	16	SUBJ	_	_
+18	i	i	prep	prep	_	16	SPRED	_	_
+19	forhold	forhold	subst	subst	_	18	PUTFYLL	_	_
+20	til	til	prep	prep	_	19	ATR	_	_
+21	den	den	det	det	_	22	DET	_	_
+22	boligen	bolig	subst	subst	_	20	PUTFYLL	_	_
+23	der	der	prep	prep	_	22	ATR	_	_
+24	du	du	pron	pron	_	25	SUBJ	_	_
+25	vokste	vokse	verb	verb	_	18	ATR	_	_
+26	opp	opp	prep	prep	_	25	ADV	_	_
+27	?	?	clb	clb	_	6	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 101
+# segstart = 421.966
+# segstop = 431.812
+# speaker = joelster_02uk
+# text = em # # den er ganske mye mindre da # e jeg leier ei hytte bortpå Vassenden der er det # tømmervegger da # i stua
+1	em	em	ukjent	ukjent	_	4	FYLL	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	den	den	pron	pron	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	ganske	ganske	adv	adv	_	7	ADV	_	_
+7	mye	mye	adj	adj	_	8	ADV	_	_
+8	mindre	små	adj	adj	_	5	SPRED	_	_
+9	da	da	adv	adv	_	5	ADV	_	_
+10	#	#	pause	pause	_	12	IK	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	leier	leie	verb	verb	_	5	KOORD	_	_
+14	ei	ei	det	det	_	15	DET	_	_
+15	hytte	hytte	subst	subst	_	13	DOBJ	_	_
+16	bortpå	bortpå	subst	subst	_	13	ADV	_	_
+17	Vassenden	vassende	subst	subst	_	16	PUTFYLL	_	_
+18	der	der	prep	prep	_	19	ADV	_	_
+19	er	være	verb	verb	_	5	KOORD	_	_
+20	det	det	pron	pron	_	19	FSUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	tømmervegger	tømmervegge	subst	subst	_	19	SPRED	_	_
+23	da	da	adv	adv	_	19	ADV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	i	i	prep	prep	_	19	ADV	_	_
+26	stua	stue	subst	subst	_	25	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 102
+# segstart = 431.812
+# segstop = 432.623
+# speaker = ov
+# text = du leier ei hytte ?
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	leier	leie	verb	verb	_	0	FINV	_	_
+3	ei	ei	det	det	_	4	DET	_	_
+4	hytte	hytte	subst	subst	_	2	DOBJ	_	_
+5	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 103
+# segstart = 432.623
+# segstop = 440.159
+# speaker = joelster_02uk
+# text = ja # e # hun er bittelita # alle kaller det bare for dukkehuset
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	5	IK	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	hun	hun	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	bittelita	bittelite	adj	adj	_	6	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	alle	alle	det	det	_	10	SUBJ	_	_
+10	kaller	kalle	verb	verb	_	6	KOORD	_	_
+11	det	det	pron	pron	_	10	DOBJ	_	_
+12	bare	bare	adv	adv	_	10	ADV	_	_
+13	for	for	prep	prep	_	12	ADV	_	_
+14	dukkehuset	dukkehus	adj	adj	_	13	ATR	_	_
+
+# file = joelster_02uk-ov
+# id = 104
+# segstart = 440.159
+# segstop = 449.216
+# speaker = joelster_02uk
+# text = em ## og et lite # kjøkken # som er nok kanskje litt i dårligste forfatning men det er nå # helt greit altså
+1	em	em	ukjent	ukjent	_	3	FYLL	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	7	KONJ	_	_
+4	et	et	det	det	_	7	DET	_	_
+5	lite	lite	adj	adj	_	7	ATR	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	kjøkken	kjøkken	subst	subst	_	0	SLETT	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	er	være	verb	verb	_	7	ATR	_	_
+11	nok	nok	adv	adv	_	10	ADV	_	_
+12	kanskje	kanskje	adv	adv	_	10	ADV	_	_
+13	litt	litt	adj	adj	_	14	ADV	_	_
+14	i	i	prep	prep	_	10	ADV	_	_
+15	dårligste	dårlig	adj	adj	_	16	ATR	_	_
+16	forfatning	forfatning	subst	subst	_	14	PUTFYLL	_	_
+17	men	men	konj	konj	_	19	KONJ	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	er	være	verb	verb	_	7	KOORD	_	_
+20	nå	nå	adv	adv	_	19	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	helt	hele	adj	adj	_	23	ADV	_	_
+23	greit	grei	adj	adj	_	19	SPRED	_	_
+24	altså	altså	adv	adv	_	19	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 105
+# segstart = 449.216
+# segstop = 462.873
+# speaker = joelster_02uk
+# text = em # men mot sånn som jeg vokste opp så e # har jeg jo mye mindre plass da # e # og så # var det jo mye friere rundt # nå bur jeg jo attmed hovedveien og # sånn
+1	em	em	ukjent	ukjent	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	4	KONJ	_	_
+4	mot	mot	prep	prep	_	13	ADV	_	_
+5	sånn	sånn	adv	adv	_	13	ADV	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	vokste	vokse	verb	verb	_	5	ADV	_	_
+9	opp	opp	prep	prep	_	8	ADV	_	_
+10	så	så	adv	adv	_	13	ADV	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	har	ha	verb	verb	_	0	FINV	_	_
+14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+15	jo	jo	adv	adv	_	13	ADV	_	_
+16	mye	mye	adj	adj	_	18	ATR	_	_
+17	mindre	små	adj	adj	_	18	ATR	_	_
+18	plass	plass	subst	subst	_	13	DOBJ	_	_
+19	da	da	adv	adv	_	13	ADV	_	_
+20	#	#	pause	pause	_	23	IK	_	_
+21	e	e	nol	nol	_	23	FYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	og	og	konj	konj	_	26	KONJ	_	_
+24	så	så	adv	adv	_	26	ADV	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	var	være	verb	verb	_	13	KOORD	_	_
+27	det	det	pron	pron	_	26	FSUBJ	_	_
+28	jo	jo	adv	adv	_	26	ADV	_	_
+29	mye	mye	adj	adj	_	30	ADV	_	_
+30	friere	fri	adj	adj	_	26	SPRED	_	_
+31	rundt	rundt	prep	prep	_	26	ADV	_	_
+32	#	#	pause	pause	_	33	IK	_	_
+33	nå	nå	adv	adv	_	34	ADV	_	_
+34	bur	bur	verb	verb	_	13	KOORD	_	_
+35	jeg	jeg	pron	pron	_	34	SUBJ	_	_
+36	jo	jo	adv	adv	_	34	ADV	_	_
+37	attmed	attmed	prep	prep	_	34	ADV	_	_
+38	hovedveien	hovedvei	subst	subst	_	37	PUTFYLL	_	_
+39	og	og	konj	konj	_	41	KONJ	_	_
+40	#	#	pause	pause	_	41	IK	_	_
+41	sånn	sånn	adv	adv	_	34	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 106
+# segstart = 462.873
+# segstop = 466.736
+# speaker = joelster_02uk
+# text = e heime så # er vi midt mellom to garder # så # ja
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	heime	heime	prep	prep	_	5	ADV	_	_
+3	så	så	adv	adv	_	5	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	vi	vi	pron	pron	_	5	SUBJ	_	_
+7	midt	midt	adv	adv	_	8	ADV	_	_
+8	mellom	mellom	prep	prep	_	5	SPRED	_	_
+9	to	to	det	det	_	10	DET	_	_
+10	garder	gardere	subst	subst	_	8	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	så	så	adv	adv	_	5	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	ja	ja	interj	interj	_	5	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 107
+# segstart = 466.736
+# segstop = 468.406
+# speaker = ov
+# text = men # er du fra gard sjøl eller ?
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	fra	fra	prep	prep	_	3	SPRED	_	_
+6	gard	gard	subst	subst	_	5	PUTFYLL	_	_
+7	sjøl	sjøl	det	det	_	3	ADV	_	_
+8	eller	eller	konj	konj	_	3	KONJ	_	_
+9	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 108
+# segstart = 468.406
+# segstop = 470.123
+# speaker = joelster_02uk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 109
+# segstart = 470.123
+# segstop = 472.702
+# speaker = ov
+# text = så det du vokste opp i et e vanlig hus da ?
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	det	det	pron	pron	_	3	REP	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	vokste	vokse	verb	verb	_	0	FINV	_	_
+5	opp	opp	prep	prep	_	4	ADV	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	et	et	det	det	_	10	DET	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	vanlig	vanlig	adj	adj	_	10	ATR	_	_
+10	hus	hus	subst	subst	_	6	PUTFYLL	_	_
+11	da	da	adv	adv	_	4	ADV	_	_
+12	?	?	clb	clb	_	4	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 110
+# segstart = 472.702
+# segstop = 481.717
+# speaker = joelster_02uk
+# text = ja ## eller ja ja # vanlig og vanlig vi har nå # vi har nå høns og litt sånne ting da # e # ja
+1	ja	ja	interj	interj	_	11	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	eller	eller	konj	konj	_	4	KONJ	_	_
+4	ja	ja	interj	interj	_	11	INTERJ	_	_
+5	ja	ja	interj	interj	_	11	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	vanlig	vanlig	adj	adj	_	11	ADV	_	_
+8	og	og	konj	konj	_	7	KONJ	_	_
+9	vanlig	vanlig	adj	adj	_	7	KOORD	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	har	ha	verb	verb	_	0	FINV	_	_
+12	nå	nå	adv	adv	_	11	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	vi	vi	pron	pron	_	15	SUBJ	_	_
+15	har	ha	verb	verb	_	11	KOORD	_	_
+16	nå	nå	adv	adv	_	15	ADV	_	_
+17	høns	høns	subst	subst	_	15	DOBJ	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	litt	litt	adj	adj	_	17	ADV	_	_
+20	sånne	sånne	det	det	_	21	DET	_	_
+21	ting	ting	subst	subst	_	19	DOBJ	_	_
+22	da	da	adv	adv	_	19	ADV	_	_
+23	#	#	pause	pause	_	26	IK	_	_
+24	e	e	nol	nol	_	26	FYLL	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	ja	ja	interj	interj	_	11	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 111
+# segstart = 481.717
+# segstop = 489.11
+# speaker = ov
+# text = ja ## men da e # da er jeg igjennom de spørsmålene så da er det bra
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	8	KONJ	_	_
+4	da	da	adv	adv	_	8	ADV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	da	da	adv	adv	_	8	ADV	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+10	igjennom	igjennom	prep	prep	_	8	SPRED	_	_
+11	de	de	det	det	_	12	DET	_	_
+12	spørsmålene	spørsmål	subst	subst	_	10	PUTFYLL	_	_
+13	så	så	adv	adv	_	15	KONJ	_	_
+14	da	da	adv	adv	_	15	ADV	_	_
+15	er	være	verb	verb	_	8	KOORD	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	bra	bra	adj	adj	_	15	SPRED	_	_
+
+# file = joelster_02uk-ov
+# id = 112
+# segstart = 489.11
+# segstop = 495.017
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 113
+# segstart = 495.017
+# segstop = 497.426
+# speaker = ov
+# text = ja # du skulle fortelle en historie den har jeg lyst til å ha
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	du	du	pron	pron	_	4	SUBJ	_	_
+4	skulle	skulle	verb	verb	_	0	FINV	_	_
+5	fortelle	fortelle	verb	verb	_	4	INFV	_	_
+6	en	en	det	det	_	7	DET	_	_
+7	historie	historie	subst	subst	_	5	DOBJ	_	_
+8	den	den	det	det	_	9	DOBJ	_	_
+9	har	ha	verb	verb	_	4	KOORD	_	_
+10	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+11	lyst	lyst	subst	subst	_	9	DOBJ	_	_
+12	til	til	prep	prep	_	11	ATR	_	_
+13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
+14	ha	ha	verb	verb	_	13	INFV	_	_
+
+# file = joelster_02uk-ov
+# id = 115
+# segstart = 497.426
+# segstop = 503.984
+# speaker = joelster_02uk
+# text = ja # e i for s- # tre år sia så var jeg til Gambia da # et lite …
+1	ja	ja	interj	interj	_	12	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	i	i	prep	prep	_	5	REP	_	_
+5	for	for	prep	prep	_	11	APP	_	_
+6	s-	s-	ufullst	ufullst	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	tre	tre	det	det	_	9	DET	_	_
+9	år	år	subst	subst	_	5	PUTFYLL	_	_
+10	sia	sie	adv	adv	_	9	ATR	_	_
+11	så	så	adv	adv	_	12	ADV	_	_
+12	var	være	verb	verb	_	0	FINV	_	_
+13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
+14	til	til	prep	prep	_	12	SPRED	_	_
+15	Gambia	Gambia	subst	subst	_	14	PUTFYLL	_	_
+16	da	da	adv	adv	_	12	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	et	et	det	det	_	19	DET	_	_
+19	lite	lite	adj	adj	_	12	ADV	_	_
+20	…	…	ukjent	ukjent	_	12	IK	_	_
+
+# file = joelster_02uk-ov
+# id = 116
+# segstart = 497.426
+# segstop = 503.984
+# speaker = ov
+# text = * med 4H ?
+1	*	*	pause	pause	_	2	IK	_	_
+2	med	med	prep	prep	_	0	FRAG	_	_
+3	4H	4H	subst	subst	_	2	PUTFYLL	_	_
+4	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 117
+# segstart = 503.984
+# segstop = 510.232
+# speaker = joelster_02uk
+# text = ja # et lite land i Afrika # og der var det en reiseleder ifra Naustdal som var med da
+1	ja	ja	interj	interj	_	11	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	et	et	det	det	_	5	DET	_	_
+4	lite	lite	adj	adj	_	5	ATR	_	_
+5	land	land	subst	subst	_	11	ADV	_	_
+6	i	i	prep	prep	_	5	ATR	_	_
+7	Afrika	Afrika	subst	subst	_	6	PUTFYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	der	der	prep	prep	_	11	ADV	_	_
+11	var	være	verb	verb	_	0	FINV	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	en	en	det	det	_	14	DET	_	_
+14	reiseleder	reiseleder	subst	subst	_	11	SPRED	_	_
+15	ifra	ifra	prep	prep	_	14	ATR	_	_
+16	Naustdal	Naustdal	subst	subst	_	15	PUTFYLL	_	_
+17	som	som	sbu	sbu	_	18	SBU	_	_
+18	var	være	verb	verb	_	16	ATR	_	_
+19	med	med	prep	prep	_	18	SPRED	_	_
+20	da	da	adv	adv	_	18	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 118
+# segstart = 510.232
+# segstop = 520.132
+# speaker = joelster_02uk
+# text = og så e hadde vi nå vært i Gambia og utmed # i sivilisasjonen i m # noen dager og så skulle vi inn gjennom i landet og # møte lokalbefolkninga og sånn
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	e	e	nol	nol	_	2	FYLL	_	_
+4	hadde	ha	verb	verb	_	0	FINV	_	_
+5	vi	vi	pron	pron	_	4	SUBJ	_	_
+6	nå	nå	adv	adv	_	7	ADV	_	_
+7	vært	være	verb	verb	_	4	INFV	_	_
+8	i	i	prep	prep	_	7	SPRED	_	_
+9	Gambia	Gambia	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	utmed	utmed	prep	prep	_	8	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	i	i	prep	prep	_	11	PUTFYLL	_	_
+14	sivilisasjonen	sivilisasjon	subst	subst	_	13	PUTFYLL	_	_
+15	i	i	prep	prep	_	14	ATR	_	_
+16	m	m	inf-merke	inf-merke	_	15	PUTFYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	noen	noen	det	det	_	19	DET	_	_
+19	dager	dag	subst	subst	_	15	PUTFYLL	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	så	så	adv	adv	_	22	ADV	_	_
+22	skulle	skulle	verb	verb	_	4	KOORD	_	_
+23	vi	vi	pron	pron	_	22	SUBJ	_	_
+24	inn	inn	prep	prep	_	22	ADV	_	_
+25	gjennom	gjennom	prep	prep	_	26	REP	_	_
+26	i	i	prep	prep	_	24	PUTFYLL	_	_
+27	landet	land	subst	subst	_	26	PUTFYLL	_	_
+28	og	og	konj	konj	_	30	KONJ	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	møte	møte	verb	verb	_	22	KOORD	_	_
+31	lokalbefolkninga	lokalbefolkning	subst	subst	_	30	DOBJ	_	_
+32	og	og	konj	konj	_	33	KONJ	_	_
+33	sånn	sånn	adv	adv	_	30	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 119
+# segstart = 520.132
+# segstop = 531.438
+# speaker = joelster_02uk
+# text = og det som var e litt morsomt da når en er i svarteste Afrika så begynte alle å snakke om # e # ja # tradisjonsmat og dialekter og sånne ting
+1	og	og	konj	konj	_	16	KONJ	_	_
+2	det	det	pron	pron	_	16	ADV	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	var	være	verb	verb	_	2	ATR	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	litt	litt	adj	adj	_	7	ADV	_	_
+7	morsomt	morsom	adj	adj	_	4	SPRED	_	_
+8	da	da	adv	adv	_	4	ADV	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	en	en	pron	pron	_	11	SUBJ	_	_
+11	er	være	verb	verb	_	15	APP	_	_
+12	i	i	prep	prep	_	11	SPRED	_	_
+13	svarteste	svart	adj	adj	_	14	ATR	_	_
+14	Afrika	Afrika	subst	subst	_	12	PUTFYLL	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	begynte	begynne	verb	verb	_	0	FINV	_	_
+17	alle	alle	pron	pron	_	18	DET	_	_
+18	å	å	inf-merke	inf-merke	_	16	DOBJ	_	_
+19	snakke	snakke	verb	verb	_	18	INFV	_	_
+20	om	om	prep	prep	_	19	ADV	_	_
+21	#	#	pause	pause	_	24	IK	_	_
+22	e	e	nol	nol	_	24	FYLL	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	ja	ja	interj	interj	_	20	PUTFYLL	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	tradisjonsmat	tradisjonsmat	subst	subst	_	24	APP	_	_
+27	og	og	konj	konj	_	28	KONJ	_	_
+28	dialekter	dialekt	subst	subst	_	26	KOORD	_	_
+29	og	og	konj	konj	_	31	KONJ	_	_
+30	sånne	sånne	det	det	_	31	DET	_	_
+31	ting	ting	subst	subst	_	26	KOORD	_	_
+
+# file = joelster_02uk-ov
+# id = 120
+# segstart = 531.438
+# segstop = 543.904
+# speaker = joelster_02uk
+# text = em # og så e begynner jeg og så han ifra Naustdal da # det var vi som var sunnfjordinger # så vi begynte da og så # snakk- snakke sånn som # de # skikkelig gamle gjør # em
+1	em	em	ukjent	ukjent	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	6	KONJ	_	_
+4	så	så	adv	adv	_	6	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	begynner	begynne	verb	verb	_	0	FINV	_	_
+7	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+8	og	og	konj	konj	_	16	KONJ	_	_
+9	så	så	verb	verb	_	16	ADV	_	_
+10	han	han	pron	pron	_	16	REP	_	_
+11	ifra	ifra	prep	prep	_	10	ADV	_	_
+12	Naustdal	Naustdal	subst	subst	_	11	PUTFYLL	_	_
+13	da	da	adv	adv	_	11	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	det	det	pron	pron	_	16	FSUBJ	_	_
+16	var	være	verb	verb	_	6	KOORD	_	_
+17	vi	vi	pron	pron	_	16	SPRED	_	_
+18	som	som	sbu	sbu	_	19	SBU	_	_
+19	var	være	verb	verb	_	17	ATR	_	_
+20	sunnfjordinger	sunnfjordinge	subst	subst	_	19	SPRED	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	så	så	adv	adv	_	24	ADV	_	_
+23	vi	vi	pron	pron	_	24	SUBJ	_	_
+24	begynte	begynne	verb	verb	_	16	KOORD	_	_
+25	da	da	adv	adv	_	24	ADV	_	_
+26	og	og	konj	konj	_	24	KONJ	_	_
+27	så	så	adv	adv	_	30	ADV	_	_
+28	#	#	pause	pause	_	30	IK	_	_
+29	snakk-	snakk-	ufullst	ufullst	_	30	FYLL	_	_
+30	snakke	snakke	verb	verb	_	26	KOORD	_	_
+31	sånn	sånn	adv	adv	_	30	ADV	_	_
+32	som	som	sbu	sbu	_	37	SBU	_	_
+33	#	#	pause	pause	_	34	IK	_	_
+34	de	de	det	det	_	37	DET	_	_
+35	#	#	pause	pause	_	36	IK	_	_
+36	skikkelig	skikkelig	det	det	_	37	ADV	_	_
+37	gamle	gammel	adj	adj	_	38	SUBJ	_	_
+38	gjør	gjøre	verb	verb	_	30	ADV	_	_
+39	#	#	pause	pause	_	38	IK	_	_
+40	em	em	ukjent	ukjent	_	39	FYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 121
+# segstart = 543.904
+# segstop = 546.146
+# speaker = ov
+# text = for det var andre # fra hele landet eller ?
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	andre	andre	det	det	_	3	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	fra	fra	prep	prep	_	3	ADV	_	_
+7	hele	hel	adj	adj	_	8	ATR	_	_
+8	landet	land	subst	subst	_	6	PUTFYLL	_	_
+9	eller	eller	konj	konj	_	3	KONJ	_	_
+10	?	?	clb	clb	_	3	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 122
+# segstart = 543.904
+# segstop = 546.146
+# speaker = joelster_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 123
+# segstart = 546.146
+# segstop = 551.202
+# speaker = joelster_02uk
+# text = det var folk fra heile landet # e og så satt vi sånn og frat- prata fram og tilbake med hverandre
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	0	FINV	_	_
+3	folk	folk	subst	subst	_	2	SPRED	_	_
+4	fra	fra	prep	prep	_	3	ATR	_	_
+5	heile	heil	adj	adj	_	6	ATR	_	_
+6	landet	land	subst	subst	_	4	PUTFYLL	_	_
+7	#	#	pause	pause	_	9	IK	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	og	og	konj	konj	_	11	KONJ	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	satt	sitte	verb	verb	_	2	KOORD	_	_
+12	vi	vi	pron	pron	_	11	SUBJ	_	_
+13	sånn	sånn	adv	adv	_	11	ADV	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	frat-	frat-	ufullst	ufullst	_	16	FYLL	_	_
+16	prata	prat	verb	verb	_	2	KOORD	_	_
+17	fram	fram	prep	prep	_	16	ADV	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	tilbake	tilbake	prep	prep	_	17	KOORD	_	_
+20	med	med	prep	prep	_	16	ADV	_	_
+21	hverandre	hverandre	pron	pron	_	20	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 124
+# segstart = 551.202
+# segstop = 557.057
+# speaker = joelster_02uk
+# text = og dette her ble jo så galt at de andre begynner jo å herme etter det så # så de begynner å prate sånn som vi prata
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	dette	dette	pron	pron	_	4	SUBJ	_	_
+3	her	her	prep	prep	_	4	ADV	_	_
+4	ble	bli	verb	verb	_	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	galt	gale	adj	adj	_	4	SPRED	_	_
+8	at	at	sbu	sbu	_	11	SBU	_	_
+9	de	de	pron	pron	_	10	DET	_	_
+10	andre	andre	det	det	_	11	SUBJ	_	_
+11	begynner	begynne	verb	verb	_	4	ADV	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	å	å	inf-merke	inf-merke	_	11	DOBJ	_	_
+14	herme	herme	verb	verb	_	13	INFV	_	_
+15	etter	etter	prep	prep	_	14	ADV	_	_
+16	det	det	pron	pron	_	15	PUTFYLL	_	_
+17	så	så	adv	adv	_	4	ADV	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	så	så	konj	konj	_	21	KONJ	_	_
+20	de	de	pron	pron	_	21	SUBJ	_	_
+21	begynner	begynne	verb	verb	_	4	KOORD	_	_
+22	å	å	inf-merke	inf-merke	_	21	DOBJ	_	_
+23	prate	prate	verb	verb	_	22	INFV	_	_
+24	sånn	sånn	adv	adv	_	23	ADV	_	_
+25	som	som	sbu	sbu	_	27	SBU	_	_
+26	vi	vi	pron	pron	_	27	SUBJ	_	_
+27	prata	prat	verb	verb	_	23	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 125
+# segstart = 557.057
+# segstop = 566.032
+# speaker = joelster_02uk
+# text = og svarte på sånn her # de som har levd ei stund # her de svarer jo litt sånn nja # ja # veit nå ikke heilt
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	svarte	svare	adj	adj	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	sånn	sånn	adv	adv	_	3	PUTFYLL	_	_
+5	her	her	prep	prep	_	4	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	de	de	pron	pron	_	2	APP	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	har	ha	verb	verb	_	7	ATR	_	_
+10	levd	leve	verb	verb	_	9	INFV	_	_
+11	ei	ei	det	det	_	12	DET	_	_
+12	stund	stund	subst	subst	_	10	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	her	her	prep	prep	_	7	ATR	_	_
+15	de	de	pron	pron	_	16	SUBJ	_	_
+16	svarer	svare	verb	verb	_	2	ADV	_	_
+17	jo	jo	adv	adv	_	16	ADV	_	_
+18	litt	litt	adj	adj	_	16	ADV	_	_
+19	sånn	sånn	det	det	_	16	ADV	_	_
+20	nja	nje	subst	subst	_	24	INTERJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	ja	ja	interj	interj	_	24	INTERJ	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	veit	veit	verb	verb	_	2	KOORD	_	_
+25	nå	nå	adv	adv	_	24	ADV	_	_
+26	ikke	ikke	adv	adv	_	24	ADV	_	_
+27	heilt	heil	adj	adj	_	26	ADV	_	_
+
+# file = joelster_02uk-ov
+# id = 126
+# segstart = 566.032
+# segstop = 575.065
+# speaker = ov
+# text = men hva ellers er det som er # e hvis du skal prate slik som det eldre hva gjør du da ? # hva veit du bevisst hva du gjør ?
+1	men	men	konj	konj	_	0	KONJ	_	_
+2	hva	hva	pron	pron	_	1	DET	_	_
+3	ellers	ellers	adv	adv	_	4	ADV	_	_
+4	er	være	verb	verb	_	2	ADV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	er	være	verb	verb	_	5	ATR	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	hvis	hvis	sbu	sbu	_	12	SBU	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	skal	skal	verb	verb	_	4	SPRED	_	_
+13	prate	prate	verb	verb	_	12	INFV	_	_
+14	slik	slik	adv	adv	_	13	ADV	_	_
+15	som	som	sbu	sbu	_	13	ADV	_	_
+16	det	det	det	det	_	17	DET	_	_
+17	eldre	gammel	adj	adj	_	15	PUTFYLL	_	_
+18	hva	hva	pron	pron	_	19	DOBJ	_	_
+19	gjør	gjøre	verb	verb	_	4	PAR	_	_
+20	du	du	pron	pron	_	19	SUBJ	_	_
+21	da	da	adv	adv	_	19	ADV	_	_
+22	?	?	clb	clb	_	24	IK	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	hva	hva	pron	pron	_	25	ADV	_	_
+25	veit	veit	verb	verb	_	4	SLETT	_	_
+26	du	du	pron	pron	_	25	SUBJ	_	_
+27	bevisst	bevisst	adj	adj	_	25	ADV	_	_
+28	hva	hva	pron	pron	_	30	DOBJ	_	_
+29	du	du	pron	pron	_	30	SUBJ	_	_
+30	gjør	gjøre	verb	verb	_	25	DOBJ	_	_
+31	?	?	clb	clb	_	4	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 127
+# segstart = 566.032
+# segstop = 575.065
+# speaker = joelster_02uk
+# text = * * m
+1	*	*	pause	pause	_	0	IK	_	_
+2	*	*	pause	pause	_	3	IK	_	_
+3	m	m	interj	interj	_	1	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 128
+# segstart = 575.065
+# segstop = 581.973
+# speaker = joelster_02uk
+# text = jeg var jeg tenker meg e mye mer om hvilke ord jeg bruker og sånn da # em # ja
+1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+2	var	være	verb	verb	_	4	REP	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	tenker	tenke	verb	verb	_	0	FINV	_	_
+5	meg	meg	pron	pron	_	4	DOBJ	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	mye	mye	adj	adj	_	8	ADV	_	_
+8	mer	mye	adj	adj	_	4	ADV	_	_
+9	om	om	prep	prep	_	4	ADV	_	_
+10	hvilke	hvilke	det	det	_	11	DET	_	_
+11	ord	ord	subst	subst	_	9	PUTFYLL	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	bruker	bruke	verb	verb	_	4	KOORD	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	sånn	sånn	adv	adv	_	13	ADV	_	_
+16	da	da	adv	adv	_	13	ADV	_	_
+17	#	#	pause	pause	_	20	IK	_	_
+18	em	em	ukjent	ukjent	_	20	FYLL	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	ja	ja	interj	interj	_	4	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 129
+# segstart = 581.973
+# segstop = 586.003
+# speaker = joelster_02uk
+# text = de har jo veldig masse stilige ord som jeg gjerne burde # tatt opp igjen og brukt
+1	de	de	pron	pron	_	2	SUBJ	_	_
+2	har	ha	verb	verb	_	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	veldig	veldig	adj	adj	_	5	ADV	_	_
+5	masse	masse	adj	adj	_	7	ATR	_	_
+6	stilige	stilig	subst	subst	_	7	ATR	_	_
+7	ord	ord	subst	subst	_	2	DOBJ	_	_
+8	som	som	sbu	sbu	_	11	SBU	_	_
+9	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+10	gjerne	gjerne	adv	adv	_	11	ADV	_	_
+11	burde	burde	verb	verb	_	7	ATR	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	tatt	ta	verb	verb	_	11	INFV	_	_
+14	opp	opp	prep	prep	_	13	ADV	_	_
+15	igjen	igjen	adv	adv	_	13	ADV	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	brukt	bruke	verb	verb	_	13	KOORD	_	_
+
+# file = joelster_02uk-ov
+# id = 130
+# segstart = 586.003
+# segstop = 588.483
+# speaker = ov
+# text = ja # som for eksempel ?
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	som	som	sbu	sbu	_	1	ADV	_	_
+4	for	for	prep	prep	_	3	PUTFYLL	_	_
+5	eksempel	eksempel	subst	subst	_	4	PUTFYLL	_	_
+6	?	$?	clb	clb	_	1	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 131
+# segstart = 588.483
+# segstop = 590.755
+# speaker = joelster_02uk
+# text = andøge for eksempel
+1	andøge	andøge	subst	subst	_	0	FRAG	_	_
+2	for	for	prep	prep	_	1	ADV	_	_
+3	eksempel	eksempel	subst	subst	_	2	PUTFYLL	_	_
+
+# file = joelster_02uk-ov
+# id = 132
+# segstart = 588.483
+# segstop = 590.755
+# speaker = ov
+# text = * andøge ?
+1	*	*	pause	pause	_	2	IK	_	_
+2	andøge	andøge	subst	subst	_	0	FRAG	_	_
+3	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 133
+# segstart = 590.755
+# segstop = 591.399
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 134
+# segstart = 591.399
+# segstop = 592.258
+# speaker = ov
+# text = er motsatt ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	motsatt	motsette	adj	adj	_	1	SPRED	_	_
+3	?	?	clb	clb	_	1	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 135
+# segstart = 592.258
+# segstop = 604.746
+# speaker = joelster_02uk
+# text = e # nei det er at # e # ja de andøge på noe som er heime # hvis at de er på tur # da tenker de på noe som # e ja # kanskje ikke er som # ja
+1	e	e	nol	nol	_	3	FYLL	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	nei	nei	interj	interj	_	5	INTERJ	_	_
+4	det	det	pron	pron	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	at	at	sbu	sbu	_	22	SBU	_	_
+7	#	#	pause	pause	_	10	IK	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ja	ja	interj	interj	_	22	INTERJ	_	_
+11	de	de	pron	pron	_	12	SUBJ	_	_
+12	andøge	andøge	verb	verb	_	22	ADV	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	noe	noe	pron	pron	_	13	PUTFYLL	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	er	være	verb	verb	_	14	ATR	_	_
+17	heime	heime	prep	prep	_	16	SPRED	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	hvis	hvis	pron	pron	_	22	KONJ	_	_
+20	at	at	sbu	sbu	_	22	SBU	_	_
+21	de	de	pron	pron	_	22	SUBJ	_	_
+22	er	være	verb	verb	_	5	SPRED	_	_
+23	på	på	prep	prep	_	22	SPRED	_	_
+24	tur	tur	subst	subst	_	23	PUTFYLL	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	da	da	adv	adv	_	27	ADV	_	_
+27	tenker	tenke	verb	verb	_	5	KOORD	_	_
+28	de	de	pron	pron	_	27	SUBJ	_	_
+29	på	på	prep	prep	_	27	ADV	_	_
+30	noe	noe	pron	pron	_	29	PUTFYLL	_	_
+31	som	som	sbu	sbu	_	38	SBU	_	_
+32	#	#	pause	pause	_	34	IK	_	_
+33	e	e	nol	nol	_	34	FYLL	_	_
+34	ja	ja	interj	interj	_	38	INTERJ	_	_
+35	#	#	pause	pause	_	36	IK	_	_
+36	kanskje	kanskje	adv	adv	_	38	ADV	_	_
+37	ikke	ikke	adv	adv	_	38	ADV	_	_
+38	er	være	verb	verb	_	30	ATR	_	_
+39	som	som	prep	prep	_	38	SBU	_	_
+40	#	#	pause	pause	_	41	IK	_	_
+41	ja	ja	interj	interj	_	27	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 136
+# segstart = 604.746
+# segstop = 606.322
+# speaker = ov
+# text = du tenker på noe som er vekk ?
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	tenker	tenke	verb	verb	_	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	noe	noe	pron	pron	_	3	PUTFYLL	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	er	være	verb	verb	_	4	ATR	_	_
+7	vekk	vekk	prep	prep	_	6	SPRED	_	_
+8	?	?	clb	clb	_	2	IP	_	_
+
+# file = joelster_02uk-ov
+# id = 137
+# segstart = 606.322
+# segstop = 614.883
+# speaker = joelster_02uk
+# text = nei de tenker på noe # ja hvis at jeg andøga heim igjen # så e # ja # de tenker det at de må komme seg heim igjen for de har noe de skulle ha gjort heime eller # ja
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	de	de	pron	pron	_	3	SUBJ	_	_
+3	tenker	tenke	verb	verb	_	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	noe	noe	pron	pron	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	21	INTERJ	_	_
+8	hvis	hvis	pron	pron	_	9	ADV	_	_
+9	at	at	sbu	sbu	_	11	SBU	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	andøga	andøge	verb	verb	_	7	ADV	_	_
+12	heim	heim	prep	prep	_	11	ADV	_	_
+13	igjen	igjen	adv	adv	_	11	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	så	så	adv	adv	_	21	ADV	_	_
+16	e	e	nol	nol	_	18	FYLL	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	ja	ja	interj	interj	_	21	INTERJ	_	_
+19	#	#	pause	pause	_	20	IK	_	_
+20	de	de	pron	pron	_	21	SUBJ	_	_
+21	tenker	tenke	verb	verb	_	3	KOORD	_	_
+22	det	det	pron	pron	_	21	DOBJ	_	_
+23	at	at	sbu	sbu	_	25	SBU	_	_
+24	de	de	pron	pron	_	25	SUBJ	_	_
+25	må	må	verb	verb	_	22	APP	_	_
+26	komme	komme	verb	verb	_	25	INFV	_	_
+27	seg	seg	pron	pron	_	26	DOBJ	_	_
+28	heim	heim	prep	prep	_	26	ADV	_	_
+29	igjen	igjen	adv	adv	_	26	ADV	_	_
+30	for	for	konj	konj	_	32	KONJ	_	_
+31	de	de	pron	pron	_	32	SUBJ	_	_
+32	har	ha	verb	verb	_	3	KOORD	_	_
+33	noe	noe	det	det	_	32	DOBJ	_	_
+34	de	de	pron	pron	_	35	SUBJ	_	_
+35	skulle	skulle	verb	verb	_	33	ATR	_	_
+36	ha	ha	verb	verb	_	35	INFV	_	_
+37	gjort	gjøre	verb	verb	_	36	INFV	_	_
+38	heime	heime	prep	prep	_	37	ADV	_	_
+39	eller	eller	konj	konj	_	41	KONJ	_	_
+40	#	#	pause	pause	_	41	IK	_	_
+41	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 138
+# segstart = 614.883
+# segstop = 616.886
+# speaker = ov
+# text = ja # mm
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+
+# file = joelster_02uk-ov
+# id = 139
+# segstart = 616.886
+# segstop = 617.411
+# speaker = joelster_02uk
+# text = mm
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+

@@ -1,0 +1,2007 @@
+# file = heroeyMR_02uk-ta
+# id = 1
+# segstart = 20.39
+# segstop = 23.586
+# speaker = ta
+# text = hvor er du # født og oppvokst hen ?
+1	hvor	hvor	adv	adv	_	2	ADV	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	du	du	pron	pron	_	2	SUBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	født	føde	verb	verb	_	2	SPRED	_	_
+6	og	og	konj	konj	_	7	KONJ	_	_
+7	oppvokst	oppvokst	adj	adj	_	5	KOORD	_	_
+8	hen	hen	prep	prep	_	2	ADV	_	_
+9	?	?	clb	clb	_	2	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 2
+# segstart = 23.586
+# segstop = 24.874
+# speaker = heroeyMR_02uk
+# text = uti Kvalsvika
+1	uti	uti	prep	prep	_	0	FRAG	_	_
+2	Kvalsvika	kvalsvike	subst	subst	_	1	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 3
+# segstart = 24.874
+# segstop = 27.402
+# speaker = ta
+# text = ja så det er det samme plassen som han heroeyMR 01um ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	så	så	konj	konj	_	4	KONJ	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	det	det	_	7	DET	_	_
+6	samme	samme	det	det	_	7	DET	_	_
+7	plassen	plass	subst	subst	_	4	SPRED	_	_
+8	som	som	sbu	sbu	_	10	SBU	_	_
+9	han	han	pron	pron	_	10	DET	_	_
+10	heroeyMR	heroeyMR	verb	verb	_	7	ATR	_	_
+11	01um	01um	subst	subst	_	10	ATR	_	_
+12	?	$?	clb	clb	_	4	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 4
+# segstart = 27.402
+# segstop = 29.655
+# speaker = heroeyMR_02uk
+# text = ja det er liksom hi sida av øya på en måte
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	liksom	liksom	adv	adv	_	3	ADV	_	_
+5	hi	hi	det	det	_	6	DET	_	_
+6	sida	side	subst	subst	_	3	SPRED	_	_
+7	av	av	prep	prep	_	6	ATR	_	_
+8	øya	øye	subst	subst	_	7	PUTFYLL	_	_
+9	på	på	prep	prep	_	3	ATR	_	_
+10	en	en	det	det	_	11	DET	_	_
+11	måte	måte	subst	subst	_	9	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 6
+# segstart = 29.655
+# segstop = 36.101
+# speaker = ta
+# text = ja vel # akkurat
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 7
+# segstart = 29.655
+# segstop = 30.908
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 8
+# segstart = 30.908
+# segstop = 36.101
+# speaker = ta
+# text = og Kvalsøya det er d- den øya som ligger hvis du kjører utover til venstre så og si her eller ?
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	Kvalsøya	Kvalsøya	subst	subst	_	3	APP	_	_
+3	det	det	pron	pron	_	4	SUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	d-	d-	ufullst	ufullst	_	6	FYLL	_	_
+6	den	den	det	det	_	7	DET	_	_
+7	øya	øye	subst	subst	_	4	SPRED	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	ligger	ligge	verb	verb	_	7	ATR	_	_
+10	hvis	hvis	sbu	sbu	_	12	SBU	_	_
+11	du	du	pron	pron	_	12	SUBJ	_	_
+12	kjører	kjøre	verb	verb	_	4	ADV	_	_
+13	utover	utover	prep	prep	_	12	ADV	_	_
+14	til	til	prep	prep	_	12	ADV	_	_
+15	venstre	venstre	subst	subst	_	14	PUTFYLL	_	_
+16	så	så	adv	adv	_	12	ADV	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	si	si	det	det	_	12	KOORD	_	_
+19	her	her	prep	prep	_	18	ADV	_	_
+20	eller	eller	konj	konj	_	4	KONJ	_	_
+21	?	?	clb	clb	_	4	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 9
+# segstart = 36.101
+# segstop = 36.798
+# speaker = heroeyMR_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 10
+# segstart = 36.798
+# segstop = 37.371
+# speaker = ta
+# text = blir det ikke det ?
+1	blir	bli	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	ikke	ikke	adv	adv	_	1	ADV	_	_
+4	det	det	pron	pron	_	1	SPRED	_	_
+5	?	?	clb	clb	_	1	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 11
+# segstart = 37.371
+# segstop = 39.684
+# speaker = heroeyMR_02uk
+# text = jo da
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 12
+# segstart = 39.684
+# segstop = 47.983
+# speaker = ta
+# text = akkurat ## ja hvordan e # hvordan synes du det var e eller er kan vi si kanskje eller var å vokse opp ute på Kvalsøya ?
+1	akkurat	akkurat	adv	adv	_	8	ADV	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	8	INTERJ	_	_
+4	hvordan	hvordan	adv	adv	_	8	REP	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	hvordan	hvordan	adv	adv	_	8	ADV	_	_
+8	synes	synes	verb	verb	_	0	FINV	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	var	være	verb	verb	_	15	REP	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	eller	eller	konj	konj	_	14	KONJ	_	_
+14	er	være	verb	verb	_	15	REP	_	_
+15	kan	kan	verb	verb	_	8	KOORD	_	_
+16	vi	vi	pron	pron	_	15	SUBJ	_	_
+17	si	si	det	det	_	15	INFV	_	_
+18	kanskje	kanskje	adv	adv	_	17	ADV	_	_
+19	eller	eller	konj	konj	_	20	KONJ	_	_
+20	var	være	verb	verb	_	15	KOORD	_	_
+21	å	å	inf-merke	inf-merke	_	20	SPRED	_	_
+22	vokse	vokse	verb	verb	_	21	INFV	_	_
+23	opp	opp	prep	prep	_	22	ADV	_	_
+24	ute	ute	prep	prep	_	22	ADV	_	_
+25	på	på	prep	prep	_	24	PUTFYLL	_	_
+26	Kvalsøya	Kvalsøya	subst	subst	_	25	PUTFYLL	_	_
+27	?	?	clb	clb	_	15	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 13
+# segstart = 47.983
+# segstop = 48.722
+# speaker = heroeyMR_02uk
+# text = Kvalsvika ?
+1	Kvalsvika	kvalsvike	subst	subst	_	0	FRAG	_	_
+2	?	?	clb	clb	_	1	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 14
+# segstart = 48.722
+# segstop = 50.885
+# speaker = ta
+# text = ja Kvalsvika ja akkurat
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	Kvalsvika	kvalsvike	subst	subst	_	1	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 15
+# segstart = 48.722
+# segstop = 50.885
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 16
+# segstart = 50.885
+# segstop = 53.055
+# speaker = heroeyMR_02uk
+# text = e det var kjekt det # det er veldig flott der
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	var	være	verb	verb	_	0	FINV	_	_
+4	kjekt	kjekk	adj	adj	_	3	SPRED	_	_
+5	det	det	pron	pron	_	2	APP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	3	KOORD	_	_
+9	veldig	veldig	adj	adj	_	10	ADV	_	_
+10	flott	flott	adj	adj	_	8	SPRED	_	_
+11	der	der	prep	prep	_	8	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 17
+# segstart = 53.055
+# segstop = 61.426
+# speaker = ta
+# text = ja ## så hva dere gjør på # altså når eller gjorde på kan du si når du var e unge ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	##	##	pause	pause	_	1	IK	_	_
+3	så	så	konj	konj	_	6	KONJ	_	_
+4	hva	hva	pron	pron	_	6	DOBJ	_	_
+5	dere	dere	pron	pron	_	6	SUBJ	_	_
+6	gjør	gjøre	verb	verb	_	0	FINV	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	altså	altså	adv	adv	_	14	ADV	_	_
+10	når	når	adv	adv	_	14	ADV	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	gjorde	gjøre	verb	verb	_	14	REP	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	kan	kan	verb	verb	_	6	KOORD	_	_
+15	du	du	pron	pron	_	14	SUBJ	_	_
+16	si	si	verb	verb	_	14	INFV	_	_
+17	når	når	sbu	sbu	_	19	SBU	_	_
+18	du	du	pron	pron	_	19	SUBJ	_	_
+19	var	være	verb	verb	_	16	DOBJ	_	_
+20	e	e	nol	nol	_	21	FYLL	_	_
+21	unge	ung	subst	subst	_	19	SPRED	_	_
+22	?	?	clb	clb	_	6	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 18
+# segstart = 61.426
+# segstop = 68.565
+# speaker = heroeyMR_02uk
+# text = nei vi brukte veldig ofte å samles eller vi gjør det fortsatt det er f- for det er vi var # vi er ikke så mange som bor der så vi
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	_	3	SUBJ	_	_
+3	brukte	bruke	verb	verb	_	0	FINV	_	_
+4	veldig	veldig	adj	adj	_	5	ADV	_	_
+5	ofte	oft	adj	adj	_	3	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	3	ADV	_	_
+7	samles	samle	verb	verb	_	6	INFV	_	_
+8	eller	eller	konj	konj	_	10	KONJ	_	_
+9	vi	vi	pron	pron	_	10	SUBJ	_	_
+10	gjør	gjøre	verb	verb	_	3	KOORD	_	_
+11	det	det	pron	pron	_	10	DOBJ	_	_
+12	fortsatt	fortsatt	adv	adv	_	10	ADV	_	_
+13	det	det	pron	pron	_	14	FSUBJ	_	_
+14	er	være	verb	verb	_	23	REP	_	_
+15	f-	f-	ufullst	ufullst	_	16	FYLL	_	_
+16	for	for	konj	konj	_	20	KONJ	_	_
+17	det	det	pron	pron	_	18	FSUBJ	_	_
+18	er	være	verb	verb	_	20	REP	_	_
+19	vi	vi	pron	pron	_	20	SUBJ	_	_
+20	var	være	verb	verb	_	23	REP	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	vi	vi	pron	pron	_	23	SUBJ	_	_
+23	er	være	verb	verb	_	3	KOORD	_	_
+24	ikke	ikke	adv	adv	_	23	ADV	_	_
+25	så	så	adv	adv	_	26	ADV	_	_
+26	mange	mange	adj	adj	_	23	SPRED	_	_
+27	som	som	sbu	sbu	_	28	SBU	_	_
+28	bor	bore	verb	verb	_	26	ATR	_	_
+29	der	der	prep	prep	_	28	ADV	_	_
+30	så	så	verb	verb	_	28	ADV	_	_
+31	vi	vi	pron	pron	_	30	SUBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 19
+# segstart = 68.565
+# segstop = 75.531
+# speaker = heroeyMR_02uk
+# text = da brukte vi å samles holde på med fotball og # finne på leiker ute # gjøm og leite og alt mulig sånt # så det var veldig kjekt
+1	da	da	adv	adv	_	2	ADV	_	_
+2	brukte	bruke	verb	verb	_	0	FINV	_	_
+3	vi	vi	pron	pron	_	2	SUBJ	_	_
+4	å	å	inf-merke	inf-merke	_	2	DOBJ	_	_
+5	samles	samle	verb	verb	_	4	INFV	_	_
+6	holde	holde	verb	verb	_	5	INFV	_	_
+7	på	på	prep	prep	_	8	REP	_	_
+8	med	med	prep	prep	_	6	ADV	_	_
+9	fotball	fotball	subst	subst	_	8	PUTFYLL	_	_
+10	og	og	konj	konj	_	12	KONJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	finne	finne	verb	verb	_	5	KOORD	_	_
+13	på	på	prep	prep	_	12	ADV	_	_
+14	leiker	leike	subst	subst	_	13	PUTFYLL	_	_
+15	ute	ute	prep	prep	_	12	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	gjøm	gjøm	subst	subst	_	15	PUTFYLL	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	leite	leite	subst	subst	_	12	KOORD	_	_
+20	og	og	konj	konj	_	27	KONJ	_	_
+21	alt	alt	det	det	_	27	DET	_	_
+22	mulig	mulig	adj	adj	_	21	KOORD	_	_
+23	sånt	sånt	pron	pron	_	22	DET	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	så	så	konj	konj	_	27	KONJ	_	_
+26	det	det	pron	pron	_	27	FSUBJ	_	_
+27	var	være	verb	verb	_	2	KOORD	_	_
+28	veldig	veldig	adj	adj	_	29	ADV	_	_
+29	kjekt	kjekk	adj	adj	_	27	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 20
+# segstart = 75.531
+# segstop = 84.358
+# speaker = ta
+# text = ja ## em ## er det noe spesielt du husker ifra # barndommen ## noen hendelse eller noe s- … ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	##	##	pause	pause	_	5	IK	_	_
+3	em	em	ukjent	ukjent	_	5	FYLL	_	_
+4	##	##	pause	pause	_	5	IK	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	noe	noe	det	det	_	8	DET	_	_
+8	spesielt	spesiell	adj	adj	_	5	SPRED	_	_
+9	du	du	pron	pron	_	10	SUBJ	_	_
+10	husker	huske	verb	verb	_	8	ATR	_	_
+11	ifra	ifra	prep	prep	_	10	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	barndommen	barndom	subst	subst	_	11	PUTFYLL	_	_
+14	##	##	pause	pause	_	15	IK	_	_
+15	noen	noen	det	det	_	16	DET	_	_
+16	hendelse	hendelse	subst	subst	_	11	KOORD	_	_
+17	eller	eller	konj	konj	_	18	KONJ	_	_
+18	noe	noe	det	det	_	16	KOORD	_	_
+19	s-	s-	ufullst	ufullst	_	5	FYLL	_	_
+20	…	…	ukjent	ukjent	_	5	IK	_	_
+21	?	?	clb	clb	_	5	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 22
+# segstart = 84.358
+# segstop = 86.406
+# speaker = heroeyMR_02uk
+# text = nei trur ikke det
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	trur	tru	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	_	2	DOBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 23
+# segstart = 86.406
+# segstop = 89.602
+# speaker = ta
+# text = var det noen som datt på sjøen for eksempel eller et eller anna ?
+1	var	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	noen	noen	pron	pron	_	1	PSUBJ	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	datt	dette	verb	verb	_	3	ATR	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	sjøen	sjø	subst	subst	_	6	PUTFYLL	_	_
+8	for	for	prep	prep	_	5	ADV	_	_
+9	eksempel	eksempel	subst	subst	_	8	PUTFYLL	_	_
+10	eller	eller	konj	konj	_	11	KONJ	_	_
+11	et	en	det	det	_	3	KOORD	_	_
+12	eller	eller	konj	konj	_	13	KONJ	_	_
+13	anna	annen	det	det	_	3	KOORD	_	_
+14	?	$?	clb	clb	_	1	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 24
+# segstart = 89.602
+# segstop = 92.559
+# speaker = heroeyMR_02uk
+# text = nei trur ikke det # har noe som slår meg
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	trur	tru	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	_	6	SUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	har	ha	verb	verb	_	2	DOBJ	_	_
+7	noe	noe	pron	pron	_	6	DOBJ	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	slår	slå	verb	verb	_	7	ATR	_	_
+10	meg	meg	pron	pron	_	9	DOBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 25
+# segstart = 92.559
+# segstop = 103.93
+# speaker = ta
+# text = nei # så så folk er e men når det gjelder forhold til sjøen er det ## er da f- f- unger formanet til å så være voldsomt sånn forsiktig og slik ?
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	adv	adv	_	4	REP	_	_
+4	så	så	adv	adv	_	6	ADV	_	_
+5	folk	folk	subst	subst	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	18	REP	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	men	men	konj	konj	_	18	KONJ	_	_
+9	når	når	sbu	sbu	_	11	SBU	_	_
+10	det	det	pron	pron	_	11	FSUBJ	_	_
+11	gjelder	gjelde	verb	verb	_	18	APP	_	_
+12	forhold	forhold	subst	subst	_	11	DOBJ	_	_
+13	til	til	prep	prep	_	12	ATR	_	_
+14	sjøen	sjø	subst	subst	_	13	PUTFYLL	_	_
+15	er	være	verb	verb	_	18	REP	_	_
+16	det	det	pron	pron	_	15	FSUBJ	_	_
+17	##	##	pause	pause	_	18	IK	_	_
+18	er	være	verb	verb	_	0	FINV	_	_
+19	da	da	adv	adv	_	18	ADV	_	_
+20	f-	f-	ufullst	ufullst	_	22	FYLL	_	_
+21	f-	f-	ufullst	ufullst	_	22	FYLL	_	_
+22	unger	unge	subst	subst	_	18	SPRED	_	_
+23	formanet	forman	adj	adj	_	22	KOORD	_	_
+24	til	til	prep	prep	_	23	ATR	_	_
+25	å	å	inf-merke	inf-merke	_	24	PUTFYLL	_	_
+26	så	så	adv	adv	_	27	ADV	_	_
+27	være	være	verb	verb	_	25	INFV	_	_
+28	voldsomt	voldsom	adj	adj	_	30	ADV	_	_
+29	sånn	sånn	adv	adv	_	30	DET	_	_
+30	forsiktig	forsiktig	adj	adj	_	27	SPRED	_	_
+31	og	og	konj	konj	_	32	KONJ	_	_
+32	slik	slik	adv	adv	_	18	ADV	_	_
+33	?	?	clb	clb	_	18	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 26
+# segstart = 103.93
+# segstop = 108.628
+# speaker = heroeyMR_02uk
+# text = ja jeg vet ikke jeg er helt er # vi er de fleste er veldig mye ute på sjøen
+1	ja	ja	interj	interj	_	11	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	vet	vite	verb	verb	_	11	REP	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	er	være	verb	verb	_	11	REP	_	_
+7	helt	hele	adj	adj	_	6	ADV	_	_
+8	er	være	verb	verb	_	11	REP	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	vi	vi	pron	pron	_	11	SUBJ	_	_
+11	er	være	verb	verb	_	14	REP	_	_
+12	de	de	det	det	_	13	DET	_	_
+13	fleste	fler	adj	adj	_	14	SUBJ	_	_
+14	er	være	verb	verb	_	0	FINV	_	_
+15	veldig	veldig	adj	adj	_	16	ADV	_	_
+16	mye	mye	adj	adj	_	14	SPRED	_	_
+17	ute	ute	prep	prep	_	14	SPRED	_	_
+18	på	på	prep	prep	_	17	PUTFYLL	_	_
+19	sjøen	sjø	subst	subst	_	18	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 27
+# segstart = 108.628
+# segstop = 114.97
+# speaker = heroeyMR_02uk
+# text = nesten alle jeg kjenner uti Kvalsvika har hver sin båt og # alle liker seg ut på der
+1	nesten	nesten	adv	adv	_	2	ADV	_	_
+2	alle	alle	det	det	_	4	DOBJ	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	kjenner	kjenne	verb	verb	_	0	FINV	_	_
+5	uti	uti	prep	prep	_	4	ADV	_	_
+6	Kvalsvika	kvalsvike	subst	subst	_	5	PUTFYLL	_	_
+7	har	ha	verb	verb	_	4	KOORD	_	_
+8	hver	hver	det	det	_	10	DET	_	_
+9	sin	sin	det	det	_	10	DET	_	_
+10	båt	båt	subst	subst	_	7	DOBJ	_	_
+11	og	og	konj	konj	_	14	KONJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	alle	alle	pron	pron	_	14	SUBJ	_	_
+14	liker	like	verb	verb	_	4	KOORD	_	_
+15	seg	seg	pron	pron	_	14	DOBJ	_	_
+16	ut	ut	prep	prep	_	14	ADV	_	_
+17	på	på	prep	prep	_	16	PUTFYLL	_	_
+18	der	der	prep	prep	_	17	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 28
+# segstart = 114.97
+# segstop = 123.15
+# speaker = ta
+# text = ja hva e heroeyMR 01um fortalte om e det med hummerfiske og krabbefiske er det e andre ting en gjør når man # drar ut på sjøen ?
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	hva	hva	pron	pron	_	6	DOBJ	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	heroeyMR	heroeyMR	prep	prep	_	6	DOBJ	_	_
+5	01um	01um	ukjent	ukjent	_	4	DET	_	_
+6	fortalte	fortelle	verb	verb	_	0	FINV	_	_
+7	om	om	prep	prep	_	10	REP	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	det	det	pron	pron	_	7	PUTFYLL	_	_
+10	med	med	prep	prep	_	6	ADV	_	_
+11	hummerfiske	hummerfiske	subst	subst	_	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	krabbefiske	krabbefiske	subst	subst	_	11	KOORD	_	_
+14	er	være	verb	verb	_	6	KOORD	_	_
+15	det	det	pron	pron	_	14	FSUBJ	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	andre	annen	det	det	_	18	DET	_	_
+18	ting	ting	subst	subst	_	14	DOBJ	_	_
+19	en	en	pron	pron	_	20	SUBJ	_	_
+20	gjør	gjøre	verb	verb	_	18	ATR	_	_
+21	når	når	sbu	sbu	_	24	SBU	_	_
+22	man	man	pron	pron	_	24	SUBJ	_	_
+23	#	#	pause	pause	_	24	IK	_	_
+24	drar	dra	verb	verb	_	14	ADV	_	_
+25	ut	ut	prep	prep	_	24	ADV	_	_
+26	på	på	prep	prep	_	24	ADV	_	_
+27	sjøen	sjø	subst	subst	_	26	PUTFYLL	_	_
+28	?	$?	clb	clb	_	6	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 29
+# segstart = 123.15
+# segstop = 130.805
+# speaker = heroeyMR_02uk
+# text = tja jeg bruker bare å fiske vanlig jeg liker jeg bruker ikke få noe napp uansett men # syn- det er bare koselig å sitte der og # fiske
+1	tja	tja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	bruker	bruke	verb	verb	_	0	FINV	_	_
+4	bare	bare	adv	adv	_	3	ADV	_	_
+5	å	å	inf-merke	inf-merke	_	3	DOBJ	_	_
+6	fiske	fiske	verb	verb	_	5	INFV	_	_
+7	vanlig	vanlig	adj	adj	_	6	SPRED	_	_
+8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
+9	liker	like	verb	verb	_	3	KOORD	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	bruker	bruke	verb	verb	_	9	KOORD	_	_
+12	ikke	ikke	adv	adv	_	13	ADV	_	_
+13	få	få	verb	verb	_	11	INFV	_	_
+14	noe	noe	det	det	_	15	DET	_	_
+15	napp	nappe	subst	subst	_	13	DOBJ	_	_
+16	uansett	uansett	adv	adv	_	13	ADV	_	_
+17	men	men	konj	konj	_	21	KONJ	_	_
+18	#	#	pause	pause	_	20	IK	_	_
+19	syn-	syn-	ufullst	ufullst	_	20	FYLL	_	_
+20	det	det	pron	pron	_	21	FSUBJ	_	_
+21	er	være	verb	verb	_	3	KOORD	_	_
+22	bare	bare	adv	adv	_	23	ADV	_	_
+23	koselig	koselig	adj	adj	_	21	SPRED	_	_
+24	å	å	inf-merke	inf-merke	_	21	PSUBJ	_	_
+25	sitte	sitte	verb	verb	_	24	INFV	_	_
+26	der	der	prep	prep	_	25	ADV	_	_
+27	og	og	konj	konj	_	29	KONJ	_	_
+28	#	#	pause	pause	_	29	IK	_	_
+29	fiske	fiske	subst	subst	_	25	KOORD	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 30
+# segstart = 130.805
+# segstop = 131.139
+# speaker = ta
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 31
+# segstart = 131.139
+# segstop = 131.878
+# speaker = heroeyMR_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 32
+# segstart = 131.878
+# segstop = 134.811
+# speaker = ta
+# text = hva hva slags fisk er det dere får ? hvis en får fisk ?
+1	hva	hva	pron	pron	_	0	DOBJ	_	_
+2	hva	hva	pron	pron	_	3	DET	_	_
+3	slags	slags	subst	subst	_	4	DET	_	_
+4	fisk	fisk	subst	subst	_	5	SUBJ	_	_
+5	er	være	verb	verb	_	1	ADV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	dere	dere	pron	pron	_	8	SUBJ	_	_
+8	får	få	verb	verb	_	5	ADV	_	_
+9	?	?	clb	clb	_	10	IK	_	_
+10	hvis	hvis	sbu	sbu	_	12	SBU	_	_
+11	en	en	pron	pron	_	12	SUBJ	_	_
+12	får	få	verb	verb	_	5	ADV	_	_
+13	fisk	fisk	subst	subst	_	12	DOBJ	_	_
+14	?	?	clb	clb	_	5	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 34
+# segstart = 134.811
+# segstop = 138.507
+# speaker = heroeyMR_02uk
+# text = e det vet ikke jeg jeg # eter ikke fisk
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	_	3	DOBJ	_	_
+3	vet	vite	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+6	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	eter	eter	adj	adj	_	3	KOORD	_	_
+9	ikke	ikke	adv	adv	_	8	ADV	_	_
+10	fisk	fisk	subst	subst	_	8	DOBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 35
+# segstart = 138.507
+# segstop = 140.176
+# speaker = ta
+# text = du vil helst ikke ha fisk kanskje ?
+1	du	du	pron	pron	_	2	SUBJ	_	_
+2	vil	vil	verb	verb	_	0	FINV	_	_
+3	helst	helst	adv	adv	_	5	ADV	_	_
+4	ikke	ikke	adv	adv	_	5	ADV	_	_
+5	ha	ha	verb	verb	_	2	INFV	_	_
+6	fisk	fisk	subst	subst	_	5	DOBJ	_	_
+7	kanskje	kanskje	adv	adv	_	5	ADV	_	_
+8	?	?	clb	clb	_	7	IK	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 37
+# segstart = 140.176
+# segstop = 142.172
+# speaker = heroeyMR_02uk
+# text = nei det blir så tungt jeg ikke den opp
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	blir	bli	verb	verb	_	8	KOORD	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	tungt	tung	adj	adj	_	3	SPRED	_	_
+6	jeg	jeg	pron	pron	_	5	ADV	_	_
+7	ikke	ikke	adv	adv	_	6	ADV	_	_
+8	den	den	det	det	_	0	DET	_	_
+9	opp	opp	prep	prep	_	3	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 38
+# segstart = 142.172
+# segstop = 148.134
+# speaker = ta
+# text = nei # er det men skal vi se Runde ligger det er Runde vi ser det her store fjellet # ut her ?
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	men	men	konj	konj	_	6	KONJ	_	_
+6	skal	skal	verb	verb	_	3	KOORD	_	_
+7	vi	vi	pron	pron	_	6	SUBJ	_	_
+8	se	se	verb	verb	_	6	INFV	_	_
+9	Runde	Runde	subst	subst	_	10	SUBJ	_	_
+10	ligger	ligge	verb	verb	_	8	KOORD	_	_
+11	det	det	pron	pron	_	12	FSUBJ	_	_
+12	er	være	verb	verb	_	10	KOORD	_	_
+13	Runde	Runde	subst	subst	_	12	SPRED	_	_
+14	vi	vi	pron	pron	_	15	SUBJ	_	_
+15	ser	se	verb	verb	_	3	KOORD	_	_
+16	det	det	pron	pron	_	19	DET	_	_
+17	her	her	prep	prep	_	16	ATR	_	_
+18	store	stor	adj	adj	_	19	ATR	_	_
+19	fjellet	fjelle	subst	subst	_	15	DOBJ	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ut	ut	prep	prep	_	15	ADV	_	_
+22	her	her	prep	prep	_	21	PUTFYLL	_	_
+23	?	?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 40
+# segstart = 148.134
+# segstop = 149.143
+# speaker = heroeyMR_02uk
+# text = ja det er det du ser baki der # ja
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SPRED	_	_
+5	du	du	pron	pron	_	6	SUBJ	_	_
+6	ser	se	verb	verb	_	4	ATR	_	_
+7	baki	baki	prep	prep	_	6	DOBJ	_	_
+8	der	der	prep	prep	_	6	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ja	ja	interj	interj	_	3	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 41
+# segstart = 149.143
+# segstop = 153.126
+# speaker = ta
+# text = er det # er det vanlig å dra dit og se på fuglelivet eller ?
+1	er	være	verb	verb	_	4	REP	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	det	det	pron	pron	_	4	FSUBJ	_	_
+6	vanlig	vanlig	adj	adj	_	4	SPRED	_	_
+7	å	å	inf-merke	inf-merke	_	4	PSUBJ	_	_
+8	dra	dra	verb	verb	_	7	INFV	_	_
+9	dit	dit	prep	prep	_	8	ADV	_	_
+10	og	og	konj	konj	_	11	KONJ	_	_
+11	se	se	verb	verb	_	8	KOORD	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	fuglelivet	fugleliv	subst	subst	_	12	PUTFYLL	_	_
+14	eller	eller	konj	konj	_	4	KONJ	_	_
+15	?	?	clb	clb	_	4	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 42
+# segstart = 153.126
+# segstop = 156.322
+# speaker = heroeyMR_02uk
+# text = det er ikke noe jeg gjør da men det er nå mange som syns det er spennende
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	ikke	ikke	adv	adv	_	2	ADV	_	_
+4	noe	noe	pron	pron	_	2	SPRED	_	_
+5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
+6	gjør	gjøre	verb	verb	_	4	ATR	_	_
+7	da	da	adv	adv	_	6	ADV	_	_
+8	men	men	konj	konj	_	10	KONJ	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	2	KOORD	_	_
+11	nå	nå	adv	adv	_	10	ADV	_	_
+12	mange	mange	adj	adj	_	10	SPRED	_	_
+13	som	som	sbu	sbu	_	14	SBU	_	_
+14	syns	synse	verb	verb	_	12	ADV	_	_
+15	det	det	pron	pron	_	16	FSUBJ	_	_
+16	er	være	verb	verb	_	10	KOORD	_	_
+17	spennende	spennende	adj	adj	_	16	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 43
+# segstart = 156.322
+# segstop = 175.144
+# speaker = ta
+# text = ja ## e # hva altså for den som kommer utenfra så er det jo egentlig Runde som er det kjente stedet her # i kommunen
+1	ja	ja	interj	interj	_	13	INTERJ	_	_
+2	##	##	pause	pause	_	5	IK	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	hva	hva	pron	pron	_	13	ADV	_	_
+6	altså	altså	adv	adv	_	7	ADV	_	_
+7	for	for	prep	prep	_	13	ADV	_	_
+8	den	den	pron	pron	_	7	PUTFYLL	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	kommer	komme	verb	verb	_	8	ATR	_	_
+11	utenfra	utenfra	prep	prep	_	10	ADV	_	_
+12	så	så	adv	adv	_	13	ADV	_	_
+13	er	være	verb	verb	_	0	FINV	_	_
+14	det	det	pron	pron	_	13	FSUBJ	_	_
+15	jo	jo	adv	adv	_	13	ADV	_	_
+16	egentlig	egentlig	adj	adj	_	13	ADV	_	_
+17	Runde	Runde	subst	subst	_	13	SPRED	_	_
+18	som	som	sbu	sbu	_	19	SBU	_	_
+19	er	være	verb	verb	_	21	REP	_	_
+20	det	det	det	det	_	23	PUTFYLL	_	_
+21	kjente	kjenne	adj	adj	_	17	ATR	_	_
+22	stedet	sted	subst	subst	_	21	DOBJ	_	_
+23	her	her	prep	prep	_	21	ATR	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	i	i	prep	prep	_	21	ADV	_	_
+26	kommunen	kommune	subst	subst	_	25	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 44
+# segstart = 156.322
+# segstop = 164.502
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 45
+# segstart = 164.502
+# segstop = 175.144
+# speaker = ta
+# text = er det # hvordan e # hvordan ser de som bo- eller dere som bor her på Runde er det # mer en turistplass eller er det en plass dere drar til for eksempel ?
+1	er	være	verb	verb	_	0	FINV	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	hvordan	hvordan	adv	adv	_	8	ADV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	hvordan	hvordan	adv	adv	_	8	ADV	_	_
+8	ser	se	verb	verb	_	1	KOORD	_	_
+9	de	de	pron	pron	_	8	SUBJ	_	_
+10	som	som	sbu	sbu	_	12	REP	_	_
+11	bo-	bo	ufullst	ufullst	_	12	FYLL	_	_
+12	eller	eller	konj	konj	_	19	KONJ	_	_
+13	dere	dere	pron	pron	_	19	SUBJ	_	_
+14	som	som	sbu	sbu	_	15	SBU	_	_
+15	bor	bo	verb	verb	_	13	ATR	_	_
+16	her	her	prep	prep	_	15	ADV	_	_
+17	på	på	prep	prep	_	15	ADV	_	_
+18	Runde	Runde	subst	subst	_	17	PUTFYLL	_	_
+19	er	være	verb	verb	_	8	DOBJ	_	_
+20	det	det	pron	pron	_	19	FSUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	mer	mye	adj	adj	_	24	ATR	_	_
+23	en	en	det	det	_	24	DET	_	_
+24	turistplass	turistplass	subst	subst	_	19	SPRED	_	_
+25	eller	eller	konj	konj	_	26	KONJ	_	_
+26	er	være	verb	verb	_	8	KOORD	_	_
+27	det	det	pron	pron	_	26	FSUBJ	_	_
+28	en	en	det	det	_	29	DET	_	_
+29	plass	plass	subst	subst	_	26	SPRED	_	_
+30	dere	dere	pron	pron	_	31	SUBJ	_	_
+31	drar	dra	verb	verb	_	29	ATR	_	_
+32	til	til	prep	prep	_	31	ADV	_	_
+33	for	for	prep	prep	_	26	ADV	_	_
+34	eksempel	eksempel	subst	subst	_	33	PUTFYLL	_	_
+35	?	$?	clb	clb	_	1	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 46
+# segstart = 175.144
+# segstop = 179.818
+# speaker = heroeyMR_02uk
+# text = nei det vet ikke jeg det er # ser på det som en plass som alle andre plasser her
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	vet	vite	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	jeg	jeg	pron	pron	_	9	REP	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	er	være	verb	verb	_	9	REP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ser	se	verb	verb	_	3	KOORD	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	det	det	pron	pron	_	10	PUTFYLL	_	_
+12	som	som	sbu	sbu	_	9	SBU	_	_
+13	en	en	det	det	_	14	DET	_	_
+14	plass	plass	subst	subst	_	12	PUTFYLL	_	_
+15	som	som	sbu	sbu	_	18	SBU	_	_
+16	alle	alle	det	det	_	18	DET	_	_
+17	andre	andre	det	det	_	18	DET	_	_
+18	plasser	plassere	subst	subst	_	14	ATR	_	_
+19	her	her	prep	prep	_	18	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 47
+# segstart = 179.818
+# segstop = 182.131
+# speaker = ta
+# text = ja # det er ikke noe s- voldsomt spesielt ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	ikke	ikke	adv	adv	_	4	ADV	_	_
+6	noe	noe	det	det	_	9	DET	_	_
+7	s-	s-	ufullst	ufullst	_	8	FYLL	_	_
+8	voldsomt	voldsom	adj	adj	_	9	ADV	_	_
+9	spesielt	spesiell	adj	adj	_	4	SPRED	_	_
+10	?	?	clb	clb	_	4	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 48
+# segstart = 179.818
+# segstop = 182.131
+# speaker = heroeyMR_02uk
+# text = * ikke noe …
+1	*	*	pause	pause	_	2	IK	_	_
+2	ikke	ikke	adv	adv	_	0	FRAG	_	_
+3	noe	noe	pron	pron	_	2	DET	_	_
+4	…	…	ukjent	ukjent	_	3	IK	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 49
+# segstart = 182.131
+# segstop = 183.252
+# speaker = heroeyMR_02uk
+# text = nei egentlig ikke
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	egentlig	egentlig	adj	adj	_	1	ADV	_	_
+3	ikke	ikke	adv	adv	_	1	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 50
+# segstart = 183.252
+# segstop = 189.19
+# speaker = ta
+# text = nei ## e ## sk- ja hvor er det du går på skole hen ?
+1	nei	nei	interj	interj	_	8	INTERJ	_	_
+2	##	##	pause	pause	_	6	IK	_	_
+3	e	e	nol	nol	_	6	FYLL	_	_
+4	##	##	pause	pause	_	6	IK	_	_
+5	sk-	sk-	ufullst	ufullst	_	6	FYLL	_	_
+6	ja	ja	interj	interj	_	8	INTERJ	_	_
+7	hvor	hvor	adv	adv	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	11	REP	_	_
+9	det	det	pron	pron	_	11	DOBJ	_	_
+10	du	du	pron	pron	_	11	SUBJ	_	_
+11	går	gåre	verb	verb	_	0	FINV	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	skole	skole	subst	subst	_	12	PUTFYLL	_	_
+14	hen	hen	prep	prep	_	11	ADV	_	_
+15	?	?	clb	clb	_	11	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 51
+# segstart = 189.19
+# segstop = 191.336
+# speaker = heroeyMR_02uk
+# text = nå går jeg på skole nedi Vågen her
+1	nå	nå	adv	adv	_	2	ADV	_	_
+2	går	gåre	verb	verb	_	0	FINV	_	_
+3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
+4	på	på	prep	prep	_	2	ADV	_	_
+5	skole	skole	subst	subst	_	4	PUTFYLL	_	_
+6	nedi	nedi	prep	prep	_	2	ADV	_	_
+7	Vågen	våg	subst	subst	_	6	PUTFYLL	_	_
+8	her	her	prep	prep	_	2	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 52
+# segstart = 191.336
+# segstop = 194.818
+# speaker = ta
+# text = ja e- er det # altså ligger det her i sentrum eller ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	e-	e-	ufullst	ufullst	_	3	FYLL	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	altså	altså	adv	adv	_	7	ADV	_	_
+7	ligger	ligge	verb	verb	_	3	KOORD	_	_
+8	det	det	pron	pron	_	7	DOBJ	_	_
+9	her	her	prep	prep	_	7	ADV	_	_
+10	i	i	prep	prep	_	9	PUTFYLL	_	_
+11	sentrum	sentrum	subst	subst	_	10	PUTFYLL	_	_
+12	eller	eller	konj	konj	_	7	KONJ	_	_
+13	?	?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 53
+# segstart = 194.818
+# segstop = 198.061
+# speaker = heroeyMR_02uk
+# text = nei det ligger # nedom kirka der
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	ligger	ligge	verb	verb	_	0	FINV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	nedom	nedom	adj	adj	_	3	ADV	_	_
+6	kirka	kirke	subst	subst	_	5	PUTFYLL	_	_
+7	der	der	prep	prep	_	6	ATR	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 54
+# segstart = 198.061
+# segstop = 203.403
+# speaker = ta
+# text = å ja ja akkurat # den e # det er den som en passerer når en kommer hit med bil det sikkert ?
+1	å	å	interj	interj	_	10	INTERJ	_	_
+2	ja	ja	interj	interj	_	10	INTERJ	_	_
+3	ja	ja	interj	interj	_	10	INTERJ	_	_
+4	akkurat	akkurat	adv	adv	_	6	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	den	den	det	det	_	9	REP	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	0	FINV	_	_
+11	den	den	pron	pron	_	10	SPRED	_	_
+12	som	som	sbu	sbu	_	14	SBU	_	_
+13	en	en	det	det	_	14	SUBJ	_	_
+14	passerer	passere	subst	subst	_	11	ATR	_	_
+15	når	når	sbu	sbu	_	17	SBU	_	_
+16	en	en	pron	pron	_	17	SUBJ	_	_
+17	kommer	komme	verb	verb	_	10	ADV	_	_
+18	hit	hit	prep	prep	_	17	ADV	_	_
+19	med	med	prep	prep	_	17	ADV	_	_
+20	bil	bil	subst	subst	_	19	PUTFYLL	_	_
+21	det	det	pron	pron	_	17	APP	_	_
+22	sikkert	sikker	adj	adj	_	17	ADV	_	_
+23	?	?	clb	clb	_	10	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 55
+# segstart = 198.061
+# segstop = 203.403
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 56
+# segstart = 203.403
+# segstop = 210.033
+# speaker = ta
+# text = ja ## har du noen planer for e # etterpå da når du er ferdig med # oppå der ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	har	ha	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	noen	noen	det	det	_	6	DET	_	_
+6	planer	plan	subst	subst	_	3	DOBJ	_	_
+7	for	for	prep	prep	_	6	ATR	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	etterpå	etterpå	adv	adv	_	14	ADV	_	_
+11	da	da	adv	adv	_	10	ADV	_	_
+12	når	når	sbu	sbu	_	14	SBU	_	_
+13	du	du	pron	pron	_	14	SUBJ	_	_
+14	er	være	verb	verb	_	3	ADV	_	_
+15	ferdig	ferdig	adj	adj	_	14	SPRED	_	_
+16	med	med	prep	prep	_	18	REP	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	oppå	oppå	prep	prep	_	14	ADV	_	_
+19	der	der	prep	prep	_	18	PUTFYLL	_	_
+20	?	?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 58
+# segstart = 210.033
+# segstop = 214.135
+# speaker = heroeyMR_02uk
+# text = nei jeg vet ikke helt # får se hva jeg bestemmer meg for
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	vet	vite	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	helt	hele	adj	adj	_	7	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	får	få	verb	verb	_	3	KOORD	_	_
+8	se	se	verb	verb	_	7	INFV	_	_
+9	hva	hva	pron	pron	_	11	DOBJ	_	_
+10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
+11	bestemmer	bestemme	verb	verb	_	8	DOBJ	_	_
+12	meg	meg	pron	pron	_	11	DOBJ	_	_
+13	for	for	prep	prep	_	8	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 59
+# segstart = 214.135
+# segstop = 221.647
+# speaker = ta
+# text = ja ## hvor hvor er det ungdommen drar hen når de e ## når de skal gå videre på skole ?
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	##	##	pause	pause	_	3	IK	_	_
+3	hvor	hvor	adv	adv	_	5	REP	_	_
+4	hvor	hvor	adv	adv	_	5	FSUBJ	_	_
+5	er	være	verb	verb	_	8	REP	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	ungdommen	ungdom	subst	subst	_	8	SUBJ	_	_
+8	drar	dra	verb	verb	_	0	FINV	_	_
+9	hen	hen	prep	prep	_	8	ADV	_	_
+10	når	når	sbu	sbu	_	16	SBU	_	_
+11	de	de	pron	pron	_	16	SUBJ	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	##	##	pause	pause	_	14	IK	_	_
+14	når	når	sbu	sbu	_	16	SBU	_	_
+15	de	de	pron	pron	_	16	SUBJ	_	_
+16	skal	skal	verb	verb	_	8	ADV	_	_
+17	gå	gå	verb	verb	_	16	INFV	_	_
+18	videre	vid	adj	adj	_	17	ADV	_	_
+19	på	på	prep	prep	_	17	ADV	_	_
+20	skole	skole	subst	subst	_	19	PUTFYLL	_	_
+21	?	?	clb	clb	_	8	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 60
+# segstart = 221.647
+# segstop = 226.202
+# speaker = heroeyMR_02uk
+# text = ja etter videregående ? nei da # det er nå alt etter hva du vil bli
+1	ja	ja	interj	interj	_	9	INTERJ	_	_
+2	etter	etter	prep	prep	_	1	ADV	_	_
+3	videregående	videregående	adj	adj	_	2	PUTFYLL	_	_
+4	?	?	clb	clb	_	5	IK	_	_
+5	nei	nei	interj	interj	_	9	INTERJ	_	_
+6	da	da	adv	adv	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	nå	nå	adv	adv	_	9	ADV	_	_
+11	alt	alt	det	det	_	9	SPRED	_	_
+12	etter	etter	prep	prep	_	11	ATR	_	_
+13	hva	hva	pron	pron	_	16	SPRED	_	_
+14	du	du	pron	pron	_	15	SUBJ	_	_
+15	vil	vil	verb	verb	_	9	KOORD	_	_
+16	bli	bli	verb	verb	_	15	INFV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 61
+# segstart = 226.202
+# segstop = 230.351
+# speaker = ta
+# text = ja # er det er det mange som drar til Ålesund eller er det ?
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	5	REP	_	_
+4	det	det	pron	pron	_	3	DET	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	mange	mange	adj	adj	_	5	SPRED	_	_
+8	som	som	sbu	sbu	_	9	SBU	_	_
+9	drar	dra	verb	verb	_	7	ATR	_	_
+10	til	til	prep	prep	_	9	ADV	_	_
+11	Ålesund	Ålesund	subst	subst	_	10	PUTFYLL	_	_
+12	eller	eller	konj	konj	_	13	KONJ	_	_
+13	er	være	verb	verb	_	5	KOORD	_	_
+14	det	det	pron	pron	_	13	FSUBJ	_	_
+15	?	?	clb	clb	_	5	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 62
+# segstart = 230.351
+# segstop = 237.568
+# speaker = heroeyMR_02uk
+# text = ja det er sikkert det er jo veldig # Ålesund og Volda men det er mange så lyst å komme seg vekk herifra og så da farer nå de til Oslo og Bergen og alt
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	sikkert	sikker	adj	adj	_	3	SPRED	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	er	være	verb	verb	_	3	KOORD	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	veldig	veldig	adj	adj	_	10	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	Ålesund	Ålesund	subst	subst	_	6	SPRED	_	_
+11	og	og	konj	konj	_	12	KONJ	_	_
+12	Volda	Volda	subst	subst	_	10	KOORD	_	_
+13	men	men	konj	konj	_	15	KONJ	_	_
+14	det	det	pron	pron	_	15	FSUBJ	_	_
+15	er	være	verb	verb	_	3	KOORD	_	_
+16	mange	mange	adj	adj	_	15	SPRED	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	lyst	lyst	subst	subst	_	16	SPRED	_	_
+19	å	å	inf-merke	inf-merke	_	18	ATR	_	_
+20	komme	komme	verb	verb	_	19	INFV	_	_
+21	seg	seg	pron	pron	_	20	DOBJ	_	_
+22	vekk	vekk	prep	prep	_	20	ADV	_	_
+23	herifra	herifra	subst	subst	_	20	ADV	_	_
+24	og	og	konj	konj	_	27	KONJ	_	_
+25	så	så	adv	adv	_	27	ADV	_	_
+26	da	da	adv	adv	_	27	ADV	_	_
+27	farer	fare	verb	verb	_	3	KOORD	_	_
+28	nå	nå	adv	adv	_	27	ADV	_	_
+29	de	de	pron	pron	_	27	SUBJ	_	_
+30	til	til	prep	prep	_	27	ADV	_	_
+31	Oslo	Oslo	subst	subst	_	30	PUTFYLL	_	_
+32	og	og	konj	konj	_	33	KONJ	_	_
+33	Bergen	Bergen	subst	subst	_	31	KOORD	_	_
+34	og	og	konj	konj	_	31	KONJ	_	_
+35	alt	alt	det	det	_	34	KOORD	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 63
+# segstart = 237.568
+# segstop = 260.838
+# speaker = ta
+# text = ja # akkurat ## e ## e ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	8	ADV	_	_
+4	##	##	pause	pause	_	8	IK	_	_
+5	e	e	nol	nol	_	8	FYLL	_	_
+6	##	##	pause	pause	_	8	IK	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	ja	ja	interj	interj	_	1	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 64
+# segstart = 237.568
+# segstop = 246.654
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 65
+# segstart = 246.654
+# segstop = 260.838
+# speaker = ta
+# text = ja # jeg får e # spørre hva du altså hvis du skulle prøve å så # få noen til å flytte hit eller bosette seg i Fosnavåg # eller # i kommunen her ## hva ville du legge vekt på ?
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
+4	får	få	verb	verb	_	0	FINV	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	spørre	spørre	verb	verb	_	4	INFV	_	_
+8	hva	hva	pron	pron	_	13	SLETT	_	_
+9	du	du	pron	pron	_	8	SUBJ	_	_
+10	altså	altså	adv	adv	_	11	ADV	_	_
+11	hvis	hvis	sbu	sbu	_	13	SBU	_	_
+12	du	du	pron	pron	_	13	SUBJ	_	_
+13	skulle	skulle	verb	verb	_	7	DOBJ	_	_
+14	prøve	prøve	verb	verb	_	13	INFV	_	_
+15	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
+16	så	så	adv	adv	_	18	ADV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	få	få	verb	verb	_	15	INFV	_	_
+19	noen	noen	pron	pron	_	18	DOBJ	_	_
+20	til	til	prep	prep	_	19	ADV	_	_
+21	å	å	inf-merke	inf-merke	_	20	PUTFYLL	_	_
+22	flytte	flytte	verb	verb	_	21	INFV	_	_
+23	hit	hit	prep	prep	_	22	ADV	_	_
+24	eller	eller	konj	konj	_	25	KONJ	_	_
+25	bosette	bosette	verb	verb	_	22	KOORD	_	_
+26	seg	seg	pron	pron	_	25	DOBJ	_	_
+27	i	i	prep	prep	_	25	ADV	_	_
+28	Fosnavåg	Fosnavåg	subst	subst	_	27	PUTFYLL	_	_
+29	#	#	pause	pause	_	30	IK	_	_
+30	eller	eller	konj	konj	_	37	KONJ	_	_
+31	#	#	pause	pause	_	32	IK	_	_
+32	i	i	prep	prep	_	37	ADV	_	_
+33	kommunen	kommune	subst	subst	_	32	PUTFYLL	_	_
+34	her	her	prep	prep	_	33	ATR	_	_
+35	##	##	pause	pause	_	36	IK	_	_
+36	hva	hva	pron	pron	_	41	PUTFYLL	_	_
+37	ville	ville	verb	verb	_	4	KOORD	_	_
+38	du	du	pron	pron	_	37	SUBJ	_	_
+39	legge	legge	verb	verb	_	37	INFV	_	_
+40	vekt	vekt	subst	subst	_	39	DOBJ	_	_
+41	på	på	prep	prep	_	39	ADV	_	_
+42	?	?	clb	clb	_	4	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 66
+# segstart = 260.838
+# segstop = 269.376
+# speaker = heroeyMR_02uk
+# text = vet ikke jeg her er nå veldig flott natur og # godt miljø trur jeg her er ## det er masse kjekke folk
+1	vet	vite	verb	verb	_	5	PAR	_	_
+2	ikke	ikke	adv	adv	_	1	ADV	_	_
+3	jeg	jeg	pron	pron	_	5	SUBJ	_	_
+4	her	her	prep	prep	_	5	ADV	_	_
+5	er	være	verb	verb	_	0	FINV	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	veldig	veldig	adj	adj	_	8	ADV	_	_
+8	flott	flott	adj	adj	_	9	ATR	_	_
+9	natur	natur	subst	subst	_	5	SPRED	_	_
+10	og	og	konj	konj	_	14	KONJ	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	godt	god	adj	adj	_	13	ATR	_	_
+13	miljø	miljø	subst	subst	_	20	DOBJ	_	_
+14	trur	tru	verb	verb	_	5	KOORD	_	_
+15	jeg	jeg	pron	pron	_	14	SUBJ	_	_
+16	her	her	prep	prep	_	20	ADV	_	_
+17	er	være	verb	verb	_	20	REP	_	_
+18	##	##	pause	pause	_	19	IK	_	_
+19	det	det	pron	pron	_	20	FSUBJ	_	_
+20	er	være	verb	verb	_	5	KOORD	_	_
+21	masse	masse	adj	adj	_	23	ATR	_	_
+22	kjekke	kjekk	adj	adj	_	23	ATR	_	_
+23	folk	folk	subst	subst	_	20	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 67
+# segstart = 269.376
+# segstop = 291.612
+# speaker = ta
+# text = ja # e når det gjelder ungdomsmiljø er det noe slik e # altså i Trøndelag for eksempel så er det e så har vi det som heter for rånemiljø
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	når	når	sbu	sbu	_	6	SBU	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	gjelder	gjelde	verb	verb	_	8	ADV	_	_
+7	ungdomsmiljø	ungdomsmiljø	subst	subst	_	6	DOBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	SPRED	_	_
+10	noe	noen	det	det	_	9	DET	_	_
+11	slik	slik	adv	adv	_	10	ADV	_	_
+12	e	e	nol	nol	_	14	FYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	altså	altså	adv	adv	_	15	REP	_	_
+15	i	i	prep	prep	_	19	APP	_	_
+16	Trøndelag	Trøndelag	subst	subst	_	15	PUTFYLL	_	_
+17	for	for	prep	prep	_	15	ADV	_	_
+18	eksempel	eksempel	subst	subst	_	17	PUTFYLL	_	_
+19	så	så	adv	adv	_	20	ADV	_	_
+20	er	være	verb	verb	_	24	REP	_	_
+21	det	det	pron	pron	_	20	FSUBJ	_	_
+22	e	e	nol	nol	_	23	FYLL	_	_
+23	så	så	adv	adv	_	24	ADV	_	_
+24	har	ha	verb	verb	_	8	KOORD	_	_
+25	vi	vi	pron	pron	_	24	SUBJ	_	_
+26	det	det	pron	pron	_	24	DOBJ	_	_
+27	som	som	sbu	sbu	_	28	SBU	_	_
+28	heter	hete	verb	verb	_	26	ATR	_	_
+29	for	for	prep	prep	_	28	ADV	_	_
+30	rånemiljø	rånemiljø	subst	subst	_	29	PUTFYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 68
+# segstart = 269.376
+# segstop = 279.124
+# speaker = heroeyMR_02uk
+# text = * ja
+1	*	*	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 69
+# segstart = 279.124
+# segstop = 291.612
+# speaker = ta
+# text = altså # ungdom og spesielt ung- ungdom altså mannlige ungdommer som drar rundt med biler sant og så
+1	altså	altså	adv	adv	_	3	ADV	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ungdom	ungdom	subst	subst	_	0	SUBJ	_	_
+4	og	og	konj	konj	_	7	KONJ	_	_
+5	spesielt	spesiell	adj	adj	_	7	ATR	_	_
+6	ung-	ung-	ufullst	ufullst	_	7	FYLL	_	_
+7	ungdom	ungdom	subst	subst	_	3	KOORD	_	_
+8	altså	altså	adv	adv	_	7	ADV	_	_
+9	mannlige	mannlig	adj	adj	_	10	ATR	_	_
+10	ungdommer	ungdom	subst	subst	_	3	KOORD	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	drar	dra	verb	verb	_	10	ATR	_	_
+13	rundt	rundt	prep	prep	_	12	ADV	_	_
+14	med	med	prep	prep	_	12	ADV	_	_
+15	biler	bile	subst	subst	_	14	PUTFYLL	_	_
+16	sant	sann	adj	adj	_	12	ADV	_	_
+17	og	og	konj	konj	_	16	KONJ	_	_
+18	så	så	adv	adv	_	17	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 70
+# segstart = 286.755
+# segstop = 291.612
+# speaker = ta
+# text = e bråker og herjer og kjører fort og greier # er det noen slike ting her ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	bråker	bråke	subst	subst	_	11	ADV	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	herjer	herje	verb	verb	_	2	KOORD	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	kjører	kjøre	verb	verb	_	2	KOORD	_	_
+7	fort	fore	adj	adj	_	6	ADV	_	_
+8	og	og	konj	konj	_	11	KONJ	_	_
+9	greier	greie	subst	subst	_	8	KOORD	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	er	være	verb	verb	_	0	FINV	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	noen	noen	det	det	_	15	DET	_	_
+14	slike	slike	det	det	_	15	DET	_	_
+15	ting	ting	subst	subst	_	11	PSUBJ	_	_
+16	her	her	prep	prep	_	11	ADV	_	_
+17	?	?	clb	clb	_	11	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 71
+# segstart = 291.612
+# segstop = 296.763
+# speaker = heroeyMR_02uk
+# text = e jeg trur ikke det er noe det fins nå men e det er nå ikke sånn veldig utprega stort
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	trur	tru	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	er	være	verb	verb	_	3	DOBJ	_	_
+7	noe	noe	pron	pron	_	6	SPRED	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	fins	finnes	verb	verb	_	7	ADV	_	_
+10	nå	nå	adv	adv	_	9	ADV	_	_
+11	men	men	konj	konj	_	14	KONJ	_	_
+12	e	e	nol	nol	_	13	FYLL	_	_
+13	det	det	pron	pron	_	14	FSUBJ	_	_
+14	er	være	verb	verb	_	3	KOORD	_	_
+15	nå	nå	adv	adv	_	14	ADV	_	_
+16	ikke	ikke	adv	adv	_	14	ADV	_	_
+17	sånn	sånn	adv	adv	_	20	DET	_	_
+18	veldig	veldig	adj	adj	_	19	ADV	_	_
+19	utprega	utprege	adj	adj	_	20	ADV	_	_
+20	stort	stor	adj	adj	_	14	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 72
+# segstart = 296.763
+# segstop = 297.164
+# speaker = ta
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 73
+# segstart = 297.164
+# segstop = 297.836
+# speaker = heroeyMR_02uk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 74
+# segstart = 297.836
+# segstop = 299.267
+# speaker = ta
+# text = en- enkeltpersoner ?
+1	en-	en-	ufullst	ufullst	_	2	FYLL	_	_
+2	enkeltpersoner	enkeltperson	subst	subst	_	0	FRAG	_	_
+3	?	?	clb	clb	_	2	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 75
+# segstart = 299.267
+# segstop = 300.507
+# speaker = heroeyMR_02uk
+# text = ja # det er mest det ja
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	mest	mye	adj	adj	_	4	ADV	_	_
+6	det	det	pron	pron	_	4	SPRED	_	_
+7	ja	ja	interj	interj	_	4	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 76
+# segstart = 300.507
+# segstop = 310.552
+# speaker = ta
+# text = ja # men hvi- når det gjelder e # altså er det noen # negative ting du kan altså # ved å bo # her ?
+1	ja	ja	interj	interj	_	11	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	11	KONJ	_	_
+4	hvi-	hvi-	ufullst	ufullst	_	5	FYLL	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	gjelder	gjelde	verb	verb	_	11	REP	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	altså	altså	adv	adv	_	11	ADV	_	_
+11	er	være	verb	verb	_	0	FINV	_	_
+12	det	det	pron	pron	_	11	FSUBJ	_	_
+13	noen	noen	det	det	_	16	DET	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	negative	negativ	adj	adj	_	16	ATR	_	_
+16	ting	ting	subst	subst	_	11	SPRED	_	_
+17	du	du	pron	pron	_	18	SUBJ	_	_
+18	kan	kan	verb	verb	_	16	ATR	_	_
+19	altså	altså	adv	adv	_	11	ADV	_	_
+20	#	#	pause	pause	_	21	IK	_	_
+21	ved	ved	prep	prep	_	11	ADV	_	_
+22	å	å	inf-merke	inf-merke	_	21	PUTFYLL	_	_
+23	bo	bo	verb	verb	_	22	INFV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	her	her	prep	prep	_	22	ADV	_	_
+26	?	?	clb	clb	_	11	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 77
+# segstart = 310.552
+# segstop = 313.914
+# speaker = heroeyMR_02uk
+# text = nei ikke så er kommer på egentlig # jeg trur ikke jeg kunne hatt det så mye bedre
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	ikke	ikke	adv	adv	_	4	ADV	_	_
+3	så	så	adv	adv	_	4	ADV	_	_
+4	er	være	verb	verb	_	0	FINV	_	_
+5	kommer	komme	verb	verb	_	4	KOORD	_	_
+6	på	på	prep	prep	_	5	ADV	_	_
+7	egentlig	egentlig	adj	adj	_	6	PUTFYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	jeg	jeg	pron	pron	_	10	SUBJ	_	_
+10	trur	tru	verb	verb	_	4	KOORD	_	_
+11	ikke	ikke	adv	adv	_	10	ADV	_	_
+12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
+13	kunne	kunne	verb	verb	_	10	DOBJ	_	_
+14	hatt	ha	verb	verb	_	13	INFV	_	_
+15	det	det	pron	pron	_	14	DOBJ	_	_
+16	så	så	adv	adv	_	17	ADV	_	_
+17	mye	mye	adj	adj	_	18	ADV	_	_
+18	bedre	god	adj	adj	_	14	OPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 78
+# segstart = 313.914
+# segstop = 314.535
+# speaker = ta
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 79
+# segstart = 314.535
+# segstop = 314.964
+# speaker = heroeyMR_02uk
+# text = nei
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 80
+# segstart = 314.964
+# segstop = 326.634
+# speaker = ta
+# text = nei det høres da bra ut # e # følge med litt # ## e
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	høres	høres	verb	verb	_	0	FINV	_	_
+4	da	da	adv	adv	_	3	ADV	_	_
+5	bra	bra	adj	adj	_	3	SPRED	_	_
+6	ut	ut	prep	prep	_	3	ADV	_	_
+7	#	#	pause	pause	_	10	IK	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	følge	følge	verb	verb	_	3	KOORD	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	litt	litt	adj	adj	_	11	ADV	_	_
+13	#	#	pause	pause	_	12	IK	_	_
+14	##	##	pause	pause	_	12	IK	_	_
+15	e	e	nol	nol	_	12	FYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 81
+# segstart = 326.634
+# segstop = 335.625
+# speaker = ta
+# text = ja når det gjelder e # jeg var en tur her på altså og så i butikker rundt om # em
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	det	det	pron	pron	_	4	FSUBJ	_	_
+4	gjelder	gjelde	verb	verb	_	8	REP	_	_
+5	e	e	nol	nol	_	7	FYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
+8	var	være	verb	verb	_	0	FINV	_	_
+9	en	en	det	det	_	10	DET	_	_
+10	tur	tur	subst	subst	_	8	SPRED	_	_
+11	her	her	prep	prep	_	8	ADV	_	_
+12	på	på	prep	prep	_	11	ADV	_	_
+13	altså	altså	adv	adv	_	12	ADV	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	i	i	prep	prep	_	13	KOORD	_	_
+17	butikker	butikk	subst	subst	_	16	PUTFYLL	_	_
+18	rundt	rundt	prep	prep	_	17	ATR	_	_
+19	om	om	prep	prep	_	17	ATR	_	_
+20	#	#	pause	pause	_	19	FYLL	_	_
+21	em	em	ukjent	ukjent	_	20	FYLL	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 82
+# segstart = 335.625
+# segstop = 342.645
+# speaker = ta
+# text = er det e # er det her er det her på en måte kommunesenteret eller den viktigste plassen i kommunen ?
+1	er	være	verb	verb	_	5	REP	_	_
+2	det	det	pron	pron	_	1	FSUBJ	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	er	være	verb	verb	_	8	REP	_	_
+6	det	det	pron	pron	_	5	FSUBJ	_	_
+7	her	her	prep	prep	_	8	ADV	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	her	her	prep	prep	_	8	ADV	_	_
+11	på	på	prep	prep	_	8	PUTFYLL	_	_
+12	en	en	det	det	_	13	DET	_	_
+13	måte	måte	subst	subst	_	14	ATR	_	_
+14	kommunesenteret	kommunesenter	subst	subst	_	11	PUTFYLL	_	_
+15	eller	eller	konj	konj	_	18	KONJ	_	_
+16	den	den	det	det	_	18	DET	_	_
+17	viktigste	viktig	adj	adj	_	18	ATR	_	_
+18	plassen	plass	subst	subst	_	14	KOORD	_	_
+19	i	i	prep	prep	_	14	ATR	_	_
+20	kommunen	kommune	subst	subst	_	19	PUTFYLL	_	_
+21	?	?	clb	clb	_	8	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 83
+# segstart = 342.645
+# segstop = 343.599
+# speaker = heroeyMR_02uk
+# text = ja det er det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 84
+# segstart = 343.599
+# segstop = 349.275
+# speaker = ta
+# text = hva hva vil du men e d- Eggesbønes er og en # plass e sant en annen plass ?
+1	hva	hva	pron	pron	_	9	DOBJ	_	_
+2	hva	hva	pron	pron	_	9	DOBJ	_	_
+3	vil	vil	verb	verb	_	0	FINV	_	_
+4	du	du	pron	pron	_	3	SUBJ	_	_
+5	men	men	konj	konj	_	9	KONJ	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	d-	d-	ufullst	ufullst	_	8	FYLL	_	_
+8	Eggesbønes	Eggesbønes	subst	subst	_	9	SUBJ	_	_
+9	er	være	verb	verb	_	3	KOORD	_	_
+10	og	og	konj	konj	_	13	KONJ	_	_
+11	en	en	det	det	_	13	DET	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	plass	plass	subst	subst	_	9	KOORD	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	sant	sann	adj	adj	_	13	ADV	_	_
+16	en	en	det	det	_	18	DET	_	_
+17	annen	annen	det	det	_	18	DET	_	_
+18	plass	plass	subst	subst	_	9	ADV	_	_
+19	?	?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 85
+# segstart = 349.275
+# segstop = 353.496
+# speaker = heroeyMR_02uk
+# text = tja # men # ja # det er vel her som er hoved
+1	tja	tja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	8	KONJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	8	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	det	det	pron	pron	_	8	FSUBJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	vel	vel	adv	adv	_	8	ADV	_	_
+10	her	her	prep	prep	_	8	SPRED	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	er	være	verb	verb	_	10	ATR	_	_
+13	hoved	hoved	adj	adj	_	12	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 86
+# segstart = 353.496
+# segstop = 354.068
+# speaker = ta
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 87
+# segstart = 354.068
+# segstop = 354.712
+# speaker = heroeyMR_02uk
+# text = ja
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 88
+# segstart = 354.712
+# segstop = 362.82
+# speaker = ta
+# text = kan du forklare litt f- f- kan du forklare litt forholdet mellom Eggesbønes og # Fosnavågen hvordan det er ## har du noen tanker om det ?
+1	kan	kan	verb	verb	_	7	REP	_	_
+2	du	du	pron	pron	_	1	SUBJ	_	_
+3	forklare	forklare	verb	verb	_	1	INFV	_	_
+4	litt	litt	adj	adj	_	3	ADV	_	_
+5	f-	f-	ufullst	ufullst	_	7	REP	_	_
+6	f-	f-	ufullst	ufullst	_	7	FYLL	_	_
+7	kan	kan	verb	verb	_	0	FINV	_	_
+8	du	du	pron	pron	_	7	SUBJ	_	_
+9	forklare	forklare	verb	verb	_	7	INFV	_	_
+10	litt	litt	adj	adj	_	11	ATR	_	_
+11	forholdet	forhold	subst	subst	_	9	DOBJ	_	_
+12	mellom	mellom	prep	prep	_	11	ATR	_	_
+13	Eggesbønes	Eggesbønes	subst	subst	_	12	PUTFYLL	_	_
+14	og	og	konj	konj	_	16	KONJ	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	Fosnavågen	Fosnavågen	subst	subst	_	13	KOORD	_	_
+17	hvordan	hvordan	adv	adv	_	19	ADV	_	_
+18	det	det	pron	pron	_	19	FSUBJ	_	_
+19	er	være	verb	verb	_	13	KOORD	_	_
+20	##	##	pause	pause	_	21	IK	_	_
+21	har	ha	verb	verb	_	7	KOORD	_	_
+22	du	du	pron	pron	_	21	SUBJ	_	_
+23	noen	noen	det	det	_	24	DET	_	_
+24	tanker	tanker	subst	subst	_	21	DOBJ	_	_
+25	om	om	prep	prep	_	24	ATR	_	_
+26	det	det	pron	pron	_	25	PUTFYLL	_	_
+27	?	?	clb	clb	_	7	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 89
+# segstart = 362.82
+# segstop = 365.992
+# speaker = heroeyMR_02uk
+# text = nei egentlig ikke
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	egentlig	egentlig	adj	adj	_	1	ADV	_	_
+3	ikke	ikke	adv	adv	_	1	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 90
+# segstart = 365.992
+# segstop = 374.029
+# speaker = ta
+# text = det var e men Eggesbønes skal e # er det noen butikker der for eksempel eller er det noe slik # gate- gater og fortau og slikt er det
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	var	være	verb	verb	_	9	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	men	men	konj	konj	_	6	KONJ	_	_
+5	Eggesbønes	Eggesbønes	subst	subst	_	6	SUBJ	_	_
+6	skal	skulle	verb	verb	_	9	REP	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	er	være	verb	verb	_	0	FINV	_	_
+10	det	det	pron	pron	_	9	FSUBJ	_	_
+11	noen	noen	det	det	_	12	DET	_	_
+12	butikker	butikk	subst	subst	_	9	PSUBJ	_	_
+13	der	der	prep	prep	_	9	ADV	_	_
+14	for	for	prep	prep	_	9	ADV	_	_
+15	eksempel	eksempel	subst	subst	_	14	PUTFYLL	_	_
+16	eller	eller	konj	konj	_	17	KONJ	_	_
+17	er	være	verb	verb	_	9	KOORD	_	_
+18	det	det	pron	pron	_	17	FSUBJ	_	_
+19	noe	noen	det	det	_	23	DET	_	_
+20	slik	slik	adv	adv	_	23	DET	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	gate-	gate	ufullst	ufullst	_	23	FYLL	_	_
+23	gater	gate	subst	subst	_	17	SPRED	_	_
+24	og	og	konj	konj	_	25	KONJ	_	_
+25	fortau	fortau	subst	subst	_	23	KOORD	_	_
+26	og	og	konj	konj	_	28	KONJ	_	_
+27	slikt	slikt	pron	pron	_	26	KOORD	_	_
+28	er	være	verb	verb	_	9	KOORD	_	_
+29	det	det	pron	pron	_	28	FSUBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 91
+# segstart = 374.029
+# segstop = 379.633
+# speaker = heroeyMR_02uk
+# text = nei det er vel ikke like # det er her som er mest # der er vel bare noen få butikker
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	FSUBJ	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	ikke	ikke	adv	adv	_	3	ADV	_	_
+6	like	like	adj	adj	_	3	SPRED	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	_	9	FSUBJ	_	_
+9	er	være	verb	verb	_	3	KOORD	_	_
+10	her	her	prep	prep	_	9	SPRED	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	er	være	verb	verb	_	10	ATR	_	_
+13	mest	mye	adj	adj	_	12	ADV	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	der	der	prep	prep	_	16	FSUBJ	_	_
+16	er	være	verb	verb	_	3	KOORD	_	_
+17	vel	vel	adv	adv	_	16	ADV	_	_
+18	bare	bare	adv	adv	_	16	SPRED	_	_
+19	noen	noen	det	det	_	20	ADV	_	_
+20	få	få	adj	adj	_	21	ATR	_	_
+21	butikker	butikk	subst	subst	_	16	SPRED	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 92
+# segstart = 379.633
+# segstop = 390.792
+# speaker = ta
+# text = ja ## e sk- når det gjelder å få seg arbeid # for både voksne og ungdom hva hvordan e # er det lett her i kommunen ?
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	##	##	pause	pause	_	5	IK	_	_
+3	e	e	nol	nol	_	5	FYLL	_	_
+4	sk-	sk-	ufullst	ufullst	_	5	FYLL	_	_
+5	når	når	sbu	sbu	_	7	SBU	_	_
+6	det	det	pron	pron	_	7	FSUBJ	_	_
+7	gjelder	gjelde	verb	verb	_	0	FINV	_	_
+8	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
+9	få	få	verb	verb	_	8	INFV	_	_
+10	seg	seg	pron	pron	_	9	IOBJ	_	_
+11	arbeid	arbeid	subst	subst	_	9	DOBJ	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	for	for	prep	prep	_	11	ATR	_	_
+14	både	både	konj	konj	_	15	KONJ	_	_
+15	voksne	voksen	subst	subst	_	13	PUTFYLL	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	ungdom	ungdom	subst	subst	_	15	KOORD	_	_
+18	hva	hva	pron	pron	_	22	ADV	_	_
+19	hvordan	hvordan	adv	adv	_	22	ADV	_	_
+20	e	e	nol	nol	_	22	FYLL	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	er	være	verb	verb	_	7	KOORD	_	_
+23	det	det	pron	pron	_	22	FSUBJ	_	_
+24	lett	leite	adj	adj	_	22	SPRED	_	_
+25	her	her	prep	prep	_	22	ADV	_	_
+26	i	i	prep	prep	_	25	PUTFYLL	_	_
+27	kommunen	kommune	subst	subst	_	26	PUTFYLL	_	_
+28	?	?	clb	clb	_	7	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 93
+# segstart = 390.792
+# segstop = 395.133
+# speaker = heroeyMR_02uk
+# text = ja jeg trur ikke det er noe problem egentlig # trur de som flest som vil ha seg jobb her # får det
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	trur	tru	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	_	6	FSUBJ	_	_
+6	er	være	verb	verb	_	3	DOBJ	_	_
+7	noe	noe	det	det	_	8	DET	_	_
+8	problem	problem	subst	subst	_	6	SPRED	_	_
+9	egentlig	egentlig	adj	adj	_	6	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	trur	tru	verb	verb	_	3	KOORD	_	_
+12	de	de	pron	pron	_	11	SUBJ	_	_
+13	som	som	prep	prep	_	16	SBU	_	_
+14	flest	fler	adj	adj	_	15	FYLL	_	_
+15	som	som	sbu	sbu	_	16	SBU	_	_
+16	vil	vil	verb	verb	_	12	ATR	_	_
+17	ha	ha	verb	verb	_	16	INFV	_	_
+18	seg	seg	pron	pron	_	17	IOBJ	_	_
+19	jobb	jobb	subst	subst	_	17	DOBJ	_	_
+20	her	her	prep	prep	_	17	ADV	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	får	få	verb	verb	_	3	KOORD	_	_
+23	det	det	pron	pron	_	22	SUBJ	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 94
+# segstart = 395.133
+# segstop = 402.144
+# speaker = ta
+# text = ja # er det mange ungdommer som # som ikke tar videre utdanning men som rett og slett bare jobber ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	mange	mange	adj	adj	_	6	ATR	_	_
+6	ungdommer	ungdom	subst	subst	_	3	SPRED	_	_
+7	som	som	sbu	sbu	_	9	REP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	ikke	ikke	adv	adv	_	11	ADV	_	_
+11	tar	ta	verb	verb	_	6	ATR	_	_
+12	videre	vid	adj	adj	_	13	ATR	_	_
+13	utdanning	utdanning	subst	subst	_	11	DOBJ	_	_
+14	men	men	konj	konj	_	15	KONJ	_	_
+15	som	som	sbu	sbu	_	20	SBU	_	_
+16	rett	rett	adj	adj	_	20	ADV	_	_
+17	og	og	konj	konj	_	18	KONJ	_	_
+18	slett	slett	adj	adj	_	16	KOORD	_	_
+19	bare	bare	adv	adv	_	20	ADV	_	_
+20	jobber	jobbe	verb	verb	_	3	KOORD	_	_
+21	?	$?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 95
+# segstart = 402.144
+# segstop = 410.567
+# speaker = heroeyMR_02uk
+# text = trur de fleste nå tar utdanning men e det er nå d- mange som har jobb p- på sida og # sommerjobb og sånne ting her så
+1	trur	tru	verb	verb	_	0	FINV	_	_
+2	de	de	det	det	_	3	DET	_	_
+3	fleste	fler	adj	adj	_	5	SUBJ	_	_
+4	nå	nå	adv	adv	_	5	ADV	_	_
+5	tar	ta	verb	verb	_	1	DOBJ	_	_
+6	utdanning	utdanning	subst	subst	_	5	DOBJ	_	_
+7	men	men	konj	konj	_	10	KONJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	det	det	pron	pron	_	10	FSUBJ	_	_
+10	er	være	verb	verb	_	1	KOORD	_	_
+11	nå	nå	adv	adv	_	10	ADV	_	_
+12	d-	d-	ufullst	ufullst	_	13	FYLL	_	_
+13	mange	mange	adj	adj	_	10	SPRED	_	_
+14	som	som	sbu	sbu	_	15	SBU	_	_
+15	har	ha	verb	verb	_	13	ATR	_	_
+16	jobb	jobb	subst	subst	_	15	DOBJ	_	_
+17	p-	p-	ufullst	ufullst	_	18	FYLL	_	_
+18	på	på	prep	prep	_	16	ATR	_	_
+19	sida	side	subst	subst	_	18	PUTFYLL	_	_
+20	og	og	konj	konj	_	22	KONJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	sommerjobb	sommerjobb	subst	subst	_	19	KOORD	_	_
+23	og	og	konj	konj	_	25	KONJ	_	_
+24	sånne	sånne	det	det	_	25	DET	_	_
+25	ting	ting	subst	subst	_	19	KOORD	_	_
+26	her	her	prep	prep	_	15	ADV	_	_
+27	så	så	adv	adv	_	10	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 96
+# segstart = 410.567
+# segstop = 412.88
+# speaker = ta
+# text = e hva hvordan type jobber er det snakk om ?
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	hva	hva	pron	pron	_	5	DET	_	_
+3	hvordan	hvordan	adv	adv	_	4	ATR	_	_
+4	type	type	subst	subst	_	9	PUTFYLL	_	_
+5	jobber	jobbe	subst	subst	_	9	PUTFYLL	_	_
+6	er	være	verb	verb	_	0	FINV	_	_
+7	det	det	pron	pron	_	6	FSUBJ	_	_
+8	snakk	snakk	subst	subst	_	6	SPRED	_	_
+9	om	om	prep	prep	_	8	ATR	_	_
+10	?	?	clb	clb	_	6	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 97
+# segstart = 412.88
+# segstop = 417.626
+# speaker = heroeyMR_02uk
+# text = det er alt i butikker # matbutikker klesbutikker # alt som er her egentlig
+1	det	det	pron	pron	_	2	FSUBJ	_	_
+2	er	være	verb	verb	_	0	FINV	_	_
+3	alt	alt	det	det	_	7	DET	_	_
+4	i	i	prep	prep	_	3	SPRED	_	_
+5	butikker	butikk	subst	subst	_	4	PUTFYLL	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	matbutikker	matbutikke	adj	adj	_	8	DET	_	_
+8	klesbutikker	klesbutikk	subst	subst	_	2	SPRED	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	alt	alt	det	det	_	8	ATR	_	_
+11	som	som	sbu	sbu	_	12	SBU	_	_
+12	er	være	verb	verb	_	8	ATR	_	_
+13	her	her	prep	prep	_	12	ADV	_	_
+14	egentlig	egentlig	adj	adj	_	13	ADV	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 98
+# segstart = 417.626
+# segstop = 420.178
+# speaker = ta
+# text = ja # er det noen som reiser til sjøs ?
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	er	være	verb	verb	_	0	FINV	_	_
+4	det	det	pron	pron	_	3	FSUBJ	_	_
+5	noen	noen	pron	pron	_	3	SPRED	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	reiser	reise	verb	verb	_	5	ATR	_	_
+8	til	til	prep	prep	_	7	ADV	_	_
+9	sjøs	sjø	subst	subst	_	8	PUTFYLL	_	_
+10	?	$?	clb	clb	_	3	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 99
+# segstart = 420.178
+# segstop = 422.467
+# speaker = heroeyMR_02uk
+# text = ja det trur jeg # del som også gjør
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	_	3	DOBJ	_	_
+3	trur	tru	verb	verb	_	0	FINV	_	_
+4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	del	del	subst	subst	_	3	DOBJ	_	_
+7	som	som	sbu	sbu	_	9	SBU	_	_
+8	også	også	adv	adv	_	9	ADV	_	_
+9	gjør	gjøre	verb	verb	_	6	ATR	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 100
+# segstart = 422.467
+# segstop = 432.746
+# speaker = ta
+# text = ja # akkurat ## # # ja er det noe mer du vil vil e si om stedet eller om deg selv eller ?
+1	ja	ja	interj	interj	_	8	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	akkurat	akkurat	adv	adv	_	4	ADV	_	_
+4	##	##	pause	pause	_	7	IK	_	_
+5	#	#	pause	pause	_	7	IK	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	8	INTERJ	_	_
+8	er	være	verb	verb	_	0	FINV	_	_
+9	det	det	pron	pron	_	8	FSUBJ	_	_
+10	noe	noe	det	det	_	11	DET	_	_
+11	mer	mye	adj	adj	_	8	SPRED	_	_
+12	du	du	pron	pron	_	13	SUBJ	_	_
+13	vil	vil	verb	verb	_	11	ATR	_	_
+14	vil	vil	verb	verb	_	8	KOORD	_	_
+15	e	e	nol	nol	_	16	FYLL	_	_
+16	si	si	verb	verb	_	14	INFV	_	_
+17	om	om	prep	prep	_	16	ADV	_	_
+18	stedet	sted	subst	subst	_	17	PUTFYLL	_	_
+19	eller	eller	konj	konj	_	20	KONJ	_	_
+20	om	om	prep	prep	_	17	KOORD	_	_
+21	deg	deg	pron	pron	_	20	PUTFYLL	_	_
+22	selv	selv	det	det	_	21	DET	_	_
+23	eller	eller	konj	konj	_	14	KONJ	_	_
+24	?	?	clb	clb	_	8	IP	_	_
+
+# file = heroeyMR_02uk-ta
+# id = 101
+# segstart = 432.746
+# segstop = 435.584
+# speaker = heroeyMR_02uk
+# text = nei jeg vet ikke jeg # kommer ikke på så mye å si
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
+3	vet	vite	verb	verb	_	0	FINV	_	_
+4	ikke	ikke	adv	adv	_	3	ADV	_	_
+5	jeg	jeg	pron	pron	_	7	SUBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	kommer	komme	verb	verb	_	3	KOORD	_	_
+8	ikke	ikke	adv	adv	_	7	ADV	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	så	så	adv	adv	_	11	ADV	_	_
+11	mye	mye	adj	adj	_	9	PUTFYLL	_	_
+12	å	å	inf-merke	inf-merke	_	11	ADV	_	_
+13	si	si	verb	verb	_	12	INFV	_	_
+
