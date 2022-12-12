@@ -1,3230 +1,3508 @@
-# annotator = SR
-# file = roemskog_04gk-eo
-# id = 1
+# text = men du er født og oppvokst her # på Rømskog ? r0t
 # segstart = 17.242
 # segstop = 19.46
-# speaker = eo
-# text = men du er født og oppvokst her # på Rømskog ?
-1	men	men	konj	konj	_	3	KONJ	_	_
-2	du	du	pron	pron	_	3	SUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	født	føde	verb	verb	_	3	INFV	_	_
-5	og	og	konj	konj	_	6	KONJ	_	_
-6	oppvokst	oppvokse	verb	verb	_	4	KOORD	_	_
-7	her	her	prep	prep	_	6	ADV	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	på	på	prep	prep	_	7	PUTFYLL	_	_
-10	Rømskog	Rømskog	subst	subst	_	9	PUTFYLL	_	_
-11	?	?	clb	clb	_	3	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 2
+# speaker = eo
+# id = 1
+# annotator = SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+3	er	være	verb	_	pres	12	FINV	_	_
+4	født	føde	verb	_	perf-part	3	INFV	_	_
+5	og	og	konj	_	_	6	KONJ	_	_
+6	oppvokst	oppvokse	verb	_	perf-part	4	KOORD	_	_
+7	her	her	prep	_	_	6	ADV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	på	på	prep	_	_	7	PUTFYLL	_	_
+10	Rømskog	Rømskog	subst	_	prop	9	PUTFYLL	_	_
+11	?	?	clb	_	_	3	IP	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # det er jeg og har e # bodd her hele tida # bortsett fra en # par tre år # vekk på skole og # og jobb # og root
 # segstart = 19.46
 # segstop = 30.859
-# speaker = roemskog_04gk
-# text = ja # det er jeg og har e # bodd her hele tida # bortsett fra en # par tre år # vekk på skole og # og jobb # og
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	pron	pron	_	4	SPRED	_	_
-4	er	være	verb	verb	_	0	KOORD	_	_
-5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-6	og	og	konj	konj	_	7	KONJ	_	_
-7	har	ha	verb	verb	_	4	KOORD	_	_
-8	e	e	nol	nol	_	10	FYLL	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	bodd	bo	verb	verb	_	7	INFV	_	_
-11	her	her	prep	prep	_	10	ADV	_	_
-12	hele	hel	adj	adj	_	13	ATR	_	_
-13	tida	tid	subst	subst	_	10	ADV	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	bortsett	bortse	adj	adj	_	10	ADV	_	_
-16	fra	fra	prep	prep	_	15	ATR	_	_
-17	en	en	adv	adv	_	19	ADV	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	par	par	subst	subst	_	21	DET	_	_
-20	tre	tre	det	det	_	19	FLAT	_	_
-21	år	år	subst	subst	_	16	PUTFYLL	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	vekk	vekk	prep	prep	_	21	ATR	_	_
-24	på	på	prep	prep	_	23	PUTFYLL	_	_
-25	skole	skole	subst	subst	_	24	PUTFYLL	_	_
-26	og	og	konj	konj	_	28	REP	_	_
-27	#	#	pause	pause	_	28	IK	_	_
-28	og	og	konj	konj	_	29	KONJ	_	_
-29	jobb	jobb	subst	subst	_	25	KOORD	_	_
-30	#	#	pause	pause	_	31	IK	_	_
-31	og	og	konj	konj	_	4	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 4
+# speaker = roemskog_04gk
+# id = 2
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SPRED	_	_
+4	er	være	verb	_	pres	32	KOORD	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	og	og	konj	_	_	7	KONJ	_	_
+7	har	ha	verb	_	pres	4	KOORD	_	_
+8	e	e	nol	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	bodd	bo	verb	_	perf-part	7	INFV	_	_
+11	her	her	prep	_	_	10	ADV	_	_
+12	hele	hel	adj	_	be|pos|ent	13	ATR	_	_
+13	tida	tid	subst	_	be|fem|ent|appell	10	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	bortsett	bortse	adj	_	ub|nøyt|ent	10	ADV	_	_
+16	fra	fra	prep	_	_	15	ATR	_	_
+17	en	en	adv	_	_	19	ADV	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	par	par	subst	_	ub|nøyt|ent|appell	21	DET	_	_
+20	tre	tre	det	_	fl|kvant	19	FLAT	_	_
+21	år	år	subst	_	ub|nøyt|fl|appell	16	PUTFYLL	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	vekk	vekk	prep	_	_	21	ATR	_	_
+24	på	på	prep	_	_	23	PUTFYLL	_	_
+25	skole	skole	subst	_	ub|mask|ent|appell	24	PUTFYLL	_	_
+26	og	og	konj	_	_	28	REP	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	og	og	konj	_	_	29	KONJ	_	_
+29	jobb	jobb	subst	_	ub|mask|ent|appell	25	KOORD	_	_
+30	#	#	pause	_	_	31	IK	_	_
+31	og	og	konj	_	_	4	KONJ	_	_
+32	root	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 19.46
+# segstop = 30.859
+# file = roemskog_04gk-eo
+# speaker = eo
+# id = 3
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = er du født på gård eller ? r0t
 # segstart = 30.859
 # segstop = 32.862
-# speaker = eo
-# text = er du født på gård eller ?
-1	er	være	verb	verb	_	0	FINV	_	_
-2	du	du	pron	pron	_	1	SUBJ	_	_
-3	født	føde	verb	verb	_	1	INFV	_	_
-4	på	på	prep	prep	_	3	ADV	_	_
-5	gård	gård	subst	subst	_	4	PUTFYLL	_	_
-6	eller	eller	konj	konj	_	1	KONJ	_	_
-7	?	?	clb	clb	_	1	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 5
+# speaker = eo
+# id = 4
+# annotator = SR
+1	er	være	verb	_	pres	8	FINV	_	_
+2	du	du	pron	_	nom|2|ent|hum	1	SUBJ	_	_
+3	født	føde	verb	_	perf-part	1	INFV	_	_
+4	på	på	prep	_	_	3	ADV	_	_
+5	gård	gård	subst	_	ub|mask|ent|samset	4	PUTFYLL	_	_
+6	eller	eller	konj	_	_	1	KONJ	_	_
+7	?	?	clb	_	_	1	IP	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = nei vi hadde villa r0t
 # segstart = 32.862
 # segstop = 34.46
-# speaker = roemskog_04gk
-# text = nei vi hadde villa
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	vi	vi	pron	pron	_	3	SUBJ	_	_
-3	hadde	ha	verb	verb	_	0	FINV	_	_
-4	villa	villa	subst	subst	_	3	DOBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 6
+# speaker = roemskog_04gk
+# id = 5
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	hadde	ha	verb	_	pret	5	FINV	_	_
+4	villa	villa	subst	_	ub|mask|ent|appell	3	DOBJ	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 34.46
 # segstop = 34.866
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 7
+# speaker = eo
+# id = 6
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # m eller villa altså men # men jeg hadde gårder på to sider av meg da så r0t
 # segstart = 34.866
 # segstop = 47.1
-# speaker = roemskog_04gk
-# text = ja # m eller villa altså men # men jeg hadde gårder på to sider av meg da så
-1	ja	ja	interj	interj	_	11	INTERJ	_	_
-2	#	#	pause	pause	_	4	IK	_	_
-3	m	m	nol	nol	_	4	FYLL	_	_
-4	eller	eller	konj	konj	_	5	KONJ	_	_
-5	villa	villa	subst	subst	_	1	ADV	_	_
-6	altså	altså	adv	adv	_	5	ADV	_	_
-7	men	men	konj	konj	_	9	REP	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	men	men	konj	konj	_	11	KONJ	_	_
-10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
-11	hadde	ha	verb	verb	_	0	FINV	_	_
-12	gårder	gård	subst	subst	_	11	DOBJ	_	_
-13	på	på	prep	prep	_	11	ADV	_	_
-14	to	to	det	det	_	15	DET	_	_
-15	sider	side	subst	subst	_	13	PUTFYLL	_	_
-16	av	av	prep	prep	_	15	ATR	_	_
-17	meg	meg	pron	pron	_	16	PUTFYLL	_	_
-18	da	da	adv	adv	_	11	ADV	_	_
-19	så	så	konj	konj	_	11	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 7
+# annotator = SR
+1	ja	ja	interj	_	_	11	INTERJ	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	m	m	nol	_	_	4	FYLL	_	_
+4	eller	eller	konj	_	_	5	KONJ	_	_
+5	villa	villa	subst	_	ub|mask|ent|appell	1	ADV	_	_
+6	altså	altså	adv	_	_	5	ADV	_	_
+7	men	men	konj	_	_	9	REP	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	men	men	konj	_	_	11	KONJ	_	_
+10	jeg	jeg	pron	_	nom|1|ent|hum	11	SUBJ	_	_
+11	hadde	ha	verb	_	pret	20	FINV	_	_
+12	gårder	gård	subst	_	ub|mask|fl|appell	11	DOBJ	_	_
+13	på	på	prep	_	_	11	ADV	_	_
+14	to	to	det	_	fl|kvant	15	DET	_	_
+15	sider	side	subst	_	ub|fem|fl|appell	13	PUTFYLL	_	_
+16	av	av	prep	_	_	15	ATR	_	_
+17	meg	meg	pron	_	akk|1|ent|hum	16	PUTFYLL	_	_
+18	da	da	adv	_	_	11	ADV	_	_
+19	så	så	konj	_	_	11	KONJ	_	_
+20	r0t	_	_	_	_	0	root	_	_
+
+# text = opplevde jo # onner og # var med og hesja og plukka poteter og # sånn r0t
+# segstart = 40.995
+# segstop = 47.1
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
 # id = 8
-# segstart = 40.995
-# segstop = 47.1
-# speaker = roemskog_04gk
-# text = opplevde jo # onner og # var med og hesja og plukka poteter og # sånn
-1	opplevde	oppleve	verb	verb	_	0	FINV	_	_
-2	jo	jo	adv	adv	_	1	ADV	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	onner	onn	subst	subst	_	1	DOBJ	_	_
-5	og	og	konj	konj	_	7	KONJ	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	var	være	verb	verb	_	1	KOORD	_	_
-8	med	med	prep	prep	_	7	SPRED	_	_
-9	og	og	konj	konj	_	10	KONJ	_	_
-10	hesja	hesje	verb	verb	_	7	KOORD	_	_
-11	og	og	konj	konj	_	12	KONJ	_	_
-12	plukka	plukke	verb	verb	_	7	KOORD	_	_
-13	poteter	potet	subst	subst	_	12	DOBJ	_	_
-14	og	og	konj	konj	_	16	KONJ	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	sånn	sånn	adv	adv	_	7	KOORD	_	_
-
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 9
+1	opplevde	oppleve	verb	_	pret	17	FINV	_	_
+2	jo	jo	adv	_	_	1	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	onner	onn	subst	_	ub|fem|fl|appell	1	DOBJ	_	_
+5	og	og	konj	_	_	7	KONJ	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	var	være	verb	_	pret	1	KOORD	_	_
+8	med	med	prep	_	_	7	SPRED	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	hesja	hesje	verb	_	inf	7	KOORD	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	plukka	plukke	verb	_	pret	7	KOORD	_	_
+13	poteter	potet	subst	_	ub|fem|fl|appell	12	DOBJ	_	_
+14	og	og	konj	_	_	16	KONJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	sånn	sånn	adv	_	_	7	KOORD	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 40.995
 # segstop = 47.1
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
+# id = 9
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 10
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 47.1
 # segstop = 47.458
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 11
+# speaker = roemskog_04gk
+# id = 10
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # type e ja du hadde r0t
 # segstart = 47.458
 # segstop = 49.914
-# speaker = eo
-# text = ja # type e ja du hadde
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	type	type	subst	subst	_	1	ADV	_	_
-4	e	e	nol	nol	_	5	FYLL	_	_
-5	ja	ja	interj	interj	_	1	INTERJ	_	_
-6	du	du	pron	pron	_	7	SUBJ	_	_
-7	hadde	ha	verb	verb	_	5	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 13
+# speaker = eo
+# id = 11
+# annotator = SR
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	type	type	subst	_	ub|mask|ent|appell	1	ADV	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	ja	ja	interj	_	_	1	INTERJ	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	hadde	ha	verb	_	pret	5	ADV	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 47.458
+# segstop = 49.914
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 12
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hen- henta mjølk og _laughter_ r0t
 # segstart = 49.914
 # segstop = 52.394
-# speaker = roemskog_04gk
-# text = hen- henta mjølk og
-1	hen-	hen-	ufullst	ufullst	_	2	FYLL	_	_
-2	henta	hente	verb	verb	_	0	FINV	_	_
-3	mjølk	mjølk	subst	subst	_	2	DOBJ	_	_
-4	og	og	konj	konj	_	2	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 14
+# speaker = roemskog_04gk
+# id = 13
+# annotator = SR
+1	hen-	hen-	ufullst	_	_	2	FYLL	_	_
+2	henta	hente	verb	_	pret	6	FINV	_	_
+3	mjølk	mjølk	subst	_	ub|fem|ent|appell	2	DOBJ	_	_
+4	og	og	konj	_	_	2	KONJ	_	_
+5	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = ja fordi # det er både # dyr og # og # holdt jeg på å si poteter og grø- liksom # korn og # begge deler altså alle slags type jordbruk eller ? r0t
 # segstart = 52.394
 # segstop = 62.601
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = ja fordi # det er både # dyr og # og # holdt jeg på å si poteter og grø- liksom # korn og # begge deler altså alle slags type jordbruk eller ?
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	fordi	fordi	sbu	sbu	_	5	SBU	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	det	det	pron	pron	_	5	FSUBJ	_	_
-5	er	være	verb	verb	_	0	FINV	_	_
-6	både	både	konj	konj	_	8	KONJ	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	dyr	dyr	subst	subst	_	5	PSUBJ	_	_
-9	og	og	konj	konj	_	13	REP	_	_
-10	#	#	pause	pause	_	13	IK	_	_
-11	og	og	konj	konj	_	18	KONJ	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	holdt	holde	verb	verb	_	5	PAR	_	_
-14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-15	på	på	prep	prep	_	13	ADV	_	_
-16	å	å	inf-merke	inf-merke	_	15	PUTFYLL	_	_
-17	si	si	det	det	_	16	INFV	_	_
-18	poteter	potet	subst	subst	_	8	KOORD	_	_
-19	og	og	konj	konj	_	23	KONJ	_	_
-20	grø-	grø-	ufullst	ufullst	_	21	FYLL	_	_
-21	liksom	liksom	adv	adv	_	5	ADV	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	korn	korn	subst	subst	_	8	KOORD	_	_
-24	og	og	konj	konj	_	27	KONJ	_	_
-25	#	#	pause	pause	_	26	IK	_	_
-26	begge	begge	det	det	_	27	DET	_	_
-27	deler	del	subst	subst	_	8	KOORD	_	_
-28	altså	altså	adv	adv	_	5	ADV	_	_
-29	alle	alle	det	det	_	30	DET	_	_
-30	slags	slags	subst	subst	_	32	DET	_	_
-31	type	type	subst	subst	_	32	DET	_	_
-32	jordbruk	jordbruk	subst	subst	_	5	KOORD	_	_
-33	eller	eller	konj	konj	_	5	KONJ	_	_
-34	?	?	clb	clb	_	5	IP	_	_
-
+# id = 14
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 15
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	fordi	fordi	sbu	_	_	5	SBU	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	35	FINV	_	_
+6	både	både	konj	_	_	8	KONJ	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	dyr	dyr	subst	_	ub|nøyt|fl|appell	5	PSUBJ	_	_
+9	og	og	konj	_	_	13	REP	_	_
+10	#	#	pause	_	_	13	IK	_	_
+11	og	og	konj	_	_	18	KONJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	holdt	holde	verb	_	pret	5	PAR	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	13	SUBJ	_	_
+15	på	på	prep	_	_	13	ADV	_	_
+16	å	å	inf-merke	_	_	15	PUTFYLL	_	_
+17	si	si	det	_	fem|ent|poss	16	INFV	_	_
+18	poteter	potet	subst	_	ub|fem|fl|appell	8	KOORD	_	_
+19	og	og	konj	_	_	23	KONJ	_	_
+20	grø-	grø-	ufullst	_	_	21	FYLL	_	_
+21	liksom	liksom	adv	_	_	5	ADV	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	korn	korn	subst	_	ub|nøyt|ent|appell	8	KOORD	_	_
+24	og	og	konj	_	_	27	KONJ	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	begge	begge	det	_	fl|kvant	27	DET	_	_
+27	deler	del	subst	_	ub|mask|fl|appell	8	KOORD	_	_
+28	altså	altså	adv	_	_	5	ADV	_	_
+29	alle	alle	det	_	fl|kvant	30	DET	_	_
+30	slags	slags	subst	_	nøyt|appell	31	DET	_	_
+31	type	type	subst	_	ub|mask|ent|appell	32	DET	_	_
+32	jordbruk	jordbruk	subst	_	ub|nøyt|ent|appell	5	KOORD	_	_
+33	eller	eller	konj	_	_	5	KONJ	_	_
+34	?	?	clb	_	_	5	IP	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ * _front-click_ * ja … r0t
 # segstart = 52.394
 # segstop = 62.601
-# speaker = roemskog_04gk
-# text = * * ja …
-1	*	*	pause	pause	_	3	IK	_	_
-2	*	*	pause	pause	_	3	IK	_	_
-3	ja	ja	interj	interj	_	0	INTERJ	_	_
-4	…	…	pause	pause	_	3	IK	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 16
+# speaker = roemskog_04gk
+# id = 15
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	5	FYLL	_	_
+2	*	*	pause	_	_	5	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	5	FYLL	_	_
+4	*	*	pause	_	_	5	IK	_	_
+5	ja	ja	interj	_	_	7	INTERJ	_	_
+6	…	…	pause	_	_	5	IK	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = den gangen var det jo det # men nå er det jo e korn # og e # nei det er ingen e storproduksjon på poteter nå r0t
 # segstart = 62.601
 # segstop = 72.339
-# speaker = roemskog_04gk
-# text = den gangen var det jo det # men nå er det jo e korn # og e # nei det er ingen e storproduksjon på poteter nå
-1	den	den	det	det	_	2	DET	_	_
-2	gangen	gang	subst	subst	_	3	ADV	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	jo	jo	adv	adv	_	3	ADV	_	_
-6	det	det	pron	pron	_	3	SPRED	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	men	men	konj	konj	_	10	KONJ	_	_
-9	nå	nå	adv	adv	_	10	ADV	_	_
-10	er	være	verb	verb	_	3	KOORD	_	_
-11	det	det	pron	pron	_	10	FSUBJ	_	_
-12	jo	jo	adv	adv	_	10	ADV	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	korn	korn	subst	subst	_	10	SPRED	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	og	og	konj	konj	_	21	KONJ	_	_
-17	e	e	nol	nol	_	19	FYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	nei	nei	interj	interj	_	21	INTERJ	_	_
-20	det	det	pron	pron	_	21	FSUBJ	_	_
-21	er	være	verb	verb	_	3	KOORD	_	_
-22	ingen	ingen	det	det	_	24	DET	_	_
-23	e	e	nol	nol	_	24	FYLL	_	_
-24	storproduksjon	storproduksjon	subst	subst	_	21	PSUBJ	_	_
-25	på	på	prep	prep	_	24	ATR	_	_
-26	poteter	potet	subst	subst	_	25	PUTFYLL	_	_
-27	nå	nå	adv	adv	_	21	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 17
+# speaker = roemskog_04gk
+# id = 16
+# annotator = SR
+1	den	den	det	_	mask|ent|dem	2	DET	_	_
+2	gangen	gang	subst	_	be|mask|ent|appell	3	ADV	_	_
+3	var	være	verb	_	pret	28	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	jo	jo	adv	_	_	3	ADV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	men	men	konj	_	_	10	KONJ	_	_
+9	nå	nå	adv	_	_	10	ADV	_	_
+10	er	være	verb	_	pres	3	KOORD	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	jo	jo	adv	_	_	10	ADV	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	korn	korn	subst	_	ub|nøyt|fl|appell	10	SPRED	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	og	og	konj	_	_	21	KONJ	_	_
+17	e	e	nol	_	_	19	FYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	nei	nei	interj	_	_	21	INTERJ	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	21	FSUBJ	_	_
+21	er	være	verb	_	pres	3	KOORD	_	_
+22	ingen	ingen	det	_	mask|ent|kvant	24	DET	_	_
+23	e	e	nol	_	_	24	FYLL	_	_
+24	storproduksjon	storproduksjon	subst	_	ub|nøyt|fl|appell	21	PSUBJ	_	_
+25	på	på	prep	_	_	24	ATR	_	_
+26	poteter	potet	subst	_	ub|fem|fl|appell	25	PUTFYLL	_	_
+27	nå	nå	adv	_	_	21	ADV	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
 # segstart = 72.339
 # segstop = 72.601
-# speaker = eo
-# text = nei
-1	nei	nei	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 18
+# speaker = eo
+# id = 17
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det er korn og det fins ikke ei ku igjen trur jeg på Rømskogen # nei r0t
 # segstart = 72.601
 # segstop = 80.137
-# speaker = roemskog_04gk
-# text = nei det er korn og det fins ikke ei ku igjen trur jeg på Rømskogen # nei
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	korn	korn	subst	subst	_	3	SPRED	_	_
-5	og	og	konj	konj	_	7	KONJ	_	_
-6	det	det	pron	pron	_	7	FSUBJ	_	_
-7	fins	finnes	verb	verb	_	3	KOORD	_	_
-8	ikke	ikke	adv	adv	_	7	ADV	_	_
-9	ei	ei	det	det	_	10	DET	_	_
-10	ku	ku	subst	subst	_	7	PSUBJ	_	_
-11	igjen	igjen	adv	adv	_	7	ADV	_	_
-12	trur	tru	verb	verb	_	3	PAR	_	_
-13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
-14	på	på	prep	prep	_	7	ADV	_	_
-15	Rømskogen	Rømskogen	subst	subst	_	14	PUTFYLL	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	nei	nei	interj	interj	_	12	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 18
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	18	FINV	_	_
+4	korn	korn	subst	_	ub|nøyt|ent|appell	3	SPRED	_	_
+5	og	og	konj	_	_	7	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	fins	finnes	verb	_	pres	3	KOORD	_	_
+8	ikke	ikke	adv	_	_	7	ADV	_	_
+9	ei	ei	det	_	fem|ent|kvant	10	DET	_	_
+10	ku	ku	subst	_	ub|fem|ent|appell	7	PSUBJ	_	_
+11	igjen	igjen	adv	_	_	7	ADV	_	_
+12	trur	tru	verb	_	pres	3	PAR	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+14	på	på	prep	_	_	7	ADV	_	_
+15	Rømskogen	Rømskogen	subst	_	prop	14	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	nei	nei	interj	_	_	12	INTERJ	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = blir sånn det er hester til # til lystbruk _laughter_ r0t
+# segstart = 77.275
+# segstop = 80.137
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
 # id = 19
-# segstart = 77.275
-# segstop = 80.137
-# speaker = roemskog_04gk
-# text = blir sånn det er hester til # til lystbruk
-1	blir	bli	verb	verb	_	0	FINV	_	_
-2	sånn	sånn	adv	adv	_	1	SPRED	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	er	være	verb	verb	_	2	APP	_	_
-5	hester	hest	subst	subst	_	4	PSUBJ	_	_
-6	til	til	prep	prep	_	8	REP	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	til	til	prep	prep	_	5	ATR	_	_
-9	lystbruk	lystbruk	adj	adj	_	8	PUTFYLL	_	_
-
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 20
+1	blir	bli	verb	_	pres	11	FINV	_	_
+2	sånn	sånn	adv	_	_	1	SPRED	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	2	APP	_	_
+5	hester	hest	subst	_	be|mask|ent|appell	4	PSUBJ	_	_
+6	til	til	prep	_	_	8	REP	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	til	til	prep	_	_	5	ATR	_	_
+9	lystbruk	lystbruk	adj	_	ub|pos|m/f|ent	8	PUTFYLL	_	_
+10	_laughter_	_laughter_	pause	_	_	9	FYLL	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 77.275
 # segstop = 80.137
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
+# id = 20
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 21
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # en arbeidshest som jeg veit om # mm r0t
 # segstart = 80.137
 # segstop = 83.428
-# speaker = roemskog_04gk
-# text = ja # en arbeidshest som jeg veit om # mm
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	en	en	det	det	_	4	DET	_	_
-4	arbeidshest	arbeidshest	subst	subst	_	1	ADV	_	_
-5	som	som	sbu	sbu	_	7	SBU	_	_
-6	jeg	jeg	pron	pron	_	7	SUBJ	_	_
-7	veit	vite	verb	verb	_	4	ATR	_	_
-8	om	om	prep	prep	_	7	ADV	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	mm	mm	interj	interj	_	7	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 22
+# speaker = roemskog_04gk
+# id = 21
+# annotator = SR
+1	ja	ja	interj	_	_	11	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	en	en	det	_	mask|ent|kvant	4	DET	_	_
+4	arbeidshest	arbeidshest	subst	_	ub|mask|ent|samset	1	ADV	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	veit	vite	verb	_	pres	4	ATR	_	_
+8	om	om	prep	_	_	7	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	mm	mm	interj	_	_	7	INTERJ	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 83.428
 # segstop = 83.762
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 23
+# speaker = eo
+# id = 22
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 83.762
 # segstop = 84.575
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 24
+# speaker = roemskog_04gk
+# id = 23
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det er ja r0t
 # segstart = 84.575
 # segstop = 85.551
-# speaker = eo
-# text = nei det er ja
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	ja	ja	interj	interj	_	3	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 26
+# speaker = eo
+# id = 24
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	5	FINV	_	_
+4	ja	ja	interj	_	_	3	INTERJ	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 84.575
+# segstop = 85.551
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 25
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = så det forandra seg veldig r0t
 # segstart = 85.551
 # segstop = 86.697
-# speaker = roemskog_04gk
-# text = så det forandra seg veldig
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	SUBJ	_	_
-3	forandra	forandre	verb	verb	_	0	FINV	_	_
-4	seg	seg	pron	pron	_	3	DOBJ	_	_
-5	veldig	veldig	adj	adj	_	3	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 27
+# speaker = roemskog_04gk
+# id = 26
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	forandra	forandre	verb	_	pret	6	FINV	_	_
+4	seg	seg	pron	_	akk|refl	3	DOBJ	_	_
+5	veldig	veldig	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # de som e bodde på gård ved siden av var det jevnaldrende med deg også eller hadde du ? r0t
 # segstart = 86.697
 # segstop = 93.303
-# speaker = eo
-# text = ja # de som e bodde på gård ved siden av var det jevnaldrende med deg også eller hadde du ?
-1	ja	ja	interj	interj	_	12	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	de	de	pron	pron	_	13	APP	_	_
-4	som	som	sbu	sbu	_	6	SBU	_	_
-5	e	e	nol	nol	_	6	FYLL	_	_
-6	bodde	bo	verb	verb	_	3	ATR	_	_
-7	på	på	prep	prep	_	6	ADV	_	_
-8	gård	gård	subst	subst	_	7	PUTFYLL	_	_
-9	ved	ved	prep	prep	_	6	ADV	_	_
-10	siden	side	subst	subst	_	9	PUTFYLL	_	_
-11	av	av	prep	prep	_	10	ATR	_	_
-12	var	være	verb	verb	_	0	FINV	_	_
-13	det	det	pron	pron	_	12	SUBJ	_	_
-14	jevnaldrende	jevnaldrende	adj	adj	_	12	SPRED	_	_
-15	med	med	prep	prep	_	14	ADV	_	_
-16	deg	deg	pron	pron	_	15	PUTFYLL	_	_
-17	også	også	adv	adv	_	12	ADV	_	_
-18	eller	eller	konj	konj	_	19	KONJ	_	_
-19	hadde	ha	verb	verb	_	12	KOORD	_	_
-20	du	du	pron	pron	_	19	SUBJ	_	_
-21	?	?	clb	clb	_	12	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 28
+# speaker = eo
+# id = 27
+# annotator = SR
+1	ja	ja	interj	_	_	12	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	de	de	pron	_	nom|3|fl|pers	13	APP	_	_
+4	som	som	sbu	_	_	6	SBU	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	bodde	bo	verb	_	pret	3	ATR	_	_
+7	på	på	prep	_	_	6	ADV	_	_
+8	gård	gård	subst	_	ub|mask|ent|appell	7	PUTFYLL	_	_
+9	ved	ved	prep	_	_	6	ADV	_	_
+10	siden	side	subst	_	be|mask|ent|appell	9	PUTFYLL	_	_
+11	av	av	prep	_	_	10	ATR	_	_
+12	var	være	verb	_	pret	22	FINV	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	SUBJ	_	_
+14	jevnaldrende	jevnaldrende	adj	_	ub|pos|nøyt|ent	12	SPRED	_	_
+15	med	med	prep	_	_	14	ADV	_	_
+16	deg	deg	pron	_	akk|2|ent|hum	15	PUTFYLL	_	_
+17	også	også	adv	_	_	12	ADV	_	_
+18	eller	eller	konj	_	_	19	KONJ	_	_
+19	hadde	ha	verb	_	pret	12	KOORD	_	_
+20	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
+21	?	?	clb	_	_	12	IP	_	_
+22	r0t	_	_	_	_	0	root	_	_
+
+# text = ja der hadde jeg både e det var familie på den ene gården og så var det kusiner og fetter der da og så var det # eller søskenbarn som vi e # også sier her r0t
 # segstart = 93.303
 # segstop = 103.414
-# speaker = roemskog_04gk
-# text = ja der hadde jeg både e det var familie på den ene gården og så var det kusiner og fetter der da og så var det # eller søskenbarn som vi e # også sier her
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	der	der	prep	prep	_	3	ADV	_	_
-3	hadde	ha	verb	verb	_	8	REP	_	_
-4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-5	både	både	konj	konj	_	3	KONJ	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	det	det	pron	pron	_	8	FSUBJ	_	_
-8	var	være	verb	verb	_	0	FINV	_	_
-9	familie	familie	subst	subst	_	8	PSUBJ	_	_
-10	på	på	prep	prep	_	8	ADV	_	_
-11	den	den	det	det	_	13	DET	_	_
-12	ene	ene	det	det	_	13	DET	_	_
-13	gården	gård	subst	subst	_	10	PUTFYLL	_	_
-14	og	og	konj	konj	_	16	KONJ	_	_
-15	så	så	adv	adv	_	16	ADV	_	_
-16	var	være	verb	verb	_	8	KOORD	_	_
-17	det	det	pron	pron	_	16	FSUBJ	_	_
-18	kusiner	kusine	subst	subst	_	16	PSUBJ	_	_
-19	og	og	konj	konj	_	20	KONJ	_	_
-20	fetter	fetter	subst	subst	_	18	KOORD	_	_
-21	der	der	prep	prep	_	16	ADV	_	_
-22	da	da	adv	adv	_	16	ADV	_	_
-23	og	og	konj	konj	_	25	KONJ	_	_
-24	så	så	adv	adv	_	25	ADV	_	_
-25	var	være	verb	verb	_	8	KOORD	_	_
-26	det	det	pron	pron	_	25	FSUBJ	_	_
-27	#	#	pause	pause	_	28	IK	_	_
-28	eller	eller	konj	konj	_	29	KONJ	_	_
-29	søskenbarn	søskenbarn	subst	subst	_	20	APP	_	_
-30	som	som	sbu	sbu	_	35	SBU	_	_
-31	vi	vi	pron	pron	_	35	SUBJ	_	_
-32	e	e	nol	nol	_	34	FYLL	_	_
-33	#	#	pause	pause	_	34	IK	_	_
-34	også	også	adv	adv	_	35	ADV	_	_
-35	sier	si	verb	verb	_	29	ATR	_	_
-36	her	her	prep	prep	_	35	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 29
+# speaker = roemskog_04gk
+# id = 28
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	der	der	prep	_	_	3	ADV	_	_
+3	hadde	ha	verb	_	pret	8	REP	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	både	både	konj	_	_	3	KONJ	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	var	være	verb	_	pret	37	FINV	_	_
+9	familie	familie	subst	_	ub|mask|ent|appell	8	PSUBJ	_	_
+10	på	på	prep	_	_	8	ADV	_	_
+11	den	den	det	_	mask|ent|dem	13	DET	_	_
+12	ene	ene	det	_	be|ent|kvant	13	DET	_	_
+13	gården	gård	subst	_	be|mask|ent|appell	10	PUTFYLL	_	_
+14	og	og	konj	_	_	16	KONJ	_	_
+15	så	så	adv	_	_	16	ADV	_	_
+16	var	være	verb	_	pret	8	KOORD	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
+18	kusiner	kusine	subst	_	ub|fem|fl|appell	16	PSUBJ	_	_
+19	og	og	konj	_	_	20	KONJ	_	_
+20	fetter	fetter	subst	_	ub|mask|ent|appell	18	KOORD	_	_
+21	der	der	prep	_	_	16	ADV	_	_
+22	da	da	adv	_	_	16	ADV	_	_
+23	og	og	konj	_	_	25	KONJ	_	_
+24	så	så	adv	_	_	25	ADV	_	_
+25	var	være	verb	_	pret	8	KOORD	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	eller	eller	konj	_	_	29	KONJ	_	_
+29	søskenbarn	søskenbarn	subst	_	ub|nøyt|fl|samset	20	KOORD	_	_
+30	som	som	sbu	_	_	35	SBU	_	_
+31	vi	vi	pron	_	nom|1|fl|hum	35	SUBJ	_	_
+32	e	e	nol	_	_	34	FYLL	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	også	også	adv	_	_	35	ADV	_	_
+35	sier	si	verb	_	pres	29	ATR	_	_
+36	her	her	prep	_	_	35	ADV	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 103.414
 # segstop = 103.758
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 30
+# speaker = eo
+# id = 29
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # og så e # var det jevngamle unger på andre # på denne andre nabogården # mm r0t
 # segstart = 103.758
 # segstop = 110.841
-# speaker = roemskog_04gk
-# text = mm # og så e # var det jevngamle unger på andre # på denne andre nabogården # mm
-1	mm	mm	interj	interj	_	7	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	og	og	konj	konj	_	7	KONJ	_	_
-4	så	så	adv	adv	_	7	ADV	_	_
-5	e	e	nol	nol	_	7	FYLL	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	var	være	verb	verb	_	0	FINV	_	_
-8	det	det	pron	pron	_	7	FSUBJ	_	_
-9	jevngamle	jevngammel	adj	adj	_	10	ATR	_	_
-10	unger	unge	subst	subst	_	7	PSUBJ	_	_
-11	på	på	prep	prep	_	14	REP	_	_
-12	andre	andre	det	det	_	11	PUTFYLL	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	på	på	prep	prep	_	7	ADV	_	_
-15	denne	denne	det	det	_	17	DET	_	_
-16	andre	andre	det	det	_	17	DET	_	_
-17	nabogården	nabogård	subst	subst	_	14	PUTFYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	mm	mm	interj	interj	_	7	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 31
+# speaker = roemskog_04gk
+# id = 30
+# annotator = SR
+1	mm	mm	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	7	KONJ	_	_
+4	så	så	adv	_	_	7	ADV	_	_
+5	e	e	nol	_	_	7	FYLL	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	var	være	verb	_	pret	20	FINV	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+9	jevngamle	jevngammel	adj	_	ub|pos|m/f|fl	10	ATR	_	_
+10	unger	unge	subst	_	ub|mask|fl|appell	7	PSUBJ	_	_
+11	på	på	prep	_	_	14	REP	_	_
+12	andre	andre	det	_	be|ent|dem	11	PUTFYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	på	på	prep	_	_	7	ADV	_	_
+15	denne	denne	det	_	mask|ent|dem	17	DET	_	_
+16	andre	andre	det	_	be|ent|dem	17	DET	_	_
+17	nabogården	nabogård	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	mm	mm	interj	_	_	7	INTERJ	_	_
+20	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # var det # generelt mer unger da # eller # var det liksom ? r0t
 # segstart = 110.841
 # segstop = 117.995
-# speaker = eo
-# text = mm # var det # generelt mer unger da # eller # var det liksom ?
-1	mm	mm	interj	interj	_	3	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	generelt	generell	adj	adj	_	3	ADV	_	_
-7	mer	mye	adj	adj	_	8	ATR	_	_
-8	unger	unge	subst	subst	_	3	PSUBJ	_	_
-9	da	da	adv	adv	_	3	ADV	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	eller	eller	konj	konj	_	13	KONJ	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	var	være	verb	verb	_	3	KOORD	_	_
-14	det	det	pron	pron	_	13	FSUBJ	_	_
-15	liksom	liksom	adv	adv	_	13	ADV	_	_
-16	?	?	clb	clb	_	3	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 32
+# speaker = eo
+# id = 31
+# annotator = SR
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	var	være	verb	_	pret	17	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	generelt	generell	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+7	mer	mye	adj	_	komp	8	ATR	_	_
+8	unger	unge	subst	_	ub|mask|fl|appell	3	PSUBJ	_	_
+9	da	da	adv	_	_	3	ADV	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	eller	eller	konj	_	_	13	KONJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	var	være	verb	_	pret	3	KOORD	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+15	liksom	liksom	adv	_	_	13	ADV	_	_
+16	?	?	clb	_	_	3	IP	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # nei det vil jeg ikke p- # påstå egentlig r0t
 # segstart = 117.995
 # segstop = 123.482
-# speaker = roemskog_04gk
-# text = # nei det vil jeg ikke p- # påstå egentlig
-1	#	#	pause	pause	_	2	IK	_	_
-2	nei	nei	interj	interj	_	4	INTERJ	_	_
-3	det	det	pron	pron	_	9	DOBJ	_	_
-4	vil	ville	verb	verb	_	0	FINV	_	_
-5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-6	ikke	ikke	adv	adv	_	9	ADV	_	_
-7	p-	p-	ufullst	ufullst	_	9	FYLL	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	påstå	påstå	verb	verb	_	4	INFV	_	_
-10	egentlig	egentlig	adj	adj	_	9	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 33
+# speaker = roemskog_04gk
+# id = 32
+# annotator = SR
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	nei	nei	interj	_	_	5	INTERJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	10	DOBJ	_	_
+5	vil	ville	verb	_	pres	12	FINV	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+7	ikke	ikke	adv	_	_	10	ADV	_	_
+8	p-	p-	ufullst	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	påstå	påstå	verb	_	inf	5	INFV	_	_
+11	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	10	ADV	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = jeg jobber jo på skolen e nå sånn merkantilt og e r0t
 # segstart = 123.482
 # segstop = 127.942
-# speaker = roemskog_04gk
-# text = jeg jobber jo på skolen e nå sånn merkantilt og e
-1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-2	jobber	jobbe	verb	verb	_	0	FINV	_	_
-3	jo	jo	adv	adv	_	2	ADV	_	_
-4	på	på	prep	prep	_	2	ADV	_	_
-5	skolen	skole	subst	subst	_	4	PUTFYLL	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	nå	nå	adv	adv	_	2	ADV	_	_
-8	sånn	sånn	adv	adv	_	9	ADV	_	_
-9	merkantilt	merkantil	adj	adj	_	2	KOORD	_	_
-10	og	og	konj	konj	_	9	KONJ	_	_
-11	e	e	nol	nol	_	10	FYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 34
+# speaker = roemskog_04gk
+# id = 33
+# annotator = SR
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	jobber	jobbe	verb	_	pres	12	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	på	på	prep	_	_	2	ADV	_	_
+5	skolen	skole	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	nå	nå	adv	_	_	2	ADV	_	_
+8	sånn	sånn	adv	_	_	9	ADV	_	_
+9	merkantilt	merkantil	adj	_	ub|pos|nøyt|ent	2	KOORD	_	_
+10	og	og	konj	_	_	9	KONJ	_	_
+11	e	e	nol	_	_	10	FYLL	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = jeg liksom ser p- tenker på klassene nå så var det vel jeg trur vi var en ti elleve i min klasse og det kan det være nå au men gjennomsnittet ligger på en sju åtte r0t
 # segstart = 127.942
 # segstop = 135.525
-# speaker = roemskog_04gk
-# text = jeg liksom ser p- tenker på klassene nå så var det vel jeg trur vi var en ti elleve i min klasse og det kan det være nå au men gjennomsnittet ligger på en sju åtte
-1	jeg	jeg	pron	pron	_	5	SUBJ	_	_
-2	liksom	liksom	adv	adv	_	5	ADV	_	_
-3	ser	se	verb	verb	_	5	REP	_	_
-4	p-	p-	ufullst	ufullst	_	5	FYLL	_	_
-5	tenker	tenke	verb	verb	_	0	FINV	_	_
-6	på	på	prep	prep	_	5	ADV	_	_
-7	klassene	klasse	subst	subst	_	6	PUTFYLL	_	_
-8	nå	nå	adv	adv	_	5	ADV	_	_
-9	så	så	adv	adv	_	10	ADV	_	_
-10	var	være	verb	verb	_	14	REP	_	_
-11	det	det	pron	pron	_	10	FSUBJ	_	_
-12	vel	vel	adv	adv	_	10	ADV	_	_
-13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
-14	trur	tru	verb	verb	_	5	KOORD	_	_
-15	vi	vi	pron	pron	_	16	SUBJ	_	_
-16	var	være	verb	verb	_	14	DOBJ	_	_
-17	en	en	adv	adv	_	18	DET	_	_
-18	ti	ti	det	det	_	16	SPRED	_	_
-19	elleve	elleve	det	det	_	18	FLAT	_	_
-20	i	i	prep	prep	_	16	ADV	_	_
-21	min	min	det	det	_	22	DET	_	_
-22	klasse	klasse	subst	subst	_	20	PUTFYLL	_	_
-23	og	og	konj	konj	_	25	KONJ	_	_
-24	det	det	pron	pron	_	27	SPRED	_	_
-25	kan	kan	verb	verb	_	5	KOORD	_	_
-26	det	det	pron	pron	_	25	FSUBJ	_	_
-27	være	være	verb	verb	_	25	INFV	_	_
-28	nå	nå	adv	adv	_	27	ADV	_	_
-29	au	au	adv	adv	_	27	ADV	_	_
-30	men	men	konj	konj	_	32	KONJ	_	_
-31	gjennomsnittet	gjennomsnitt	subst	subst	_	32	SUBJ	_	_
-32	ligger	ligge	verb	verb	_	5	KOORD	_	_
-33	på	på	prep	prep	_	32	ADV	_	_
-34	en	en	adv	adv	_	35	ADV	_	_
-35	sju	sju	det	det	_	33	PUTFYLL	_	_
-36	åtte	åtte	det	det	_	35	FLAT	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 35
+# speaker = roemskog_04gk
+# id = 34
+# annotator = SR
+1	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+2	liksom	liksom	adv	_	_	5	ADV	_	_
+3	ser	se	verb	_	pres	5	REP	_	_
+4	p-	p-	ufullst	_	_	5	FYLL	_	_
+5	tenker	tenke	verb	_	pres	37	FINV	_	_
+6	på	på	prep	_	_	5	ADV	_	_
+7	klassene	klasse	subst	_	be|fem|fl|appell	6	PUTFYLL	_	_
+8	nå	nå	adv	_	_	5	ADV	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	var	være	verb	_	pret	14	REP	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	vel	vel	adv	_	_	10	ADV	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	14	SUBJ	_	_
+14	trur	tru	verb	_	pres	5	KOORD	_	_
+15	vi	vi	pron	_	nom|1|fl|hum	16	SUBJ	_	_
+16	var	være	verb	_	pret	14	DOBJ	_	_
+17	en	en	adv	_	_	18	DET	_	_
+18	ti	ti	det	_	fl|kvant	16	SPRED	_	_
+19	elleve	elleve	det	_	fl|kvant	18	FLAT	_	_
+20	i	i	prep	_	_	16	ADV	_	_
+21	min	min	det	_	mask|ent|poss	22	DET	_	_
+22	klasse	klasse	subst	_	ub|mask|ent|appell	20	PUTFYLL	_	_
+23	og	og	konj	_	_	25	KONJ	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	27	SPRED	_	_
+25	kan	kunne	verb	_	pres	5	KOORD	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
+27	være	være	verb	_	inf	25	INFV	_	_
+28	nå	nå	adv	_	_	27	ADV	_	_
+29	au	au	adv	_	_	27	ADV	_	_
+30	men	men	konj	_	_	32	KONJ	_	_
+31	gjennomsnittet	gjennomsnitt	subst	_	be|nøyt|ent|appell	32	SUBJ	_	_
+32	ligger	ligge	verb	_	pres	5	KOORD	_	_
+33	på	på	prep	_	_	32	ADV	_	_
+34	en	en	adv	_	_	35	ADV	_	_
+35	sju	sju	det	_	fl|kvant	33	PUTFYLL	_	_
+36	åtte	åtte	det	_	fl|kvant	35	FLAT	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 135.525
 # segstop = 135.869
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 36
+# speaker = eo
+# id = 35
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # men så det m r0t
 # segstart = 135.869
 # segstop = 138.015
-# speaker = roemskog_04gk
-# text = ja # men så det m
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	men	men	konj	konj	_	5	KONJ	_	_
-4	så	så	konj	konj	_	5	KONJ	_	_
-5	det	det	pron	pron	_	1	ADV	_	_
-6	m	m	nol	nol	_	5	FYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 37
+# speaker = roemskog_04gk
+# id = 36
+# annotator = SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	5	KONJ	_	_
+4	så	så	konj	_	_	5	KONJ	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	1	ADV	_	_
+6	m	m	nol	_	_	5	FYLL	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = i hvert trinn altså ? r0t
 # segstart = 138.015
 # segstop = 139.494
-# speaker = eo
-# text = i hvert trinn altså ?
-1	i	i	prep	prep	_	0	FRAG	_	_
-2	hvert	hvert	det	det	_	3	DET	_	_
-3	trinn	trinn	subst	subst	_	1	PUTFYLL	_	_
-4	altså	altså	adv	adv	_	1	ADV	_	_
-5	?	?	clb	clb	_	1	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 38
+# speaker = eo
+# id = 37
+# annotator = SR
+1	i	i	prep	_	_	6	FRAG	_	_
+2	hvert	hvert	det	_	nøyt|ent|kvant	3	DET	_	_
+3	trinn	trinn	subst	_	ub|nøyt|ent|appell	1	PUTFYLL	_	_
+4	altså	altså	adv	_	_	1	ADV	_	_
+5	?	?	clb	_	_	1	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 139.494
 # segstop = 140.275
-# speaker = roemskog_04gk
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 39
+# speaker = roemskog_04gk
+# id = 38
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = men det var såpass når du var ung også ? r0t
 # segstart = 140.275
 # segstop = 141.897
-# speaker = eo
-# text = men det var såpass når du var ung også ?
-1	men	men	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	såpass	såpass	adv	adv	_	3	PSUBJ	_	_
-5	når	når	sbu	sbu	_	7	SBU	_	_
-6	du	du	pron	pron	_	7	SUBJ	_	_
-7	var	være	verb	verb	_	3	ADV	_	_
-8	ung	ung	adj	adj	_	7	SPRED	_	_
-9	også	også	adv	adv	_	7	ADV	_	_
-10	?	?	clb	clb	_	3	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 40
+# speaker = eo
+# id = 39
+# annotator = SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	var	være	verb	_	pret	11	FINV	_	_
+4	såpass	såpass	adv	_	_	3	PSUBJ	_	_
+5	når	når	sbu	_	_	7	SBU	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	var	være	verb	_	pret	3	ADV	_	_
+8	ung	ung	adj	_	ub|pos|m/f|ent	7	SPRED	_	_
+9	også	også	adv	_	_	7	ADV	_	_
+10	?	?	clb	_	_	3	IP	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # det var det r0t
 # segstart = 141.897
 # segstop = 143.185
-# speaker = roemskog_04gk
-# text = ja # det var det
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	var	være	verb	verb	_	0	FINV	_	_
-5	det	det	pron	pron	_	4	PSUBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 41
+# speaker = roemskog_04gk
+# id = 40
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	var	være	verb	_	pret	6	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	PSUBJ	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # hvordan var det med skolen da er det den som ligger her nå som r0t
 # segstart = 143.185
 # segstop = 148.121
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = ja # hvordan var det med skolen da er det den som ligger her nå som
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	hvordan	hvordan	adv	adv	_	4	SPRED	_	_
-4	var	være	verb	verb	_	0	FINV	_	_
-5	det	det	pron	pron	_	4	FSUBJ	_	_
-6	med	med	prep	prep	_	4	ADV	_	_
-7	skolen	skole	subst	subst	_	6	PUTFYLL	_	_
-8	da	da	adv	adv	_	4	ADV	_	_
-9	er	være	verb	verb	_	4	KOORD	_	_
-10	det	det	pron	pron	_	9	FSUBJ	_	_
-11	den	den	pron	pron	_	9	SPRED	_	_
-12	som	som	sbu	sbu	_	13	SBU	_	_
-13	ligger	ligge	verb	verb	_	11	ATR	_	_
-14	her	her	prep	prep	_	13	ADV	_	_
-15	nå	nå	adv	adv	_	13	ADV	_	_
-16	som	som	sbu	sbu	_	11	SLETT	_	_
-
+# id = 41
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 42
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hvordan	hvordan	adv	_	_	4	SPRED	_	_
+4	var	være	verb	_	pret	17	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	med	med	prep	_	_	4	ADV	_	_
+7	skolen	skole	subst	_	be|mask|ent|appell	6	PUTFYLL	_	_
+8	da	da	adv	_	_	4	ADV	_	_
+9	er	være	verb	_	pres	4	KOORD	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	9	FSUBJ	_	_
+11	den	den	pron	_	fem|3|ent|pers	9	SPRED	_	_
+12	som	som	sbu	_	_	13	SBU	_	_
+13	ligger	ligge	verb	_	pres	11	ATR	_	_
+14	her	her	prep	_	_	13	ADV	_	_
+15	nå	nå	adv	_	_	13	ADV	_	_
+16	som	som	sbu	_	_	11	SLETT	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = * mm r0t
 # segstart = 143.185
 # segstop = 148.121
-# speaker = roemskog_04gk
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 43
+# speaker = roemskog_04gk
+# id = 42
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 148.121
 # segstop = 149.277
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 44
+# speaker = eo
+# id = 43
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = jeg var det første eller var første kullet v- # første klassen som begynte i den skolen der r0t
 # segstart = 149.277
 # segstop = 154.309
-# speaker = roemskog_04gk
-# text = jeg var det første eller var første kullet v- # første klassen som begynte i den skolen der
-1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	det	det	det	det	_	4	DET	_	_
-4	første	første	adj	adj	_	2	SPRED	_	_
-5	eller	eller	konj	konj	_	6	KONJ	_	_
-6	var	være	verb	verb	_	2	KOORD	_	_
-7	første	første	adj	adj	_	8	ATR	_	_
-8	kullet	kull	subst	subst	_	6	SPRED	_	_
-9	v-	v-	ufullst	ufullst	_	11	FYLL	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	første	første	adj	adj	_	12	ATR	_	_
-12	klassen	klasse	subst	subst	_	8	APP	_	_
-13	som	som	sbu	sbu	_	14	SBU	_	_
-14	begynte	begynne	verb	verb	_	12	ATR	_	_
-15	i	i	prep	prep	_	14	ADV	_	_
-16	den	den	det	det	_	17	DET	_	_
-17	skolen	skole	subst	subst	_	15	PUTFYLL	_	_
-18	der	der	prep	prep	_	17	ATR	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 45
+# speaker = roemskog_04gk
+# id = 44
+# annotator = SR
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	var	være	verb	_	pret	19	FINV	_	_
+3	det	det	det	_	nøyt|ent|dem	4	DET	_	_
+4	første	første	adj	_	ub|pos|nøyt|ent	2	SPRED	_	_
+5	eller	eller	konj	_	_	6	KONJ	_	_
+6	var	være	verb	_	pret	2	KOORD	_	_
+7	første	første	adj	_	be|pos|ent	8	ATR	_	_
+8	kullet	kull	subst	_	ub|nøyt|ent|appell	6	SPRED	_	_
+9	v-	v-	ufullst	_	_	11	FYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	første	første	adj	_	be|pos|ent	12	ATR	_	_
+12	klassen	klasse	subst	_	be|mask|ent|appell	8	APP	_	_
+13	som	som	sbu	_	_	14	SBU	_	_
+14	begynte	begynne	verb	_	pret	12	ATR	_	_
+15	i	i	prep	_	_	14	ADV	_	_
+16	den	den	det	_	mask|ent|dem	17	DET	_	_
+17	skolen	skole	subst	_	be|mask|ent|appell	15	PUTFYLL	_	_
+18	der	der	prep	_	_	17	ATR	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 154.309
 # segstop = 154.778
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 46
+# speaker = eo
+# id = 45
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # før det var det et eldre fint hus m villaaktig noe som liksom lå her som dette her bygget her ligger r0t
 # segstart = 154.778
 # segstop = 161.272
-# speaker = roemskog_04gk
-# text = ja # før det var det et eldre fint hus m villaaktig noe som liksom lå her som dette her bygget her ligger
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	før	før	prep	prep	_	5	ADV	_	_
-4	det	det	pron	pron	_	3	PUTFYLL	_	_
-5	var	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	et	et	det	det	_	10	DET	_	_
-8	eldre	gammel	adj	adj	_	10	ATR	_	_
-9	fint	fin	adj	adj	_	10	ATR	_	_
-10	hus	hus	subst	subst	_	5	PSUBJ	_	_
-11	m	m	nol	nol	_	12	FYLL	_	_
-12	villaaktig	villaaktig	adj	adj	_	13	ATR	_	_
-13	noe	noe	pron	pron	_	10	APP	_	_
-14	som	som	sbu	sbu	_	16	SBU	_	_
-15	liksom	liksom	adv	adv	_	16	ADV	_	_
-16	lå	ligge	verb	verb	_	13	ATR	_	_
-17	her	her	prep	prep	_	23	ADV	_	_
-18	som	som	sbu	sbu	_	23	SBU	_	_
-19	dette	dette	det	det	_	21	DET	_	_
-20	her	her	prep	prep	_	19	ADV	_	_
-21	bygget	bygg	subst	subst	_	23	SUBJ	_	_
-22	her	her	prep	prep	_	21	ATR	_	_
-23	ligger	ligge	verb	verb	_	16	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 47
+# speaker = roemskog_04gk
+# id = 46
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	før	før	prep	_	_	5	ADV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	PUTFYLL	_	_
+5	var	være	verb	_	pret	24	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	et	et	det	_	nøyt|ent|kvant	10	DET	_	_
+8	eldre	gammel	adj	_	komp	10	ATR	_	_
+9	fint	fin	adj	_	ub|pos|nøyt|ent	10	ATR	_	_
+10	hus	hus	subst	_	ub|nøyt|ent|appell	5	PSUBJ	_	_
+11	m	m	nol	_	_	12	FYLL	_	_
+12	villaaktig	villaaktig	adj	_	ub|pos|m/f|ent	13	ATR	_	_
+13	noe	noe	pron	_	nøyt|3|ent|pers	10	APP	_	_
+14	som	som	sbu	_	_	16	SBU	_	_
+15	liksom	liksom	adv	_	_	16	ADV	_	_
+16	lå	ligge	verb	_	pret	13	ATR	_	_
+17	her	her	prep	_	_	16	ADV	_	_
+18	som	som	sbu	_	_	23	SBU	_	_
+19	dette	dette	det	_	nøyt|ent|dem	21	DET	_	_
+20	her	her	prep	_	_	19	ATR	_	_
+21	bygget	bygg	subst	_	be|nøyt|ent|appell	23	SUBJ	_	_
+22	her	her	prep	_	_	21	ATR	_	_
+23	ligger	ligge	verb	_	pres	17	ADV	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 161.272
 # segstop = 161.71
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 48
+# speaker = eo
+# id = 47
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # som e # romma skole og # og kommunekassereren tenker jeg r0t
 # segstart = 161.71
 # segstop = 167.576
-# speaker = roemskog_04gk
-# text = ja # som e # romma skole og # og kommunekassereren tenker jeg
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	som	som	sbu	sbu	_	6	SBU	_	_
-4	e	e	nol	nol	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	romma	romme	verb	verb	_	0	FINV	_	_
-7	skole	skole	subst	subst	_	6	DOBJ	_	_
-8	og	og	konj	konj	_	10	REP	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	kommunekassereren	kommunekasserer	subst	subst	_	7	KOORD	_	_
-12	tenker	tenke	verb	verb	_	6	PAR	_	_
-13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 49
+# speaker = roemskog_04gk
+# id = 48
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	som	som	sbu	_	_	6	SBU	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	romma	romme	verb	_	pret	14	FINV	_	_
+7	skole	skole	subst	_	ub|mask|ent|appell	6	DOBJ	_	_
+8	og	og	konj	_	_	10	REP	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	kommunekassereren	kommunekasserer	subst	_	be|mask|ent|samset	7	KOORD	_	_
+12	tenker	tenke	verb	_	pres	6	PAR	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+14	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 167.576
 # segstop = 168.076
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 50
+# speaker = eo
+# id = 49
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # og så bodde e # rektoren der og ja # _laughter_ # men den pr- den skolen gikk aldri jeg på da jeg begynte på den nye r0t
 # segstart = 168.076
 # segstop = 176.9
-# speaker = roemskog_04gk
-# text = ja # og så bodde e # rektoren der og ja # # men den pr- den skolen gikk aldri jeg på da jeg begynte på den nye
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	og	og	konj	konj	_	5	KONJ	_	_
-4	så	så	adv	adv	_	5	ADV	_	_
-5	bodde	bo	verb	verb	_	0	FINV	_	_
-6	e	e	nol	nol	_	8	FYLL	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	rektoren	rektor	subst	subst	_	5	SUBJ	_	_
-9	der	der	prep	prep	_	5	ADV	_	_
-10	og	og	konj	konj	_	5	KONJ	_	_
-11	ja	ja	interj	interj	_	5	INTERJ	_	_
-12	#	#	pause	pause	_	14	IK	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	men	men	konj	konj	_	19	KONJ	_	_
-15	den	den	det	det	_	17	REP	_	_
-16	pr-	pr-	ufullst	ufullst	_	17	FYLL	_	_
-17	den	den	det	det	_	18	DET	_	_
-18	skolen	skole	subst	subst	_	22	PUTFYLL	_	_
-19	gikk	gå	verb	verb	_	5	KOORD	_	_
-20	aldri	aldri	adv	adv	_	19	ADV	_	_
-21	jeg	jeg	pron	pron	_	19	SUBJ	_	_
-22	på	på	prep	prep	_	19	ADV	_	_
-23	da	da	sbu	sbu	_	25	SBU	_	_
-24	jeg	jeg	pron	pron	_	25	SUBJ	_	_
-25	begynte	begynne	verb	verb	_	19	ADV	_	_
-26	på	på	prep	prep	_	25	ADV	_	_
-27	den	den	det	det	_	28	DET	_	_
-28	nye	ny	adj	adj	_	26	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 51
+# speaker = roemskog_04gk
+# id = 50
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	5	KONJ	_	_
+4	så	så	adv	_	_	5	ADV	_	_
+5	bodde	bo	verb	_	pret	30	FINV	_	_
+6	e	e	nol	_	_	8	FYLL	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	rektoren	rektor	subst	_	be|mask|ent|appell	5	SUBJ	_	_
+9	der	der	prep	_	_	5	ADV	_	_
+10	og	og	konj	_	_	5	KONJ	_	_
+11	ja	ja	interj	_	_	5	INTERJ	_	_
+12	#	#	pause	_	_	15	IK	_	_
+13	_laughter_	_laughter_	pause	_	_	15	IK	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	men	men	konj	_	_	20	KONJ	_	_
+16	den	den	det	_	mask|ent|dem	18	REP	_	_
+17	pr-	pr-	ufullst	_	_	18	FYLL	_	_
+18	den	den	det	_	mask|ent|dem	19	DET	_	_
+19	skolen	skole	subst	_	be|mask|ent|appell	23	PUTFYLL	_	_
+20	gikk	gå	verb	_	pret	5	KOORD	_	_
+21	aldri	aldri	adv	_	_	20	ADV	_	_
+22	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+23	på	på	prep	_	_	20	ADV	_	_
+24	da	da	sbu	_	_	26	SBU	_	_
+25	jeg	jeg	pron	_	nom|1|ent|hum	26	SUBJ	_	_
+26	begynte	begynne	verb	_	pret	20	ADV	_	_
+27	på	på	prep	_	_	26	ADV	_	_
+28	den	den	det	_	mask|ent|dem	29	DET	_	_
+29	nye	ny	adj	_	be|pos|ent	27	PUTFYLL	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 176.9
 # segstop = 177.212
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 52
+# speaker = eo
+# id = 51
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # og da var det jo altså andre e grendeskoler r0t
 # segstart = 177.212
 # segstop = 182.48
-# speaker = roemskog_04gk
-# text = mm # og da var det jo altså andre e grendeskoler
-1	mm	mm	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	og	og	konj	konj	_	5	KONJ	_	_
-4	da	da	adv	adv	_	5	ADV	_	_
-5	var	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	jo	jo	adv	adv	_	5	ADV	_	_
-8	altså	altså	adv	adv	_	5	ADV	_	_
-9	andre	andre	det	det	_	11	DET	_	_
-10	e	e	nol	nol	_	11	FYLL	_	_
-11	grendeskoler	grendeskole	subst	subst	_	5	PSUBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 53
+# speaker = roemskog_04gk
+# id = 52
+# annotator = SR
+1	mm	mm	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	5	KONJ	_	_
+4	da	da	adv	_	_	5	ADV	_	_
+5	var	være	verb	_	pret	12	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	jo	jo	adv	_	_	5	ADV	_	_
+8	altså	altså	adv	_	_	5	ADV	_	_
+9	andre	andre	det	_	fl|dem	11	DET	_	_
+10	e	e	nol	_	_	11	FYLL	_	_
+11	grendeskoler	grendeskole	subst	_	ub|mask|fl|samset	5	PSUBJ	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # ja r0t
 # segstart = 182.48
 # segstop = 183.12
-# speaker = eo
-# text = # ja
-1	#	#	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 54
+# speaker = eo
+# id = 53
+# annotator = SR
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	4	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # e da før e før den e det bygget der borte kom opp mm root
 # segstart = 183.12
 # segstop = 187.89
-# speaker = roemskog_04gk
-# text = ja # e da før e før den e det bygget der borte kom opp mm
-1	ja	ja	interj	interj	_	14	INTERJ	_	_
-2	#	#	pause	pause	_	4	IK	_	_
-3	e	e	nol	nol	_	4	FYLL	_	_
-4	da	da	adv	adv	_	14	REP	_	_
-5	før	før	prep	prep	_	7	REP	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	før	før	sbu	sbu	_	14	SBU	_	_
-8	den	den	det	det	_	10	REP	_	_
-9	e	e	nol	nol	_	10	FYLL	_	_
-10	det	det	det	det	_	11	DET	_	_
-11	bygget	bygg	subst	subst	_	14	SUBJ	_	_
-12	der	der	prep	prep	_	11	ATR	_	_
-13	borte	borte	prep	prep	_	12	PUTFYLL	_	_
-14	kom	komme	verb	verb	_	0	FINV	_	_
-15	opp	opp	prep	prep	_	14	ADV	_	_
-16	mm	mm	interj	interj	_	14	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 55
+# speaker = roemskog_04gk
+# id = 54
+# annotator = SR
+1	ja	ja	interj	_	_	14	INTERJ	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	e	e	nol	_	_	4	FYLL	_	_
+4	da	da	adv	_	_	14	REP	_	_
+5	før	før	prep	_	_	7	REP	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	før	før	sbu	_	_	14	SBU	_	_
+8	den	den	det	_	mask|ent|dem	10	REP	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	det	det	det	_	nøyt|ent|dem	11	DET	_	_
+11	bygget	bygg	subst	_	be|nøyt|ent|appell	14	SUBJ	_	_
+12	der	der	prep	_	_	11	ATR	_	_
+13	borte	borte	prep	_	_	12	PUTFYLL	_	_
+14	kom	komme	verb	_	pret	17	FINV	_	_
+15	opp	opp	prep	_	_	14	ADV	_	_
+16	mm	mm	interj	_	_	14	INTERJ	_	_
+17	root	_	_	_	_	0	root	_	_
+
+# text = mm # ja fordi nå går alle fra hele kommunen der ? r0t
 # segstart = 187.89
 # segstop = 191.729
-# speaker = eo
-# text = mm # ja fordi nå går alle fra hele kommunen der ?
-1	mm	mm	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	ja	ja	interj	interj	_	6	INTERJ	_	_
-4	fordi	fordi	sbu	sbu	_	6	SBU	_	_
-5	nå	nå	adv	adv	_	6	ADV	_	_
-6	går	gå	verb	verb	_	0	FINV	_	_
-7	alle	alle	pron	pron	_	6	SUBJ	_	_
-8	fra	fra	prep	prep	_	7	ATR	_	_
-9	hele	hel	adj	adj	_	10	ATR	_	_
-10	kommunen	kommune	subst	subst	_	8	PUTFYLL	_	_
-11	der	der	prep	prep	_	6	ADV	_	_
-12	?	?	clb	clb	_	6	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 56
+# speaker = eo
+# id = 55
+# annotator = SR
+1	mm	mm	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	6	INTERJ	_	_
+4	fordi	fordi	sbu	_	_	6	SBU	_	_
+5	nå	nå	adv	_	_	6	ADV	_	_
+6	går	gå	verb	_	pres	13	FINV	_	_
+7	alle	alle	pron	_	3|fl|pers	6	SUBJ	_	_
+8	fra	fra	prep	_	_	7	ATR	_	_
+9	hele	hel	adj	_	be|pos|ent	10	ATR	_	_
+10	kommunen	kommune	subst	_	be|mask|ent|appell	8	PUTFYLL	_	_
+11	der	der	prep	_	_	6	ADV	_	_
+12	?	?	clb	_	_	6	IP	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 191.729
 # segstop = 192.916
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 57
+# speaker = roemskog_04gk
+# id = 56
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = det er jo ganske lang vei for noen da åssen fikser man det ? r0t
 # segstart = 192.916
 # segstop = 195.807
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = det er jo ganske lang vei for noen da åssen fikser man det ?
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	jo	jo	adv	adv	_	2	ADV	_	_
-4	ganske	ganske	adv	adv	_	5	ADV	_	_
-5	lang	lang	adj	adj	_	6	ATR	_	_
-6	vei	vei	subst	subst	_	2	SPRED	_	_
-7	for	for	prep	prep	_	2	ADV	_	_
-8	noen	noen	pron	pron	_	7	PUTFYLL	_	_
-9	da	da	sbu	sbu	_	2	ADV	_	_
-10	åssen	åssen	adv	adv	_	11	ADV	_	_
-11	fikser	fikse	verb	verb	_	2	KOORD	_	_
-12	man	man	pron	pron	_	11	SUBJ	_	_
-13	det	det	pron	pron	_	11	DOBJ	_	_
-14	?	?	clb	clb	_	2	IP	_	_
-
+# id = 57
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 58
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	15	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	ganske	ganske	adv	_	_	5	ADV	_	_
+5	lang	lang	adj	_	ub|pos|m/f|ent	6	ATR	_	_
+6	vei	vei	subst	_	ub|mask|ent|appell	2	SPRED	_	_
+7	for	for	prep	_	_	2	ADV	_	_
+8	noen	noen	pron	_	fem|3|ent|pers	7	PUTFYLL	_	_
+9	da	da	sbu	_	_	2	ADV	_	_
+10	åssen	åssen	adv	_	_	11	ADV	_	_
+11	fikser	fikse	verb	_	pres	2	KOORD	_	_
+12	man	man	pron	_	nom|ent|hum	11	SUBJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	11	DOBJ	_	_
+14	?	?	clb	_	_	2	IP	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 192.916
 # segstop = 195.807
-# speaker = roemskog_04gk
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 59
+# speaker = roemskog_04gk
+# id = 58
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = de kjører buss # og drosje r0t
 # segstart = 195.807
 # segstop = 198.264
-# speaker = roemskog_04gk
-# text = de kjører buss # og drosje
-1	de	de	pron	pron	_	2	SUBJ	_	_
-2	kjører	kjøre	verb	verb	_	0	FINV	_	_
-3	buss	buss	subst	subst	_	2	DOBJ	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	og	og	konj	konj	_	6	KONJ	_	_
-6	drosje	drosje	subst	subst	_	3	KOORD	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 60
+# speaker = roemskog_04gk
+# id = 59
+# annotator = SR
+1	de	de	pron	_	nom|2|fl|hum	2	SUBJ	_	_
+2	kjører	kjøre	verb	_	pres	7	FINV	_	_
+3	buss	buss	subst	_	ub|mask|ent|appell	2	DOBJ	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	og	og	konj	_	_	6	KONJ	_	_
+6	drosje	drosje	subst	_	ub|fem|ent|appell	3	KOORD	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 198.264
 # segstop = 198.577
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 61
+# speaker = eo
+# id = 60
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ## så r0t
 # segstart = 198.577
 # segstop = 201.558
-# speaker = roemskog_04gk
-# text = ja ## så
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	##	##	pause	pause	_	3	IK	_	_
-3	så	så	adv	adv	_	1	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 62
+# speaker = roemskog_04gk
+# id = 61
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	##	##	pause	_	_	3	IK	_	_
+3	så	så	adv	_	_	1	ADV	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = men det er # bare barneskole ? r0t
 # segstart = 201.558
 # segstop = 203.871
-# speaker = eo
-# text = men det er # bare barneskole ?
-1	men	men	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	SUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	bare	bare	adv	adv	_	3	ADV	_	_
-6	barneskole	barneskole	subst	subst	_	3	SPRED	_	_
-7	?	?	clb	clb	_	3	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 63
+# speaker = eo
+# id = 62
+# annotator = SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	8	FINV	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	bare	bare	adv	_	_	3	ADV	_	_
+6	barneskole	barneskole	subst	_	ub|mask|ent|samset	3	SPRED	_	_
+7	?	?	clb	_	_	3	IP	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # en til sju ## og er det inndelt ja det er fa- fådelt # heter jo det da r0t
 # segstart = 203.871
 # segstop = 210.382
-# speaker = roemskog_04gk
-# text = ja # en til sju ## og er det inndelt ja det er fa- fådelt # heter jo det da
-1	ja	ja	interj	interj	_	13	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	en	en	det	det	_	1	ADV	_	_
-4	til	til	prep	prep	_	3	ADV	_	_
-5	sju	sju	det	det	_	4	PUTFYLL	_	_
-6	##	##	pause	pause	_	7	IK	_	_
-7	og	og	konj	konj	_	13	KONJ	_	_
-8	er	være	verb	verb	_	13	REP	_	_
-9	det	det	pron	pron	_	8	FSUBJ	_	_
-10	inndelt	inndele	subst	subst	_	8	SPRED	_	_
-11	ja	ja	interj	interj	_	13	INTERJ	_	_
-12	det	det	pron	pron	_	13	FSUBJ	_	_
-13	er	være	verb	verb	_	0	FINV	_	_
-14	fa-	fa-	ufullst	ufullst	_	15	FYLL	_	_
-15	fådelt	fådele	verb	verb	_	13	SPRED	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	heter	hete	verb	verb	_	15	APP	_	_
-18	jo	jo	adv	adv	_	17	ADV	_	_
-19	det	det	pron	pron	_	17	SUBJ	_	_
-20	da	da	adv	adv	_	17	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 64
+# speaker = roemskog_04gk
+# id = 63
+# annotator = SR
+1	ja	ja	interj	_	_	13	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	en	en	det	_	mask|ent|kvant	1	ADV	_	_
+4	til	til	prep	_	_	3	ADV	_	_
+5	sju	sju	det	_	fl|kvant	4	PUTFYLL	_	_
+6	##	##	pause	_	_	7	IK	_	_
+7	og	og	konj	_	_	13	KONJ	_	_
+8	er	være	verb	_	pres	13	REP	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+10	inndelt	inndele	subst	_	be|fem|ent|appell	8	SPRED	_	_
+11	ja	ja	interj	_	_	13	INTERJ	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	er	være	verb	_	pres	21	FINV	_	_
+14	fa-	fa-	ufullst	_	_	15	FYLL	_	_
+15	fådelt	fådele	verb	_	perf-part	13	SPRED	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	heter	hete	verb	_	pres	15	APP	_	_
+18	jo	jo	adv	_	_	17	ADV	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	17	SUBJ	_	_
+20	da	da	adv	_	_	17	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = så det første klasse går aleine så går annen og tredje sammen fjerde og femte og sjette og sjuende ja r0t
 # segstart = 210.382
 # segstop = 215.271
-# speaker = roemskog_04gk
-# text = så det første klasse går aleine så går annen og tredje sammen fjerde og femte og sjette og sjuende ja
-1	så	så	konj	konj	_	5	KONJ	_	_
-2	det	det	det	det	_	3	REP	_	_
-3	første	første	adj	adj	_	4	ATR	_	_
-4	klasse	klasse	subst	subst	_	5	SUBJ	_	_
-5	går	gå	verb	verb	_	0	FINV	_	_
-6	aleine	aleine	adv	adv	_	5	ADV	_	_
-7	så	så	adv	adv	_	8	ADV	_	_
-8	går	gå	verb	verb	_	5	KOORD	_	_
-9	annen	annen	adj	adj	_	8	SUBJ	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	tredje	tredje	adj	adj	_	9	KOORD	_	_
-12	sammen	sammen	adv	adv	_	8	ADV	_	_
-13	fjerde	fjerde	adj	adj	_	5	KOORD	_	_
-14	og	og	konj	konj	_	15	KONJ	_	_
-15	femte	femte	adj	adj	_	13	KOORD	_	_
-16	og	og	konj	konj	_	17	KONJ	_	_
-17	sjette	sjette	adj	adj	_	13	KOORD	_	_
-18	og	og	konj	konj	_	19	KONJ	_	_
-19	sjuende	sjuende	adj	adj	_	13	KOORD	_	_
-20	ja	ja	interj	interj	_	5	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 65
+# speaker = roemskog_04gk
+# id = 64
+# annotator = SR
+1	så	så	konj	_	_	5	KONJ	_	_
+2	det	det	det	_	nøyt|ent|dem	3	REP	_	_
+3	første	første	adj	_	be|pos|ent	4	ATR	_	_
+4	klasse	klasse	subst	_	ub|fem|ent|appell	5	SUBJ	_	_
+5	går	gå	verb	_	pres	21	FINV	_	_
+6	aleine	aleine	adv	_	_	5	ADV	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	går	gå	verb	_	pres	5	KOORD	_	_
+9	annen	annen	adj	_	be|pos|ent	8	SUBJ	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	tredje	tredje	adj	_	be|pos|ent	9	KOORD	_	_
+12	sammen	sammen	adv	_	_	8	ADV	_	_
+13	fjerde	fjerde	adj	_	be|pos|ent	5	KOORD	_	_
+14	og	og	konj	_	_	15	KONJ	_	_
+15	femte	femte	adj	_	be|pos|ent	13	KOORD	_	_
+16	og	og	konj	_	_	17	KONJ	_	_
+17	sjette	sjette	adj	_	be|pos|ent	13	KOORD	_	_
+18	og	og	konj	_	_	19	KONJ	_	_
+19	sjuende	sjuende	adj	_	be|pos|ent	13	KOORD	_	_
+20	ja	ja	interj	_	_	5	INTERJ	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = når de begynner i åttende så reiser de til Bjørkelangen r0t
 # segstart = 215.271
 # segstop = 217.656
-# speaker = roemskog_04gk
-# text = når de begynner i åttende så reiser de til Bjørkelangen
-1	når	når	sbu	sbu	_	3	SBU	_	_
-2	de	de	pron	pron	_	3	SUBJ	_	_
-3	begynner	begynne	verb	verb	_	6	APP	_	_
-4	i	i	prep	prep	_	3	ADV	_	_
-5	åttende	åttende	adj	adj	_	4	PUTFYLL	_	_
-6	så	så	adv	adv	_	7	ADV	_	_
-7	reiser	reise	verb	verb	_	0	FINV	_	_
-8	de	de	pron	pron	_	7	SUBJ	_	_
-9	til	til	prep	prep	_	7	ADV	_	_
-10	Bjørkelangen	Bjørkelangen	subst	subst	_	9	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 66
+# speaker = roemskog_04gk
+# id = 65
+# annotator = SR
+1	når	når	sbu	_	_	3	SBU	_	_
+2	de	de	pron	_	nom|2|fl|hum	3	SUBJ	_	_
+3	begynner	begynne	verb	_	pres	6	APP	_	_
+4	i	i	prep	_	_	3	ADV	_	_
+5	åttende	åttende	adj	_	be|pos|ent	4	PUTFYLL	_	_
+6	så	så	adv	_	_	7	ADV	_	_
+7	reiser	reise	verb	_	pres	11	FINV	_	_
+8	de	de	pron	_	nom|2|fl|hum	7	SUBJ	_	_
+9	til	til	prep	_	_	7	ADV	_	_
+10	Bjørkelangen	Bjørkelangen	subst	_	prop	9	PUTFYLL	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 217.656
 # segstop = 218.843
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 67
+# speaker = eo
+# id = 66
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 218.843
 # segstop = 220.112
-# speaker = roemskog_04gk
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 68
+# speaker = roemskog_04gk
+# id = 67
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = det er jo enda et be- stykke holdt jeg på å si r0t
 # segstart = 220.112
 # segstop = 228.268
-# speaker = eo
-# text = det er jo enda et be- stykke holdt jeg på å si
-1	det	det	pron	pron	_	2	SUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	jo	jo	adv	adv	_	2	ADV	_	_
-4	enda	enda	adv	adv	_	5	ADV	_	_
-5	et	et	det	det	_	7	DET	_	_
-6	be-	be-	ufullst	ufullst	_	7	FYLL	_	_
-7	stykke	stykke	subst	subst	_	2	SPRED	_	_
-8	holdt	holde	verb	verb	_	2	PAR	_	_
-9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-10	på	på	prep	prep	_	8	ADV	_	_
-11	å	å	inf-merke	inf-merke	_	10	PUTFYLL	_	_
-12	si	si	verb	verb	_	11	INFV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 69
+# speaker = eo
+# id = 68
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	er	være	verb	_	pres	13	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	enda	enda	adv	_	_	5	ADV	_	_
+5	et	et	det	_	nøyt|ent|kvant	7	DET	_	_
+6	be-	be-	ufullst	_	_	7	FYLL	_	_
+7	stykke	stykke	subst	_	ub|nøyt|ent|appell	2	SPRED	_	_
+8	holdt	holde	verb	_	pret	2	PAR	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+10	på	på	prep	_	_	8	ADV	_	_
+11	å	å	inf-merke	_	_	10	PUTFYLL	_	_
+12	si	si	verb	_	inf	11	INFV	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = * mm r0t
 # segstart = 220.112
 # segstop = 222.95
-# speaker = roemskog_04gk
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 70
+# speaker = roemskog_04gk
+# id = 69
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = med … r0t
 # segstart = 222.95
 # segstop = 223.26
-# speaker = roemskog_04gk
-# text = med …
-1	med	med	prep	prep	_	0	FRAG	_	_
-2	…	…	pause	pause	_	1	IK	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 71
+# speaker = roemskog_04gk
+# id = 70
+# annotator = SR
+1	med	med	prep	_	_	3	FRAG	_	_
+2	…	…	pause	_	_	1	IK	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = hvordan opplever folk det tror du å måtte liksom langt av gårde på skole og root
 # segstart = 223.26
 # segstop = 228.268
-# speaker = eo
-# text = hvordan opplever folk det tror du å måtte liksom langt av gårde på skole og
-1	hvordan	hvordan	adv	adv	_	2	ADV	_	_
-2	opplever	oppleve	verb	verb	_	0	FINV	_	_
-3	folk	folk	subst	subst	_	2	SUBJ	_	_
-4	det	det	pron	pron	_	2	DOBJ	_	_
-5	tror	tro	verb	verb	_	2	PAR	_	_
-6	du	du	pron	pron	_	5	SUBJ	_	_
-7	å	å	inf-merke	inf-merke	_	4	APP	_	_
-8	måtte	måtte	verb	verb	_	7	INFV	_	_
-9	liksom	liksom	adv	adv	_	8	ADV	_	_
-10	langt	lang	adj	adj	_	11	ADV	_	_
-11	av	av	prep	prep	_	8	ADV	_	_
-12	gårde	gårde	subst	subst	_	11	PUTFYLL	_	_
-13	på	på	prep	prep	_	8	ADV	_	_
-14	skole	skole	subst	subst	_	13	PUTFYLL	_	_
-15	og	og	konj	konj	_	8	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 72
+# speaker = eo
+# id = 71
+# annotator = SR
+1	hvordan	hvordan	adv	_	_	2	ADV	_	_
+2	opplever	oppleve	verb	_	pres	16	FINV	_	_
+3	folk	folk	subst	_	ub|nøyt|fl|appell	2	SUBJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
+5	tror	tro	verb	_	pres	2	PAR	_	_
+6	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
+7	å	å	inf-merke	_	_	4	APP	_	_
+8	måtte	måtte	verb	_	inf	7	INFV	_	_
+9	liksom	liksom	adv	_	_	8	ADV	_	_
+10	langt	lang	adj	_	ub|pos|nøyt|ent	11	ADV	_	_
+11	av	av	prep	_	_	8	ADV	_	_
+12	gårde	gårde	subst	_	appell	11	PUTFYLL	_	_
+13	på	på	prep	_	_	8	ADV	_	_
+14	skole	skole	subst	_	ub|mask|ent|appell	13	PUTFYLL	_	_
+15	og	og	konj	_	_	8	KONJ	_	_
+16	root	_	_	_	_	0	root	_	_
+
+# text = nei det trur jeg er så e _groaning_ # altså folk er så vant til det så det e # jeg trur ikke de e reagerer på det r0t
 # segstart = 228.268
 # segstop = 235.327
-# speaker = roemskog_04gk
-# text = nei det trur jeg er så e # altså folk er så vant til det så det e # jeg trur ikke de e reagerer på det
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	5	SUBJ	_	_
-3	trur	tru	verb	verb	_	11	REP	_	_
-4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-5	er	være	verb	verb	_	3	DOBJ	_	_
-6	så	så	adv	adv	_	5	ADV	_	_
-7	e	e	nol	nol	_	9	FYLL	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	altså	altså	adv	adv	_	11	ADV	_	_
-10	folk	folk	subst	subst	_	11	SUBJ	_	_
-11	er	være	verb	verb	_	0	FINV	_	_
-12	så	så	adv	adv	_	13	ADV	_	_
-13	vant	vant	adj	adj	_	11	SPRED	_	_
-14	til	til	prep	prep	_	13	ADV	_	_
-15	det	det	pron	pron	_	14	PUTFYLL	_	_
-16	så	så	konj	konj	_	21	KONJ	_	_
-17	det	det	pron	pron	_	20	REP	_	_
-18	e	e	nol	nol	_	20	FYLL	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
-21	trur	tru	verb	verb	_	11	KOORD	_	_
-22	ikke	ikke	adv	adv	_	21	ADV	_	_
-23	de	de	pron	pron	_	25	SUBJ	_	_
-24	e	e	nol	nol	_	25	FYLL	_	_
-25	reagerer	reagere	verb	verb	_	21	DOBJ	_	_
-26	på	på	prep	prep	_	25	ADV	_	_
-27	det	det	pron	pron	_	26	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 73
+# speaker = roemskog_04gk
+# id = 72
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+3	trur	tru	verb	_	pres	12	REP	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	er	være	verb	_	pres	3	DOBJ	_	_
+6	så	så	adv	_	_	5	ADV	_	_
+7	e	e	nol	_	_	10	FYLL	_	_
+8	_groaning_	_groaning_	pause	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	altså	altså	adv	_	_	12	ADV	_	_
+11	folk	folk	subst	_	ub|nøyt|fl|appell	12	SUBJ	_	_
+12	er	være	verb	_	pres	29	FINV	_	_
+13	så	så	adv	_	_	14	ADV	_	_
+14	vant	vant	adj	_	ub|pos|m/f|ent	12	SPRED	_	_
+15	til	til	prep	_	_	14	ADV	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	PUTFYLL	_	_
+17	så	så	konj	_	_	22	KONJ	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	21	REP	_	_
+19	e	e	nol	_	_	21	FYLL	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	jeg	jeg	pron	_	nom|1|ent|hum	22	SUBJ	_	_
+22	trur	tru	verb	_	pres	12	KOORD	_	_
+23	ikke	ikke	adv	_	_	22	ADV	_	_
+24	de	de	pron	_	nom|2|fl|hum	26	SUBJ	_	_
+25	e	e	nol	_	_	26	FYLL	_	_
+26	reagerer	reagere	verb	_	pres	22	DOBJ	_	_
+27	på	på	prep	_	_	26	ADV	_	_
+28	det	det	pron	_	nøyt|3|ent|pers	27	PUTFYLL	_	_
+29	r0t	_	_	_	_	0	root	_	_
+
+# text = og egentlig er det jo bare bra så får jo # i og med at det er så få her så får de flere å spille på og # av venner og # får utvida horisonten litt r0t
 # segstart = 235.327
 # segstop = 243.817
-# speaker = roemskog_04gk
-# text = og egentlig er det jo bare bra så får jo # i og med at det er så få her så får de flere å spille på og # av venner og # får utvida horisonten litt
-1	og	og	konj	konj	_	3	KONJ	_	_
-2	egentlig	egentlig	adj	adj	_	3	ADV	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	jo	jo	adv	adv	_	3	ADV	_	_
-6	bare	bare	adv	adv	_	7	ADV	_	_
-7	bra	bra	adj	adj	_	3	SPRED	_	_
-8	så	så	adv	adv	_	9	ADV	_	_
-9	får	få	verb	verb	_	22	REP	_	_
-10	jo	jo	adv	adv	_	9	ADV	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	i	i	prep	prep	_	21	APP	_	_
-13	og	og	konj	konj	_	14	KONJ	_	_
-14	med	med	prep	prep	_	12	ADV	_	_
-15	at	at	sbu	sbu	_	17	SBU	_	_
-16	det	det	pron	pron	_	17	FSUBJ	_	_
-17	er	være	verb	verb	_	14	PUTFYLL	_	_
-18	så	så	adv	adv	_	19	ADV	_	_
-19	få	få	adj	adj	_	17	PSUBJ	_	_
-20	her	her	prep	prep	_	17	ADV	_	_
-21	så	så	adv	adv	_	22	ADV	_	_
-22	får	få	verb	verb	_	3	KOORD	_	_
-23	de	de	pron	pron	_	22	SUBJ	_	_
-24	flere	mange	adj	adj	_	22	DOBJ	_	_
-25	å	å	inf-merke	inf-merke	_	24	ATR	_	_
-26	spille	spille	verb	verb	_	25	INFV	_	_
-27	på	på	prep	prep	_	26	ADV	_	_
-28	og	og	konj	konj	_	30	REP	_	_
-29	#	#	pause	pause	_	30	IK	_	_
-30	av	av	prep	prep	_	24	ATR	_	_
-31	venner	venn	subst	subst	_	30	PUTFYLL	_	_
-32	og	og	konj	konj	_	34	KONJ	_	_
-33	#	#	pause	pause	_	34	IK	_	_
-34	får	få	verb	verb	_	3	KOORD	_	_
-35	utvida	utvide	verb	verb	_	34	INFV	_	_
-36	horisonten	horisont	subst	subst	_	35	DOBJ	_	_
-37	litt	litt	adj	adj	_	35	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 74
+# speaker = roemskog_04gk
+# id = 73
+# annotator = SR
+1	og	og	konj	_	_	3	KONJ	_	_
+2	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+3	er	være	verb	_	pres	38	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	jo	jo	adv	_	_	3	ADV	_	_
+6	bare	bare	adv	_	_	3	ADV	_	_
+7	bra	bra	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+8	så	så	adv	_	_	9	ADV	_	_
+9	får	få	verb	_	pres	22	REP	_	_
+10	jo	jo	adv	_	_	9	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	i	i	prep	_	_	21	APP	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	med	med	prep	_	_	12	ADV	_	_
+15	at	at	sbu	_	_	17	SBU	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+17	er	være	verb	_	pres	14	PUTFYLL	_	_
+18	så	så	adv	_	_	19	ADV	_	_
+19	få	få	adj	_	pos|fl	17	PSUBJ	_	_
+20	her	her	prep	_	_	17	ADV	_	_
+21	så	så	adv	_	_	22	ADV	_	_
+22	får	få	verb	_	pres	3	KOORD	_	_
+23	de	de	pron	_	nom|2|fl|hum	22	SUBJ	_	_
+24	flere	mange	adj	_	komp	22	DOBJ	_	_
+25	å	å	inf-merke	_	_	24	ATR	_	_
+26	spille	spille	verb	_	inf	25	INFV	_	_
+27	på	på	prep	_	_	26	ADV	_	_
+28	og	og	konj	_	_	30	REP	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	av	av	prep	_	_	24	ATR	_	_
+31	venner	venn	subst	_	ub|mask|fl|appell	30	PUTFYLL	_	_
+32	og	og	konj	_	_	34	KONJ	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	får	få	verb	_	pres	3	KOORD	_	_
+35	utvida	utvide	verb	_	perf-part	34	INFV	_	_
+36	horisonten	horisont	subst	_	be|mask|ent|appell	35	DOBJ	_	_
+37	litt	litt	adj	_	ub|pos|nøyt|ent	35	ADV	_	_
+38	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 243.817
 # segstop = 244.348
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 75
+# speaker = eo
+# id = 74
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 244.348
 # segstop = 244.849
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 76
+# speaker = roemskog_04gk
+# id = 75
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # hva med videregående hva gjør man da ? r0t
 # segstart = 244.849
 # segstop = 248.164
-# speaker = eo
-# text = mm # hva med videregående hva gjør man da ?
-1	mm	mm	interj	interj	_	3	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	hva	hva	pron	pron	_	0	FRAG	_	_
-4	med	med	prep	prep	_	3	ADV	_	_
-5	videregående	videregående	adj	adj	_	4	PUTFYLL	_	_
-6	hva	hva	pron	pron	_	7	DOBJ	_	_
-7	gjør	gjøre	verb	verb	_	3	KOORD	_	_
-8	man	man	pron	pron	_	7	SUBJ	_	_
-9	da	da	adv	adv	_	7	ADV	_	_
-10	?	?	clb	clb	_	7	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 77
+# speaker = eo
+# id = 76
+# annotator = SR
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hva	hva	pron	_	sp	11	FRAG	_	_
+4	med	med	prep	_	_	3	ADV	_	_
+5	videregående	videregående	adj	_	ub|pos|nøyt|ent	4	PUTFYLL	_	_
+6	hva	hva	pron	_	sp	7	DOBJ	_	_
+7	gjør	gjøre	verb	_	pres	3	KOORD	_	_
+8	man	man	pron	_	nom|ent|hum	7	SUBJ	_	_
+9	da	da	adv	_	_	7	ADV	_	_
+10	?	?	clb	_	_	7	IP	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja da e søker man seg e enten til Bjørkelangen eller e andre veien til Mysen # Askim r0t
 # segstart = 248.164
 # segstop = 253.697
+# file = roemskog_04gk-eo
 # speaker = roemskog_04gk
-# text = ja da e søker man seg e enten til Bjørkelangen eller e andre veien til Mysen # Askim
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	da	da	adv	adv	_	4	ADV	_	_
-3	e	e	nol	nol	_	4	FYLL	_	_
-4	søker	søke	verb	verb	_	0	FINV	_	_
-5	man	man	pron	pron	_	4	SUBJ	_	_
-6	seg	seg	pron	pron	_	4	DOBJ	_	_
-7	e	e	nol	nol	_	8	FYLL	_	_
-8	enten	enten	konj	konj	_	9	KONJ	_	_
-9	til	til	prep	prep	_	4	ADV	_	_
-10	Bjørkelangen	Bjørkelangen	subst	subst	_	9	PUTFYLL	_	_
-11	eller	eller	konj	konj	_	14	KONJ	_	_
-12	e	e	nol	nol	_	13	FYLL	_	_
-13	andre	andre	det	det	_	14	DET	_	_
-14	veien	vei	subst	subst	_	10	KOORD	_	_
-15	til	til	prep	prep	_	14	APP	_	_
-16	Mysen	Mysen	subst	subst	_	15	PUTFYLL	_	_
-17	#	#	pause	pause	_	18	IK	_	_
-18	Askim	Askim	subst	subst	_	16	KOORD	_	_
-
+# id = 77
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 78
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	da	da	adv	_	_	4	ADV	_	_
+3	e	e	nol	_	_	4	FYLL	_	_
+4	søker	søke	verb	_	pres	19	FINV	_	_
+5	man	man	pron	_	nom|ent|hum	4	SUBJ	_	_
+6	seg	seg	pron	_	akk|refl	4	DOBJ	_	_
+7	e	e	nol	_	_	8	FYLL	_	_
+8	enten	enten	konj	_	_	9	KONJ	_	_
+9	til	til	prep	_	_	4	ADV	_	_
+10	Bjørkelangen	Bjørkelangen	subst	_	prop	9	PUTFYLL	_	_
+11	eller	eller	konj	_	_	14	KONJ	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	andre	andre	det	_	fl|dem	14	DET	_	_
+14	veien	vei	subst	_	be|mask|ent|appell	10	KOORD	_	_
+15	til	til	prep	_	_	14	APP	_	_
+16	Mysen	Mysen	subst	_	prop	15	PUTFYLL	_	_
+17	#	#	pause	_	prop	18	IK	_	_
+18	Askim	Askim	subst	_	prop	16	KOORD	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 248.164
 # segstop = 253.697
-# speaker = eo
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 79
+# speaker = eo
+# id = 78
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # vi har vært he- vært heldige sånn at vi har kunnet e # søke begge veier r0t
 # segstart = 253.697
 # segstop = 259.253
-# speaker = roemskog_04gk
-# text = ja # vi har vært he- vært heldige sånn at vi har kunnet e # søke begge veier
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	vi	vi	pron	pron	_	4	SUBJ	_	_
-4	har	ha	verb	verb	_	0	FINV	_	_
-5	vært	være	verb	verb	_	7	REP	_	_
-6	he-	he-	ufullst	ufullst	_	7	FYLL	_	_
-7	vært	være	verb	verb	_	4	INFV	_	_
-8	heldige	heldig	adj	adj	_	7	SPRED	_	_
-9	sånn	sånn	adv	adv	_	7	ADV	_	_
-10	at	at	sbu	sbu	_	12	SBU	_	_
-11	vi	vi	pron	pron	_	12	SUBJ	_	_
-12	har	ha	verb	verb	_	9	APP	_	_
-13	kunnet	kunne	verb	verb	_	12	INFV	_	_
-14	e	e	nol	nol	_	16	FYLL	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	søke	søke	verb	verb	_	13	INFV	_	_
-17	begge	begge	det	det	_	18	DET	_	_
-18	veier	vei	subst	subst	_	16	DOBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 80
+# speaker = roemskog_04gk
+# id = 79
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	har	ha	verb	_	pres	19	FINV	_	_
+5	vært	være	verb	_	perf-part	7	REP	_	_
+6	he-	he-	ufullst	_	_	7	FYLL	_	_
+7	vært	være	verb	_	perf-part	4	INFV	_	_
+8	heldige	heldig	adj	_	pos|fl	7	SPRED	_	_
+9	sånn	sånn	adv	_	_	7	ADV	_	_
+10	at	at	sbu	_	_	12	SBU	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+12	har	ha	verb	_	pres	9	APP	_	_
+13	kunnet	kunne	verb	_	perf-part	12	INFV	_	_
+14	e	e	nol	_	_	16	FYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	søke	søke	verb	_	inf	13	INFV	_	_
+17	begge	begge	det	_	fl|kvant	18	DET	_	_
+18	veier	vei	subst	_	ub|mask|fl|appell	16	DOBJ	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # ja fordi det er vel ikke nødvendigvis selvsagt at man kan krysse fylkesgrenser r0t
 # segstart = 259.253
 # segstop = 264.19
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = mm # ja fordi det er vel ikke nødvendigvis selvsagt at man kan krysse fylkesgrenser
-1	mm	mm	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	ja	ja	interj	interj	_	6	INTERJ	_	_
-4	fordi	fordi	sbu	sbu	_	6	SBU	_	_
-5	det	det	pron	pron	_	6	FSUBJ	_	_
-6	er	være	verb	verb	_	0	FINV	_	_
-7	vel	vel	adv	adv	_	6	ADV	_	_
-8	ikke	ikke	adv	adv	_	6	ADV	_	_
-9	nødvendigvis	nødvendigvis	adv	adv	_	6	ADV	_	_
-10	selvsagt	selvsagt	adj	adj	_	6	ADV	_	_
-11	at	at	sbu	sbu	_	13	SBU	_	_
-12	man	man	pron	pron	_	13	SUBJ	_	_
-13	kan	kunne	verb	verb	_	6	PSUBJ	_	_
-14	krysse	krysse	verb	verb	_	13	INFV	_	_
-15	fylkesgrenser	fylkesgrense	subst	subst	_	14	DOBJ	_	_
-
+# id = 80
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 81
+1	mm	mm	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	6	INTERJ	_	_
+4	fordi	fordi	sbu	_	_	6	SBU	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	er	være	verb	_	pres	16	FINV	_	_
+7	vel	vel	adv	_	_	6	ADV	_	_
+8	ikke	ikke	adv	_	_	6	ADV	_	_
+9	nødvendigvis	nødvendigvis	adv	_	_	6	ADV	_	_
+10	selvsagt	selvsagt	adj	_	ub|pos|nøyt|ent	6	ADV	_	_
+11	at	at	sbu	_	_	13	SBU	_	_
+12	man	man	pron	_	nom|ent|hum	13	SUBJ	_	_
+13	kan	kunne	verb	_	pres	6	PSUBJ	_	_
+14	krysse	krysse	verb	_	inf	13	INFV	_	_
+15	fylkesgrenser	fylkesgrense	subst	_	ub|fem|fl|appell	14	DOBJ	_	_
+16	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja * nei * r0t
 # segstart = 259.253
 # segstop = 264.19
-# speaker = roemskog_04gk
-# text = * ja * nei *
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-3	*	*	pause	pause	_	4	IK	_	_
-4	nei	nei	interj	interj	_	2	INTERJ	_	_
-5	*	*	pause	pause	_	2	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 82
+# speaker = roemskog_04gk
+# id = 81
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	6	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	nei	nei	interj	_	_	2	INTERJ	_	_
+5	*	*	pause	_	_	2	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = det det er ikke det # jeg husker en gang e # e ja jeg husker ikke e hvem av mine sønner men det var en av de ett av de åra der r0t
 # segstart = 264.19
 # segstop = 276.042
-# speaker = roemskog_04gk
-# text = det det er ikke det # jeg husker en gang e # e ja jeg husker ikke e hvem av mine sønner men det var en av de ett av de åra der
-1	det	det	pron	pron	_	2	REP	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	det	det	pron	pron	_	3	PSUBJ	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-8	husker	huske	verb	verb	_	3	KOORD	_	_
-9	en	en	det	det	_	10	DET	_	_
-10	gang	gang	subst	subst	_	8	DOBJ	_	_
-11	e	e	nol	nol	_	14	FYLL	_	_
-12	#	#	pause	pause	_	14	IK	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	ja	ja	interj	interj	_	16	INTERJ	_	_
-15	jeg	jeg	pron	pron	_	16	SUBJ	_	_
-16	husker	huske	verb	verb	_	3	KOORD	_	_
-17	ikke	ikke	adv	adv	_	16	ADV	_	_
-18	e	e	nol	nol	_	19	FYLL	_	_
-19	hvem	hvem	pron	pron	_	16	DOBJ	_	_
-20	av	av	prep	prep	_	19	ATR	_	_
-21	mine	mine	det	det	_	22	DET	_	_
-22	sønner	sønn	subst	subst	_	20	PUTFYLL	_	_
-23	men	men	konj	konj	_	25	KONJ	_	_
-24	det	det	pron	pron	_	25	FSUBJ	_	_
-25	var	være	verb	verb	_	3	KOORD	_	_
-26	en	en	det	det	_	29	REP	_	_
-27	av	av	prep	prep	_	26	ATR	_	_
-28	de	de	pron	pron	_	27	PUTFYLL	_	_
-29	ett	ett	det	det	_	25	SPRED	_	_
-30	av	av	prep	prep	_	29	ATR	_	_
-31	de	de	det	det	_	32	DET	_	_
-32	åra	åre	subst	subst	_	30	PUTFYLL	_	_
-33	der	der	prep	prep	_	32	ATR	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 82
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	REP	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	34	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	3	PSUBJ	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	husker	huske	verb	_	pres	3	KOORD	_	_
+9	en	en	det	_	mask|ent|kvant	10	DET	_	_
+10	gang	gang	subst	_	ub|mask|ent|appell	8	DOBJ	_	_
+11	e	e	nol	_	_	14	FYLL	_	_
+12	#	#	pause	_	_	14	IK	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	ja	ja	interj	_	_	16	INTERJ	_	_
+15	jeg	jeg	pron	_	nom|1|ent|hum	16	SUBJ	_	_
+16	husker	huske	verb	_	pres	3	KOORD	_	_
+17	ikke	ikke	adv	_	_	16	ADV	_	_
+18	e	e	nol	_	_	19	FYLL	_	_
+19	hvem	hvem	pron	_	sp	16	DOBJ	_	_
+20	av	av	prep	_	_	19	ATR	_	_
+21	mine	mine	det	_	fl|poss	22	DET	_	_
+22	sønner	sønn	subst	_	ub|mask|fl|appell	20	PUTFYLL	_	_
+23	men	men	konj	_	_	25	KONJ	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
+25	var	være	verb	_	pret	3	KOORD	_	_
+26	en	en	det	_	mask|ent|kvant	29	REP	_	_
+27	av	av	prep	_	_	26	ATR	_	_
+28	de	de	pron	_	nom|2|fl|hum	27	PUTFYLL	_	_
+29	ett	ett	det	_	nøyt|ent|kvant	25	SPRED	_	_
+30	av	av	prep	_	_	29	ATR	_	_
+31	de	de	det	_	fl|dem	32	DET	_	_
+32	åra	åre	subst	_	be|nøyt|fl|appell	30	PUTFYLL	_	_
+33	der	der	prep	_	_	32	ATR	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = da var det litt sånn e at de begynte å snøre igjen sekken i # i Akershus r0t
+# segstart = 271.535
+# segstop = 276.042
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
 # id = 83
-# segstart = 271.535
-# segstop = 276.042
-# speaker = roemskog_04gk
-# text = da var det litt sånn e at de begynte å snøre igjen sekken i # i Akershus
-1	da	da	adv	adv	_	2	ADV	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	FSUBJ	_	_
-4	litt	litt	adj	adj	_	5	ADV	_	_
-5	sånn	sånn	adv	adv	_	2	SPRED	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	at	at	sbu	sbu	_	9	SBU	_	_
-8	de	de	pron	pron	_	9	SUBJ	_	_
-9	begynte	begynne	verb	verb	_	5	APP	_	_
-10	å	å	inf-merke	inf-merke	_	9	DOBJ	_	_
-11	snøre	snøre	verb	verb	_	10	INFV	_	_
-12	igjen	igjen	adv	adv	_	11	ADV	_	_
-13	sekken	sekk	subst	subst	_	11	DOBJ	_	_
-14	i	i	prep	prep	_	16	REP	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	i	i	prep	prep	_	11	ADV	_	_
-17	Akershus	Akershus	subst	subst	_	16	PUTFYLL	_	_
-
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 84
+1	da	da	adv	_	_	2	ADV	_	_
+2	var	være	verb	_	pret	18	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	litt	litt	adj	_	ub|pos|nøyt|ent	5	ADV	_	_
+5	sånn	sånn	adv	_	_	2	SPRED	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	at	at	sbu	_	_	9	SBU	_	_
+8	de	de	pron	_	nom|2|fl|hum	9	SUBJ	_	_
+9	begynte	begynne	verb	_	pret	5	APP	_	_
+10	å	å	inf-merke	_	_	9	DOBJ	_	_
+11	snøre	snøre	verb	_	inf	10	INFV	_	_
+12	igjen	igjen	adv	_	_	11	ADV	_	_
+13	sekken	sekk	subst	_	be|mask|ent|appell	11	DOBJ	_	_
+14	i	i	prep	_	_	16	REP	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	i	i	prep	_	_	11	ADV	_	_
+17	Akershus	Akershus	subst	_	prop	16	PUTFYLL	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 271.535
 # segstop = 276.042
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
+# id = 84
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 85
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ehe # men så var det noen som jobba litt # godt for det da så det blei åpna igjen r0t
 # segstart = 276.042
 # segstop = 280.788
-# speaker = roemskog_04gk
-# text = ehe # men så var det noen som jobba litt # godt for det da så det blei åpna igjen
-1	ehe	ehe	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	men	men	konj	konj	_	5	KONJ	_	_
-4	så	så	adv	adv	_	5	ADV	_	_
-5	var	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	noen	noen	pron	pron	_	5	SPRED	_	_
-8	som	som	sbu	sbu	_	9	SBU	_	_
-9	jobba	jobbe	verb	verb	_	7	ATR	_	_
-10	litt	litt	adj	adj	_	12	ADV	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	godt	god	adj	adj	_	9	ADV	_	_
-13	for	for	prep	prep	_	9	ADV	_	_
-14	det	det	pron	pron	_	13	PUTFYLL	_	_
-15	da	da	adv	adv	_	9	ADV	_	_
-16	så	så	konj	konj	_	18	KONJ	_	_
-17	det	det	pron	pron	_	18	SUBJ	_	_
-18	blei	bli	verb	verb	_	5	KOORD	_	_
-19	åpna	åpne	verb	verb	_	18	INFV	_	_
-20	igjen	igjen	adv	adv	_	19	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 86
+# speaker = roemskog_04gk
+# id = 85
+# annotator = SR
+1	ehe	ehe	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	5	KONJ	_	_
+4	så	så	adv	_	_	5	ADV	_	_
+5	var	være	verb	_	pret	21	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	noen	noen	pron	_	fem|3|ent|pers	5	SPRED	_	_
+8	som	som	sbu	_	_	9	SBU	_	_
+9	jobba	jobbe	verb	_	pret	7	ATR	_	_
+10	litt	litt	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	godt	god	adj	_	ub|pos|nøyt|ent	9	ADV	_	_
+13	for	for	prep	_	_	9	ADV	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	13	PUTFYLL	_	_
+15	da	da	adv	_	_	9	ADV	_	_
+16	så	så	konj	_	_	18	KONJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	18	SUBJ	_	_
+18	blei	bli	verb	_	pret	5	KOORD	_	_
+19	åpna	åpne	verb	_	perf-part	18	INFV	_	_
+20	igjen	igjen	adv	_	_	19	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 280.788
 # segstop = 281.007
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = roemskog_04gk-eo
-# id = 87
+# speaker = eo
+# id = 86
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 281.007
 # segstop = 281.944
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 88
+# speaker = roemskog_04gk
+# id = 87
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva er grunnen tror du til at # Rømskog og Akershus er knytta såpass tett sammen ? r0t
 # segstart = 281.944
 # segstop = 288.444
-# speaker = eo
-# text = hva er grunnen tror du til at # Rømskog og Akershus er knytta såpass tett sammen ?
-1	hva	hva	pron	pron	_	2	SPRED	_	_
-2	er	være	verb	verb	_	0	REP	_	_
-3	grunnen	grunn	subst	subst	_	2	SUBJ	_	_
-4	tror	tro	verb	verb	_	2	PAR	_	_
-5	du	du	pron	pron	_	4	SUBJ	_	_
-6	til	til	prep	prep	_	3	ATR	_	_
-7	at	at	sbu	sbu	_	12	SBU	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	Rømskog	Rømskog	subst	subst	_	12	SUBJ	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	Akershus	Akershus	subst	subst	_	9	KOORD	_	_
-12	er	være	verb	verb	_	6	PUTFYLL	_	_
-13	knytta	knytte	adj	adj	_	12	SPRED	_	_
-14	såpass	såpass	adv	adv	_	15	ADV	_	_
-15	tett	tett	adj	adj	_	13	ADV	_	_
-16	sammen	sammen	adv	adv	_	13	ADV	_	_
-17	?	?	clb	clb	_	2	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 89
+# speaker = eo
+# id = 88
+# annotator = SR
+1	hva	hva	pron	_	sp	2	SPRED	_	_
+2	er	være	verb	_	pres	18	REP	_	_
+3	grunnen	grunn	subst	_	be|mask|ent|appell	2	SUBJ	_	_
+4	tror	tro	verb	_	pres	2	PAR	_	_
+5	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+6	til	til	prep	_	_	3	ATR	_	_
+7	at	at	sbu	_	_	12	SBU	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	Rømskog	Rømskog	subst	_	prop	12	SUBJ	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	Akershus	Akershus	subst	_	prop	9	KOORD	_	_
+12	er	være	verb	_	pres	6	PUTFYLL	_	_
+13	knytta	knytte	adj	_	perf-part	12	SPRED	_	_
+14	såpass	såpass	adv	_	_	15	ADV	_	_
+15	tett	tett	adj	_	ub|pos|nøyt|ent	13	ADV	_	_
+16	sammen	sammen	adv	_	_	13	ADV	_	_
+17	?	?	clb	_	_	2	IP	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det har jo med e ## ja det er ve- det er jo større skogområder andre veien r0t
 # segstart = 288.444
 # segstop = 295.251
-# speaker = roemskog_04gk
-# text = nei det har jo med e ## ja det er ve- det er jo større skogområder andre veien
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	jo	jo	adv	adv	_	3	ADV	_	_
-5	med	med	prep	prep	_	3	ADV	_	_
-6	e	e	nol	nol	_	8	FYLL	_	_
-7	##	##	pause	pause	_	8	IK	_	_
-8	ja	ja	interj	interj	_	13	INTERJ	_	_
-9	det	det	pron	pron	_	10	FSUBJ	_	_
-10	er	være	verb	verb	_	13	REP	_	_
-11	ve-	ve-	ufullst	ufullst	_	12	FYLL	_	_
-12	det	det	pron	pron	_	13	FSUBJ	_	_
-13	er	være	verb	verb	_	3	KOORD	_	_
-14	jo	jo	adv	adv	_	13	ADV	_	_
-15	større	stor	adj	adj	_	16	ATR	_	_
-16	skogområder	skogområde	subst	subst	_	13	PSUBJ	_	_
-17	andre	andre	det	det	_	18	DET	_	_
-18	veien	vei	subst	subst	_	13	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 90
+# speaker = roemskog_04gk
+# id = 89
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	har	ha	verb	_	pres	19	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	med	med	prep	_	_	3	ADV	_	_
+6	e	e	nol	_	_	8	FYLL	_	_
+7	##	##	pause	_	_	8	IK	_	_
+8	ja	ja	interj	_	_	13	INTERJ	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+10	er	være	verb	_	pres	13	REP	_	_
+11	ve-	ve-	ufullst	_	_	12	FYLL	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	er	være	verb	_	pres	3	KOORD	_	_
+14	jo	jo	adv	_	_	13	ADV	_	_
+15	større	stor	adj	_	komp	16	ATR	_	_
+16	skogområder	skogområde	subst	_	ub|nøyt|fl|appell	13	PSUBJ	_	_
+17	andre	andre	det	_	fl|dem	18	DET	_	_
+18	veien	vei	subst	_	be|mask|ent|appell	13	ADV	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = at det ligger bygdene ligger # eller grendene ligger nærmere hverandre vil jeg tru r0t
 # segstart = 295.251
 # segstop = 299.639
-# speaker = roemskog_04gk
-# text = at det ligger bygdene ligger # eller grendene ligger nærmere hverandre vil jeg tru
-1	at	at	sbu	sbu	_	5	SBU	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	ligger	ligge	verb	verb	_	5	REP	_	_
-4	bygdene	bygd	subst	subst	_	5	SUBJ	_	_
-5	ligger	ligge	verb	verb	_	9	REP	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	eller	eller	konj	konj	_	9	KONJ	_	_
-8	grendene	grend	subst	subst	_	9	SUBJ	_	_
-9	ligger	ligge	verb	verb	_	0	FINV	_	_
-10	nærmere	nærmere	adj	adj	_	9	ADV	_	_
-11	hverandre	hverandre	pron	pron	_	10	DOBJ	_	_
-12	vil	ville	verb	verb	_	9	PAR	_	_
-13	jeg	jeg	pron	pron	_	12	SUBJ	_	_
-14	tru	tru	verb	verb	_	12	INFV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 91
+# speaker = roemskog_04gk
+# id = 90
+# annotator = SR
+1	at	at	sbu	_	_	5	SBU	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	ligger	ligge	verb	_	pres	5	REP	_	_
+4	bygdene	bygd	subst	_	be|fem|fl|appell	5	SUBJ	_	_
+5	ligger	ligge	verb	_	pres	9	REP	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	eller	eller	konj	_	_	9	KONJ	_	_
+8	grendene	grend	subst	_	be|fem|fl|appell	9	SUBJ	_	_
+9	ligger	ligge	verb	_	pres	15	FINV	_	_
+10	nærmere	nærmere	adj	_	komp	9	ADV	_	_
+11	hverandre	hverandre	pron	_	fl|res	10	DOBJ	_	_
+12	vil	ville	verb	_	pres	9	PAR	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+14	tru	tru	verb	_	inf	12	INFV	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 299.639
 # segstop = 300.202
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 92
+# speaker = eo
+# id = 91
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # e # m- men vi har jo s- e hvis vi skal snakke om liksom kommunalt samarbeid da r0t
 # segstart = 300.202
 # segstop = 306.14
-# speaker = roemskog_04gk
-# text = ja # e # m- men vi har jo s- e hvis vi skal snakke om liksom kommunalt samarbeid da
-1	ja	ja	interj	interj	_	8	INTERJ	_	_
-2	#	#	pause	pause	_	6	IK	_	_
-3	e	e	nol	nol	_	6	FYLL	_	_
-4	#	#	pause	pause	_	6	IK	_	_
-5	m-	m-	ufullst	ufullst	_	6	FYLL	_	_
-6	men	men	konj	konj	_	8	KONJ	_	_
-7	vi	vi	pron	pron	_	8	SUBJ	_	_
-8	har	ha	verb	verb	_	0	FINV	_	_
-9	jo	jo	adv	adv	_	8	ADV	_	_
-10	s-	s-	ufullst	ufullst	_	12	FYLL	_	_
-11	e	e	nol	nol	_	12	FYLL	_	_
-12	hvis	hvis	sbu	sbu	_	14	SBU	_	_
-13	vi	vi	pron	pron	_	14	SUBJ	_	_
-14	skal	skulle	verb	verb	_	8	PAR	_	_
-15	snakke	snakke	verb	verb	_	14	INFV	_	_
-16	om	om	prep	prep	_	15	ADV	_	_
-17	liksom	liksom	adv	adv	_	8	ADV	_	_
-18	kommunalt	kommunal	adj	adj	_	19	ATR	_	_
-19	samarbeid	samarbeid	subst	subst	_	8	DOBJ	_	_
-20	da	da	adv	adv	_	8	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 93
+# speaker = roemskog_04gk
+# id = 92
+# annotator = SR
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	6	IK	_	_
+3	e	e	nol	_	_	6	FYLL	_	_
+4	#	#	pause	_	_	6	IK	_	_
+5	m-	m-	ufullst	_	_	6	FYLL	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+8	har	ha	verb	_	pres	21	FINV	_	_
+9	jo	jo	adv	_	_	8	ADV	_	_
+10	s-	s-	ufullst	_	_	12	FYLL	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	hvis	hvis	sbu	_	_	14	SBU	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	14	SUBJ	_	_
+14	skal	skulle	verb	_	pres	8	PAR	_	_
+15	snakke	snakke	verb	_	inf	14	INFV	_	_
+16	om	om	prep	_	_	15	ADV	_	_
+17	liksom	liksom	adv	_	_	8	ADV	_	_
+18	kommunalt	kommunal	adj	_	ub|pos|nøyt|ent	19	ATR	_	_
+19	samarbeid	samarbeid	subst	_	ub|nøyt|ent|appell	8	DOBJ	_	_
+20	da	da	adv	_	_	8	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = så e ja har vi jo em # _front-click_ veldig mye andre veien au r0t
 # segstart = 306.14
 # segstop = 309.908
-# speaker = roemskog_04gk
-# text = så e ja har vi jo em # veldig mye andre veien au
-1	så	så	adv	adv	_	4	ADV	_	_
-2	e	e	nol	nol	_	3	FYLL	_	_
-3	ja	ja	interj	interj	_	4	INTERJ	_	_
-4	har	ha	verb	verb	_	0	FINV	_	_
-5	vi	vi	pron	pron	_	4	SUBJ	_	_
-6	jo	jo	adv	adv	_	4	ADV	_	_
-7	em	em	nol	nol	_	9	FYLL	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	veldig	veldig	adv	adv	_	10	ADV	_	_
-10	mye	mye	adj	adj	_	4	DOBJ	_	_
-11	andre	andre	det	det	_	12	DET	_	_
-12	veien	vei	subst	subst	_	4	ADV	_	_
-13	au	au	adv	adv	_	4	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 94
+# speaker = roemskog_04gk
+# id = 93
+# annotator = SR
+1	så	så	adv	_	_	4	ADV	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	ja	ja	interj	_	_	4	INTERJ	_	_
+4	har	ha	verb	_	pres	15	FINV	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+6	jo	jo	adv	_	_	4	ADV	_	_
+7	em	em	nol	_	_	10	FYLL	_	_
+8	#	#	pause	_	_	10	IK	_	_
+9	_front-click_	_front-click_	pause	_	_	10	FYLL	_	_
+10	veldig	veldig	adv	_	_	11	ADV	_	_
+11	mye	mye	adj	_	ub|pos|nøyt|ent	4	DOBJ	_	_
+12	andre	andre	det	_	fl|dem	13	DET	_	_
+13	veien	vei	subst	_	ub|fem|fl|appell	4	ADV	_	_
+14	au	au	adv	_	_	4	ADV	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 309.908
 # segstop = 310.158
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 95
+# speaker = eo
+# id = 94
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja indre østfoldkommunene har jo e veldig mye samarbeid sammen # så e jeg har det ikke akkurat i hodet det kan sikkert ordføreren svare bedre på _laughter_ # e r0t
 # segstart = 310.158
 # segstop = 332.253
-# speaker = roemskog_04gk
-# text = ja indre østfoldkommunene har jo e veldig mye samarbeid sammen # så e jeg har det ikke akkurat i hodet det kan sikkert ordføreren svare bedre på # e
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	indre	indre	adj	adj	_	3	ATR	_	_
-3	østfoldkommunene	østfoldkommune	subst	subst	_	4	SUBJ	_	_
-4	har	ha	verb	verb	_	0	FINV	_	_
-5	jo	jo	adv	adv	_	4	ADV	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	veldig	veldig	adj	adj	_	8	ADV	_	_
-8	mye	mye	adj	adj	_	9	ATR	_	_
-9	samarbeid	samarbeid	subst	subst	_	4	DOBJ	_	_
-10	sammen	sammen	adv	adv	_	4	ADV	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	så	så	konj	konj	_	15	KONJ	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
-15	har	ha	verb	verb	_	4	KOORD	_	_
-16	det	det	pron	pron	_	15	DOBJ	_	_
-17	ikke	ikke	adv	adv	_	15	ADV	_	_
-18	akkurat	akkurat	adv	adv	_	19	ADV	_	_
-19	i	i	prep	prep	_	15	ADV	_	_
-20	hodet	hode	subst	subst	_	19	PUTFYLL	_	_
-21	det	det	pron	pron	_	26	PUTFYLL	_	_
-22	kan	kunne	verb	verb	_	4	KOORD	_	_
-23	sikkert	sikker	adj	adj	_	25	ADV	_	_
-24	ordføreren	ordfører	subst	subst	_	22	SUBJ	_	_
-25	svare	svare	verb	verb	_	22	INFV	_	_
-26	bedre	god	adj	adj	_	25	ADV	_	_
-27	på	på	prep	prep	_	25	ADV	_	_
-28	#	#	pause	pause	_	26	IK	_	_
-29	e	e	nol	nol	_	26	FYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 95
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	indre	indre	adj	_	komp	3	ATR	_	_
+3	østfoldkommunene	østfoldkommune	subst	_	ub|mask|fl|appell	4	SUBJ	_	_
+4	har	ha	verb	_	pres	31	FINV	_	_
+5	jo	jo	adv	_	_	4	ADV	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	veldig	veldig	adj	_	ub|pos|nøyt|ent	8	ADV	_	_
+8	mye	mye	adj	_	ub|pos|nøyt|ent	9	ATR	_	_
+9	samarbeid	samarbeid	subst	_	ub|nøyt|ent|appell	4	DOBJ	_	_
+10	sammen	sammen	adv	_	_	4	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	så	så	konj	_	_	15	KONJ	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+15	har	ha	verb	_	pres	4	KOORD	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	DOBJ	_	_
+17	ikke	ikke	adv	_	_	15	ADV	_	_
+18	akkurat	akkurat	adv	_	_	19	ADV	_	_
+19	i	i	prep	_	_	15	ADV	_	_
+20	hodet	hode	subst	_	be|nøyt|ent|appell	19	PUTFYLL	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	27	PUTFYLL	_	_
+22	kan	kunne	verb	_	pres	4	KOORD	_	_
+23	sikkert	sikker	adj	_	ub|pos|nøyt|ent	25	ADV	_	_
+24	ordføreren	ordfører	subst	_	be|mask|ent|appell	22	SUBJ	_	_
+25	svare	svare	verb	_	inf	22	INFV	_	_
+26	bedre	god	adj	_	komp	25	ADV	_	_
+27	på	på	prep	_	_	25	ADV	_	_
+28	_laughter_	_laughter_	pause	_	_	27	FYLL	_	_
+29	#	#	pause	_	_	27	IK	_	_
+30	e	e	nol	_	_	27	FYLL	_	_
+31	r0t	_	_	_	_	0	root	_	_
+
+# text = e _uninterpretable_ # hvor det er mest men det skole og lege og # brann og # sånne ting e # g- går imot Akershus _uninterpretable_ r0t
+# segstart = 321.617
+# segstop = 332.253
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
 # id = 96
-# segstart = 321.617
-# segstop = 332.253
-# speaker = roemskog_04gk
-# text = e # hvor det er mest men det skole og lege og # brann og # sånne ting e # g- går imot Akershus
-1	e	e	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	hvor	hvor	adv	adv	_	5	ADV	_	_
-4	det	det	pron	pron	_	5	FSUBJ	_	_
-5	er	være	verb	verb	_	0	FINV	_	_
-6	mest	mye	adj	adj	_	5	PSUBJ	_	_
-7	men	men	konj	konj	_	9	KONJ	_	_
-8	det	det	pron	pron	_	9	REP	_	_
-9	skole	skole	subst	subst	_	22	SUBJ	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	lege	lege	subst	subst	_	9	KOORD	_	_
-12	og	og	konj	konj	_	14	KONJ	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	brann	brann	subst	subst	_	9	KOORD	_	_
-15	og	og	konj	konj	_	18	KONJ	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	sånne	sånne	det	det	_	18	DET	_	_
-18	ting	ting	subst	subst	_	9	KOORD	_	_
-19	e	e	nol	nol	_	22	FYLL	_	_
-20	#	#	pause	pause	_	22	IK	_	_
-21	g-	g-	ufullst	ufullst	_	22	FYLL	_	_
-22	går	gå	verb	verb	_	5	KOORD	_	_
-23	imot	imot	prep	prep	_	22	ADV	_	_
-24	Akershus	Akershus	subst	subst	_	23	PUTFYLL	_	_
-
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 97
+1	e	e	nol	_	_	4	FYLL	_	_
+2	_uninterpretable_	_uninterpretable_	pause	_	_	4	FYLL	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	hvor	hvor	adv	_	_	6	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	er	være	verb	_	pres	27	FINV	_	_
+7	mest	mye	adj	_	ub|sup	6	PSUBJ	_	_
+8	men	men	konj	_	_	10	KONJ	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	REP	_	_
+10	skole	skole	subst	_	ub|mask|ent|appell	23	SUBJ	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	lege	lege	subst	_	ub|mask|ent|appell	10	KOORD	_	_
+13	og	og	konj	_	_	15	KONJ	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	brann	brann	subst	_	ub|mask|ent|appell	10	KOORD	_	_
+16	og	og	konj	_	_	19	KONJ	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	sånne	sånne	det	_	fl|dem	19	DET	_	_
+19	ting	ting	subst	_	ub|mask|fl|appell	10	KOORD	_	_
+20	e	e	nol	_	_	23	FYLL	_	_
+21	#	#	pause	_	_	23	IK	_	_
+22	g-	g-	ufullst	_	_	23	FYLL	_	_
+23	går	gå	verb	_	pres	6	KOORD	_	_
+24	imot	imot	prep	_	_	23	ADV	_	_
+25	Akershus	Akershus	subst	_	prop	24	PUTFYLL	_	_
+26	_uninterpretable_	_uninterpretable_	pause	_	_	25	FYLL	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
 # segstart = 321.617
 # segstop = 332.253
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
+# id = 97
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 98
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 332.253
 # segstop = 332.659
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 99
+# speaker = roemskog_04gk
+# id = 98
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = for det er ikke noe legesenter eller noe sånt noe her ? r0t
 # segstart = 332.659
 # segstop = 335.115
-# speaker = eo
-# text = for det er ikke noe legesenter eller noe sånt noe her ?
-1	for	for	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	noe	noe	det	det	_	6	DET	_	_
-6	legesenter	legesenter	subst	subst	_	3	PSUBJ	_	_
-7	eller	eller	konj	konj	_	10	KONJ	_	_
-8	noe	noe	det	det	_	9	DET	_	_
-9	sånt	sånt	det	det	_	10	DET	_	_
-10	noe	noe	pron	pron	_	6	KOORD	_	_
-11	her	her	prep	prep	_	3	ADV	_	_
-12	?	?	clb	clb	_	3	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 100
+# speaker = eo
+# id = 99
+# annotator = SR
+1	for	for	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	13	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	noe	noe	det	_	nøyt|ent|kvant	6	DET	_	_
+6	legesenter	legesenter	subst	_	ub|nøyt|ent|appell	3	PSUBJ	_	_
+7	eller	eller	konj	_	_	10	KONJ	_	_
+8	noe	noe	det	_	nøyt|ent|kvant	9	DET	_	_
+9	sånt	sånt	det	_	nøyt|ent|dem	10	DET	_	_
+10	noe	noe	pron	_	nøyt|3|ent|pers	6	KOORD	_	_
+11	her	her	prep	_	_	3	ADV	_	_
+12	?	?	clb	_	_	3	IP	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = ja vi har l- e vi har kommunelege # som har e kontortid to dager i uka r0t
 # segstart = 335.115
 # segstop = 339.932
-# speaker = roemskog_04gk
-# text = ja vi har l- e vi har kommunelege # som har e kontortid to dager i uka
-1	ja	ja	interj	interj	_	7	INTERJ	_	_
-2	vi	vi	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	7	REP	_	_
-4	l-	l-	ufullst	ufullst	_	6	FYLL	_	_
-5	e	e	nol	nol	_	6	FYLL	_	_
-6	vi	vi	pron	pron	_	7	SUBJ	_	_
-7	har	ha	verb	verb	_	0	FINV	_	_
-8	kommunelege	kommunelege	subst	subst	_	7	DOBJ	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	som	som	sbu	sbu	_	11	SBU	_	_
-11	har	ha	verb	verb	_	8	ATR	_	_
-12	e	e	nol	nol	_	13	FYLL	_	_
-13	kontortid	kontortid	subst	subst	_	11	DOBJ	_	_
-14	to	to	det	det	_	15	DET	_	_
-15	dager	dag	subst	subst	_	11	ADV	_	_
-16	i	i	prep	prep	_	15	ATR	_	_
-17	uka	uke	subst	subst	_	16	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 101
+# speaker = roemskog_04gk
+# id = 100
+# annotator = SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	7	REP	_	_
+4	l-	l-	ufullst	_	_	6	FYLL	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	vi	vi	pron	_	nom|1|fl|hum	7	SUBJ	_	_
+7	har	ha	verb	_	pres	18	FINV	_	_
+8	kommunelege	kommunelege	subst	_	ub|mask|ent|samset	7	DOBJ	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	som	som	sbu	_	_	11	SBU	_	_
+11	har	ha	verb	_	pres	8	ATR	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	kontortid	kontortid	subst	_	ub|fem|ent|appell	11	DOBJ	_	_
+14	to	to	det	_	fl|kvant	15	DET	_	_
+15	dager	dag	subst	_	ub|mask|fl|appell	11	ADV	_	_
+16	i	i	prep	_	_	15	ATR	_	_
+17	uka	uke	subst	_	be|fem|ent|appell	16	PUTFYLL	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # helsesøster da # har dere det på skolen ? r0t
 # segstart = 339.932
 # segstop = 343.223
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = ja # helsesøster da # har dere det på skolen ?
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	helsesøster	helsesøster	subst	subst	_	8	APP	_	_
-4	da	da	adv	adv	_	6	ADV	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	har	ha	verb	verb	_	0	FINV	_	_
-7	dere	dere	pron	pron	_	6	SUBJ	_	_
-8	det	det	pron	pron	_	6	DOBJ	_	_
-9	på	på	prep	prep	_	6	ADV	_	_
-10	skolen	skole	subst	subst	_	9	PUTFYLL	_	_
-11	?	?	clb	clb	_	6	IP	_	_
-
+# id = 101
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 102
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	helsesøster	helsesøster	subst	_	ub|fem|ent|appell	8	APP	_	_
+4	da	da	adv	_	_	6	ADV	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	har	ha	verb	_	pres	12	FINV	_	_
+7	dere	dere	pron	_	nom|2|fl|hum	6	SUBJ	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+9	på	på	prep	_	_	6	ADV	_	_
+10	skolen	skole	subst	_	be|mask|ent|appell	9	PUTFYLL	_	_
+11	?	?	clb	_	_	6	IP	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = * mm r0t
 # segstart = 339.932
 # segstop = 343.223
-# speaker = roemskog_04gk
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 103
+# speaker = roemskog_04gk
+# id = 102
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 343.223
 # segstop = 343.598
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 104
+# speaker = eo
+# id = 103
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = e vi har e- hun er her ja en dag i uka trur jeg nå ja r0t
 # segstart = 343.598
 # segstop = 346.872
-# speaker = roemskog_04gk
-# text = e vi har e- hun er her ja en dag i uka trur jeg nå ja
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	vi	vi	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	6	REP	_	_
-4	e-	e-	ufullst	ufullst	_	5	FYLL	_	_
-5	hun	hun	pron	pron	_	6	SUBJ	_	_
-6	er	være	verb	verb	_	0	FINV	_	_
-7	her	her	prep	prep	_	6	SPRED	_	_
-8	ja	ja	interj	interj	_	6	INTERJ	_	_
-9	en	en	det	det	_	10	DET	_	_
-10	dag	dag	subst	subst	_	6	ADV	_	_
-11	i	i	prep	prep	_	10	ATR	_	_
-12	uka	uke	subst	subst	_	11	PUTFYLL	_	_
-13	trur	tru	verb	verb	_	6	PAR	_	_
-14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-15	nå	nå	adv	adv	_	6	ADV	_	_
-16	ja	ja	interj	interj	_	6	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 105
+# speaker = roemskog_04gk
+# id = 104
+# annotator = SR
+1	e	e	nol	_	_	2	FYLL	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	6	REP	_	_
+4	e-	e-	ufullst	_	_	5	FYLL	_	_
+5	hun	hun	pron	_	nom|fem|3|ent|hum	6	SUBJ	_	_
+6	er	være	verb	_	pres	17	FINV	_	_
+7	her	her	prep	_	_	6	SPRED	_	_
+8	ja	ja	interj	_	_	6	INTERJ	_	_
+9	en	en	det	_	mask|ent|kvant	10	DET	_	_
+10	dag	dag	subst	_	ub|mask|ent|appell	6	ADV	_	_
+11	i	i	prep	_	_	10	ATR	_	_
+12	uka	uke	subst	_	be|fem|ent|appell	11	PUTFYLL	_	_
+13	trur	tru	verb	_	pres	6	PAR	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	13	SUBJ	_	_
+15	nå	nå	adv	_	_	6	ADV	_	_
+16	ja	ja	interj	_	_	6	INTERJ	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 346.872
 # segstop = 347.216
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 106
+# speaker = eo
+# id = 105
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 347.216
 # segstop = 348.265
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 107
+# speaker = roemskog_04gk
+# id = 106
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hm # m # _front-click_ # e # hva er det som liksom gjør at du føler sånn tett tilknytning til Rømskog hvorfor er det bra å bo her på en måte ? r0t
 # segstart = 348.265
 # segstop = 359.545
-# speaker = eo
-# text = hm # m # # e # hva er det som liksom gjør at du føler sånn tett tilknytning til Rømskog hvorfor er det bra å bo her på en måte ?
-1	hm	hm	interj	interj	_	9	INTERJ	_	_
-2	#	#	pause	pause	_	8	IK	_	_
-3	m	m	interj	interj	_	8	FYLL	_	_
-4	#	#	pause	pause	_	8	IK	_	_
-5	#	#	pause	pause	_	8	IK	_	_
-6	e	e	nol	nol	_	8	FYLL	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	hva	hva	pron	pron	_	9	SPRED	_	_
-9	er	være	verb	verb	_	0	FINV	_	_
-10	det	det	pron	pron	_	9	FSUBJ	_	_
-11	som	som	sbu	sbu	_	13	SBU	_	_
-12	liksom	liksom	adv	adv	_	13	ADV	_	_
-13	gjør	gjøre	verb	verb	_	8	ATR	_	_
-14	at	at	sbu	sbu	_	16	SBU	_	_
-15	du	du	pron	pron	_	16	SUBJ	_	_
-16	føler	føle	verb	verb	_	13	DOBJ	_	_
-17	sånn	sånn	det	det	_	19	DET	_	_
-18	tett	tett	adj	adj	_	19	ATR	_	_
-19	tilknytning	tilknytning	subst	subst	_	16	DOBJ	_	_
-20	til	til	prep	prep	_	19	ATR	_	_
-21	Rømskog	Rømskog	subst	subst	_	20	PUTFYLL	_	_
-22	hvorfor	hvorfor	adv	adv	_	23	ADV	_	_
-23	er	være	verb	verb	_	9	KOORD	_	_
-24	det	det	pron	pron	_	23	FSUBJ	_	_
-25	bra	bra	adj	adj	_	23	SPRED	_	_
-26	å	å	inf-merke	inf-merke	_	23	PSUBJ	_	_
-27	bo	bo	verb	verb	_	26	INFV	_	_
-28	her	her	prep	prep	_	27	ADV	_	_
-29	på	på	prep	prep	_	27	ADV	_	_
-30	en	en	det	det	_	31	DET	_	_
-31	måte	måte	subst	subst	_	29	PUTFYLL	_	_
-32	?	?	clb	clb	_	9	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 108
+# speaker = eo
+# id = 107
+# annotator = SR
+1	hm	hm	interj	_	_	10	INTERJ	_	_
+2	#	#	pause	_	_	9	IK	_	_
+3	m	m	interj	_	_	9	FYLL	_	_
+4	#	#	pause	_	_	9	IK	_	_
+5	_front-click_	_front-click_	pause	_	_	9	FYLL	_	_
+6	#	#	pause	_	_	9	IK	_	_
+7	e	e	nol	_	_	9	FYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	hva	hva	pron	_	sp	10	SPRED	_	_
+10	er	være	verb	_	pres	34	FINV	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	som	som	sbu	_	_	14	SBU	_	_
+13	liksom	liksom	adv	_	_	14	ADV	_	_
+14	gjør	gjøre	verb	_	pres	9	ATR	_	_
+15	at	at	sbu	_	_	17	SBU	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	føler	føle	verb	_	pres	14	DOBJ	_	_
+18	sånn	sånn	det	_	mask|ent|dem	20	DET	_	_
+19	tett	tett	adj	_	ub|pos|m/f|ent	20	ATR	_	_
+20	tilknytning	tilknytning	subst	_	ub|fem|ent|appell	17	DOBJ	_	_
+21	til	til	prep	_	_	20	ATR	_	_
+22	Rømskog	Rømskog	subst	_	prop	21	PUTFYLL	_	_
+23	hvorfor	hvorfor	adv	_	_	24	ADV	_	_
+24	er	være	verb	_	pres	10	KOORD	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	24	FSUBJ	_	_
+26	bra	bra	adj	_	ub|pos|nøyt|ent	24	SPRED	_	_
+27	å	å	inf-merke	_	_	24	PSUBJ	_	_
+28	bo	bo	verb	_	inf	27	INFV	_	_
+29	her	her	prep	_	_	28	ADV	_	_
+30	på	på	prep	_	_	28	ADV	_	_
+31	en	en	det	_	mask|ent|kvant	32	DET	_	_
+32	måte	måte	subst	_	ub|mask|ent|appell	30	PUTFYLL	_	_
+33	?	?	clb	_	_	10	IP	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ ja det kan du spørre om r0t
 # segstart = 359.545
 # segstop = 362.86
-# speaker = roemskog_04gk
-# text = ja det kan du spørre om
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	6	PUTFYLL	_	_
-3	kan	kunne	verb	verb	_	0	FINV	_	_
-4	du	du	pron	pron	_	3	SUBJ	_	_
-5	spørre	spørre	verb	verb	_	3	INFV	_	_
-6	om	om	prep	prep	_	5	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 109
+# speaker = roemskog_04gk
+# id = 108
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	7	PUTFYLL	_	_
+4	kan	kunne	verb	_	pres	8	FINV	_	_
+5	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+6	spørre	spørre	verb	_	inf	4	INFV	_	_
+7	om	om	prep	_	_	6	ADV	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = nei jeg har bestandig e vært veldig e patriot # jeg er nok glad i naturen ## og e # ja r0t
 # segstart = 362.86
 # segstop = 374.45
-# speaker = roemskog_04gk
-# text = nei jeg har bestandig e vært veldig e patriot # jeg er nok glad i naturen ## og e # ja
-1	nei	nei	interj	interj	_	3	INTERJ	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	bestandig	bestandig	adj	adj	_	6	ADV	_	_
-5	e	e	nol	nol	_	6	FYLL	_	_
-6	vært	være	verb	verb	_	3	INFV	_	_
-7	veldig	veldig	adj	adj	_	9	ATR	_	_
-8	e	e	nol	nol	_	9	FYLL	_	_
-9	patriot	patriot	subst	subst	_	6	SPRED	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	jeg	jeg	pron	pron	_	12	SUBJ	_	_
-12	er	være	verb	verb	_	3	KOORD	_	_
-13	nok	nok	adv	adv	_	12	ADV	_	_
-14	glad	glad	adj	adj	_	12	SPRED	_	_
-15	i	i	prep	prep	_	14	ADV	_	_
-16	naturen	natur	subst	subst	_	15	PUTFYLL	_	_
-17	##	##	pause	pause	_	18	IK	_	_
-18	og	og	konj	konj	_	3	KONJ	_	_
-19	e	e	nol	nol	_	21	FYLL	_	_
-20	#	#	pause	pause	_	21	IK	_	_
-21	ja	ja	interj	interj	_	3	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 110
+# speaker = roemskog_04gk
+# id = 109
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	22	FINV	_	_
+4	bestandig	bestandig	adj	_	ub|pos|nøyt|ent	6	ADV	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	vært	være	verb	_	perf-part	3	INFV	_	_
+7	veldig	veldig	adj	_	ub|pos|nøyt|ent	9	ATR	_	_
+8	e	e	nol	_	_	9	FYLL	_	_
+9	patriot	patriot	subst	_	ub|mask|ent|appell	6	SPRED	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+12	er	være	verb	_	pres	3	KOORD	_	_
+13	nok	nok	adv	_	_	12	ADV	_	_
+14	glad	glad	adj	_	ub|pos|m/f|ent	12	SPRED	_	_
+15	i	i	prep	_	_	14	ADV	_	_
+16	naturen	natur	subst	_	be|mask|ent|appell	15	PUTFYLL	_	_
+17	##	##	pause	_	_	18	IK	_	_
+18	og	og	konj	_	_	3	KONJ	_	_
+19	e	e	nol	_	_	21	FYLL	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	ja	ja	interj	_	_	3	INTERJ	_	_
+22	r0t	_	_	_	_	0	root	_	_
+
+# text = nei vet du jeg kan ikke tenke meg å liksom e bosette meg et annet sted jeg r0t
 # segstart = 374.45
 # segstop = 377.812
-# speaker = roemskog_04gk
-# text = nei vet du jeg kan ikke tenke meg å liksom e bosette meg et annet sted jeg
-1	nei	nei	interj	interj	_	5	INTERJ	_	_
-2	vet	vite	verb	verb	_	5	PAR	_	_
-3	du	du	pron	pron	_	2	SUBJ	_	_
-4	jeg	jeg	pron	pron	_	5	SUBJ	_	_
-5	kan	kunne	verb	verb	_	0	DOBJ	_	_
-6	ikke	ikke	adv	adv	_	7	ADV	_	_
-7	tenke	tenke	verb	verb	_	5	INFV	_	_
-8	meg	meg	pron	pron	_	7	IOBJ	_	_
-9	å	å	inf-merke	inf-merke	_	7	DOBJ	_	_
-10	liksom	liksom	adv	adv	_	12	ADV	_	_
-11	e	e	nol	nol	_	12	FYLL	_	_
-12	bosette	bosette	verb	verb	_	9	INFV	_	_
-13	meg	meg	pron	pron	_	12	DOBJ	_	_
-14	et	et	det	det	_	16	DET	_	_
-15	annet	annet	det	det	_	16	DET	_	_
-16	sted	sted	subst	subst	_	12	ADV	_	_
-17	jeg	jeg	pron	pron	_	4	APP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 111
+# speaker = roemskog_04gk
+# id = 110
+# annotator = SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	vet	vite	verb	_	pres	5	PAR	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+5	kan	kunne	verb	_	pres	18	DOBJ	_	_
+6	ikke	ikke	adv	_	_	7	ADV	_	_
+7	tenke	tenke	verb	_	inf	5	INFV	_	_
+8	meg	meg	pron	_	akk|1|ent|hum	7	IOBJ	_	_
+9	å	å	inf-merke	_	_	7	DOBJ	_	_
+10	liksom	liksom	adv	_	_	12	ADV	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	bosette	bosette	verb	_	inf	9	INFV	_	_
+13	meg	meg	pron	_	akk|1|ent|hum	12	DOBJ	_	_
+14	et	et	det	_	nøyt|ent|kvant	16	DET	_	_
+15	annet	annet	det	_	ub|nøyt|ent|dem	16	DET	_	_
+16	sted	sted	subst	_	ub|nøyt|ent|appell	12	ADV	_	_
+17	jeg	jeg	pron	_	nom|1|ent|hum	4	APP	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
 # segstart = 377.812
 # segstop = 378.187
-# speaker = eo
-# text = nei
-1	nei	nei	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 112
+# speaker = eo
+# id = 111
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei # det er … r0t
 # segstart = 378.187
 # segstop = 379.84
-# speaker = roemskog_04gk
-# text = nei # det er …
-1	nei	nei	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	er	være	verb	verb	_	0	FINV	_	_
-5	…	…	pause	pause	_	4	IK	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 114
-# segstart = 379.84
-# segstop = 383.136
+# speaker = roemskog_04gk
+# id = 112
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	6	FINV	_	_
+5	…	…	pause	_	_	4	IK	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 378.187
+# segstop = 379.84
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = selv etter å ha bodd i # Oslo og
-1	selv	selv	adv	adv	_	2	ADV	_	_
-2	etter	etter	prep	prep	_	0	FRAG	_	_
-3	å	å	inf-merke	inf-merke	_	2	PUTFYLL	_	_
-4	ha	ha	verb	verb	_	3	INFV	_	_
-5	bodd	bo	verb	verb	_	4	INFV	_	_
-6	i	i	prep	prep	_	5	ADV	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	Oslo	Oslo	subst	subst	_	6	PUTFYLL	_	_
-9	og	og	konj	konj	_	5	KONJ	_	_
-
+# id = 113
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 115
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = selv etter å ha bodd i # Oslo og r0t
 # segstart = 379.84
 # segstop = 383.136
-# speaker = roemskog_04gk
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 116
+# speaker = eo
+# id = 114
+# annotator = SR
+1	selv	selv	adv	_	_	2	ADV	_	_
+2	etter	etter	prep	_	_	10	FRAG	_	_
+3	å	å	inf-merke	_	_	2	PUTFYLL	_	_
+4	ha	ha	verb	_	inf	3	INFV	_	_
+5	bodd	bo	verb	_	perf-part	4	INFV	_	_
+6	i	i	prep	_	_	5	ADV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	Oslo	Oslo	subst	_	prop	6	PUTFYLL	_	_
+9	og	og	konj	_	_	5	KONJ	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 379.84
+# segstop = 383.136
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 115
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 383.136
 # segstop = 383.917
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 117
+# speaker = eo
+# id = 116
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = det er klart det er forskjell på hvilke behov en har i forhold til fritidssysler og e ja hva en vil e holde på med r0t
 # segstart = 383.917
 # segstop = 390.195
-# speaker = roemskog_04gk
-# text = det er klart det er forskjell på hvilke behov en har i forhold til fritidssysler og e ja hva en vil e holde på med
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	klart	klar	adj	adj	_	2	SPRED	_	_
-4	det	det	pron	pron	_	5	FSUBJ	_	_
-5	er	være	verb	verb	_	2	PSUBJ	_	_
-6	forskjell	forskjell	subst	subst	_	5	PSUBJ	_	_
-7	på	på	prep	prep	_	6	ATR	_	_
-8	hvilke	hvilke	det	det	_	9	DET	_	_
-9	behov	behov	subst	subst	_	7	PUTFYLL	_	_
-10	en	en	pron	pron	_	11	SUBJ	_	_
-11	har	ha	verb	verb	_	9	ATR	_	_
-12	i	i	prep	prep	_	11	ADV	_	_
-13	forhold	forhold	subst	subst	_	12	PUTFYLL	_	_
-14	til	til	prep	prep	_	13	ATR	_	_
-15	fritidssysler	fritidssyssel	subst	subst	_	14	PUTFYLL	_	_
-16	og	og	konj	konj	_	19	KONJ	_	_
-17	e	e	nol	nol	_	18	FYLL	_	_
-18	ja	ja	interj	interj	_	21	INTERJ	_	_
-19	hva	hva	pron	pron	_	9	ADV	_	_
-20	en	en	pron	pron	_	21	SUBJ	_	_
-21	vil	ville	verb	verb	_	19	ATR	_	_
-22	e	e	nol	nol	_	23	FYLL	_	_
-23	holde	holde	verb	verb	_	21	INFV	_	_
-24	på	på	prep	prep	_	23	ADV	_	_
-25	med	med	prep	prep	_	23	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 118
+# speaker = roemskog_04gk
+# id = 117
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	26	FINV	_	_
+3	klart	klar	adj	_	ub|pos|nøyt|ent	2	SPRED	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	2	PSUBJ	_	_
+6	forskjell	forskjell	subst	_	ub|mask|ent|appell	5	PSUBJ	_	_
+7	på	på	prep	_	_	6	ATR	_	_
+8	hvilke	hvilke	det	_	fl|sp	9	DET	_	_
+9	behov	behov	subst	_	ub|nøyt|fl|appell	7	PUTFYLL	_	_
+10	en	en	pron	_	nom|ent|hum	11	SUBJ	_	_
+11	har	ha	verb	_	pres	9	ATR	_	_
+12	i	i	prep	_	_	11	ADV	_	_
+13	forhold	forhold	subst	_	ub|nøyt|ent|appell	12	PUTFYLL	_	_
+14	til	til	prep	_	_	13	ATR	_	_
+15	fritidssysler	fritidssyssel	subst	_	ub|mask|fl|samset	14	PUTFYLL	_	_
+16	og	og	konj	_	_	19	KONJ	_	_
+17	e	e	nol	_	_	18	FYLL	_	_
+18	ja	ja	interj	_	_	21	INTERJ	_	_
+19	hva	hva	pron	_	sp	9	ADV	_	_
+20	en	en	pron	_	nom|ent|hum	21	SUBJ	_	_
+21	vil	ville	verb	_	pres	19	ATR	_	_
+22	e	e	nol	_	_	23	FYLL	_	_
+23	holde	holde	verb	_	inf	21	INFV	_	_
+24	på	på	prep	_	_	23	ADV	_	_
+25	med	med	prep	_	_	23	ADV	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = men jeg s- # nei # jeg har e- jeg har aldri savna noe e annet jeg for det er jo såpass kort vei andre e steder da at en kan e # oppsøke det når en vil r0t
 # segstart = 390.195
 # segstop = 400.402
-# speaker = roemskog_04gk
-# text = men jeg s- # nei # jeg har e- jeg har aldri savna noe e annet jeg for det er jo såpass kort vei andre e steder da at en kan e # oppsøke det når en vil
-1	men	men	konj	konj	_	11	KONJ	_	_
-2	jeg	jeg	pron	pron	_	7	REP	_	_
-3	s-	s-	ufullst	ufullst	_	5	FYLL	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	nei	nei	interj	interj	_	11	INTERJ	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-8	har	ha	verb	verb	_	11	REP	_	_
-9	e-	e-	ufullst	ufullst	_	10	FYLL	_	_
-10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
-11	har	ha	verb	verb	_	0	FINV	_	_
-12	aldri	aldri	adv	adv	_	13	ADV	_	_
-13	savna	savne	verb	verb	_	11	INFV	_	_
-14	noe	noe	det	det	_	16	DET	_	_
-15	e	e	nol	nol	_	16	FYLL	_	_
-16	annet	annet	det	det	_	13	DOBJ	_	_
-17	jeg	jeg	pron	pron	_	10	APP	_	_
-18	for	for	konj	konj	_	20	KONJ	_	_
-19	det	det	pron	pron	_	20	FSUBJ	_	_
-20	er	være	verb	verb	_	11	KOORD	_	_
-21	jo	jo	adv	adv	_	20	ADV	_	_
-22	såpass	såpass	adv	adv	_	23	ADV	_	_
-23	kort	kort	adj	adj	_	24	ATR	_	_
-24	vei	vei	subst	subst	_	20	SPRED	_	_
-25	andre	annen	det	det	_	27	DET	_	_
-26	e	e	nol	nol	_	27	FYLL	_	_
-27	steder	sted	subst	subst	_	24	ATR	_	_
-28	da	da	adv	adv	_	20	ADV	_	_
-29	at	at	sbu	sbu	_	31	SBU	_	_
-30	en	en	pron	pron	_	31	SUBJ	_	_
-31	kan	kan	verb	verb	_	22	ADV	_	_
-32	e	e	nol	nol	_	34	FYLL	_	_
-33	#	#	pause	pause	_	34	IK	_	_
-34	oppsøke	oppsøke	verb	verb	_	31	DOBJ	_	_
-35	det	det	pron	pron	_	34	DOBJ	_	_
-36	når	når	sbu	sbu	_	38	SBU	_	_
-37	en	en	pron	pron	_	38	SUBJ	_	_
-38	vil	ville	verb	verb	_	34	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 119
+# speaker = roemskog_04gk
+# id = 118
+# annotator = SR
+1	men	men	konj	_	_	11	KONJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	7	REP	_	_
+3	s-	s-	ufullst	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	nei	nei	interj	_	_	11	INTERJ	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	har	ha	verb	_	pres	11	REP	_	_
+9	e-	e-	ufullst	_	_	10	FYLL	_	_
+10	jeg	jeg	pron	_	nom|1|ent|hum	11	SUBJ	_	_
+11	har	ha	verb	_	pres	39	FINV	_	_
+12	aldri	aldri	adv	_	_	13	ADV	_	_
+13	savna	savne	verb	_	perf-part	11	INFV	_	_
+14	noe	noe	det	_	nøyt|ent|kvant	16	DET	_	_
+15	e	e	nol	_	_	16	FYLL	_	_
+16	annet	annet	det	_	ub|nøyt|ent|dem	13	DOBJ	_	_
+17	jeg	jeg	pron	_	nom|1|ent|hum	10	APP	_	_
+18	for	for	konj	_	_	20	KONJ	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	er	være	verb	_	pres	11	KOORD	_	_
+21	jo	jo	adv	_	_	20	ADV	_	_
+22	såpass	såpass	adv	_	_	23	ADV	_	_
+23	kort	kort	adj	_	ub|pos|m/f|ent	24	ATR	_	_
+24	vei	vei	subst	_	ub|mask|ent|appell	20	SPRED	_	_
+25	andre	annen	det	_	fl|dem	27	DET	_	_
+26	e	e	nol	_	_	27	FYLL	_	_
+27	steder	sted	subst	_	ub|nøyt|fl|appell	24	ATR	_	_
+28	da	da	adv	_	_	20	ADV	_	_
+29	at	at	sbu	_	_	31	SBU	_	_
+30	en	en	pron	_	nom|ent|hum	31	SUBJ	_	_
+31	kan	kunne	verb	_	pres	22	ADV	_	_
+32	e	e	nol	_	_	34	FYLL	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	oppsøke	oppsøke	verb	_	inf	31	DOBJ	_	_
+35	det	det	pron	_	nøyt|3|ent|pers	34	DOBJ	_	_
+36	når	når	sbu	_	_	38	SBU	_	_
+37	en	en	pron	_	nom|ent|hum	38	SUBJ	_	_
+38	vil	ville	verb	_	pres	34	ADV	_	_
+39	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 400.402
 # segstop = 400.996
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 120
+# speaker = eo
+# id = 119
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 400.996
 # segstop = 402.047
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 121
+# speaker = roemskog_04gk
+# id = 120
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # hva er det som liksom … r0t
 # segstart = 402.047
 # segstop = 403.908
-# speaker = eo
-# text = # hva er det som liksom …
-1	#	#	pause	pause	_	2	IK	_	_
-2	hva	hva	pron	pron	_	3	SPRED	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	som	som	sbu	sbu	_	3	SLETT	_	_
-6	liksom	liksom	adv	adv	_	5	ADV	_	_
-7	…	…	pause	pause	_	3	IK	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 123
+# speaker = eo
+# id = 121
+# annotator = SR
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hva	hva	pron	_	sp	4	SPRED	_	_
+4	er	være	verb	_	pres	9	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	som	som	sbu	_	_	4	SLETT	_	_
+7	liksom	liksom	adv	_	_	6	ADV	_	_
+8	…	…	pause	_	_	4	IK	_	_
+9	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 402.047
+# segstop = 403.908
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 122
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = så det er nok fre- e ja altså e natur fred og e og ro liksom som er e mm r0t
 # segstart = 403.908
 # segstop = 408.201
-# speaker = roemskog_04gk
-# text = så det er nok fre- e ja altså e natur fred og e og ro liksom som er e mm
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	nok	nok	adv	adv	_	3	ADV	_	_
-5	fre-	fre-	ufullst	ufullst	_	7	FYLL	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	ja	ja	interj	interj	_	3	INTERJ	_	_
-8	altså	altså	adv	adv	_	3	ADV	_	_
-9	e	e	nol	nol	_	10	FYLL	_	_
-10	natur	natur	subst	subst	_	3	SPRED	_	_
-11	fred	fred	subst	subst	_	10	KOORD	_	_
-12	og	og	konj	konj	_	14	REP	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	og	og	konj	konj	_	15	KONJ	_	_
-15	ro	ro	subst	subst	_	10	KOORD	_	_
-16	liksom	liksom	adv	adv	_	3	ADV	_	_
-17	som	som	sbu	sbu	_	18	SBU	_	_
-18	er	være	verb	verb	_	15	ATR	_	_
-19	e	e	nol	nol	_	20	FYLL	_	_
-20	mm	mm	interj	interj	_	18	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 124
+# speaker = roemskog_04gk
+# id = 123
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	21	FINV	_	_
+4	nok	nok	adv	_	_	3	ADV	_	_
+5	fre-	fre-	ufullst	_	_	7	FYLL	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	ja	ja	interj	_	_	3	INTERJ	_	_
+8	altså	altså	adv	_	_	3	ADV	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	natur	natur	subst	_	ub|mask|ent|appell	3	SPRED	_	_
+11	fred	fred	subst	_	ub|mask|ent|appell	10	KOORD	_	_
+12	og	og	konj	_	_	14	REP	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	og	og	konj	_	_	15	KONJ	_	_
+15	ro	ro	subst	_	ub|fem|ent|appell	10	KOORD	_	_
+16	liksom	liksom	adv	_	_	3	ADV	_	_
+17	som	som	sbu	_	_	18	SBU	_	_
+18	er	være	verb	_	pres	15	ATR	_	_
+19	e	e	nol	_	_	20	FYLL	_	_
+20	mm	mm	interj	_	_	18	INTERJ	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 408.201
 # segstop = 408.576
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 125
+# speaker = eo
+# id = 124
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 408.576
 # segstop = 409.37
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 126
+# speaker = roemskog_04gk
+# id = 125
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva ja # e- etter å ha bodd i Oslo litt hva syns du på en måte er den største forskjellen da å bo liksom i by og bo her ? r0t
 # segstart = 409.37
 # segstop = 418.313
-# speaker = eo
-# text = hva ja # e- etter å ha bodd i Oslo litt hva syns du på en måte er den største forskjellen da å bo liksom i by og bo her ?
-1	hva	hva	pron	pron	_	2	REP	_	_
-2	ja	ja	interj	interj	_	13	INTERJ	_	_
-3	#	#	pause	pause	_	5	IK	_	_
-4	e-	e-	ufullst	ufullst	_	5	FYLL	_	_
-5	etter	etter	prep	prep	_	18	ADV	_	_
-6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
-7	ha	ha	verb	verb	_	6	INFV	_	_
-8	bodd	bo	verb	verb	_	7	INFV	_	_
-9	i	i	prep	prep	_	8	ADV	_	_
-10	Oslo	Oslo	subst	subst	_	9	PUTFYLL	_	_
-11	litt	litt	adj	adj	_	8	ADV	_	_
-12	hva	hva	pron	pron	_	18	SPRED	_	_
-13	syns	synes	verb	verb	_	0	FINV	_	_
-14	du	du	pron	pron	_	13	SUBJ	_	_
-15	på	på	prep	prep	_	18	ADV	_	_
-16	en	en	det	det	_	17	DET	_	_
-17	måte	måte	subst	subst	_	15	PUTFYLL	_	_
-18	er	være	verb	verb	_	13	DOBJ	_	_
-19	den	den	det	det	_	21	DET	_	_
-20	største	stor	adj	adj	_	21	ATR	_	_
-21	forskjellen	forskjell	subst	subst	_	18	SUBJ	_	_
-22	da	da	adv	adv	_	18	ADV	_	_
-23	å	å	inf-merke	inf-merke	_	21	ATR	_	_
-24	bo	bo	verb	verb	_	23	INFV	_	_
-25	liksom	liksom	adv	adv	_	24	ADV	_	_
-26	i	i	prep	prep	_	24	ADV	_	_
-27	by	by	subst	subst	_	26	PUTFYLL	_	_
-28	og	og	konj	konj	_	29	KONJ	_	_
-29	bo	bo	verb	verb	_	24	KOORD	_	_
-30	her	her	prep	prep	_	29	ADV	_	_
-31	?	?	clb	clb	_	13	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 127
+# speaker = eo
+# id = 126
+# annotator = SR
+1	hva	hva	pron	_	sp	2	REP	_	_
+2	ja	ja	interj	_	_	13	INTERJ	_	_
+3	#	#	pause	_	_	5	IK	_	_
+4	e-	e-	ufullst	_	_	5	FYLL	_	_
+5	etter	etter	prep	_	_	18	ADV	_	_
+6	å	å	inf-merke	_	_	5	PUTFYLL	_	_
+7	ha	ha	verb	_	inf	6	INFV	_	_
+8	bodd	bo	verb	_	perf-part	7	INFV	_	_
+9	i	i	prep	_	_	8	ADV	_	_
+10	Oslo	Oslo	subst	_	prop	9	PUTFYLL	_	_
+11	litt	litt	adj	_	ub|pos|nøyt|ent	8	ADV	_	_
+12	hva	hva	pron	_	sp	18	SPRED	_	_
+13	syns	synes	verb	_	pres	32	FINV	_	_
+14	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+15	på	på	prep	_	_	18	ADV	_	_
+16	en	en	det	_	mask|ent|kvant	17	DET	_	_
+17	måte	måte	subst	_	ub|mask|ent|appell	15	PUTFYLL	_	_
+18	er	være	verb	_	pres	13	DOBJ	_	_
+19	den	den	det	_	mask|ent|dem	21	DET	_	_
+20	største	stor	adj	_	be|sup	21	ATR	_	_
+21	forskjellen	forskjell	subst	_	be|mask|ent|appell	18	SUBJ	_	_
+22	da	da	adv	_	_	18	ADV	_	_
+23	å	å	inf-merke	_	_	21	ATR	_	_
+24	bo	bo	verb	_	inf	23	INFV	_	_
+25	liksom	liksom	adv	_	_	24	ADV	_	_
+26	i	i	prep	_	_	24	ADV	_	_
+27	by	by	subst	_	ub|mask|ent|appell	26	PUTFYLL	_	_
+28	og	og	konj	_	_	29	KONJ	_	_
+29	bo	bo	verb	_	inf	24	KOORD	_	_
+30	her	her	prep	_	_	29	ADV	_	_
+31	?	?	clb	_	_	13	IP	_	_
+32	r0t	_	_	_	_	0	root	_	_
+
+# text = nei støy trafikk # ja # begynne jo det blir mang- en del år sia jeg bodde i Oslo men det # ja r0t
 # segstart = 418.313
 # segstop = 424.752
-# speaker = roemskog_04gk
-# text = nei støy trafikk # ja # begynne jo det blir mang- en del år sia jeg bodde i Oslo men det # ja
-1	nei	nei	interj	interj	_	2	INTERJ	_	_
-2	støy	støy	subst	subst	_	0	FRAG	_	_
-3	trafikk	trafikk	subst	subst	_	2	KOORD	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	ja	ja	interj	interj	_	10	INTERJ	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	begynne	begynne	verb	verb	_	10	REP	_	_
-8	jo	jo	adv	adv	_	7	ADV	_	_
-9	det	det	pron	pron	_	10	FSUBJ	_	_
-10	blir	bli	verb	verb	_	2	KOORD	_	_
-11	mang-	mang-	ufullst	ufullst	_	12	FYLL	_	_
-12	en	en	det	det	_	13	DET	_	_
-13	del	del	subst	subst	_	14	DET	_	_
-14	år	år	subst	subst	_	10	SPRED	_	_
-15	sia	sia	prep	prep	_	14	ATR	_	_
-16	jeg	jeg	pron	pron	_	17	SUBJ	_	_
-17	bodde	bo	verb	verb	_	15	PUTFYLL	_	_
-18	i	i	prep	prep	_	17	ADV	_	_
-19	Oslo	Oslo	subst	subst	_	18	PUTFYLL	_	_
-20	men	men	konj	konj	_	21	KONJ	_	_
-21	det	det	pron	pron	_	10	KOORD	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	ja	ja	interj	interj	_	21	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 128
+# speaker = roemskog_04gk
+# id = 127
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	støy	støy	subst	_	ub|mask|ent|appell	24	FRAG	_	_
+3	trafikk	trafikk	subst	_	ub|mask|ent|appell	2	KOORD	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	ja	ja	interj	_	_	10	INTERJ	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	begynne	begynne	verb	_	inf	10	REP	_	_
+8	jo	jo	adv	_	_	7	ADV	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+10	blir	bli	verb	_	pres	2	KOORD	_	_
+11	mang-	mang-	ufullst	_	_	12	FYLL	_	_
+12	en	en	det	_	mask|ent|kvant	13	DET	_	_
+13	del	del	subst	_	ub|mask|ent|appell	14	DET	_	_
+14	år	år	subst	_	ub|nøyt|fl|appell	10	SPRED	_	_
+15	sia	sia	prep	_	_	14	ATR	_	_
+16	jeg	jeg	pron	_	nom|1|ent|hum	17	SUBJ	_	_
+17	bodde	bo	verb	_	pret	15	PUTFYLL	_	_
+18	i	i	prep	_	_	17	ADV	_	_
+19	Oslo	Oslo	subst	_	prop	18	PUTFYLL	_	_
+20	men	men	konj	_	_	21	KONJ	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	10	KOORD	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	ja	ja	interj	_	_	21	INTERJ	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # det er liksom rolig om natta r0t
 # segstart = 424.752
 # segstop = 435.721
-# speaker = eo
-# text = mm # det er liksom rolig om natta
-1	mm	mm	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	er	være	verb	verb	_	0	FINV	_	_
-5	liksom	liksom	adv	adv	_	4	ADV	_	_
-6	rolig	rolig	adj	adj	_	4	SPRED	_	_
-7	om	om	prep	prep	_	4	ADV	_	_
-8	natta	natt	subst	subst	_	7	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 129
+# speaker = eo
+# id = 128
+# annotator = SR
+1	mm	mm	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	9	FINV	_	_
+5	liksom	liksom	adv	_	_	4	ADV	_	_
+6	rolig	rolig	adj	_	ub|pos|nøyt|ent	4	SPRED	_	_
+7	om	om	prep	_	_	4	ADV	_	_
+8	natta	natt	subst	_	be|fem|ent|appell	7	PUTFYLL	_	_
+9	r0t	_	_	_	_	0	root	_	_
+
+# text = * mm r0t
 # segstart = 424.752
 # segstop = 430.165
-# speaker = roemskog_04gk
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 130
+# speaker = roemskog_04gk
+# id = 129
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = m # _front-click_ type med # sjøen og sånn den var jo helt fantastisk fin r0t
 # segstart = 430.165
 # segstop = 435.721
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = m # type med # sjøen og sånn den var jo helt fantastisk fin
-1	m	m	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	type	type	subst	subst	_	0	FRAG	_	_
-4	med	med	prep	prep	_	3	ATR	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	sjøen	sjø	subst	subst	_	4	PUTFYLL	_	_
-7	og	og	konj	konj	_	8	KONJ	_	_
-8	sånn	sånn	adv	adv	_	6	KOORD	_	_
-9	den	den	pron	pron	_	10	SUBJ	_	_
-10	var	være	verb	verb	_	3	KOORD	_	_
-11	jo	jo	adv	adv	_	10	ADV	_	_
-12	helt	hele	adj	adj	_	13	ADV	_	_
-13	fantastisk	fantastisk	adj	adj	_	14	ADV	_	_
-14	fin	fin	adj	adj	_	10	SPRED	_	_
-
+# id = 130
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 131
+1	m	m	nol	_	_	4	FYLL	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	4	FYLL	_	_
+4	type	type	subst	_	ub|mask|ent|appell	10	APP	_	_
+5	med	med	prep	_	_	4	ATR	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	sjøen	sjø	subst	_	be|mask|ent|appell	5	PUTFYLL	_	_
+8	og	og	konj	_	_	9	KONJ	_	_
+9	sånn	sånn	adv	_	_	7	KOORD	_	_
+10	den	den	pron	_	nøyt|3|ent|pers	11	SUBJ	_	_
+11	var	være	verb	_	pret	16	FINV	_	_
+12	jo	jo	adv	_	_	11	ADV	_	_
+13	helt	hele	adj	_	ub|pos|nøyt|ent	14	ADV	_	_
+14	fantastisk	fantastisk	adj	_	ub|pos|m/f|ent	15	ADV	_	_
+15	fin	fin	adj	_	ub|pos|m/f|ent	11	SPRED	_	_
+16	r0t	_	_	_	_	0	root	_	_
+
+# text = * e r0t
 # segstart = 430.165
 # segstop = 435.721
-# speaker = roemskog_04gk
-# text = * e
-1	*	*	pause	pause	_	0	IK	_	_
-2	e	e	nol	nol	_	1	FYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 132
+# speaker = roemskog_04gk
+# id = 131
+# annotator = SR
+1	*	*	pause	_	_	3	IK	_	_
+2	e	e	nol	_	_	1	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja da # og den er jo viktig for meg au ja da bevares r0t
 # segstart = 435.721
 # segstop = 438.44
-# speaker = roemskog_04gk
-# text = ja da # og den er jo viktig for meg au ja da bevares
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	da	da	adv	adv	_	1	ADV	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	og	og	konj	konj	_	6	KONJ	_	_
-5	den	den	pron	pron	_	6	SUBJ	_	_
-6	er	være	verb	verb	_	0	FINV	_	_
-7	jo	jo	adv	adv	_	6	ADV	_	_
-8	viktig	viktig	adj	adj	_	6	SPRED	_	_
-9	for	for	prep	prep	_	8	ADV	_	_
-10	meg	meg	pron	pron	_	9	PUTFYLL	_	_
-11	au	au	adv	adv	_	6	ADV	_	_
-12	ja	ja	interj	interj	_	6	INTERJ	_	_
-13	da	da	adv	adv	_	12	ADV	_	_
-14	bevares	bevares	interj	interj	_	12	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 133
+# speaker = roemskog_04gk
+# id = 132
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	da	da	adv	_	_	1	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	og	og	konj	_	_	6	KONJ	_	_
+5	den	den	pron	_	fem|3|ent|pers	6	SUBJ	_	_
+6	er	være	verb	_	pres	15	FINV	_	_
+7	jo	jo	adv	_	_	6	ADV	_	_
+8	viktig	viktig	adj	_	ub|pos|m/f|ent	6	SPRED	_	_
+9	for	for	prep	_	_	8	ADV	_	_
+10	meg	meg	pron	_	akk|1|ent|hum	9	PUTFYLL	_	_
+11	au	au	adv	_	_	6	ADV	_	_
+12	ja	ja	interj	_	_	6	INTERJ	_	_
+13	da	da	adv	_	_	12	ADV	_	_
+14	bevares	bevares	interj	_	_	12	INTERJ	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = ehe r0t
 # segstart = 438.44
 # segstop = 438.822
-# speaker = eo
-# text = ehe
-1	ehe	ehe	nol	nol	_	0	FYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 134
+# speaker = eo
+# id = 133
+# annotator = SR
+1	ehe	ehe	nol	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # veldig r0t
 # segstart = 438.822
 # segstop = 440.783
-# speaker = roemskog_04gk
-# text = ja # veldig
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	veldig	veldig	adj	adj	_	1	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 136
+# speaker = roemskog_04gk
+# id = 134
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	veldig	veldig	adj	_	ub|pos|nøyt|ent	1	ADV	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 438.822
+# segstop = 440.783
+# file = roemskog_04gk-eo
+# speaker = eo
+# id = 135
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = bruker du er det vanlig å ha båt på den holdt jeg på å si eller r0t
 # segstart = 440.783
 # segstop = 443.658
-# speaker = eo
-# text = bruker du er det vanlig å ha båt på den holdt jeg på å si eller
-1	bruker	bruke	verb	verb	_	3	REP	_	_
-2	du	du	pron	pron	_	1	SUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	vanlig	vanlig	adj	adj	_	3	SPRED	_	_
-6	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
-7	ha	ha	verb	verb	_	6	INFV	_	_
-8	båt	båt	subst	subst	_	7	DOBJ	_	_
-9	på	på	prep	prep	_	7	ADV	_	_
-10	den	den	det	det	_	9	PUTFYLL	_	_
-11	holdt	holde	verb	verb	_	3	PAR	_	_
-12	jeg	jeg	pron	pron	_	11	SUBJ	_	_
-13	på	på	prep	prep	_	11	ADV	_	_
-14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	_
-15	si	si	verb	verb	_	14	INFV	_	_
-16	eller	eller	konj	konj	_	3	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 138
+# speaker = eo
+# id = 136
+# annotator = SR
+1	bruker	bruke	verb	_	pres	3	REP	_	_
+2	du	du	pron	_	nom|2|ent|hum	1	SUBJ	_	_
+3	er	være	verb	_	pres	17	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	vanlig	vanlig	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+6	å	å	inf-merke	_	_	3	PSUBJ	_	_
+7	ha	ha	verb	_	inf	6	INFV	_	_
+8	båt	båt	subst	_	ub|mask|ent|appell	7	DOBJ	_	_
+9	på	på	prep	_	_	7	ADV	_	_
+10	den	den	det	_	mask|ent|dem	9	PUTFYLL	_	_
+11	holdt	holde	verb	_	pret	3	PAR	_	_
+12	jeg	jeg	pron	_	nom|1|ent|hum	11	SUBJ	_	_
+13	på	på	prep	_	_	11	ADV	_	_
+14	å	å	inf-merke	_	_	13	PUTFYLL	_	_
+15	si	si	verb	_	inf	14	INFV	_	_
+16	eller	eller	konj	_	_	3	KONJ	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 440.783
+# segstop = 443.658
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 137
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det er det r0t
 # segstart = 443.658
 # segstop = 444.35
-# speaker = roemskog_04gk
-# text = ja det er det
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	SUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	SPRED	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 139
+# speaker = roemskog_04gk
+# id = 138
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	5	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 444.35
 # segstop = 444.694
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 140
+# speaker = eo
+# id = 139
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # de aller fleste har nok det trur jeg en liten e # liten båt så de kommer seg utpå liksom r0t
 # segstart = 444.694
 # segstop = 450.799
-# speaker = roemskog_04gk
-# text = ja # de aller fleste har nok det trur jeg en liten e # liten båt så de kommer seg utpå liksom
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	de	de	det	det	_	5	DET	_	_
-4	aller	aller	adv	adv	_	5	ADV	_	_
-5	fleste	mange	adj	adj	_	6	SUBJ	_	_
-6	har	ha	verb	verb	_	0	FINV	_	_
-7	nok	nok	adv	adv	_	6	ADV	_	_
-8	det	det	pron	pron	_	6	DOBJ	_	_
-9	trur	tru	verb	verb	_	6	PAR	_	_
-10	jeg	jeg	pron	pron	_	9	SUBJ	_	_
-11	en	en	det	det	_	16	DET	_	_
-12	liten	liten	adj	adj	_	15	REP	_	_
-13	e	e	nol	nol	_	15	FYLL	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	liten	liten	adj	adj	_	16	ATR	_	_
-16	båt	båt	subst	subst	_	8	APP	_	_
-17	så	så	sbu	sbu	_	19	SBU	_	_
-18	de	de	pron	pron	_	19	SUBJ	_	_
-19	kommer	komme	verb	verb	_	6	ADV	_	_
-20	seg	seg	pron	pron	_	19	DOBJ	_	_
-21	utpå	utpå	prep	prep	_	19	ADV	_	_
-22	liksom	liksom	adv	adv	_	19	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 141
+# speaker = roemskog_04gk
+# id = 140
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	de	de	det	_	fl|dem	5	DET	_	_
+4	aller	aller	adv	_	_	5	ADV	_	_
+5	fleste	mange	adj	_	be|sup	6	SUBJ	_	_
+6	har	ha	verb	_	pres	23	FINV	_	_
+7	nok	nok	adv	_	_	6	ADV	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+9	trur	tru	verb	_	pres	6	PAR	_	_
+10	jeg	jeg	pron	_	nom|1|ent|hum	9	SUBJ	_	_
+11	en	en	det	_	mask|ent|kvant	16	DET	_	_
+12	liten	liten	adj	_	ub|pos|m/f|ent	15	REP	_	_
+13	e	e	nol	_	_	15	FYLL	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	liten	liten	adj	_	ub|pos|m/f|ent	16	ATR	_	_
+16	båt	båt	subst	_	ub|mask|ent|appell	8	APP	_	_
+17	så	så	sbu	_	_	19	SBU	_	_
+18	de	de	pron	_	nom|3|fl|pers	19	SUBJ	_	_
+19	kommer	komme	verb	_	pres	6	ADV	_	_
+20	seg	seg	pron	_	akk|refl	19	DOBJ	_	_
+21	utpå	utpå	prep	_	_	19	ADV	_	_
+22	liksom	liksom	adv	_	_	19	ADV	_	_
+23	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 450.799
 # segstop = 451.299
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 142
+# speaker = eo
+# id = 141
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # og særlig nå e er det viktig synes jeg for det at en e folk har jo e # oppdaga e perla r0t
 # segstart = 451.299
 # segstop = 460.313
-# speaker = roemskog_04gk
-# text = ja # og særlig nå e er det viktig synes jeg for det at en e folk har jo e # oppdaga e perla
-1	ja	ja	interj	interj	_	7	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	og	og	konj	konj	_	7	KONJ	_	_
-4	særlig	særlig	adj	adj	_	5	ADV	_	_
-5	nå	nå	adv	adv	_	7	ADV	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	er	være	verb	verb	_	0	FINV	_	_
-8	det	det	pron	pron	_	7	FSUBJ	_	_
-9	viktig	viktig	adj	adj	_	7	SPRED	_	_
-10	synes	synes	verb	verb	_	7	PAR	_	_
-11	jeg	jeg	pron	pron	_	10	SUBJ	_	_
-12	for	for	konj	konj	_	18	SBU	_	_
-13	det	det	pron	pron	_	12	FLAT	_	_
-14	at	at	sbu	sbu	_	12	FLAT	_	_
-15	en	en	pron	pron	_	17	REP	_	_
-16	e	e	nol	nol	_	17	FYLL	_	_
-17	folk	folk	subst	subst	_	18	SUBJ	_	_
-18	har	ha	verb	verb	_	7	ADV	_	_
-19	jo	jo	adv	adv	_	22	ADV	_	_
-20	e	e	nol	nol	_	22	FYLL	_	_
-21	#	#	pause	pause	_	22	IK	_	_
-22	oppdaga	oppdage	verb	verb	_	18	INFV	_	_
-23	e	e	nol	nol	_	24	FYLL	_	_
-24	perla	perle	subst	subst	_	22	DOBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 143
+# speaker = roemskog_04gk
+# id = 142
+# annotator = SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	7	KONJ	_	_
+4	særlig	særlig	adj	_	ub|pos|nøyt|ent	5	ADV	_	_
+5	nå	nå	adv	_	_	7	ADV	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	er	være	verb	_	pres	25	FINV	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+9	viktig	viktig	adj	_	ub|pos|nøyt|ent	7	SPRED	_	_
+10	synes	synes	verb	_	pres	7	PAR	_	_
+11	jeg	jeg	pron	_	nom|1|ent|hum	10	SUBJ	_	_
+12	for	for	konj	_	_	18	SBU	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	FLAT	_	_
+14	at	at	sbu	_	_	12	FLAT	_	_
+15	en	en	pron	_	nom|ent|hum	17	REP	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	folk	folk	subst	_	ub|nøyt|fl|appell	18	SUBJ	_	_
+18	har	ha	verb	_	pres	7	ADV	_	_
+19	jo	jo	adv	_	_	22	ADV	_	_
+20	e	e	nol	_	_	22	FYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	oppdaga	oppdage	verb	_	perf-part	18	INFV	_	_
+23	e	e	nol	_	_	24	FYLL	_	_
+24	perla	perle	subst	_	be|fem|ent|appell	22	DOBJ	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = så det er vanskeligere å komme e til de gode fine plasser liksom hvis en vil ut en ettermiddag eller noe sånt noe så r0t
 # segstart = 460.313
 # segstop = 467.497
-# speaker = roemskog_04gk
-# text = så det er vanskeligere å komme e til de gode fine plasser liksom hvis en vil ut en ettermiddag eller noe sånt noe så
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	vanskeligere	vanskelig	adj	adj	_	3	SPRED	_	_
-5	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
-6	komme	komme	verb	verb	_	5	INFV	_	_
-7	e	e	nol	nol	_	8	FYLL	_	_
-8	til	til	prep	prep	_	6	ADV	_	_
-9	de	de	det	det	_	12	DET	_	_
-10	gode	god	adj	adj	_	12	ATR	_	_
-11	fine	fin	adj	adj	_	12	ATR	_	_
-12	plasser	plass	subst	subst	_	8	PUTFYLL	_	_
-13	liksom	liksom	adv	adv	_	6	ADV	_	_
-14	hvis	hvis	sbu	sbu	_	16	SBU	_	_
-15	en	en	pron	pron	_	16	SUBJ	_	_
-16	vil	ville	verb	verb	_	3	ADV	_	_
-17	ut	ut	prep	prep	_	16	ADV	_	_
-18	en	en	det	det	_	19	DET	_	_
-19	ettermiddag	ettermiddag	subst	subst	_	16	ADV	_	_
-20	eller	eller	konj	konj	_	23	KONJ	_	_
-21	noe	noe	det	det	_	22	DET	_	_
-22	sånt	sånt	det	det	_	23	KOORD	_	_
-23	noe	noe	pron	pron	_	16	ADV	_	_
-24	så	så	konj	konj	_	16	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 144
+# speaker = roemskog_04gk
+# id = 143
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	25	FINV	_	_
+4	vanskeligere	vanskelig	adj	_	komp	3	SPRED	_	_
+5	å	å	inf-merke	_	_	3	PSUBJ	_	_
+6	komme	komme	verb	_	inf	5	INFV	_	_
+7	e	e	nol	_	_	8	FYLL	_	_
+8	til	til	prep	_	_	6	ADV	_	_
+9	de	de	det	_	fl|dem	12	DET	_	_
+10	gode	god	adj	_	pos|fl	12	ATR	_	_
+11	fine	fin	adj	_	pos|fl	12	ATR	_	_
+12	plasser	plass	subst	_	ub|mask|fl|appell	8	PUTFYLL	_	_
+13	liksom	liksom	adv	_	_	6	ADV	_	_
+14	hvis	hvis	sbu	_	_	16	SBU	_	_
+15	en	en	pron	_	nom|ent|hum	16	SUBJ	_	_
+16	vil	ville	verb	_	pres	3	ADV	_	_
+17	ut	ut	prep	_	_	16	ADV	_	_
+18	en	en	det	_	mask|ent|kvant	19	DET	_	_
+19	ettermiddag	ettermiddag	subst	_	ub|mask|ent|appell	16	ADV	_	_
+20	eller	eller	konj	_	_	23	KONJ	_	_
+21	noe	noe	det	_	nøyt|ent|kvant	22	DET	_	_
+22	sånt	sånt	det	_	nøyt|ent|dem	23	KOORD	_	_
+23	noe	noe	pron	_	nøyt|3|ent|pers	16	ADV	_	_
+24	så	så	konj	_	_	16	KONJ	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = da tar vi e # kan vi ta båten og reise ut på ei øy # og ta # eftaskaffen r0t
 # segstart = 467.497
 # segstop = 473.811
-# speaker = roemskog_04gk
-# text = da tar vi e # kan vi ta båten og reise ut på ei øy # og ta # eftaskaffen
-1	da	da	adv	adv	_	6	ADV	_	_
-2	tar	ta	verb	verb	_	6	REP	_	_
-3	vi	vi	pron	pron	_	2	SUBJ	_	_
-4	e	e	nol	nol	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	kan	kunne	verb	verb	_	0	FINV	_	_
-7	vi	vi	pron	pron	_	6	SUBJ	_	_
-8	ta	ta	verb	verb	_	6	INFV	_	_
-9	båten	båt	subst	subst	_	8	DOBJ	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	reise	reise	verb	verb	_	8	KOORD	_	_
-12	ut	ut	prep	prep	_	11	ADV	_	_
-13	på	på	prep	prep	_	12	PUTFYLL	_	_
-14	ei	ei	det	det	_	15	DET	_	_
-15	øy	øy	subst	subst	_	13	PUTFYLL	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	og	og	konj	konj	_	18	KONJ	_	_
-18	ta	ta	verb	verb	_	8	KOORD	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	eftaskaffen	eftaskaffe	subst	subst	_	18	DOBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 145
+# speaker = roemskog_04gk
+# id = 144
+# annotator = SR
+1	da	da	adv	_	_	6	ADV	_	_
+2	tar	ta	verb	_	pres	6	REP	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	kan	kunne	verb	_	pres	21	FINV	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	6	SUBJ	_	_
+8	ta	ta	verb	_	inf	6	INFV	_	_
+9	båten	båt	subst	_	be|mask|ent|appell	8	DOBJ	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	reise	reise	verb	_	inf	8	KOORD	_	_
+12	ut	ut	prep	_	_	11	ADV	_	_
+13	på	på	prep	_	_	12	PUTFYLL	_	_
+14	ei	ei	det	_	fem|ent|kvant	15	DET	_	_
+15	øy	øy	subst	_	ub|fem|ent|appell	13	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	og	og	konj	_	_	18	KONJ	_	_
+18	ta	ta	verb	_	inf	8	KOORD	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	eftaskaffen	eftaskaffe	subst	_	ub|mask|ent|samset	18	DOBJ	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # herlig r0t
 # segstart = 473.811
 # segstop = 475.719
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = ja # herlig
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	herlig	herlig	adj	adj	_	1	ADV	_	_
-
+# id = 145
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 146
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	herlig	herlig	adj	_	ub|pos|m/f|ent	1	ADV	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = * mm _laughter_ r0t
 # segstart = 473.811
 # segstop = 475.719
-# speaker = roemskog_04gk
-# text = * mm
-1	*	*	pause	pause	_	0	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 147
+# speaker = roemskog_04gk
+# id = 146
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	4	INTERJ	_	_
+3	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 475.719
 # segstop = 477.221
-# speaker = roemskog_04gk
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 148
+# speaker = roemskog_04gk
+# id = 147
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = m # _front-click_ jeg vet ikke # er Rømskog type en typisk fraflyttingskommune holdt jeg på å si # de unge søker de vekk ? r0t
 # segstart = 477.221
 # segstop = 486.546
-# speaker = eo
-# text = m # jeg vet ikke # er Rømskog type en typisk fraflyttingskommune holdt jeg på å si # de unge søker de vekk ?
-1	m	m	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-4	vet	vite	verb	verb	_	7	PAR	_	_
-5	ikke	ikke	adv	adv	_	4	ADV	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	er	være	verb	verb	_	0	FINV	_	_
-8	Rømskog	Rømskog	subst	subst	_	7	SUBJ	_	_
-9	type	type	subst	subst	_	12	DET	_	_
-10	en	en	det	det	_	12	DET	_	_
-11	typisk	typisk	adj	adj	_	12	ATR	_	_
-12	fraflyttingskommune	fraflyttingskommune	subst	subst	_	7	SPRED	_	_
-13	holdt	holde	verb	verb	_	7	PAR	_	_
-14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-15	på	på	prep	prep	_	13	ADV	_	_
-16	å	å	inf-merke	inf-merke	_	15	PUTFYLL	_	_
-17	si	si	verb	verb	_	16	INFV	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	de	de	det	det	_	20	DET	_	_
-20	unge	ung	adj	adj	_	22	APP	_	_
-21	søker	søke	verb	verb	_	7	KOORD	_	_
-22	de	de	pron	pron	_	21	SUBJ	_	_
-23	vekk	vekk	prep	prep	_	21	ADV	_	_
-24	?	?	clb	clb	_	7	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 149
+# speaker = eo
+# id = 148
+# annotator = SR
+1	m	m	nol	_	_	4	FYLL	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	4	FYLL	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+5	vet	vite	verb	_	pres	8	PAR	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	er	være	verb	_	pres	26	FINV	_	_
+9	Rømskog	Rømskog	subst	_	prop	8	SUBJ	_	_
+10	type	type	subst	_	ub|mask|ent|appell	13	DET	_	_
+11	en	en	det	_	mask|ent|kvant	13	DET	_	_
+12	typisk	typisk	adj	_	ub|pos|m/f|ent	13	ATR	_	_
+13	fraflyttingskommune	fraflyttingskommune	subst	_	ub|mask|ent|samset	8	SPRED	_	_
+14	holdt	holde	verb	_	pret	8	PAR	_	_
+15	jeg	jeg	pron	_	nom|1|ent|hum	14	SUBJ	_	_
+16	på	på	prep	_	_	14	ADV	_	_
+17	å	å	inf-merke	_	_	16	PUTFYLL	_	_
+18	si	si	verb	_	inf	17	INFV	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	de	de	det	_	fl|dem	21	DET	_	_
+21	unge	ung	adj	_	pos|fl	23	APP	_	_
+22	søker	søke	verb	_	pres	8	KOORD	_	_
+23	de	de	pron	_	nom|2|fl|hum	22	SUBJ	_	_
+24	vekk	vekk	prep	_	_	22	ADV	_	_
+25	?	?	clb	_	_	8	IP	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = de søker jo vekk for å komme på skoler og e # og e # og få seg jobb og sånn r0t
 # segstart = 486.546
 # segstop = 493.009
-# speaker = roemskog_04gk
-# text = de søker jo vekk for å komme på skoler og e # og e # og få seg jobb og sånn
-1	de	de	pron	pron	_	2	SUBJ	_	_
-2	søker	søke	verb	verb	_	0	FINV	_	_
-3	jo	jo	adv	adv	_	2	ADV	_	_
-4	vekk	vekk	prep	prep	_	2	ADV	_	_
-5	for	for	prep	prep	_	2	ADV	_	_
-6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
-7	komme	komme	verb	verb	_	6	INFV	_	_
-8	på	på	prep	prep	_	7	ADV	_	_
-9	skoler	skole	subst	subst	_	8	PUTFYLL	_	_
-10	og	og	konj	konj	_	13	REP	_	_
-11	e	e	nol	nol	_	13	FYLL	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	og	og	konj	konj	_	16	REP	_	_
-14	e	e	nol	nol	_	16	FYLL	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	og	og	konj	konj	_	17	KONJ	_	_
-17	få	få	verb	verb	_	7	KOORD	_	_
-18	seg	seg	pron	pron	_	17	IOBJ	_	_
-19	jobb	jobb	subst	subst	_	17	DOBJ	_	_
-20	og	og	konj	konj	_	21	KONJ	_	_
-21	sånn	sånn	adv	adv	_	17	KOORD	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 150
+# speaker = roemskog_04gk
+# id = 149
+# annotator = SR
+1	de	de	pron	_	nom|2|fl|hum	2	SUBJ	_	_
+2	søker	søke	verb	_	pres	22	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	vekk	vekk	prep	_	_	2	ADV	_	_
+5	for	for	prep	_	_	2	ADV	_	_
+6	å	å	inf-merke	_	_	5	PUTFYLL	_	_
+7	komme	komme	verb	_	inf	6	INFV	_	_
+8	på	på	prep	_	_	7	ADV	_	_
+9	skoler	skole	subst	_	ub|mask|fl|appell	8	PUTFYLL	_	_
+10	og	og	konj	_	_	13	REP	_	_
+11	e	e	nol	_	_	13	FYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	og	og	konj	_	_	16	REP	_	_
+14	e	e	nol	_	_	16	FYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	og	og	konj	_	_	17	KONJ	_	_
+17	få	få	verb	_	inf	7	KOORD	_	_
+18	seg	seg	pron	_	akk|refl	17	IOBJ	_	_
+19	jobb	jobb	subst	_	ub|mask|ent|appell	17	DOBJ	_	_
+20	og	og	konj	_	_	21	KONJ	_	_
+21	sånn	sånn	adv	_	_	19	KOORD	_	_
+22	r0t	_	_	_	_	0	root	_	_
+
+# text = mange må det men vi opplever jo at mange # k- eller flere da i hvert fall kommer tilbake au root
 # segstart = 493.009
 # segstop = 498.184
-# speaker = roemskog_04gk
-# text = mange må det men vi opplever jo at mange # k- eller flere da i hvert fall kommer tilbake au
-1	mange	mange	adj	adj	_	2	SUBJ	_	_
-2	må	måtte	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	DOBJ	_	_
-4	men	men	konj	konj	_	6	KONJ	_	_
-5	vi	vi	pron	pron	_	6	SUBJ	_	_
-6	opplever	oppleve	verb	verb	_	2	KOORD	_	_
-7	jo	jo	adv	adv	_	6	ADV	_	_
-8	at	at	sbu	sbu	_	18	SBU	_	_
-9	mange	mange	adj	adj	_	18	SUBJ	_	_
-10	#	#	pause	pause	_	12	IK	_	_
-11	k-	k	ufullst	ufullst	_	12	FYLL	_	_
-12	eller	eller	konj	konj	_	13	KONJ	_	_
-13	flere	mange	adj	adj	_	9	APP	_	_
-14	da	da	adv	adv	_	13	ADV	_	_
-15	i	i	prep	prep	_	18	ADV	_	_
-16	hvert	hver	det	det	_	17	DET	_	_
-17	fall	fall	subst	subst	_	15	PUTFYLL	_	_
-18	kommer	komme	verb	verb	_	6	DOBJ	_	_
-19	tilbake	tilbake	prep	prep	_	18	ADV	_	_
-20	au	au	adv	adv	_	18	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 151
+# speaker = roemskog_04gk
+# id = 150
+# annotator = SR
+1	mange	mange	adj	_	pos|fl	2	SUBJ	_	_
+2	må	måtte	verb	_	pres	21	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
+4	men	men	konj	_	_	6	KONJ	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	6	SUBJ	_	_
+6	opplever	oppleve	verb	_	pres	2	KOORD	_	_
+7	jo	jo	adv	_	_	6	ADV	_	_
+8	at	at	sbu	_	_	18	SBU	_	_
+9	mange	mange	adj	_	pos|fl	18	SUBJ	_	_
+10	#	#	pause	_	_	12	IK	_	_
+11	k-	k	ufullst	_	_	12	FYLL	_	_
+12	eller	eller	konj	_	_	13	KONJ	_	_
+13	flere	mange	adj	_	komp	9	APP	_	_
+14	da	da	adv	_	_	13	ADV	_	_
+15	i	i	prep	_	_	18	ADV	_	_
+16	hvert	hver	det	_	nøyt|ent|kvant	17	DET	_	_
+17	fall	fall	subst	_	ub|nøyt|ent|appell	15	PUTFYLL	_	_
+18	kommer	komme	verb	_	pres	6	DOBJ	_	_
+19	tilbake	tilbake	prep	_	_	18	ADV	_	_
+20	au	au	adv	_	_	18	ADV	_	_
+21	root	_	_	_	_	0	root	_	_
+
+# text = så det har vært temmelig stabilt e innbyggertall her r0t
 # segstart = 498.184
 # segstop = 501.976
-# speaker = roemskog_04gk
-# text = så det har vært temmelig stabilt e innbyggertall her
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	vært	være	verb	verb	_	3	INFV	_	_
-5	temmelig	temmelig	adv	adv	_	6	ADV	_	_
-6	stabilt	stabil	adj	adj	_	8	ATR	_	_
-7	e	e	nol	nol	_	8	FYLL	_	_
-8	innbyggertall	innbyggertall	subst	subst	_	4	SPRED	_	_
-9	her	her	prep	prep	_	4	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 152
+# speaker = roemskog_04gk
+# id = 151
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	har	ha	verb	_	pres	10	FINV	_	_
+4	vært	være	verb	_	perf-part	3	INFV	_	_
+5	temmelig	temmelig	adv	_	_	6	ADV	_	_
+6	stabilt	stabil	adj	_	ub|pos|nøyt|ent	8	ATR	_	_
+7	e	e	nol	_	_	8	FYLL	_	_
+8	innbyggertall	innbyggertall	subst	_	ub|nøyt|ent|samset	4	SPRED	_	_
+9	her	her	prep	_	_	4	ADV	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 501.976
 # segstop = 502.257
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 153
+# speaker = eo
+# id = 152
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # men e # men det er klart at # det er mange som må bort e og da er det jobb og r0t
 # segstart = 502.257
 # segstop = 509.793
-# speaker = roemskog_04gk
-# text = ja # men e # men det er klart at # det er mange som må bort e og da er det jobb og
-1	ja	ja	interj	interj	_	8	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	men	men	konj	konj	_	6	REP	_	_
-4	e	e	nol	nol	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	men	men	konj	konj	_	8	KONJ	_	_
-7	det	det	pron	pron	_	8	FSUBJ	_	_
-8	er	være	verb	verb	_	0	FINV	_	_
-9	klart	klar	adj	adj	_	8	SPRED	_	_
-10	at	at	sbu	sbu	_	13	SBU	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	det	det	pron	pron	_	13	FSUBJ	_	_
-13	er	være	verb	verb	_	8	PSUBJ	_	_
-14	mange	mange	adj	adj	_	13	PSUBJ	_	_
-15	som	som	sbu	sbu	_	16	SBU	_	_
-16	må	må	verb	verb	_	14	ATR	_	_
-17	bort	bort	prep	prep	_	16	ADV	_	_
-18	e	e	nol	nol	_	19	FYLL	_	_
-19	og	og	konj	konj	_	21	KONJ	_	_
-20	da	da	adv	adv	_	21	ADV	_	_
-21	er	være	verb	verb	_	8	KOORD	_	_
-22	det	det	pron	pron	_	21	FSUBJ	_	_
-23	jobb	jobb	subst	subst	_	21	SPRED	_	_
-24	og	og	konj	konj	_	21	KONJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 154
+# speaker = roemskog_04gk
+# id = 153
+# annotator = SR
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	6	REP	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	er	være	verb	_	pres	25	FINV	_	_
+9	klart	klar	adj	_	ub|pos|nøyt|ent	8	SPRED	_	_
+10	at	at	sbu	_	_	13	SBU	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	er	være	verb	_	pres	8	PSUBJ	_	_
+14	mange	mange	adj	_	pos|fl	13	PSUBJ	_	_
+15	som	som	sbu	_	_	16	SBU	_	_
+16	må	måtte	verb	_	pres	14	ATR	_	_
+17	bort	bort	prep	_	_	16	ADV	_	_
+18	e	e	nol	_	_	19	FYLL	_	_
+19	og	og	konj	_	_	21	KONJ	_	_
+20	da	da	adv	_	_	21	ADV	_	_
+21	er	være	verb	_	pres	8	KOORD	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	21	FSUBJ	_	_
+23	jobb	jobb	subst	_	ub|mask|ent|appell	21	SPRED	_	_
+24	og	og	konj	_	_	21	KONJ	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # hva tror du på en måte # skal til for å få enda flere tilbake # er det noe som kunne vært endra eller ? r0t
 # segstart = 509.793
 # segstop = 518.187
-# speaker = eo
-# text = mm # hva tror du på en måte # skal til for å få enda flere tilbake # er det noe som kunne vært endra eller ?
-1	mm	mm	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	hva	hva	pron	pron	_	10	SUBJ	_	_
-4	tror	tro	verb	verb	_	0	FINV	_	_
-5	du	du	pron	pron	_	4	SUBJ	_	_
-6	på	på	prep	prep	_	10	ADV	_	_
-7	en	en	det	det	_	8	DET	_	_
-8	måte	måte	subst	subst	_	6	PUTFYLL	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	skal	skulle	verb	verb	_	4	DOBJ	_	_
-11	til	til	prep	prep	_	10	ADV	_	_
-12	for	for	prep	prep	_	10	ADV	_	_
-13	å	å	inf-merke	inf-merke	_	12	PUTFYLL	_	_
-14	få	få	verb	verb	_	13	INFV	_	_
-15	enda	enda	adv	adv	_	16	ADV	_	_
-16	flere	mange	adj	adj	_	14	DOBJ	_	_
-17	tilbake	tilbake	prep	prep	_	14	ADV	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	er	være	verb	verb	_	4	KOORD	_	_
-20	det	det	pron	pron	_	19	FSUBJ	_	_
-21	noe	noe	pron	pron	_	19	PSUBJ	_	_
-22	som	som	sbu	sbu	_	23	SBU	_	_
-23	kunne	kunne	verb	verb	_	21	ATR	_	_
-24	vært	være	verb	verb	_	23	INFV	_	_
-25	endra	endre	verb	verb	_	24	INFV	_	_
-26	eller	eller	konj	konj	_	19	KONJ	_	_
-27	?	?	clb	clb	_	4	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 156
+# speaker = eo
+# id = 154
+# annotator = SR
+1	mm	mm	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hva	hva	pron	_	sp	10	SUBJ	_	_
+4	tror	tro	verb	_	pres	28	FINV	_	_
+5	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+6	på	på	prep	_	_	10	ADV	_	_
+7	en	en	det	_	mask|ent|kvant	8	DET	_	_
+8	måte	måte	subst	_	ub|mask|ent|appell	6	PUTFYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	skal	skulle	verb	_	pres	4	DOBJ	_	_
+11	til	til	prep	_	_	10	ADV	_	_
+12	for	for	prep	_	_	10	ADV	_	_
+13	å	å	inf-merke	_	_	12	PUTFYLL	_	_
+14	få	få	verb	_	inf	13	INFV	_	_
+15	enda	enda	adv	_	_	16	ADV	_	_
+16	flere	mange	adj	_	komp	14	DOBJ	_	_
+17	tilbake	tilbake	prep	_	_	14	ADV	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	er	være	verb	_	pres	4	KOORD	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+21	noe	noe	pron	_	nøyt|3|ent|pers	19	PSUBJ	_	_
+22	som	som	sbu	_	_	23	SBU	_	_
+23	kunne	kunne	verb	_	pret	21	ATR	_	_
+24	vært	være	verb	_	perf-part	23	INFV	_	_
+25	endra	endre	verb	_	perf-part	24	INFV	_	_
+26	eller	eller	konj	_	_	19	KONJ	_	_
+27	?	?	clb	_	_	4	IP	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = * _uninterpretable_ r0t
+# segstart = 509.793
+# segstop = 518.187
+# file = roemskog_04gk-eo
+# speaker = roemskog_04gk
+# id = 155
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det trur jeg er arbeidsplasser r0t
 # segstart = 518.187
 # segstop = 519.642
-# speaker = roemskog_04gk
-# text = ja det trur jeg er arbeidsplasser
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	5	SUBJ	_	_
-3	trur	tru	verb	verb	_	0	FINV	_	_
-4	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-5	er	være	verb	verb	_	3	DOBJ	_	_
-6	arbeidsplasser	arbeidsplass	subst	subst	_	5	SPRED	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 157
+# speaker = roemskog_04gk
+# id = 156
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+3	trur	tru	verb	_	pres	7	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	er	være	verb	_	pres	3	DOBJ	_	_
+6	arbeidsplasser	arbeidsplass	subst	_	ub|mask|fl|samset	5	SPRED	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 519.642
 # segstop = 519.954
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 158
+# speaker = eo
+# id = 157
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # kunne nok ha endra det for en del r0t
 # segstart = 519.954
 # segstop = 523.195
-# speaker = roemskog_04gk
-# text = ja # kunne nok ha endra det for en del
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	kunne	kunne	verb	verb	_	0	FINV	_	_
-4	nok	nok	adv	adv	_	5	ADV	_	_
-5	ha	ha	verb	verb	_	3	INFV	_	_
-6	endra	endre	verb	verb	_	5	INFV	_	_
-7	det	det	pron	pron	_	6	DOBJ	_	_
-8	for	for	prep	prep	_	6	ADV	_	_
-9	en	en	det	det	_	10	DET	_	_
-10	del	del	subst	subst	_	8	PUTFYLL	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 159
+# speaker = roemskog_04gk
+# id = 158
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	kunne	kunne	verb	_	pret	11	FINV	_	_
+4	nok	nok	adv	_	_	5	ADV	_	_
+5	ha	ha	verb	_	inf	3	INFV	_	_
+6	endra	endre	verb	_	perf-part	5	INFV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+8	for	for	prep	_	_	6	ADV	_	_
+9	en	en	det	_	mask|ent|kvant	10	DET	_	_
+10	del	del	subst	_	ub|mask|ent|appell	8	PUTFYLL	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # ja for har det tradisjonelt vært noe bedrift eller noe sånt noe noe # s- # skog kanskje eller ? r0t
 # segstart = 523.195
 # segstop = 530.683
-# speaker = eo
-# text = ja # ja for har det tradisjonelt vært noe bedrift eller noe sånt noe noe # s- # skog kanskje eller ?
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	ja	ja	interj	interj	_	5	INTERJ	_	_
-4	for	for	konj	konj	_	5	KONJ	_	_
-5	har	ha	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	tradisjonelt	tradisjonell	adj	adj	_	8	ADV	_	_
-8	vært	være	verb	verb	_	5	INFV	_	_
-9	noe	noe	det	det	_	10	DET	_	_
-10	bedrift	bedrift	subst	subst	_	8	PSUBJ	_	_
-11	eller	eller	konj	konj	_	14	KONJ	_	_
-12	noe	noe	det	det	_	13	DET	_	_
-13	sånt	sånt	det	det	_	14	DET	_	_
-14	noe	noe	pron	pron	_	10	KOORD	_	_
-15	noe	noe	det	det	_	19	DET	_	_
-16	#	#	pause	pause	_	19	IK	_	_
-17	s-	s-	ufullst	ufullst	_	19	FYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	skog	skog	subst	subst	_	10	KOORD	_	_
-20	kanskje	kanskje	adv	adv	_	8	ADV	_	_
-21	eller	eller	konj	konj	_	5	KONJ	_	_
-22	?	?	clb	clb	_	5	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 160
+# speaker = eo
+# id = 159
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	5	INTERJ	_	_
+4	for	for	konj	_	_	5	KONJ	_	_
+5	har	ha	verb	_	pres	23	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	tradisjonelt	tradisjonell	adj	_	ub|pos|nøyt|ent	8	ADV	_	_
+8	vært	være	verb	_	perf-part	5	INFV	_	_
+9	noe	noe	det	_	nøyt|ent|kvant	10	DET	_	_
+10	bedrift	bedrift	subst	_	ub|mask|ent|appell	8	PSUBJ	_	_
+11	eller	eller	konj	_	_	14	KONJ	_	_
+12	noe	noe	det	_	nøyt|ent|kvant	13	DET	_	_
+13	sånt	sånt	det	_	nøyt|ent|dem	14	DET	_	_
+14	noe	noe	pron	_	nøyt|3|ent|pers	10	KOORD	_	_
+15	noe	noe	det	_	nøyt|ent|kvant	19	DET	_	_
+16	#	#	pause	_	_	19	IK	_	_
+17	s-	s-	ufullst	_	_	19	FYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	skog	skog	subst	_	ub|mask|ent|appell	10	KOORD	_	_
+20	kanskje	kanskje	adv	_	_	8	ADV	_	_
+21	eller	eller	konj	_	_	5	KONJ	_	_
+22	?	?	clb	_	_	5	IP	_	_
+23	r0t	_	_	_	_	0	root	_	_
+
+# text = ja nei d- nå er det jo en # lite arbeidsplasser i sko- i skauen men e # og vi har en # _uninterpretable_ # solid bedrift # i nabolaget her r0t
 # segstart = 530.683
 # segstop = 539.363
-# speaker = roemskog_04gk
-# text = ja nei d- nå er det jo en # lite arbeidsplasser i sko- i skauen men e # og vi har en # # solid bedrift # i nabolaget her
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	nei	nei	interj	interj	_	5	INTERJ	_	_
-3	d-	d-	ufullst	ufullst	_	4	FYLL	_	_
-4	nå	nå	adv	adv	_	5	ADV	_	_
-5	er	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	jo	jo	adv	adv	_	5	ADV	_	_
-8	en	en	det	det	_	10	REP	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	lite	lite	adj	adj	_	11	ATR	_	_
-11	arbeidsplasser	arbeidsplass	subst	subst	_	5	PSUBJ	_	_
-12	i	i	prep	prep	_	14	REP	_	_
-13	sko-	sko-	ufullst	ufullst	_	14	FYLL	_	_
-14	i	i	prep	prep	_	5	ADV	_	_
-15	skauen	skau	subst	subst	_	14	PUTFYLL	_	_
-16	men	men	konj	konj	_	19	REP	_	_
-17	e	e	nol	nol	_	19	FYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	og	og	konj	konj	_	21	KONJ	_	_
-20	vi	vi	pron	pron	_	21	SUBJ	_	_
-21	har	ha	verb	verb	_	5	KOORD	_	_
-22	en	en	det	det	_	26	DET	_	_
-23	#	#	pause	pause	_	25	IK	_	_
-24	#	#	pause	pause	_	25	IK	_	_
-25	solid	solid	adj	adj	_	26	ATR	_	_
-26	bedrift	bedrift	subst	subst	_	21	DOBJ	_	_
-27	#	#	pause	pause	_	28	IK	_	_
-28	i	i	prep	prep	_	21	ADV	_	_
-29	nabolaget	nabolag	subst	subst	_	28	PUTFYLL	_	_
-30	her	her	prep	prep	_	29	ATR	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 161
+# speaker = roemskog_04gk
+# id = 160
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	nei	nei	interj	_	_	5	INTERJ	_	_
+3	d-	d-	ufullst	_	_	4	FYLL	_	_
+4	nå	nå	adv	_	_	5	ADV	_	_
+5	er	være	verb	_	pres	32	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	jo	jo	adv	_	_	5	ADV	_	_
+8	en	en	det	_	mask|ent|kvant	10	REP	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	lite	lite	adj	_	ub|pos|m/f|ent	11	ATR	_	_
+11	arbeidsplasser	arbeidsplass	subst	_	ub|mask|fl|samset	5	PSUBJ	_	_
+12	i	i	prep	_	_	14	REP	_	_
+13	sko-	sko-	ufullst	_	_	14	FYLL	_	_
+14	i	i	prep	_	_	5	ADV	_	_
+15	skauen	skau	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+16	men	men	konj	_	_	19	REP	_	_
+17	e	e	nol	_	_	19	FYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	og	og	konj	_	_	21	KONJ	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	21	SUBJ	_	_
+21	har	ha	verb	_	pres	5	KOORD	_	_
+22	en	en	det	_	mask|ent|kvant	27	DET	_	_
+23	#	#	pause	_	_	26	IK	_	_
+24	_uninterpretable_	_uninterpretable_	pause	_	_	26	FYLL	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	solid	solid	adj	_	ub|pos|m/f|ent	27	ATR	_	_
+27	bedrift	bedrift	subst	_	ub|mask|ent|appell	21	DOBJ	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	i	i	prep	_	_	21	ADV	_	_
+30	nabolaget	nabolag	subst	_	be|nøyt|ent|appell	29	PUTFYLL	_	_
+31	her	her	prep	_	_	30	ATR	_	_
+32	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 539.363
 # segstop = 539.721
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 162
+# speaker = eo
+# id = 161
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # em # som heter Norveka da de produserer e antenner til flyplasser og blant annet og root
 # segstart = 539.721
 # segstop = 546.566
+# file = roemskog_04gk-eo
 # speaker = roemskog_04gk
-# text = ja # em # som heter Norveka da de produserer e antenner til flyplasser og blant annet og
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	5	IK	_	_
-3	em	em	nol	nol	_	5	FYLL	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	som	som	sbu	sbu	_	6	SBU	_	_
-6	heter	hete	verb	verb	_	0	FINV	_	_
-7	Norveka	Norveka	subst	subst	_	6	SPRED	_	_
-8	da	da	adv	adv	_	6	ADV	_	_
-9	de	de	pron	pron	_	10	SUBJ	_	_
-10	produserer	produsere	verb	verb	_	6	KOORD	_	_
-11	e	e	nol	nol	_	12	FYLL	_	_
-12	antenner	antenne	subst	subst	_	10	DOBJ	_	_
-13	til	til	prep	prep	_	12	ATR	_	_
-14	flyplasser	flyplass	subst	subst	_	13	PUTFYLL	_	_
-15	og	og	konj	konj	_	16	REP	_	_
-16	blant	blant	prep	prep	_	10	ADV	_	_
-17	annet	annen	det	det	_	16	PUTFYLL	_	_
-18	og	og	konj	konj	_	10	KONJ	_	_
-
+# id = 162
 # annotator = SR
-# file = roemskog_04gk-eo
-# id = 163
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	5	IK	_	_
+3	em	em	nol	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	som	som	sbu	_	_	6	SBU	_	_
+6	heter	hete	verb	_	pres	19	FINV	_	_
+7	Norveka	Norveka	subst	_	prop	6	SPRED	_	_
+8	da	da	adv	_	_	6	ADV	_	_
+9	de	de	pron	_	nom|2|fl|hum	10	SUBJ	_	_
+10	produserer	produsere	verb	_	pres	6	KOORD	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	antenner	antenne	subst	_	ub|fem|fl|appell	10	DOBJ	_	_
+13	til	til	prep	_	_	12	ATR	_	_
+14	flyplasser	flyplass	subst	_	ub|mask|fl|samset	13	PUTFYLL	_	_
+15	og	og	konj	_	_	16	SLETT	_	_
+16	blant	blant	prep	_	_	10	ADV	_	_
+17	annet	annen	det	_	ub|nøyt|ent|dem	16	PUTFYLL	_	_
+18	og	og	konj	_	_	10	KONJ	_	_
+19	root	_	_	_	_	0	root	_	_
+
+# text = * hva ? r0t
 # segstart = 539.721
 # segstop = 546.566
-# speaker = eo
-# text = * hva ?
-1	*	*	pause	pause	_	2	IK	_	_
-2	hva	hva	pron	pron	_	0	FRAG	_	_
-3	?	?	clb	clb	_	2	IP	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 164
+# speaker = eo
+# id = 163
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	hva	hva	pron	_	sp	4	FRAG	_	_
+3	?	?	clb	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = å ja r0t
 # segstart = 546.566
 # segstop = 546.91
-# speaker = eo
-# text = å ja
-1	å	å	interj	interj	_	0	INTERJ	_	_
-2	ja	ja	interj	interj	_	1	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 165
+# speaker = eo
+# id = 164
+# annotator = SR
+1	å	å	interj	_	_	3	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # rundt omkring i hele verden har jeg forstått r0t
 # segstart = 546.91
 # segstop = 548.951
-# speaker = roemskog_04gk
-# text = ja # rundt omkring i hele verden har jeg forstått
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	rundt	rundt	prep	prep	_	0	FRAG	_	_
-4	omkring	omkring	prep	prep	_	3	PUTFYLL	_	_
-5	i	i	prep	prep	_	4	PUTFYLL	_	_
-6	hele	hel	adj	adj	_	7	ATR	_	_
-7	verden	verden	subst	subst	_	5	PUTFYLL	_	_
-8	har	ha	verb	verb	_	3	PAR	_	_
-9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-10	forstått	forstå	verb	verb	_	8	INFV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 166
+# speaker = roemskog_04gk
+# id = 165
+# annotator = SR
+1	ja	ja	interj	_	_	11	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	rundt	rundt	prep	_	_	1	ADV	_	_
+4	omkring	omkring	prep	_	_	3	PUTFYLL	_	_
+5	i	i	prep	_	_	4	PUTFYLL	_	_
+6	hele	hel	adj	_	be|pos|ent	7	ATR	_	_
+7	verden	verden	subst	_	ub|mask|ent|appell	5	PUTFYLL	_	_
+8	har	ha	verb	_	pres	1	PAR	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+10	forstått	forstå	verb	_	perf-part	8	INFV	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 548.951
 # segstop = 549.309
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 167
+# speaker = eo
+# id = 166
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # så så den er bra ellers så er det jo kommunen som er den største arbeidsplassen r0t
 # segstart = 549.309
 # segstop = 553.673
-# speaker = roemskog_04gk
-# text = ja # så så den er bra ellers så er det jo kommunen som er den største arbeidsplassen
-1	ja	ja	interj	interj	_	6	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	så	så	konj	konj	_	4	REP	_	_
-4	så	så	konj	konj	_	6	KONJ	_	_
-5	den	den	pron	pron	_	6	SUBJ	_	_
-6	er	være	verb	verb	_	0	FINV	_	_
-7	bra	bra	adj	adj	_	6	SPRED	_	_
-8	ellers	ellers	adv	adv	_	9	APP	_	_
-9	så	så	adv	adv	_	10	ADV	_	_
-10	er	være	verb	verb	_	6	KOORD	_	_
-11	det	det	pron	pron	_	10	FSUBJ	_	_
-12	jo	jo	adv	adv	_	10	ADV	_	_
-13	kommunen	kommune	subst	subst	_	10	SPRED	_	_
-14	som	som	sbu	sbu	_	15	SBU	_	_
-15	er	være	verb	verb	_	13	ATR	_	_
-16	den	den	det	det	_	18	DET	_	_
-17	største	stor	adj	adj	_	18	ATR	_	_
-18	arbeidsplassen	arbeidsplass	subst	subst	_	15	SPRED	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 168
+# speaker = roemskog_04gk
+# id = 167
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	konj	_	_	4	REP	_	_
+4	så	så	konj	_	_	6	KONJ	_	_
+5	den	den	pron	_	fem|3|ent|pers	6	SUBJ	_	_
+6	er	være	verb	_	pres	19	FINV	_	_
+7	bra	bra	adj	_	ub|pos|m/f|ent	6	SPRED	_	_
+8	ellers	ellers	adv	_	_	9	APP	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	er	være	verb	_	pres	6	KOORD	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	jo	jo	adv	_	_	10	ADV	_	_
+13	kommunen	kommune	subst	_	be|mask|ent|appell	10	SPRED	_	_
+14	som	som	sbu	_	_	15	SBU	_	_
+15	er	være	verb	_	pres	13	ATR	_	_
+16	den	den	det	_	mask|ent|dem	18	DET	_	_
+17	største	stor	adj	_	be|sup	18	ATR	_	_
+18	arbeidsplassen	arbeidsplass	subst	_	be|mask|ent|appell	15	SPRED	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 553.673
 # segstop = 554.048
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 169
+# speaker = eo
+# id = 168
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm vi har et eldresenter r0t
 # segstart = 554.048
 # segstop = 555.986
-# speaker = roemskog_04gk
-# text = mm vi har et eldresenter
-1	mm	mm	interj	interj	_	3	INTERJ	_	_
-2	vi	vi	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	et	et	det	det	_	5	DET	_	_
-5	eldresenter	eldresenter	subst	subst	_	3	DOBJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 170
+# speaker = roemskog_04gk
+# id = 169
+# annotator = SR
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	6	FINV	_	_
+4	et	et	det	_	nøyt|ent|kvant	5	DET	_	_
+5	eldresenter	eldresenter	subst	_	ub|nøyt|ent|samset	3	DOBJ	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 555.986
 # segstop = 556.455
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 171
+# speaker = eo
+# id = 170
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # som ligger bak skolen der ## så e # men det er klart at r0t
 # segstart = 556.455
 # segstop = 564.738
-# speaker = roemskog_04gk
-# text = ja # som ligger bak skolen der ## så e # men det er klart at
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	som	som	sbu	sbu	_	4	SBU	_	_
-4	ligger	ligge	verb	verb	_	0	FINV	_	_
-5	bak	bak	prep	prep	_	4	ADV	_	_
-6	skolen	skole	subst	subst	_	5	PUTFYLL	_	_
-7	der	der	prep	prep	_	6	ATR	_	_
-8	##	##	pause	pause	_	9	IK	_	_
-9	så	så	konj	konj	_	12	REP	_	_
-10	e	e	nol	nol	_	12	FYLL	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	men	men	konj	konj	_	14	KONJ	_	_
-13	det	det	pron	pron	_	14	FSUBJ	_	_
-14	er	være	verb	verb	_	4	KOORD	_	_
-15	klart	klare	adj	adj	_	14	SPRED	_	_
-16	at	at	sbu	sbu	_	14	SLETT	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 172
+# speaker = roemskog_04gk
+# id = 171
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	som	som	sbu	_	_	4	SBU	_	_
+4	ligger	ligge	verb	_	pres	17	FINV	_	_
+5	bak	bak	prep	_	_	4	ADV	_	_
+6	skolen	skole	subst	_	be|mask|ent|appell	5	PUTFYLL	_	_
+7	der	der	prep	_	_	6	ATR	_	_
+8	##	##	pause	_	_	9	IK	_	_
+9	så	så	konj	_	_	12	REP	_	_
+10	e	e	nol	_	_	12	FYLL	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	men	men	konj	_	_	14	KONJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	14	FSUBJ	_	_
+14	er	være	verb	_	pres	4	KOORD	_	_
+15	klart	klare	adj	_	ub|pos|nøyt|ent	14	SPRED	_	_
+16	at	at	sbu	_	_	14	SLETT	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = så e så utdanner man seg sant e til sjukepleier for eksempel så har du en mulighet til å komme e tilbake og få en jobb m med tida # og lærer # førskolelærer og sånn root
 # segstart = 564.738
 # segstop = 573.872
-# speaker = roemskog_04gk
-# text = så e så utdanner man seg sant e til sjukepleier for eksempel så har du en mulighet til å komme e tilbake og få en jobb m med tida # og lærer # førskolelærer og sånn
-1	så	så	adv	adv	_	3	REP	_	_
-2	e	e	nol	nol	_	3	FYLL	_	_
-3	så	så	adv	adv	_	4	ADV	_	_
-4	utdanner	utdanne	verb	verb	_	0	FINV	_	_
-5	man	man	pron	pron	_	4	SUBJ	_	_
-6	seg	seg	pron	pron	_	4	DOBJ	_	_
-7	sant	sann	adj	adj	_	4	ADV	_	_
-8	e	e	nol	nol	_	9	FYLL	_	_
-9	til	til	prep	prep	_	13	APP	_	_
-10	sjukepleier	sjukepleier	subst	subst	_	9	PUTFYLL	_	_
-11	for	for	prep	prep	_	9	ADV	_	_
-12	eksempel	eksempel	subst	subst	_	11	PUTFYLL	_	_
-13	så	så	adv	adv	_	14	ADV	_	_
-14	har	ha	verb	verb	_	4	KOORD	_	_
-15	du	du	pron	pron	_	14	SUBJ	_	_
-16	en	en	det	det	_	17	DET	_	_
-17	mulighet	mulighet	subst	subst	_	14	DOBJ	_	_
-18	til	til	prep	prep	_	17	ATR	_	_
-19	å	å	inf-merke	inf-merke	_	18	PUTFYLL	_	_
-20	komme	komme	verb	verb	_	19	INFV	_	_
-21	e	e	nol	nol	_	22	FYLL	_	_
-22	tilbake	tilbake	prep	prep	_	20	ADV	_	_
-23	og	og	konj	konj	_	24	KONJ	_	_
-24	få	få	verb	verb	_	20	KOORD	_	_
-25	en	en	det	det	_	26	DET	_	_
-26	jobb	jobb	subst	subst	_	24	DOBJ	_	_
-27	m	m	nol	nol	_	28	FYLL	_	_
-28	med	med	prep	prep	_	24	ADV	_	_
-29	tida	tid	subst	subst	_	28	PUTFYLL	_	_
-30	#	#	pause	pause	_	31	IK	_	_
-31	og	og	konj	konj	_	32	KONJ	_	_
-32	lærer	lærer	subst	subst	_	4	KOORD	_	_
-33	#	#	pause	pause	_	34	IK	_	_
-34	førskolelærer	førskolelærer	subst	subst	_	32	KOORD	_	_
-35	og	og	konj	konj	_	36	KONJ	_	_
-36	sånn	sånn	adv	adv	_	34	KOORD	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 173
+# speaker = roemskog_04gk
+# id = 172
+# annotator = SR
+1	så	så	konj	_	_	3	REP	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	så	så	konj	_	_	14	KONJ	_	_
+4	utdanner	utdanne	verb	_	pres	13	APP	_	_
+5	man	man	pron	_	nom|ent|hum	4	SUBJ	_	_
+6	seg	seg	pron	_	akk|refl	4	DOBJ	_	_
+7	sant	sann	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+8	e	e	nol	_	_	9	FYLL	_	_
+9	til	til	prep	_	_	4	ADV	_	_
+10	sjukepleier	sjukepleier	subst	_	ub|mask|ent|appell	9	PUTFYLL	_	_
+11	for	for	prep	_	_	9	ADV	_	_
+12	eksempel	eksempel	subst	_	ub|nøyt|fl|appell	11	PUTFYLL	_	_
+13	så	så	adv	_	_	14	ADV	_	_
+14	har	ha	verb	_	pres	37	FINV	_	_
+15	du	du	pron	_	nom|2|ent|hum	14	SUBJ	_	_
+16	en	en	det	_	mask|ent|kvant	17	DET	_	_
+17	mulighet	mulighet	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
+18	til	til	prep	_	_	17	ATR	_	_
+19	å	å	inf-merke	_	_	18	PUTFYLL	_	_
+20	komme	komme	verb	_	inf	19	INFV	_	_
+21	e	e	nol	_	_	22	FYLL	_	_
+22	tilbake	tilbake	prep	_	_	20	ADV	_	_
+23	og	og	konj	_	_	24	KONJ	_	_
+24	få	få	verb	_	inf	20	KOORD	_	_
+25	en	en	det	_	mask|ent|kvant	26	DET	_	_
+26	jobb	jobb	subst	_	ub|mask|ent|appell	24	DOBJ	_	_
+27	m	m	nol	_	_	28	FYLL	_	_
+28	med	med	prep	_	_	24	ADV	_	_
+29	tida	tid	subst	_	be|fem|ent|appell	28	PUTFYLL	_	_
+30	#	#	pause	_	_	31	IK	_	_
+31	og	og	konj	_	_	32	KONJ	_	_
+32	lærer	lærer	subst	_	ub|mask|ent|appell	14	KOORD	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	førskolelærer	førskolelærer	subst	_	ub|mask|ent|appell	32	KOORD	_	_
+35	og	og	konj	_	_	36	KONJ	_	_
+36	sånn	sånn	adv	_	_	34	KOORD	_	_
+37	root	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 573.872
 # segstop = 574.341
-# speaker = eo
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 174
+# speaker = eo
+# id = 173
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # men e mer e # s- spesielle yrker _uninterpretable_ # det da må du ut r0t
 # segstart = 574.341
 # segstop = 580.687
-# speaker = roemskog_04gk
-# text = ja # men e mer e # s- spesielle yrker # det da må du ut
-1	ja	ja	interj	interj	_	14	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	men	men	konj	konj	_	14	KONJ	_	_
-4	e	e	nol	nol	_	5	FYLL	_	_
-5	mer	mer	adj	adj	_	9	ADV	_	_
-6	e	e	nol	nol	_	9	FYLL	_	_
-7	#	#	pause	pause	_	9	IK	_	_
-8	s-	s-	ufullst	ufullst	_	9	FYLL	_	_
-9	spesielle	spesiell	adj	adj	_	10	ATR	_	_
-10	yrker	yrke	subst	subst	_	13	APP	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	det	det	pron	pron	_	13	REP	_	_
-13	da	da	adv	adv	_	14	ADV	_	_
-14	må	måtte	verb	verb	_	0	FINV	_	_
-15	du	du	pron	pron	_	14	SUBJ	_	_
-16	ut	ut	prep	prep	_	14	ADV	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 175
+# speaker = roemskog_04gk
+# id = 174
+# annotator = SR
+1	ja	ja	interj	_	_	15	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	15	KONJ	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	mer	mer	adj	_	komp	9	ADV	_	_
+6	e	e	nol	_	_	9	FYLL	_	_
+7	#	#	pause	_	_	9	IK	_	_
+8	s-	s-	ufullst	_	_	9	FYLL	_	_
+9	spesielle	spesiell	adj	_	pos|fl	10	ATR	_	_
+10	yrker	yrke	subst	_	ub|mask|fl|appell	14	APP	_	_
+11	_uninterpretable_	_uninterpretable_	pause	_	_	13	FYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	14	REP	_	_
+14	da	da	adv	_	_	15	ADV	_	_
+15	må	måtte	verb	_	pres	18	FINV	_	_
+16	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+17	ut	ut	prep	_	_	15	ADV	_	_
+18	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 580.687
 # segstop = 581.062
-# speaker = eo
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 176
+# speaker = eo
+# id = 175
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 581.062
 # segstop = 581.625
-# speaker = roemskog_04gk
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
-# annotator = SR
 # file = roemskog_04gk-eo
-# id = 177
+# speaker = roemskog_04gk
+# id = 176
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hvordan er det med # altså flesteparten av de som bor her jobber de også innenfor kommunen eller er det mest folk som pendler ? r0t
 # segstart = 581.625
 # segstop = 590.393
-# speaker = eo
-# text = hvordan er det med # altså flesteparten av de som bor her jobber de også innenfor kommunen eller er det mest folk som pendler ?
-1	hvordan	hvordan	adv	adv	_	2	SPRED	_	_
-2	er	være	verb	verb	_	13	REP	_	_
-3	det	det	pron	pron	_	2	FSUBJ	_	_
-4	med	med	prep	prep	_	2	ADV	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	altså	altså	adv	adv	_	13	ADV	_	_
-7	flesteparten	flestepart	subst	subst	_	14	APP	_	_
-8	av	av	prep	prep	_	7	ATR	_	_
-9	de	de	pron	pron	_	8	PUTFYLL	_	_
-10	som	som	sbu	sbu	_	11	SBU	_	_
-11	bor	bo	verb	verb	_	9	ATR	_	_
-12	her	her	prep	prep	_	11	ADV	_	_
-13	jobber	jobbe	verb	verb	_	0	KOORD	_	_
-14	de	de	pron	pron	_	13	SUBJ	_	_
-15	også	også	adv	adv	_	13	ADV	_	_
-16	innenfor	innenfor	prep	prep	_	13	ADV	_	_
-17	kommunen	kommune	subst	subst	_	16	PUTFYLL	_	_
-18	eller	eller	konj	konj	_	19	KONJ	_	_
-19	er	være	verb	verb	_	13	KOORD	_	_
-20	det	det	pron	pron	_	19	FSUBJ	_	_
-21	mest	mye	adj	adj	_	22	ATR	_	_
-22	folk	folk	subst	subst	_	19	PSUBJ	_	_
-23	som	som	prep	prep	_	24	SBU	_	_
-24	pendler	pendle	verb	verb	_	22	ATR	_	_
-25	?	?	clb	clb	_	13	IP	_	_
-
 # file = roemskog_04gk-eo
-# id = 178
+# speaker = eo
+# id = 177
+# annotator = SR
+1	hvordan	hvordan	adv	_	_	2	SPRED	_	_
+2	er	være	verb	_	pres	13	REP	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	med	med	prep	_	_	2	ADV	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	altså	altså	adv	_	_	13	ADV	_	_
+7	flesteparten	flestepart	subst	_	be|mask|ent|appell	14	APP	_	_
+8	av	av	prep	_	_	7	ATR	_	_
+9	de	de	pron	_	nom|3|fl|pers	8	PUTFYLL	_	_
+10	som	som	sbu	_	_	11	SBU	_	_
+11	bor	bo	verb	_	pres	9	ATR	_	_
+12	her	her	prep	_	_	11	ADV	_	_
+13	jobber	jobbe	verb	_	pres	26	KOORD	_	_
+14	de	de	pron	_	nom|2|fl|hum	13	SUBJ	_	_
+15	også	også	adv	_	_	13	ADV	_	_
+16	innenfor	innenfor	prep	_	_	13	ADV	_	_
+17	kommunen	kommune	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+18	eller	eller	konj	_	_	19	KONJ	_	_
+19	er	være	verb	_	pres	13	KOORD	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+21	mest	mye	adj	_	ub|sup	22	ATR	_	_
+22	folk	folk	subst	_	ub|nøyt|fl|appell	19	PSUBJ	_	_
+23	som	som	prep	_	_	24	SBU	_	_
+24	pendler	pendle	verb	_	pres	22	ATR	_	_
+25	?	?	clb	_	_	13	IP	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = nei # jeg vil ikke si det er mest folk som pendler det tru- det trur jeg ikke r0t
 # segstart = 590.393
 # segstop = 594.089
-# speaker = roemskog_04gk
-# text = nei # jeg vil ikke si det er mest folk som pendler det tru- det trur jeg ikke
-1	nei	nei	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-4	vil	vil	verb	verb	_	0	FINV	_	_
-5	ikke	ikke	adv	adv	_	6	ADV	_	_
-6	si	si	verb	verb	_	4	INFV	_	_
-7	det	det	pron	pron	_	8	FSUBJ	_	_
-8	er	være	verb	verb	_	4	KOORD	_	_
-9	mest	mye	adj	adj	_	10	ATR	_	_
-10	folk	folk	subst	subst	_	8	SPRED	_	_
-11	som	som	sbu	sbu	_	12	SBU	_	_
-12	pendler	pendle	verb	verb	_	10	ATR	_	_
-13	det	det	pron	pron	_	15	REP	_	_
-14	tru-	tru-	ufullst	ufullst	_	15	FYLL	_	_
-15	det	det	pron	pron	_	16	DOBJ	_	_
-16	trur	tru	verb	verb	_	4	KOORD	_	_
-17	jeg	jeg	pron	pron	_	16	SUBJ	_	_
-18	ikke	ikke	adv	adv	_	16	ADV	_	_
-
 # file = roemskog_04gk-eo
-# id = 179
+# speaker = roemskog_04gk
+# id = 178
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+4	vil	ville	verb	_	pres	19	FINV	_	_
+5	ikke	ikke	adv	_	_	6	ADV	_	_
+6	si	si	verb	_	inf	4	INFV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	er	være	verb	_	pres	6	DOBJ	_	_
+9	mest	mye	adj	_	ub|sup	10	ATR	_	_
+10	folk	folk	subst	_	ub|nøyt|fl|appell	8	PSUBJ	_	_
+11	som	som	sbu	_	_	12	SBU	_	_
+12	pendler	pendle	verb	_	pres	10	ATR	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	15	REP	_	_
+14	tru-	tru-	ufullst	_	_	15	FYLL	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	16	DOBJ	_	_
+16	trur	tru	verb	_	pres	4	KOORD	_	_
+17	jeg	jeg	pron	_	nom|1|ent|hum	16	SUBJ	_	_
+18	ikke	ikke	adv	_	_	16	ADV	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
 # segstart = 594.089
 # segstop = 594.9
+# file = roemskog_04gk-eo
 # speaker = eo
-# text = nei
-1	nei	nei	interj	interj	_	0	INTERJ	_	_
+# id = 179
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
 
-# file = roemskog_04gk-eo
-# id = 180
+# text = * nei r0t
 # segstart = 594.089
 # segstop = 594.9
-# speaker = roemskog_04gk
-# text = * nei
-1	*	*	pause	pause	_	2	IK	_	_
-2	nei	nei	interj	interj	_	0	INTERJ	_	_
-
 # file = roemskog_04gk-eo
-# id = 181
+# speaker = roemskog_04gk
+# id = 180
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = men en del pendler selvfølgelig # ja r0t
 # segstart = 594.9
 # segstop = 597.666
+# file = roemskog_04gk-eo
 # speaker = roemskog_04gk
-# text = men en del pendler selvfølgelig # ja
-1	men	men	konj	konj	_	4	KONJ	_	_
-2	en	en	det	det	_	3	DET	_	_
-3	del	del	subst	subst	_	4	DET	_	_
-4	pendler	pendle	subst	subst	_	0	FINV	_	_
-5	selvfølgelig	selvfølgelig	adv	adv	_	4	ADV	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	ja	ja	interj	interj	_	4	INTERJ	_	_
+# id = 181
+# annotator = SR
+1	men	men	konj	_	_	4	KONJ	_	_
+2	en	en	det	_	mask|ent|kvant	3	DET	_	_
+3	del	del	subst	_	ub|mask|ent|appell	4	SUBJ	_	_
+4	pendler	pendle	verb	_	pres	8	FINV	_	_
+5	selvfølgelig	selvfølgelig	adv	_	_	4	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	ja	ja	interj	_	_	4	INTERJ	_	_
+8	r0t	_	_	_	_	0	root	_	_
 

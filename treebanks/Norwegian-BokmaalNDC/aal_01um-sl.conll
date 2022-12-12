@@ -1,2539 +1,2851 @@
-# file = aal_01um-sl
-# id = 1
+# text = em # det første stedet # nei det # _front-click_ det første spørsmålet # det er da hvor er du født og oppvokst hen ? r0t
 # segstart = 5.246
 # segstop = 11.566
+# file = aal_01um-sl
 # speaker = sl
-# text = em # det første stedet # nei det # det første spørsmålet # det er da hvor er du født og oppvokst hen ?
-1	em	em	ukjent	ukjent	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	det	det	_	5	DET	_	_
-4	første	første	adj	adj	_	5	ATR	_	_
-5	stedet	sted	subst	subst	_	15	SLETT	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	nei	nei	interj	interj	_	15	INTERJ	_	_
-8	det	det	pron	pron	_	10	REP	_	_
-9	#	#	pause	pause	_	8	IK	_	_
-10	det	det	det	det	_	12	DET	_	_
-11	første	første	adj	adj	_	12	ATR	_	_
-12	spørsmålet	spørsmål	subst	subst	_	14	APP	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	det	det	pron	pron	_	15	SUBJ	_	_
-15	er	være	verb	verb	_	18	REP	_	_
-16	da	da	adv	adv	_	15	ADV	_	_
-17	hvor	hvor	adv	adv	_	18	SPRED	_	_
-18	er	være	verb	verb	_	0	FINV	_	_
-19	du	du	pron	pron	_	18	SUBJ	_	_
-20	født	føde	verb	verb	_	18	SPRED	_	_
-21	og	og	konj	konj	_	22	KONJ	_	_
-22	oppvokst	oppvokst	adj	adj	_	20	KOORD	_	_
-23	hen	hen	prep	prep	_	18	ADV	_	_
-24	?	?	clb	clb	_	18	IP	_	_
+# id = 1
+# annotator = VDT
+1	em	em	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	det	_	nøyt|ent|dem	5	DET	_	_
+4	første	første	adj	_	be|pos|ent	5	ATR	_	_
+5	stedet	sted	subst	_	be|nøyt|ent|appell	16	REP	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	nei	nei	interj	_	_	16	INTERJ	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	11	REP	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	_front-click_	_front-click_	pause	_	_	11	FYLL	_	_
+11	det	det	det	_	nøyt|ent|dem	13	DET	_	_
+12	første	første	adj	_	be|pos|ent	13	ATR	_	_
+13	spørsmålet	spørsmål	subst	_	be|nøyt|ent|appell	15	APP	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	16	SUBJ	_	_
+16	er	være	verb	_	pres	26	FINV	_	_
+17	da	da	adv	_	_	16	ADV	_	_
+18	hvor	hvor	adv	_	_	23	ADV	_	_
+19	er	være	verb	_	pres	16	SPRED	_	_
+20	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
+21	født	føde	verb	_	perf-part	19	INFV	_	_
+22	og	og	konj	_	_	23	KONJ	_	_
+23	oppvokst	oppvokse	verb	_	perf-part	21	KOORD	_	_
+24	hen	hen	prep	_	_	23	ADV	_	_
+25	?	?	clb	_	_	19	IP	_	_
+26	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 2
+# text = * mm r0t
 # segstart = 5.246
 # segstop = 11.566
-# speaker = aal_01um
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 3
+# speaker = aal_01um
+# id = 2
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # jeg er vel på født på Drammen sjukehus trur jeg # e _clears-throat_ og så har jeg vokst opp i fjellbygda Vass r0t
 # segstart = 11.566
 # segstop = 21.677
-# speaker = aal_01um
-# text = ja # jeg jeg vel på født på Drammen sjukehus trur jeg # e og så har jeg vokst opp i fjellbygda Vass
-1	ja	ja	interj	interj	_	11	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	jeg	jeg	pron	pron	_	4	REP	_	_
-4	jeg	jeg	pron	pron	_	11	SUBJ	_	_
-5	vel	vel	adv	adv	_	11	ADV	_	_
-6	på	på	prep	prep	_	11	ADV	_	_
-7	født	føde	subst	subst	_	6	PUTFYLL	_	_
-8	på	på	prep	prep	_	7	ADV	_	_
-9	Drammen	Drammen	subst	subst	_	8	PUTFYLL	_	_
-10	sjukehus	sjukehus	subst	subst	_	9	FLAT	_	_
-11	trur	tru	verb	verb	_	0	FINV	_	_
-12	jeg	jeg	pron	pron	_	11	DOBJ	_	_
-13	#	#	pause	pause	_	15	IK	_	_
-14	e	e	nol	nol	_	15	FYLL	_	_
-15	og	og	konj	konj	_	17	KONJ	_	_
-16	så	så	adv	adv	_	17	ADV	_	_
-17	har	ha	verb	verb	_	11	KOORD	_	_
-18	jeg	jeg	pron	pron	_	17	SUBJ	_	_
-19	vokst	vokse	verb	verb	_	17	INFV	_	_
-20	opp	opp	prep	prep	_	19	ADV	_	_
-21	i	i	prep	prep	_	19	ADV	_	_
-22	fjellbygda	fjellbygde	subst	subst	_	23	APP	_	_
-23	Vass	Vass	subst	subst	_	21	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 4
+# speaker = aal_01um
+# id = 3
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+4	er	være	verb	_	pres	25	FINV	_	_
+5	vel	vel	adv	_	_	4	ADV	_	_
+6	på	på	prep	_	_	7	SLETT	_	_
+7	født	føde	verb	_	perf-part	4	INFV	_	_
+8	på	på	prep	_	_	7	ADV	_	_
+9	Drammen	Drammen	subst	_	prop	8	PUTFYLL	_	_
+10	sjukehus	sjukehus	subst	_	ub|nøyt|ent|appell	9	FLAT	_	_
+11	trur	tru	verb	_	pres	4	PAR	_	_
+12	jeg	jeg	pron	_	nom|1|ent|hum	11	DOBJ	_	_
+13	#	#	pause	_	_	15	IK	_	_
+14	e	e	nol	_	_	15	FYLL	_	_
+15	_clears-throat_	_clears-throat_	pause	_	_	16	FYLL	_	_
+16	og	og	konj	_	_	18	KONJ	_	_
+17	så	så	adv	_	_	18	ADV	_	_
+18	har	ha	verb	_	pres	4	KOORD	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	18	SUBJ	_	_
+20	vokst	vokse	verb	_	perf-part	18	INFV	_	_
+21	opp	opp	prep	_	_	20	ADV	_	_
+22	i	i	prep	_	_	20	ADV	_	_
+23	fjellbygda	fjellbygd	subst	_	be|fem|ent|samset	24	ATR	_	_
+24	Vass	Vass	subst	_	prop	22	PUTFYLL	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = her i Ål kommune # e der gikk jeg på skole # på Vass skole som nå er nedlagt # en em # _front-click_ # e i seks år r0t
 # segstart = 21.677
 # segstop = 32.504
-# speaker = aal_01um
-# text = her i Ål kommune # e der gikk jeg på skole # på Vass skole som nå er nedlagt # en em # # e i seks år
-1	her	her	prep	prep	_	8	ADV	_	_
-2	i	i	prep	prep	_	1	PUTFYLL	_	_
-3	Ål	Ål	subst	subst	_	2	PUTFYLL	_	_
-4	kommune	kommune	subst	subst	_	3	FLAT	_	_
-5	#	#	pause	pause	_	7	IK	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	der	der	prep	prep	_	8	ADV	_	_
-8	gikk	gå	verb	verb	_	0	FINV	_	_
-9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-10	på	på	prep	prep	_	8	ADV	_	_
-11	skole	skole	subst	subst	_	10	PUTFYLL	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	på	på	prep	prep	_	8	ADV	_	_
-14	Vass	Vass	subst	subst	_	13	PUTFYLL	_	_
-15	skole	skole	subst	subst	_	14	FLAT	_	_
-16	som	som	sbu	sbu	_	18	SBU	_	_
-17	nå	nå	adv	adv	_	18	ADV	_	_
-18	er	være	verb	verb	_	14	ATR	_	_
-19	nedlagt	nedlegge	adj	adj	_	18	SPRED	_	_
-20	#	#	pause	pause	_	21	IK	_	_
-21	en	en	det	det	_	26	REP	_	_
-22	em	em	ukjent	ukjent	_	26	FYLL	_	_
-23	#	#	pause	pause	_	26	IK	_	_
-24	#	#	pause	pause	_	26	IK	_	_
-25	e	e	nol	nol	_	26	FYLL	_	_
-26	i	i	prep	prep	_	8	ADV	_	_
-27	seks	seks	det	det	_	28	DET	_	_
-28	år	år	subst	subst	_	26	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 5
+# speaker = aal_01um
+# id = 4
+# annotator = VDT
+1	her	her	prep	_	_	7	APP	_	_
+2	i	i	prep	_	_	1	PUTFYLL	_	_
+3	Ål	Ål	subst	_	prop	2	PUTFYLL	_	_
+4	kommune	kommune	subst	_	ub|mask|ent|appell	3	FLAT	_	_
+5	#	#	pause	_	_	7	IK	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	der	der	prep	_	_	8	ADV	_	_
+8	gikk	gå	verb	_	pret	30	FINV	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+10	på	på	prep	_	_	8	ADV	_	_
+11	skole	skole	subst	_	ub|mask|ent|appell	10	PUTFYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	på	på	prep	_	_	8	ADV	_	_
+14	Vass	Vass	subst	_	prop	13	PUTFYLL	_	_
+15	skole	skole	subst	_	ub|mask|ent|appell	14	FLAT	_	_
+16	som	som	sbu	_	_	18	SBU	_	_
+17	nå	nå	adv	_	_	18	ADV	_	_
+18	er	være	verb	_	pres	14	ATR	_	_
+19	nedlagt	nedlegge	verb	_	perf-part	18	INFV	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	en	en	det	_	mask|ent|kvant	27	REP	_	_
+22	em	em	nol	_	_	24	FYLL	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	_front-click_	_front-click_	pause	_	_	27	FYLL	_	_
+25	#	#	pause	_	_	27	IK	_	_
+26	e	e	nol	_	_	27	FYLL	_	_
+27	i	i	prep	_	_	8	ADV	_	_
+28	seks	seks	det	_	fl|kvant	29	DET	_	_
+29	år	år	subst	_	ub|nøyt|fl|appell	27	PUTFYLL	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = e # i ett lite bygdemiljø som e # osa av sjarm i min følge ifølge meg da # _laughter_ r0t
 # segstart = 32.504
 # segstop = 41.018
-# speaker = aal_01um
-# text = e # i ett lite bygdemiljø som e # osa av sjarm i min følge ifølge meg da #
-1	e	e	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	i	i	prep	prep	_	0	ADV	_	_
-4	ett	ett	det	det	_	6	DET	_	_
-5	lite	lite	adj	adj	_	6	ATR	_	_
-6	bygdemiljø	bygdemiljø	subst	subst	_	3	PUTFYLL	_	_
-7	som	som	sbu	sbu	_	10	SBU	_	_
-8	e	e	nol	nol	_	10	FYLL	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	osa	osa	subst	subst	_	6	ATR	_	_
-11	av	av	prep	prep	_	10	ADV	_	_
-12	sjarm	sjarm	subst	subst	_	11	PUTFYLL	_	_
-13	i	i	prep	prep	_	10	ADV	_	_
-14	min	min	det	det	_	15	DET	_	_
-15	følge	følge	subst	subst	_	13	PUTFYLL	_	_
-16	ifølge	ifølge	prep	prep	_	6	ATR	_	_
-17	meg	meg	pron	pron	_	16	DOBJ	_	_
-18	da	da	adv	adv	_	16	ADV	_	_
-19	#	#	pause	pause	_	18	IK	_	_
-
 # file = aal_01um-sl
-# id = 6
+# speaker = aal_01um
+# id = 5
+# annotator = VDT
+1	e	e	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	i	i	prep	_	_	21	FRAG	_	_
+4	ett	ett	det	_	nøyt|ent|kvant	6	DET	_	_
+5	lite	lite	adj	_	ub|pos|nøyt|ent	6	ATR	_	_
+6	bygdemiljø	bygdemiljø	subst	_	ub|nøyt|ent|samset	3	PUTFYLL	_	_
+7	som	som	sbu	_	_	10	SBU	_	_
+8	e	e	nol	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	osa	ose	verb	_	pret	6	ATR	_	_
+11	av	av	prep	_	_	10	ADV	_	_
+12	sjarm	sjarm	subst	_	ub|mask|ent|samset	11	PUTFYLL	_	_
+13	i	i	prep	_	_	16	REP	_	_
+14	min	min	det	_	mask|ent|poss	15	DET	_	_
+15	følge	følge	subst	_	ub|nøyt|ent|appell	13	PUTFYLL	_	_
+16	ifølge	ifølge	prep	_	_	3	ADV	_	_
+17	meg	meg	pron	_	akk|1|ent|hum	16	DOBJ	_	_
+18	da	da	adv	_	_	16	ADV	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	_laughter_	_laughter_	pause	_	_	16	FYLL	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = men ikke ifølge alle andre ? r0t
 # segstart = 41.018
 # segstop = 42.258
-# speaker = sl
-# text = men ikke ifølge alle andre ?
-1	men	men	konj	konj	_	3	KONJ	_	_
-2	ikke	ikke	adv	adv	_	3	ADV	_	_
-3	ifølge	ifølge	prep	prep	_	0	FRAG	_	_
-4	alle	alle	det	det	_	5	DET	_	_
-5	andre	andre	det	det	_	3	PUTFYLL	_	_
-6	?	?	clb	clb	_	3	IP	_	_
-
 # file = aal_01um-sl
-# id = 7
+# speaker = sl
+# id = 6
+# annotator = VDT
+1	men	men	konj	_	_	3	KONJ	_	_
+2	ikke	ikke	adv	_	_	3	ADV	_	_
+3	ifølge	ifølge	prep	_	_	7	FRAG	_	_
+4	alle	alle	det	_	fl|kvant	5	DET	_	_
+5	andre	andre	det	_	fl|dem	3	PUTFYLL	_	_
+6	?	?	clb	_	_	3	IP	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = ja jeg veit ikke jeg veit ikke det må du nesten bedømme sjøl men # _laughter_ r0t
 # segstart = 42.258
 # segstop = 47.457
-# speaker = aal_01um
-# text = ja jeg veit ikke jeg veit ikke det må du nesten bedømme sjøl men #
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	veit	veit	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
-6	veit	veit	verb	verb	_	3	KOORD	_	_
-7	ikke	ikke	adv	adv	_	6	ADV	_	_
-8	det	det	pron	pron	_	12	DOBJ	_	_
-9	må	må	verb	verb	_	3	KOORD	_	_
-10	du	du	pron	pron	_	9	SUBJ	_	_
-11	nesten	nesten	adv	adv	_	12	ADV	_	_
-12	bedømme	bedømme	adj	adj	_	9	INFV	_	_
-13	sjøl	sjøl	adv	adv	_	12	ADV	_	_
-14	men	men	konj	konj	_	13	KONJ	_	_
-15	#	#	pause	pause	_	14	IK	_	_
-
 # file = aal_01um-sl
-# id = 8
+# speaker = aal_01um
+# id = 7
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	veit	vite	verb	_	pres	17	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	6	SUBJ	_	_
+6	veit	vite	verb	_	pres	3	KOORD	_	_
+7	ikke	ikke	adv	_	_	6	ADV	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	12	DOBJ	_	_
+9	må	måtte	verb	_	pres	3	KOORD	_	_
+10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+11	nesten	nesten	adv	_	_	12	ADV	_	_
+12	bedømme	bedømme	verb	_	inf	9	INFV	_	_
+13	sjøl	sjøl	adv	_	_	12	ADV	_	_
+14	men	men	konj	_	_	3	KONJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = men kan du fortelle litt om Vats eller Vats som du si- e _uninterpretable_ kaller det r0t
 # segstart = 47.457
 # segstop = 51.249
+# file = aal_01um-sl
 # speaker = sl
-# text = men kan du fortelle litt om Vats eller Vats som du si- e kaller det
-1	men	men	konj	konj	_	2	KONJ	_	_
-2	kan	kan	verb	verb	_	0	FINV	_	_
-3	du	du	pron	pron	_	2	SUBJ	_	_
-4	fortelle	fortelle	verb	verb	_	2	INFV	_	_
-5	litt	litt	adj	adj	_	4	ADV	_	_
-6	om	om	prep	prep	_	4	ADV	_	_
-7	Vats	Vats	subst	subst	_	6	PUTFYLL	_	_
-8	eller	eller	konj	konj	_	9	KONJ	_	_
-9	Vats	Vats	subst	subst	_	7	KOORD	_	_
-10	som	som	sbu	sbu	_	14	SBU	_	_
-11	du	du	pron	pron	_	14	REP	_	_
-12	si-	si-	ufullst	ufullst	_	14	FYLL	_	_
-13	e	e	nol	nol	_	12	FYLL	_	_
-14	kaller	kalle	verb	verb	_	4	ADV	_	_
-15	det	det	pron	pron	_	14	DOBJ	_	_
+# id = 8
+# annotator = VDT
+1	men	men	konj	_	_	2	KONJ	_	_
+2	kan	kunne	verb	_	pres	17	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	fortelle	fortelle	verb	_	inf	2	INFV	_	_
+5	litt	litt	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+6	om	om	prep	_	_	4	ADV	_	_
+7	Vats	Vats	subst	_	prop	6	PUTFYLL	_	_
+8	eller	eller	konj	_	_	9	KONJ	_	_
+9	Vats	Vats	subst	_	prop	7	KOORD	_	_
+10	som	som	sbu	_	_	15	SBU	_	_
+11	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+12	si-	si-	ufullst	_	_	14	FYLL	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	_uninterpretable_	_uninterpretable_	pause	_	_	15	FYLL	_	_
+15	kaller	kalle	verb	_	pres	9	ATR	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	DOBJ	_	_
+17	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 9
+# text = * ja * ja r0t
 # segstart = 47.457
 # segstop = 51.249
-# speaker = aal_01um
-# text = * ja * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-3	*	*	pause	pause	_	4	IK	_	_
-4	ja	ja	interj	interj	_	2	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 10
+# speaker = aal_01um
+# id = 9
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	2	INTERJ	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det skrives Vats men det uttales Vats r0t
 # segstart = 51.249
 # segstop = 54.087
-# speaker = aal_01um
-# text = ja det skrives Vats men det uttales Vats
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	skrives	skrive	verb	verb	_	0	FINV	_	_
-4	Vats	Vats	subst	subst	_	3	DOBJ	_	_
-5	men	men	konj	konj	_	7	KONJ	_	_
-6	det	det	pron	pron	_	7	FSUBJ	_	_
-7	uttales	uttale	verb	verb	_	3	KOORD	_	_
-8	Vats	Vats	subst	subst	_	7	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 11
+# speaker = aal_01um
+# id = 10
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	skrives	skrive	verb	_	pass	9	FINV	_	_
+4	Vats	Vats	subst	_	prop	3	DOBJ	_	_
+5	men	men	konj	_	_	7	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	uttales	uttale	verb	_	pass	3	KOORD	_	_
+8	Vats	Vats	subst	_	prop	7	DOBJ	_	_
+9	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 54.087
 # segstop = 54.373
-# speaker = sl
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 12
+# speaker = sl
+# id = 11
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # _sucking-sound_ em _front-click_ e Vass det er ei bygd på ## jeg veit ikke hvor mange som bur der jeg men _groaning_ e # to tre hundre tenker jeg r0t
 # segstart = 54.373
 # segstop = 65.534
-# speaker = aal_01um
-# text = ja # em e Vass det er ei bygd på ## jeg veit ikke hvor mange som bur der jeg men e # to tre hundre tenker jeg
-1	ja	ja	interj	interj	_	7	INTERJ	_	_
-2	#	#	pause	pause	_	1	IK	_	_
-3	em	em	ukjent	ukjent	_	5	FYLL	_	_
-4	e	e	nol	nol	_	5	FYLL	_	_
-5	Vass	Vass	subst	subst	_	7	ADV	_	_
-6	det	det	pron	pron	_	7	FSUBJ	_	_
-7	er	være	verb	verb	_	0	FINV	_	_
-8	ei	ei	det	det	_	9	DET	_	_
-9	bygd	bygge	subst	subst	_	7	SPRED	_	_
-10	på	på	prep	prep	_	9	ADV	_	_
-11	##	##	pause	pause	_	12	IK	_	_
-12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-13	veit	veit	verb	verb	_	7	KOORD	_	_
-14	ikke	ikke	adv	adv	_	13	ADV	_	_
-15	hvor	hvor	adv	adv	_	16	ADV	_	_
-16	mange	mange	adj	adj	_	18	SUBJ	_	_
-17	som	som	sbu	sbu	_	18	SBU	_	_
-18	bur	bur	verb	verb	_	13	DOBJ	_	_
-19	der	der	prep	prep	_	18	ADV	_	_
-20	jeg	jeg	pron	pron	_	18	DOBJ	_	_
-21	men	men	konj	konj	_	22	KONJ	_	_
-22	e	e	nol	nol	_	24	FYLL	_	_
-23	#	#	pause	pause	_	24	IK	_	_
-24	to	to	det	det	_	26	DET	_	_
-25	tre	tre	det	det	_	26	DET	_	_
-26	hundre	hundre	det	det	_	20	DOBJ	_	_
-27	tenker	tenke	verb	verb	_	13	KOORD	_	_
-28	jeg	jeg	pron	pron	_	27	SUBJ	_	_
-
 # file = aal_01um-sl
-# id = 13
+# speaker = aal_01um
+# id = 12
+# annotator = VDT
+1	ja	ja	interj	_	_	9	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	_sucking-sound_	_sucking-sound_	pause	_	_	9	FYLL	_	_
+4	em	em	nol	_	_	7	FYLL	_	_
+5	_front-click_	_front-click_	pause	_	_	7	FYLL	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	Vass	Vass	subst	_	prop	8	APP	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
+9	er	være	verb	_	pres	32	FINV	_	_
+10	ei	ei	det	_	fem|ent|kvant	11	DET	_	_
+11	bygd	bygd	subst	_	ub|fem|ent|appell	9	SPRED	_	_
+12	på	på	prep	_	_	11	ADV	_	_
+13	##	##	pause	_	_	14	IK	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+15	veit	vite	verb	_	pres	9	KOORD	_	_
+16	ikke	ikke	adv	_	_	15	ADV	_	_
+17	hvor	hvor	adv	_	_	18	ADV	_	_
+18	mange	mange	adj	_	pos|fl	20	SUBJ	_	_
+19	som	som	sbu	_	_	20	SBU	_	_
+20	bur	bu	verb	_	pres	15	DOBJ	_	_
+21	der	der	prep	_	_	20	ADV	_	_
+22	jeg	jeg	pron	_	nom|1|ent|hum	14	APP	_	_
+23	men	men	konj	_	_	15	KONJ	_	_
+24	_groaning_	_groaning_	pause	_	_	27	FYLL	_	_
+25	e	e	nol	_	_	27	FYLL	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	to	to	det	_	fl|kvant	29	DET	_	_
+28	tre	tre	det	_	fl|kvant	29	DET	_	_
+29	hundre	hundre	det	_	fl|kvant	12	PUTFYLL	_	_
+30	tenker	tenke	verb	_	pres	9	PAR	_	_
+31	jeg	jeg	pron	_	nom|1|ent|hum	30	SUBJ	_	_
+32	r0t	_	_	_	_	0	root	_	_
+
+# text = e for det meste garder # som # framleis er i drift ## e det er mest kyr og sau # e og geiter r0t
 # segstart = 65.534
 # segstop = 77.887
-# speaker = aal_01um
-# text = e for det meste garder # som # framleis er i drift ## e det er mest kyr og sau # e og geiter
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	for	for	prep	prep	_	16	REP	_	_
-3	det	det	det	det	_	4	DET	_	_
-4	meste	mye	adj	adj	_	5	DET	_	_
-5	garder	gardere	subst	subst	_	16	SLETT	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	som	som	sbu	sbu	_	10	SBU	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	framleis	framleis	adv	adv	_	10	ADV	_	_
-10	er	være	verb	verb	_	16	REP	_	_
-11	i	i	prep	prep	_	10	SPRED	_	_
-12	drift	drift	subst	subst	_	11	PUTFYLL	_	_
-13	##	##	pause	pause	_	15	IK	_	_
-14	e	e	nol	nol	_	15	FYLL	_	_
-15	det	det	pron	pron	_	16	FSUBJ	_	_
-16	er	være	verb	verb	_	0	FINV	_	_
-17	mest	mye	adj	adj	_	18	ATR	_	_
-18	kyr	ku	subst	subst	_	16	SPRED	_	_
-19	og	og	konj	konj	_	20	KONJ	_	_
-20	sau	sau	subst	subst	_	18	KOORD	_	_
-21	#	#	pause	pause	_	23	IK	_	_
-22	e	e	nol	nol	_	23	FYLL	_	_
-23	og	og	konj	konj	_	24	KONJ	_	_
-24	geiter	geite	subst	subst	_	18	KOORD	_	_
-
 # file = aal_01um-sl
-# id = 14
+# speaker = aal_01um
+# id = 13
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	for	for	prep	_	_	5	ADV	_	_
+3	det	det	det	_	nøyt|ent|dem	4	DET	_	_
+4	meste	mye	adj	_	be|sup	2	PUTFYLL	_	_
+5	garder	gard	subst	_	ub|mask|fl|appell	25	FRAG	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	som	som	sbu	_	_	10	SBU	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	framleis	framleis	adv	_	_	10	ADV	_	_
+10	er	være	verb	_	pres	5	ATR	_	_
+11	i	i	prep	_	_	10	SPRED	_	_
+12	drift	drift	subst	_	ub|fem|ent|appell	11	PUTFYLL	_	_
+13	##	##	pause	_	_	15	IK	_	_
+14	e	e	nol	_	_	15	FYLL	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
+16	er	være	verb	_	pres	5	KOORD	_	_
+17	mest	mye	adj	_	ub|sup	18	ATR	_	_
+18	kyr	ku	subst	_	ub|fem|fl|appell	16	PSUBJ	_	_
+19	og	og	konj	_	_	20	KONJ	_	_
+20	sau	sau	subst	_	ub|mask|ent|appell	18	KOORD	_	_
+21	#	#	pause	_	_	23	IK	_	_
+22	e	e	nol	_	_	23	FYLL	_	_
+23	og	og	konj	_	_	24	KONJ	_	_
+24	geiter	geit	subst	_	ub|fem|fl|appell	18	KOORD	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = e og så har vi m # vi har jo # e Vats skiller seg jo ganske ut i forhold til # Leveld og Votnaheim da som ligger ne- lenger ned i bygda r0t
 # segstart = 77.887
 # segstop = 87.426
-# speaker = aal_01um
-# text = e og så har vi m # vi har jo # e Vats skiller seg jo ganske ut i forhold til # Leveld og Votnaheim da som ligger ne- lenger ned i bygda
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	og	og	konj	konj	_	4	KONJ	_	_
-3	så	så	adv	adv	_	4	ADV	_	_
-4	har	ha	verb	verb	_	0	FINV	_	_
-5	vi	vi	pron	pron	_	4	SUBJ	_	_
-6	m	m	inf-merke	inf-merke	_	4	INTERJ	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	vi	vi	pron	pron	_	9	SUBJ	_	_
-9	har	ha	verb	verb	_	14	REP	_	_
-10	jo	jo	adv	adv	_	9	ADV	_	_
-11	#	#	pause	pause	_	13	IK	_	_
-12	e	e	nol	nol	_	13	FYLL	_	_
-13	Vats	Vats	subst	subst	_	14	SUBJ	_	_
-14	skiller	skille	verb	verb	_	4	KOORD	_	_
-15	seg	seg	pron	pron	_	14	DOBJ	_	_
-16	jo	jo	adv	adv	_	14	ADV	_	_
-17	ganske	ganske	adv	adv	_	18	ADV	_	_
-18	ut	ut	prep	prep	_	14	ADV	_	_
-19	i	i	prep	prep	_	18	PUTFYLL	_	_
-20	forhold	forhold	subst	subst	_	19	PUTFYLL	_	_
-21	til	til	prep	prep	_	20	ATR	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	Leveld	Leveld	subst	subst	_	21	PUTFYLL	_	_
-24	og	og	konj	konj	_	25	KONJ	_	_
-25	Votnaheim	Votnaheim	subst	subst	_	23	KOORD	_	_
-26	da	da	adv	adv	_	31	PUTFYLL	_	_
-27	som	som	sbu	sbu	_	28	SBU	_	_
-28	ligger	ligge	verb	verb	_	23	ATR	_	_
-29	ne-	ne-	ufullst	ufullst	_	30	FYLL	_	_
-30	lenger	lenger	adv	adv	_	31	ADV	_	_
-31	ned	ned	prep	prep	_	28	ADV	_	_
-32	i	i	prep	prep	_	23	ADV	_	_
-33	bygda	bygd	subst	subst	_	32	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 15
+# speaker = aal_01um
+# id = 14
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	og	og	konj	_	_	4	KONJ	_	_
+3	så	så	adv	_	_	4	ADV	_	_
+4	har	ha	verb	_	pres	14	REP	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+6	m	m	nol	_	_	4	FYLL	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	vi	vi	pron	_	nom|1|fl|hum	9	SUBJ	_	_
+9	har	ha	verb	_	pres	14	REP	_	_
+10	jo	jo	adv	_	_	9	ADV	_	_
+11	#	#	pause	_	_	13	IK	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	Vats	Vats	subst	_	prop	14	SUBJ	_	_
+14	skiller	skille	verb	_	pres	34	FINV	_	_
+15	seg	seg	pron	_	akk|refl	14	DOBJ	_	_
+16	jo	jo	adv	_	_	14	ADV	_	_
+17	ganske	ganske	adv	_	_	14	ADV	_	_
+18	ut	ut	prep	_	_	14	ADV	_	_
+19	i	i	prep	_	_	14	ADV	_	_
+20	forhold	forhold	subst	_	ub|nøyt|ub|appell	19	PUTFYLL	_	_
+21	til	til	prep	_	_	20	ATR	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	Leveld	Leveld	subst	_	prop	21	PUTFYLL	_	_
+24	og	og	konj	_	_	25	KONJ	_	_
+25	Votnaheim	Votnaheim	subst	_	prop	23	KOORD	_	_
+26	da	da	adv	_	_	28	ADV	_	_
+27	som	som	sbu	_	_	28	SBU	_	_
+28	ligger	ligge	verb	_	pres	25	ATR	_	_
+29	ne-	ne-	ufullst	_	_	30	FYLL	_	_
+30	lenger	lenger	adv	_	_	31	ADV	_	_
+31	ned	ned	prep	_	_	28	ADV	_	_
+32	i	i	prep	_	_	31	PUTFYLL	_	_
+33	bygda	bygd	subst	_	be|fem|ent|appell	32	PUTFYLL	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = men em # på grunn av # fjorden # for vi har en liten fjord som ligger i # liten innsjø som ligger e i Vats r0t
 # segstart = 87.426
 # segstop = 94.962
-# speaker = aal_01um
-# text = men em # på grunn av # fjorden # for vi har en liten fjord som ligger i # liten innsjø som ligger e i Vats
-1	men	men	konj	konj	_	12	KONJ	_	_
-2	em	em	ukjent	ukjent	_	4	FYLL	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	på	på	prep	prep	_	12	ADV	_	_
-5	grunn	grunn	subst	subst	_	4	PUTFYLL	_	_
-6	av	av	prep	prep	_	5	ATR	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	fjorden	fjord	subst	subst	_	6	PUTFYLL	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	for	for	prep	prep	_	12	KONJ	_	_
-11	vi	vi	pron	pron	_	12	SUBJ	_	_
-12	har	ha	verb	verb	_	0	FINV	_	_
-13	en	en	det	det	_	15	DET	_	_
-14	liten	liten	adj	adj	_	15	ATR	_	_
-15	fjord	fjord	subst	subst	_	12	DOBJ	_	_
-16	som	som	sbu	sbu	_	17	SBU	_	_
-17	ligger	ligge	verb	verb	_	15	ATR	_	_
-18	i	i	prep	prep	_	17	ADV	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	liten	liten	adj	adj	_	21	ATR	_	_
-21	innsjø	innsjø	subst	subst	_	18	PUTFYLL	_	_
-22	som	som	sbu	sbu	_	23	SBU	_	_
-23	ligger	ligge	verb	verb	_	21	ATR	_	_
-24	e	e	nol	nol	_	25	FYLL	_	_
-25	i	i	prep	prep	_	23	ADV	_	_
-26	Vats	Vats	subst	subst	_	25	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 16
+# speaker = aal_01um
+# id = 15
+# annotator = VDT
+1	men	men	konj	_	_	4	KONJ	_	_
+2	em	em	nol	_	_	4	FYLL	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	på	på	prep	_	_	27	FRAG	_	_
+5	grunn	grunn	subst	_	ub|mask|ent|appell	4	PUTFYLL	_	_
+6	av	av	prep	_	_	5	ATR	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	fjorden	fjord	subst	_	be|mask|ent|appell	6	PUTFYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	for	for	konj	_	_	12	KONJ	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+12	har	ha	verb	_	pres	4	KOORD	_	_
+13	en	en	det	_	mask|ent|kvant	15	DET	_	_
+14	liten	liten	adj	_	ub|pos|m/f|ent	15	ATR	_	_
+15	fjord	fjord	subst	_	ub|mask|ent|appell	12	DOBJ	_	_
+16	som	som	sbu	_	_	17	SBU	_	_
+17	ligger	ligge	verb	_	pres	15	SLETT	_	_
+18	i	i	prep	_	_	17	ADV	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	liten	liten	adj	_	ub|pos|mask|ent	21	ATR	_	_
+21	innsjø	innsjø	subst	_	ub|mask|ent|appell	15	KOORD	_	_
+22	som	som	sbu	_	_	23	SBU	_	_
+23	ligger	ligge	verb	_	pres	21	ATR	_	_
+24	e	e	nol	_	_	25	FYLL	_	_
+25	i	i	prep	_	_	23	ADV	_	_
+26	Vats	Vats	subst	_	prop	25	PUTFYLL	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = em # hva mer skal jeg fortelle av # e _laughter_ # ja nei det er en store avstander r0t
 # segstart = 94.962
 # segstop = 101.448
-# speaker = aal_01um
-# text = em # hva mer skal jeg fortelle av # e # ja nei det er en store avstander
-1	em	em	ukjent	ukjent	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	hva	hva	pron	pron	_	7	DOBJ	_	_
-4	mer	mye	adj	adj	_	8	PUTFYLL	_	_
-5	skal	skal	verb	verb	_	0	FINV	_	_
-6	jeg	jeg	pron	pron	_	5	SUBJ	_	_
-7	fortelle	fortelle	verb	verb	_	5	INFV	_	_
-8	av	av	prep	prep	_	7	ADV	_	_
-9	#	#	pause	pause	_	12	IK	_	_
-10	e	e	nol	nol	_	12	FYLL	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	ja	ja	interj	interj	_	15	INTERJ	_	_
-13	nei	nei	interj	interj	_	15	INTERJ	_	_
-14	det	det	pron	pron	_	15	FSUBJ	_	_
-15	er	være	verb	verb	_	5	KOORD	_	_
-16	en	en	det	det	_	18	DET	_	_
-17	store	stor	adj	adj	_	18	ATR	_	_
-18	avstander	avstand	subst	subst	_	15	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 17
+# speaker = aal_01um
+# id = 16
+# annotator = VDT
+1	em	em	nol	_	_	5	FYLL	_	_
+2	#	#	pause	_	_	5	IK	_	_
+3	hva	hva	pron	_	sp	7	DOBJ	_	_
+4	mer	mye	adj	_	komp	3	ATR	_	_
+5	skal	skulle	verb	_	pres	20	FINV	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+7	fortelle	fortelle	verb	_	inf	5	INFV	_	_
+8	av	av	prep	_	_	7	SLETT	_	_
+9	#	#	pause	_	_	11	IK	_	_
+10	e	e	nol	_	_	11	FYLL	_	_
+11	_laughter_	_laughter_	pause	_	_	13	FYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	ja	ja	interj	_	_	16	INTERJ	_	_
+14	nei	nei	interj	_	_	16	INTERJ	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
+16	er	være	verb	_	pres	5	KOORD	_	_
+17	en	en	det	_	mask|ent|kvant	19	REP	_	_
+18	store	stor	adj	_	pos|fl	19	ATR	_	_
+19	avstander	avstand	subst	_	ub|mask|fl|appell	16	PSUBJ	_	_
+20	r0t	_	_	_	_	0	root	_	_
+
+# text = og det er # liksom # hvis jeg skulle til kameraten min når jeg var e var mindre så var jeg liksom nå måtte liksom sykle en time for å komme fram r0t
 # segstart = 101.448
 # segstop = 107.982
-# speaker = aal_01um
-# text = og det er # liksom # hvis jeg skulle til kameraten min når jeg var e var mindre så var jeg liksom nå måtte liksom sykle en time for å komme fram
-1	og	og	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	24	APP	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	liksom	liksom	adv	adv	_	3	ADV	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	hvis	hvis	sbu	sbu	_	9	SBU	_	_
-8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
-9	skulle	skulle	verb	verb	_	3	SPRED	_	_
-10	til	til	prep	prep	_	9	ADV	_	_
-11	kameraten	kamerat	subst	subst	_	10	PUTFYLL	_	_
-12	min	min	det	det	_	11	DET	_	_
-13	når	når	sbu	sbu	_	15	SBU	_	_
-14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
-15	var	være	verb	verb	_	17	REP	_	_
-16	e	e	nol	nol	_	17	FYLL	_	_
-17	var	være	verb	verb	_	9	ADV	_	_
-18	mindre	små	adj	adj	_	17	SPRED	_	_
-19	så	så	adv	adv	_	20	ADV	_	_
-20	var	være	verb	verb	_	24	REP	_	_
-21	jeg	jeg	pron	pron	_	20	SUBJ	_	_
-22	liksom	liksom	adv	adv	_	20	ADV	_	_
-23	nå	nå	adv	adv	_	24	ADV	_	_
-24	måtte	måtte	verb	verb	_	0	FINV	_	_
-25	liksom	liksom	adv	adv	_	26	ADV	_	_
-26	sykle	sykle	verb	verb	_	24	INFV	_	_
-27	en	en	det	det	_	28	DET	_	_
-28	time	time	subst	subst	_	26	DOBJ	_	_
-29	for	for	prep	prep	_	26	ADV	_	_
-30	å	å	inf-merke	inf-merke	_	29	PUTFYLL	_	_
-31	komme	komme	verb	verb	_	30	INFV	_	_
-32	fram	fram	prep	prep	_	31	ADV	_	_
-
 # file = aal_01um-sl
-# id = 18
+# speaker = aal_01um
+# id = 17
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	24	REP	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	liksom	liksom	adv	_	_	3	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	hvis	hvis	sbu	_	_	9	SBU	_	_
+8	jeg	jeg	pron	_	nom|1|ent|hum	9	SUBJ	_	_
+9	skulle	skulle	verb	_	pret	19	APP	_	_
+10	til	til	prep	_	_	9	ADV	_	_
+11	kameraten	kamerat	subst	_	be|mask|ent|appell	10	PUTFYLL	_	_
+12	min	min	det	_	mask|ent|poss	11	DET	_	_
+13	når	når	sbu	_	_	17	SBU	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	17	SUBJ	_	_
+15	var	være	verb	_	pret	17	REP	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	var	være	verb	_	pret	9	ADV	_	_
+18	mindre	små	adj	_	komp	17	SPRED	_	_
+19	så	så	adv	_	_	24	ADV	_	_
+20	var	være	verb	_	pret	24	REP	_	_
+21	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+22	liksom	liksom	adv	_	_	20	ADV	_	_
+23	nå	nå	adv	_	_	24	ADV	_	_
+24	måtte	måtte	verb	_	pret	33	FINV	_	_
+25	liksom	liksom	adv	_	_	26	ADV	_	_
+26	sykle	sykle	verb	_	inf	24	INFV	_	_
+27	en	en	det	_	mask|ent|kvant	28	DET	_	_
+28	time	time	subst	_	ub|mask|ent|appell	26	ADV	_	_
+29	for	for	prep	_	_	26	ADV	_	_
+30	å	å	inf-merke	_	_	29	PUTFYLL	_	_
+31	komme	komme	verb	_	inf	30	INFV	_	_
+32	fram	fram	prep	_	_	31	ADV	_	_
+33	r0t	_	_	_	_	0	root	_	_
+
+# text = å ja såpass ja _laughter_ r0t
 # segstart = 107.982
 # segstop = 113.729
-# speaker = sl
-# text = å ja såpass ja
-1	å	å	interj	interj	_	0	INTERJ	_	_
-2	ja	ja	interj	interj	_	1	INTERJ	_	_
-3	såpass	såpass	adv	adv	_	2	ADV	_	_
-4	ja	ja	interj	interj	_	3	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 19
+# speaker = sl
+# id = 18
+# annotator = VDT
+1	å	å	interj	_	_	6	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	såpass	såpass	adv	_	_	1	ADV	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	_laughter_	_laughter_	pause	_	_	1	FYLL	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja _laughter_ r0t
 # segstart = 107.982
 # segstop = 111.511
-# speaker = aal_01um
-# text = * ja
-1	*	*	pause	pause	_	0	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 20
+# speaker = aal_01um
+# id = 19
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = og det var innad i Vats liksom ? r0t
 # segstart = 111.511
 # segstop = 113.729
+# file = aal_01um-sl
 # speaker = sl
-# text = og det var innad i Vats liksom ?
-1	og	og	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	innad	innad	prep	prep	_	3	SPRED	_	_
-5	i	i	prep	prep	_	4	PUTFYLL	_	_
-6	Vats	Vats	subst	subst	_	5	PUTFYLL	_	_
-7	liksom	liksom	adv	adv	_	3	ADV	_	_
-8	?	?	clb	clb	_	3	IP	_	_
+# id = 20
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	9	FINV	_	_
+4	innad	innad	prep	_	_	3	SPRED	_	_
+5	i	i	prep	_	_	4	PUTFYLL	_	_
+6	Vats	Vats	subst	_	prop	5	PUTFYLL	_	_
+7	liksom	liksom	adv	_	_	3	ADV	_	_
+8	?	?	clb	_	_	3	IP	_	_
+9	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 21
+# text = * ja r0t
 # segstart = 111.511
 # segstop = 113.729
-# speaker = aal_01um
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 22
+# speaker = aal_01um
+# id = 21
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = det var i Vats # men nå må du huske på at da da var jeg liten og da hadde jeg små føtter og da altså jeg hadde sikkert gjort samme turen nå på tjue minutt r0t
 # segstart = 113.729
 # segstop = 121.098
-# speaker = aal_01um
-# text = det var i Vats # men nå må du huske på at da da var jeg liten og da hadde jeg små føtter og da altså jeg hadde sikkert gjort samme turen nå på tjue minutt
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	i	i	prep	prep	_	2	SPRED	_	_
-4	Vats	Vats	subst	subst	_	3	PUTFYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	men	men	konj	konj	_	8	KONJ	_	_
-7	nå	nå	adv	adv	_	8	ADV	_	_
-8	må	må	verb	verb	_	2	KOORD	_	_
-9	du	du	pron	pron	_	8	SUBJ	_	_
-10	huske	huske	verb	verb	_	8	INFV	_	_
-11	på	på	prep	prep	_	10	ADV	_	_
-12	at	at	sbu	sbu	_	15	SBU	_	_
-13	da	da	adv	adv	_	15	ADV	_	_
-14	da	da	adv	adv	_	15	ADV	_	_
-15	var	være	verb	verb	_	11	PUTFYLL	_	_
-16	jeg	jeg	pron	pron	_	15	SUBJ	_	_
-17	liten	liten	adj	adj	_	15	SPRED	_	_
-18	og	og	konj	konj	_	20	KONJ	_	_
-19	da	da	adv	adv	_	20	ADV	_	_
-20	hadde	ha	verb	verb	_	15	KOORD	_	_
-21	jeg	jeg	pron	pron	_	20	SUBJ	_	_
-22	små	små	adj	adj	_	23	ATR	_	_
-23	føtter	fot	subst	subst	_	20	DOBJ	_	_
-24	og	og	konj	konj	_	28	KONJ	_	_
-25	da	da	adv	adv	_	28	ADV	_	_
-26	altså	altså	adv	adv	_	28	ADV	_	_
-27	jeg	jeg	pron	pron	_	28	SUBJ	_	_
-28	hadde	ha	verb	verb	_	2	KOORD	_	_
-29	sikkert	sikker	adj	adj	_	30	ADV	_	_
-30	gjort	gjøre	verb	verb	_	28	INFV	_	_
-31	samme	samme	det	det	_	32	DET	_	_
-32	turen	tur	subst	subst	_	30	DOBJ	_	_
-33	nå	nå	adv	adv	_	30	ADV	_	_
-34	på	på	prep	prep	_	30	ADV	_	_
-35	tjue	tjue	det	det	_	36	DET	_	_
-36	minutt	minutt	subst	subst	_	34	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 23
+# speaker = aal_01um
+# id = 22
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	var	være	verb	_	pret	37	FINV	_	_
+3	i	i	prep	_	_	2	SPRED	_	_
+4	Vats	Vats	subst	_	prop	3	PUTFYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	nå	nå	adv	_	_	8	ADV	_	_
+8	må	måtte	verb	_	pres	2	KOORD	_	_
+9	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+10	huske	huske	verb	_	inf	8	INFV	_	_
+11	på	på	prep	_	_	10	ADV	_	_
+12	at	at	sbu	_	_	15	SBU	_	_
+13	da	da	adv	_	_	14	REP	_	_
+14	da	da	adv	_	_	15	ADV	_	_
+15	var	være	verb	_	pret	11	PUTFYLL	_	_
+16	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+17	liten	liten	adj	_	ub|pos|m/f|ent	15	SPRED	_	_
+18	og	og	konj	_	_	20	KONJ	_	_
+19	da	da	adv	_	_	20	ADV	_	_
+20	hadde	ha	verb	_	pret	15	KOORD	_	_
+21	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+22	små	små	adj	_	pos|fl	23	ATR	_	_
+23	føtter	fot	subst	_	ub|mask|fl|appell	20	DOBJ	_	_
+24	og	og	konj	_	_	28	KONJ	_	_
+25	da	da	adv	_	_	28	ADV	_	_
+26	altså	altså	adv	_	_	28	ADV	_	_
+27	jeg	jeg	pron	_	nom|1|ent|hum	28	SUBJ	_	_
+28	hadde	ha	verb	_	pret	2	KOORD	_	_
+29	sikkert	sikker	adj	_	ub|pos|nøyt|ent	30	ADV	_	_
+30	gjort	gjøre	verb	_	perf-part	28	INFV	_	_
+31	samme	samme	det	_	be|dem	32	DET	_	_
+32	turen	tur	subst	_	be|mask|ent|appell	30	DOBJ	_	_
+33	nå	nå	adv	_	_	30	ADV	_	_
+34	på	på	prep	_	_	30	ADV	_	_
+35	tjue	tjue	det	_	fl|kvant	36	DET	_	_
+36	minutt	minutt	subst	_	ub|nøyt|fl|appell	34	PUTFYLL	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = det er jeg sikker på r0t
 # segstart = 121.098
 # segstop = 121.79
-# speaker = aal_01um
-# text = det er jeg sikker på
-1	det	det	pron	pron	_	0	DOBJ	_	_
-2	er	være	verb	verb	_	1	ATR	_	_
-3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-4	sikker	sikker	adj	adj	_	2	SPRED	_	_
-5	på	på	prep	prep	_	4	ADV	_	_
-
 # file = aal_01um-sl
-# id = 24
+# speaker = aal_01um
+# id = 23
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	5	PUTFYLL	_	_
+2	er	være	verb	_	pres	6	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	sikker	sikker	adj	_	ub|pos|m/f|ent	2	SPRED	_	_
+5	på	på	prep	_	_	2	ADV	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # men det er jo stykke likevel r0t
 # segstart = 121.79
 # segstop = 123.245
+# file = aal_01um-sl
 # speaker = sl
-# text = ja # men det er jo stykke likevel
-1	ja	ja	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	men	men	konj	konj	_	5	KONJ	_	_
-4	det	det	pron	pron	_	5	FSUBJ	_	_
-5	er	være	verb	verb	_	0	FINV	_	_
-6	jo	jo	adv	adv	_	5	ADV	_	_
-7	stykke	stykke	subst	subst	_	5	SPRED	_	_
-8	likevel	likevel	adv	adv	_	5	ADV	_	_
+# id = 24
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	5	KONJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	9	FINV	_	_
+6	jo	jo	adv	_	_	5	ADV	_	_
+7	stykke	stykke	subst	_	ub|nøyt|ent|appell	5	SPRED	_	_
+8	likevel	likevel	adv	_	_	5	ADV	_	_
+9	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 25
+# text = * ja * r0t
 # segstart = 121.79
 # segstop = 123.245
-# speaker = aal_01um
-# text = * ja *
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-3	*	*	pause	pause	_	2	IP	_	_
-
 # file = aal_01um-sl
-# id = 26
+# speaker = aal_01um
+# id = 25
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	*	*	pause	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det er jo _uninterpretable_ stykker # det er det # _front-click_ og så ble det liksom sånn at når du sykla på veg innover så r0t
 # segstart = 123.245
 # segstop = 128.038
-# speaker = aal_01um
-# text = ja det er jo stykker # det er det # og så ble det liksom sånn at når du sykla på veg innover så
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	jo	jo	adv	adv	_	3	ADV	_	_
-5	stykker	stykke	subst	subst	_	4	SPRED	_	_
-6	#	#	pause	pause	_	7	IK	_	_
-7	det	det	pron	pron	_	8	SUBJ	_	_
-8	er	være	verb	verb	_	3	KOORD	_	_
-9	det	det	pron	pron	_	8	SPRED	_	_
-10	#	#	pause	pause	_	9	IK	_	_
-11	og	og	konj	konj	_	13	KONJ	_	_
-12	så	så	adv	adv	_	13	ADV	_	_
-13	ble	bli	verb	verb	_	3	KOORD	_	_
-14	det	det	pron	pron	_	13	FSUBJ	_	_
-15	liksom	liksom	adv	adv	_	13	ADV	_	_
-16	sånn	sånn	adv	adv	_	17	ADV	_	_
-17	at	at	sbu	sbu	_	13	SBU	_	_
-18	når	når	sbu	sbu	_	20	SBU	_	_
-19	du	du	pron	pron	_	20	SUBJ	_	_
-20	sykla	sykle	verb	verb	_	24	APP	_	_
-21	på	på	prep	prep	_	20	ADV	_	_
-22	veg	veg	subst	subst	_	21	PUTFYLL	_	_
-23	innover	innover	prep	prep	_	20	ADV	_	_
-24	så	så	adv	adv	_	17	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 27
+# speaker = aal_01um
+# id = 26
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	27	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	_uninterpretable_	_uninterpretable_	pause	_	_	6	FYLL	_	_
+6	stykker	stykke	subst	_	ub|nøyt|fl|appell	3	SPRED	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
+9	er	være	verb	_	pres	3	KOORD	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	9	SPRED	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	_front-click_	_front-click_	pause	_	_	15	FYLL	_	_
+13	og	og	konj	_	_	15	KONJ	_	_
+14	så	så	adv	_	_	15	ADV	_	_
+15	ble	bli	verb	_	pret	3	KOORD	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+17	liksom	liksom	adv	_	_	15	ADV	_	_
+18	sånn	sånn	adv	_	_	15	SPRED	_	_
+19	at	at	sbu	_	_	22	SBU	_	_
+20	når	når	sbu	_	_	22	SBU	_	_
+21	du	du	pron	_	nom|2|ent|hum	22	SUBJ	_	_
+22	sykla	sykle	verb	_	pret	18	APP	_	_
+23	på	på	prep	_	_	22	ADV	_	_
+24	veg	veg	subst	_	ub|mask|ent|appell	23	PUTFYLL	_	_
+25	innover	innover	prep	_	_	24	ATR	_	_
+26	så	så	adv	_	_	22	SLETT	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = så treffer du folk du kjenner og så _sibilant_ blir du stoppa og slår av en prat med dem og så # så går tida veit du r0t
 # segstart = 128.038
 # segstop = 134.382
-# speaker = aal_01um
-# text = så treffer du folk du kjenner og så blir du stoppa og slår av en prat med dem og så # så går tida veit du
-1	så	så	adv	adv	_	2	ADV	_	_
-2	treffer	treffe	verb	verb	_	0	FINV	_	_
-3	du	du	pron	pron	_	2	SUBJ	_	_
-4	folk	folk	subst	subst	_	2	DOBJ	_	_
-5	du	du	pron	pron	_	6	SUBJ	_	_
-6	kjenner	kjenne	verb	verb	_	4	ATR	_	_
-7	og	og	konj	konj	_	9	KONJ	_	_
-8	så	så	adv	adv	_	9	ADV	_	_
-9	blir	bli	verb	verb	_	2	KOORD	_	_
-10	du	du	pron	pron	_	9	SUBJ	_	_
-11	stoppa	stopp	verb	verb	_	9	SPRED	_	_
-12	og	og	konj	konj	_	13	KONJ	_	_
-13	slår	slå	verb	verb	_	9	KOORD	_	_
-14	av	av	prep	prep	_	13	ADV	_	_
-15	en	en	det	det	_	16	DET	_	_
-16	prat	prat	subst	subst	_	14	PUTFYLL	_	_
-17	med	med	prep	prep	_	16	ATR	_	_
-18	dem	dem	pron	pron	_	17	PUTFYLL	_	_
-19	og	og	konj	konj	_	23	KONJ	_	_
-20	så	så	adv	adv	_	22	REP	_	_
-21	#	#	pause	pause	_	22	IK	_	_
-22	så	så	adv	adv	_	23	ADV	_	_
-23	går	gåre	verb	verb	_	9	KOORD	_	_
-24	tida	tid	subst	subst	_	23	SUBJ	_	_
-25	veit	veit	verb	verb	_	9	PAR	_	_
-26	du	du	pron	pron	_	25	SUBJ	_	_
-
 # file = aal_01um-sl
-# id = 28
+# speaker = aal_01um
+# id = 27
+# annotator = VDT
+1	så	så	adv	_	_	2	ADV	_	_
+2	treffer	treffe	verb	_	pres	28	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	folk	folk	subst	_	ub|nøyt|fl|appell	2	DOBJ	_	_
+5	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+6	kjenner	kjenne	verb	_	pres	4	ATR	_	_
+7	og	og	konj	_	_	10	KONJ	_	_
+8	så	så	adv	_	_	10	ADV	_	_
+9	_sibilant_	_sibilant_	pause	_	_	10	FYLL	_	_
+10	blir	bli	verb	_	pres	2	KOORD	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	stoppa	stopp	verb	_	perf-part	10	INFV	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	slår	slå	verb	_	pres	2	KOORD	_	_
+15	av	av	prep	_	_	14	ADV	_	_
+16	en	en	det	_	mask|ent|kvant	17	DET	_	_
+17	prat	prat	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
+18	med	med	prep	_	_	17	ATR	_	_
+19	dem	dem	pron	_	akk|3|fl|pers	18	PUTFYLL	_	_
+20	og	og	konj	_	_	24	KONJ	_	_
+21	så	så	adv	_	_	23	REP	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	så	så	adv	_	_	24	ADV	_	_
+24	går	gå	verb	_	pres	2	KOORD	_	_
+25	tida	tid	subst	_	be|fem|ent|appell	24	SUBJ	_	_
+26	veit	vite	verb	_	pres	2	PAR	_	_
+27	du	du	pron	_	nom|2|ent|hum	26	SUBJ	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 134.382
 # segstop = 138.718
-# speaker = sl
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 29
+# speaker = sl
+# id = 28
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 134.688
 # segstop = 135.117
-# speaker = aal_01um
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 30
+# speaker = aal_01um
+# id = 29
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = men er det e noe slags sentrum der med butikk og sånn eller ? r0t
 # segstart = 135.117
 # segstop = 138.718
+# file = aal_01um-sl
 # speaker = sl
-# text = men er det e noe slags sentrum der med butikk og sånn eller ?
-1	men	men	konj	konj	_	2	KONJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	FSUBJ	_	_
-4	e	e	nol	nol	_	5	FYLL	_	_
-5	noe	noe	det	det	_	6	DET	_	_
-6	slags	slags	subst	subst	_	7	DET	_	_
-7	sentrum	sentrum	subst	subst	_	2	PSUBJ	_	_
-8	der	der	prep	prep	_	2	ADV	_	_
-9	med	med	prep	prep	_	2	ADV	_	_
-10	butikk	butikk	subst	subst	_	9	PUTFYLL	_	_
-11	og	og	konj	konj	_	12	KONJ	_	_
-12	sånn	sånn	adv	adv	_	2	ADV	_	_
-13	eller	eller	konj	konj	_	2	KONJ	_	_
-14	?	?	clb	clb	_	2	IP	_	_
+# id = 30
+# annotator = VDT
+1	men	men	konj	_	_	2	KONJ	_	_
+2	er	være	verb	_	pres	15	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	noe	noe	det	_	nøyt|ent|kvant	6	DET	_	_
+6	slags	slags	subst	_	nøyt|appell	7	DET	_	_
+7	sentrum	sentrum	subst	_	ub|nøyt|ent|appell	2	PSUBJ	_	_
+8	der	der	prep	_	_	2	ADV	_	_
+9	med	med	prep	_	_	7	ATR	_	_
+10	butikk	butikk	subst	_	ub|mask|ent|appell	9	PUTFYLL	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	sånn	sånn	adv	_	_	10	KOORD	_	_
+13	eller	eller	konj	_	_	2	KONJ	_	_
+14	?	?	clb	_	_	2	IP	_	_
+15	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 31
+# text = * nei da r0t
 # segstart = 135.117
 # segstop = 138.718
-# speaker = aal_01um
-# text = * nei da
-1	*	*	pause	pause	_	2	IK	_	_
-2	nei	nei	interj	interj	_	0	INTERJ	_	_
-3	da	da	adv	adv	_	2	ADV	_	_
-
 # file = aal_01um-sl
-# id = 32
+# speaker = aal_01um
+# id = 31
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	4	INTERJ	_	_
+3	da	da	adv	_	_	2	ADV	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ikke i det heile tatt det er vel # jeg trur noen har prøvd å starte en kiosk ei gang # men den gikk ikke # så vi må til Leveld for å handle r0t
 # segstart = 138.718
 # segstop = 148.591
-# speaker = aal_01um
-# text = ikke i det heile tatt det er vel # jeg trur noen har prøvd å starte en kiosk ei gang # men den gikk ikke # så vi må til Leveld for å handle
-1	ikke	ikke	adv	adv	_	7	ADV	_	_
-2	i	i	prep	prep	_	7	ADV	_	_
-3	det	det	det	det	_	4	DET	_	_
-4	heile	heil	adj	adj	_	2	PUTFYLL	_	_
-5	tatt	ta	verb	verb	_	2	ADV	_	_
-6	det	det	pron	pron	_	7	FSUBJ	_	_
-7	er	være	verb	verb	_	11	REP	_	_
-8	vel	vel	adv	adv	_	7	ADV	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	jeg	jeg	pron	pron	_	11	SUBJ	_	_
-11	trur	tru	verb	verb	_	0	FINV	_	_
-12	noen	noen	pron	pron	_	13	SUBJ	_	_
-13	har	ha	verb	verb	_	11	DOBJ	_	_
-14	prøvd	prøve	verb	verb	_	13	INFV	_	_
-15	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
-16	starte	starte	verb	verb	_	15	INFV	_	_
-17	en	en	det	det	_	18	DET	_	_
-18	kiosk	kiosk	adj	adj	_	16	DOBJ	_	_
-19	ei	ei	det	det	_	20	DET	_	_
-20	gang	gang	subst	subst	_	16	ADV	_	_
-21	#	#	pause	pause	_	22	IK	_	_
-22	men	men	konj	konj	_	24	KONJ	_	_
-23	den	den	pron	pron	_	24	SUBJ	_	_
-24	gikk	gå	verb	verb	_	11	KOORD	_	_
-25	ikke	ikke	adv	adv	_	24	ADV	_	_
-26	#	#	pause	pause	_	27	IK	_	_
-27	så	så	adv	adv	_	29	KONJ	_	_
-28	vi	vi	pron	pron	_	29	SUBJ	_	_
-29	må	må	verb	verb	_	11	KOORD	_	_
-30	til	til	prep	prep	_	29	ADV	_	_
-31	Leveld	Leveld	subst	subst	_	30	PUTFYLL	_	_
-32	for	for	prep	prep	_	29	ADV	_	_
-33	å	å	inf-merke	inf-merke	_	32	PUTFYLL	_	_
-34	handle	handle	verb	verb	_	33	INFV	_	_
-
 # file = aal_01um-sl
-# id = 33
+# speaker = aal_01um
+# id = 32
+# annotator = VDT
+1	ikke	ikke	adv	_	_	2	ADV	_	_
+2	i	i	prep	_	_	35	FRAG	_	_
+3	det	det	det	_	nøyt|ent|dem	4	ADV	_	_
+4	heile	heil	adj	_	be|pos|ent	2	PUTFYLL	_	_
+5	tatt	ta	verb	_	perf-part	4	ADV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	11	REP	_	_
+8	vel	vel	adv	_	_	7	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	jeg	jeg	pron	_	nom|1|ent|hum	11	SUBJ	_	_
+11	trur	tru	verb	_	pres	2	KOORD	_	_
+12	noen	noen	pron	_	fem|3|ent|pers	13	SUBJ	_	_
+13	har	ha	verb	_	pres	11	DOBJ	_	_
+14	prøvd	prøve	verb	_	perf-part	13	INFV	_	_
+15	å	å	inf-merke	_	_	14	DOBJ	_	_
+16	starte	starte	verb	_	inf	15	INFV	_	_
+17	en	en	det	_	mask|ent|kvant	18	DET	_	_
+18	kiosk	kiosk	subst	_	ub|mask|ent|appell	16	DOBJ	_	_
+19	ei	ei	det	_	fem|ent|kvant	20	DET	_	_
+20	gang	gang	subst	_	ub|mask|ent|appell	14	ADV	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	men	men	konj	_	_	24	KONJ	_	_
+23	den	den	pron	_	fem|3|ent|pers	24	SUBJ	_	_
+24	gikk	gå	verb	_	pret	2	KOORD	_	_
+25	ikke	ikke	adv	_	_	24	ADV	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	så	så	adv	_	_	29	KONJ	_	_
+28	vi	vi	pron	_	nom|1|fl|hum	29	SUBJ	_	_
+29	må	måtte	verb	_	pres	2	KOORD	_	_
+30	til	til	prep	_	_	29	ADV	_	_
+31	Leveld	Leveld	subst	_	prop	30	PUTFYLL	_	_
+32	for	for	prep	_	_	29	ADV	_	_
+33	å	å	inf-merke	_	_	32	PUTFYLL	_	_
+34	handle	handle	verb	_	inf	33	INFV	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = og så ## ja det er vel bare s- # stort sett bare hotell i Vats trur jeg # det er # to høgfjellshotell # e # tre medregna Skarslia root
 # segstart = 148.591
 # segstop = 161.373
-# speaker = aal_01um
-# text = og så ## ja det er vel bare s- # stort sett bare hotell i Vats trur jeg # det er # to høgfjellshotell # e # tre medregna Skarslia
-1	og	og	konj	konj	_	6	KONJ	_	_
-2	så	så	adv	adv	_	6	ADV	_	_
-3	##	##	pause	pause	_	4	IK	_	_
-4	ja	ja	interj	interj	_	6	INTERJ	_	_
-5	det	det	pron	pron	_	6	FSUBJ	_	_
-6	er	være	verb	verb	_	0	FINV	_	_
-7	vel	vel	adv	adv	_	6	ADV	_	_
-8	bare	bare	adv	adv	_	11	REP	_	_
-9	s-	s	ufullst	ufullst	_	11	FYLL	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	stort	stor	adj	adj	_	12	ADV	_	_
-12	sett	se	verb	verb	_	6	ADV	_	_
-13	bare	bare	adv	adv	_	14	ATR	_	_
-14	hotell	hotell	subst	subst	_	6	SPRED	_	_
-15	i	i	prep	prep	_	6	ADV	_	_
-16	Vats	Vats	subst	subst	_	15	PUTFYLL	_	_
-17	trur	tru	verb	verb	_	6	PAR	_	_
-18	jeg	jeg	pron	pron	_	17	SUBJ	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	det	det	pron	pron	_	21	FSUBJ	_	_
-21	er	være	verb	verb	_	6	KOORD	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	to	to	det	det	_	24	DET	_	_
-24	høgfjellshotell	høgfjellshotell	subst	subst	_	21	SPRED	_	_
-25	#	#	pause	pause	_	28	IK	_	_
-26	e	e	nol	nol	_	28	FYLL	_	_
-27	#	#	pause	pause	_	28	IK	_	_
-28	tre	tre	det	det	_	29	DET	_	_
-29	medregna	medregne	verb	verb	_	24	APP	_	_
-30	Skarslia	Skarslia	subst	subst	_	29	KOORD	_	_
-
 # file = aal_01um-sl
-# id = 34
+# speaker = aal_01um
+# id = 33
+# annotator = VDT
+1	og	og	konj	_	_	6	KONJ	_	_
+2	så	så	adv	_	_	6	ADV	_	_
+3	##	##	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	6	INTERJ	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	er	være	verb	_	pres	31	FINV	_	_
+7	vel	vel	adv	_	_	6	ADV	_	_
+8	bare	bare	adv	_	_	11	REP	_	_
+9	s-	s	ufullst	_	_	11	FYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	stort	stor	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+12	sett	se	verb	_	perf-part	6	ADV	_	_
+13	bare	bare	adv	_	_	6	ADV	_	_
+14	hotell	hotell	subst	_	ub|nøyt|fl|appell	6	PSUBJ	_	_
+15	i	i	prep	_	_	6	ADV	_	_
+16	Vats	Vats	subst	_	prop	15	PUTFYLL	_	_
+17	trur	tru	verb	_	pres	6	PAR	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	17	SUBJ	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	21	FSUBJ	_	_
+21	er	være	verb	_	pres	6	KOORD	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	to	to	det	_	fl|kvant	24	DET	_	_
+24	høgfjellshotell	høgfjellshotell	subst	_	ub|nøyt|fl|samset	21	PSUBJ	_	_
+25	#	#	pause	_	_	28	IK	_	_
+26	e	e	nol	_	_	28	FYLL	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	tre	tre	det	_	fl|kvant	23	APP	_	_
+29	medregna	medregne	verb	_	pret	28	ATR	_	_
+30	Skarslia	Skarslia	subst	_	prop	29	DOBJ	_	_
+31	root	_	_	_	_	0	root	_	_
+
+# text = og så er det # skole ja # bedehus ## idrettsbane ## e ja r0t
 # segstart = 161.373
 # segstop = 174.37
-# speaker = aal_01um
-# text = og så er det # skole ja # bedehus ## idrettsbane ## e ja
-1	og	og	konj	konj	_	3	KONJ	_	_
-2	så	så	adv	adv	_	3	ADV	_	_
-3	er	være	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	FSUBJ	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	skole	skole	subst	subst	_	3	SPRED	_	_
-7	ja	ja	interj	interj	_	3	INTERJ	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	bedehus	bedehus	ukjent	ukjent	_	7	DET	_	_
-10	##	##	pause	pause	_	11	IK	_	_
-11	idrettsbane	idrettsbane	subst	subst	_	9	SPRED	_	_
-12	##	##	pause	pause	_	14	IK	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	ja	ja	interj	interj	_	3	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 35
+# speaker = aal_01um
+# id = 34
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	er	være	verb	_	pres	15	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	skole	skole	subst	_	ub|mask|ent|appell	3	PSUBJ	_	_
+7	ja	ja	interj	_	_	3	INTERJ	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	bedehus	bedehus	subst	_	ub|nøyt|ent|samset	6	KOORD	_	_
+10	##	##	pause	_	_	11	IK	_	_
+11	idrettsbane	idrettsbane	subst	_	ub|mask|ent|appell	6	KOORD	_	_
+12	##	##	pause	_	_	14	IK	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	ja	ja	interj	_	_	3	INTERJ	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = det trur jeg vel stort sett er det # og så er det mange garder da # _uninterpretable_ root
 # segstart = 174.37
 # segstop = 178.758
-# speaker = aal_01um
-# text = det trur jeg vel stort sett er det # og så er det mange garder da #
-1	det	det	pron	pron	_	2	DOBJ	_	_
-2	trur	tru	verb	verb	_	0	FINV	_	_
-3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-4	vel	vel	adv	adv	_	2	ADV	_	_
-5	stort	stor	adj	adj	_	6	ADV	_	_
-6	sett	se	adj	adj	_	7	ADV	_	_
-7	er	være	verb	verb	_	2	DOBJ	_	_
-8	det	det	pron	pron	_	7	FSUBJ	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	og	og	konj	konj	_	12	KONJ	_	_
-11	så	så	adv	adv	_	12	ADV	_	_
-12	er	være	verb	verb	_	2	KOORD	_	_
-13	det	det	pron	pron	_	12	FSUBJ	_	_
-14	mange	mange	adj	adj	_	15	ATR	_	_
-15	garder	garde	subst	subst	_	12	SPRED	_	_
-16	da	da	adv	adv	_	12	ADV	_	_
-17	#	#	pause	pause	_	16	IK	_	_
-
 # file = aal_01um-sl
-# id = 36
+# speaker = aal_01um
+# id = 35
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+2	trur	tru	verb	_	pres	19	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	vel	vel	adv	_	_	2	ADV	_	_
+5	stort	stor	adj	_	ub|pos|nøyt|ent	6	ADV	_	_
+6	sett	se	verb	_	perf-part	2	ADV	_	_
+7	er	være	verb	_	pres	2	DOBJ	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	7	SPRED	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	og	og	konj	_	_	12	KONJ	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	er	være	verb	_	pres	2	KOORD	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+14	mange	mange	adj	_	pos|fl	15	ATR	_	_
+15	garder	gard	subst	_	ub|mask|fl|appell	12	PSUBJ	_	_
+16	da	da	adv	_	_	12	ADV	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	_uninterpretable_	_uninterpretable_	pause	_	_	12	FYLL	_	_
+19	root	_	_	_	_	0	root	_	_
+
+# text = e og der e der gikk du på skole òg ? r0t
 # segstart = 178.758
 # segstop = 181.334
-# speaker = sl
-# text = e og der e der gikk du på skole òg ?
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	og	og	konj	konj	_	6	KONJ	_	_
-3	der	der	prep	prep	_	6	ADV	_	_
-4	e	e	nol	nol	_	5	FYLL	_	_
-5	der	der	prep	prep	_	6	ADV	_	_
-6	gikk	gå	verb	verb	_	0	FINV	_	_
-7	du	du	pron	pron	_	6	SUBJ	_	_
-8	på	på	prep	prep	_	6	ADV	_	_
-9	skole	skole	subst	subst	_	8	PUTFYLL	_	_
-10	òg	òg	adv	adv	_	6	ADV	_	_
-11	?	?	clb	clb	_	6	IP	_	_
-
 # file = aal_01um-sl
-# id = 38
+# speaker = sl
+# id = 36
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	og	og	konj	_	_	6	KONJ	_	_
+3	der	der	prep	_	_	5	REP	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	der	der	prep	_	_	6	ADV	_	_
+6	gikk	gå	verb	_	pret	12	FINV	_	_
+7	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+8	på	på	prep	_	_	6	ADV	_	_
+9	skole	skole	subst	_	ub|mask|ent|appell	8	PUTFYLL	_	_
+10	òg	òg	adv	_	_	6	ADV	_	_
+11	?	?	clb	_	_	6	IP	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = * _uninterpretable_ r0t
+# segstart = 178.758
+# segstop = 181.334
+# file = aal_01um-sl
+# speaker = aal_01um
+# id = 37
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 181.334
 # segstop = 181.62
-# speaker = aal_01um
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 39
+# speaker = aal_01um
+# id = 38
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _uninterpretable_ men sa du at det var nedlagt ? r0t
 # segstart = 181.62
 # segstop = 183.146
-# speaker = sl
-# text = men sa du at det var nedlagt ?
-1	men	men	konj	konj	_	2	KONJ	_	_
-2	sa	si	verb	verb	_	0	FINV	_	_
-3	du	du	pron	pron	_	2	SUBJ	_	_
-4	at	at	sbu	sbu	_	6	SBU	_	_
-5	det	det	pron	pron	_	6	FSUBJ	_	_
-6	var	være	verb	verb	_	2	DOBJ	_	_
-7	nedlagt	nedlegge	adj	adj	_	6	SPRED	_	_
-8	?	?	clb	clb	_	2	IP	_	_
-
 # file = aal_01um-sl
-# id = 40
+# speaker = sl
+# id = 39
+# annotator = VDT
+1	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+2	men	men	konj	_	_	3	KONJ	_	_
+3	sa	si	verb	_	pret	10	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	at	at	sbu	_	_	7	SBU	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	var	være	verb	_	pret	3	DOBJ	_	_
+8	nedlagt	nedlegge	verb	_	perf-part	7	INFV	_	_
+9	?	?	clb	_	_	3	IP	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = den er nedlagt nå ja den ble nedlagt i # han ble nedlagt som som statlig _clears-throat_ skole i # ja det v- tar til blir lenge siden # totusenog- _uninterpretable_ totusen kanskje r0t
 # segstart = 183.146
 # segstop = 196.286
-# speaker = aal_01um
-# text = den er nedlagt nå ja den ble nedlagt i # han ble nedlagt som som statlig skole i # ja det v- tar til blir lenge siden # totusenog- totusen kanskje
-1	den	den	pron	pron	_	2	SUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	nedlagt	nedlegge	adj	adj	_	2	SPRED	_	_
-4	nå	nå	adv	adv	_	2	ADV	_	_
-5	ja	ja	interj	interj	_	7	INTERJ	_	_
-6	den	den	pron	pron	_	7	SUBJ	_	_
-7	ble	bli	verb	verb	_	2	KOORD	_	_
-8	nedlagt	nedlegge	verb	verb	_	7	SPRED	_	_
-9	i	i	prep	prep	_	8	ADV	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	han	han	pron	pron	_	12	SUBJ	_	_
-12	ble	bli	verb	verb	_	2	KOORD	_	_
-13	nedlagt	nedlegge	verb	verb	_	12	SPRED	_	_
-14	som	som	sbu	sbu	_	13	ADV	_	_
-15	som	som	prep	prep	_	14	ADV	_	_
-16	statlig	statlig	adj	adj	_	17	ATR	_	_
-17	skole	skole	subst	subst	_	15	PUTFYLL	_	_
-18	i	i	prep	prep	_	23	REP	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	ja	ja	interj	interj	_	23	INTERJ	_	_
-21	det	det	pron	pron	_	23	FSUBJ	_	_
-22	v-	v-	ufullst	ufullst	_	23	FYLL	_	_
-23	tar	ta	verb	verb	_	12	KOORD	_	_
-24	til	til	prep	prep	_	23	ADV	_	_
-25	blir	bli	verb	verb	_	2	KOORD	_	_
-26	lenge	leng	adj	adj	_	25	ADV	_	_
-27	siden	siden	adv	adv	_	25	SPRED	_	_
-28	#	#	pause	pause	_	29	IK	_	_
-29	totusenog-	totusenog-	ufullst	ufullst	_	30	FYLL	_	_
-30	totusen	totuse	subst	subst	_	25	SUBJ	_	_
-31	kanskje	kanskje	adv	adv	_	25	ADV	_	_
-
 # file = aal_01um-sl
-# id = 41
+# speaker = aal_01um
+# id = 40
+# annotator = VDT
+1	den	den	pron	_	fem|3|ent|pers	2	SUBJ	_	_
+2	er	være	verb	_	pres	34	FINV	_	_
+3	nedlagt	nedlegge	verb	_	perf-part	2	INFV	_	_
+4	nå	nå	adv	_	_	2	ADV	_	_
+5	ja	ja	interj	_	_	2	INTERJ	_	_
+6	den	den	pron	_	fem|3|ent|pers	7	SUBJ	_	_
+7	ble	bli	verb	_	pret	2	KOORD	_	_
+8	nedlagt	nedlegge	verb	_	perf-part	7	INFV	_	_
+9	i	i	prep	_	_	8	SLETT	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	han	han	pron	_	nom|mask|3|ent|pers	12	SUBJ	_	_
+12	ble	bli	verb	_	pret	2	KOORD	_	_
+13	nedlagt	nedlegge	verb	_	perf-part	12	INFV	_	_
+14	som	som	sbu	_	_	15	REP	_	_
+15	som	som	prep	_	_	13	ADV	_	_
+16	statlig	statlig	adj	_	ub|pos|nøyt|ent	18	ATR	_	_
+17	_clears-throat_	_clears-throat_	pause	_	_	18	FYLL	_	_
+18	skole	skole	subst	_	ub|mask|ent|appell	15	PUTFYLL	_	_
+19	i	i	prep	_	_	13	ADV	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	ja	ja	interj	_	_	26	INTERJ	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	26	SUBJ	_	_
+23	v-	v-	ufullst	_	_	24	FYLL	_	_
+24	tar	ta	verb	_	pres	26	SLETT	_	_
+25	til	til	prep	_	_	24	ADV	_	_
+26	blir	bli	verb	_	pres	2	KOORD	_	_
+27	lenge	lenge	adj	_	pos	26	SPRED	_	_
+28	siden	siden	adv	_	_	27	ADV	_	_
+29	#	#	pause	_	_	31	IK	_	_
+30	totusenog-	totusenog-	ufullst	_	_	32	REP	_	_
+31	_uninterpretable_	_uninterpretable_	pause	_	_	26	FYLL	_	_
+32	totusen	totusen	subst	_	ub|nøyt|fl|appell	19	PUTFYLL	_	_
+33	kanskje	kanskje	adv	_	_	13	ADV	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = og så men så er det drevet sånn privatskole # fram til nå i # vår trur jeg det var # så ble han nedlagt r0t
 # segstart = 196.286
 # segstop = 202.701
-# speaker = aal_01um
-# text = og så men så er det drevet sånn privatskole # fram til nå i # vår trur jeg det var # så ble han nedlagt
-1	og	og	konj	konj	_	5	KONJ	_	_
-2	så	så	adv	adv	_	5	ADV	_	_
-3	men	men	konj	konj	_	5	KONJ	_	_
-4	så	så	adv	adv	_	5	ADV	_	_
-5	er	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	drevet	drive	verb	verb	_	5	INFV	_	_
-8	sånn	sånn	det	det	_	9	DET	_	_
-9	privatskole	privatskole	subst	subst	_	7	DOBJ	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	fram	fram	prep	prep	_	7	ADV	_	_
-12	til	til	prep	prep	_	14	REP	_	_
-13	nå	nå	adv	adv	_	14	ADV	_	_
-14	i	i	prep	prep	_	11	PUTFYLL	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	vår	vår	det	det	_	14	PUTFYLL	_	_
-17	trur	tru	verb	verb	_	5	PAR	_	_
-18	jeg	jeg	pron	pron	_	17	SUBJ	_	_
-19	det	det	pron	pron	_	20	FSUBJ	_	_
-20	var	være	verb	verb	_	23	REP	_	_
-21	#	#	pause	pause	_	22	IK	_	_
-22	så	så	adv	adv	_	23	ADV	_	_
-23	ble	bli	verb	verb	_	5	KOORD	_	_
-24	han	han	pron	pron	_	23	SUBJ	_	_
-25	nedlagt	nedlegge	verb	verb	_	23	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 42
+# speaker = aal_01um
+# id = 41
+# annotator = VDT
+1	og	og	konj	_	_	3	REP	_	_
+2	så	så	adv	_	_	3	REP	_	_
+3	men	men	konj	_	_	5	KONJ	_	_
+4	så	så	adv	_	_	5	ADV	_	_
+5	er	være	verb	_	pres	26	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	drevet	drive	verb	_	perf-part	5	INFV	_	_
+8	sånn	sånn	det	_	mask|ent|dem	9	DET	_	_
+9	privatskole	privatskole	subst	_	ub|mask|ent|samset	7	DOBJ	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	fram	fram	prep	_	_	7	ADV	_	_
+12	til	til	prep	_	_	11	PUTFYLL	_	_
+13	nå	nå	adv	_	_	14	ADV	_	_
+14	i	i	prep	_	_	12	PUTFYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	vår	vår	subst	_	ub|mask|ent|appell	14	PUTFYLL	_	_
+17	trur	tru	verb	_	pres	5	PAR	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	17	SUBJ	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	var	være	verb	_	pret	23	REP	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	så	så	adv	_	_	23	ADV	_	_
+23	ble	bli	verb	_	pret	5	KOORD	_	_
+24	han	han	pron	_	nom|mask|3|ent|pers	23	SUBJ	_	_
+25	nedlagt	nedlegge	verb	_	perf-part	23	INFV	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = ok r0t
 # segstart = 202.701
 # segstop = 203.154
-# speaker = sl
-# text = ok
-1	ok	ok	adj	adj	_	0	ADV	_	_
-
 # file = aal_01um-sl
-# id = 43
+# speaker = sl
+# id = 42
+# annotator = VDT
+1	ok	ok	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # så nå må vatsingene til Leveld for å gå på skole r0t
 # segstart = 203.154
 # segstop = 205.753
-# speaker = aal_01um
-# text = mm # så nå må vatsingene til Leveld for å gå på skole
-1	mm	mm	interj	interj	_	5	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	så	så	adv	adv	_	5	ADV	_	_
-4	nå	nå	adv	adv	_	5	ADV	_	_
-5	må	må	verb	verb	_	0	FINV	_	_
-6	vatsingene	vatsinge	subst	subst	_	5	SUBJ	_	_
-7	til	til	prep	prep	_	6	ATR	_	_
-8	Leveld	Leveld	subst	subst	_	7	PUTFYLL	_	_
-9	for	for	prep	prep	_	5	ADV	_	_
-10	å	å	inf-merke	inf-merke	_	9	PUTFYLL	_	_
-11	gå	gå	verb	verb	_	10	INFV	_	_
-12	på	på	prep	prep	_	11	ADV	_	_
-13	skole	skole	subst	subst	_	12	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 44
+# speaker = aal_01um
+# id = 43
+# annotator = VDT
+1	mm	mm	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	adv	_	_	5	ADV	_	_
+4	nå	nå	adv	_	_	5	ADV	_	_
+5	må	måtte	verb	_	pres	14	FINV	_	_
+6	vatsingene	vatsing	subst	_	be|mask|fl|appell	5	SUBJ	_	_
+7	til	til	prep	_	_	5	ADV	_	_
+8	Leveld	Leveld	subst	_	prop	7	PUTFYLL	_	_
+9	for	for	prep	_	_	5	ADV	_	_
+10	å	å	inf-merke	_	_	9	PUTFYLL	_	_
+11	gå	gå	verb	_	inf	10	INFV	_	_
+12	på	på	prep	_	_	11	ADV	_	_
+13	skole	skole	subst	_	ub|mask|ent|appell	12	PUTFYLL	_	_
+14	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 205.753
 # segstop = 206.111
-# speaker = sl
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 45
+# speaker = sl
+# id = 44
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 206.111
 # segstop = 206.445
-# speaker = aal_01um
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 46
+# speaker = aal_01um
+# id = 45
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva slags privatskole # var det ? r0t
 # segstart = 206.445
 # segstop = 209.211
-# speaker = sl
-# text = hva slags privatskole # var det ?
-1	hva	hva	pron	pron	_	2	DET	_	_
-2	slags	slags	subst	subst	_	3	DET	_	_
-3	privatskole	privatskole	subst	subst	_	5	SPRED	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	var	være	verb	verb	_	0	FINV	_	_
-6	det	det	pron	pron	_	5	FSUBJ	_	_
-7	?	?	clb	clb	_	5	IP	_	_
-
 # file = aal_01um-sl
-# id = 48
+# speaker = sl
+# id = 46
+# annotator = VDT
+1	hva	hva	pron	_	sp	2	DET	_	_
+2	slags	slags	subst	_	mask|appell	3	DET	_	_
+3	privatskole	privatskole	subst	_	ub|mask|ent|samset	5	SPRED	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	var	være	verb	_	pret	8	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	?	?	clb	_	_	5	IP	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 206.445
+# segstop = 209.211
+# file = aal_01um-sl
+# speaker = aal_01um
+# id = 47
+# annotator = VDT
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = e jeg har ikke så mye kjennskap til det men e det var det var de lokale m # e lokale bygdefolk som dreiv skolen og r0t
 # segstart = 209.211
 # segstop = 217.725
-# speaker = aal_01um
-# text = e jeg har ikke så mye kjennskap til det men e det var det var de lokale m # e lokale bygdefolk som dreiv skolen og
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	så	så	adv	adv	_	6	ADV	_	_
-6	mye	mye	adj	adj	_	7	ATR	_	_
-7	kjennskap	kjennskap	subst	subst	_	3	DOBJ	_	_
-8	til	til	prep	prep	_	7	ATR	_	_
-9	det	det	pron	pron	_	8	PUTFYLL	_	_
-10	men	men	konj	konj	_	15	KONJ	_	_
-11	e	e	nol	nol	_	12	FYLL	_	_
-12	det	det	pron	pron	_	13	FSUBJ	_	_
-13	var	være	verb	verb	_	15	REP	_	_
-14	det	det	pron	pron	_	15	FSUBJ	_	_
-15	var	være	verb	verb	_	3	KOORD	_	_
-16	de	de	det	det	_	15	DET	_	_
-17	lokale	lokal	adj	adj	_	16	SPRED	_	_
-18	m	m	interj	interj	_	17	INTERJ	_	_
-19	#	#	pause	pause	_	21	IK	_	_
-20	e	e	nol	nol	_	21	FYLL	_	_
-21	lokale	lokal	adj	adj	_	22	ATR	_	_
-22	bygdefolk	bygdefolk	subst	subst	_	17	APP	_	_
-23	som	som	sbu	sbu	_	24	SBU	_	_
-24	dreiv	dreiv	verb	verb	_	22	ATR	_	_
-25	skolen	skole	subst	subst	_	24	DOBJ	_	_
-26	og	og	konj	konj	_	25	KONJ	_	_
-
 # file = aal_01um-sl
-# id = 49
+# speaker = aal_01um
+# id = 48
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	27	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	så	så	adv	_	_	6	ADV	_	_
+6	mye	mye	adj	_	ub|pos|m/f|ent	7	ATR	_	_
+7	kjennskap	kjennskap	subst	_	ub|mask|ent|appell	3	DOBJ	_	_
+8	til	til	prep	_	_	7	ATR	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	PUTFYLL	_	_
+10	men	men	konj	_	_	15	KONJ	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	var	være	verb	_	pret	15	REP	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+15	var	være	verb	_	pret	3	KOORD	_	_
+16	de	de	det	_	fl|dem	17	DET	_	_
+17	lokale	lokal	adj	_	pos|fl	22	REP	_	_
+18	m	m	nol	_	_	21	FYLL	_	_
+19	#	#	pause	_	_	21	IK	_	_
+20	e	e	nol	_	_	21	FYLL	_	_
+21	lokale	lokal	adj	_	pos|fl	22	ATR	_	_
+22	bygdefolk	bygdefolk	subst	_	ub|nøyt|fl|samset	15	SPRED	_	_
+23	som	som	sbu	_	_	24	SBU	_	_
+24	dreiv	dreiv	verb	_	pret	22	ATR	_	_
+25	skolen	skole	subst	_	be|mask|ent|appell	24	DOBJ	_	_
+26	og	og	konj	_	_	24	SLETT	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 217.725
 # segstop = 218.13
-# speaker = sl
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 50
+# speaker = sl
+# id = 49
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 218.13
 # segstop = 218.539
-# speaker = aal_01um
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 51
+# speaker = aal_01um
+# id = 50
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # _front-click_ em ## hvis du tenker tilbake til da du var veldig veldig liten _laughter_ # har du noe sånn første minne ? r0t
 # segstart = 218.539
 # segstop = 226.93
+# file = aal_01um-sl
 # speaker = sl
-# text = ja # em ## hvis du tenker tilbake til da du var veldig veldig liten # har du noe sånn første minne ?
-1	ja	ja	interj	interj	_	7	INTERJ	_	_
-2	#	#	pause	pause	_	1	IK	_	_
-3	em	em	ukjent	ukjent	_	5	FYLL	_	_
-4	##	##	pause	pause	_	5	IK	_	_
-5	hvis	hvis	sbu	sbu	_	7	SBU	_	_
-6	du	du	pron	pron	_	7	SUBJ	_	_
-7	tenker	tenke	verb	verb	_	0	FINV	_	_
-8	tilbake	tilbake	prep	prep	_	7	ADV	_	_
-9	til	til	prep	prep	_	8	PUTFYLL	_	_
-10	da	da	adv	adv	_	12	SBU	_	_
-11	du	du	pron	pron	_	12	SUBJ	_	_
-12	var	være	verb	verb	_	7	ADV	_	_
-13	veldig	veldig	adj	adj	_	15	ADV	_	_
-14	veldig	veldig	adj	adj	_	15	ADV	_	_
-15	liten	liten	adj	adj	_	12	ATR	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	har	ha	verb	verb	_	7	KOORD	_	_
-18	du	du	pron	pron	_	17	SUBJ	_	_
-19	noe	noe	det	det	_	22	DET	_	_
-20	sånn	sånn	det	det	_	22	DET	_	_
-21	første	første	adj	adj	_	22	ATR	_	_
-22	minne	minne	subst	subst	_	17	ADV	_	_
-23	?	?	clb	clb	_	7	IP	_	_
+# id = 51
+# annotator = VDT
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	6	FYLL	_	_
+4	em	em	nol	_	_	6	FYLL	_	_
+5	##	##	pause	_	_	6	IK	_	_
+6	hvis	hvis	sbu	_	_	8	SBU	_	_
+7	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+8	tenker	tenke	verb	_	pres	19	ADV	_	_
+9	tilbake	tilbake	prep	_	_	8	ADV	_	_
+10	til	til	prep	_	_	8	ADV	_	_
+11	da	da	adv	_	_	13	SBU	_	_
+12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+13	var	være	verb	_	pret	10	PUTFYLL	_	_
+14	veldig	veldig	adj	_	ub|pos|nøyt|ent	16	ADV	_	_
+15	veldig	veldig	adj	_	ub|pos|nøyt|ent	16	ADV	_	_
+16	liten	liten	adj	_	ub|pos|m/f|ent	13	SPRED	_	_
+17	_laughter_	_laughter_	pause	_	_	13	FYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	har	ha	verb	_	pres	26	FINV	_	_
+20	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
+21	noe	noe	det	_	nøyt|ent|kvant	24	DET	_	_
+22	sånn	sånn	det	_	mask|ent|dem	24	DET	_	_
+23	første	første	adj	_	ub|pos|nøyt|ent	24	ATR	_	_
+24	minne	minne	subst	_	ub|nøyt|ent|appell	19	DOBJ	_	_
+25	?	?	clb	_	_	19	IP	_	_
+26	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 52
+# text = * mm r0t
 # segstart = 218.539
 # segstop = 226.93
-# speaker = aal_01um
-# text = * mm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 53
+# speaker = aal_01um
+# id = 52
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ oi ## første minne ja ## ja det er vel to minner som e som _uninterpretable_ # som jeg kommer på sånn nå da r0t
 # segstart = 226.93
 # segstop = 239.831
-# speaker = aal_01um
-# text = oi ## første minne ja ## ja det er vel to minner som e som # som jeg kommer på sånn nå da
-1	oi	oie	verb	verb	_	9	INTERJ	_	_
-2	##	##	pause	pause	_	3	IK	_	_
-3	første	første	adj	adj	_	4	ATR	_	_
-4	minne	minne	subst	subst	_	9	ADV	_	_
-5	ja	ja	interj	interj	_	9	INTERJ	_	_
-6	##	##	pause	pause	_	7	IK	_	_
-7	ja	ja	interj	interj	_	9	INTERJ	_	_
-8	det	det	pron	pron	_	9	FSUBJ	_	_
-9	er	være	verb	verb	_	0	FINV	_	_
-10	vel	vel	adv	adv	_	9	ADV	_	_
-11	to	to	det	det	_	12	DET	_	_
-12	minner	minne	subst	subst	_	9	SPRED	_	_
-13	som	som	sbu	sbu	_	19	SBU	_	_
-14	e	e	nol	nol	_	15	FYLL	_	_
-15	som	som	sbu	sbu	_	19	SBU	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	som	som	sbu	sbu	_	19	SBU	_	_
-18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
-19	kommer	komme	verb	verb	_	12	ATR	_	_
-20	på	på	prep	prep	_	19	ADV	_	_
-21	sånn	sånn	adv	adv	_	19	ADV	_	_
-22	nå	nå	adv	adv	_	19	ADV	_	_
-23	da	da	adv	adv	_	19	ADV	_	_
-
 # file = aal_01um-sl
-# id = 54
+# speaker = aal_01um
+# id = 53
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	5	FYLL	_	_
+2	oi	oi	interj	_	_	5	INTERJ	_	_
+3	##	##	pause	_	_	4	IK	_	_
+4	første	første	adj	_	ub|pos|nøyt|ent	5	ATR	_	_
+5	minne	minne	subst	_	ub|nøyt|ent|appell	26	FRAG	_	_
+6	ja	ja	interj	_	_	5	INTERJ	_	_
+7	##	##	pause	_	_	8	IK	_	_
+8	ja	ja	interj	_	_	5	INTERJ	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+10	er	være	verb	_	pres	5	KOORD	_	_
+11	vel	vel	adv	_	_	10	ADV	_	_
+12	to	to	det	_	fl|kvant	13	DET	_	_
+13	minner	minne	subst	_	ub|nøyt|fl|appell	10	PSUBJ	_	_
+14	som	som	sbu	_	_	16	REP	_	_
+15	e	e	nol	_	_	16	FYLL	_	_
+16	som	som	sbu	_	_	19	REP	_	_
+17	_uninterpretable_	_uninterpretable_	pause	_	_	19	FYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	som	som	sbu	_	_	21	SBU	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	21	SUBJ	_	_
+21	kommer	komme	verb	_	pres	13	ATR	_	_
+22	på	på	prep	_	_	21	ADV	_	_
+23	sånn	sånn	adv	_	_	21	ADV	_	_
+24	nå	nå	adv	_	_	21	ADV	_	_
+25	da	da	adv	_	_	21	ADV	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = det ene var når jeg var borte hos en kamerat så gikk vi # opp i skogen # og # skulle grave snøhule r0t
 # segstart = 239.831
 # segstop = 246.556
-# speaker = aal_01um
-# text = det ene var når jeg var borte hos en kamerat så gikk vi # opp i skogen # og # skulle grave snøhule
-1	det	det	det	det	_	2	DET	_	_
-2	ene	ene	det	det	_	3	SUBJ	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	når	når	sbu	sbu	_	6	SBU	_	_
-5	jeg	jeg	pron	pron	_	6	SUBJ	_	_
-6	var	være	verb	verb	_	11	APP	_	_
-7	borte	borte	prep	prep	_	6	SPRED	_	_
-8	hos	hos	prep	prep	_	6	ADV	_	_
-9	en	en	det	det	_	10	DET	_	_
-10	kamerat	kamerat	subst	subst	_	8	PUTFYLL	_	_
-11	så	så	adv	adv	_	12	ADV	_	_
-12	gikk	gå	verb	verb	_	3	SPRED	_	_
-13	vi	vi	pron	pron	_	12	SUBJ	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	opp	opp	prep	prep	_	12	ADV	_	_
-16	i	i	prep	prep	_	15	PUTFYLL	_	_
-17	skogen	skog	subst	subst	_	16	PUTFYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	og	og	konj	konj	_	21	KONJ	_	_
-20	#	#	pause	pause	_	21	IK	_	_
-21	skulle	skulle	verb	verb	_	12	KOORD	_	_
-22	grave	grave	verb	verb	_	21	INFV	_	_
-23	snøhule	snøhule	subst	subst	_	22	DOBJ	_	_
-
 # file = aal_01um-sl
-# id = 55
+# speaker = aal_01um
+# id = 54
+# annotator = VDT
+1	det	det	det	_	nøyt|ent|dem	2	DET	_	_
+2	ene	ene	det	_	be|ent|kvant	3	SUBJ	_	_
+3	var	være	verb	_	pret	24	FINV	_	_
+4	når	når	sbu	_	_	6	SBU	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	6	SUBJ	_	_
+6	var	være	verb	_	pret	11	APP	_	_
+7	borte	borte	prep	_	_	6	SPRED	_	_
+8	hos	hos	prep	_	_	7	PUTFYLL	_	_
+9	en	en	det	_	mask|ent|kvant	10	DET	_	_
+10	kamerat	kamerat	subst	_	ub|mask|ent|appell	8	PUTFYLL	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	gikk	gå	verb	_	pret	3	SPRED	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	opp	opp	prep	_	_	12	ADV	_	_
+16	i	i	prep	_	_	15	PUTFYLL	_	_
+17	skogen	skog	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	og	og	konj	_	_	21	KONJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	skulle	skulle	verb	_	pret	12	KOORD	_	_
+22	grave	grave	verb	_	inf	21	INFV	_	_
+23	snøhule	snøhule	subst	_	ub|fem|ent|samset	22	DOBJ	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = og så # begynte vi å grave # og plutselig så gikk vi gjennom snøen da datt langt nedi for det var da traff jeg på en gammal # en gammal brønn # _laughter_ r0t
 # segstart = 246.556
 # segstop = 255.69
-# speaker = aal_01um
-# text = og så # begynte vi å grave # og plutselig så gikk vi gjennom snøen da datt langt nedi for det var da traff jeg på en gammal # en gammal brønn #
-1	og	og	konj	konj	_	4	KONJ	_	_
-2	så	så	adv	adv	_	4	ADV	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	begynte	begynne	verb	verb	_	0	FINV	_	_
-5	vi	vi	pron	pron	_	4	SUBJ	_	_
-6	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
-7	grave	grave	verb	verb	_	6	INFV	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	og	og	konj	konj	_	12	KONJ	_	_
-10	plutselig	plutselig	adj	adj	_	11	APP	_	_
-11	så	så	adv	adv	_	12	ADV	_	_
-12	gikk	gå	verb	verb	_	4	KOORD	_	_
-13	vi	vi	pron	pron	_	12	SUBJ	_	_
-14	gjennom	gjennom	prep	prep	_	12	ADV	_	_
-15	snøen	snø	subst	subst	_	14	PUTFYLL	_	_
-16	da	da	adv	adv	_	17	ADV	_	_
-17	datt	dette	verb	verb	_	4	KOORD	_	_
-18	langt	lang	adj	adj	_	19	ADV	_	_
-19	nedi	nedi	prep	prep	_	17	ADV	_	_
-20	for	for	konj	konj	_	22	KONJ	_	_
-21	det	det	pron	pron	_	22	FSUBJ	_	_
-22	var	være	verb	verb	_	17	KOORD	_	_
-23	da	da	adv	adv	_	24	ADV	_	_
-24	traff	treffe	verb	verb	_	22	KOORD	_	_
-25	jeg	jeg	pron	pron	_	24	SUBJ	_	_
-26	på	på	prep	prep	_	24	ADV	_	_
-27	en	en	det	det	_	32	DET	_	_
-28	gammal	gammal	adj	adj	_	32	ATR	_	_
-29	#	#	pause	pause	_	30	IK	_	_
-30	en	en	det	det	_	32	DET	_	_
-31	gammal	gammal	adj	adj	_	32	ATR	_	_
-32	brønn	brønn	subst	subst	_	26	PUTFYLL	_	_
-33	#	#	pause	pause	_	32	IK	_	_
-
 # file = aal_01um-sl
-# id = 56
+# speaker = aal_01um
+# id = 55
+# annotator = VDT
+1	og	og	konj	_	_	4	KONJ	_	_
+2	så	så	adv	_	_	4	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	begynte	begynne	verb	_	pret	35	FINV	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+6	å	å	inf-merke	_	_	4	DOBJ	_	_
+7	grave	grave	verb	_	inf	6	INFV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	og	og	konj	_	_	12	KONJ	_	_
+10	plutselig	plutselig	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	gikk	gå	verb	_	pret	4	KOORD	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+14	gjennom	gjennom	prep	_	_	12	ADV	_	_
+15	snøen	snø	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+16	da	da	adv	_	_	12	ADV	_	_
+17	datt	dette	verb	_	pret	4	KOORD	_	_
+18	langt	lang	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+19	nedi	nedi	prep	_	_	17	ADV	_	_
+20	for	for	konj	_	_	22	KONJ	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+22	var	være	verb	_	pret	24	SLETT	_	_
+23	da	da	adv	_	_	24	ADV	_	_
+24	traff	treffe	verb	_	pret	4	KOORD	_	_
+25	jeg	jeg	pron	_	nom|1|ent|hum	24	SUBJ	_	_
+26	på	på	prep	_	_	24	ADV	_	_
+27	en	en	det	_	mask|ent|kvant	30	REP	_	_
+28	gammal	gammal	adj	_	ub|pos|m/f|ent	30	REP	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	en	en	det	_	mask|ent|kvant	32	DET	_	_
+31	gammal	gammal	adj	_	ub|pos|m/f|ent	32	ATR	_	_
+32	brønn	brønn	subst	_	ub|mask|ent|appell	26	PUTFYLL	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = _uninterpretable_ vi for langt nedi _uninterpretable_ det var ikke noe problem å komme opp att for det mye snø så _uninterpretable_ klatre opp på snøen # men det var var litt sånn artig root
 # segstart = 255.69
 # segstop = 262.558
-# speaker = aal_01um
-# text = vi for langt nedi det var ikke noe problem å komme opp att for det mye snø så klatre opp på snøen # men det var var litt sånn artig
-1	vi	vi	pron	pron	_	5	APP	_	_
-2	for	for	adv	adv	_	4	REP	_	_
-3	langt	lang	adj	adj	_	4	ADV	_	_
-4	nedi	nedi	prep	prep	_	1	ATR	_	_
-5	det	det	pron	pron	_	6	SUBJ	_	_
-6	var	være	verb	verb	_	0	KOORD	_	_
-7	ikke	ikke	adv	adv	_	6	ADV	_	_
-8	noe	noen	det	det	_	9	DET	_	_
-9	problem	problem	subst	subst	_	6	SPRED	_	_
-10	å	å	inf-merke	inf-merke	_	6	PSUBJ	_	_
-11	komme	komme	verb	verb	_	10	INFV	_	_
-12	opp	opp	prep	prep	_	11	ADV	_	_
-13	att	att	prep	prep	_	11	ADV	_	_
-14	for	for	prep	prep	_	11	ADV	_	_
-15	det	det	pron	pron	_	17	DET	_	_
-16	mye	mye	adj	adj	_	17	ATR	_	_
-17	snø	snø	subst	subst	_	14	PUTFYLL	_	_
-18	så	så	adv	adv	_	19	ADV	_	_
-19	klatre	klatre	subst	subst	_	11	KOORD	_	_
-20	opp	opp	prep	prep	_	19	ADV	_	_
-21	på	på	prep	prep	_	20	PUTFYLL	_	_
-22	snøen	snø	subst	subst	_	21	PUTFYLL	_	_
-23	#	#	pause	pause	_	24	IK	_	_
-24	men	men	konj	konj	_	26	KONJ	_	_
-25	det	det	pron	pron	_	26	FSUBJ	_	_
-26	var	være	verb	verb	_	27	REP	_	_
-27	var	være	verb	verb	_	6	KOORD	_	_
-28	litt	litt	adj	adj	_	30	ADV	_	_
-29	sånn	sånn	det	det	_	30	DET	_	_
-30	artig	artig	adj	adj	_	27	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 57
+# speaker = aal_01um
+# id = 56
+# annotator = VDT
+1	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	for	fare	verb	_	pret	34	KOORD	_	_
+4	langt	lang	adj	_	ub|pos|nøyt|ent	5	ADV	_	_
+5	nedi	nedi	prep	_	_	3	ADV	_	_
+6	_uninterpretable_	_uninterpretable_	pause	_	_	8	FYLL	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	var	være	verb	_	pret	3	KOORD	_	_
+9	ikke	ikke	adv	_	_	8	ADV	_	_
+10	noe	noen	det	_	nøyt|ent|kvant	11	DET	_	_
+11	problem	problem	subst	_	ub|nøyt|ent|appell	8	SPRED	_	_
+12	å	å	inf-merke	_	_	8	PSUBJ	_	_
+13	komme	komme	verb	_	inf	12	INFV	_	_
+14	opp	opp	prep	_	_	13	ADV	_	_
+15	att	att	prep	_	_	13	ADV	_	_
+16	for	for	konj	_	_	19	KONJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+18	mye	mye	adj	_	ub|pos|m/f|ent	19	ATR	_	_
+19	snø	snø	subst	_	ub|mask|ent|appell	3	KOORD	_	_
+20	så	så	adv	_	_	22	REP	_	_
+21	_uninterpretable_	_uninterpretable_	pause	_	_	22	FYLL	_	_
+22	klatre	klatre	verb	_	inf	3	KOORD	_	_
+23	opp	opp	prep	_	_	22	ADV	_	_
+24	på	på	prep	_	_	22	ADV	_	_
+25	snøen	snø	subst	_	be|mask|ent|appell	24	PUTFYLL	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	men	men	konj	_	_	30	KONJ	_	_
+28	det	det	pron	_	nøyt|3|ent|pers	30	FSUBJ	_	_
+29	var	være	verb	_	pret	30	REP	_	_
+30	var	være	verb	_	pret	3	KOORD	_	_
+31	litt	litt	adj	_	ub|pos|nøyt|ent	30	ADV	_	_
+32	sånn	sånn	det	_	mask|ent|dem	33	DET	_	_
+33	artig	artig	adj	_	ub|pos|nøyt|ent	30	SPRED	_	_
+34	root	_	_	_	_	0	root	_	_
+
+# text = e og så en anna gang som jeg var borte hos en annen kamerat lenger inn i bygden # og vi fant ut at # det gikk an # å # tenne på papir # _laughter_ r0t
 # segstart = 262.558
 # segstop = 273.814
-# speaker = aal_01um
-# text = e og så en anna gang som jeg var borte hos en annen kamerat lenger inn i bygden # og vi fant ut at # det gikk an # å # tenne på papir #
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	og	og	konj	konj	_	22	KONJ	_	_
-3	så	så	adv	adv	_	22	ADV	_	_
-4	en	en	det	det	_	6	DET	_	_
-5	anna	anna	adj	adj	_	6	DET	_	_
-6	gang	gang	subst	subst	_	22	ADV	_	_
-7	som	som	sbu	sbu	_	9	SBU	_	_
-8	jeg	jeg	pron	pron	_	9	SUBJ	_	_
-9	var	være	verb	verb	_	6	ATR	_	_
-10	borte	borte	prep	prep	_	9	ADV	_	_
-11	hos	hos	prep	prep	_	9	ADV	_	_
-12	en	en	det	det	_	14	DET	_	_
-13	annen	annen	det	det	_	14	DET	_	_
-14	kamerat	kamerat	subst	subst	_	11	PUTFYLL	_	_
-15	lenger	lenger	adj	adj	_	16	ADV	_	_
-16	inn	inn	prep	prep	_	9	ADV	_	_
-17	i	i	prep	prep	_	16	PUTFYLL	_	_
-18	bygden	bygd	subst	subst	_	17	PUTFYLL	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	og	og	konj	konj	_	22	KONJ	_	_
-21	vi	vi	pron	pron	_	22	SUBJ	_	_
-22	fant	finne	verb	verb	_	0	FINV	_	_
-23	ut	ut	prep	prep	_	22	ADV	_	_
-24	at	at	sbu	sbu	_	27	SBU	_	_
-25	#	#	pause	pause	_	26	IK	_	_
-26	det	det	pron	pron	_	27	FSUBJ	_	_
-27	gikk	gå	verb	verb	_	22	DOBJ	_	_
-28	an	an	adv	adv	_	27	ADV	_	_
-29	#	#	pause	pause	_	30	IK	_	_
-30	å	å	inf-merke	inf-merke	_	28	KOORD	_	_
-31	#	#	pause	pause	_	32	IK	_	_
-32	tenne	tenne	subst	subst	_	30	INFV	_	_
-33	på	på	prep	prep	_	32	ADV	_	_
-34	papir	papir	subst	subst	_	33	PUTFYLL	_	_
-35	#	#	pause	pause	_	34	IK	_	_
-
 # file = aal_01um-sl
-# id = 58
+# speaker = aal_01um
+# id = 57
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	og	og	konj	_	_	6	KONJ	_	_
+3	så	så	adv	_	_	6	ADV	_	_
+4	en	en	det	_	mask|ent|kvant	6	DET	_	_
+5	anna	annen	det	_	ub|fem|ent|dem	6	DET	_	_
+6	gang	gang	subst	_	ub|mask|ent|appell	37	FRAG	_	_
+7	som	som	sbu	_	_	9	SBU	_	_
+8	jeg	jeg	pron	_	nom|1|ent|hum	9	SUBJ	_	_
+9	var	være	verb	_	pret	6	ATR	_	_
+10	borte	borte	prep	_	_	9	ADV	_	_
+11	hos	hos	prep	_	_	9	ADV	_	_
+12	en	en	det	_	mask|ent|kvant	14	DET	_	_
+13	annen	annen	det	_	ub|mask|ent|dem	14	DET	_	_
+14	kamerat	kamerat	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+15	lenger	lenger	adj	_	komp	16	ADV	_	_
+16	inn	inn	prep	_	_	9	ADV	_	_
+17	i	i	prep	_	_	16	PUTFYLL	_	_
+18	bygden	bygd	subst	_	ub|mask|ent|appell	17	PUTFYLL	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	og	og	konj	_	_	22	KONJ	_	_
+21	vi	vi	pron	_	nom|1|fl|hum	22	SUBJ	_	_
+22	fant	finne	verb	_	pret	6	KOORD	_	_
+23	ut	ut	prep	_	_	22	ADV	_	_
+24	at	at	sbu	_	_	27	SBU	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	27	FSUBJ	_	_
+27	gikk	gå	verb	_	pret	22	DOBJ	_	_
+28	an	an	adv	_	_	27	ADV	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	å	å	inf-merke	_	_	27	DOBJ	_	_
+31	#	#	pause	_	_	32	IK	_	_
+32	tenne	tenne	verb	_	inf	30	INFV	_	_
+33	på	på	prep	_	_	32	ADV	_	_
+34	papir	papir	subst	_	ub|nøyt|ent|appell	33	PUTFYLL	_	_
+35	#	#	pause	_	_	36	IK	_	_
+36	_laughter_	_laughter_	pause	_	_	27	FYLL	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = og så # regna det ute så vi gikk inn i garasje og gjorde det der r0t
 # segstart = 273.814
 # segstop = 277.033
-# speaker = aal_01um
-# text = og så # regna det ute så vi gikk inn i garasje og gjorde det der
-1	og	og	konj	konj	_	4	KONJ	_	_
-2	så	så	adv	adv	_	4	ADV	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	regna	regn	verb	verb	_	0	FINV	_	_
-5	det	det	pron	pron	_	4	FSUBJ	_	_
-6	ute	ute	prep	prep	_	4	ADV	_	_
-7	så	så	adv	adv	_	9	ADV	_	_
-8	vi	vi	pron	pron	_	9	SUBJ	_	_
-9	gikk	gå	verb	verb	_	4	KOORD	_	_
-10	inn	inn	prep	prep	_	9	ADV	_	_
-11	i	i	prep	prep	_	9	ADV	_	_
-12	garasje	garasje	subst	subst	_	11	PUTFYLL	_	_
-13	og	og	konj	konj	_	14	KONJ	_	_
-14	gjorde	gjøre	verb	verb	_	9	KOORD	_	_
-15	det	det	pron	pron	_	14	DOBJ	_	_
-16	der	der	prep	prep	_	14	ADV	_	_
-
 # file = aal_01um-sl
-# id = 59
+# speaker = aal_01um
+# id = 58
+# annotator = VDT
+1	og	og	konj	_	_	4	KONJ	_	_
+2	så	så	adv	_	_	4	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	regna	regne	verb	_	pret	17	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	ute	ute	prep	_	_	4	ADV	_	_
+7	så	så	konj	_	_	9	KONJ	_	_
+8	vi	vi	pron	_	nom|1|fl|hum	9	SUBJ	_	_
+9	gikk	gå	verb	_	pret	4	KOORD	_	_
+10	inn	inn	prep	_	_	9	ADV	_	_
+11	i	i	prep	_	_	9	ADV	_	_
+12	garasje	garasje	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	gjorde	gjøre	verb	_	pret	4	KOORD	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	14	DOBJ	_	_
+16	der	der	prep	_	_	14	ADV	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = å nei r0t
 # segstart = 277.033
 # segstop = 278.046
-# speaker = sl
-# text = å nei
-1	å	å	interj	interj	_	0	INTERJ	_	_
-2	nei	nei	interj	interj	_	1	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 61
+# speaker = sl
+# id = 59
+# annotator = VDT
+1	å	å	interj	_	_	3	INTERJ	_	_
+2	nei	nei	interj	_	_	1	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 277.033
+# segstop = 278.046
+# file = aal_01um-sl
+# speaker = aal_01um
+# id = 60
+# annotator = VDT
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja det gjorde vi så da sto vi inni der og lagde det bålet # og så når vi da # _uninterpretable_ # nå så ropte m- ja mor hans kom ut i glaset og ropte at det var middag r0t
 # segstart = 278.046
 # segstop = 288.337
-# speaker = aal_01um
-# text = ja ja det gjorde vi så da sto vi inni der og lagde det bålet # og så når vi da # # nå så ropte m- ja mor hans kom ut i glaset og ropte at det var middag
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	ja	ja	interj	interj	_	4	INTERJ	_	_
-3	det	det	pron	pron	_	4	DOBJ	_	_
-4	gjorde	gjøre	verb	verb	_	0	FINV	_	_
-5	vi	vi	pron	pron	_	4	SUBJ	_	_
-6	så	så	adv	adv	_	8	ADV	_	_
-7	da	da	adv	adv	_	8	ADV	_	_
-8	sto	stå	verb	verb	_	26	REP	_	_
-9	vi	vi	pron	pron	_	8	SUBJ	_	_
-10	inni	inni	prep	prep	_	8	ADV	_	_
-11	der	der	prep	prep	_	10	PUTFYLL	_	_
-12	og	og	konj	konj	_	13	KONJ	_	_
-13	lagde	lage	verb	verb	_	8	KOORD	_	_
-14	det	det	pron	pron	_	13	IOBJ	_	_
-15	bålet	bål	subst	subst	_	13	DOBJ	_	_
-16	#	#	pause	pause	_	17	IK	_	_
-17	og	og	konj	konj	_	26	KONJ	_	_
-18	så	så	adv	adv	_	26	ADV	_	_
-19	når	når	sbu	sbu	_	26	SBU	_	_
-20	vi	vi	pron	pron	_	26	SUBJ	_	_
-21	da	da	adv	adv	_	26	ADV	_	_
-22	#	#	pause	pause	_	21	IK	_	_
-23	#	#	pause	pause	_	24	IK	_	_
-24	nå	nå	adv	adv	_	25	APP	_	_
-25	så	så	adv	adv	_	26	ADV	_	_
-26	ropte	rope	verb	verb	_	31	REP	_	_
-27	m-	m-	ufullst	ufullst	_	28	FYLL	_	_
-28	ja	ja	interj	interj	_	31	INTERJ	_	_
-29	mor	mor	subst	subst	_	31	SUBJ	_	_
-30	hans	hans	det	det	_	29	DET	_	_
-31	kom	komme	verb	verb	_	4	KOORD	_	_
-32	ut	ut	prep	prep	_	31	ADV	_	_
-33	i	i	prep	prep	_	31	ADV	_	_
-34	glaset	glase	subst	subst	_	33	PUTFYLL	_	_
-35	og	og	konj	konj	_	36	KONJ	_	_
-36	ropte	rope	verb	verb	_	31	KOORD	_	_
-37	at	at	sbu	sbu	_	39	SBU	_	_
-38	det	det	pron	pron	_	39	FSUBJ	_	_
-39	var	være	verb	verb	_	36	DOBJ	_	_
-40	middag	middag	subst	subst	_	39	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 62
+# speaker = aal_01um
+# id = 61
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	DOBJ	_	_
+4	gjorde	gjøre	verb	_	pret	42	FINV	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+6	så	så	konj	_	_	8	KONJ	_	_
+7	da	da	adv	_	_	8	ADV	_	_
+8	sto	stå	verb	_	pret	4	KOORD	_	_
+9	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+10	inni	inni	prep	_	_	8	ADV	_	_
+11	der	der	prep	_	_	10	PUTFYLL	_	_
+12	og	og	konj	_	_	13	KONJ	_	_
+13	lagde	lage	verb	_	pret	8	KOORD	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	DET	_	_
+15	bålet	bål	subst	_	be|nøyt|ent|appell	13	DOBJ	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	og	og	konj	_	_	27	KONJ	_	_
+18	så	så	adv	_	_	20	ADV	_	_
+19	når	når	sbu	_	_	20	SBU	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	27	REP	_	_
+21	da	da	adv	_	_	20	ADV	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	_uninterpretable_	_uninterpretable_	pause	_	_	27	FYLL	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	nå	nå	adv	_	_	27	REP	_	_
+26	så	så	adv	_	_	27	ADV	_	_
+27	ropte	rope	verb	_	pret	32	REP	_	_
+28	m-	m-	ufullst	_	_	29	FYLL	_	_
+29	ja	ja	interj	_	_	27	INTERJ	_	_
+30	mor	mor	subst	_	ub|fem|ent|appell	32	SUBJ	_	_
+31	hans	hans	det	_	fem|ent|poss	30	DET	_	_
+32	kom	komme	verb	_	pret	4	KOORD	_	_
+33	ut	ut	prep	_	_	32	ADV	_	_
+34	i	i	prep	_	_	32	ADV	_	_
+35	glaset	glas	subst	_	be|nøyt|ent|appell	34	PUTFYLL	_	_
+36	og	og	konj	_	_	37	KONJ	_	_
+37	ropte	rope	verb	_	pret	32	KOORD	_	_
+38	at	at	sbu	_	_	40	SBU	_	_
+39	det	det	pron	_	nøyt|3|ent|pers	40	FSUBJ	_	_
+40	var	være	verb	_	pret	37	DOBJ	_	_
+41	middag	middag	subst	_	ub|mask|ent|appell	40	SPRED	_	_
+42	r0t	_	_	_	_	0	root	_	_
+
+# text = og så lot jo vi opp døra til garasjen og røyken _uninterpretable_ og stakkars mor hans kan tenke var heilt r0t
 # segstart = 288.337
 # segstop = 295.038
-# speaker = aal_01um
-# text = og så lot jo vi opp døra til garasjen og røyken og stakkars mor hans kan tenke var heilt
-1	og	og	konj	konj	_	3	KONJ	_	_
-2	så	så	adv	adv	_	3	ADV	_	_
-3	lot	la	verb	verb	_	0	FINV	_	_
-4	jo	jo	adv	adv	_	3	ADV	_	_
-5	vi	vi	pron	pron	_	3	SUBJ	_	_
-6	opp	opp	prep	prep	_	3	ADV	_	_
-7	døra	dør	subst	subst	_	3	DOBJ	_	_
-8	til	til	prep	prep	_	7	ATR	_	_
-9	garasjen	garasje	subst	subst	_	8	PUTFYLL	_	_
-10	og	og	konj	konj	_	9	KONJ	_	_
-11	røyken	røyk	subst	subst	_	9	KOORD	_	_
-12	og	og	konj	konj	_	14	KONJ	_	_
-13	stakkars	stakkars	adj	adj	_	14	ATR	_	_
-14	mor	mor	subst	subst	_	9	KOORD	_	_
-15	hans	hans	det	det	_	14	DET	_	_
-16	kan	kan	verb	verb	_	3	KOORD	_	_
-17	tenke	tenke	verb	verb	_	16	INFV	_	_
-18	var	være	verb	verb	_	3	KOORD	_	_
-19	heilt	heil	adj	adj	_	18	ADV	_	_
-
 # file = aal_01um-sl
-# id = 63
+# speaker = aal_01um
+# id = 62
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	lot	la	verb	_	pret	21	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+6	opp	opp	prep	_	_	3	ADV	_	_
+7	døra	dør	subst	_	be|fem|ent|appell	3	DOBJ	_	_
+8	til	til	prep	_	_	7	ATR	_	_
+9	garasjen	garasje	subst	_	be|mask|ent|appell	8	PUTFYLL	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	røyken	røyk	subst	_	be|mask|ent|appell	3	KOORD	_	_
+12	_uninterpretable_	_uninterpretable_	pause	_	_	11	FYLL	_	_
+13	og	og	konj	_	_	15	KONJ	_	_
+14	stakkars	stakkars	adj	_	be|pos|ent	15	ATR	_	_
+15	mor	mor	subst	_	ub|fem|ent|appell	19	SUBJ	_	_
+16	hans	hans	det	_	fem|ent|poss	15	DET	_	_
+17	kan	kunne	verb	_	pres	3	KOORD	_	_
+18	tenke	tenke	verb	_	inf	17	INFV	_	_
+19	var	være	verb	_	pret	18	DOBJ	_	_
+20	heilt	heil	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = ja hun var ikke god å ha med å gjøre da _uninterpretable_ _laughter_ r0t
 # segstart = 295.038
 # segstop = 301.024
-# speaker = aal_01um
-# text = ja hun var ikke god å ha med å gjøre da
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	hun	hun	pron	pron	_	3	SUBJ	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	god	god	adj	adj	_	3	SPRED	_	_
-6	å	å	inf-merke	inf-merke	_	5	ADV	_	_
-7	ha	ha	verb	verb	_	6	INFV	_	_
-8	med	med	prep	prep	_	7	ADV	_	_
-9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	_
-10	gjøre	gjøre	verb	verb	_	9	INFV	_	_
-11	da	da	adv	adv	_	10	ADV	_	_
-
 # file = aal_01um-sl
-# id = 64
+# speaker = aal_01um
+# id = 63
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	hun	hun	pron	_	nom|fem|3|ent|hum	3	SUBJ	_	_
+3	var	være	verb	_	pret	14	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	god	god	adj	_	ub|pos|m/f|ent	3	SPRED	_	_
+6	å	å	inf-merke	_	_	5	ADV	_	_
+7	ha	ha	verb	_	inf	6	INFV	_	_
+8	med	med	prep	_	_	7	ADV	_	_
+9	å	å	inf-merke	_	_	8	PUTFYLL	_	_
+10	gjøre	gjøre	verb	_	inf	9	INFV	_	_
+11	da	da	adv	_	_	3	ADV	_	_
+12	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+13	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
+14	r0t	_	_	_	_	0	root	_	_
+
+# text = e men da du var e når du ikke var på skolen da du var liten r0t
 # segstart = 301.024
 # segstop = 307.63
-# speaker = sl
-# text = e men da du var e når du ikke var på skolen da du var liten
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	men	men	konj	konj	_	10	KONJ	_	_
-3	da	da	sbu	sbu	_	5	SBU	_	_
-4	du	du	pron	pron	_	5	SUBJ	_	_
-5	var	være	verb	verb	_	10	REP	_	_
-6	e	e	nol	nol	_	7	FYLL	_	_
-7	når	når	sbu	sbu	_	10	SBU	_	_
-8	du	du	pron	pron	_	10	SUBJ	_	_
-9	ikke	ikke	adv	adv	_	10	ADV	_	_
-10	var	være	verb	verb	_	0	FINV	_	_
-11	på	på	prep	prep	_	10	SPRED	_	_
-12	skolen	skole	subst	subst	_	11	PUTFYLL	_	_
-13	da	da	adv	adv	_	15	SBU	_	_
-14	du	du	pron	pron	_	15	SUBJ	_	_
-15	var	være	verb	verb	_	10	ADV	_	_
-16	liten	liten	adj	adj	_	15	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 65
+# speaker = sl
+# id = 64
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	men	men	konj	_	_	10	KONJ	_	_
+3	da	da	sbu	_	_	5	SBU	_	_
+4	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
+5	var	være	verb	_	pret	10	REP	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	når	når	sbu	_	_	10	SBU	_	_
+8	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+9	ikke	ikke	adv	_	_	10	ADV	_	_
+10	var	være	verb	_	pret	17	FINV	_	_
+11	på	på	prep	_	_	10	SPRED	_	_
+12	skolen	skole	subst	_	be|mask|ent|appell	11	PUTFYLL	_	_
+13	da	da	adv	_	_	15	SBU	_	_
+14	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+15	var	være	verb	_	pret	10	ADV	_	_
+16	liten	liten	adj	_	ub|pos|mask|ent	15	SPRED	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 304.291
 # segstop = 304.625
-# speaker = aal_01um
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 66
+# speaker = aal_01um
+# id = 65
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hadde du var du med på noe fritidsaktiviteter eller noe sånn noe ? r0t
 # segstart = 304.625
 # segstop = 307.63
-# speaker = sl
-# text = hadde du var du med på noe fritidsaktiviteter eller noe sånn noe ?
-1	hadde	ha	verb	verb	_	3	REP	_	_
-2	du	du	pron	pron	_	1	SUBJ	_	_
-3	var	være	verb	verb	_	0	FINV	_	_
-4	du	du	pron	pron	_	3	SUBJ	_	_
-5	med	med	prep	prep	_	6	REP	_	_
-6	på	på	prep	prep	_	3	SPRED	_	_
-7	noe	noe	det	det	_	8	DET	_	_
-8	fritidsaktiviteter	fritidsaktivitet	subst	subst	_	6	PUTFYLL	_	_
-9	eller	eller	konj	konj	_	12	KONJ	_	_
-10	noe	noe	det	det	_	11	DET	_	_
-11	sånn	sånn	adv	adv	_	12	DET	_	_
-12	noe	noe	pron	pron	_	3	KOORD	_	_
-13	?	?	clb	clb	_	3	IP	_	_
-
 # file = aal_01um-sl
-# id = 67
+# speaker = sl
+# id = 66
+# annotator = VDT
+1	hadde	ha	verb	_	pret	3	REP	_	_
+2	du	du	pron	_	nom|2|ent|hum	1	SUBJ	_	_
+3	var	være	verb	_	pret	14	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	med	med	prep	_	_	3	SPRED	_	_
+6	på	på	prep	_	_	3	ADV	_	_
+7	noe	noe	det	_	nøyt|ent|kvant	8	DET	_	_
+8	fritidsaktiviteter	fritidsaktivitet	subst	_	ub|mask|fl|samset	6	PUTFYLL	_	_
+9	eller	eller	konj	_	_	12	KONJ	_	_
+10	noe	noe	det	_	nøyt|ent|kvant	11	DET	_	_
+11	sånn	sånn	adv	_	_	12	DET	_	_
+12	noe	noe	pron	_	nøyt|3|ent|pers	8	KOORD	_	_
+13	?	?	clb	_	_	3	IP	_	_
+14	r0t	_	_	_	_	0	root	_	_
+
+# text = ja jeg var jo det men da reiste jeg ned til Sundre da # for at det var jo her det skjedde og n- det var liksom r0t
 # segstart = 307.63
 # segstop = 339.491
-# speaker = aal_01um
-# text = ja jeg var jo det men da reiste jeg ned til Sundre da # for at det var jo her det skjedde og n- det var liksom
-1	ja	ja	interj	interj	_	3	INTERJ	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	var	være	verb	verb	_	0	REP	_	_
-4	jo	jo	adv	adv	_	3	ADV	_	_
-5	det	det	pron	pron	_	3	SPRED	_	_
-6	men	men	konj	konj	_	8	KONJ	_	_
-7	da	da	adv	adv	_	8	ADV	_	_
-8	reiste	reise	verb	verb	_	3	KOORD	_	_
-9	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-10	ned	ned	prep	prep	_	8	ADV	_	_
-11	til	til	prep	prep	_	10	PUTFYLL	_	_
-12	Sundre	Sundre	subst	subst	_	11	PUTFYLL	_	_
-13	da	da	adv	adv	_	8	ADV	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	for	for	prep	prep	_	26	KONJ	_	_
-16	at	at	sbu	sbu	_	18	SBU	_	_
-17	det	det	pron	pron	_	18	FSUBJ	_	_
-18	var	være	verb	verb	_	26	REP	_	_
-19	jo	jo	adv	adv	_	18	ADV	_	_
-20	her	her	prep	prep	_	18	ADV	_	_
-21	det	det	pron	pron	_	22	FSUBJ	_	_
-22	skjedde	skje	verb	verb	_	26	REP	_	_
-23	og	og	konj	konj	_	26	KONJ	_	_
-24	n-	n-	ufullst	ufullst	_	25	FYLL	_	_
-25	det	det	pron	pron	_	26	FSUBJ	_	_
-26	var	være	verb	verb	_	3	KOORD	_	_
-27	liksom	liksom	adv	adv	_	26	ADV	_	_
-
 # file = aal_01um-sl
-# id = 68
+# speaker = aal_01um
+# id = 67
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	var	være	verb	_	pret	28	REP	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	da	da	adv	_	_	8	ADV	_	_
+8	reiste	reise	verb	_	pret	3	KOORD	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+10	ned	ned	prep	_	_	8	ADV	_	_
+11	til	til	prep	_	_	10	PUTFYLL	_	_
+12	Sundre	Sundre	subst	_	prop	11	PUTFYLL	_	_
+13	da	da	adv	_	_	8	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	for	for	prep	_	_	18	KONJ	_	_
+16	at	at	prep	_	_	15	FLAT	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	18	FSUBJ	_	_
+18	var	være	verb	_	pret	3	KOORD	_	_
+19	jo	jo	adv	_	_	18	ADV	_	_
+20	her	her	prep	_	_	18	SPRED	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+22	skjedde	skje	verb	_	pret	20	ADV	_	_
+23	og	og	konj	_	_	26	KONJ	_	_
+24	n-	n-	ufullst	_	_	25	FYLL	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
+26	var	være	verb	_	pret	3	SLETT	_	_
+27	liksom	liksom	adv	_	_	26	ADV	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = jeg var med på speideren og jeg var med på sangkor og jeg var med på fotballgruppe og e alt foregår på Sundre r0t
 # segstart = 313.95
 # segstop = 339.491
-# speaker = aal_01um
-# text = jeg var med på speideren og jeg var med på sangkor og jeg var med på fotballgruppe og e alt foregår på Sundre
-1	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	med	med	prep	prep	_	2	ADV	_	_
-4	på	på	prep	prep	_	2	ADV	_	_
-5	speideren	speider	subst	subst	_	4	PUTFYLL	_	_
-6	og	og	konj	konj	_	8	KONJ	_	_
-7	jeg	jeg	pron	pron	_	8	SUBJ	_	_
-8	var	være	verb	verb	_	2	KOORD	_	_
-9	med	med	prep	prep	_	8	SPRED	_	_
-10	på	på	prep	prep	_	8	ADV	_	_
-11	sangkor	sangkor	subst	subst	_	10	PUTFYLL	_	_
-12	og	og	konj	konj	_	14	KONJ	_	_
-13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
-14	var	være	verb	verb	_	2	KOORD	_	_
-15	med	med	prep	prep	_	14	SPRED	_	_
-16	på	på	prep	prep	_	14	PUTFYLL	_	_
-17	fotballgruppe	fotballgruppe	subst	subst	_	16	PUTFYLL	_	_
-18	og	og	konj	konj	_	21	KONJ	_	_
-19	e	e	nol	nol	_	20	FYLL	_	_
-20	alt	alt	det	det	_	21	SUBJ	_	_
-21	foregår	foregå	verb	verb	_	2	KOORD	_	_
-22	på	på	prep	prep	_	21	ADV	_	_
-23	Sundre	Sundre	subst	subst	_	22	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 69
+# speaker = aal_01um
+# id = 68
+# annotator = VDT
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	var	være	verb	_	pret	24	FINV	_	_
+3	med	med	prep	_	_	2	SPRED	_	_
+4	på	på	prep	_	_	2	ADV	_	_
+5	speideren	speider	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	og	og	konj	_	_	8	KONJ	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	var	være	verb	_	pret	2	KOORD	_	_
+9	med	med	prep	_	_	8	SPRED	_	_
+10	på	på	prep	_	_	8	ADV	_	_
+11	sangkor	sangkor	subst	_	ub|nøyt|ent|samset	10	PUTFYLL	_	_
+12	og	og	konj	_	_	14	KONJ	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	14	SUBJ	_	_
+14	var	være	verb	_	pret	2	KOORD	_	_
+15	med	med	prep	_	_	14	SPRED	_	_
+16	på	på	prep	_	_	14	ADV	_	_
+17	fotballgruppe	fotballgruppe	subst	_	ub|fem|ent|samset	16	PUTFYLL	_	_
+18	og	og	konj	_	_	21	KONJ	_	_
+19	e	e	nol	_	_	20	FYLL	_	_
+20	alt	alt	det	_	nøyt|ent|kvant	21	SUBJ	_	_
+21	foregår	foregå	verb	_	pres	2	KOORD	_	_
+22	på	på	prep	_	_	21	ADV	_	_
+23	Sundre	Sundre	subst	_	prop	22	PUTFYLL	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = det er liksom ingenting som foregår ute # bygdene bortsett fra 4H # e men det var jeg aldri vært med i root
 # segstart = 319.983
 # segstop = 339.491
-# speaker = aal_01um
-# text = det er liksom ingenting som foregår ute # bygdene bortsett fra 4H # e men det var jeg aldri vært med i
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	liksom	liksom	adv	adv	_	2	ADV	_	_
-4	ingenting	ingenting	pron	pron	_	2	SPRED	_	_
-5	som	som	sbu	sbu	_	6	SBU	_	_
-6	foregår	foregå	verb	verb	_	4	ATR	_	_
-7	ute	ute	prep	prep	_	6	ADV	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	bygdene	bygd	subst	subst	_	7	PUTFYLL	_	_
-10	bortsett	bortse	adj	adj	_	6	ADV	_	_
-11	fra	fra	prep	prep	_	10	ADV	_	_
-12	4H	4H	subst	subst	_	11	PUTFYLL	_	_
-13	#	#	pause	pause	_	15	IK	_	_
-14	e	e	nol	nol	_	15	FYLL	_	_
-15	men	men	konj	konj	_	17	KONJ	_	_
-16	det	det	pron	pron	_	17	FSUBJ	_	_
-17	var	være	verb	verb	_	2	KOORD	_	_
-18	jeg	jeg	pron	pron	_	20	SUBJ	_	_
-19	aldri	aldri	adv	adv	_	20	ADV	_	_
-20	vært	være	verb	verb	_	17	INFV	_	_
-21	med	med	prep	prep	_	20	ADV	_	_
-22	i	i	prep	prep	_	20	ADV	_	_
-
 # file = aal_01um-sl
-# id = 70
+# speaker = aal_01um
+# id = 69
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	23	FINV	_	_
+3	liksom	liksom	adv	_	_	2	ADV	_	_
+4	ingenting	ingenting	pron	_	akk|ent	2	SPRED	_	_
+5	som	som	sbu	_	_	6	SBU	_	_
+6	foregår	foregå	verb	_	pres	4	ATR	_	_
+7	ute	ute	prep	_	_	6	ADV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	bygdene	bygd	subst	_	be|fem|fl|appell	7	PUTFYLL	_	_
+10	bortsett	bortsett	adv	_	_	2	ADV	_	_
+11	fra	fra	prep	_	_	10	ADV	_	_
+12	4H	4H	subst	_	prop	11	PUTFYLL	_	_
+13	#	#	pause	_	_	15	IK	_	_
+14	e	e	nol	_	_	15	FYLL	_	_
+15	men	men	konj	_	_	17	KONJ	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	22	PUTFYLL	_	_
+17	var	være	verb	_	pret	2	KOORD	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+19	aldri	aldri	adv	_	_	20	ADV	_	_
+20	vært	være	verb	_	perf-part	17	INFV	_	_
+21	med	med	prep	_	_	20	ADV	_	_
+22	i	i	prep	_	_	20	ADV	_	_
+23	root	_	_	_	_	0	root	_	_
+
+# text = e og så var jeg på søndagskolen på Vats bedehus ## e ja # og så var det å # ja # leike med kamerater i Vats r0t
 # segstart = 327.09
 # segstop = 339.491
-# speaker = aal_01um
-# text = e og så var jeg på søndagskolen på Vats bedehus ## e ja # og så var det å # ja # leike med kamerater i Vats
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	og	og	konj	konj	_	4	KONJ	_	_
-3	så	så	adv	adv	_	4	ADV	_	_
-4	var	være	verb	verb	_	0	FINV	_	_
-5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-6	på	på	prep	prep	_	4	SPRED	_	_
-7	søndagskolen	søndagskole	subst	subst	_	6	PUTFYLL	_	_
-8	på	på	prep	prep	_	7	ATR	_	_
-9	Vats	Vats	subst	subst	_	10	ATR	_	_
-10	bedehus	bedehus	subst	subst	_	8	PUTFYLL	_	_
-11	##	##	pause	pause	_	13	IK	_	_
-12	e	e	nol	nol	_	13	FYLL	_	_
-13	ja	ja	interj	interj	_	17	INTERJ	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	og	og	konj	konj	_	17	KONJ	_	_
-16	så	så	adv	adv	_	17	ADV	_	_
-17	var	være	verb	verb	_	4	KOORD	_	_
-18	det	det	pron	pron	_	17	FSUBJ	_	_
-19	å	å	inf-merke	inf-merke	_	17	PSUBJ	_	_
-20	#	#	pause	pause	_	21	IK	_	_
-21	ja	ja	interj	interj	_	23	INTERJ	_	_
-22	#	#	pause	pause	_	23	IK	_	_
-23	leike	leik	subst	subst	_	19	INFV	_	_
-24	med	med	prep	prep	_	23	ADV	_	_
-25	kamerater	kamerate	subst	subst	_	24	PUTFYLL	_	_
-26	i	i	prep	prep	_	25	ATR	_	_
-27	Vats	Vats	subst	subst	_	26	PUTFYLL	_	_
-
 # file = aal_01um-sl
+# speaker = aal_01um
+# id = 70
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	og	og	konj	_	_	4	KONJ	_	_
+3	så	så	adv	_	_	4	ADV	_	_
+4	var	være	verb	_	pret	28	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	på	på	prep	_	_	4	SPRED	_	_
+7	søndagskolen	søndagskole	subst	_	be|mask|ent|samset	6	PUTFYLL	_	_
+8	på	på	prep	_	_	7	ATR	_	_
+9	Vats	Vats	subst	_	prop	8	PUTFYLL	_	_
+10	bedehus	bedehus	subst	_	ub|nøyt|ent|samset	9	FLAT	_	_
+11	##	##	pause	_	_	13	IK	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	ja	ja	interj	_	_	17	INTERJ	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	og	og	konj	_	_	17	KONJ	_	_
+16	så	så	adv	_	_	17	ADV	_	_
+17	var	være	verb	_	pret	4	KOORD	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+19	å	å	inf-merke	_	_	17	SPRED	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	ja	ja	interj	_	_	23	INTERJ	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	leike	leike	verb	_	inf	19	INFV	_	_
+24	med	med	prep	_	_	23	ADV	_	_
+25	kamerater	kamerat	subst	_	ub|mask|fl|appell	24	PUTFYLL	_	_
+26	i	i	prep	_	_	25	ATR	_	_
+27	Vats	Vats	subst	_	prop	26	PUTFYLL	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = det var det som var e # var tidsfordrivet mitt r0t
+# segstart = 336.987
+# segstop = 339.491
+# file = aal_01um-sl
+# speaker = aal_01um
 # id = 71
-# segstart = 336.987
-# segstop = 339.491
-# speaker = aal_01um
-# text = det var det som var e # var tidsfordrivet mitt
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	SPRED	_	_
-4	som	som	sbu	sbu	_	5	SBU	_	_
-5	var	være	verb	verb	_	3	ATR	_	_
-6	e	e	nol	nol	_	8	FYLL	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	var	være	verb	verb	_	2	SPRED	_	_
-9	tidsfordrivet	tidsfordrive	subst	subst	_	8	SPRED	_	_
-10	mitt	mitt	det	det	_	9	DET	_	_
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	var	være	verb	_	pret	11	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	SPRED	_	_
+4	som	som	sbu	_	_	8	SBU	_	_
+5	var	være	verb	_	pret	8	REP	_	_
+6	e	e	nol	_	_	8	FYLL	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	var	være	verb	_	pret	3	ATR	_	_
+9	tidsfordrivet	tidsfordriv	subst	_	be|nøyt|ent|appell	8	SPRED	_	_
+10	mitt	mitt	det	_	nøyt|ent|poss	9	DET	_	_
+11	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 72
+# text = * ja r0t
 # segstart = 336.987
 # segstop = 339.491
+# file = aal_01um-sl
 # speaker = sl
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
+# id = 72
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 73
+# text = ja r0t
 # segstart = 339.491
 # segstop = 339.825
-# speaker = aal_01um
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 74
+# speaker = aal_01um
+# id = 73
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = men du sa at det var idrettsbane der oppe men den er ikke brukt til noe organisert idrett eller noe sånn noe den ? root
 # segstart = 339.825
 # segstop = 344.451
+# file = aal_01um-sl
 # speaker = sl
-# text = men du sa at det var idrettsbane der oppe men den er ikke brukt til noe organisert idrett eller noe sånn noe den ?
-1	men	men	konj	konj	_	3	KONJ	_	_
-2	du	du	pron	pron	_	3	SUBJ	_	_
-3	sa	si	verb	verb	_	0	FINV	_	_
-4	at	at	sbu	sbu	_	6	SBU	_	_
-5	det	det	pron	pron	_	6	FSUBJ	_	_
-6	var	være	verb	verb	_	3	DOBJ	_	_
-7	idrettsbane	idrettsbane	subst	subst	_	6	SPRED	_	_
-8	der	der	prep	prep	_	7	ATR	_	_
-9	oppe	oppe	prep	prep	_	8	PUTFYLL	_	_
-10	men	men	konj	konj	_	12	KONJ	_	_
-11	den	den	pron	pron	_	12	SUBJ	_	_
-12	er	være	verb	verb	_	3	KOORD	_	_
-13	ikke	ikke	adv	adv	_	14	ADV	_	_
-14	brukt	bruke	verb	verb	_	12	INFV	_	_
-15	til	til	prep	prep	_	14	ADV	_	_
-16	noe	noen	det	det	_	18	DET	_	_
-17	organisert	organisere	adj	adj	_	18	ATR	_	_
-18	idrett	idrett	subst	subst	_	15	PUTFYLL	_	_
-19	eller	eller	konj	konj	_	23	KONJ	_	_
-20	noe	noen	det	det	_	23	DET	_	_
-21	sånn	sånn	adv	adv	_	23	ATR	_	_
-22	noe	noen	det	det	_	23	DET	_	_
-23	den	den	det	det	_	3	KOORD	_	_
-24	?	$?	clb	clb	_	3	IP	_	_
+# id = 74
+# annotator = VDT
+1	men	men	konj	_	_	3	KONJ	_	_
+2	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+3	sa	si	verb	_	pret	25	FINV	_	_
+4	at	at	sbu	_	_	6	SBU	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	var	være	verb	_	pret	3	DOBJ	_	_
+7	idrettsbane	idrettsbane	subst	_	ub|mask|ent|samset	6	PSUBJ	_	_
+8	der	der	prep	_	_	6	ADV	_	_
+9	oppe	oppe	prep	_	_	8	PUTFYLL	_	_
+10	men	men	konj	_	_	12	KONJ	_	_
+11	den	den	pron	_	fem|3|ent|pers	12	SUBJ	_	_
+12	er	være	verb	_	pres	3	KOORD	_	_
+13	ikke	ikke	adv	_	_	14	ADV	_	_
+14	brukt	bruke	verb	_	perf-part	12	INFV	_	_
+15	til	til	prep	_	_	14	ADV	_	_
+16	noe	noen	det	_	nøyt|ent|kvant	18	DET	_	_
+17	organisert	organisere	adj	_	ub|nøyt|ent	18	ATR	_	_
+18	idrett	idrett	subst	_	ub|mask|ent|appell	15	PUTFYLL	_	_
+19	eller	eller	konj	_	_	22	KONJ	_	_
+20	noe	noen	det	_	nøyt|ent|kvant	21	DET	_	_
+21	sånn	sånn	adv	_	_	22	DET	_	_
+22	noe	noen	det	_	nøyt|ent|kvant	18	KOORD	_	_
+23	den	den	det	_	mask|ent|dem	11	APP	_	_
+24	?	$?	clb	_	_	3	IP	_	_
+25	root	_	_	_	_	0	root	_	_
 
-# file = aal_01um-sl
-# id = 75
+# text = * ja r0t
 # segstart = 339.825
 # segstop = 344.451
-# speaker = aal_01um
-# text = * ja
-1	*	*	pause	pause	_	2	IK	_	_
-2	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 76
+# speaker = aal_01um
+# id = 75
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = e jeg veit det at em e # Vats idrettslag # e de har drevet og de har gått mye på ski der da r0t
 # segstart = 344.451
 # segstop = 353.942
-# speaker = aal_01um
-# text = e jeg veit det at em e # Vats idrettslag # e de har drevet og de har gått mye på ski der da
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	veit	veit	verb	verb	_	0	FINV	_	_
-4	det	det	pron	pron	_	3	DOBJ	_	_
-5	at	at	sbu	sbu	_	14	SBU	_	_
-6	em	em	ukjent	ukjent	_	9	FYLL	_	_
-7	e	e	nol	nol	_	9	FYLL	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	Vats	Vats	ukjent	ukjent	_	10	DET	_	_
-10	idrettslag	idrettslag	subst	subst	_	13	APP	_	_
-11	#	#	pause	pause	_	13	IK	_	_
-12	e	e	nol	nol	_	13	FYLL	_	_
-13	de	de	pron	pron	_	14	SUBJ	_	_
-14	har	ha	verb	verb	_	4	APP	_	_
-15	drevet	drive	verb	verb	_	14	INFV	_	_
-16	og	og	konj	konj	_	18	KONJ	_	_
-17	de	de	pron	pron	_	18	SUBJ	_	_
-18	har	ha	verb	verb	_	3	KOORD	_	_
-19	gått	gå	verb	verb	_	18	INFV	_	_
-20	mye	mye	adj	adj	_	19	ADV	_	_
-21	på	på	prep	prep	_	19	ADV	_	_
-22	ski	ski	subst	subst	_	21	PUTFYLL	_	_
-23	der	der	prep	prep	_	19	ADV	_	_
-24	da	da	adv	adv	_	19	ADV	_	_
-
 # file = aal_01um-sl
-# id = 77
+# speaker = aal_01um
+# id = 76
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	veit	vite	verb	_	pres	25	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+5	at	at	sbu	_	_	14	SBU	_	_
+6	em	em	nol	_	_	9	FYLL	_	_
+7	e	e	nol	_	_	9	FYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	Vats	Vats	subst	_	prop	13	APP	_	_
+10	idrettslag	idrettslag	subst	_	ub|mask|ent|samset	9	FLAT	_	_
+11	#	#	pause	_	_	13	IK	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	de	de	pron	_	nom|2|fl|hum	14	SUBJ	_	_
+14	har	ha	verb	_	pres	4	APP	_	_
+15	drevet	drive	verb	_	perf-part	14	INFV	_	_
+16	og	og	konj	_	_	18	KONJ	_	_
+17	de	de	pron	_	nom|2|fl|hum	18	SUBJ	_	_
+18	har	ha	verb	_	pres	15	KOORD	_	_
+19	gått	gå	verb	_	perf-part	18	INFV	_	_
+20	mye	mye	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+21	på	på	prep	_	_	19	ADV	_	_
+22	ski	ski	subst	_	ub|fem|fl|appell	21	PUTFYLL	_	_
+23	der	der	prep	_	_	19	ADV	_	_
+24	da	da	adv	_	_	3	ADV	_	_
+25	r0t	_	_	_	_	0	root	_	_
+
+# text = gått starta der og så gått lysløypa innover # i bygden # e så da _uninterpretable_ var skirenn der og sånn det skirennet er hvert år og r0t
 # segstart = 353.942
 # segstop = 361.693
-# speaker = aal_01um
-# text = gått starta der og så gått lysløypa innover # i bygden # e så da var skirenn der og sånn det skirennet er hvert år og
-1	gått	gå	adj	adj	_	2	SBU	_	_
-2	starta	starte	verb	verb	_	0	REP	_	_
-3	der	der	prep	prep	_	2	ADV	_	_
-4	og	og	konj	konj	_	6	KONJ	_	_
-5	så	så	adv	adv	_	6	ADV	_	_
-6	gått	gå	verb	verb	_	2	KOORD	_	_
-7	lysløypa	lysløype	subst	subst	_	6	DOBJ	_	_
-8	innover	innover	prep	prep	_	6	ADV	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	i	i	prep	prep	_	8	PUTFYLL	_	_
-11	bygden	bygd	subst	subst	_	10	PUTFYLL	_	_
-12	#	#	pause	pause	_	14	IK	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	så	så	konj	konj	_	16	ADV	_	_
-15	da	da	adv	adv	_	16	SBU	_	_
-16	var	være	verb	verb	_	2	KOORD	_	_
-17	skirenn	skirenn	subst	subst	_	16	SPRED	_	_
-18	der	der	prep	prep	_	16	ADV	_	_
-19	og	og	konj	konj	_	20	KONJ	_	_
-20	sånn	sånn	adv	adv	_	16	ADV	_	_
-21	det	det	pron	pron	_	22	DET	_	_
-22	skirennet	skirenn	verb	verb	_	23	SUBJ	_	_
-23	er	være	verb	verb	_	16	KOORD	_	_
-24	hvert	hvert	det	det	_	25	DET	_	_
-25	år	år	subst	subst	_	23	SPRED	_	_
-26	og	og	konj	konj	_	25	KONJ	_	_
-
 # file = aal_01um-sl
-# id = 78
+# speaker = aal_01um
+# id = 77
+# annotator = VDT
+1	gått	gå	verb	_	perf-part	2	REP	_	_
+2	starta	starte	verb	_	perf-part	28	FRAG	_	_
+3	der	der	prep	_	_	2	ADV	_	_
+4	og	og	konj	_	_	6	KONJ	_	_
+5	så	så	adv	_	_	6	ADV	_	_
+6	gått	gå	verb	_	perf-part	2	KOORD	_	_
+7	lysløypa	lysløype	subst	_	be|fem|ent|samset	6	DOBJ	_	_
+8	innover	innover	prep	_	_	6	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	i	i	prep	_	_	8	PUTFYLL	_	_
+11	bygden	bygd	subst	_	be|mask|ent|appell	10	PUTFYLL	_	_
+12	#	#	pause	_	_	14	IK	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	så	så	konj	_	_	17	KONJ	_	_
+15	da	da	adv	_	_	17	ADV	_	_
+16	_uninterpretable_	_uninterpretable_	pause	_	_	17	FYLL	_	_
+17	var	være	verb	_	pret	2	KOORD	_	_
+18	skirenn	skirenn	subst	_	ub|nøyt|ent|appell	17	PSUBJ	_	_
+19	der	der	prep	_	_	17	ADV	_	_
+20	og	og	konj	_	_	21	KONJ	_	_
+21	sånn	sånn	adv	_	_	18	KOORD	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	23	DET	_	_
+23	skirennet	skirenn	subst	_	be|nøyt|ent|appell	24	SUBJ	_	_
+24	er	være	verb	_	pres	2	KOORD	_	_
+25	hvert	hvert	det	_	nøyt|ent|kvant	26	DET	_	_
+26	år	år	subst	_	ub|nøyt|ent|appell	24	SPRED	_	_
+27	og	og	konj	_	_	24	KONJ	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = e jeg trur ikke det har slutta # enda r0t
 # segstart = 361.693
 # segstop = 363.982
-# speaker = aal_01um
-# text = e jeg trur ikke det har slutta # enda
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	jeg	jeg	pron	pron	_	3	SUBJ	_	_
-3	trur	tru	verb	verb	_	0	FINV	_	_
-4	ikke	ikke	adv	adv	_	3	ADV	_	_
-5	det	det	pron	pron	_	6	SUBJ	_	_
-6	har	ha	verb	verb	_	3	DOBJ	_	_
-7	slutta	slutte	verb	verb	_	6	INFV	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	enda	enda	adv	adv	_	7	ADV	_	_
-
 # file = aal_01um-sl
-# id = 79
+# speaker = aal_01um
+# id = 78
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	trur	tru	verb	_	pres	10	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
+6	har	ha	verb	_	pres	3	DOBJ	_	_
+7	slutta	slutte	verb	_	perf-part	6	INFV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	enda	enda	adv	_	_	7	ADV	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
 # segstart = 363.982
 # segstop = 364.221
-# speaker = sl
-# text = nei
-1	nei	nei	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 80
+# speaker = sl
+# id = 79
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
 # segstart = 364.221
 # segstop = 364.565
-# speaker = aal_01um
-# text = nei
-1	nei	nei	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 81
+# speaker = aal_01um
+# id = 80
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hm # _front-click_ # em # _front-click_ hvis du skulle prøve å beskrive dialekten # her r0t
 # segstart = 364.565
 # segstop = 373.927
-# speaker = sl
-# text = hm # # em # hvis du skulle prøve å beskrive dialekten # her
-1	hm	hm	interj	interj	_	8	INTERJ	_	_
-2	#	#	pause	pause	_	6	IK	_	_
-3	#	#	pause	pause	_	6	IK	_	_
-4	em	em	ukjent	ukjent	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	hvis	hvis	sbu	sbu	_	8	SBU	_	_
-7	du	du	pron	pron	_	8	SUBJ	_	_
-8	skulle	skulle	verb	verb	_	0	FINV	_	_
-9	prøve	prøve	verb	verb	_	8	INFV	_	_
-10	å	å	inf-merke	inf-merke	_	9	DOBJ	_	_
-11	beskrive	beskriv	verb	verb	_	10	INFV	_	_
-12	dialekten	dialekt	subst	subst	_	11	DOBJ	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	her	her	prep	prep	_	11	ADV	_	_
-
 # file = aal_01um-sl
-# id = 82
+# speaker = sl
+# id = 81
+# annotator = VDT
+1	hm	hm	interj	_	_	10	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	10	FYLL	_	_
+4	#	#	pause	_	_	7	IK	_	_
+5	em	em	nol	_	_	7	FYLL	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	_front-click_	_front-click_	pause	_	_	10	FYLL	_	_
+8	hvis	hvis	sbu	_	_	10	SBU	_	_
+9	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+10	skulle	skulle	verb	_	pret	17	FINV	_	_
+11	prøve	prøve	verb	_	inf	10	INFV	_	_
+12	å	å	inf-merke	_	_	11	DOBJ	_	_
+13	beskrive	beskrive	verb	_	inf	12	INFV	_	_
+14	dialekten	dialekt	subst	_	be|mask|ent|appell	13	DOBJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	her	her	prep	_	_	13	ADV	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = * mhm r0t
 # segstart = 364.565
 # segstop = 371.59
-# speaker = aal_01um
-# text = * mhm
-1	*	*	pause	pause	_	2	IK	_	_
-2	mhm	mhm	sbu	sbu	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 83
+# speaker = aal_01um
+# id = 82
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mhm	mhm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 371.59
 # segstop = 371.924
-# speaker = aal_01um
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 84
+# speaker = aal_01um
+# id = 83
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva ville du ha sagt for noe da ? r0t
 # segstart = 371.924
 # segstop = 373.927
-# speaker = sl
-# text = hva ville du ha sagt for noe da ?
-1	hva	hva	pron	pron	_	3	DET	_	_
-2	ville	ville	verb	verb	_	0	FINV	_	_
-3	du	du	pron	pron	_	2	SUBJ	_	_
-4	ha	ha	verb	verb	_	1	INFV	_	_
-5	sagt	si	verb	verb	_	4	INFV	_	_
-6	for	for	prep	prep	_	5	ADV	_	_
-7	noe	noe	det	det	_	6	PUTFYLL	_	_
-8	da	da	adv	adv	_	5	ADV	_	_
-9	?	?	clb	clb	_	2	IP	_	_
-
 # file = aal_01um-sl
-# id = 85
+# speaker = sl
+# id = 84
+# annotator = VDT
+1	hva	hva	pron	_	sp	5	DOBJ	_	_
+2	ville	ville	verb	_	pret	10	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	ha	ha	verb	_	inf	2	INFV	_	_
+5	sagt	si	verb	_	perf-part	4	INFV	_	_
+6	for	for	prep	_	_	1	ATR	_	_
+7	noe	noe	pron	_	nøyt|3|ent|pers	6	PUTFYLL	_	_
+8	da	da	adv	_	_	5	ADV	_	_
+9	?	?	clb	_	_	2	IP	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = da ville jeg sagt at hallinger har god tid _laughter_ # det er ingen som e haster av gårde når det gjelder e hverken ## ja # når det gjelder noenting egentlig _laughter_ root
 # segstart = 373.927
 # segstop = 387.878
-# speaker = aal_01um
-# text = da ville jeg sagt at hallinger har god tid # det er ingen som e haster av gårde når det gjelder e hverken ## ja # når det gjelder noenting egentlig
-1	da	da	adv	adv	_	2	ADV	_	_
-2	ville	ville	verb	verb	_	0	FINV	_	_
-3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-4	sagt	si	verb	verb	_	2	INFV	_	_
-5	at	at	sbu	sbu	_	7	SBU	_	_
-6	hallinger	halling	subst	subst	_	7	SUBJ	_	_
-7	har	ha	verb	verb	_	4	DOBJ	_	_
-8	god	god	adj	adj	_	7	ATR	_	_
-9	tid	tid	subst	subst	_	7	DOBJ	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	det	det	pron	pron	_	12	FSUBJ	_	_
-12	er	være	verb	verb	_	2	KOORD	_	_
-13	ingen	ingen	pron	pron	_	12	SPRED	_	_
-14	som	som	sbu	sbu	_	13	ADV	_	_
-15	e	e	nol	nol	_	16	FYLL	_	_
-16	haster	haste	verb	verb	_	14	PUTFYLL	_	_
-17	av	av	prep	prep	_	16	ATR	_	_
-18	gårde	gårde	subst	subst	_	17	PUTFYLL	_	_
-19	når	når	sbu	sbu	_	21	SBU	_	_
-20	det	det	pron	pron	_	21	FSUBJ	_	_
-21	gjelder	gjelde	verb	verb	_	12	ADV	_	_
-22	e	e	nol	nol	_	23	FYLL	_	_
-23	hverken	hverken	konj	konj	_	21	DOBJ	_	_
-24	##	##	pause	pause	_	25	IK	_	_
-25	ja	ja	interj	interj	_	29	INTERJ	_	_
-26	#	#	pause	pause	_	27	IK	_	_
-27	når	når	sbu	sbu	_	29	SBU	_	_
-28	det	det	pron	pron	_	29	FSUBJ	_	_
-29	gjelder	gjelde	verb	verb	_	12	KOORD	_	_
-30	noenting	noenting	subst	subst	_	29	DOBJ	_	_
-31	egentlig	egentlig	adj	adj	_	30	ATR	_	_
-
 # file = aal_01um-sl
-# id = 86
+# speaker = aal_01um
+# id = 85
+# annotator = VDT
+1	da	da	adv	_	_	4	ADV	_	_
+2	ville	ville	verb	_	pret	34	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	sagt	si	verb	_	perf-part	2	INFV	_	_
+5	at	at	sbu	_	_	7	SBU	_	_
+6	hallinger	halling	subst	_	ub|mask|fl|appell	7	SUBJ	_	_
+7	har	ha	verb	_	pres	4	DOBJ	_	_
+8	god	god	adj	_	ub|pos|m/f|ent	9	ATR	_	_
+9	tid	tid	subst	_	ub|fem|ent|appell	7	DOBJ	_	_
+10	_laughter_	_laughter_	pause	_	_	7	FYLL	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	er	være	verb	_	pres	2	KOORD	_	_
+14	ingen	ingen	pron	_	nom|3|fl|pers	13	PSUBJ	_	_
+15	som	som	sbu	_	_	17	SBU	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	haster	haste	verb	_	pres	14	ATR	_	_
+18	av	av	prep	_	_	17	ADV	_	_
+19	gårde	gårde	subst	_	_	18	PUTFYLL	_	_
+20	når	når	sbu	_	_	22	SBU	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+22	gjelder	gjelde	verb	_	pres	30	REP	_	_
+23	e	e	nol	_	_	24	FYLL	_	_
+24	hverken	hverken	konj	_	_	22	DOBJ	_	_
+25	##	##	pause	_	_	26	IK	_	_
+26	ja	ja	interj	_	_	22	INTERJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	når	når	sbu	_	_	30	SBU	_	_
+29	det	det	pron	_	nøyt|3|ent|pers	30	FSUBJ	_	_
+30	gjelder	gjelde	verb	_	pres	13	ADV	_	_
+31	noenting	noenting	pron	_	_	30	DOBJ	_	_
+32	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	30	ADV	_	_
+33	_laughter_	_laughter_	pause	_	_	30	FYLL	_	_
+34	root	_	_	_	_	0	root	_	_
+
+# text = vi tar det litt som det kommer og e det hører du ved kanskje på målet med at det er # e _sighing_ # det er ikke noe dialekt som haster av gårde root
 # segstart = 387.878
 # segstop = 398.419
-# speaker = aal_01um
-# text = vi tar det litt som det kommer og e det hører du ved kanskje på målet med at det er # e # det er ikke noe dialekt som haster av gårde
-1	vi	vi	pron	pron	_	2	SUBJ	_	_
-2	tar	ta	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	DOBJ	_	_
-4	litt	litt	adj	adj	_	2	ADV	_	_
-5	som	som	sbu	sbu	_	7	SBU	_	_
-6	det	det	pron	pron	_	7	FSUBJ	_	_
-7	kommer	komme	verb	verb	_	2	ADV	_	_
-8	og	og	konj	konj	_	11	KONJ	_	_
-9	e	e	nol	nol	_	10	FYLL	_	_
-10	det	det	pron	pron	_	11	DOBJ	_	_
-11	hører	høre	verb	verb	_	25	REP	_	_
-12	du	du	pron	pron	_	11	SUBJ	_	_
-13	ved	ved	prep	prep	_	11	ADV	_	_
-14	kanskje	kanskje	adv	adv	_	13	ADV	_	_
-15	på	på	prep	prep	_	11	ADV	_	_
-16	målet	mål	subst	subst	_	15	PUTFYLL	_	_
-17	med	med	prep	prep	_	11	ADV	_	_
-18	at	at	sbu	sbu	_	20	SBU	_	_
-19	det	det	pron	pron	_	20	FSUBJ	_	_
-20	er	være	verb	verb	_	17	PUTFYLL	_	_
-21	#	#	pause	pause	_	24	IK	_	_
-22	e	e	nol	nol	_	24	FYLL	_	_
-23	#	#	pause	pause	_	24	IK	_	_
-24	det	det	pron	pron	_	25	FSUBJ	_	_
-25	er	være	verb	verb	_	2	KOORD	_	_
-26	ikke	ikke	adv	adv	_	25	ADV	_	_
-27	noe	noen	det	det	_	28	DET	_	_
-28	dialekt	dialekt	subst	subst	_	25	SPRED	_	_
-29	som	som	sbu	sbu	_	30	SBU	_	_
-30	haster	haste	verb	verb	_	28	ATR	_	_
-31	av	av	prep	prep	_	30	ADV	_	_
-32	gårde	gårde	subst	subst	_	31	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 87
+# speaker = aal_01um
+# id = 86
+# annotator = VDT
+1	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+2	tar	ta	verb	_	pres	34	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
+4	litt	litt	adj	_	ub|pos|nøyt|ent	2	ADV	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+7	kommer	komme	verb	_	pres	2	ADV	_	_
+8	og	og	konj	_	_	11	KONJ	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	11	DOBJ	_	_
+11	hører	høre	verb	_	pres	2	KOORD	_	_
+12	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+13	ved	ved	prep	_	_	14	REP	_	_
+14	kanskje	kanskje	adv	_	_	11	ADV	_	_
+15	på	på	prep	_	_	11	ADV	_	_
+16	målet	mål	subst	_	be|nøyt|ent|appell	15	PUTFYLL	_	_
+17	med	med	prep	_	_	11	SLETT	_	_
+18	at	at	sbu	_	_	20	SBU	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	er	være	verb	_	pres	17	PUTFYLL	_	_
+21	#	#	pause	_	_	25	IK	_	_
+22	e	e	nol	_	_	25	FYLL	_	_
+23	_sighing_	_sighing_	pause	_	_	25	FYLL	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
+26	er	være	verb	_	pres	2	KOORD	_	_
+27	ikke	ikke	adv	_	_	26	ADV	_	_
+28	noe	noen	det	_	nøyt|ent|kvant	29	DET	_	_
+29	dialekt	dialekt	subst	_	ub|fem|ent|appell	26	SPRED	_	_
+30	som	som	sbu	_	_	31	SBU	_	_
+31	haster	haste	verb	_	pres	29	ATR	_	_
+32	av	av	prep	_	_	31	ADV	_	_
+33	gårde	gårde	subst	_	appell	32	PUTFYLL	_	_
+34	root	_	_	_	_	0	root	_	_
+
+# text = det er liksom det e _uninterpretable_ vi har t- # vi har t- # e det er det som er med hallinger at de har alltid tid r0t
 # segstart = 398.419
 # segstop = 404.023
-# speaker = aal_01um
-# text = det er liksom det e vi har t- # vi har t- # e det er det som er med hallinger at de har alltid tid
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	liksom	liksom	adv	adv	_	2	ADV	_	_
-4	det	det	pron	pron	_	2	SPRED	_	_
-5	e	e	nol	nol	_	4	FYLL	_	_
-6	vi	vi	pron	pron	_	7	SUBJ	_	_
-7	har	ha	verb	verb	_	16	REP	_	_
-8	t-	t-	ufullst	ufullst	_	10	FYLL	_	_
-9	#	#	pause	pause	_	10	IK	_	_
-10	vi	vi	pron	pron	_	11	SUBJ	_	_
-11	har	ha	verb	verb	_	16	REP	_	_
-12	t-	t-	ufullst	ufullst	_	15	FYLL	_	_
-13	#	#	pause	pause	_	15	IK	_	_
-14	e	e	nol	nol	_	15	FYLL	_	_
-15	det	det	pron	pron	_	16	FSUBJ	_	_
-16	er	være	verb	verb	_	2	KOORD	_	_
-17	det	det	pron	pron	_	16	SPRED	_	_
-18	som	som	sbu	sbu	_	19	SBU	_	_
-19	er	være	verb	verb	_	17	ATR	_	_
-20	med	med	prep	prep	_	19	SPRED	_	_
-21	hallinger	hallinge	subst	subst	_	20	PUTFYLL	_	_
-22	at	at	sbu	sbu	_	24	SBU	_	_
-23	de	de	pron	pron	_	24	SUBJ	_	_
-24	har	ha	verb	verb	_	17	APP	_	_
-25	alltid	alltid	adv	adv	_	24	ADV	_	_
-26	tid	tid	subst	subst	_	24	DOBJ	_	_
-
 # file = aal_01um-sl
-# id = 88
+# speaker = aal_01um
+# id = 87
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	17	REP	_	_
+3	liksom	liksom	adv	_	_	2	ADV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	2	SPRED	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	_uninterpretable_	_uninterpretable_	pause	_	_	2	FYLL	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+8	har	ha	verb	_	pres	12	REP	_	_
+9	t-	t-	ufullst	_	_	11	FYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+12	har	ha	verb	_	pres	4	ATR	_	_
+13	t-	t-	ufullst	_	_	16	FYLL	_	_
+14	#	#	pause	_	_	16	IK	_	_
+15	e	e	nol	_	_	16	FYLL	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+17	er	være	verb	_	pres	28	FINV	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	17	SPRED	_	_
+19	som	som	sbu	_	_	20	SBU	_	_
+20	er	være	verb	_	pres	18	ATR	_	_
+21	med	med	prep	_	_	20	SPRED	_	_
+22	hallinger	halling	subst	_	ub|mask|fl|appell	21	PUTFYLL	_	_
+23	at	at	sbu	_	_	25	SBU	_	_
+24	de	de	pron	_	nom|2|fl|hum	25	SUBJ	_	_
+25	har	ha	verb	_	pres	18	APP	_	_
+26	alltid	alltid	adv	_	_	25	ADV	_	_
+27	tid	tid	subst	_	ub|fem|ent|appell	25	DOBJ	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
 # segstart = 404.023
 # segstop = 404.619
-# speaker = sl
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 89
+# speaker = sl
+# id = 88
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # det trur jeg jeg ville _uninterpretable_ det som # kjennetegner dialekten # trur jeg r0t
 # segstart = 404.619
 # segstop = 409.126
-# speaker = aal_01um
-# text = ja # det trur jeg jeg ville det som # kjennetegner dialekten # trur jeg
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	det	det	pron	pron	_	4	DOBJ	_	_
-4	trur	tru	verb	verb	_	0	FINV	_	_
-5	jeg	jeg	pron	pron	_	4	SUBJ	_	_
-6	jeg	jeg	pron	pron	_	5	SUBJ	_	_
-7	ville	ville	verb	verb	_	4	DOBJ	_	_
-8	det	det	pron	pron	_	7	APP	_	_
-9	som	som	sbu	sbu	_	14	SBU	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	kjennetegner	kjennetegne	verb	verb	_	9	PUTFYLL	_	_
-12	dialekten	dialekt	subst	subst	_	11	APP	_	_
-13	#	#	pause	pause	_	14	IK	_	_
-14	trur	tru	verb	verb	_	8	ATR	_	_
-15	jeg	jeg	pron	pron	_	14	SUBJ	_	_
-
 # file = aal_01um-sl
-# id = 90
+# speaker = aal_01um
+# id = 89
+# annotator = VDT
+1	ja	ja	interj	_	_	9	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	7	DOBJ	_	_
+4	trur	tru	verb	_	pres	9	REP	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	ville	ville	verb	_	pret	4	DOBJ	_	_
+8	_uninterpretable_	_uninterpretable_	pause	_	_	4	FYLL	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	17	FRAG	_	_
+10	som	som	sbu	_	_	12	SBU	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	kjennetegner	kjennetegne	verb	_	pres	9	ATR	_	_
+13	dialekten	dialekt	subst	_	be|mask|ent|appell	12	DOBJ	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	trur	tru	verb	_	pres	9	PAR	_	_
+16	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = men er det store forskjeller sånn innad i Ål kan du kan du høre at e noen kommer fra Vats og ikke Sundre og ? r0t
 # segstart = 409.126
 # segstop = 415.279
-# speaker = sl
-# text = men er det store forskjeller sånn innad i Ål kan du kan du høre at e noen kommer fra Vats og ikke Sundre og ?
-1	men	men	konj	konj	_	2	KONJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	det	det	pron	pron	_	2	FSUBJ	_	_
-4	store	stor	adj	adj	_	5	ATR	_	_
-5	forskjeller	forskjell	subst	subst	_	2	SPRED	_	_
-6	sånn	sånn	adv	adv	_	7	ADV	_	_
-7	innad	innad	prep	prep	_	2	ADV	_	_
-8	i	i	prep	prep	_	7	PUTFYLL	_	_
-9	Ål	Ål	subst	subst	_	8	PUTFYLL	_	_
-10	kan	kan	verb	verb	_	2	PAR	_	_
-11	du	du	pron	pron	_	10	SUBJ	_	_
-12	kan	kan	verb	verb	_	2	KOORD	_	_
-13	du	du	pron	pron	_	12	SUBJ	_	_
-14	høre	høre	verb	verb	_	12	INFV	_	_
-15	at	at	sbu	sbu	_	18	SBU	_	_
-16	e	e	nol	nol	_	17	FYLL	_	_
-17	noen	noen	pron	pron	_	18	SUBJ	_	_
-18	kommer	komme	verb	verb	_	14	DOBJ	_	_
-19	fra	fra	prep	prep	_	18	ADV	_	_
-20	Vats	Vats	subst	subst	_	19	PUTFYLL	_	_
-21	og	og	konj	konj	_	23	KONJ	_	_
-22	ikke	ikke	adv	adv	_	23	ADV	_	_
-23	Sundre	Sundre	subst	subst	_	20	KOORD	_	_
-24	og	og	konj	konj	_	2	KONJ	_	_
-25	?	?	clb	clb	_	2	IP	_	_
-
 # file = aal_01um-sl
-# id = 91
+# speaker = sl
+# id = 90
+# annotator = VDT
+1	men	men	konj	_	_	2	KONJ	_	_
+2	er	være	verb	_	pres	26	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	store	stor	adj	_	pos|fl	5	ATR	_	_
+5	forskjeller	forskjell	subst	_	ub|mask|fl|appell	2	PSUBJ	_	_
+6	sånn	sånn	adv	_	_	12	ADV	_	_
+7	innad	innad	prep	_	_	14	ADV	_	_
+8	i	i	prep	_	_	7	PUTFYLL	_	_
+9	Ål	Ål	subst	_	prop	8	PUTFYLL	_	_
+10	kan	kunne	verb	_	pres	12	REP	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	kan	kunne	verb	_	pres	2	KOORD	_	_
+13	du	du	pron	_	nom|2|ent|hum	12	SUBJ	_	_
+14	høre	høre	verb	_	inf	12	INFV	_	_
+15	at	at	sbu	_	_	18	SBU	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	noen	noen	pron	_	nom|3|fl|pers	18	SUBJ	_	_
+18	kommer	komme	verb	_	pres	14	DOBJ	_	_
+19	fra	fra	prep	_	_	18	ADV	_	_
+20	Vats	Vats	subst	_	prop	19	PUTFYLL	_	_
+21	og	og	konj	_	_	23	KONJ	_	_
+22	ikke	ikke	adv	_	_	23	ADV	_	_
+23	Sundre	Sundre	subst	_	prop	19	KOORD	_	_
+24	og	og	konj	_	_	12	SLETT	_	_
+25	?	?	clb	_	_	2	IP	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = e # nja innad i Ål så er det vel ganske likt tenker jeg men det som er spesielt er jo det at # ålingsdialekten skiller seg så ut ifra # både Nes og Gol # og Hol r0t
 # segstart = 415.279
 # segstop = 426.917
-# speaker = aal_01um
-# text = e # nja innatt i Ål så er det vel ganske likt tenker jeg men det som er spesielt er jo det at # ålingsdialekten skiller seg så ut ifra # både Nes og Gol # og Hol
-1	e	e	nol	nol	_	3	FYLL	_	_
-2	#	#	pause	pause	_	3	IK	_	_
-3	nja	nje	interj	interj	_	8	INTERJ	_	_
-4	innatt	innatt	subst	subst	_	3	ADV	_	_
-5	i	i	prep	prep	_	4	PUTFYLL	_	_
-6	Ål	Ål	subst	subst	_	5	PUTFYLL	_	_
-7	så	så	adv	adv	_	8	ADV	_	_
-8	er	være	verb	verb	_	0	FINV	_	_
-9	det	det	pron	pron	_	8	FSUBJ	_	_
-10	vel	vel	adv	adv	_	8	ADV	_	_
-11	ganske	ganske	adv	adv	_	12	ADV	_	_
-12	likt	like	adj	adj	_	8	SPRED	_	_
-13	tenker	tenke	verb	verb	_	8	PAR	_	_
-14	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-15	men	men	konj	konj	_	20	KONJ	_	_
-16	det	det	pron	pron	_	20	SUBJ	_	_
-17	som	som	sbu	sbu	_	18	SBU	_	_
-18	er	være	verb	verb	_	16	ATR	_	_
-19	spesielt	spesiell	adj	adj	_	18	SPRED	_	_
-20	er	være	verb	verb	_	8	KOORD	_	_
-21	jo	jo	adv	adv	_	20	ADV	_	_
-22	det	det	pron	pron	_	20	SPRED	_	_
-23	at	at	sbu	sbu	_	26	SBU	_	_
-24	#	#	pause	pause	_	25	IK	_	_
-25	ålingsdialekten	ålingsdialekte	subst	subst	_	26	SUBJ	_	_
-26	skiller	skille	verb	verb	_	20	APP	_	_
-27	seg	seg	pron	pron	_	26	DOBJ	_	_
-28	så	så	adv	adv	_	26	ADV	_	_
-29	ut	ut	prep	prep	_	26	ADV	_	_
-30	ifra	ifra	prep	prep	_	29	PUTFYLL	_	_
-31	#	#	pause	pause	_	32	IK	_	_
-32	både	både	konj	konj	_	33	KONJ	_	_
-33	Nes	Nes	subst	subst	_	30	PUTFYLL	_	_
-34	og	og	konj	konj	_	35	KONJ	_	_
-35	Gol	Gol	subst	subst	_	33	KOORD	_	_
-36	#	#	pause	pause	_	37	IK	_	_
-37	og	og	konj	konj	_	38	KONJ	_	_
-38	Hol	Hol	subst	subst	_	33	KOORD	_	_
-
 # file = aal_01um-sl
-# id = 92
+# speaker = aal_01um
+# id = 91
+# annotator = VDT
+1	e	e	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	nja	nja	interj	_	_	8	INTERJ	_	_
+4	innad	innad	prep	_	_	8	ADV	_	_
+5	i	i	prep	_	_	4	PUTFYLL	_	_
+6	Ål	Ål	subst	_	prop	5	PUTFYLL	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	er	være	verb	_	pres	39	FINV	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+10	vel	vel	adv	_	_	8	ADV	_	_
+11	ganske	ganske	adv	_	_	12	ADV	_	_
+12	likt	lik	adj	_	ub|pos|nøyt|ent	8	SPRED	_	_
+13	tenker	tenke	verb	_	pres	8	PAR	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	13	SUBJ	_	_
+15	men	men	konj	_	_	20	KONJ	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	20	SUBJ	_	_
+17	som	som	sbu	_	_	18	SBU	_	_
+18	er	være	verb	_	pres	16	ATR	_	_
+19	spesielt	spesiell	adj	_	ub|pos|nøyt|ent	18	SPRED	_	_
+20	er	være	verb	_	pres	8	KOORD	_	_
+21	jo	jo	adv	_	_	20	ADV	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	20	SPRED	_	_
+23	at	at	sbu	_	_	26	SBU	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	ålingsdialekten	ålingsdialekt	subst	_	be|mask|ent|samset	26	SUBJ	_	_
+26	skiller	skille	verb	_	pres	22	APP	_	_
+27	seg	seg	pron	_	akk|refl	26	DOBJ	_	_
+28	så	så	adv	_	_	26	ADV	_	_
+29	ut	ut	prep	_	_	26	ADV	_	_
+30	ifra	ifra	prep	_	_	26	ADV	_	_
+31	#	#	pause	_	_	32	IK	_	_
+32	både	både	konj	_	_	33	KONJ	_	_
+33	Nes	Nes	subst	_	prop	30	PUTFYLL	_	_
+34	og	og	konj	_	_	35	KONJ	_	_
+35	Gol	Gol	subst	_	prop	33	KOORD	_	_
+36	#	#	pause	_	_	37	IK	_	_
+37	og	og	konj	_	_	38	KONJ	_	_
+38	Hol	Hol	subst	_	prop	33	KOORD	_	_
+39	r0t	_	_	_	_	0	root	_	_
+
+# text = fordi at # både # i Hol # og på Gol # så pra- og Torpo for så vidt så prater de på ø root
 # segstart = 426.917
 # segstop = 434.524
-# speaker = aal_01um
-# text = fordi at # både # i Hol # og på Gol # så pra- og Torpo for så vidt så prater de på ø
-1	fordi	fordi	sbu	sbu	_	21	SBU	_	_
-2	at	at	sbu	sbu	_	21	SBU	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	både	både	konj	konj	_	6	KONJ	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	i	i	prep	prep	_	21	ADV	_	_
-7	Hol	Ho	subst	subst	_	6	PUTFYLL	_	_
-8	#	#	pause	pause	_	9	IK	_	_
-9	og	og	konj	konj	_	10	KONJ	_	_
-10	på	på	prep	prep	_	6	KOORD	_	_
-11	Gol	Gol	subst	subst	_	10	PUTFYLL	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	så	så	adv	adv	_	15	ADV	_	_
-14	pra-	pra-	ufullst	ufullst	_	15	FYLL	_	_
-15	og	og	konj	konj	_	16	KONJ	_	_
-16	Torpo	Torpo	subst	subst	_	11	KOORD	_	_
-17	for	for	prep	prep	_	21	APP	_	_
-18	så	så	adv	adv	_	19	ADV	_	_
-19	vidt	vid	adj	adj	_	17	PUTFYLL	_	_
-20	så	så	adv	adv	_	21	ADV	_	_
-21	prater	prate	verb	verb	_	0	FINV	_	_
-22	de	de	pron	pron	_	21	SUBJ	_	_
-23	på	på	prep	prep	_	21	ADV	_	_
-24	ø	ø	inf-merke	inf-merke	_	23	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 93
+# speaker = aal_01um
+# id = 92
+# annotator = VDT
+1	fordi	fordi	sbu	_	_	6	SBU	_	_
+2	at	at	sbu	_	_	1	FLAT	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	både	både	konj	_	_	6	KONJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	i	i	prep	_	_	20	APP	_	_
+7	Hol	Hol	subst	_	prop	6	PUTFYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	på	på	prep	_	_	6	KOORD	_	_
+11	Gol	Gol	subst	_	prop	10	PUTFYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	så	så	adv	_	_	14	ADV	_	_
+14	pra-	pra-	ufullst	_	_	6	SLETT	_	_
+15	og	og	konj	_	_	16	KONJ	_	_
+16	Torpo	Torpo	subst	_	prop	6	KOORD	_	_
+17	for	for	prep	_	_	6	ADV	_	_
+18	så	så	adv	_	_	19	ADV	_	_
+19	vidt	vid	adj	_	ub|pos|nøyt|ent	17	PUTFYLL	_	_
+20	så	så	adv	_	_	21	ADV	_	_
+21	prater	prate	verb	_	pres	25	FINV	_	_
+22	de	de	pron	_	nom|2|fl|hum	21	SUBJ	_	_
+23	på	på	prep	_	_	21	ADV	_	_
+24	ø	ø	subst	_	ub|mask|ent|appell	23	PUTFYLL	_	_
+25	root	_	_	_	_	0	root	_	_
+
+# text = posene og e ratt- # ja ikke sant de de prater på ø men mens på Ål # så prater vi på å r0t
 # segstart = 434.524
 # segstop = 441.988
-# speaker = aal_01um
-# text = posene og e ratt- # ja ikke sant de de prater på ø men mens på Ål # så prater vi på å
-1	posene	pose	subst	subst	_	11	SLETT	_	_
-2	og	og	konj	konj	_	6	KONJ	_	_
-3	e	e	nol	nol	_	6	FYLL	_	_
-4	ratt-	ratt-	ufullst	ufullst	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	ja	ja	interj	interj	_	11	INTERJ	_	_
-7	ikke	ikke	adv	adv	_	8	ADV	_	_
-8	sant	sann	adj	adj	_	11	ADV	_	_
-9	de	de	pron	pron	_	10	REP	_	_
-10	de	de	pron	pron	_	11	SUBJ	_	_
-11	prater	prate	verb	verb	_	0	FINV	_	_
-12	på	på	prep	prep	_	11	ADV	_	_
-13	ø	ø	subst	subst	_	12	PUTFYLL	_	_
-14	men	men	konj	konj	_	20	KONJ	_	_
-15	mens	mens	prep	prep	_	20	SBU	_	_
-16	på	på	prep	prep	_	19	APP	_	_
-17	Ål	Ål	subst	subst	_	16	PUTFYLL	_	_
-18	#	#	pause	pause	_	19	IK	_	_
-19	så	så	adv	adv	_	20	ADV	_	_
-20	prater	prate	verb	verb	_	11	KOORD	_	_
-21	vi	vi	pron	pron	_	20	SUBJ	_	_
-22	på	på	prep	prep	_	20	ADV	_	_
-23	å	å	inf-merke	inf-merke	_	22	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 94
+# speaker = aal_01um
+# id = 93
+# annotator = VDT
+1	posene	pose	subst	_	be|mask|fl|appell	11	SLETT	_	_
+2	og	og	konj	_	_	1	KONJ	_	_
+3	e	e	nol	_	_	1	FYLL	_	_
+4	ratt-	ratt-	ufullst	_	_	1	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	ja	ja	interj	_	_	11	INTERJ	_	_
+7	ikke	ikke	adv	_	_	8	ADV	_	_
+8	sant	sann	adj	_	ub|pos|nøyt|ent	11	PAR	_	_
+9	de	de	pron	_	nom|2|fl|hum	10	REP	_	_
+10	de	de	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+11	prater	prate	verb	_	pres	24	FINV	_	_
+12	på	på	prep	_	_	11	ADV	_	_
+13	ø	ø	subst	_	ub|mask|ent|appell	12	PUTFYLL	_	_
+14	men	men	konj	_	_	15	REP	_	_
+15	mens	mens	prep	_	_	16	SBU	_	_
+16	på	på	prep	_	_	19	APP	_	_
+17	Ål	Ål	subst	_	prop	16	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	prater	prate	verb	_	pres	11	KOORD	_	_
+21	vi	vi	pron	_	nom|1|fl|hum	20	SUBJ	_	_
+22	på	på	prep	_	_	20	ADV	_	_
+23	å	å	subst	_	ub|mask|ent|appell	22	PUTFYLL	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = vi sier posene og slikt noe # e og det synes jeg er veldig rart da for det at _uninterpretable_ # altså hvis du tenker at dialekter # kom # til dalen da r0t
 # segstart = 441.988
 # segstop = 452.052
-# speaker = aal_01um
-# text = vi si posene og slikt noe # e og det synes jeg er veldig rart da for det at # altså hvis du tenke at dialekter # kom # til dalen da
-1	vi	vi	pron	pron	_	11	SLETT	_	_
-2	si	si	det	det	_	1	DET	_	_
-3	posene	pose	subst	subst	_	2	DOBJ	_	_
-4	og	og	konj	konj	_	6	KONJ	_	_
-5	slikt	slikt	det	det	_	4	KOORD	_	_
-6	noe	noe	det	det	_	3	KOORD	_	_
-7	#	#	pause	pause	_	9	IK	_	_
-8	e	e	nol	nol	_	9	FYLL	_	_
-9	og	og	konj	konj	_	11	KONJ	_	_
-10	det	det	pron	pron	_	13	FSUBJ	_	_
-11	synes	synes	verb	verb	_	13	PAR	_	_
-12	jeg	jeg	pron	pron	_	13	SUBJ	_	_
-13	er	være	verb	verb	_	0	FINV	_	_
-14	veldig	veldig	adj	adj	_	15	ADV	_	_
-15	rart	rar	adj	adj	_	13	SPRED	_	_
-16	da	da	adv	adv	_	13	ADV	_	_
-17	for	for	konj	konj	_	13	ADV	_	_
-18	det	det	pron	pron	_	17	PUTFYLL	_	_
-19	at	at	sbu	sbu	_	24	SBU	_	_
-20	#	#	pause	pause	_	21	IK	_	_
-21	altså	altså	adv	adv	_	24	ADV	_	_
-22	hvis	hvis	sbu	sbu	_	24	SBU	_	_
-23	du	du	pron	pron	_	24	SUBJ	_	_
-24	tenke	tenke	verb	verb	_	18	APP	_	_
-25	at	at	sbu	sbu	_	28	SBU	_	_
-26	dialekter	dialekt	subst	subst	_	28	SUBJ	_	_
-27	#	#	pause	pause	_	28	IK	_	_
-28	kom	komme	verb	verb	_	24	DOBJ	_	_
-29	#	#	pause	pause	_	30	IK	_	_
-30	til	til	prep	prep	_	28	ADV	_	_
-31	dalen	dal	subst	subst	_	30	PUTFYLL	_	_
-32	da	da	adv	adv	_	28	ADV	_	_
-
 # file = aal_01um-sl
-# id = 95
+# speaker = aal_01um
+# id = 94
+# annotator = VDT
+1	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+2	sier	si	verb	_	pres	34	FINV	_	_
+3	posene	pose	subst	_	be|mask|fl|appell	2	DOBJ	_	_
+4	og	og	konj	_	_	5	KONJ	_	_
+5	slikt	slikt	det	_	nøyt|ent|dem	3	KOORD	_	_
+6	noe	noe	det	_	nøyt|ent|kvant	5	DET	_	_
+7	#	#	pause	_	_	9	IK	_	_
+8	e	e	nol	_	_	9	FYLL	_	_
+9	og	og	konj	_	_	11	KONJ	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	13	SUBJ	_	_
+11	synes	synes	verb	_	pres	2	KOORD	_	_
+12	jeg	jeg	pron	_	nom|1|ent|hum	11	SUBJ	_	_
+13	er	være	verb	_	pres	11	DOBJ	_	_
+14	veldig	veldig	adj	_	ub|pos|nøyt|ent	15	ADV	_	_
+15	rart	rar	adj	_	ub|pos|nøyt|ent	13	SPRED	_	_
+16	da	da	adv	_	_	13	ADV	_	_
+17	for	for	konj	_	_	25	REP	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	17	PUTFYLL	_	_
+19	at	at	sbu	_	_	18	APP	_	_
+20	_uninterpretable_	_uninterpretable_	pause	_	_	25	FYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	altså	altså	adv	_	_	25	ADV	_	_
+23	hvis	hvis	sbu	_	_	25	SBU	_	_
+24	du	du	pron	_	nom|2|ent|hum	25	SUBJ	_	_
+25	tenker	tenke	verb	_	pres	2	KOORD	_	_
+26	at	at	sbu	_	_	29	SBU	_	_
+27	dialekter	dialekt	subst	_	ub|fem|fl|appell	29	SUBJ	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	kom	komme	verb	_	pret	25	DOBJ	_	_
+30	#	#	pause	_	_	31	IK	_	_
+31	til	til	prep	_	_	29	ADV	_	_
+32	dalen	dal	subst	_	be|mask|ent|appell	31	PUTFYLL	_	_
+33	da	da	adv	_	_	29	ADV	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = så tenker jeg de må jo liksom ha gått oppover og nedover dalen # men da er det så veldig rart at bare Ål skiller seg ut så veldig r0t
 # segstart = 452.052
 # segstop = 458.276
-# speaker = aal_01um
-# text = så tenker jeg de må jo liksom ha gått oppover og nedover dalen # men da er det så veldig rart at bare Ål skiller seg ut så veldig
-1	så	så	adv	adv	_	2	ADV	_	_
-2	tenker	tenke	verb	verb	_	0	FINV	_	_
-3	jeg	jeg	pron	pron	_	2	SUBJ	_	_
-4	de	de	pron	pron	_	5	SUBJ	_	_
-5	må	må	verb	verb	_	2	DOBJ	_	_
-6	jo	jo	adv	adv	_	8	ADV	_	_
-7	liksom	liksom	adv	adv	_	8	ADV	_	_
-8	ha	ha	verb	verb	_	5	INFV	_	_
-9	gått	gå	verb	verb	_	8	INFV	_	_
-10	oppover	oppover	prep	prep	_	9	ADV	_	_
-11	og	og	konj	konj	_	12	KONJ	_	_
-12	nedover	nedover	prep	prep	_	10	KOORD	_	_
-13	dalen	dal	subst	subst	_	12	PUTFYLL	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	men	men	konj	konj	_	17	KONJ	_	_
-16	da	da	adv	adv	_	17	ADV	_	_
-17	er	være	verb	verb	_	2	KOORD	_	_
-18	det	det	pron	pron	_	17	FSUBJ	_	_
-19	så	så	adv	adv	_	20	ADV	_	_
-20	veldig	veldig	adj	adj	_	21	ADV	_	_
-21	rart	rar	adj	adj	_	17	SPRED	_	_
-22	at	at	sbu	sbu	_	25	SBU	_	_
-23	bare	bare	adv	adv	_	24	APP	_	_
-24	Ål	Ål	subst	subst	_	25	SUBJ	_	_
-25	skiller	skille	verb	verb	_	17	PSUBJ	_	_
-26	seg	seg	pron	pron	_	25	DOBJ	_	_
-27	ut	ut	prep	prep	_	25	ADV	_	_
-28	så	så	adv	adv	_	29	ADV	_	_
-29	veldig	veldig	adj	adj	_	25	ADV	_	_
-
 # file = aal_01um-sl
-# id = 96
+# speaker = aal_01um
+# id = 95
+# annotator = VDT
+1	så	så	adv	_	_	2	ADV	_	_
+2	tenker	tenke	verb	_	pres	30	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	de	de	pron	_	nom|2|fl|hum	5	SUBJ	_	_
+5	må	måtte	verb	_	pres	2	DOBJ	_	_
+6	jo	jo	adv	_	_	8	ADV	_	_
+7	liksom	liksom	adv	_	_	8	ADV	_	_
+8	ha	ha	verb	_	inf	5	INFV	_	_
+9	gått	gå	verb	_	perf-part	8	INFV	_	_
+10	oppover	oppover	prep	_	_	9	ADV	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	nedover	nedover	prep	_	_	10	KOORD	_	_
+13	dalen	dal	subst	_	be|mask|ent|appell	12	PUTFYLL	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	men	men	konj	_	_	17	KONJ	_	_
+16	da	da	adv	_	_	17	ADV	_	_
+17	er	være	verb	_	pres	2	KOORD	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	veldig	veldig	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+21	rart	rar	adj	_	ub|pos|nøyt|ent	17	SPRED	_	_
+22	at	at	sbu	_	_	25	SBU	_	_
+23	bare	bare	adv	_	_	25	ADV	_	_
+24	Ål	Ål	subst	_	prop	25	SUBJ	_	_
+25	skiller	skille	verb	_	pres	17	PSUBJ	_	_
+26	seg	seg	pron	_	akk|refl	25	DOBJ	_	_
+27	ut	ut	prep	_	_	25	ADV	_	_
+28	så	så	adv	_	_	29	ADV	_	_
+29	veldig	veldig	adj	_	ub|pos|nøyt|ent	25	ADV	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = da burde de _uninterpretable_ for eksempel ha prata på å # videre oppover da # så det synes jeg er litt tøft root
 # segstart = 458.276
 # segstop = 463.69
-# speaker = aal_01um
-# text = da burde de for eksempel ha prata på å # videre oppover da # så det synes jeg er litt tøft
-1	da	da	adv	adv	_	2	ADV	_	_
-2	burde	burde	verb	verb	_	0	FINV	_	_
-3	de	de	pron	pron	_	2	DET	_	_
-4	for	for	prep	prep	_	6	ADV	_	_
-5	eksempel	eksempel	subst	subst	_	4	PUTFYLL	_	_
-6	ha	ha	verb	verb	_	2	INFV	_	_
-7	prata	prate	verb	verb	_	6	KOORD	_	_
-8	på	på	prep	prep	_	7	ADV	_	_
-9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	_
-10	#	#	pause	pause	_	11	IK	_	_
-11	videre	vid	adj	adj	_	9	INFV	_	_
-12	oppover	oppover	prep	prep	_	11	ADV	_	_
-13	da	da	adv	adv	_	12	PUTFYLL	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	så	så	konj	konj	_	17	ADV	_	_
-16	det	det	pron	pron	_	17	FSUBJ	_	_
-17	synes	synes	verb	verb	_	19	PAR	_	_
-18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
-19	er	være	verb	verb	_	7	KOORD	_	_
-20	litt	litt	adj	adj	_	21	ADV	_	_
-21	tøft	tøff	adj	adj	_	19	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 97
+# speaker = aal_01um
+# id = 96
+# annotator = VDT
+1	da	da	adv	_	_	2	ADV	_	_
+2	burde	burde	verb	_	pret	23	FINV	_	_
+3	de	de	pron	_	nom|2|fl|hum	2	SUBJ	_	_
+4	_uninterpretable_	_uninterpretable_	pause	_	_	2	FYLL	_	_
+5	for	for	prep	_	_	7	ADV	_	_
+6	eksempel	eksempel	subst	_	ub|nøyt|ent|appell	5	PUTFYLL	_	_
+7	ha	ha	verb	_	inf	2	INFV	_	_
+8	prata	prate	verb	_	perf-part	7	INFV	_	_
+9	på	på	prep	_	_	8	ADV	_	_
+10	å	å	subst	_	ub|mask|ent|appell	9	PUTFYLL	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	videre	vid	adj	_	komp	8	ADV	_	_
+13	oppover	oppover	prep	_	_	12	ADV	_	_
+14	da	da	adv	_	_	8	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	så	så	konj	_	_	18	KONJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	20	SUBJ	_	_
+18	synes	synes	verb	_	pres	2	KOORD	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	18	SUBJ	_	_
+20	er	være	verb	_	pres	18	DOBJ	_	_
+21	litt	litt	adj	_	ub|pos|nøyt|ent	22	ADV	_	_
+22	tøft	tøff	adj	_	ub|pos|nøyt|ent	20	SPRED	_	_
+23	root	_	_	_	_	0	root	_	_
+
+# text = ja for det har ikke altså # Ål har alltid vært det har ikke vært sånn at de har vært helt isolert her fra resten av dalen liksom ? r0t
 # segstart = 463.69
 # segstop = 469.556
-# speaker = sl
-# text = ja for det har ikke altså # Ål har alltid vært det har ikke vært sånn at de har vært helt isolert her fra resten av dalen liksom ?
-1	ja	ja	interj	interj	_	4	INTERJ	_	_
-2	for	for	konj	konj	_	4	KONJ	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	har	ha	verb	verb	_	9	REP	_	_
-5	ikke	ikke	adv	adv	_	4	ADV	_	_
-6	altså	altså	adv	adv	_	4	ADV	_	_
-7	#	#	pause	pause	_	8	IK	_	_
-8	Ål	Ål	subst	subst	_	9	SUBJ	_	_
-9	har	ha	verb	verb	_	0	FINV	_	_
-10	alltid	alltid	adv	adv	_	11	ADV	_	_
-11	vært	være	verb	verb	_	9	INFV	_	_
-12	det	det	pron	pron	_	13	FSUBJ	_	_
-13	har	ha	verb	verb	_	9	KOORD	_	_
-14	ikke	ikke	adv	adv	_	15	ADV	_	_
-15	vært	være	verb	verb	_	13	INFV	_	_
-16	sånn	sånn	adv	adv	_	17	ADV	_	_
-17	at	at	sbu	sbu	_	19	SBU	_	_
-18	de	de	pron	pron	_	19	SUBJ	_	_
-19	har	ha	verb	verb	_	15	ADV	_	_
-20	vært	være	verb	verb	_	19	INFV	_	_
-21	helt	hele	adj	adj	_	22	ADV	_	_
-22	isolert	isolere	adj	adj	_	20	SPRED	_	_
-23	her	her	prep	prep	_	22	ADV	_	_
-24	fra	fra	prep	prep	_	23	PUTFYLL	_	_
-25	resten	rest	subst	subst	_	24	PUTFYLL	_	_
-26	av	av	prep	prep	_	25	ATR	_	_
-27	dalen	dal	subst	subst	_	26	PUTFYLL	_	_
-28	liksom	liksom	adv	adv	_	20	ADV	_	_
-29	?	?	clb	clb	_	9	IP	_	_
-
 # file = aal_01um-sl
-# id = 99
+# speaker = sl
+# id = 97
+# annotator = VDT
+1	ja	ja	interj	_	_	13	INTERJ	_	_
+2	for	for	konj	_	_	4	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	har	ha	verb	_	pres	13	REP	_	_
+5	ikke	ikke	adv	_	_	4	ADV	_	_
+6	altså	altså	adv	_	_	4	ADV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	Ål	Ål	subst	_	prop	9	SUBJ	_	_
+9	har	ha	verb	_	pres	13	REP	_	_
+10	alltid	alltid	adv	_	_	11	ADV	_	_
+11	vært	være	verb	_	perf-part	9	INFV	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+13	har	ha	verb	_	pres	30	FINV	_	_
+14	ikke	ikke	adv	_	_	15	ADV	_	_
+15	vært	være	verb	_	perf-part	13	INFV	_	_
+16	sånn	sånn	adv	_	_	15	SPRED	_	_
+17	at	at	sbu	_	_	19	SBU	_	_
+18	de	de	pron	_	nom|2|fl|hum	19	SUBJ	_	_
+19	har	ha	verb	_	pres	16	APP	_	_
+20	vært	være	verb	_	perf-part	19	INFV	_	_
+21	helt	hele	adj	_	ub|pos|nøyt|ent	22	ADV	_	_
+22	isolert	isolere	adj	_	perf-part	20	SPRED	_	_
+23	her	her	prep	_	_	20	ADV	_	_
+24	fra	fra	prep	_	_	20	ADV	_	_
+25	resten	rest	subst	_	be|mask|ent|appell	24	PUTFYLL	_	_
+26	av	av	prep	_	_	25	ATR	_	_
+27	dalen	dal	subst	_	be|mask|ent|appell	26	PUTFYLL	_	_
+28	liksom	liksom	adv	_	_	20	ADV	_	_
+29	?	?	clb	_	_	13	IP	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = * _uninterpretable_ * r0t
+# segstart = 463.69
+# segstop = 469.556
+# file = aal_01um-sl
+# speaker = aal_01um
+# id = 98
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	_uninterpretable_	_uninterpretable_	pause	_	_	4	FYLL	_	_
+3	*	*	pause	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = nei nei # det har ikke det det har jo det gikk jo # _clears-throat_ e handelskarene og slik gikk jo gjennom heile dalen med buskapen og e store flokker med kyr og r0t
 # segstart = 469.556
 # segstop = 481.623
-# speaker = aal_01um
-# text = nei nei # det har ikke det det har jo det gikk jo # e handelskarene og slik gikk jo gjennom heile dalen med buskapen og e store flokker med kyr og
-1	nei	nei	interj	interj	_	5	INTERJ	_	_
-2	nei	nei	interj	interj	_	5	INTERJ	_	_
-3	#	#	pause	pause	_	4	IK	_	_
-4	det	det	pron	pron	_	5	FSUBJ	_	_
-5	har	ha	verb	verb	_	0	FINV	_	_
-6	ikke	ikke	adv	adv	_	5	ADV	_	_
-7	det	det	pron	pron	_	5	DOBJ	_	_
-8	det	det	pron	pron	_	9	FSUBJ	_	_
-9	har	ha	verb	verb	_	12	REP	_	_
-10	jo	jo	adv	adv	_	9	ADV	_	_
-11	det	det	pron	pron	_	12	FSUBJ	_	_
-12	gikk	gå	verb	verb	_	5	KOORD	_	_
-13	jo	jo	adv	adv	_	12	ADV	_	_
-14	#	#	pause	pause	_	13	IK	_	_
-15	e	e	nol	nol	_	16	FYLL	_	_
-16	handelskarene	handelskar	subst	subst	_	14	DOBJ	_	_
-17	og	og	konj	konj	_	19	KONJ	_	_
-18	slik	slik	adv	adv	_	19	ADV	_	_
-19	gikk	gå	verb	verb	_	5	KOORD	_	_
-20	jo	jo	adv	adv	_	19	ADV	_	_
-21	gjennom	gjennom	prep	prep	_	19	ADV	_	_
-22	heile	heil	adj	adj	_	23	ATR	_	_
-23	dalen	dal	subst	subst	_	21	PUTFYLL	_	_
-24	med	med	prep	prep	_	19	ADV	_	_
-25	buskapen	buskap	subst	subst	_	24	PUTFYLL	_	_
-26	og	og	konj	konj	_	29	KONJ	_	_
-27	e	e	nol	nol	_	28	FYLL	_	_
-28	store	stor	adj	adj	_	29	ATR	_	_
-29	flokker	flokke	subst	subst	_	25	KOORD	_	_
-30	med	med	prep	prep	_	25	ATR	_	_
-31	kyr	ku	subst	subst	_	30	PUTFYLL	_	_
-32	og	og	konj	konj	_	31	KONJ	_	_
-
 # file = aal_01um-sl
-# id = 100
+# speaker = aal_01um
+# id = 99
+# annotator = VDT
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	nei	nei	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	har	ha	verb	_	pres	34	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	5	DOBJ	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	9	FSUBJ	_	_
+9	har	ha	verb	_	pres	12	REP	_	_
+10	jo	jo	adv	_	_	9	ADV	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+12	gikk	gå	verb	_	pret	20	REP	_	_
+13	jo	jo	adv	_	_	12	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	_clears-throat_	_clears-throat_	pause	_	_	12	FYLL	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	handelskarene	handelskare	subst	_	be|mask|fl|samset	20	SUBJ	_	_
+18	og	og	konj	_	_	19	KONJ	_	_
+19	slik	slik	adv	_	_	17	KOORD	_	_
+20	gikk	gå	verb	_	pret	5	KOORD	_	_
+21	jo	jo	adv	_	_	20	ADV	_	_
+22	gjennom	gjennom	prep	_	_	20	ADV	_	_
+23	heile	heil	adj	_	pos|fl	24	ATR	_	_
+24	dalen	dal	subst	_	be|mask|ent|appell	22	PUTFYLL	_	_
+25	med	med	prep	_	_	20	ADV	_	_
+26	buskapen	buskap	subst	_	be|mask|ent|appell	25	PUTFYLL	_	_
+27	og	og	konj	_	_	30	KONJ	_	_
+28	e	e	nol	_	_	29	FYLL	_	_
+29	store	stor	adj	_	pos|fl	30	ATR	_	_
+30	flokker	flokk	subst	_	ub|mask|fl|appell	26	KOORD	_	_
+31	med	med	prep	_	_	30	ATR	_	_
+32	kyr	ku	subst	_	ub|fem|fl|appell	31	PUTFYLL	_	_
+33	og	og	konj	_	_	30	KONJ	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = e så det har alltid vært en gjennomstrømning gjennom dalen da # Bergensbanen kom jo som gikk gjennom dalen og r0t
 # segstart = 481.623
 # segstop = 487.966
-# speaker = aal_01um
-# text = e så det har alltid vært en gjennomstrømning gjennom dalen da # Bergensbanen kom jo som gikk gjennom dalen og
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	så	så	konj	konj	_	4	KONJ	_	_
-3	det	det	pron	pron	_	4	FSUBJ	_	_
-4	har	ha	verb	verb	_	0	FINV	_	_
-5	alltid	alltid	adv	adv	_	6	ADV	_	_
-6	vært	være	verb	verb	_	4	INFV	_	_
-7	en	en	det	det	_	8	DET	_	_
-8	gjennomstrømning	gjennomstrømning	subst	subst	_	6	SPRED	_	_
-9	gjennom	gjennom	prep	prep	_	8	ADV	_	_
-10	dalen	dal	subst	subst	_	9	PUTFYLL	_	_
-11	da	da	adv	adv	_	6	ADV	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	Bergensbanen	bergensbane	subst	subst	_	14	SUBJ	_	_
-14	kom	komme	verb	verb	_	4	KOORD	_	_
-15	jo	jo	adv	adv	_	14	ADV	_	_
-16	som	som	sbu	sbu	_	17	SBU	_	_
-17	gikk	gå	verb	verb	_	14	ATR	_	_
-18	gjennom	gjennom	prep	prep	_	17	ADV	_	_
-19	dalen	dal	subst	subst	_	18	PUTFYLL	_	_
-20	og	og	konj	konj	_	19	KONJ	_	_
-
 # file = aal_01um-sl
-# id = 101
+# speaker = aal_01um
+# id = 100
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	så	så	konj	_	_	4	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	har	ha	verb	_	pres	21	FINV	_	_
+5	alltid	alltid	adv	_	_	6	ADV	_	_
+6	vært	være	verb	_	perf-part	4	INFV	_	_
+7	en	en	det	_	mask|ent|kvant	8	DET	_	_
+8	gjennomstrømning	gjennomstrømning	subst	_	ub|mask|ent|appell	6	PSUBJ	_	_
+9	gjennom	gjennom	prep	_	_	6	ADV	_	_
+10	dalen	dal	subst	_	be|mask|ent|appell	9	PUTFYLL	_	_
+11	da	da	adv	_	_	6	ADV	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	Bergensbanen	bergensbanen	subst	_	prop	14	SUBJ	_	_
+14	kom	komme	verb	_	pret	4	KOORD	_	_
+15	jo	jo	adv	_	_	14	ADV	_	_
+16	som	som	sbu	_	_	17	SBU	_	_
+17	gikk	gå	verb	_	pret	13	ATR	_	_
+18	gjennom	gjennom	prep	_	_	17	ADV	_	_
+19	dalen	dal	subst	_	be|mask|ent|appell	18	PUTFYLL	_	_
+20	og	og	konj	_	_	14	KONJ	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = så det har ikke vært noe i- Ål har ikke vært noe isolert på den på det viset # egentlig r0t
 # segstart = 487.966
 # segstop = 492.521
-# speaker = aal_01um
-# text = så det har ikke vært noe i- Ål har ikke vært noe isolert på den på det viset # egentlig
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	det	det	pron	pron	_	3	FSUBJ	_	_
-3	har	ha	verb	verb	_	9	REP	_	_
-4	ikke	ikke	adv	adv	_	5	ADV	_	_
-5	vært	være	verb	verb	_	3	INFV	_	_
-6	noe	noe	det	det	_	8	DET	_	_
-7	i-	i-	ufullst	ufullst	_	8	FYLL	_	_
-8	Ål	Ål	subst	subst	_	9	SUBJ	_	_
-9	har	ha	verb	verb	_	0	FINV	_	_
-10	ikke	ikke	adv	adv	_	11	ADV	_	_
-11	vært	være	verb	verb	_	9	INFV	_	_
-12	noe	noe	det	det	_	11	DET	_	_
-13	isolert	isolere	verb	verb	_	11	SPRED	_	_
-14	på	på	prep	prep	_	13	ADV	_	_
-15	den	den	pron	pron	_	14	PUTFYLL	_	_
-16	på	på	prep	prep	_	15	ADV	_	_
-17	det	det	det	det	_	18	DET	_	_
-18	viset	vise	subst	subst	_	16	PUTFYLL	_	_
-19	#	#	pause	pause	_	20	IK	_	_
-20	egentlig	egentlig	adj	adj	_	11	ADV	_	_
-
 # file = aal_01um-sl
-# id = 102
+# speaker = aal_01um
+# id = 101
+# annotator = VDT
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	har	ha	verb	_	pres	9	REP	_	_
+4	ikke	ikke	adv	_	_	5	ADV	_	_
+5	vært	være	verb	_	perf-part	3	INFV	_	_
+6	noe	noe	det	_	nøyt|ent|kvant	5	PSUBJ	_	_
+7	i-	i-	ufullst	_	_	5	FYLL	_	_
+8	Ål	Ål	subst	_	prop	9	SUBJ	_	_
+9	har	ha	verb	_	pres	21	FINV	_	_
+10	ikke	ikke	adv	_	_	11	ADV	_	_
+11	vært	være	verb	_	perf-part	9	INFV	_	_
+12	noe	noe	det	_	nøyt|ent|kvant	13	DET	_	_
+13	isolert	isolere	adj	_	perf-part	11	SPRED	_	_
+14	på	på	prep	_	_	16	REP	_	_
+15	den	den	pron	_	fem|3|ent|pers	14	PUTFYLL	_	_
+16	på	på	prep	_	_	11	ADV	_	_
+17	det	det	det	_	nøyt|ent|dem	18	DET	_	_
+18	viset	vis	subst	_	be|nøyt|ent|appell	16	PUTFYLL	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	11	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ det er mystisk r0t
 # segstart = 492.521
 # segstop = 493.38
-# speaker = sl
-# text = det er mystisk
-1	det	det	pron	pron	_	2	SUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	mystisk	mystisk	adj	adj	_	2	SPRED	_	_
-
 # file = aal_01um-sl
-# id = 103
+# speaker = sl
+# id = 102
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	5	FINV	_	_
+4	mystisk	mystisk	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = det er mystisk _laughter_ r0t
 # segstart = 493.38
 # segstop = 494.835
-# speaker = aal_01um
-# text = det er mystisk
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	mystisk	mystisk	adj	adj	_	2	ATR	_	_
-
 # file = aal_01um-sl
-# id = 104
+# speaker = aal_01um
+# id = 103
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	er	være	verb	_	pres	5	FINV	_	_
+3	mystisk	mystisk	adj	_	ub|pos|m/f|ent	2	SPRED	_	_
+4	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = e men du sa jo at em at nå d- at du ikke snakket helt som alle andre ungdommer r0t
 # segstart = 494.835
 # segstop = 501.894
-# speaker = sl
-# text = e men du sa jo at em at nå d- at du ikke snakket helt som alle andre ungdommer
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	men	men	konj	konj	_	4	KONJ	_	_
-3	du	du	pron	pron	_	4	SUBJ	_	_
-4	sa	si	verb	verb	_	0	FINV	_	_
-5	jo	jo	adv	adv	_	4	ADV	_	_
-6	at	at	sbu	sbu	_	8	REP	_	_
-7	em	em	ukjent	ukjent	_	8	FYLL	_	_
-8	at	at	sbu	sbu	_	11	REP	_	_
-9	nå	nå	adv	adv	_	11	ADV	_	_
-10	d-	d-	ufullst	ufullst	_	11	FYLL	_	_
-11	at	at	sbu	sbu	_	14	SBU	_	_
-12	du	du	pron	pron	_	14	SUBJ	_	_
-13	ikke	ikke	adv	adv	_	14	ADV	_	_
-14	snakket	snakke	verb	verb	_	4	DOBJ	_	_
-15	helt	hele	adj	adj	_	16	ADV	_	_
-16	som	som	prep	prep	_	14	ADV	_	_
-17	alle	alle	det	det	_	19	DET	_	_
-18	andre	andre	det	det	_	19	DET	_	_
-19	ungdommer	ungdom	subst	subst	_	16	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 105
+# speaker = sl
+# id = 104
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	men	men	konj	_	_	4	KONJ	_	_
+3	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+4	sa	si	verb	_	pret	20	FINV	_	_
+5	jo	jo	adv	_	_	4	ADV	_	_
+6	at	at	sbu	_	_	8	REP	_	_
+7	em	em	nol	_	_	8	FYLL	_	_
+8	at	at	sbu	_	_	11	REP	_	_
+9	nå	nå	adv	_	_	11	ADV	_	_
+10	d-	d-	ufullst	_	_	11	FYLL	_	_
+11	at	at	sbu	_	_	14	SBU	_	_
+12	du	du	pron	_	nom|2|ent|hum	14	SUBJ	_	_
+13	ikke	ikke	adv	_	_	14	ADV	_	_
+14	snakket	snakke	verb	_	pret	4	DOBJ	_	_
+15	helt	hel	adj	_	ub|pos|nøyt|ent	16	ADV	_	_
+16	som	som	prep	_	_	14	ADV	_	_
+17	alle	alle	det	_	fl|kvant	19	DET	_	_
+18	andre	andre	det	_	fl|dem	19	DET	_	_
+19	ungdommer	ungdom	subst	_	ub|mask|fl|appell	16	PUTFYLL	_	_
+20	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
 # segstart = 499.676
 # segstop = 500.105
-# speaker = aal_01um
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 106
+# speaker = aal_01um
+# id = 105
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva er som skjer ? r0t
 # segstart = 500.105
 # segstop = 501.894
-# speaker = sl
-# text = hva er som skjer ?
-1	hva	hva	pron	pron	_	2	DOBJ	_	_
-2	er	være	verb	verb	_	0	FINV	_	_
-3	som	som	sbu	sbu	_	4	SBU	_	_
-4	skjer	skje	verb	verb	_	2	ADV	_	_
-5	?	?	clb	clb	_	2	IP	_	_
-
 # file = aal_01um-sl
-# id = 107
+# speaker = sl
+# id = 106
+# annotator = VDT
+1	hva	hva	pron	_	sp	2	SPRED	_	_
+2	er	være	verb	_	pres	6	FINV	_	_
+3	som	som	sbu	_	_	4	SBU	_	_
+4	skjer	skje	verb	_	pres	2	SUBJ	_	_
+5	?	?	clb	_	_	2	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = nei e det trur jeg kanskje er i ferd med å endre seg nå # men når jeg var liten så var det ikke så veldig gøy å prate dialekt root
 # segstart = 501.894
 # segstop = 551.428
-# speaker = aal_01um
-# text = nei e det trur jeg kanskje er i ferd med å endre seg nå # men når jeg var liten så var det ikke så veldig gøy å prate dialekt
-1	nei	nei	interj	interj	_	4	INTERJ	_	_
-2	e	e	nol	nol	_	3	FYLL	_	_
-3	det	det	pron	pron	_	4	DOBJ	_	_
-4	trur	tru	verb	verb	_	0	FINV	_	_
-5	jeg	jeg	pron	pron	_	7	SUBJ	_	_
-6	kanskje	kanskje	adv	adv	_	7	ADV	_	_
-7	er	være	verb	verb	_	22	REP	_	_
-8	i	i	prep	prep	_	7	SPRED	_	_
-9	ferd	ferd	subst	subst	_	8	PUTFYLL	_	_
-10	med	med	prep	prep	_	9	ATR	_	_
-11	å	å	inf-merke	inf-merke	_	10	PUTFYLL	_	_
-12	endre	endre	verb	verb	_	11	INFV	_	_
-13	seg	seg	pron	pron	_	12	DOBJ	_	_
-14	nå	nå	adv	adv	_	12	ADV	_	_
-15	#	#	pause	pause	_	16	IK	_	_
-16	men	men	konj	konj	_	22	KONJ	_	_
-17	når	når	sbu	sbu	_	19	SBU	_	_
-18	jeg	jeg	pron	pron	_	19	SUBJ	_	_
-19	var	være	verb	verb	_	21	APP	_	_
-20	liten	liten	adj	adj	_	19	SPRED	_	_
-21	så	så	adv	adv	_	22	ADV	_	_
-22	var	være	verb	verb	_	4	DOBJ	_	_
-23	det	det	pron	pron	_	22	FSUBJ	_	_
-24	ikke	ikke	adv	adv	_	22	ADV	_	_
-25	så	så	adv	adv	_	26	ADV	_	_
-26	veldig	veldig	adj	adj	_	27	ADV	_	_
-27	gøy	gøy	adj	adj	_	22	SPRED	_	_
-28	å	å	inf-merke	inf-merke	_	22	PSUBJ	_	_
-29	prate	prate	verb	verb	_	28	INFV	_	_
-30	dialekt	dialekt	subst	subst	_	29	DOBJ	_	_
-
 # file = aal_01um-sl
-# id = 108
+# speaker = aal_01um
+# id = 107
+# annotator = VDT
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+4	trur	tru	verb	_	pres	31	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	kanskje	kanskje	adv	_	_	7	ADV	_	_
+7	er	være	verb	_	pres	4	DOBJ	_	_
+8	i	i	prep	_	_	7	SPRED	_	_
+9	ferd	ferd	subst	_	ub|mask|ent|appell	8	PUTFYLL	_	_
+10	med	med	prep	_	_	9	ATR	_	_
+11	å	å	inf-merke	_	_	10	PUTFYLL	_	_
+12	endre	endre	verb	_	inf	11	INFV	_	_
+13	seg	seg	pron	_	akk|refl	12	DOBJ	_	_
+14	nå	nå	adv	_	_	12	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	men	men	konj	_	_	22	KONJ	_	_
+17	når	når	sbu	_	_	19	SBU	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	19	SUBJ	_	_
+19	var	være	verb	_	pret	21	APP	_	_
+20	liten	liten	adj	_	ub|pos|mask|ent	19	SPRED	_	_
+21	så	så	adv	_	_	22	ADV	_	_
+22	var	være	verb	_	pret	4	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+24	ikke	ikke	adv	_	_	22	ADV	_	_
+25	så	så	adv	_	_	26	ADV	_	_
+26	veldig	veldig	adj	_	ub|pos|nøyt|ent	27	ADV	_	_
+27	gøy	gøy	adj	_	ub|pos|nøyt|ent	22	SPRED	_	_
+28	å	å	inf-merke	_	_	22	PSUBJ	_	_
+29	prate	prate	verb	_	inf	28	INFV	_	_
+30	dialekt	dialekt	subst	_	ub|fem|ent|appell	29	DOBJ	_	_
+31	root	_	_	_	_	0	root	_	_
+
+# text = så da la alle om til e bymål eller bokmål eller # slikt noe # em grunnen til at jeg holdt på dialekten det f- # veit jeg egentlig ikke i grunn r0t
 # segstart = 509.001
 # segstop = 551.428
-# speaker = aal_01um
-# text = så da la alle om til e bymål eller bokmål eller # slikt noe # em grunn til at jeg holdt på dialekten det f- # veit jeg egentlig ikke i grunn
-1	så	så	konj	konj	_	3	KONJ	_	_
-2	da	da	adv	adv	_	3	ADV	_	_
-3	la	la	verb	verb	_	0	FINV	_	_
-4	alle	alle	det	det	_	3	SUBJ	_	_
-5	om	om	prep	prep	_	6	REP	_	_
-6	til	til	prep	prep	_	3	ADV	_	_
-7	e	e	nol	nol	_	8	FYLL	_	_
-8	bymål	bymål	subst	subst	_	6	PUTFYLL	_	_
-9	eller	eller	konj	konj	_	10	KONJ	_	_
-10	bokmål	bokmål	subst	subst	_	8	KOORD	_	_
-11	eller	eller	konj	konj	_	17	KONJ	_	_
-12	#	#	pause	pause	_	13	IK	_	_
-13	slikt	slikt	det	det	_	17	DET	_	_
-14	noe	noe	det	det	_	17	DET	_	_
-15	#	#	pause	pause	_	17	IK	_	_
-16	em	em	ukjent	ukjent	_	17	FYLL	_	_
-17	grunn	grunn	subst	subst	_	8	KOORD	_	_
-18	til	til	prep	prep	_	17	ATR	_	_
-19	at	at	sbu	sbu	_	21	SBU	_	_
-20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
-21	holdt	holde	verb	verb	_	18	PUTFYLL	_	_
-22	på	på	prep	prep	_	21	ADV	_	_
-23	dialekten	dialekt	subst	subst	_	22	PUTFYLL	_	_
-24	det	det	pron	pron	_	3	DOBJ	_	_
-25	f-	f-	ufullst	ufullst	_	27	FYLL	_	_
-26	#	#	pause	pause	_	27	IK	_	_
-27	veit	veit	verb	verb	_	3	KOORD	_	_
-28	jeg	jeg	pron	pron	_	27	SUBJ	_	_
-29	egentlig	egentlig	adj	adj	_	27	ADV	_	_
-30	ikke	ikke	adv	adv	_	27	ADV	_	_
-31	i	i	prep	prep	_	27	ADV	_	_
-32	grunn	grunn	subst	subst	_	31	PUTFYLL	_	_
-
 # file = aal_01um-sl
-# id = 109
+# speaker = aal_01um
+# id = 108
+# annotator = VDT
+1	så	så	konj	_	_	3	KONJ	_	_
+2	da	da	adv	_	_	3	ADV	_	_
+3	la	legge	verb	_	pret	33	FINV	_	_
+4	alle	alle	det	_	fl|kvant	3	SUBJ	_	_
+5	om	om	prep	_	_	3	ADV	_	_
+6	til	til	prep	_	_	3	ADV	_	_
+7	e	e	nol	_	_	8	FYLL	_	_
+8	bymål	bymål	subst	_	ub|nøyt|ent|samset	6	PUTFYLL	_	_
+9	eller	eller	konj	_	_	10	KONJ	_	_
+10	bokmål	bokmål	subst	_	ub|nøyt|ent|appell	8	KOORD	_	_
+11	eller	eller	konj	_	_	14	KONJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	slikt	slikt	det	_	nøyt|ent|dem	14	DET	_	_
+14	noe	noe	det	_	nøyt|ent|kvant	8	KOORD	_	_
+15	#	#	pause	_	_	17	IK	_	_
+16	em	em	nol	_	_	17	FYLL	_	_
+17	grunnen	grunn	subst	_	be|mask|ent|appell	24	APP	_	_
+18	til	til	prep	_	_	17	ATR	_	_
+19	at	at	sbu	_	_	21	SBU	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	21	SUBJ	_	_
+21	holdt	holde	verb	_	pret	18	PUTFYLL	_	_
+22	på	på	prep	_	_	21	ADV	_	_
+23	dialekten	dialekt	subst	_	be|mask|ent|appell	22	PUTFYLL	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	27	DOBJ	_	_
+25	f-	f-	ufullst	_	_	27	FYLL	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	veit	vite	verb	_	pres	3	KOORD	_	_
+28	jeg	jeg	pron	_	nom|1|ent|hum	27	SUBJ	_	_
+29	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	27	ADV	_	_
+30	ikke	ikke	adv	_	_	27	ADV	_	_
+31	i	i	prep	_	_	27	ADV	_	_
+32	grunn	grunn	subst	_	ub|mask|ent|appell	31	PUTFYLL	_	_
+33	r0t	_	_	_	_	0	root	_	_
+
+# text = e det har nok noe med at både mor og far prater dialekt og så ## ja jeg så ikke noe feil med å prate dialekt egentlig r0t
 # segstart = 520.615
 # segstop = 551.428
-# speaker = aal_01um
-# text = e det har nok noe med at både mor og far prater dialekt og så ## ja jeg så ikke noe feil med å prate dialekt egentlig
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	det	det	pron	pron	_	3	SUBJ	_	_
-3	har	ha	verb	verb	_	0	FINV	_	_
-4	nok	nok	adv	adv	_	3	ADV	_	_
-5	noe	noe	pron	pron	_	3	DOBJ	_	_
-6	med	med	prep	prep	_	5	ATR	_	_
-7	at	at	sbu	sbu	_	12	SBU	_	_
-8	både	både	konj	konj	_	9	KONJ	_	_
-9	mor	mor	subst	subst	_	12	SUBJ	_	_
-10	og	og	konj	konj	_	11	KONJ	_	_
-11	far	far	subst	subst	_	9	KOORD	_	_
-12	prater	prate	verb	verb	_	6	PUTFYLL	_	_
-13	dialekt	dialekt	subst	subst	_	12	DOBJ	_	_
-14	og	og	konj	konj	_	13	KONJ	_	_
-15	så	så	adv	adv	_	14	ADV	_	_
-16	##	##	pause	pause	_	17	IK	_	_
-17	ja	ja	interj	interj	_	15	KOORD	_	_
-18	jeg	jeg	pron	pron	_	17	ADV	_	_
-19	så	så	verb	verb	_	22	ADV	_	_
-20	ikke	ikke	adv	adv	_	19	ADV	_	_
-21	noe	noe	det	det	_	22	DET	_	_
-22	feil	feil	subst	subst	_	18	KOORD	_	_
-23	med	med	prep	prep	_	22	ATR	_	_
-24	å	å	inf-merke	inf-merke	_	23	PUTFYLL	_	_
-25	prate	prate	verb	verb	_	24	INFV	_	_
-26	dialekt	dialekt	subst	subst	_	25	DOBJ	_	_
-27	egentlig	egentlig	adj	adj	_	22	ADV	_	_
-
 # file = aal_01um-sl
-# id = 110
+# speaker = aal_01um
+# id = 109
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	har	ha	verb	_	pres	28	FINV	_	_
+4	nok	nok	adv	_	_	3	ADV	_	_
+5	noe	noe	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+6	med	med	prep	_	_	5	ATR	_	_
+7	at	at	sbu	_	_	12	SBU	_	_
+8	både	både	konj	_	_	9	KONJ	_	_
+9	mor	mor	subst	_	ub|fem|ent|appell	12	SUBJ	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	far	far	subst	_	ub|mask|ent|appell	9	KOORD	_	_
+12	prater	prate	verb	_	pres	6	PUTFYLL	_	_
+13	dialekt	dialekt	subst	_	ub|fem|ent|appell	12	DOBJ	_	_
+14	og	og	konj	_	_	17	REP	_	_
+15	så	så	adv	_	_	17	REP	_	_
+16	##	##	pause	_	_	17	IK	_	_
+17	ja	ja	interj	_	_	19	REP	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	19	SUBJ	_	_
+19	så	se	verb	_	pret	3	KOORD	_	_
+20	ikke	ikke	adv	_	_	19	ADV	_	_
+21	noe	noe	det	_	nøyt|ent|kvant	22	DET	_	_
+22	feil	feil	subst	_	ub|mask|ent|appell	19	DOBJ	_	_
+23	med	med	prep	_	_	22	ATR	_	_
+24	å	å	inf-merke	_	_	23	PUTFYLL	_	_
+25	prate	prate	verb	_	inf	24	INFV	_	_
+26	dialekt	dialekt	subst	_	ub|fem|ent|appell	25	DOBJ	_	_
+27	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = e sjøl om # de fleste kameratene mine prater bokmål # så e jeg hadde vel en kamerat som jeg _uninterpretable_ prata halling med # men e r0t
 # segstart = 529.367
 # segstop = 551.428
-# speaker = aal_01um
-# text = e sjøl om # de fleste kameratene mine prater bokmål # så e jeg hadde vel en kamerat som jeg prata halling med # men e
-1	e	e	nol	nol	_	2	FYLL	_	_
-2	sjøl	sjøl	adv	adv	_	3	FYLL	_	_
-3	om	om	sbu	sbu	_	9	SBU	_	_
-4	#	#	pause	pause	_	5	IK	_	_
-5	de	de	det	det	_	7	DET	_	_
-6	fleste	fler	adj	adj	_	7	ATR	_	_
-7	kameratene	kamerat	subst	subst	_	9	SUBJ	_	_
-8	mine	mine	det	det	_	7	DET	_	_
-9	prater	prate	verb	verb	_	0	FINV	_	_
-10	bokmål	bokmål	subst	subst	_	9	DOBJ	_	_
-11	#	#	pause	pause	_	12	IK	_	_
-12	så	så	adv	adv	_	15	ADV	_	_
-13	e	e	nol	nol	_	14	FYLL	_	_
-14	jeg	jeg	pron	pron	_	15	SUBJ	_	_
-15	hadde	ha	verb	verb	_	9	KOORD	_	_
-16	vel	vel	adv	adv	_	15	ADV	_	_
-17	en	en	det	det	_	18	DET	_	_
-18	kamerat	kamerat	subst	subst	_	15	DOBJ	_	_
-19	som	som	sbu	sbu	_	21	SBU	_	_
-20	jeg	jeg	pron	pron	_	21	SUBJ	_	_
-21	prata	prat	verb	verb	_	18	ATR	_	_
-22	halling	halling	subst	subst	_	21	DOBJ	_	_
-23	med	med	prep	prep	_	21	ADV	_	_
-24	#	#	pause	pause	_	25	IK	_	_
-25	men	men	konj	konj	_	23	KONJ	_	_
-26	e	e	nol	nol	_	25	FYLL	_	_
-
 # file = aal_01um-sl
-# id = 111
+# speaker = aal_01um
+# id = 110
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	sjøl	sjøl	adv	_	_	3	ADV	_	_
+3	om	om	sbu	_	_	9	SBU	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	de	de	det	_	fl|dem	7	DET	_	_
+6	fleste	fler	adj	_	be|sup	7	ATR	_	_
+7	kameratene	kamerat	subst	_	be|mask|fl|appell	9	SUBJ	_	_
+8	mine	mine	det	_	fl|poss	7	DET	_	_
+9	prater	prate	verb	_	pres	12	APP	_	_
+10	bokmål	bokmål	subst	_	ub|mask|ent|appell	9	DOBJ	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	så	så	adv	_	_	15	ADV	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+15	hadde	ha	verb	_	pret	28	FINV	_	_
+16	vel	vel	adv	_	_	15	ADV	_	_
+17	en	en	det	_	mask|ent|kvant	18	DET	_	_
+18	kamerat	kamerat	subst	_	ub|mask|ent|appell	15	DOBJ	_	_
+19	som	som	sbu	_	_	22	SBU	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	22	SUBJ	_	_
+21	_uninterpretable_	_uninterpretable_	pause	_	_	22	FYLL	_	_
+22	prata	prate	verb	_	pret	18	ATR	_	_
+23	halling	halling	subst	_	ub|mask|ent|appell	22	DOBJ	_	_
+24	med	med	prep	_	_	22	ADV	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	men	men	konj	_	_	15	KONJ	_	_
+27	e	e	nol	_	_	26	FYLL	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = det var ikke mange som gjorde det altså ## heller ikke når jeg begynte på ungdomskolen her på Sundre så # _front-click_ var det heller ikke mange der som prata dialekt r0t
 # segstart = 537.954
 # segstop = 551.428
-# speaker = aal_01um
-# text = det var ikke mange som gjorde det altså ## heller ikke når jeg begynte på ungdomskolen her på Sundre så # var det heller ikke mange der som prata dialekt
-1	det	det	pron	pron	_	2	FSUBJ	_	_
-2	var	være	verb	verb	_	0	FINV	_	_
-3	ikke	ikke	adv	adv	_	2	ADV	_	_
-4	mange	mange	adj	adj	_	2	SPRED	_	_
-5	som	som	sbu	sbu	_	6	SBU	_	_
-6	gjorde	gjøre	verb	verb	_	4	ADV	_	_
-7	det	det	pron	pron	_	6	DOBJ	_	_
-8	altså	altså	adv	adv	_	6	ADV	_	_
-9	##	##	pause	pause	_	10	IK	_	_
-10	heller	heller	adv	adv	_	6	ADV	_	_
-11	ikke	ikke	adv	adv	_	10	ADV	_	_
-12	når	når	sbu	sbu	_	14	SBU	_	_
-13	jeg	jeg	pron	pron	_	14	SUBJ	_	_
-14	begynte	begynne	verb	verb	_	6	ADV	_	_
-15	på	på	prep	prep	_	14	ADV	_	_
-16	ungdomskolen	ungdomskole	subst	subst	_	15	PUTFYLL	_	_
-17	her	her	prep	prep	_	14	ADV	_	_
-18	på	på	prep	prep	_	14	ADV	_	_
-19	Sundre	Sundre	subst	subst	_	18	PUTFYLL	_	_
-20	så	så	adv	adv	_	22	ADV	_	_
-21	#	#	pause	pause	_	22	IK	_	_
-22	var	være	verb	verb	_	2	KOORD	_	_
-23	det	det	pron	pron	_	22	FSUBJ	_	_
-24	heller	heller	adv	adv	_	22	ADV	_	_
-25	ikke	ikke	adv	adv	_	22	ADV	_	_
-26	mange	mange	adj	adj	_	22	SPRED	_	_
-27	der	der	prep	prep	_	26	ADV	_	_
-28	som	som	prep	prep	_	29	SBU	_	_
-29	prata	prat	verb	verb	_	26	ADV	_	_
-30	dialekt	dialekt	subst	subst	_	29	DOBJ	_	_
-
 # file = aal_01um-sl
-# id = 112
+# speaker = aal_01um
+# id = 111
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	var	være	verb	_	pret	32	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	mange	mange	adj	_	pos|fl	2	PSUBJ	_	_
+5	som	som	sbu	_	_	6	SBU	_	_
+6	gjorde	gjøre	verb	_	pret	4	ATR	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+8	altså	altså	adv	_	_	2	ADV	_	_
+9	##	##	pause	_	_	10	IK	_	_
+10	heller	heller	adv	_	_	14	ADV	_	_
+11	ikke	ikke	adv	_	_	14	ADV	_	_
+12	når	når	sbu	_	_	14	SBU	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	14	SUBJ	_	_
+14	begynte	begynne	verb	_	pret	20	APP	_	_
+15	på	på	prep	_	_	14	ADV	_	_
+16	ungdomskolen	ungdomskole	subst	_	be|mask|ent|appell	15	PUTFYLL	_	_
+17	her	her	prep	_	_	14	ADV	_	_
+18	på	på	prep	_	_	14	ADV	_	_
+19	Sundre	Sundre	subst	_	prop	18	PUTFYLL	_	_
+20	så	så	adv	_	_	23	ADV	_	_
+21	#	#	pause	_	_	23	IK	_	_
+22	_front-click_	_front-click_	pause	_	_	23	FYLL	_	_
+23	var	være	verb	_	pret	2	KOORD	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	23	FSUBJ	_	_
+25	heller	heller	adv	_	_	23	ADV	_	_
+26	ikke	ikke	adv	_	_	23	ADV	_	_
+27	mange	mange	adj	_	pos|fl	23	PSUBJ	_	_
+28	der	der	prep	_	_	23	ADV	_	_
+29	som	som	prep	_	_	30	SBU	_	_
+30	prata	prate	verb	_	pret	27	ATR	_	_
+31	dialekt	dialekt	subst	_	ub|fem|ent|appell	30	DOBJ	_	_
+32	r0t	_	_	_	_	0	root	_	_
+
+# text = vi var vel e # du kunne telle på ei hånd at vi # prata altså r0t
 # segstart = 547.493
 # segstop = 551.428
-# speaker = aal_01um
-# text = vi var vel e # du kunne telle på ei hånd at vi # prata altså
-1	vi	vi	pron	pron	_	2	SUBJ	_	_
-2	var	være	verb	verb	_	7	REP	_	_
-3	vel	vel	adv	adv	_	2	ADV	_	_
-4	e	e	nol	nol	_	6	FYLL	_	_
-5	#	#	pause	pause	_	6	IK	_	_
-6	du	du	pron	pron	_	7	SUBJ	_	_
-7	kunne	kunne	verb	verb	_	0	FINV	_	_
-8	telle	telle	verb	verb	_	7	INFV	_	_
-9	på	på	prep	prep	_	8	ADV	_	_
-10	ei	ei	det	det	_	11	DET	_	_
-11	hånd	hånd	subst	subst	_	9	PUTFYLL	_	_
-12	at	at	sbu	sbu	_	15	SBU	_	_
-13	vi	vi	pron	pron	_	15	SUBJ	_	_
-14	#	#	pause	pause	_	15	IK	_	_
-15	prata	prat	verb	verb	_	8	ADV	_	_
-16	altså	altså	adv	adv	_	15	ADV	_	_
-
 # file = aal_01um-sl
-# id = 113
+# speaker = aal_01um
+# id = 112
+# annotator = VDT
+1	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+2	var	være	verb	_	pret	7	REP	_	_
+3	vel	vel	adv	_	_	2	ADV	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	kunne	kunne	verb	_	pret	17	FINV	_	_
+8	telle	telle	verb	_	inf	7	INFV	_	_
+9	på	på	prep	_	_	8	ADV	_	_
+10	ei	ei	det	_	fem|ent|kvant	11	DET	_	_
+11	hånd	hånd	subst	_	ub|fem|ent|appell	9	PUTFYLL	_	_
+12	at	at	sbu	_	_	15	SBU	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	15	SUBJ	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	prata	prate	verb	_	pret	8	DOBJ	_	_
+16	altså	altså	adv	_	_	8	ADV	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ ja r0t
 # segstart = 551.428
 # segstop = 551.785
-# speaker = sl
-# text = ja
-1	ja	ja	interj	interj	_	0	INTERJ	_	_
-
 # file = aal_01um-sl
-# id = 114
+# speaker = sl
+# id = 113
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = mm _interruption_ r0t
 # segstart = 551.785
 # segstop = 552.000
+# file = aal_01um-sl
 # speaker = aal_01um
-# text = mm
-1	mm	mm	interj	interj	_	0	INTERJ	_	_
+# id = 114
+# annotator = VDT
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	_interruption_	_interruption_	pause	_	_	1	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
 
