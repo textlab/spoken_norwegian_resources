@@ -1,6 +1,6 @@
 # Introduction
 
-The LIA Treebank and The NDC Treebank are two Norwegian treebanks with dialect transcriptions from about the same 17 places in Norway, transcribed in Nynorsk and Bokmål respectively.  Both treebanks are annotated in the same way with part-of-speech morphological features and dependency-style syntactic analysis.
+The LIA Treebank and The NDC Treebank are two Norwegian treebanks with dialect transcriptions from about the same 17 places in Norway, transcribed in Nynorsk and Bokmål respectively.  Both treebanks are annotated in the same way with part-of-speech, morphological features and dependency-style syntactic analysis.
 
 ## The LIA Treebank
 
