@@ -38,15 +38,18 @@ In order to quantify the parsability i.e. the quality that can be induced by a p
 | LIA                | 85.23 | 80.01 |
 | NDC             | 84.11 | 78.43 |
 
-Both the UAS and LAS is the mean of the five folds.
+Both the UAS and LAS is the mean of the five folds. All training and evaluation is done with the [uuparser](https://github.com/UppsalaNLP/uuparser "uuparser").
 
-# Use
+# Run
+
+For running prediction with a parser: 1) Clone the [uuparser](https://github.com/UppsalaNLP/uuparser "uuparser") repo, 2) install requirements and 3) use the command below
 
 ```console
-uuparser --trainfile [path to train file] --outdir [path to write output] --bert-pretrained-model norbert3-xs/pytorch_model.bin --bert-pretrained-config norbert3-xs/config.json --bert-tokenizer norbert3-xs/tokenizer.json
+uuparser --predict --testfile parsers/clarino/lia/lia_1.conllu --modeldir parsers/clarino/lia/2_3_4_5/ --outdir [path to write results]
 ```
 
 # Acknowledgements
+
 The development of the LIA Treebank and the NDC Treebank are financed by the Norwegian Research Council in two infrastructure projects: LIA and Clarino+
 
 Many researchers, engineers and part-time students have worked on the different parts of these projects -- a huge thanks to them all.
