@@ -42,11 +42,12 @@ Both the UAS and LAS is the mean of the five folds. All training and evaluation 
 
 # Run
 
-For running prediction with a parser: 1) Clone the [uuparser](https://github.com/UppsalaNLP/uuparser "uuparser") repo, 2) install requirements and 3) use the command below
+For running prediction with a parser: 1) Clone the [UUparser](https://github.com/attardi/uuparser) repo, 2) install requirements and 3) use the command below
 
 ```console
 uuparser --predict --testfile parsers/clarino/lia/lia_1.conllu --modeldir parsers/clarino/lia/2_3_4_5/ --outdir [path to write results]
 ```
+UUParser is a transition-based dependency parser developed at Uppsala University. An extension with support for Huggingface Transformers is used here.
 
 # Acknowledgements
 
