@@ -29,7 +29,7 @@ As far as possible, the annotations follow the guidelines for LIA as well as the
 
 The annotation of the treebank is done automatically, but is manually corrected by at least one person using the annotation tool [ConlluEditor](https://github.com/Orange-OpenSource/conllueditor "ConlluEditor").
 
-# Evaluation
+# Parser Evaluation
 
 In order to quantify the parsability i.e. the quality that can be induced by a parser based on the annotations of the treebanks we partitioned each of them in n folds and performed a n-fold cross validation with n=5 given the size of the treebanks. The following results for the baseline parsers are as follows
 
