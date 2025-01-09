@@ -1,1909 +1,1702 @@
-# text = ja # du er født og oppvokst her # på Nordli ? r0t
+# text = ja # du er født og oppvokst her # på Nordli ?
 # segstart = 18.315
 # segstop = 21.916
 # file = lierne_01um-ta
 # speaker = ta
 # id = 1
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
-4	er	være	verb	_	pres	13	FINV	_	_
-5	født	føde	verb	_	perf-part	4	INFV	_	_
-6	og	og	konj	_	_	7	KONJ	_	_
-7	oppvokst	oppvokse	verb	_	perf-part	5	KOORD	_	_
-8	her	her	prep	_	_	7	ADV	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	på	på	prep	_	_	8	PUTFYLL	_	_
-11	Nordli	Nordli	subst	_	prop	10	PUTFYLL	_	_
-12	?	?	clb	_	_	4	IP	_	_
-13	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			4	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	du	du	pron		eint|2|nom	4	SUBJ		hov
+4	er	være	verb		pres	0	FINV		hov
+5	født	føde	verb		perf-part	4	INFV		hov
+6	og	og	konj			7	KONJ		hov
+7	oppvokst	oppvokse	verb		perf-part	5	KOORD		hov
+8	her	her	prep			7	ADV		hov
+9	#	#	pause			10	IK		hov
+10	på	på	prep			8	PUTFYLL		hov
+11	Nordli	Nordli	subst		prop	10	PUTFYLL		hov
+12	?	?	clb			4	IP		hov
 
-# text = * ja r0t
+# text = * ja
 # segstart = 18.315
 # segstop = 21.916
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 2
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	ja	ja	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	ja	ja	interj			0	INTERJ		hov
 
-# text = ja # litt utom da # Holan r0t
+# text = ja # litt utom da # Holan
 # segstart = 21.916
 # segstop = 24.468
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 3
-# annotator = SR
-1	ja	ja	interj	_	_	8	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	litt	litt	adj	_	ub|pos|m/f|ent	4	ADV	_	_
-4	utom	utom	prep	_	_	1	ADV	_	_
-5	da	da	adv	_	_	4	ADV	_	_
-6	#	#	pause	_	_	7	IK	_	_
-7	Holan	Holan	subst	_	prop	4	KOORD	_	_
-8	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	litt	litt	adj		m/f|eint|ub|pos	4	ADV		hov
+4	utom	utom	prep			1	ADV		hov
+5	da	da	adv			4	ADV		hov
+6	#	#	pause			7	IK		hov
+7	Holan	Holan	subst		prop	4	KOORD		hov
 
-# text = ja hv- hv- hvo- Holan sa du det ? r0t
+# text = ja hv- hv- hvo- Holan sa du det ?
 # segstart = 24.468
 # segstop = 26.829
 # file = lierne_01um-ta
 # speaker = ta
 # id = 4
-# annotator = SR
-1	ja	ja	interj	_	_	6	INTERJ	_	_
-2	hv-	hv-	ufullst	_	_	5	FYLL	_	_
-3	hv-	hv-	ufullst	_	prop	5	FYLL	_	_
-4	hvo-	hvo-	ufullst	_	_	5	FYLL	_	_
-5	Holan	Holan	subst	_	prop	6	DOBJ	_	_
-6	sa	si	verb	_	pret	10	FINV	_	_
-7	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	5	APP	_	_
-9	?	?	clb	_	_	6	IP	_	_
-10	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			6	INTERJ		hov
+2	hv-	hv-	ufullst			5	FYLL		hov
+3	hv-	hv-	ufullst		prop	5	FYLL		hov
+4	hvo-	hvo-	ufullst			5	FYLL		hov
+5	Holan	Holan	subst		prop	6	DOBJ		hov
+6	sa	si	verb		pret	0	FINV		hov
+7	du	du	pron		eint|2|nom	6	SUBJ		hov
+8	det	det	pron		nøyt|eint|pers|3	5	APP		hov
+9	?	?	clb			6	IP		hov
 
-# text = * mm r0t
+# text = * mm
 # segstart = 24.468
 # segstop = 26.829
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 5
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
 
-# text = ja # akkurat # ja hvordan er det å vokse opp # her # synes du ? r0t
+# text = ja # akkurat # ja hvordan er det å vokse opp # her # synes du ?
 # segstart = 26.829
 # segstop = 31.694
 # file = lierne_01um-ta
 # speaker = ta
 # id = 6
-# annotator = SR
-1	ja	ja	interj	_	_	7	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	akkurat	akkurat	adv	_	_	1	ADV	_	_
-4	#	#	pause	_	_	5	IK	_	_
-5	ja	ja	interj	_	_	7	INTERJ	_	_
-6	hvordan	hvordan	adv	_	_	7	SPRED	_	_
-7	er	være	verb	_	pres	18	FINV	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
-9	å	å	inf-merke	_	_	7	PSUBJ	_	_
-10	vokse	vokse	verb	_	inf	9	INFV	_	_
-11	opp	opp	prep	_	_	10	ADV	_	_
-12	#	#	pause	_	_	13	IK	_	_
-13	her	her	prep	_	_	10	ADV	_	_
-14	#	#	pause	_	_	15	IK	_	_
-15	synes	synes	verb	_	pres	7	PAR	_	_
-16	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
-17	?	?	clb	_	_	7	IP	_	_
-18	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			7	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	akkurat	akkurat	adv			1	ADV		hov
+4	#	#	pause			5	IK		hov
+5	ja	ja	interj			7	INTERJ		hov
+6	hvordan	hvordan	adv			7	SPRED		hov
+7	er	være	verb		pres	0	FINV		hov
+8	det	det	pron		nøyt|eint|pers|3	7	FSUBJ		hov
+9	å	å	inf-merke			7	PSUBJ		hov
+10	vokse	vokse	verb		inf	9	INFV		inf
+11	opp	opp	prep			10	ADV		inf
+12	#	#	pause			13	IK		inf
+13	her	her	prep			10	ADV		inf
+14	#	#	pause			15	IK		led
+15	synes	synes	verb		pres	7	PAR		led
+16	du	du	pron		eint|2|nom	15	SUBJ		led
+17	?	?	clb			7	IP		hov
 
-# text = ja han jeg synes nå det er greit # du # kjenner jo alle # som bor her og r0t
+# text = ja han jeg synes nå det er greit # du # kjenner jo alle # som bor her og
 # segstart = 31.694
 # segstop = 36.451
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 7
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	han	han	pron	_	nom|mask|3|ent|pers	3	REP	_	_
-3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
-4	synes	synes	verb	_	pres	20	FINV	_	_
-5	nå	nå	adv	_	_	4	ADV	_	_
-6	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
-7	er	være	verb	_	pres	4	DOBJ	_	_
-8	greit	grei	adj	_	ub|pos|nøyt|ent	7	SPRED	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	du	du	pron	_	nom|2|ent|hum	12	SUBJ	_	_
-11	#	#	pause	_	_	12	IK	_	_
-12	kjenner	kjenne	verb	_	pres	4	KOORD	_	_
-13	jo	jo	adv	_	_	12	ADV	_	_
-14	alle	alle	det	_	fl|kvant	12	DOBJ	_	_
-15	#	#	pause	_	_	16	IK	_	_
-16	som	som	sbu	_	_	17	SBU	_	_
-17	bor	bo	verb	_	pres	14	ATR	_	_
-18	her	her	prep	_	_	17	ADV	_	_
-19	og	og	konj	_	_	4	KONJ	_	_
-20	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			4	INTERJ		hov
+2	han	han	pron		mask|eint|pers|3|nom	3	REP		hov
+3	jeg	jeg	pron		eint|1|nom	4	SUBJ		hov
+4	synes	synes	verb		pres	0	FINV		hov
+5	nå	nå	adv			4	ADV		hov
+6	det	det	pron		nøyt|eint|pers|3	7	SUBJ		led
+7	er	være	verb		pres	4	DOBJ		led
+8	greit	grei	adj		nøyt|eint|ub|pos	7	SPRED		led
+9	#	#	pause			10	IK		hov
+10	du	du	pron		eint|2|nom	12	SUBJ		hov
+11	#	#	pause			12	IK		hov
+12	kjenner	kjenne	verb		pres	4	KOORD		hov
+13	jo	jo	adv			12	ADV		hov
+14	alle	alle	det		fl|kvant	12	DOBJ		hov
+15	#	#	pause			16	IK		led
+16	som	som	sbu			17	SBU		led
+17	bor	bo	verb		pres	14	ATR		led
+18	her	her	prep			17	ADV		led
+19	og	og	konj			4	KONJ		hov
 
-# text = ja r0t
+# text = ja
 # segstart = 36.451
 # segstop = 37.223
 # file = lierne_01um-ta
 # speaker = ta
 # id = 8
-# annotator = SR
-1	ja	ja	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
 
-# text = mm r0t
+# text = mm
 # segstart = 37.223
 # segstop = 37.973
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 9
-# annotator = SR
-1	mm	mm	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	mm	mm	interj			0	INTERJ		hov
 
-# text = hva er det noe e f- e fritidsaktiviteter hva er det dere gjør på slik f- på fritida ? r0t
+# text = hva er det noe e f- e fritidsaktiviteter hva er det dere gjør på slik f- på fritida ?
 # segstart = 37.973
 # segstop = 43.172
 # file = lierne_01um-ta
 # speaker = ta
 # id = 10
-# annotator = SR
-1	hva	hva	pron	_	sp	2	REP	_	_
-2	er	være	verb	_	pres	20	FINV	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
-4	noe	noe	det	_	nøyt|ent|kvant	8	DET	_	_
-5	e	e	nol	_	_	8	FYLL	_	_
-6	f-	f-	ufullst	_	_	8	FYLL	_	_
-7	e	e	nol	_	_	8	FYLL	_	_
-8	fritidsaktiviteter	fritidsaktivitet	subst	_	ub|mask|fl|samset	2	PSUBJ	_	_
-9	hva	hva	pron	_	sp	10	SPRED	_	_
-10	er	være	verb	_	pres	2	KOORD	_	_
-11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
-12	dere	dere	pron	_	nom|2|fl|hum	13	SUBJ	_	_
-13	gjør	gjøre	verb	_	pres	9	ATR	_	_
-14	på	på	prep	_	_	13	ADV	_	_
-15	slik	slik	adv	_	_	13	ADV	_	_
-16	f-	f-	ufullst	_	_	17	FYLL	_	_
-17	på	på	prep	_	_	13	ADV	_	_
-18	fritida	fritid	subst	_	be|fem|ent|appell	17	PUTFYLL	_	_
-19	?	?	clb	_	_	2	IP	_	_
-20	r0t	_	_	_	_	0	root	_	_
+1	hva	hva	pron		sp	2	REP		hov
+2	er	være	verb		pres	0	FINV		hov
+3	det	det	pron		nøyt|eint|pers|3	2	FSUBJ		hov
+4	noe	noe	det		nøyt|eint|kvant	8	DET		hov
+5	e	e	nol			8	FYLL		hov
+6	f-	f-	ufullst			8	FYLL		hov
+7	e	e	nol			8	FYLL		hov
+8	fritidsaktiviteter	fritidsaktivitet	subst		mask|fl|samset|ub	2	PSUBJ		hov
+9	hva	hva	pron		sp	10	SPRED		hov
+10	er	være	verb		pres	2	KOORD		hov
+11	det	det	pron		nøyt|eint|pers|3	10	FSUBJ		hov
+12	dere	dere	pron		fl|2|nom	13	SUBJ		led
+13	gjør	gjøre	verb		pres	9	ATR		led
+14	på	på	prep			13	ADV		led
+15	slik	slik	adv			13	ADV		led
+16	f-	f-	ufullst			17	FYLL		led
+17	på	på	prep			13	ADV		led
+18	fritida	fritid	subst		fem|eint|appell|bu	17	PUTFYLL		led
+19	?	?	clb			2	IP		hov
 
-# text = jeg spiller nå fotball da # så data ## jakt og fiske r0t
+# text = jeg spiller nå fotball da # så data ## jakt og fiske
 # segstart = 43.172
 # segstop = 49.401
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 11
-# annotator = SR
-1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
-2	spiller	spille	verb	_	pres	13	FINV	_	_
-3	nå	nå	adv	_	_	2	ADV	_	_
-4	fotball	fotball	subst	_	ub|mask|ent|appell	2	DOBJ	_	_
-5	da	da	adv	_	_	2	ADV	_	_
-6	#	#	pause	_	_	7	IK	_	_
-7	så	så	konj	_	_	8	KONJ	_	_
-8	data	data	subst	_	ub|mask|ent|appell	2	KOORD	_	_
-9	##	##	pause	_	_	10	IK	_	_
-10	jakt	jakt	subst	_	ub|fem|ent|appell	2	KOORD	_	_
-11	og	og	konj	_	_	12	KONJ	_	_
-12	fiske	fiske	subst	_	ub|nøyt|ent|appell	10	KOORD	_	_
-13	r0t	_	_	_	_	0	root	_	_
+1	jeg	jeg	pron		eint|1|nom	2	SUBJ		hov
+2	spiller	spille	verb		pres	0	FINV		hov
+3	nå	nå	adv			2	ADV		hov
+4	fotball	fotball	subst		mask|eint|appell|ub	2	DOBJ		hov
+5	da	da	adv			2	ADV		hov
+6	#	#	pause			7	IK		hov
+7	så	så	konj			8	KONJ		hov
+8	data	data	subst		mask|eint|appell|ub	2	KOORD		hov
+9	##	##	pause			10	IK		hov
+10	jakt	jakt	subst		fem|eint|appell|ub	2	KOORD		hov
+11	og	og	konj			12	KONJ		hov
+12	fiske	fiske	subst		nøyt|eint|appell|ub	10	KOORD		hov
 
-# text = jaha # er du e mye rundt om e e t- terrenget ? r0t
+# text = jaha # er du e mye rundt om e e t- terrenget ?
 # segstart = 49.401
 # segstop = 53.503
 # file = lierne_01um-ta
 # speaker = ta
 # id = 12
-# annotator = SR
-1	jaha	jaha	interj	_	_	3	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	er	være	verb	_	pres	14	FINV	_	_
-4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
-5	e	e	nol	_	_	6	FYLL	_	_
-6	mye	mye	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
-7	rundt	rundt	prep	_	_	3	SPRED	_	_
-8	om	om	prep	_	_	7	PUTFYLL	_	_
-9	e	e	nol	_	_	12	FYLL	_	_
-10	e	e	nol	_	_	12	FYLL	_	_
-11	t-	t-	ufullst	_	_	12	FYLL	_	_
-12	terrenget	terreng	subst	_	be|nøyt|ent|appell	8	PUTFYLL	_	_
-13	?	?	clb	_	_	3	IP	_	_
-14	r0t	_	_	_	_	0	root	_	_
+1	jaha	jaha	interj			3	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	er	være	verb		pres	0	FINV		hov
+4	du	du	pron		eint|2|nom	3	SUBJ		hov
+5	e	e	nol			6	FYLL		hov
+6	mye	mye	adj		nøyt|eint|ub|pos	3	ADV		hov
+7	rundt	rundt	prep			3	SPRED		hov
+8	om	om	prep			7	PUTFYLL		hov
+9	e	e	nol			12	FYLL		hov
+10	e	e	nol			12	FYLL		hov
+11	t-	t-	ufullst			12	FYLL		hov
+12	terrenget	terreng	subst		nøyt|eint|appell|bu	8	PUTFYLL		hov
+13	?	?	clb			3	IP		hov
 
-# text = ja lite grann root
+# text = ja lite grann
 # segstart = 53.503
 # segstop = 54.505
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 13
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	lite	lite	adj	_	ub|pos|nøyt|ent	3	ATR	_	_
-3	grann	grann	subst	_	ub|nøyt|ent|appell	1	ADV	_	_
-4	root	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	lite	lite	adj		nøyt|eint|ub|pos	3	ATR		hov
+3	grann	grann	subst		nøyt|eint|appell|ub	1	ADV		hov
 
-# text = ja # er du redd for bjørn da ? r0t
+# text = ja # er du redd for bjørn da ?
 # segstart = 54.505
 # segstop = 56.532
 # file = lierne_01um-ta
 # speaker = ta
 # id = 14
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	er	være	verb	_	pres	10	FINV	_	_
-4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
-5	redd	redd	adj	_	ub|pos|m/f|ent	3	SPRED	_	_
-6	for	for	prep	_	_	5	ADV	_	_
-7	bjørn	bjørn	subst	_	ub|mask|ent|appell	6	PUTFYLL	_	_
-8	da	da	adv	_	_	3	ADV	_	_
-9	?	?	clb	_	_	3	IP	_	_
-10	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	er	være	verb		pres	0	FINV		hov
+4	du	du	pron		eint|2|nom	3	SUBJ		hov
+5	redd	redd	adj		m/f|eint|ub|pos	3	SPRED		hov
+6	for	for	prep			5	ADV		hov
+7	bjørn	bjørn	subst		mask|eint|appell|ub	6	PUTFYLL		hov
+8	da	da	adv			3	ADV		hov
+9	?	?	clb			3	IP		hov
 
-# text = nei r0t
+# text = nei
 # segstart = 56.532
 # segstop = 57.247
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 15
-# annotator = SR
-1	nei	nei	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			0	INTERJ		hov
 
-# text = du er ikke det ? _laughter_ r0t
+# text = du er ikke det ? _laughter_
 # segstart = 57.247
 # segstop = 57.915
 # file = lierne_01um-ta
 # speaker = ta
 # id = 16
-# annotator = SR
-1	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
-2	er	være	verb	_	pres	7	FINV	_	_
-3	ikke	ikke	adv	_	_	2	ADV	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	2	SPRED	_	_
-5	?	?	clb	_	_	2	IP	_	_
-6	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
-7	r0t	_	_	_	_	0	root	_	_
+1	du	du	pron		eint|2|nom	2	SUBJ		hov
+2	er	være	verb		pres	0	FINV		hov
+3	ikke	ikke	adv			2	ADV		hov
+4	det	det	pron		nøyt|eint|pers|3	2	SPRED		hov
+5	?	?	clb			2	IP		hov
+6	_laughter_	_laughter_	pause			4	FYLL		hov
 
-# text = han er nok mer redd oss ja r0t
+# text = han er nok mer redd oss ja
 # segstart = 57.915
 # segstop = 59.322
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 17
-# annotator = SR
-# SR: Sjekket trebanken og ser at 'redd' tar objekt i blant.. Mulig analyse for 'oss' her kanskje?
-1	han	han	pron	_	nom|mask|3|ent|pers	2	SUBJ	_	_
-2	er	være	verb	_	pres	8	FINV	_	_
-3	nok	nok	adv	_	_	2	ADV	_	_
-4	mer	mye	adj	_	komp	5	ADV	_	_
-5	redd	redd	adj	_	ub|pos|m/f|ent	2	SPRED	_	_
-6	oss	oss	pron	_	akk|1|fl|hum	5	DOBJ	_	_
-7	ja	ja	interj	_	_	2	INTERJ	_	_
-8	r0t	_	_	_	_	0	root	_	_
+1	han	han	pron		mask|eint|pers|3|nom	2	SUBJ		hov
+2	er	være	verb		pres	0	FINV		hov
+3	nok	nok	adv			2	ADV		hov
+4	mer	mye	adj		komp	5	ADV		hov
+5	redd	redd	adj		m/f|eint|ub|pos	2	SPRED		hov
+6	oss	oss	pron		fl|1|akk	5	DOBJ		hov
+7	ja	ja	interj			2	INTERJ		hov
 
-# text = _laughter_ ja akkurat # e har har du sett bjørn ? r0t
+# text = _laughter_ ja akkurat # e har har du sett bjørn ?
 # segstart = 59.322
 # segstop = 61.993
 # file = lierne_01um-ta
 # speaker = ta
 # id = 18
-# annotator = SR
-1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
-2	ja	ja	interj	_	_	7	INTERJ	_	_
-3	akkurat	akkurat	adv	_	_	2	ADV	_	_
-4	#	#	pause	_	_	6	IK	_	_
-5	e	e	nol	_	_	6	FYLL	_	_
-6	har	ha	verb	_	pres	7	REP	_	_
-7	har	ha	verb	_	pres	12	FINV	_	_
-8	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
-9	sett	se	verb	_	perf-part	7	INFV	_	_
-10	bjørn	bjørn	subst	_	be|fem|ent|appell	9	DOBJ	_	_
-11	?	?	clb	_	_	7	IP	_	_
-12	r0t	_	_	_	_	0	root	_	_
+1	_laughter_	_laughter_	pause			2	FYLL		hov
+2	ja	ja	interj			7	INTERJ		hov
+3	akkurat	akkurat	adv			2	ADV		hov
+4	#	#	pause			6	IK		led
+5	e	e	nol			6	FYLL		led
+6	har	ha	verb		pres	7	REP		led
+7	har	ha	verb		pres	0	FINV		hov
+8	du	du	pron		eint|2|nom	7	SUBJ		hov
+9	sett	se	verb		perf-part	7	INFV		hov
+10	bjørn	bjørn	subst		fem|eint|appell|bu	9	DOBJ		hov
+11	?	?	clb			7	IP		hov
 
-# text = _front-click_ nei r0t
+# text = _front-click_ nei
 # segstart = 61.993
 # segstop = 62.661
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 19
-# annotator = SR
-1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
-2	nei	nei	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	_front-click_	_front-click_	pause			2	FYLL		hov
+2	nei	nei	interj			0	INTERJ		hov
 
-# text = nei eller e hørt bjørn eller noe slik har du gjort det ? r0t
+# text = nei eller e hørt bjørn eller noe slik har du gjort det ?
 # segstart = 62.661
 # segstop = 65.547
 # file = lierne_01um-ta
 # speaker = ta
 # id = 20
-# annotator = SR
-1	nei	nei	interj	_	_	9	INTERJ	_	_
-2	eller	eller	konj	_	_	9	KONJ	_	_
-3	e	e	nol	_	_	4	FYLL	_	_
-4	hørt	høre	verb	_	perf-part	12	APP	_	_
-5	bjørn	bjørn	subst	_	ub|mask|ent|appell	4	DOBJ	_	_
-6	eller	eller	konj	_	_	8	KONJ	_	_
-7	noe	noe	det	_	nøyt|ent|kvant	8	DET	_	_
-8	slik	slik	adv	_	_	5	KOORD	_	_
-9	har	ha	verb	_	pres	14	FINV	_	_
-10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
-11	gjort	gjøre	verb	_	perf-part	9	INFV	_	_
-12	det	det	pron	_	nøyt|3|ent|pers	11	DOBJ	_	_
-13	?	?	clb	_	_	9	IP	_	_
-14	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			9	INTERJ		hov
+2	eller	eller	konj			9	KONJ		hov
+3	e	e	nol			4	FYLL		hov
+4	hørt	høre	verb		perf-part	12	APP		hov
+5	bjørn	bjørn	subst		mask|eint|appell|ub	4	DOBJ		hov
+6	eller	eller	konj			8	KONJ		hov
+7	noe	noe	det		nøyt|eint|kvant	8	DET		hov
+8	slik	slik	adv			5	KOORD		hov
+9	har	ha	verb		pres	0	FINV		hov
+10	du	du	pron		eint|2|nom	9	SUBJ		hov
+11	gjort	gjøre	verb		perf-part	9	INFV		hov
+12	det	det	pron		nøyt|eint|pers|3	11	DOBJ		hov
+13	?	?	clb			9	IP		hov
 
-# text = * nei r0t
+# text = * nei
 # segstart = 62.661
 # segstop = 65.547
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 21
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	nei	nei	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	nei	nei	interj			0	INTERJ		hov
 
-# text = nei vel # nei # nei så det er ikke så mye mye bjørn da eller slik ? root
+# text = nei vel # nei # nei så det er ikke så mye mye bjørn da eller slik ?
 # segstart = 65.547
 # segstop = 68.981
 # file = lierne_01um-ta
 # speaker = ta
 # id = 22
-# annotator = SR
-1	nei	nei	interj	_	_	9	INTERJ	_	_
-2	vel	vel	adv	_	_	1	ADV	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	nei	nei	interj	_	_	9	INTERJ	_	_
-5	#	#	pause	_	_	6	IK	_	_
-6	nei	nei	interj	_	_	9	INTERJ	_	_
-7	så	så	konj	_	_	9	KONJ	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	9	FSUBJ	_	_
-9	er	være	verb	_	pres	19	FINV	_	_
-10	ikke	ikke	adv	_	_	9	ADV	_	_
-11	så	så	adv	_	_	13	ADV	_	_
-12	mye	mye	adj	_	ub|pos|nøyt|ent	13	REP	_	_
-13	mye	mye	adj	_	ub|pos|m/f|ent	14	ATR	_	_
-14	bjørn	bjørn	subst	_	ub|mask|ent|appell	9	PSUBJ	_	_
-15	da	da	adv	_	_	9	ADV	_	_
-16	eller	eller	konj	_	_	17	KONJ	_	_
-17	slik	slik	adv	_	_	14	KOORD	_	_
-18	?	$?	clb	_	_	9	IP	_	_
-19	root	_	_	_	_	0	root	_	_
+1	nei	nei	interj			9	INTERJ		hov
+2	vel	vel	adv			1	ADV		hov
+3	#	#	pause			4	IK		hov
+4	nei	nei	interj			9	INTERJ		hov
+5	#	#	pause			6	IK		hov
+6	nei	nei	interj			9	INTERJ		hov
+7	så	så	konj			9	KONJ		hov
+8	det	det	pron		nøyt|eint|pers|3	9	FSUBJ		hov
+9	er	være	verb		pres	0	FINV		hov
+10	ikke	ikke	adv			9	ADV		hov
+11	så	så	adv			13	ADV		hov
+12	mye	mye	adj		nøyt|eint|ub|pos	13	REP		hov
+13	mye	mye	adj		m/f|eint|ub|pos	14	ATR		hov
+14	bjørn	bjørn	subst		mask|eint|appell|ub	9	PSUBJ		hov
+15	da	da	adv			9	ADV		hov
+16	eller	eller	konj			17	KONJ		hov
+17	slik	slik	adv			14	KOORD		hov
+18	?	$?	clb			9	IP		hov
 
-# text = ja det er jo en del bjørn men # han e # hører jo oss mye # fortere så han kommer seg unna r0t
+# text = ja det er jo en del bjørn men # han e # hører jo oss mye # fortere så han kommer seg unna
 # segstart = 68.981
 # segstop = 74.537
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 23
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
-3	er	være	verb	_	pres	24	FINV	_	_
-4	jo	jo	adv	_	_	3	ADV	_	_
-5	en	en	det	_	mask|ent|kvant	6	DET	_	_
-6	del	del	subst	_	ub|mask|ent|appell	7	DET	_	_
-7	bjørn	bjørn	subst	_	ub|mask|fl|appell	3	PSUBJ	_	_
-8	men	men	konj	_	_	13	KONJ	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	han	han	pron	_	nom|mask|3|ent|pers	13	SUBJ	_	_
-11	e	e	nol	_	_	13	FYLL	_	_
-12	#	#	pause	_	_	13	IK	_	_
-13	hører	høre	verb	_	pres	3	KOORD	_	_
-14	jo	jo	interj	_	_	13	ADV	_	_
-15	oss	oss	pron	_	akk|1|fl|hum	13	DOBJ	_	_
-16	mye	mye	adj	_	ub|pos|nøyt|ent	18	ADV	_	_
-17	#	#	pause	_	_	18	IK	_	_
-18	fortere	fort	adj	_	komp	13	ADV	_	_
-19	så	så	konj	_	_	21	KONJ	_	_
-20	han	han	pron	_	nom|mask|3|ent|pers	21	SUBJ	_	_
-21	kommer	komme	verb	_	pres	3	KOORD	_	_
-22	seg	seg	pron	_	akk|refl	21	DOBJ	_	_
-23	unna	unna	prep	_	_	21	ADV	_	_
-24	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	det	det	pron		nøyt|eint|pers|3	3	FSUBJ		hov
+3	er	være	verb		pres	0	FINV		hov
+4	jo	jo	adv			3	ADV		hov
+5	en	en	det		mask|eint|kvant	6	DET		hov
+6	del	del	subst		mask|eint|appell|ub	7	DET		hov
+7	bjørn	bjørn	subst		mask|fl|appell|ub	3	PSUBJ		hov
+8	men	men	konj			13	KONJ		hov
+9	#	#	pause			10	IK		hov
+10	han	han	pron		mask|eint|pers|3|nom	13	SUBJ		hov
+11	e	e	nol			13	FYLL		hov
+12	#	#	pause			13	IK		hov
+13	hører	høre	verb		pres	3	KOORD		hov
+14	jo	jo	interj			13	ADV		hov
+15	oss	oss	pron		fl|1|akk	13	DOBJ		hov
+16	mye	mye	adj		nøyt|eint|ub|pos	18	ADV		hov
+17	#	#	pause			18	IK		hov
+18	fortere	fort	adj		komp	13	ADV		hov
+19	så	så	konj			21	KONJ		hov
+20	han	han	pron		mask|eint|pers|3|nom	21	SUBJ		hov
+21	kommer	komme	verb		pres	3	KOORD		hov
+22	seg	seg	pron		refl|akk	21	DOBJ		hov
+23	unna	unna	prep			21	ADV		hov
 
-# text = ja akkurat r0t
+# text = ja akkurat
 # segstart = 74.537
 # segstop = 75.253
 # file = lierne_01um-ta
 # speaker = ta
 # id = 24
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	akkurat	akkurat	adv	_	_	1	ADV	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	akkurat	akkurat	adv			1	ADV		hov
 
-# text = mm r0t
+# text = mm
 # segstart = 75.253
 # segstop = 76.302
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 25
-# annotator = SR
-1	mm	mm	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	mm	mm	interj			0	INTERJ		hov
 
-# text = b- em # hv- g- hvor er du går på skole hen ? r0t
+# text = b- em # hv- g- hvor er du går på skole hen ?
 # segstart = 76.302
 # segstop = 79.665
 # file = lierne_01um-ta
 # speaker = ta
 # id = 26
-# annotator = SR
-# SR: Her er formelt subjekt ikke med i transkripsjonen. Likevel OK med denne analysen?
-1	b-	b-	ufullst	_	_	6	FYLL	_	_
-2	em	em	nol	_	_	6	FYLL	_	_
-3	#	#	pause	_	_	6	IK	_	_
-4	hv-	hv-	ufullst	_	_	6	FYLL	_	_
-5	g-	g-	ufullst	_	_	6	FYLL	_	_
-6	hvor	hvor	adv	_	_	7	SPRED	_	_
-7	er	være	verb	_	pres	14	FINV	_	_
-8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
-9	går	gå	verb	_	pres	6	ADV	_	_
-10	på	på	prep	_	_	9	ADV	_	_
-11	skole	skole	subst	_	ub|mask|ent|appell	10	PUTFYLL	_	_
-12	hen	hen	prep	_	_	9	ADV	_	_
-13	?	?	clb	_	_	9	IP	_	_
-14	r0t	_	_	_	_	0	root	_	_
+1	b-	b-	ufullst			6	FYLL		hov
+2	em	em	nol			6	FYLL		hov
+3	#	#	pause			6	IK		hov
+4	hv-	hv-	ufullst			6	FYLL		hov
+5	g-	g-	ufullst			6	FYLL		hov
+6	hvor	hvor	adv			7	SPRED		hov
+7	er	være	verb		pres	0	FINV		hov
+8	du	du	pron		eint|2|nom	9	SUBJ		led
+9	går	gå	verb		pres	6	ADV		led
+10	på	på	prep			9	ADV		led
+11	skole	skole	subst		mask|eint|appell|ub	10	PUTFYLL		led
+12	hen	hen	prep			9	ADV		led
+13	?	?	clb			9	IP		led
 
-# text = _front-click_ e på Stortangen r0t
+# text = _front-click_ e på Stortangen
 # segstart = 79.665
 # segstop = 80.786
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 27
-# annotator = SR
-1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
-2	e	e	nol	_	_	3	FYLL	_	_
-3	på	på	prep	_	_	5	FRAG	_	_
-4	Stortangen	Stortangen	subst	_	prop	3	PUTFYLL	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	_front-click_	_front-click_	pause			3	FYLL		hov
+2	e	e	nol			3	FYLL		hov
+3	på	på	prep			0	FRAG		hov
+4	Stortangen	Stortangen	subst		prop	3	PUTFYLL		hov
 
-# text = å ja på e på ungdomsskolen da ? r0t
+# text = å ja på e på ungdomsskolen da ?
 # segstart = 80.786
 # segstop = 82.121
 # file = lierne_01um-ta
 # speaker = ta
 # id = 28
-# annotator = SR
-1	å	å	interj	_	_	9	KONJ	_	_
-2	ja	ja	interj	_	_	1	INTERJ	_	_
-3	på	på	prep	_	_	5	REP	_	_
-4	e	e	nol	_	_	5	FYLL	_	_
-5	på	på	prep	_	_	1	ADV	_	_
-6	ungdomsskolen	ungdomsskole	subst	_	be|mask|ent|appell	5	PUTFYLL	_	_
-7	da	da	adv	_	_	1	ADV	_	_
-8	?	?	clb	_	_	1	IP	_	_
-9	r0t	_	_	_	_	0	root	_	_
+1	å	å	interj			0	KONJ		hov
+2	ja	ja	interj			1	INTERJ		hov
+3	på	på	prep			5	REP		hov
+4	e	e	nol			5	FYLL		hov
+5	på	på	prep			1	ADV		hov
+6	ungdomsskolen	ungdomsskole	subst		mask|eint|appell|bu	5	PUTFYLL		hov
+7	da	da	adv			1	ADV		hov
+8	?	?	clb			1	IP		hov
 
-# text = * _laughter_ r0t
+# text = * _laughter_
 # segstart = 80.786
 # segstop = 82.121
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 29
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	_laughter_	_laughter_	pause			0	FYLL		hov
 
-# text = ja # tiende r0t
+# text = ja # tiende
 # segstart = 82.121
 # segstop = 83.242
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 30
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	tiende	tiende	adj	_	be|pos|ent	1	ADV	_	_
-4	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	tiende	tiende	adj		eint|bu|pos	1	ADV		hov
 
-# text = akkurat r0t
+# text = akkurat
 # segstart = 83.242
 # segstop = 83.791
 # file = lierne_01um-ta
 # speaker = ta
 # id = 31
-# annotator = SR
-1	akkurat	akkurat	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	akkurat	akkurat	interj			0	INTERJ		hov
 
-# text = mm r0t
+# text = mm
 # segstart = 83.791
 # segstop = 84.316
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 32
-# annotator = SR
-1	mm	mm	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	mm	mm	interj			0	INTERJ		hov
 
-# text = er det hv- ja hva e hva gjør dere jeg på friminuttene for eksempel ? root
+# text = er det hv- ja hva e hva gjør dere jeg på friminuttene for eksempel ?
 # segstart = 84.316
 # segstop = 89.062
 # file = lierne_01um-ta
 # speaker = ta
 # id = 33
-# annotator = SR
-1	er	være	verb	_	pres	8	REP	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
-3	hv-	h	ufullst	_	_	5	REP	_	_
-4	ja	ja	interj	_	_	8	INTERJ	_	_
-5	hva	hva	pron	_	sp	7	REP	_	_
-6	e	e	nol	_	_	7	FYLL	_	_
-7	hva	hva	pron	_	sp	8	DOBJ	_	_
-8	gjør	gjøre	verb	_	pres	16	FINV	_	_
-9	dere	dere	pron	_	nom|2|fl|hum	8	SUBJ	_	_
-10	jeg	jeg	pron	_	nom|1|ent|hum	11	SLETT	_	_
-11	på	på	prep	_	_	8	ADV	_	_
-12	friminuttene	friminutt	subst	_	be|nøyt|fl|appell	11	PUTFYLL	_	_
-13	for	for	prep	_	_	8	ADV	_	_
-14	eksempel	eksempel	subst	_	ub|nøyt|fl|appell	13	PUTFYLL	_	_
-15	?	$?	clb	_	_	8	IP	_	_
-16	root	_	_	_	_	0	root	_	_
+1	er	være	verb		pres	8	REP		led
+2	det	det	pron		nøyt|eint|pers|3	1	FSUBJ		led
+3	hv-	h	ufullst			5	REP		hov
+4	ja	ja	interj			8	INTERJ		hov
+5	hva	hva	pron		sp	7	REP		hov
+6	e	e	nol			7	FYLL		hov
+7	hva	hva	pron		sp	8	DOBJ		hov
+8	gjør	gjøre	verb		pres	0	FINV		hov
+9	dere	dere	pron		fl|2|nom	8	SUBJ		hov
+10	jeg	jeg	pron		eint|1|nom	11	SLETT		hov
+11	på	på	prep			8	ADV		hov
+12	friminuttene	friminutt	subst		nøyt|fl|appell|bu	11	PUTFYLL		hov
+13	for	for	prep			8	ADV		hov
+14	eksempel	eksempel	subst		nøyt|fl|appell|ub	13	PUTFYLL		hov
+15	?	$?	clb			8	IP		hov
 
-# text = ja når det er sommeren i hvert fall så _sighing_ går det nå i fotballspelling # og sånt # og ellers så # er ikke det så mye root
+# text = ja når det er sommeren i hvert fall så _sighing_ går det nå i fotballspelling # og sånt # og ellers så # er ikke det så mye
 # segstart = 89.062
 # segstop = 97.265
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 34
-# annotator = SR
-1	ja	ja	interj	_	_	11	INTERJ	_	_
-2	når	når	sbu	_	_	4	SBU	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
-4	er	være	verb	_	pres	9	APP	_	_
-5	sommeren	sommer	subst	_	be|mask|ent|appell	4	SPRED	_	_
-6	i	i	prep	_	_	4	ADV	_	_
-7	hvert	hver	det	_	nøyt|ent|kvant	8	DET	_	_
-8	fall	fall	subst	_	ub|nøyt|ent|appell	6	PUTFYLL	_	_
-9	så	så	adv	_	_	11	ADV	_	_
-10	_sighing_	_sighing_	pause	_	_	11	FYLL	_	_
-11	går	gå	verb	_	pres	29	FINV	_	_
-12	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
-13	nå	nå	adv	_	_	11	ADV	_	_
-14	i	i	prep	_	_	11	ADV	_	_
-15	fotballspelling	fotballspelling	subst	_	ub|fem|ent|samset	14	PUTFYLL	_	_
-16	#	#	pause	_	_	17	IK	_	_
-17	og	og	konj	_	_	18	KONJ	_	_
-18	sånt	sånt	pron	_	nøyt|3|ent|pers	15	KOORD	_	_
-19	#	#	pause	_	_	20	IK	_	_
-20	og	og	konj	_	_	24	KONJ	_	_
-21	ellers	ellers	adv	_	_	22	APP	_	_
-22	så	så	adv	_	_	24	ADV	_	_
-23	#	#	pause	_	_	24	IK	_	_
-24	er	være	verb	_	pres	11	KOORD	_	_
-25	ikke	ikke	adv	_	_	24	ADV	_	_
-26	det	det	pron	_	nøyt|3|ent|pers	24	FSUBJ	_	_
-27	så	så	adv	_	_	28	ADV	_	_
-28	mye	mye	adj	_	ub|pos|nøyt|ent	24	PSUBJ	_	_
-29	root	_	_	_	_	0	root	_	_
+1	ja	ja	interj			11	INTERJ		hov
+2	når	når	sbu			4	SBU		hov
+3	det	det	pron		nøyt|eint|pers|3	4	FSUBJ		hov
+4	er	være	verb		pres	9	APP		hov
+5	sommeren	sommer	subst		mask|eint|appell|bu	4	SPRED		hov
+6	i	i	prep			4	ADV		hov
+7	hvert	hver	det		nøyt|eint|kvant	8	DET		hov
+8	fall	fall	subst		nøyt|eint|appell|ub	6	PUTFYLL		hov
+9	så	så	adv			11	ADV		hov
+10	_sighing_	_sighing_	pause			11	FYLL		hov
+11	går	gå	verb		pres	0	FINV		hov
+12	det	det	pron		nøyt|eint|pers|3	11	FSUBJ		hov
+13	nå	nå	adv			11	ADV		hov
+14	i	i	prep			11	ADV		hov
+15	fotballspelling	fotballspelling	subst		fem|eint|samset|ub	14	PUTFYLL		hov
+16	#	#	pause			17	IK		hov
+17	og	og	konj			18	KONJ		hov
+18	sånt	sånt	pron		nøyt|eint|pers|3	15	KOORD		hov
+19	#	#	pause			20	IK		hov
+20	og	og	konj			24	KONJ		hov
+21	ellers	ellers	adv			22	APP		hov
+22	så	så	adv			24	ADV		hov
+23	#	#	pause			24	IK		hov
+24	er	være	verb		pres	11	KOORD		hov
+25	ikke	ikke	adv			24	ADV		hov
+26	det	det	pron		nøyt|eint|pers|3	24	FSUBJ		hov
+27	så	så	adv			28	ADV		hov
+28	mye	mye	adj		nøyt|eint|ub|pos	24	PSUBJ		hov
 
-# text = nei # på vinteren så er det # snøballkasting eller ? _laughter_ det er ikke lov det kanskje ? r0t
+# text = nei # på vinteren så er det # snøballkasting eller ? _laughter_ det er ikke lov det kanskje ?
 # segstart = 97.265
 # segstop = 103.418
 # file = lierne_01um-ta
 # speaker = ta
 # id = 35
-# annotator = SR
-1	nei	nei	interj	_	_	6	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	på	på	prep	_	_	5	APP	_	_
-4	vinteren	vinter	subst	_	be|mask|ent|appell	3	PUTFYLL	_	_
-5	så	så	adv	_	_	6	ADV	_	_
-6	er	være	verb	_	pres	20	FINV	_	_
-7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
-8	#	#	pause	_	_	9	IK	_	_
-9	snøballkasting	snøballkasting	subst	_	ub|fem|ent|samset	6	SPRED	_	_
-10	eller	eller	konj	_	_	6	KONJ	_	_
-11	?	?	clb	_	_	6	IP	_	_
-12	_laughter_	_laughter_	pause	_	_	13	FYLL	_	_
-13	det	det	pron	_	nøyt|3|ent|pers	14	SUBJ	_	_
-14	er	være	verb	_	pres	6	KOORD	_	_
-15	ikke	ikke	adv	_	_	14	ADV	_	_
-16	lov	lov	subst	_	ub|mask|ent|appell	14	SPRED	_	_
-17	det	det	pron	_	nøyt|3|ent|pers	13	APP	_	_
-18	kanskje	kanskje	adv	_	_	14	ADV	_	_
-19	?	?	clb	_	_	14	IP	_	_
-20	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			6	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	på	på	prep			5	APP		hov
+4	vinteren	vinter	subst		mask|eint|appell|bu	3	PUTFYLL		hov
+5	så	så	adv			6	ADV		hov
+6	er	være	verb		pres	0	FINV		hov
+7	det	det	pron		nøyt|eint|pers|3	6	FSUBJ		hov
+8	#	#	pause			9	IK		hov
+9	snøballkasting	snøballkasting	subst		fem|eint|samset|ub	6	SPRED		hov
+10	eller	eller	konj			6	KONJ		hov
+11	?	?	clb			6	IP		hov
+12	_laughter_	_laughter_	pause			13	FYLL		hov
+13	det	det	pron		nøyt|eint|pers|3	14	SUBJ		hov
+14	er	være	verb		pres	6	KOORD		hov
+15	ikke	ikke	adv			14	ADV		hov
+16	lov	lov	subst		mask|eint|appell|ub	14	SPRED		hov
+17	det	det	pron		nøyt|eint|pers|3	13	APP		hov
+18	kanskje	kanskje	adv			14	ADV		hov
+19	?	?	clb			14	IP		hov
 
-# text = * ja * nei det er ikke lov nei r0t
+# text = * ja * nei det er ikke lov nei
 # segstart = 97.265
 # segstop = 103.418
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 36
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	ja	ja	interj	_	_	6	INTERJ	_	_
-3	*	*	pause	_	_	4	IK	_	_
-4	nei	nei	interj	_	_	6	INTERJ	_	_
-5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
-6	er	være	verb	_	pres	10	FINV	_	_
-7	ikke	ikke	adv	_	_	6	ADV	_	_
-8	lov	lov	subst	_	ub|fem|ent|appell	6	SPRED	_	_
-9	nei	nei	interj	_	_	6	INTERJ	_	_
-10	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	ja	ja	interj			6	INTERJ		hov
+3	*	*	pause			4	IK		hov
+4	nei	nei	interj			6	INTERJ		hov
+5	det	det	pron		nøyt|eint|pers|3	6	SUBJ		hov
+6	er	være	verb		pres	0	FINV		hov
+7	ikke	ikke	adv			6	ADV		hov
+8	lov	lov	subst		fem|eint|appell|ub	6	SPRED		hov
+9	nei	nei	interj			6	INTERJ		hov
 
-# text = _laughter_ nei _laughter_ # akkurat # em # _front-click_ er det noe er det noe sp- spesielt du husker så fra skoletida eller fra skolen eller fra fritida for den del r0t
+# text = _laughter_ nei _laughter_ # akkurat # em # _front-click_ er det noe er det noe sp- spesielt du husker så fra skoletida eller fra skolen eller fra fritida for den del
 # segstart = 103.418
 # segstop = 113.649
 # file = lierne_01um-ta
 # speaker = ta
 # id = 37
-# annotator = SR
-1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
-2	nei	nei	interj	_	_	13	INTERJ	_	_
-3	_laughter_	_laughter_	pause	_	_	5	FYLL	_	_
-4	#	#	pause	_	_	5	IK	_	_
-5	akkurat	akkurat	adv	_	_	2	ADV	_	_
-6	#	#	pause	_	_	10	IK	_	_
-7	em	em	nol	_	_	10	FYLL	_	_
-8	#	#	pause	_	_	10	IK	_	_
-9	_front-click_	_front-click_	pause	_	_	10	FYLL	_	_
-10	er	være	verb	_	pres	13	REP	_	_
-11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
-12	noe	noe	pron	_	nøyt|3|ent|pers	10	PSUBJ	_	_
-13	er	være	verb	_	pres	32	KOORD	_	_
-14	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
-15	noe	noe	det	_	nøyt|ent|kvant	17	DET	_	_
-16	sp-	sp-	ufullst	_	_	17	FYLL	_	_
-17	spesielt	spesiell	adj	_	ub|pos|nøyt|ent	13	PSUBJ	_	_
-18	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
-19	husker	huske	verb	_	pres	17	ADV	_	_
-20	så	så	adv	_	_	21	ADV	_	_
-21	fra	fra	prep	_	_	19	ADV	_	_
-22	skoletida	skoletid	subst	_	be|fem|ent|samset	21	PUTFYLL	_	_
-23	eller	eller	konj	_	_	24	KONJ	_	_
-24	fra	fra	prep	_	_	21	KOORD	_	_
-25	skolen	skole	subst	_	be|mask|ent|appell	24	PUTFYLL	_	_
-26	eller	eller	konj	_	_	27	KONJ	_	_
-27	fra	fra	prep	_	_	21	KOORD	_	_
-28	fritida	fritid	subst	_	be|fem|ent|appell	27	PUTFYLL	_	_
-29	for	for	prep	_	_	27	ADV	_	_
-30	den	den	det	_	mask|ent|dem	31	DET	_	_
-31	del	del	subst	_	ub|mask|ent|appell	29	PUTFYLL	_	_
-32	r0t	_	_	_	_	0	root	_	_
+1	_laughter_	_laughter_	pause			2	FYLL		hov
+2	nei	nei	interj			13	INTERJ		hov
+3	_laughter_	_laughter_	pause			5	FYLL		hov
+4	#	#	pause			5	IK		hov
+5	akkurat	akkurat	adv			2	ADV		hov
+6	#	#	pause			10	IK		led
+7	em	em	nol			10	FYLL		led
+8	#	#	pause			10	IK		led
+9	_front-click_	_front-click_	pause			10	FYLL		led
+10	er	være	verb		pres	13	REP		led
+11	det	det	pron		nøyt|eint|pers|3	10	FSUBJ		led
+12	noe	noe	pron		nøyt|eint|pers|3	10	PSUBJ		led
+13	er	være	verb		pres	0	KOORD		hov
+14	det	det	pron		nøyt|eint|pers|3	13	FSUBJ		hov
+15	noe	noe	det		nøyt|eint|kvant	17	DET		hov
+16	sp-	sp-	ufullst			17	FYLL		hov
+17	spesielt	spesiell	adj		nøyt|eint|ub|pos	13	PSUBJ		hov
+18	du	du	pron		eint|2|nom	19	SUBJ		led
+19	husker	huske	verb		pres	17	ADV		led
+20	så	så	adv			21	ADV		led
+21	fra	fra	prep			19	ADV		led
+22	skoletida	skoletid	subst		fem|eint|samset|bu	21	PUTFYLL		led
+23	eller	eller	konj			24	KONJ		led
+24	fra	fra	prep			21	KOORD		led
+25	skolen	skole	subst		mask|eint|appell|bu	24	PUTFYLL		led
+26	eller	eller	konj			27	KONJ		led
+27	fra	fra	prep			21	KOORD		led
+28	fritida	fritid	subst		fem|eint|appell|bu	27	PUTFYLL		led
+29	for	for	prep			27	ADV		led
+30	den	den	det		mask|eint|dem	31	DET		led
+31	del	del	subst		mask|eint|appell|ub	29	PUTFYLL		led
 
-# text = eller noe # spesielle hendinger som du ## du har ikke møtt bø- møtt bjørn e men e er det noe annet du # er det noe fiske for eksempel som foregår her ? root
+# text = eller noe # spesielle hendinger som du ## du har ikke møtt bø- møtt bjørn e men e er det noe annet du # er det noe fiske for eksempel som foregår her ?
 # segstart = 113.649
 # segstop = 122.299
 # file = lierne_01um-ta
 # speaker = ta
 # id = 38
-# annotator = SR
-# SR: Ville først ha 'noe fiske' som potensielt subjekt, men har på følelsen at relativsetningen 'som foregår her' gjør denne analysen vanskeligere å forsvare.
-1	eller	eller	konj	_	_	5	KONJ	_	_
-2	noe	noen	det	_	nøyt|ent|kvant	5	DET	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	spesielle	spesiell	adj	_	pos|fl	5	ATR	_	_
-5	hendinger	hending	subst	_	ub|fem|fl|appell	35	FRAG	_	_
-6	som	som	prep	_	_	7	SBU	_	_
-7	du	du	pron	_	nom|2|ent|hum	5	REP	_	_
-8	##	##	pause	_	_	9	IK	_	_
-9	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
-10	har	ha	verb	_	pres	5	KOORD	_	_
-11	ikke	ikke	adv	_	_	14	ADV	_	_
-12	møtt	møte	verb	_	perf-part	14	REP	_	_
-13	bø-	bø	ufullst	_	_	14	FYLL	_	_
-14	møtt	møte	verb	_	perf-part	10	INFV	_	_
-15	bjørn	bjørn	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
-16	e	e	nol	_	_	17	FYLL	_	_
-17	men	men	konj	_	_	19	KONJ	_	_
-18	e	e	nol	_	_	19	FYLL	_	_
-19	er	være	verb	_	pres	5	KOORD	_	_
-20	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
-21	noe	noen	det	_	nøyt|ent|kvant	22	DET	_	_
-22	annet	annen	det	_	ub|nøyt|ent|dem	19	PSUBJ	_	_
-23	du	du	pron	_	nom|2|ent|hum	22	SLETT	_	_
-24	#	#	pause	_	_	25	IK	_	_
-25	er	være	verb	_	pres	5	KOORD	_	_
-26	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
-27	noe	noen	det	_	nøyt|ent|kvant	28	DET	_	_
-28	fiske	fiske	subst	_	ub|nøyt|ent|appell	25	PSUBJ	_	_
-29	for	for	prep	_	_	25	ADV	_	_
-30	eksempel	eksempel	subst	_	ub|nøyt|fl|appell	29	PUTFYLL	_	_
-31	som	som	sbu	_	_	32	SBU	_	_
-32	foregår	foregå	verb	_	pres	28	ATR	_	_
-33	her	her	prep	_	_	32	ADV	_	_
-34	?	$?	clb	_	_	5	IP	_	_
-35	root	_	_	_	_	0	root	_	_
+1	eller	eller	konj			5	KONJ		hov
+2	noe	noen	det		nøyt|eint|kvant	5	DET		hov
+3	#	#	pause			4	IK		hov
+4	spesielle	spesiell	adj		fl|pos	5	ATR		hov
+5	hendinger	hending	subst		fem|fl|appell|ub	0	FRAG		hov
+6	som	som	prep			7	SBU		hov
+7	du	du	pron		eint|2|nom	5	REP		hov
+8	##	##	pause			9	IK		hov
+9	du	du	pron		eint|2|nom	10	SUBJ		hov
+10	har	ha	verb		pres	5	KOORD		hov
+11	ikke	ikke	adv			14	ADV		hov
+12	møtt	møte	verb		perf-part	14	REP		hov
+13	bø-	bø	ufullst			14	FYLL		hov
+14	møtt	møte	verb		perf-part	10	INFV		hov
+15	bjørn	bjørn	subst		mask|eint|appell|ub	14	DOBJ		hov
+16	e	e	nol			17	FYLL		hov
+17	men	men	konj			19	KONJ		hov
+18	e	e	nol			19	FYLL		hov
+19	er	være	verb		pres	5	KOORD		hov
+20	det	det	pron		nøyt|eint|pers|3	19	FSUBJ		hov
+21	noe	noen	det		nøyt|eint|kvant	22	DET		hov
+22	annet	annen	det		nøyt|eint|dem|ub	19	PSUBJ		hov
+23	du	du	pron		eint|2|nom	22	SLETT		hov
+24	#	#	pause			25	IK		hov
+25	er	være	verb		pres	5	KOORD		hov
+26	det	det	pron		nøyt|eint|pers|3	25	FSUBJ		hov
+27	noe	noen	det		nøyt|eint|kvant	28	DET		hov
+28	fiske	fiske	subst		nøyt|eint|appell|ub	25	PSUBJ		hov
+29	for	for	prep			25	ADV		hov
+30	eksempel	eksempel	subst		nøyt|fl|appell|ub	29	PUTFYLL		hov
+31	som	som	sbu			32	SBU		led
+32	foregår	foregå	verb		pres	28	ATR		led
+33	her	her	prep			32	ADV		led
+34	?	$?	clb			5	IP		hov
 
-# text = ja det er jo # _laughter_ mange bra fiskevatn her r0t
+# text = ja det er jo # _laughter_ mange bra fiskevatn her
 # segstart = 122.299
 # segstop = 124.922
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 39
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
-3	er	være	verb	_	pres	11	FINV	_	_
-4	jo	jo	adv	_	_	3	ADV	_	_
-5	#	#	pause	_	_	7	IK	_	_
-6	_laughter_	_laughter_	pause	_	_	7	FYLL	_	_
-7	mange	mange	adj	_	pos|fl	9	DET	_	_
-8	bra	bra	adj	_	ub|pos|nøyt|ent	9	ATR	_	_
-9	fiskevatn	fiskevatn	subst	_	ub|nøyt|fl|samset	3	PSUBJ	_	_
-10	her	her	prep	_	_	3	ADV	_	_
-11	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	det	det	pron		nøyt|eint|pers|3	3	FSUBJ		hov
+3	er	være	verb		pres	0	FINV		hov
+4	jo	jo	adv			3	ADV		hov
+5	#	#	pause			7	IK		hov
+6	_laughter_	_laughter_	pause			7	FYLL		hov
+7	mange	mange	adj		fl|pos	9	DET		hov
+8	bra	bra	adj		nøyt|eint|ub|pos	9	ATR		hov
+9	fiskevatn	fiskevatn	subst		nøyt|fl|samset|ub	3	PSUBJ		hov
+10	her	her	prep			3	ADV		hov
 
-# text = mm ja men det vannet rett utenfor her er det ? r0t
+# text = mm ja men det vannet rett utenfor her er det ?
 # segstart = 124.922
 # segstop = 127.212
 # file = lierne_01um-ta
 # speaker = ta
 # id = 40
-# annotator = SR
-1	mm	mm	interj	_	_	9	INTERJ	_	_
-2	ja	ja	interj	_	_	9	INTERJ	_	_
-3	men	men	konj	_	_	9	KONJ	_	_
-4	det	det	det	_	nøyt|dem	5	DET	_	_
-5	vannet	vann	subst	_	be|nøyt|ent|appell	10	APP	_	_
-6	rett	rett	adj	_	ub|pos|nøyt|ent	7	ADV	_	_
-7	utenfor	utenfor	prep	_	_	5	ATR	_	_
-8	her	her	prep	_	_	7	PUTFYLL	_	_
-9	er	være	verb	_	pres	12	FINV	_	_
-10	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
-11	?	?	clb	_	_	9	IP	_	_
-12	r0t	_	_	_	_	0	root	_	_
+1	mm	mm	interj			9	INTERJ		hov
+2	ja	ja	interj			9	INTERJ		hov
+3	men	men	konj			9	KONJ		hov
+4	det	det	det		nøyt|dem	5	DET		hov
+5	vannet	vann	subst		nøyt|eint|appell|bu	10	APP		hov
+6	rett	rett	adj		nøyt|eint|ub|pos	7	ADV		hov
+7	utenfor	utenfor	prep			5	ATR		hov
+8	her	her	prep			7	PUTFYLL		hov
+9	er	være	verb		pres	0	FINV		hov
+10	det	det	pron		nøyt|eint|pers|3	9	SUBJ		hov
+11	?	?	clb			9	IP		hov
 
-# text = ja her er fisk ja r0t
+# text = ja her er fisk ja
 # segstart = 127.212
 # segstop = 128.333
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 41
-# annotator = SR
-# SR: Kommer frem av opptaket at ytringen egentlig inneholder formelt subjekt. Derfor er 'fisk' annotert som PSUBJ. Kan det / bør det forfremmes til SUBJ?
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	her	her	prep	_	_	3	FSUBJ	_	_
-3	er	være	verb	_	pres	6	FINV	_	_
-4	fisk	fisk	subst	_	ub|mask|ent|appell	3	PSUBJ	_	_
-5	ja	ja	interj	_	_	3	INTERJ	_	_
-6	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	her	her	prep			3	FSUBJ		hov
+3	er	være	verb		pres	0	FINV		hov
+4	fisk	fisk	subst		mask|eint|appell|ub	3	PSUBJ		hov
+5	ja	ja	interj			3	INTERJ		hov
 
-# text = ja ? r0t
+# text = ja ?
 # segstart = 128.333
 # segstop = 128.815
 # file = lierne_01um-ta
 # speaker = ta
 # id = 42
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	?	?	clb	_	_	1	IP	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	?	?	clb			1	IP		hov
 
-# text = ja r0t
+# text = ja
 # segstart = 128.815
 # segstop = 129.292
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 43
-# annotator = SR
-1	ja	ja	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
 
-# text = er det noen f- folk som bruker det vannet til fiske ? r0t
+# text = er det noen f- folk som bruker det vannet til fiske ?
 # segstart = 129.292
 # segstop = 132.829
 # file = lierne_01um-ta
 # speaker = ta
 # id = 44
-# annotator = SR
-1	er	være	verb	_	pres	13	FINV	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
-3	noen	noen	det	_	fl|kvant	5	DET	_	_
-4	f-	f-	ufullst	_	_	5	FYLL	_	_
-5	folk	folk	subst	_	ub|nøyt|fl|appell	1	PSUBJ	_	_
-6	som	som	sbu	_	_	7	SBU	_	_
-7	bruker	bruke	verb	_	pres	5	ATR	_	_
-8	det	det	det	_	nøyt|ent|dem	9	DET	_	_
-9	vannet	vann	subst	_	be|nøyt|ent|appell	7	DOBJ	_	_
-10	til	til	prep	_	_	7	ADV	_	_
-11	fiske	fiske	subst	_	ub|nøyt|ent|appell	10	PUTFYLL	_	_
-12	?	?	clb	_	_	1	IP	_	_
-13	r0t	_	_	_	_	0	root	_	_
+1	er	være	verb		pres	0	FINV		hov
+2	det	det	pron		nøyt|eint|pers|3	1	FSUBJ		hov
+3	noen	noen	det		fl|kvant	5	DET		hov
+4	f-	f-	ufullst			5	FYLL		hov
+5	folk	folk	subst		nøyt|fl|appell|ub	1	PSUBJ		hov
+6	som	som	sbu			7	SBU		led
+7	bruker	bruke	verb		pres	5	ATR		led
+8	det	det	det		nøyt|eint|dem	9	DET		led
+9	vannet	vann	subst		nøyt|eint|appell|bu	7	DOBJ		led
+10	til	til	prep			7	ADV		led
+11	fiske	fiske	subst		nøyt|eint|appell|ub	10	PUTFYLL		led
+12	?	?	clb			1	IP		hov
 
-# text = * r0t
+# text = *
 # segstart = 129.292
 # segstop = 132.829
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 45
-# annotator = SR
-1	*	*	pause	_	_	2	IP	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			0	IP		hov
 
-# text = ja men ikke heller ikke som produksjon nei men # til seg sjøl ja r0t
+# text = ja men ikke heller ikke som produksjon nei men # til seg sjøl ja
 # segstart = 132.829
 # segstop = 136.16
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 46
-# annotator = SR
-1	ja	ja	interj	_	_	15	INTERJ	_	_
-2	men	men	konj	_	_	6	KONJ	_	_
-3	ikke	ikke	adv	_	_	6	REP	_	_
-4	heller	heller	adv	_	_	6	ADV	_	_
-5	ikke	ikke	adv	_	_	6	ADV	_	_
-6	som	som	prep	_	_	1	ADV	_	_
-7	produksjon	produksjon	subst	_	ub|mask|ent|appell	6	PUTFYLL	_	_
-8	nei	nei	interj	_	_	6	INTERJ	_	_
-9	men	men	konj	_	_	11	KONJ	_	_
-10	#	#	pause	_	_	11	IK	_	_
-11	til	til	prep	_	_	6	KOORD	_	_
-12	seg	seg	pron	_	akk|refl	11	PUTFYLL	_	_
-13	sjøl	sjøl	det	_	fl|kvant	12	DET	_	_
-14	ja	ja	interj	_	_	11	INTERJ	_	_
-15	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	men	men	konj			6	KONJ		hov
+3	ikke	ikke	adv			6	REP		hov
+4	heller	heller	adv			6	ADV		hov
+5	ikke	ikke	adv			6	ADV		hov
+6	som	som	prep			1	ADV		hov
+7	produksjon	produksjon	subst		mask|eint|appell|ub	6	PUTFYLL		hov
+8	nei	nei	interj			6	INTERJ		hov
+9	men	men	konj			11	KONJ		hov
+10	#	#	pause			11	IK		hov
+11	til	til	prep			6	KOORD		hov
+12	seg	seg	pron		refl|akk	11	PUTFYLL		hov
+13	sjøl	sjøl	det		fl|kvant	12	DET		hov
+14	ja	ja	interj			11	INTERJ		hov
 
-# text = ja ja til fri- fritid og fritidsfiske r0t
+# text = ja ja til fri- fritid og fritidsfiske
 # segstart = 136.16
 # segstop = 138.743
 # file = lierne_01um-ta
 # speaker = ta
 # id = 47
-# annotator = SR
-1	ja	ja	interj	_	_	8	INTERJ	_	_
-2	ja	ja	interj	_	_	1	INTERJ	_	_
-3	til	til	prep	_	_	1	ADV	_	_
-4	fri-	fri-	ufullst	_	_	5	FYLL	_	_
-5	fritid	fritid	subst	_	ub|fem|ent|appell	3	PUTFYLL	_	_
-6	og	og	konj	_	_	7	KONJ	_	_
-7	fritidsfiske	fritidsfiske	subst	_	ub|nøyt|ent|samset	5	KOORD	_	_
-8	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	ja	ja	interj			1	INTERJ		hov
+3	til	til	prep			1	ADV		hov
+4	fri-	fri-	ufullst			5	FYLL		hov
+5	fritid	fritid	subst		fem|eint|appell|ub	3	PUTFYLL		hov
+6	og	og	konj			7	KONJ		hov
+7	fritidsfiske	fritidsfiske	subst		nøyt|eint|samset|ub	5	KOORD		hov
 
-# text = * mm * r0t
+# text = * mm *
 # segstart = 136.16
 # segstop = 138.743
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 48
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	4	INTERJ	_	_
-3	*	*	pause	_	_	2	IP	_	_
-4	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
+3	*	*	pause			2	IP		hov
 
-# text = det var nå ei stund men # det gikk jo konkurs r0t
+# text = det var nå ei stund men # det gikk jo konkurs
 # segstart = 138.743
 # segstop = 141.073
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 49
-# annotator = SR
-# SR: Annoterte 'konkurs' som predikativ i 'det gikk jo konkurs'.
-1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
-2	var	være	verb	_	pret	12	FINV	_	_
-3	nå	nå	adv	_	_	2	ADV	_	_
-4	ei	ei	det	_	fem|ent|kvant	5	DET	_	_
-5	stund	stund	subst	_	ub|fem|ent|appell	2	SPRED	_	_
-6	men	men	konj	_	_	9	KONJ	_	_
-7	#	#	pause	_	_	8	IK	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
-9	gikk	gå	verb	_	pret	2	KOORD	_	_
-10	jo	jo	adv	_	_	9	ADV	_	_
-11	konkurs	konkurs	adj	_	ub|pos|nøyt|ent	9	SPRED	_	_
-12	r0t	_	_	_	_	0	root	_	_
+1	det	det	pron		nøyt|eint|pers|3	2	SUBJ		hov
+2	var	være	verb		pret	0	FINV		hov
+3	nå	nå	adv			2	ADV		hov
+4	ei	ei	det		fem|eint|kvant	5	DET		hov
+5	stund	stund	subst		fem|eint|appell|ub	2	SPRED		hov
+6	men	men	konj			9	KONJ		hov
+7	#	#	pause			8	IK		hov
+8	det	det	pron		nøyt|eint|pers|3	9	SUBJ		hov
+9	gikk	gå	verb		pret	2	KOORD		hov
+10	jo	jo	adv			9	ADV		hov
+11	konkurs	konkurs	adj		nøyt|eint|ub|pos	9	SPRED		hov
 
-# text = ja vel # akkurat ## e ## _uninterpretable_ ja når det når det gjelder språket her eller dialekta her på Lierne da så er det er det root
+# text = ja vel # akkurat ## e ## _uninterpretable_ ja når det når det gjelder språket her eller dialekta her på Lierne da så er det er det
 # segstart = 141.073
 # segstop = 158.658
 # file = lierne_01um-ta
 # speaker = ta
 # id = 50
-# annotator = SR
-# SR: Denne bør ses på.
-1	ja	ja	interj	_	_	26	INTERJ	_	_
-2	vel	vel	adv	_	_	1	ADV	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	akkurat	akkurat	adv	_	_	1	ADV	_	_
-5	##	##	pause	_	_	9	IK	_	_
-6	e	e	nol	_	_	9	FYLL	_	_
-7	##	##	pause	_	_	9	IK	_	_
-8	_uninterpretable_	_uninterpretable_	pause	_	_	9	FYLL	_	_
-9	ja	ja	interj	_	_	14	INTERJ	_	_
-10	når	når	sbu	_	_	11	SBU	_	_
-11	det	det	pron	_	nøyt|3|ent|pers	14	REP	_	_
-12	når	når	sbu	_	_	14	SBU	_	_
-13	det	det	pron	_	nøyt|3|ent|pers	14	FSUBJ	_	_
-14	gjelder	gjelde	verb	_	pres	23	APP	_	_
-15	språket	språk	subst	_	be|nøyt|ent|appell	14	DOBJ	_	_
-16	her	her	prep	_	_	15	ATR	_	_
-17	eller	eller	konj	_	_	18	KONJ	_	_
-18	dialekta	dialekt	subst	_	be|fem|ent|appell	15	KOORD	_	_
-19	her	her	prep	_	_	18	ATR	_	_
-20	på	på	prep	_	_	19	PUTFYLL	_	_
-21	Lierne	Lierne	subst	_	prop	20	PUTFYLL	_	_
-22	da	da	adv	_	_	14	ADV	_	_
-23	så	så	adv	_	_	26	ADV	_	_
-24	er	være	verb	_	pres	26	REP	_	_
-25	det	det	pron	_	nøyt|3|ent|pers	24	FSUBJ	_	_
-26	er	være	verb	_	pres	28	FINV	_	_
-27	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
-28	root	_	_	_	_	0	root	_	_
+1	ja	ja	interj			26	INTERJ		hov
+2	vel	vel	adv			1	ADV		hov
+3	#	#	pause			4	IK		hov
+4	akkurat	akkurat	adv			1	ADV		hov
+5	##	##	pause			9	IK		hov
+6	e	e	nol			9	FYLL		hov
+7	##	##	pause			9	IK		hov
+8	_uninterpretable_	_uninterpretable_	pause			9	FYLL		hov
+9	ja	ja	interj			14	INTERJ		hov
+10	når	når	sbu			11	SBU		hov
+11	det	det	pron		nøyt|eint|pers|3	14	REP		hov
+12	når	når	sbu			14	SBU		hov
+13	det	det	pron		nøyt|eint|pers|3	14	FSUBJ		hov
+14	gjelder	gjelde	verb		pres	23	APP		hov
+15	språket	språk	subst		nøyt|eint|appell|bu	14	DOBJ		hov
+16	her	her	prep			15	ATR		hov
+17	eller	eller	konj			18	KONJ		hov
+18	dialekta	dialekt	subst		fem|eint|appell|bu	15	KOORD		hov
+19	her	her	prep			18	ATR		hov
+20	på	på	prep			19	PUTFYLL		hov
+21	Lierne	Lierne	subst		prop	20	PUTFYLL		hov
+22	da	da	adv			14	ADV		hov
+23	så	så	adv			26	ADV		hov
+24	er	være	verb		pres	26	REP		led
+25	det	det	pron		nøyt|eint|pers|3	24	FSUBJ		led
+26	er	være	verb		pres	0	FINV		hov
+27	det	det	pron		nøyt|eint|pers|3	26	FSUBJ		hov
 
-# text = altså er det ligger jo nært Sverige sant så det # så e m e mener du at det er noe slik påvirkning fra svensk eller ? r0t
+# text = altså er det ligger jo nært Sverige sant så det # så e m e mener du at det er noe slik påvirkning fra svensk eller ?
 # segstart = 152.758
 # segstop = 158.658
 # file = lierne_01um-ta
 # speaker = ta
 # id = 51
-# annotator = SR
-# SR: Analyserte 'nært Sverige' som prep med utfylling.
-1	altså	altså	adv	_	_	4	ADV	_	_
-2	er	være	verb	_	pres	4	REP	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
-4	ligger	ligge	verb	_	pres	28	FINV	_	_
-5	jo	jo	adv	_	_	4	ADV	_	_
-6	nært	nært	prep	_	_	4	ADV	_	_
-7	Sverige	Sverige	subst	_	prop	6	PUTFYLL	_	_
-8	sant	sann	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
-9	så	så	konj	_	_	10	KONJ	_	_
-10	det	det	pron	_	nøyt|3|ent|pers	4	KOORD	_	_
-11	#	#	pause	_	_	12	IK	_	_
-12	så	så	konj	_	_	16	KONJ	_	_
-13	e	e	nol	_	_	16	FYLL	_	_
-14	m	m	nol	_	_	16	FYLL	_	_
-15	e	e	nol	_	_	16	FYLL	_	_
-16	mener	mene	verb	_	pres	4	KOORD	_	_
-17	du	du	pron	_	nom|2|ent|hum	16	SUBJ	_	_
-18	at	at	sbu	_	_	20	SBU	_	_
-19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
-20	er	være	verb	_	pres	16	DOBJ	_	_
-21	noe	noe	det	_	nøyt|ent|kvant	23	DET	_	_
-22	slik	slik	det	_	fem|ent|dem	23	DET	_	_
-23	påvirkning	påvirkning	subst	_	ub|fem|ent|appell	20	PSUBJ	_	_
-24	fra	fra	prep	_	_	23	ATR	_	_
-25	svensk	svensk	subst	_	ub|mask|ent|appell	24	PUTFYLL	_	_
-26	eller	eller	konj	_	_	16	KONJ	_	_
-27	?	?	clb	_	_	16	IP	_	_
-28	r0t	_	_	_	_	0	root	_	_
+1	altså	altså	adv			4	ADV		hov
+2	er	være	verb		pres	4	REP		led
+3	det	det	pron		nøyt|eint|pers|3	4	SUBJ		hov
+4	ligger	ligge	verb		pres	0	FINV		hov
+5	jo	jo	adv			4	ADV		hov
+6	nært	nært	prep			4	ADV		hov
+7	Sverige	Sverige	subst		prop	6	PUTFYLL		hov
+8	sant	sann	adj		nøyt|eint|ub|pos	4	ADV		hov
+9	så	så	konj			10	KONJ		hov
+10	det	det	pron		nøyt|eint|pers|3	4	KOORD		hov
+11	#	#	pause			12	IK		hov
+12	så	så	konj			16	KONJ		hov
+13	e	e	nol			16	FYLL		hov
+14	m	m	nol			16	FYLL		hov
+15	e	e	nol			16	FYLL		hov
+16	mener	mene	verb		pres	4	KOORD		hov
+17	du	du	pron		eint|2|nom	16	SUBJ		hov
+18	at	at	sbu			20	SBU		led
+19	det	det	pron		nøyt|eint|pers|3	20	FSUBJ		led
+20	er	være	verb		pres	16	DOBJ		led
+21	noe	noe	det		nøyt|eint|kvant	23	DET		led
+22	slik	slik	det		fem|eint|dem	23	DET		led
+23	påvirkning	påvirkning	subst		fem|eint|appell|ub	20	PSUBJ		led
+24	fra	fra	prep			23	ATR		led
+25	svensk	svensk	subst		mask|eint|appell|ub	24	PUTFYLL		led
+26	eller	eller	konj			16	KONJ		hov
+27	?	?	clb			16	IP		hov
 
-# text = * mm r0t
+# text = * mm
 # segstart = 152.758
 # segstop = 158.658
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 52
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
 
-# text = ja jeg trur det er litt # litt svensk ja r0t
+# text = ja jeg trur det er litt # litt svensk ja
 # segstart = 158.658
 # segstop = 161.152
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 53
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
-3	trur	tru	verb	_	pres	11	FINV	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
-5	er	være	verb	_	pres	3	DOBJ	_	_
-6	litt	litt	adj	_	ub|pos|nøyt|ent	8	REP	_	_
-7	#	#	pause	_	_	8	IK	_	_
-8	litt	litt	adj	_	ub|pos|m/f|ent	9	ATR	_	_
-9	svensk	svensk	subst	_	ub|mask|ent|appell	5	PSUBJ	_	_
-10	ja	ja	interj	_	_	3	INTERJ	_	_
-11	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	jeg	jeg	pron		eint|1|nom	3	SUBJ		hov
+3	trur	tru	verb		pres	0	FINV		hov
+4	det	det	pron		nøyt|eint|pers|3	5	FSUBJ		led
+5	er	være	verb		pres	3	DOBJ		led
+6	litt	litt	adj		nøyt|eint|ub|pos	8	REP		led
+7	#	#	pause			8	IK		led
+8	litt	litt	adj		m/f|eint|ub|pos	9	ATR		led
+9	svensk	svensk	subst		mask|eint|appell|ub	5	PSUBJ		led
+10	ja	ja	interj			3	INTERJ		hov
 
-# text = ja # er det e er det noe spesielle ord du # kommer på i farten ? r0t
+# text = ja # er det e er det noe spesielle ord du # kommer på i farten ?
 # segstart = 161.152
 # segstop = 165.826
 # file = lierne_01um-ta
 # speaker = ta
 # id = 54
-# annotator = SR
-1	ja	ja	interj	_	_	6	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	er	være	verb	_	pres	6	REP	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
-5	e	e	nol	_	_	6	FYLL	_	_
-6	er	være	verb	_	pres	18	FINV	_	_
-7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
-8	noe	noe	det	_	fl|kvant	10	DET	_	_
-9	spesielle	spesiell	adj	_	pos|fl	10	ATR	_	_
-10	ord	ord	subst	_	ub|nøyt|fl|appell	6	PSUBJ	_	_
-11	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
-12	#	#	pause	_	_	13	IK	_	_
-13	kommer	komme	verb	_	pres	10	ATR	_	_
-14	på	på	prep	_	_	13	ADV	_	_
-15	i	i	prep	_	_	13	ADV	_	_
-16	farten	fart	subst	_	be|mask|ent|appell	15	PUTFYLL	_	_
-17	?	?	clb	_	_	6	IP	_	_
-18	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			6	INTERJ		hov
+2	#	#	pause			3	IK		led
+3	er	være	verb		pres	6	REP		led
+4	det	det	pron		nøyt|eint|pers|3	3	FSUBJ		led
+5	e	e	nol			6	FYLL		hov
+6	er	være	verb		pres	0	FINV		hov
+7	det	det	pron		nøyt|eint|pers|3	6	FSUBJ		hov
+8	noe	noe	det		fl|kvant	10	DET		hov
+9	spesielle	spesiell	adj		fl|pos	10	ATR		hov
+10	ord	ord	subst		nøyt|fl|appell|ub	6	PSUBJ		hov
+11	du	du	pron		eint|2|nom	13	SUBJ		led
+12	#	#	pause			13	IK		led
+13	kommer	komme	verb		pres	10	ATR		led
+14	på	på	prep			13	ADV		led
+15	i	i	prep			13	ADV		led
+16	farten	fart	subst		mask|eint|appell|bu	15	PUTFYLL		led
+17	?	?	clb			6	IP		hov
 
-# text = * mm r0t
+# text = * mm
 # segstart = 161.152
 # segstop = 165.826
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 55
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
 
-# text = nei ikke nå nei r0t
+# text = nei ikke nå nei
 # segstart = 165.826
 # segstop = 167.662
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 56
-# annotator = SR
-1	nei	nei	interj	_	_	5	INTERJ	_	_
-2	ikke	ikke	adv	_	_	1	ADV	_	_
-3	nå	nå	adv	_	_	1	ADV	_	_
-4	nei	nei	interj	_	_	1	INTERJ	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			0	INTERJ		hov
+2	ikke	ikke	adv			1	ADV		hov
+3	nå	nå	adv			1	ADV		hov
+4	nei	nei	interj			1	INTERJ		hov
 
-# text = nei # jeg var på Røros her for ei stund siden det e der var det noen gamle folk som sa int # altså for ikke eller r0t
+# text = nei # jeg var på Røros her for ei stund siden det e der var det noen gamle folk som sa int # altså for ikke eller
 # segstart = 167.662
 # segstop = 179.133
 # file = lierne_01um-ta
 # speaker = ta
 # id = 57
-# annotator = SR
-# SR: Fant ikke 'int' i noen av ordbøkene.
-1	nei	nei	interj	_	_	4	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
-4	var	være	verb	_	pret	28	FINV	_	_
-5	på	på	prep	_	_	4	SPRED	_	_
-6	Røros	Røros	subst	_	prop	5	PUTFYLL	_	_
-7	her	her	prep	_	_	4	ADV	_	_
-8	for	for	prep	_	_	4	ADV	_	_
-9	ei	ei	det	_	fem|ent|kvant	10	DET	_	_
-10	stund	stund	subst	_	ub|fem|ent|appell	8	PUTFYLL	_	_
-11	siden	siden	prep	_	_	10	ATR	_	_
-12	det	det	pron	_	nøyt|3|ent|pers	14	REP	_	_
-13	e	e	nol	_	_	14	FYLL	_	_
-14	der	der	prep	_	_	15	ADV	_	_
-15	var	være	verb	_	pret	4	KOORD	_	_
-16	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
-17	noen	noen	det	_	fl|kvant	19	DET	_	_
-18	gamle	gammel	adj	_	pos|fl	19	ATR	_	_
-19	folk	folk	subst	_	ub|nøyt|fl|appell	15	PSUBJ	_	_
-20	som	som	sbu	_	_	21	SBU	_	_
-21	sa	si	verb	_	pret	19	ATR	_	_
-22	int	int	adv	_	_	21	DOBJ	_	_
-23	#	#	pause	_	_	24	IK	_	_
-24	altså	altså	adv	_	_	25	ADV	_	_
-25	for	for	prep	_	_	22	ADV	_	_
-26	ikke	ikke	adv	_	_	25	PUTFYLL	_	_
-27	eller	eller	konj	_	_	15	KONJ	_	_
-28	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			4	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	jeg	jeg	pron		eint|1|nom	4	SUBJ		hov
+4	var	være	verb		pret	0	FINV		hov
+5	på	på	prep			4	SPRED		hov
+6	Røros	Røros	subst		prop	5	PUTFYLL		hov
+7	her	her	prep			4	ADV		hov
+8	for	for	prep			4	ADV		hov
+9	ei	ei	det		fem|eint|kvant	10	DET		hov
+10	stund	stund	subst		fem|eint|appell|ub	8	PUTFYLL		hov
+11	siden	siden	prep			10	ATR		hov
+12	det	det	pron		nøyt|eint|pers|3	14	REP		hov
+13	e	e	nol			14	FYLL		hov
+14	der	der	prep			15	ADV		hov
+15	var	være	verb		pret	4	KOORD		hov
+16	det	det	pron		nøyt|eint|pers|3	15	FSUBJ		hov
+17	noen	noen	det		fl|kvant	19	DET		hov
+18	gamle	gammel	adj		fl|pos	19	ATR		hov
+19	folk	folk	subst		nøyt|fl|appell|ub	15	PSUBJ		hov
+20	som	som	sbu			21	SBU		led
+21	sa	si	verb		pret	19	ATR		led
+22	int	int	adv			21	DOBJ		led
+23	#	#	pause			24	IK		led
+24	altså	altså	adv			25	ADV		led
+25	for	for	prep			22	ADV		led
+26	ikke	ikke	adv			25	PUTFYLL		led
+27	eller	eller	konj			15	KONJ		hov
 
-# text = * nei * ja r0t
+# text = * nei * ja
 # segstart = 167.662
 # segstop = 176.629
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 58
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	nei	nei	interj	_	_	5	INTERJ	_	_
-3	*	*	pause	_	_	4	IK	_	_
-4	ja	ja	interj	_	_	2	INTERJ	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	nei	nei	interj			0	INTERJ		hov
+3	*	*	pause			4	IK		hov
+4	ja	ja	interj			2	INTERJ		hov
 
-# text = er det er det noe som fins her eller vet du noe om det ? r0t
+# text = er det er det noe som fins her eller vet du noe om det ?
 # segstart = 176.629
 # segstop = 179.133
 # file = lierne_01um-ta
 # speaker = ta
 # id = 59
-# annotator = SR
-1	er	være	verb	_	pres	3	REP	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
-3	er	være	verb	_	pres	16	FINV	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
-5	noe	noe	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
-6	som	som	sbu	_	_	7	SBU	_	_
-7	fins	finnes	verb	_	pres	5	ATR	_	_
-8	her	her	prep	_	_	7	ADV	_	_
-9	eller	eller	konj	_	_	10	KONJ	_	_
-10	vet	vite	verb	_	pres	3	KOORD	_	_
-11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
-12	noe	noe	pron	_	nøyt|3|ent|pers	10	DOBJ	_	_
-13	om	om	prep	_	_	12	ATR	_	_
-14	det	det	pron	_	nøyt|3|ent|pers	13	PUTFYLL	_	_
-15	?	?	clb	_	_	3	IP	_	_
-16	r0t	_	_	_	_	0	root	_	_
+1	er	være	verb		pres	3	REP		led
+2	det	det	pron		nøyt|eint|pers|3	1	FSUBJ		led
+3	er	være	verb		pres	0	FINV		hov
+4	det	det	pron		nøyt|eint|pers|3	3	SUBJ		hov
+5	noe	noe	pron		nøyt|eint|pers|3	3	SPRED		hov
+6	som	som	sbu			7	SBU		led
+7	fins	finnes	verb		pres	5	ATR		led
+8	her	her	prep			7	ADV		led
+9	eller	eller	konj			10	KONJ		hov
+10	vet	vite	verb		pres	3	KOORD		hov
+11	du	du	pron		eint|2|nom	10	SUBJ		hov
+12	noe	noe	pron		nøyt|eint|pers|3	10	DOBJ		hov
+13	om	om	prep			12	ATR		hov
+14	det	det	pron		nøyt|eint|pers|3	13	PUTFYLL		hov
+15	?	?	clb			3	IP		hov
 
-# text = nei r0t
+# text = nei
 # segstart = 179.133
 # segstop = 180.158
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 60
-# annotator = SR
-1	nei	nei	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			0	INTERJ		hov
 
-# text = nei ## for er det itt ? r0t
+# text = nei ## for er det itt ?
 # segstart = 180.158
 # segstop = 182.972
 # file = lierne_01um-ta
 # speaker = ta
 # id = 61
-# annotator = SR
-1	nei	nei	interj	_	_	4	INTERJ	_	_
-2	##	##	pause	_	_	3	IK	_	_
-3	for	for	konj	_	_	4	KONJ	_	_
-4	er	være	verb	_	pres	8	FINV	_	_
-5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
-6	itt	itt	adv	_	_	4	SPRED	_	_
-7	?	?	clb	_	_	4	IP	_	_
-8	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			4	INTERJ		hov
+2	##	##	pause			3	IK		hov
+3	for	for	konj			4	KONJ		hov
+4	er	være	verb		pres	0	FINV		hov
+5	det	det	pron		nøyt|eint|pers|3	4	FSUBJ		hov
+6	itt	itt	adv			4	SPRED		hov
+7	?	?	clb			4	IP		hov
 
-# text = * gjør ikke det nei r0t
+# text = * gjør ikke det nei
 # segstart = 180.158
 # segstop = 182.972
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 62
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	gjør	gjøre	verb	_	pres	6	FINV	_	_
-3	ikke	ikke	adv	_	_	2	ADV	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
-5	nei	nei	interj	_	_	2	INTERJ	_	_
-6	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	gjør	gjøre	verb		pres	0	FINV		hov
+3	ikke	ikke	adv			2	ADV		hov
+4	det	det	pron		nøyt|eint|pers|3	2	DOBJ		hov
+5	nei	nei	interj			2	INTERJ		hov
 
-# text = ikke ja eller ikke r0t
+# text = ikke ja eller ikke
 # segstart = 182.972
 # segstop = 184.642
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 63
-# annotator = SR
-1	ikke	ikke	adv	_	_	2	ADV	_	_
-2	ja	ja	interj	_	_	5	INTERJ	_	_
-3	eller	eller	konj	_	_	4	KONJ	_	_
-4	ikke	ikke	adv	_	_	2	ADV	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	ikke	ikke	adv			2	ADV		hov
+2	ja	ja	interj			0	INTERJ		hov
+3	eller	eller	konj			4	KONJ		hov
+4	ikke	ikke	adv			2	ADV		hov
 
-# text = ja # akkurat ikke eller itt ja r0t
+# text = ja # akkurat ikke eller itt ja
 # segstart = 184.642
 # segstop = 200.124
 # file = lierne_01um-ta
 # speaker = ta
 # id = 64
-# annotator = SR
-1	ja	ja	interj	_	_	8	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	akkurat	akkurat	adv	_	_	1	ADV	_	_
-4	ikke	ikke	adv	_	_	1	ADV	_	_
-5	eller	eller	konj	_	_	6	KONJ	_	_
-6	itt	itt	adv	_	_	4	KOORD	_	_
-7	ja	ja	interj	_	_	1	INTERJ	_	_
-8	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	akkurat	akkurat	adv			1	ADV		hov
+4	ikke	ikke	adv			1	ADV		hov
+5	eller	eller	konj			6	KONJ		hov
+6	itt	itt	adv			4	KOORD		hov
+7	ja	ja	interj			1	INTERJ		hov
 
-# text = * ja * mm r0t
+# text = * ja * mm
 # segstart = 184.642
 # segstop = 187.551
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 65
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	ja	ja	interj	_	_	5	INTERJ	_	_
-3	*	*	pause	_	_	4	IK	_	_
-4	mm	mm	interj	_	_	2	INTERJ	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	ja	ja	interj			0	INTERJ		hov
+3	*	*	pause			4	IK		hov
+4	mm	mm	interj			2	INTERJ		hov
 
-# text = e _clears-throat_ # _front-click_ # ja hvis du skulle # prøvd å lokke noen til å bosette seg her eller e liksom motivert dem til å flytte til Lierne og så bosette seg hva du ville lagt vekt på som positive ting ? r0t
+# text = e _clears-throat_ # _front-click_ # ja hvis du skulle # prøvd å lokke noen til å bosette seg her eller e liksom motivert dem til å flytte til Lierne og så bosette seg hva du ville lagt vekt på som positive ting ?
 # segstart = 187.551
 # segstop = 200.124
 # file = lierne_01um-ta
 # speaker = ta
 # id = 66
-# annotator = SR
-1	e	e	nol	_	_	6	FYLL	_	_
-2	_clears-throat_	_clears-throat_	pause	_	_	6	FYLL	_	_
-3	#	#	pause	_	_	6	IK	_	_
-4	_front-click_	_front-click_	pause	_	_	6	FYLL	_	_
-5	#	#	pause	_	_	6	IK	_	_
-6	ja	ja	interj	_	_	9	INTERJ	_	_
-7	hvis	hvis	sbu	_	_	9	SBU	_	_
-8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
-9	skulle	skulle	verb	_	pret	37	ADV	_	_
-10	#	#	pause	_	_	11	IK	_	_
-11	prøvd	prøve	verb	_	perf-part	9	INFV	_	_
-12	å	å	inf-merke	_	_	11	DOBJ	_	_
-13	lokke	lokke	verb	_	inf	12	INFV	_	_
-14	noen	noen	pron	_	fem|3|ent|pers	13	DOBJ	_	_
-15	til	til	prep	_	_	13	ADV	_	_
-16	å	å	inf-merke	_	_	15	PUTFYLL	_	_
-17	bosette	bosette	verb	_	inf	16	INFV	_	_
-18	seg	seg	pron	_	akk|refl	17	DOBJ	_	_
-19	her	her	prep	_	_	17	ADV	_	_
-20	eller	eller	konj	_	_	23	KONJ	_	_
-21	e	e	nol	_	_	22	FYLL	_	_
-22	liksom	liksom	adv	_	_	23	ADV	_	_
-23	motivert	motivere	verb	_	perf-part	13	KOORD	_	_
-24	dem	dem	pron	_	akk|3|fl|pers	23	DOBJ	_	_
-25	til	til	prep	_	_	23	ADV	_	_
-26	å	å	inf-merke	_	_	25	PUTFYLL	_	_
-27	flytte	flytte	verb	_	inf	26	INFV	_	_
-28	til	til	prep	_	_	27	ADV	_	_
-29	Lierne	Lierne	subst	_	prop	28	PUTFYLL	_	_
-30	og	og	konj	_	_	32	KONJ	_	_
-31	så	så	adv	_	_	32	ADV	_	_
-32	bosette	bosette	verb	_	inf	27	KOORD	_	_
-33	seg	seg	pron	_	akk|refl	32	DOBJ	_	_
-34	hva	hva	pron	_	sp	39	PUTFYLL	_	_
-35	du	du	pron	_	nom|2|ent|hum	36	SUBJ	_	_
-36	ville	ville	verb	_	pret	44	FINV	_	_
-37	lagt	legge	verb	_	perf-part	36	INFV	_	_
-38	vekt	vekt	subst	_	ub|fem|ent|appell	37	DOBJ	_	_
-39	på	på	prep	_	_	37	ADV	_	_
-40	som	som	prep	_	_	34	ATR	_	_
-41	positive	positiv	adj	_	pos|fl	42	ATR	_	_
-42	ting	ting	subst	_	ub|mask|fl|appell	40	PUTFYLL	_	_
-43	?	?	clb	_	_	36	IP	_	_
-44	r0t	_	_	_	_	0	root	_	_
+1	e	e	nol			6	FYLL		led
+2	_clears-throat_	_clears-throat_	pause			6	FYLL		led
+3	#	#	pause			6	IK		led
+4	_front-click_	_front-click_	pause			6	FYLL		led
+5	#	#	pause			6	IK		led
+6	ja	ja	interj			9	INTERJ		led
+7	hvis	hvis	sbu			9	SBU		led
+8	du	du	pron		eint|2|nom	9	SUBJ		led
+9	skulle	skulle	verb		pret	37	ADV		led
+10	#	#	pause			11	IK		led
+11	prøvd	prøve	verb		perf-part	9	INFV		led
+12	å	å	inf-merke			11	DOBJ		led
+13	lokke	lokke	verb		inf	12	INFV		inf
+14	noen	noen	pron		fem|eint|pers|3	13	DOBJ		inf
+15	til	til	prep			13	ADV		inf
+16	å	å	inf-merke			15	PUTFYLL		inf
+17	bosette	bosette	verb		inf	16	INFV		inf
+18	seg	seg	pron		refl|akk	17	DOBJ		inf
+19	her	her	prep			17	ADV		inf
+20	eller	eller	konj			23	KONJ		inf
+21	e	e	nol			22	FYLL		inf
+22	liksom	liksom	adv			23	ADV		inf
+23	motivert	motivere	verb		perf-part	13	KOORD		inf
+24	dem	dem	pron		fl|pers|3|akk	23	DOBJ		inf
+25	til	til	prep			23	ADV		inf
+26	å	å	inf-merke			25	PUTFYLL		inf
+27	flytte	flytte	verb		inf	26	INFV		inf
+28	til	til	prep			27	ADV		inf
+29	Lierne	Lierne	subst		prop	28	PUTFYLL		inf
+30	og	og	konj			32	KONJ		inf
+31	så	så	adv			32	ADV		inf
+32	bosette	bosette	verb		inf	27	KOORD		inf
+33	seg	seg	pron		refl|akk	32	DOBJ		inf
+34	hva	hva	pron		sp	39	PUTFYLL		hov
+35	du	du	pron		eint|2|nom	36	SUBJ		hov
+36	ville	ville	verb		pret	0	FINV		hov
+37	lagt	legge	verb		perf-part	36	INFV		hov
+38	vekt	vekt	subst		fem|eint|appell|ub	37	DOBJ		hov
+39	på	på	prep			37	ADV		hov
+40	som	som	prep			34	ATR		hov
+41	positive	positiv	adj		fl|pos	42	ATR		hov
+42	ting	ting	subst		mask|fl|appell|ub	40	PUTFYLL		hov
+43	?	?	clb			36	IP		hov
 
-# text = det er nå friluftsliv jakt og fiske og # sånt og så er det blitt ny hall så # idrett fotball sånt går nå # volleyball r0t
+# text = det er nå friluftsliv jakt og fiske og # sånt og så er det blitt ny hall så # idrett fotball sånt går nå # volleyball
 # segstart = 200.124
 # segstop = 209.52
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 67
-# annotator = SR
-1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
-2	er	være	verb	_	pres	27	FINV	_	_
-3	nå	nå	adv	_	_	2	ADV	_	_
-4	friluftsliv	friluftsliv	subst	_	ub|nøyt|ent|samset	2	SPRED	_	_
-5	jakt	jakt	subst	_	ub|fem|ent|appell	4	KOORD	_	_
-6	og	og	konj	_	_	7	KONJ	_	_
-7	fiske	fiske	subst	_	ub|nøyt|ent|appell	4	KOORD	_	_
-8	og	og	konj	_	_	10	KONJ	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	sånt	sånt	pron	_	nøyt|3|ent|pers	4	KOORD	_	_
-11	og	og	konj	_	_	13	KONJ	_	_
-12	så	så	adv	_	_	13	ADV	_	_
-13	er	være	verb	_	pres	2	KOORD	_	_
-14	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
-15	blitt	bli	verb	_	perf-part	13	INFV	_	_
-16	ny	ny	adj	_	ub|pos|m/f|ent	17	ATR	_	_
-17	hall	hall	subst	_	ub|mask|ent|appell	15	SPRED	_	_
-18	så	så	adv	_	_	15	ADV	_	_
-19	#	#	pause	_	_	20	IK	_	_
-20	idrett	idrett	subst	_	ub|mask|ent|appell	22	APP	_	_
-21	fotball	fotball	subst	_	ub|mask|ent|appell	20	KOORD	_	_
-22	sånt	sånt	pron	_	nøyt|3|ent|pers	23	SUBJ	_	_
-23	går	gå	verb	_	pres	2	KOORD	_	_
-24	nå	nå	adv	_	_	23	ADV	_	_
-25	#	#	pause	_	_	26	IK	_	_
-26	volleyball	volleyball	subst	_	ub|mask|ent|appell	2	KOORD	_	_
-27	r0t	_	_	_	_	0	root	_	_
+1	det	det	pron		nøyt|eint|pers|3	2	SUBJ		hov
+2	er	være	verb		pres	0	FINV		hov
+3	nå	nå	adv			2	ADV		hov
+4	friluftsliv	friluftsliv	subst		nøyt|eint|samset|ub	2	SPRED		hov
+5	jakt	jakt	subst		fem|eint|appell|ub	4	KOORD		hov
+6	og	og	konj			7	KONJ		hov
+7	fiske	fiske	subst		nøyt|eint|appell|ub	4	KOORD		hov
+8	og	og	konj			10	KONJ		hov
+9	#	#	pause			10	IK		hov
+10	sånt	sånt	pron		nøyt|eint|pers|3	4	KOORD		hov
+11	og	og	konj			13	KONJ		hov
+12	så	så	adv			13	ADV		hov
+13	er	være	verb		pres	2	KOORD		hov
+14	det	det	pron		nøyt|eint|pers|3	13	FSUBJ		hov
+15	blitt	bli	verb		perf-part	13	INFV		hov
+16	ny	ny	adj		m/f|eint|ub|pos	17	ATR		hov
+17	hall	hall	subst		mask|eint|appell|ub	15	SPRED		hov
+18	så	så	adv			15	ADV		hov
+19	#	#	pause			20	IK		hov
+20	idrett	idrett	subst		mask|eint|appell|ub	22	APP		hov
+21	fotball	fotball	subst		mask|eint|appell|ub	20	KOORD		hov
+22	sånt	sånt	pron		nøyt|eint|pers|3	23	SUBJ		hov
+23	går	gå	verb		pres	2	KOORD		hov
+24	nå	nå	adv			23	ADV		hov
+25	#	#	pause			26	IK		hov
+26	volleyball	volleyball	subst		mask|eint|appell|ub	2	KOORD		hov
 
-# text = akkurat # er det e når det gjelder jakt hva er det hva er det dere jakter på ? r0t
+# text = akkurat # er det e når det gjelder jakt hva er det hva er det dere jakter på ?
 # segstart = 209.52
 # segstop = 215.005
 # file = lierne_01um-ta
 # speaker = ta
 # id = 68
-# annotator = SR
-1	akkurat	akkurat	interj	_	_	14	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	er	være	verb	_	pres	14	REP	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
-5	e	e	nol	_	_	6	FYLL	_	_
-6	når	når	sbu	_	_	8	SBU	_	_
-7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
-8	gjelder	gjelde	verb	_	pres	14	ADV	_	_
-9	jakt	jakt	subst	_	ub|fem|ent|appell	8	DOBJ	_	_
-10	hva	hva	pron	_	sp	11	SPRED	_	_
-11	er	være	verb	_	pres	14	REP	_	_
-12	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
-13	hva	hva	pron	_	sp	14	SPRED	_	_
-14	er	være	verb	_	pres	20	KOORD	_	_
-15	det	det	pron	_	nøyt|3|ent|pers	14	FSUBJ	_	_
-16	dere	dere	pron	_	nom|2|fl|hum	17	SUBJ	_	_
-17	jakter	jakte	verb	_	pres	13	ATR	_	_
-18	på	på	prep	_	_	17	ADV	_	_
-19	?	?	clb	_	_	14	IP	_	_
-20	r0t	_	_	_	_	0	root	_	_
+1	akkurat	akkurat	interj			14	INTERJ		hov
+2	#	#	pause			3	IK		led
+3	er	være	verb		pres	14	REP		led
+4	det	det	pron		nøyt|eint|pers|3	3	FSUBJ		led
+5	e	e	nol			6	FYLL		led
+6	når	når	sbu			8	SBU		led
+7	det	det	pron		nøyt|eint|pers|3	8	FSUBJ		led
+8	gjelder	gjelde	verb		pres	14	ADV		led
+9	jakt	jakt	subst		fem|eint|appell|ub	8	DOBJ		led
+10	hva	hva	pron		sp	11	SPRED		led
+11	er	være	verb		pres	14	REP		led
+12	det	det	pron		nøyt|eint|pers|3	11	FSUBJ		led
+13	hva	hva	pron		sp	14	SPRED		hov
+14	er	være	verb		pres	0	KOORD		hov
+15	det	det	pron		nøyt|eint|pers|3	14	FSUBJ		hov
+16	dere	dere	pron		fl|2|nom	17	SUBJ		led
+17	jakter	jakte	verb		pres	13	ATR		led
+18	på	på	prep			17	ADV		led
+19	?	?	clb			14	IP		hov
 
-# text = * mm r0t
+# text = * mm
 # segstart = 209.52
 # segstop = 215.005
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 69
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
 
-# text = du kan nå jakte fra # fugl til # elg r0t
+# text = du kan nå jakte fra # fugl til # elg
 # segstart = 215.005
 # segstop = 218.988
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 70
-# annotator = SR
-1	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
-2	kan	kunne	verb	_	pres	11	FINV	_	_
-3	nå	nå	adv	_	_	4	ADV	_	_
-4	jakte	jakt	verb	_	inf	2	INFV	_	_
-5	fra	fra	prep	_	_	4	ADV	_	_
-6	#	#	pause	_	_	7	IK	_	_
-7	fugl	fugl	subst	_	ub|mask|ent|appell	5	PUTFYLL	_	_
-8	til	til	prep	_	_	5	ADV	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	elg	elg	subst	_	ub|mask|ent|appell	8	PUTFYLL	_	_
-11	r0t	_	_	_	_	0	root	_	_
+1	du	du	pron		eint|2|nom	2	SUBJ		hov
+2	kan	kunne	verb		pres	0	FINV		hov
+3	nå	nå	adv			4	ADV		hov
+4	jakte	jakt	verb		inf	2	INFV		hov
+5	fra	fra	prep			4	ADV		hov
+6	#	#	pause			7	IK		hov
+7	fugl	fugl	subst		mask|eint|appell|ub	5	PUTFYLL		hov
+8	til	til	prep			5	ADV		hov
+9	#	#	pause			10	IK		hov
+10	elg	elg	subst		mask|eint|appell|ub	8	PUTFYLL		hov
 
-# text = jaha # er det mye elg og sl- # hjort og slikt her ? r0t
+# text = jaha # er det mye elg og sl- # hjort og slikt her ?
 # segstart = 218.988
 # segstop = 222.207
 # file = lierne_01um-ta
 # speaker = ta
 # id = 71
-# annotator = SR
-1	jaha	jahe	interj	_	_	3	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	er	være	verb	_	pres	15	FINV	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
-5	mye	mye	adj	_	ub|pos|m/f|ent	6	ATR	_	_
-6	elg	elg	subst	_	ub|mask|ent|appell	3	PSUBJ	_	_
-7	og	og	konj	_	_	10	KONJ	_	_
-8	sl-	sl-	ufullst	_	_	10	FYLL	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	hjort	hjort	subst	_	ub|mask|ent|appell	6	KOORD	_	_
-11	og	og	konj	_	_	12	KONJ	_	_
-12	slikt	slikt	pron	_	nøyt|3|ent|pers	6	KOORD	_	_
-13	her	her	prep	_	_	3	ADV	_	_
-14	?	?	clb	_	_	3	IP	_	_
-15	r0t	_	_	_	_	0	root	_	_
+1	jaha	jahe	interj			3	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	er	være	verb		pres	0	FINV		hov
+4	det	det	pron		nøyt|eint|pers|3	3	FSUBJ		hov
+5	mye	mye	adj		m/f|eint|ub|pos	6	ATR		hov
+6	elg	elg	subst		mask|eint|appell|ub	3	PSUBJ		hov
+7	og	og	konj			10	KONJ		hov
+8	sl-	sl-	ufullst			10	FYLL		hov
+9	#	#	pause			10	IK		hov
+10	hjort	hjort	subst		mask|eint|appell|ub	6	KOORD		hov
+11	og	og	konj			12	KONJ		hov
+12	slikt	slikt	pron		nøyt|eint|pers|3	6	KOORD		hov
+13	her	her	prep			3	ADV		hov
+14	?	?	clb			3	IP		hov
 
-# text = nei ikke hjort men elg … r0t
+# text = nei ikke hjort men elg …
 # segstart = 222.207
 # segstop = 223.316
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 72
-# annotator = SR
-1	nei	nei	interj	_	_	7	INTERJ	_	_
-2	ikke	ikke	adv	_	_	3	ATR	_	_
-3	hjort	hjort	subst	_	ub|mask|ent|appell	1	ADV	_	_
-4	men	men	konj	_	_	5	KONJ	_	_
-5	elg	elg	subst	_	ub|mask|ent|appell	3	KOORD	_	_
-6	…	…	pause	_	_	1	IK	_	_
-7	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			0	INTERJ		hov
+2	ikke	ikke	adv			3	ATR		hov
+3	hjort	hjort	subst		mask|eint|appell|ub	1	ADV		hov
+4	men	men	konj			5	KONJ		hov
+5	elg	elg	subst		mask|eint|appell|ub	3	KOORD		hov
+6	…	…	pause			1	IK		hov
 
-# text = det var em ## e når det gjelder arbeidsp- å få arbeid er det hvordan er det med det ? r0t
+# text = det var em ## e når det gjelder arbeidsp- å få arbeid er det hvordan er det med det ?
 # segstart = 230.554
 # segstop = 238.126
 # file = lierne_01um-ta
 # speaker = ta
 # id = 73
-# annotator = SR
-1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
-2	var	være	verb	_	pret	8	REP	_	_
-3	em	em	nol	_	_	6	FYLL	_	_
-4	##	##	pause	_	_	6	IK	_	_
-5	e	e	nol	_	_	6	FYLL	_	_
-6	når	når	sbu	_	_	8	SBU	_	_
-7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
-8	gjelder	gjelde	verb	_	pres	16	ADV	_	_
-9	arbeidsp-	arbeidsp-	ufullst	_	_	10	FYLL	_	_
-10	å	å	inf-merke	_	_	8	DOBJ	_	_
-11	få	få	verb	_	inf	10	INFV	_	_
-12	arbeid	arbeid	subst	_	ub|nøyt|ent|appell	11	DOBJ	_	_
-13	er	være	verb	_	pres	16	REP	_	_
-14	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
-15	hvordan	hvordan	adv	_	_	16	ADV	_	_
-16	er	være	verb	_	pres	21	FINV	_	_
-17	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
-18	med	med	prep	_	_	16	SPRED	_	_
-19	det	det	pron	_	nøyt|3|ent|pers	18	PUTFYLL	_	_
-20	?	?	clb	_	_	16	IP	_	_
-21	r0t	_	_	_	_	0	root	_	_
+1	det	det	pron		nøyt|eint|pers|3	2	FSUBJ		led
+2	var	være	verb		pret	8	REP		led
+3	em	em	nol			6	FYLL		led
+4	##	##	pause			6	IK		led
+5	e	e	nol			6	FYLL		led
+6	når	når	sbu			8	SBU		led
+7	det	det	pron		nøyt|eint|pers|3	8	FSUBJ		led
+8	gjelder	gjelde	verb		pres	16	ADV		led
+9	arbeidsp-	arbeidsp-	ufullst			10	FYLL		led
+10	å	å	inf-merke			8	DOBJ		led
+11	få	få	verb		inf	10	INFV		inf
+12	arbeid	arbeid	subst		nøyt|eint|appell|ub	11	DOBJ		inf
+13	er	være	verb		pres	16	REP		led
+14	det	det	pron		nøyt|eint|pers|3	13	FSUBJ		led
+15	hvordan	hvordan	adv			16	ADV		hov
+16	er	være	verb		pres	0	FINV		hov
+17	det	det	pron		nøyt|eint|pers|3	16	FSUBJ		hov
+18	med	med	prep			16	SPRED		hov
+19	det	det	pron		nøyt|eint|pers|3	18	PUTFYLL		hov
+20	?	?	clb			16	IP		hov
 
-# text = ja det _sighing_ det er jo ikke så mange arbeidsplasser oppi her da men # det spørs _uninterpretable_ si jo r0t
+# text = ja det _sighing_ det er jo ikke så mange arbeidsplasser oppi her da men # det spørs _uninterpretable_ si jo
 # segstart = 238.126
 # segstop = 243.396
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 74
-# annotator = SR
-1	ja	ja	interj	_	_	5	INTERJ	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	4	REP	_	_
-3	_sighing_	_sighing_	pause	_	_	4	FYLL	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
-5	er	være	verb	_	pres	21	FINV	_	_
-6	jo	jo	adv	_	_	5	ADV	_	_
-7	ikke	ikke	adv	_	_	5	ADV	_	_
-8	så	så	adv	_	_	9	ADV	_	_
-9	mange	mange	adj	_	pos|fl	10	ATR	_	_
-10	arbeidsplasser	arbeidsplass	subst	_	ub|mask|fl|appell	5	PSUBJ	_	_
-11	oppi	oppi	prep	_	_	5	ADV	_	_
-12	her	her	prep	_	_	11	PUTFYLL	_	_
-13	da	da	adv	_	_	5	ADV	_	_
-14	men	men	konj	_	_	17	KONJ	_	_
-15	#	#	pause	_	_	16	IK	_	_
-16	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
-17	spørs	spørres	verb	_	_	5	KOORD	_	_
-18	_uninterpretable_	_uninterpretable_	pause	_	_	19	FYLL	_	_
-19	si	si	verb	_	inf	17	SLETT	_	_
-20	jo	jo	adv	_	_	19	ADV	_	_
-21	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			5	INTERJ		hov
+2	det	det	pron		nøyt|eint|pers|3	4	REP		hov
+3	_sighing_	_sighing_	pause			4	FYLL		hov
+4	det	det	pron		nøyt|eint|pers|3	5	FSUBJ		hov
+5	er	være	verb		pres	0	FINV		hov
+6	jo	jo	adv			5	ADV		hov
+7	ikke	ikke	adv			5	ADV		hov
+8	så	så	adv			9	ADV		hov
+9	mange	mange	adj		fl|pos	10	ATR		hov
+10	arbeidsplasser	arbeidsplass	subst		mask|fl|appell|ub	5	PSUBJ		hov
+11	oppi	oppi	prep			5	ADV		hov
+12	her	her	prep			11	PUTFYLL		hov
+13	da	da	adv			5	ADV		hov
+14	men	men	konj			17	KONJ		hov
+15	#	#	pause			16	IK		hov
+16	det	det	pron		nøyt|eint|pers|3	17	FSUBJ		hov
+17	spørs	spørres	verb			5	KOORD		hov
+18	_uninterpretable_	_uninterpretable_	pause			19	FYLL		hov
+19	si	si	verb		inf	17	SLETT		hov
+20	jo	jo	adv			19	ADV		hov
 
-# text = spørs nå hva du vil holde på med ## snekring går nå # sånt r0t
+# text = spørs nå hva du vil holde på med ## snekring går nå # sånt
 # segstart = 243.396
 # segstop = 247.903
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 75
-# annotator = SR
-# SR: I 'det spørs hva..' blir 'hva' objekt?
-1	spørs	spørres	verb	_	pres	15	FINV	_	_
-2	nå	nå	adv	_	_	1	ADV	_	_
-3	hva	hva	pron	_	sp	8	PUTFYLL	_	_
-4	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
-5	vil	ville	verb	_	pres	1	DOBJ	_	_
-6	holde	holde	verb	_	inf	5	INFV	_	_
-7	på	på	prep	_	_	6	ADV	_	_
-8	med	med	prep	_	_	6	ADV	_	_
-9	##	##	pause	_	_	10	IK	_	_
-10	snekring	snekring	subst	_	ub|fem|ent|appell	11	SUBJ	_	_
-11	går	gå	verb	_	pres	1	KOORD	_	_
-12	nå	nå	adv	_	_	11	ADV	_	_
-13	#	#	pause	_	_	14	IK	_	_
-14	sånt	sånt	pron	_	nøyt|3|ent|pers	1	KOORD	_	_
-15	r0t	_	_	_	_	0	root	_	_
+1	spørs	spørres	verb		pres	0	FINV		hov
+2	nå	nå	adv			1	ADV		hov
+3	hva	hva	pron		sp	8	PUTFYLL		led
+4	du	du	pron		eint|2|nom	5	SUBJ		led
+5	vil	ville	verb		pres	1	DOBJ		led
+6	holde	holde	verb		inf	5	INFV		led
+7	på	på	prep			6	ADV		led
+8	med	med	prep			6	ADV		led
+9	##	##	pause			10	IK		hov
+10	snekring	snekring	subst		fem|eint|appell|ub	11	SUBJ		hov
+11	går	gå	verb		pres	1	KOORD		hov
+12	nå	nå	adv			11	ADV		hov
+13	#	#	pause			14	IK		hov
+14	sånt	sånt	pron		nøyt|eint|pers|3	1	KOORD		hov
 
-# text = ja # det der lefse- # eller e … r0t
+# text = ja # det der lefse- # eller e …
 # segstart = 247.903
 # segstop = 250.559
 # file = lierne_01um-ta
 # speaker = ta
 # id = 76
-# annotator = SR
-1	ja	ja	interj	_	_	10	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	1	ADV	_	_
-4	der	der	prep	_	_	3	ATR	_	_
-5	lefse-	lefse-	ufullst	_	_	7	FYLL	_	_
-6	#	#	pause	_	_	7	IK	_	_
-7	eller	eller	konj	_	_	3	KONJ	_	_
-8	e	e	nol	_	_	7	FYLL	_	_
-9	…	…	pause	_	_	7	IK	_	_
-10	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	det	det	pron		nøyt|eint|pers|3	1	ADV		hov
+4	der	der	prep			3	ATR		hov
+5	lefse-	lefse-	ufullst			7	FYLL		hov
+6	#	#	pause			7	IK		hov
+7	eller	eller	konj			3	KONJ		hov
+8	e	e	nol			7	FYLL		hov
+9	…	…	pause			7	IK		hov
 
-# text = * r0t
+# text = *
 # segstart = 247.903
 # segstop = 250.559
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 77
-# annotator = SR
-1	*	*	pause	_	_	2	IP	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			0	IP		hov
 
-# text = ja bakeriet r0t
+# text = ja bakeriet
 # segstart = 250.559
 # segstop = 251.714
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 78
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	bakeriet	bakeri	subst	_	be|nøyt|ent|appell	1	ADV	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	bakeriet	bakeri	subst		nøyt|eint|appell|bu	1	ADV		hov
 
-# text = * bakeriet ja r0t
+# text = * bakeriet ja
 # segstart = 250.559
 # segstop = 251.714
 # file = lierne_01um-ta
 # speaker = ta
 # id = 79
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	bakeriet	bakeri	subst	_	be|nøyt|ent|appell	4	FRAG	_	_
-3	ja	ja	interj	_	_	2	ADV	_	_
-4	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	bakeriet	bakeri	subst		nøyt|eint|appell|bu	0	FRAG		hov
+3	ja	ja	interj			2	ADV		hov
 
-# text = der er det nå mange r0t
+# text = der er det nå mange
 # segstart = 251.714
 # segstop = 252.959
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 80
-# annotator = SR
-1	der	der	adv	_	_	2	ADV	_	_
-2	er	være	verb	_	pres	6	FINV	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
-4	nå	nå	adv	_	_	2	ADV	_	_
-5	mange	mange	adj	_	pos|fl	2	PSUBJ	_	_
-6	r0t	_	_	_	_	0	root	_	_
+1	der	der	adv			2	ADV		hov
+2	er	være	verb		pres	0	FINV		hov
+3	det	det	pron		nøyt|eint|pers|3	2	FSUBJ		hov
+4	nå	nå	adv			2	ADV		hov
+5	mange	mange	adj		fl|pos	2	PSUBJ		hov
 
-# text = ja er det lett å få arbeid der eller er det liksom en fast # fastsatt _laughter_ arbeidsstokk for å si det slik ? r0t
+# text = ja er det lett å få arbeid der eller er det liksom en fast # fastsatt _laughter_ arbeidsstokk for å si det slik ?
 # segstart = 252.959
 # segstop = 257.872
 # file = lierne_01um-ta
 # speaker = ta
 # id = 81
-# annotator = SR
-1	ja	ja	interj	_	_	2	INTERJ	_	_
-2	er	være	verb	_	pres	25	FINV	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
-4	lett	lett	adj	_	ub|pos|nøyt|ent	2	SPRED	_	_
-5	å	å	inf-merke	_	_	2	PSUBJ	_	_
-6	få	få	verb	_	inf	5	INFV	_	_
-7	arbeid	arbeid	subst	_	ub|nøyt|ent|appell	6	DOBJ	_	_
-8	der	der	prep	_	_	6	ADV	_	_
-9	eller	eller	konj	_	_	10	KONJ	_	_
-10	er	være	verb	_	pres	2	KOORD	_	_
-11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
-12	liksom	liksom	adv	_	_	10	ADV	_	_
-13	en	en	det	_	mask|ent|kvant	18	DET	_	_
-14	fast	fast	adj	_	ub|pos|nøyt|ent	16	REP	_	_
-15	#	#	pause	_	_	16	IK	_	_
-16	fastsatt	fastsette	adj	_	perf-part	18	ATR	_	_
-17	_laughter_	_laughter_	pause	_	_	18	FYLL	_	_
-18	arbeidsstokk	arbeidsstokk	subst	_	ub|mask|ent|appell	10	PSUBJ	_	_
-19	for	for	prep	_	_	10	ADV	_	_
-20	å	å	inf-merke	_	_	19	PUTFYLL	_	_
-21	si	si	verb	_	inf	20	INFV	_	_
-22	det	det	pron	_	nøyt|3|ent|pers	21	DOBJ	_	_
-23	slik	slik	adv	_	_	21	ADV	_	_
-24	?	?	clb	_	_	2	IP	_	_
-25	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			2	INTERJ		hov
+2	er	være	verb		pres	0	FINV		hov
+3	det	det	pron		nøyt|eint|pers|3	2	FSUBJ		hov
+4	lett	lett	adj		nøyt|eint|ub|pos	2	SPRED		hov
+5	å	å	inf-merke			2	PSUBJ		hov
+6	få	få	verb		inf	5	INFV		inf
+7	arbeid	arbeid	subst		nøyt|eint|appell|ub	6	DOBJ		inf
+8	der	der	prep			6	ADV		inf
+9	eller	eller	konj			10	KONJ		hov
+10	er	være	verb		pres	2	KOORD		hov
+11	det	det	pron		nøyt|eint|pers|3	10	FSUBJ		hov
+12	liksom	liksom	adv			10	ADV		hov
+13	en	en	det		mask|eint|kvant	18	DET		hov
+14	fast	fast	adj		nøyt|eint|ub|pos	16	REP		hov
+15	#	#	pause			16	IK		hov
+16	fastsatt	fastsette	adj		perf-part	18	ATR		hov
+17	_laughter_	_laughter_	pause			18	FYLL		hov
+18	arbeidsstokk	arbeidsstokk	subst		mask|eint|appell|ub	10	PSUBJ		hov
+19	for	for	prep			10	ADV		hov
+20	å	å	inf-merke			19	PUTFYLL		hov
+21	si	si	verb		inf	20	INFV		inf
+22	det	det	pron		nøyt|eint|pers|3	21	DOBJ		inf
+23	slik	slik	adv			21	ADV		inf
+24	?	?	clb			2	IP		hov
 
-# text = * r0t
+# text = *
 # segstart = 252.959
 # segstop = 257.872
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 82
-# annotator = SR
-1	*	*	pause	_	_	2	IP	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			0	IP		hov
 
-# text = nei det vet ikke jeg så mye om r0t
+# text = nei det vet ikke jeg så mye om
 # segstart = 257.872
 # segstop = 258.731
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 83
-# annotator = SR
-1	nei	nei	interj	_	_	3	INTERJ	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	8	PUTFYLL	_	_
-3	vet	vite	verb	_	pres	9	FINV	_	_
-4	ikke	ikke	adv	_	_	3	ADV	_	_
-5	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
-6	så	så	adv	_	_	7	ADV	_	_
-7	mye	mye	adj	_	ub|pos|nøyt|ent	3	DOBJ	_	_
-8	om	om	prep	_	_	7	ADV	_	_
-9	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			3	INTERJ		hov
+2	det	det	pron		nøyt|eint|pers|3	8	PUTFYLL		hov
+3	vet	vite	verb		pres	0	FINV		hov
+4	ikke	ikke	adv			3	ADV		hov
+5	jeg	jeg	pron		eint|1|nom	3	SUBJ		hov
+6	så	så	adv			7	ADV		hov
+7	mye	mye	adj		nøyt|eint|ub|pos	3	DOBJ		hov
+8	om	om	prep			7	ADV		hov
 
-# text = nei # men det er på e det er Sørli sant ? r0t
+# text = nei # men det er på e det er Sørli sant ?
 # segstart = 258.731
 # segstop = 260.997
 # file = lierne_01um-ta
 # speaker = ta
 # id = 84
-# annotator = SR
-1	nei	nei	interj	_	_	9	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	men	men	konj	_	_	9	KONJ	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
-5	er	være	verb	_	pres	9	REP	_	_
-6	på	på	prep	_	_	5	SPRED	_	_
-7	e	e	nol	_	_	8	FYLL	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
-9	er	være	verb	_	pres	13	FINV	_	_
-10	Sørli	Sørli	subst	_	prop	9	SPRED	_	_
-11	sant	sann	adj	_	ub|pos|nøyt|ent	9	ADV	_	_
-12	?	?	clb	_	_	9	IP	_	_
-13	r0t	_	_	_	_	0	root	_	_
+1	nei	nei	interj			9	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	men	men	konj			9	KONJ		hov
+4	det	det	pron		nøyt|eint|pers|3	5	SUBJ		led
+5	er	være	verb		pres	9	REP		led
+6	på	på	prep			5	SPRED		led
+7	e	e	nol			8	FYLL		hov
+8	det	det	pron		nøyt|eint|pers|3	9	SUBJ		hov
+9	er	være	verb		pres	0	FINV		hov
+10	Sørli	Sørli	subst		prop	9	SPRED		hov
+11	sant	sann	adj		nøyt|eint|ub|pos	9	ADV		hov
+12	?	?	clb			9	IP		hov
 
-# text = ja r0t
+# text = ja
 # segstart = 260.997
 # segstop = 261.45
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 85
-# annotator = SR
-1	ja	ja	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
 
-# text = ja # så det er et stykke unna ? r0t
+# text = ja # så det er et stykke unna ?
 # segstart = 261.45
 # segstop = 263.286
 # file = lierne_01um-ta
 # speaker = ta
 # id = 86
-# annotator = SR
-1	ja	ja	interj	_	_	5	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	så	så	konj	_	_	5	KONJ	_	_
-4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
-5	er	være	verb	_	pres	10	FINV	_	_
-6	et	et	det	_	nøyt|ent|kvant	7	DET	_	_
-7	stykke	stykke	subst	_	ub|nøyt|ent|appell	5	SPRED	_	_
-8	unna	unna	prep	_	_	7	ATR	_	_
-9	?	?	clb	_	_	5	IP	_	_
-10	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			5	INTERJ		hov
+2	#	#	pause			3	IK		hov
+3	så	så	konj			5	KONJ		hov
+4	det	det	pron		nøyt|eint|pers|3	5	SUBJ		hov
+5	er	være	verb		pres	0	FINV		hov
+6	et	et	det		nøyt|eint|kvant	7	DET		hov
+7	stykke	stykke	subst		nøyt|eint|appell|ub	5	SPRED		hov
+8	unna	unna	prep			7	ATR		hov
+9	?	?	clb			5	IP		hov
 
-# text = ja halvtime kjøring r0t
+# text = ja halvtime kjøring
 # segstart = 263.286
 # segstop = 264.669
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 87
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	halvtime	halvtime	subst	_	ub|mask|ent|appell	3	DET	_	_
-3	kjøring	kjøring	subst	_	ub|fem|ent|appell	1	ADV	_	_
-4	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
+2	halvtime	halvtime	subst		mask|eint|appell|ub	3	DET		hov
+3	kjøring	kjøring	subst		fem|eint|appell|ub	1	ADV		hov
 
-# text = ja er det farer dere noe til Sverige på e # e liksom på fritida eller på handling eller noe slikt ? r0t
+# text = ja er det farer dere noe til Sverige på e # e liksom på fritida eller på handling eller noe slikt ?
 # segstart = 264.669
 # segstop = 271.824
 # file = lierne_01um-ta
 # speaker = ta
 # id = 88
-# annotator = SR
-1	ja	ja	interj	_	_	4	INTERJ	_	_
-2	er	være	verb	_	pres	4	REP	_	_
-3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
-4	farer	fare	verb	_	inf	23	FINV	_	_
-5	dere	dere	pron	_	nom|2|fl|hum	4	SUBJ	_	_
-6	noe	noe	det	_	nøyt|ent|kvant	4	ADV	_	_
-7	til	til	prep	_	_	4	ADV	_	_
-8	Sverige	Sverige	subst	_	prop	7	PUTFYLL	_	_
-9	på	på	prep	_	_	13	REP	_	_
-10	e	e	nol	_	_	13	FYLL	_	_
-11	#	#	pause	_	_	13	IK	_	_
-12	e	e	nol	_	_	13	FYLL	_	_
-13	liksom	liksom	adv	_	_	4	ADV	_	_
-14	på	på	prep	_	_	4	ADV	_	_
-15	fritida	fritid	subst	_	be|fem|ent|appell	14	PUTFYLL	_	_
-16	eller	eller	konj	_	_	17	KONJ	_	_
-17	på	på	prep	_	_	14	KOORD	_	_
-18	handling	handling	subst	_	ub|fem|ent|appell	17	PUTFYLL	_	_
-19	eller	eller	konj	_	_	21	KONJ	_	_
-20	noe	noe	det	_	nøyt|ent|kvant	21	DET	_	_
-21	slikt	slikt	det	_	nøyt|ent|dem	18	KOORD	_	_
-22	?	?	clb	_	_	4	IP	_	_
-23	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			4	INTERJ		hov
+2	er	være	verb		pres	4	REP		led
+3	det	det	pron		nøyt|eint|pers|3	2	FSUBJ		led
+4	farer	fare	verb		inf	0	FINV		hov
+5	dere	dere	pron		fl|2|nom	4	SUBJ		hov
+6	noe	noe	det		nøyt|eint|kvant	4	ADV		hov
+7	til	til	prep			4	ADV		hov
+8	Sverige	Sverige	subst		prop	7	PUTFYLL		hov
+9	på	på	prep			13	REP		hov
+10	e	e	nol			13	FYLL		hov
+11	#	#	pause			13	IK		hov
+12	e	e	nol			13	FYLL		hov
+13	liksom	liksom	adv			4	ADV		hov
+14	på	på	prep			4	ADV		hov
+15	fritida	fritid	subst		fem|eint|appell|bu	14	PUTFYLL		hov
+16	eller	eller	konj			17	KONJ		hov
+17	på	på	prep			14	KOORD		hov
+18	handling	handling	subst		fem|eint|appell|ub	17	PUTFYLL		hov
+19	eller	eller	konj			21	KONJ		hov
+20	noe	noe	det		nøyt|eint|kvant	21	DET		hov
+21	slikt	slikt	det		nøyt|eint|dem	18	KOORD		hov
+22	?	?	clb			4	IP		hov
 
-# text = * r0t
+# text = *
 # segstart = 264.669
 # segstop = 271.824
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 89
-# annotator = SR
-1	*	*	pause	_	_	2	IP	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			0	IP		hov
 
-# text = ja det er jo bare en halvtime kjøring det òg så r0t
+# text = ja det er jo bare en halvtime kjøring det òg så
 # segstart = 271.824
 # segstop = 273.827
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 90
-# annotator = SR
-1	ja	ja	interj	_	_	3	INTERJ	_	_
-2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
-3	er	være	verb	_	pres	12	FINV	_	_
-4	jo	jo	adv	_	_	3	ADV	_	_
-5	bare	bare	adv	_	_	3	ADV	_	_
-6	en	en	det	_	mask|ent|kvant	7	DET	_	_
-7	halvtime	halvtime	subst	_	ub|mask|ent|appell	8	DET	_	_
-8	kjøring	kjøring	subst	_	ub|fem|ent|appell	3	SPRED	_	_
-9	det	det	pron	_	nøyt|3|ent|pers	2	APP	_	_
-10	òg	òg	adv	_	_	9	ATR	_	_
-11	så	så	konj	_	_	3	KONJ	_	_
-12	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			3	INTERJ		hov
+2	det	det	pron		nøyt|eint|pers|3	3	SUBJ		hov
+3	er	være	verb		pres	0	FINV		hov
+4	jo	jo	adv			3	ADV		hov
+5	bare	bare	adv			3	ADV		hov
+6	en	en	det		mask|eint|kvant	7	DET		hov
+7	halvtime	halvtime	subst		mask|eint|appell|ub	8	DET		hov
+8	kjøring	kjøring	subst		fem|eint|appell|ub	3	SPRED		hov
+9	det	det	pron		nøyt|eint|pers|3	2	APP		hov
+10	òg	òg	adv			9	ATR		hov
+11	så	så	konj			3	KONJ		hov
 
-# text = ja vel # akkurat # er det e kjenner er det noe ungdommer på andre siden av grensa som er # så er det liksom vanlig å være sammen på en måte ? root
+# text = ja vel # akkurat # er det e kjenner er det noe ungdommer på andre siden av grensa som er # så er det liksom vanlig å være sammen på en måte ?
 # segstart = 273.827
 # segstop = 283.843
 # file = lierne_01um-ta
 # speaker = ta
 # id = 91
-# annotator = SR
-1	ja	ja	interj	_	_	10	INTERJ	_	_
-2	vel	vel	adv	_	_	1	ADV	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	akkurat	akkurat	adv	_	_	1	ADV	_	_
-5	#	#	pause	_	_	6	IK	_	_
-6	er	være	verb	_	pres	10	REP	_	_
-7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
-8	e	e	nol	_	_	9	FYLL	_	_
-9	kjenner	kjenne	verb	_	pres	10	REP	_	_
-10	er	være	verb	_	pres	34	FINV	_	_
-11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
-12	noe	noen	det	_	nøyt|ent|kvant	13	DET	_	_
-13	ungdommer	ungdom	subst	_	ub|mask|fl|appell	10	PSUBJ	_	_
-14	på	på	prep	_	_	10	ADV	_	_
-15	andre	annen	det	_	fl|dem	16	DET	_	_
-16	siden	side	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
-17	av	av	prep	_	_	16	ATR	_	_
-18	grensa	grense	subst	_	be|fem|ent|appell	17	PUTFYLL	_	_
-19	som	som	sbu	_	_	20	SBU	_	_
-20	er	være	verb	_	pres	13	SLETT	_	_
-21	#	#	pause	_	_	22	IK	_	_
-22	så	så	konj	_	_	23	KONJ	_	_
-23	er	være	verb	_	pres	10	KOORD	_	_
-24	det	det	pron	_	nøyt|3|ent|pers	23	FSUBJ	_	_
-25	liksom	liksom	adv	_	_	23	ADV	_	_
-26	vanlig	vanlig	adj	_	ub|pos|nøyt|ent	23	SPRED	_	_
-27	å	å	inf-merke	_	_	23	PSUBJ	_	_
-28	være	være	verb	_	inf	27	INFV	_	_
-29	sammen	sammen	adv	_	_	28	SPRED	_	_
-30	på	på	prep	_	_	28	ADV	_	_
-31	en	en	det	_	mask|ent|kvant	32	DET	_	_
-32	måte	måte	subst	_	ub|mask|ent|appell	30	PUTFYLL	_	_
-33	?	$?	clb	_	_	10	IP	_	_
-34	root	_	_	_	_	0	root	_	_
+1	ja	ja	interj			10	INTERJ		hov
+2	vel	vel	adv			1	ADV		hov
+3	#	#	pause			4	IK		hov
+4	akkurat	akkurat	adv			1	ADV		hov
+5	#	#	pause			6	IK		led
+6	er	være	verb		pres	10	REP		led
+7	det	det	pron		nøyt|eint|pers|3	6	FSUBJ		led
+8	e	e	nol			9	FYLL		led
+9	kjenner	kjenne	verb		pres	10	REP		led
+10	er	være	verb		pres	0	FINV		hov
+11	det	det	pron		nøyt|eint|pers|3	10	FSUBJ		hov
+12	noe	noen	det		nøyt|eint|kvant	13	DET		hov
+13	ungdommer	ungdom	subst		mask|fl|appell|ub	10	PSUBJ		hov
+14	på	på	prep			10	ADV		hov
+15	andre	annen	det		fl|dem	16	DET		hov
+16	siden	side	subst		mask|eint|appell|bu	14	PUTFYLL		hov
+17	av	av	prep			16	ATR		hov
+18	grensa	grense	subst		fem|eint|appell|bu	17	PUTFYLL		hov
+19	som	som	sbu			20	SBU		led
+20	er	være	verb		pres	13	SLETT		led
+21	#	#	pause			22	IK		hov
+22	så	så	konj			23	KONJ		hov
+23	er	være	verb		pres	10	KOORD		hov
+24	det	det	pron		nøyt|eint|pers|3	23	FSUBJ		hov
+25	liksom	liksom	adv			23	ADV		hov
+26	vanlig	vanlig	adj		nøyt|eint|ub|pos	23	SPRED		hov
+27	å	å	inf-merke			23	PSUBJ		hov
+28	være	være	verb		inf	27	INFV		inf
+29	sammen	sammen	adv			28	SPRED		inf
+30	på	på	prep			28	ADV		inf
+31	en	en	det		mask|eint|kvant	32	DET		inf
+32	måte	måte	subst		mask|eint|appell|ub	30	PUTFYLL		inf
+33	?	$?	clb			10	IP		hov
 
-# text = * mm * ja r0t
+# text = * mm * ja
 # segstart = 273.827
 # segstop = 283.843
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 92
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	5	INTERJ	_	_
-3	*	*	pause	_	_	4	IK	_	_
-4	ja	ja	interj	_	_	2	INTERJ	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
+3	*	*	pause			4	IK		hov
+4	ja	ja	interj			2	INTERJ		hov
 
-# text = ja # mm mm ## spiller jo # e # har jo med dem e på fotballaget vårt r0t
+# text = ja # mm mm ## spiller jo # e # har jo med dem e på fotballaget vårt
 # segstart = 283.843
 # segstop = 292.953
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 93
-# annotator = SR
-1	ja	ja	interj	_	_	6	INTERJ	_	_
-2	#	#	pause	_	_	3	IK	_	_
-3	mm	mm	interj	_	_	1	INTERJ	_	_
-4	mm	mm	interj	_	_	1	INTERJ	_	_
-5	##	##	pause	_	_	6	IK	_	_
-6	spiller	spille	verb	_	pres	11	REP	_	_
-7	jo	jo	adv	_	_	6	ADV	_	_
-8	#	#	pause	_	_	11	IK	_	_
-9	e	e	nol	_	_	11	FYLL	_	_
-10	#	#	pause	_	_	11	IK	_	_
-11	har	ha	verb	_	pres	19	FINV	_	_
-12	jo	jo	adv	_	_	11	ADV	_	_
-13	med	med	prep	_	_	11	ADV	_	_
-14	dem	dem	pron	_	akk|3|fl|pers	13	PUTFYLL	_	_
-15	e	e	nol	_	_	16	FYLL	_	_
-16	på	på	prep	_	_	11	ADV	_	_
-17	fotballaget	fotballaget	subst	_	be|nøyt|ent|appell	16	PUTFYLL	_	_
-18	vårt	vårt	det	_	nøyt|ent|poss	17	DET	_	_
-19	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			6	INTERJ		led
+2	#	#	pause			3	IK		led
+3	mm	mm	interj			1	INTERJ		led
+4	mm	mm	interj			1	INTERJ		led
+5	##	##	pause			6	IK		led
+6	spiller	spille	verb		pres	11	REP		led
+7	jo	jo	adv			6	ADV		led
+8	#	#	pause			11	IK		hov
+9	e	e	nol			11	FYLL		hov
+10	#	#	pause			11	IK		hov
+11	har	ha	verb		pres	0	FINV		hov
+12	jo	jo	adv			11	ADV		hov
+13	med	med	prep			11	ADV		hov
+14	dem	dem	pron		fl|pers|3|akk	13	PUTFYLL		hov
+15	e	e	nol			16	FYLL		hov
+16	på	på	prep			11	ADV		hov
+17	fotballaget	fotballaget	subst		nøyt|eint|appell|bu	16	PUTFYLL		hov
+18	vårt	vårt	det		nøyt|eint|poss	17	DET		hov
 
-# text = å ja # ja vel # så det er et svensk-norsk fotballag altså ? root
+# text = å ja # ja vel # så det er et svensk-norsk fotballag altså ?
 # segstart = 292.953
 # segstop = 296.292
 # file = lierne_01um-ta
 # speaker = ta
 # id = 94
-# annotator = SR
-1	å	å	interj	_	_	9	INTERJ	_	_
-2	ja	ja	interj	_	_	1	INTERJ	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	ja	ja	interj	_	_	9	INTERJ	_	_
-5	vel	vel	adv	_	_	4	ADV	_	_
-6	#	#	pause	_	_	7	IK	_	_
-7	så	så	konj	_	_	9	KONJ	_	_
-8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
-9	er	være	verb	_	pres	15	FINV	_	_
-10	et	en	det	_	nøyt|ent|kvant	12	DET	_	_
-11	svensk-norsk	svensk-norsk	adj	_	ub|pos|nøyt|ent	12	ATR	_	_
-12	fotballag	fotballag	subst	_	ub|nøyt|ent|appell	9	SPRED	_	_
-13	altså	altså	adv	_	_	9	ADV	_	_
-14	?	$?	clb	_	_	9	IP	_	_
-15	root	_	_	_	_	0	root	_	_
+1	å	å	interj			9	INTERJ		hov
+2	ja	ja	interj			1	INTERJ		hov
+3	#	#	pause			4	IK		hov
+4	ja	ja	interj			9	INTERJ		hov
+5	vel	vel	adv			4	ADV		hov
+6	#	#	pause			7	IK		hov
+7	så	så	konj			9	KONJ		hov
+8	det	det	pron		nøyt|eint|pers|3	9	SUBJ		hov
+9	er	være	verb		pres	0	FINV		hov
+10	et	en	det		nøyt|eint|kvant	12	DET		hov
+11	svensk-norsk	svensk-norsk	adj		nøyt|eint|ub|pos	12	ATR		hov
+12	fotballag	fotballag	subst		nøyt|eint|appell|ub	9	SPRED		hov
+13	altså	altså	adv			9	ADV		hov
+14	?	$?	clb			9	IP		hov
 
-# text = * mm * ja r0t
+# text = * mm * ja
 # segstart = 292.953
 # segstop = 296.292
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 95
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	mm	mm	interj	_	_	5	INTERJ	_	_
-3	*	*	pause	_	_	4	IK	_	_
-4	ja	ja	interj	_	_	2	INTERJ	_	_
-5	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	mm	mm	interj			0	INTERJ		hov
+3	*	*	pause			4	IK		hov
+4	ja	ja	interj			2	INTERJ		hov
 
-# text = ja vel # akkurat # ja # ja # nei men du skal vel rekke bussen ? root
+# text = ja vel # akkurat # ja # ja # nei men du skal vel rekke bussen ?
 # segstart = 296.292
 # segstop = 300.574
 # file = lierne_01um-ta
 # speaker = ta
 # id = 96
-# annotator = SR
-1	ja	ja	interj	_	_	13	INTERJ	_	_
-2	vel	vel	adv	_	_	1	ADV	_	_
-3	#	#	pause	_	_	4	IK	_	_
-4	akkurat	akkurat	adv	_	_	6	ADV	_	_
-5	#	#	pause	_	_	6	IK	_	_
-6	ja	ja	interj	_	_	13	INTERJ	_	_
-7	#	#	pause	_	_	8	IK	_	_
-8	ja	ja	interj	_	_	6	INTERJ	_	_
-9	#	#	pause	_	_	10	IK	_	_
-10	nei	nei	interj	_	_	6	INTERJ	_	_
-11	men	men	konj	_	_	13	KONJ	_	_
-12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
-13	skal	skulle	verb	_	pres	18	FINV	_	_
-14	vel	vel	adv	_	_	15	ADV	_	_
-15	rekke	rekke	verb	_	inf	13	INFV	_	_
-16	bussen	buss	subst	_	be|mask|ent|appell	15	DOBJ	_	_
-17	?	$?	clb	_	_	13	IP	_	_
-18	root	_	_	_	_	0	root	_	_
+1	ja	ja	interj			13	INTERJ		hov
+2	vel	vel	adv			1	ADV		hov
+3	#	#	pause			4	IK		hov
+4	akkurat	akkurat	adv			6	ADV		hov
+5	#	#	pause			6	IK		hov
+6	ja	ja	interj			13	INTERJ		hov
+7	#	#	pause			8	IK		hov
+8	ja	ja	interj			6	INTERJ		hov
+9	#	#	pause			10	IK		hov
+10	nei	nei	interj			6	INTERJ		hov
+11	men	men	konj			13	KONJ		hov
+12	du	du	pron		eint|2|nom	13	SUBJ		hov
+13	skal	skulle	verb		pres	0	FINV		hov
+14	vel	vel	adv			15	ADV		hov
+15	rekke	rekke	verb		inf	13	INFV		hov
+16	bussen	buss	subst		mask|eint|appell|bu	15	DOBJ		hov
+17	?	$?	clb			13	IP		hov
 
-# text = ja r0t
+# text = ja
 # segstart = 300.574
 # segstop = 301.126
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 97
-# annotator = SR
-1	ja	ja	interj	_	_	2	INTERJ	_	_
-2	r0t	_	_	_	_	0	root	_	_
+1	ja	ja	interj			0	INTERJ		hov
 
-# text = så den går om ett minutt # _laughter_ tusen takk r0t
+# text = så den går om ett minutt # _laughter_ tusen takk
 # segstart = 301.126
 # segstop = 304.104
 # file = lierne_01um-ta
 # speaker = ta
 # id = 98
-# annotator = SR
-1	så	så	konj	_	_	3	KONJ	_	_
-2	den	den	pron	_	fem|3|ent|pers	3	SUBJ	_	_
-3	går	gå	verb	_	pres	11	FINV	_	_
-4	om	om	prep	_	_	3	ADV	_	_
-5	ett	ett	det	_	nøyt|ent|kvant	6	DET	_	_
-6	minutt	minutt	subst	_	ub|nøyt|ent|appell	4	PUTFYLL	_	_
-7	#	#	pause	_	_	9	IK	_	_
-8	_laughter_	_laughter_	pause	_	_	9	FYLL	_	_
-9	tusen	tusen	det	_	fl|kvant	10	DET	_	_
-10	takk	takk	subst	_	ub|mask|fl|appell	3	KOORD	_	_
-11	r0t	_	_	_	_	0	root	_	_
+1	så	så	konj			3	KONJ		hov
+2	den	den	pron		fem|eint|pers|3	3	SUBJ		hov
+3	går	gå	verb		pres	0	FINV		hov
+4	om	om	prep			3	ADV		hov
+5	ett	ett	det		nøyt|eint|kvant	6	DET		hov
+6	minutt	minutt	subst		nøyt|eint|appell|ub	4	PUTFYLL		hov
+7	#	#	pause			9	IK		hov
+8	_laughter_	_laughter_	pause			9	FYLL		hov
+9	tusen	tusen	det		fl|kvant	10	DET		hov
+10	takk	takk	subst		mask|fl|appell|ub	3	KOORD		hov
 
-# text = * jo r0t
+# text = * jo
 # segstart = 301.126
 # segstop = 304.104
 # file = lierne_01um-ta
 # speaker = lierne_01um
 # id = 99
-# annotator = SR
-1	*	*	pause	_	_	2	IK	_	_
-2	jo	jo	interj	_	_	3	INTERJ	_	_
-3	r0t	_	_	_	_	0	root	_	_
+1	*	*	pause			2	IK		hov
+2	jo	jo	interj			0	INTERJ		hov
 

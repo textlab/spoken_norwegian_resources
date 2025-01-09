@@ -1,0 +1,3684 @@
+# text = _draws-breath_ der der som hun F1 kommer ifra ⸮
+# segstart = 169.209
+# segstop = 172.571
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 47
+# annotator = VDT, SR
+1	_draws-breath_	_draws-breath_	pause	_	_	2	FYLL	_	_
+2	der	der	verb	_	_	3	REP	_	_
+3	der	der	prep	_	_	7	ADV	_	_
+4	som	som	sbu	_	_	7	SBU	_	_
+5	hun	hun	pron	_	nom|fem|3|ent|hum	6	DET	_	_
+6	F1	F	subst	_	prop	7	SUBJ	_	_
+7	kommer	komme	verb	_	pres	9	FINV	_	_
+8	ifra	ifra	prep	_	_	7	ADV	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # e det første spørsmålet er da e kan du fortelle litt om plassen du er oppvokst ? # som da er Flå da r0t
+# segstart = 0
+# segstop = 6.725
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 1
+# annotator = SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	e	e	nol	_	_	4	FYLL	_	_
+4	det	det	det	_	nøyt|ent|dem	6	DET	_	_
+5	første	første	adj	_	be|pos|ent	6	ATR	_	_
+6	spørsmålet	spørsmål	subst	_	be|nøyt|ent|appell	7	SUBJ	_	_
+7	er	være	verb	_	pres	26	FINV	_	_
+8	da	da	adv	_	_	7	ADV	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	kan	kunne	verb	_	pres	7	SPRED	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	fortelle	fortelle	verb	_	inf	10	INFV	_	_
+13	litt	litt	adj	_	ub|pos|nøyt|ent	12	DOBJ	_	_
+14	om	om	prep	_	_	12	ADV	_	_
+15	plassen	plass	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	er	være	verb	_	pres	15	ATR	_	_
+18	oppvokst	oppvokse	verb	_	perf-part	17	INFV	_	_
+19	?	?	clb	_	_	10	IP	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	som	som	sbu	_	_	23	SBU	_	_
+22	da	da	adv	_	_	23	ADV	_	_
+23	er	være	verb	_	pres	15	ATR	_	_
+24	Flå	Flå	subst	_	prop	23	SPRED	_	_
+25	da	da	adv	_	_	23	ADV	_	_
+26	r0t	_	_	_	_	0	root	_	_
+
+# text = ja den e plassen det var en liten husmannsplass # bortafor den gamle Flå bygdeheim r0t
+# segstart = 6.725
+# segstop = 14.738
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 2
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	den	den	det	_	mask|ent|dem	4	DET	_	_
+3	e	e	nol	_	_	4	FYLL	_	_
+4	plassen	plass	subst	_	be|mask|ent|appell	5	APP	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
+6	var	være	verb	_	pret	16	FINV	_	_
+7	en	en	det	_	mask|ent|kvant	9	DET	_	_
+8	liten	liten	adj	_	ub|pos|m/f|ent	9	ATR	_	_
+9	husmannsplass	husmannsplass	subst	_	ub|mask|ent|samset	6	SPRED	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	bortafor	bortafor	prep	_	_	9	ATR	_	_
+12	den	den	det	_	mask|ent|dem	14	DET	_	_
+13	gamle	gammel	adj	_	be|pos|ent	14	ATR	_	_
+14	Flå	Flå	subst	_	prop	11	PUTFYLL	_	_
+15	bygdeheim	bygdeheim	subst	_	ub|mask|ent|appell	14	FLAT	_	_
+16	r0t	_	_	_	_	0	root	_	_
+
+# text = der har jeg vokst opp # i alle vært i alle år da # like til # var ute i arbeidslivet root
+# segstart = 14.738
+# segstop = 21.02
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 3
+# annotator = SR
+1	der	der	prep	_	_	2	ADV	_	_
+2	har	ha	verb	_	pres	22	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	vokst	vokse	verb	_	perf-part	2	INFV	_	_
+5	opp	opp	prep	_	_	4	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	i	i	prep	_	_	9	REP	_	_
+8	alle	all	det	_	fl|kvant	7	PUTFYLL	_	_
+9	vært	være	verb	_	perf-part	4	KOORD	_	_
+10	i	i	prep	_	_	9	ADV	_	_
+11	alle	all	det	_	fl|kvant	12	DET	_	_
+12	år	år	subst	_	ub|nøyt|fl|appell	10	PUTFYLL	_	_
+13	da	da	adv	_	_	9	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	like	like	adv	_	_	16	ADV	_	_
+16	til	til	prep	_	_	18	ADV	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	var	være	verb	_	pret	2	KOORD	_	_
+19	ute	ute	prep	_	_	18	SPRED	_	_
+20	i	i	prep	_	_	19	PUTFYLL	_	_
+21	arbeidslivet	arbeidsliv	subst	_	be|nøyt|ent|appell	20	PUTFYLL	_	_
+22	root	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 21.02
+# segstop = 21.64
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 4
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # og f- vokst opp i en søskenflokk på ti r0t
+# segstart = 21.64
+# segstop = 26.338
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 5
+# annotator = SR
+1	ja	ja	interj	_	_	12	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	5	KONJ	_	_
+4	f-	f-	ufullst	_	_	5	FYLL	_	_
+5	vokst	vokse	verb	_	perf-part	1	ADV	_	_
+6	opp	opp	prep	_	_	5	ADV	_	_
+7	i	i	prep	_	_	5	ADV	_	_
+8	en	en	det	_	mask|ent|kvant	9	DET	_	_
+9	søskenflokk	søskenflokk	subst	_	ub|mask|ent|samset	7	PUTFYLL	_	_
+10	på	på	prep	_	_	9	ATR	_	_
+11	ti	ti	det	_	fl|kvant	10	PUTFYLL	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = oi det var solid r0t
+# segstart = 26.338
+# segstop = 27.697
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 6
+# annotator = SR
+1	oi	oie	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	5	FINV	_	_
+4	solid	solid	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # ja r0t
+# segstart = 27.697
+# segstop = 28.914
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 7
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = var det bra eller ? r0t
+# segstart = 28.914
+# segstop = 29.749
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 8
+# annotator = SR
+1	var	være	verb	_	pret	6	FINV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	SUBJ	_	_
+3	bra	bra	adj	_	ub|pos|nøyt|ent	1	SPRED	_	_
+4	eller	eller	konj	_	_	1	KONJ	_	_
+5	?	?	clb	_	_	1	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det var det men det var det når vi var var små da så da var de som var eldst de var ute i arbeidslivet så # ja r0t
+# segstart = 29.749
+# segstop = 38.416
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 9
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	30	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
+5	men	men	konj	_	_	7	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+7	var	være	verb	_	pret	3	KOORD	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	7	SPRED	_	_
+9	når	når	sbu	_	_	12	SBU	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+11	var	være	verb	_	pret	12	REP	_	_
+12	var	være	verb	_	pret	7	ADV	_	_
+13	små	små	adj	_	pos|fl	12	SPRED	_	_
+14	da	da	adv	_	_	12	ADV	_	_
+15	så	så	konj	_	_	23	KONJ	_	_
+16	da	da	adv	_	_	17	ADV	_	_
+17	var	være	verb	_	pret	23	REP	_	_
+18	de	de	pron	_	nom|2|fl|hum	22	SUBJ	_	_
+19	som	som	sbu	_	_	20	SBU	_	_
+20	var	være	verb	_	pret	18	ATR	_	_
+21	eldst	gammel	adj	_	ub|sup	20	SPRED	_	_
+22	de	de	pron	_	nom|2|fl|hum	23	SUBJ	_	_
+23	var	være	verb	_	pret	3	KOORD	_	_
+24	ute	ute	prep	_	_	23	SPRED	_	_
+25	i	i	prep	_	_	24	PUTFYLL	_	_
+26	arbeidslivet	arbeidsliv	subst	_	be|nøyt|ent|appell	25	PUTFYLL	_	_
+27	så	så	konj	_	_	23	KONJ	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	ja	ja	interj	_	_	23	INTERJ	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = så dere hadde litt stor spredning i søskenflokken ? r0t
+# segstart = 38.416
+# segstop = 40.515
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 10
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	dere	dere	pron	_	nom|2|fl|hum	3	SUBJ	_	_
+3	hadde	ha	verb	_	pret	10	FINV	_	_
+4	litt	litt	adj	_	ub|pos|nøyt|ent	5	ADV	_	_
+5	stor	stor	adj	_	ub|pos|m/f|ent	6	ATR	_	_
+6	spredning	spredning	subst	_	ub|fem|ent|appell	3	DOBJ	_	_
+7	i	i	prep	_	_	3	ADV	_	_
+8	søskenflokken	søskenflokk	subst	_	be|mask|ent|samset	7	PUTFYLL	_	_
+9	?	?	clb	_	_	3	IP	_	_
+10	r0t	_	_	_	_	0	root	_	_
+
+# text = * s- * r0t
+# segstart = 38.416
+# segstop = 40.515
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 11
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	s-	s-	ufullst	_	_	4	FRAG	_	_
+3	*	*	pause	_	_	2	IK	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja # ja # men e r0t
+# segstart = 40.515
+# segstop = 43.496
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 12
+# annotator = SR
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	4	ADV	_	_
+7	e	e	nol	_	_	6	FYLL	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = e åssen var det da du var lita var det slik em # når du ikke var på skolen måtte du hjelpe mye til hjemme ? r0t
+# segstart = 43.496
+# segstop = 49.839
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 13
+# annotator = SR
+1	e	e	nol	_	_	2	FYLL	_	_
+2	åssen	åssen	adv	_	_	3	SPRED	_	_
+3	var	være	verb	_	pret	27	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	da	da	adv	_	_	7	SBU	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	var	være	verb	_	pret	3	ADV	_	_
+8	lita	lite	adj	_	ub|pos|fem|ent	7	SPRED	_	_
+9	var	være	verb	_	pret	17	REP	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	9	FSUBJ	_	_
+11	slik	slik	adv	_	_	9	SPRED	_	_
+12	em	em	nol	_	_	14	FYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	når	når	sbu	_	_	17	SBU	_	_
+15	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+16	ikke	ikke	adv	_	_	17	ADV	_	_
+17	var	være	verb	_	pret	20	ADV	_	_
+18	på	på	prep	_	_	17	SPRED	_	_
+19	skolen	skole	subst	_	be|mask|ent|appell	18	PUTFYLL	_	_
+20	måtte	måtte	verb	_	pret	3	KOORD	_	_
+21	du	du	pron	_	nom|2|ent|hum	20	SUBJ	_	_
+22	hjelpe	hjelpe	verb	_	inf	20	INFV	_	_
+23	mye	mye	adj	_	ub|pos|nøyt|ent	22	ADV	_	_
+24	til	til	prep	_	_	22	ADV	_	_
+25	hjemme	hjemme	prep	_	_	24	PUTFYLL	_	_
+26	?	?	clb	_	_	3	IP	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = * å ja r0t
+# segstart = 43.496
+# segstop = 49.839
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 14
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	å	å	interj	_	_	4	INTERJ	_	_
+3	ja	ja	interj	_	_	2	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = m r0t
+# segstart = 49.839
+# segstop = 50.173
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 15
+# annotator = SR
+1	m	m	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = å ja vi gjorde forskjellig # ja da # vi vi ja vi hadde en bror da så hadde jeg ei ei søster som er ett og et halvt år eldre enn jeg r0t
+# segstart = 50.173
+# segstop = 58.878
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 16
+# annotator = SR
+1	å	å	interj	_	_	4	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	gjorde	gjøre	verb	_	pret	34	KOORD	_	_
+5	forskjellig	forskjellig	adj	_	ub|pos|m/f|ent	4	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	ja	ja	interj	_	_	14	INTERJ	_	_
+8	da	da	adv	_	_	7	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	11	REP	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	14	REP	_	_
+12	ja	ja	interj	_	_	14	INTERJ	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	14	SUBJ	_	_
+14	hadde	ha	verb	_	pret	4	KOORD	_	_
+15	en	en	det	_	mask|ent|kvant	16	DET	_	_
+16	bror	bror	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
+17	da	da	adv	_	_	14	ADV	_	_
+18	så	så	adv	_	_	19	ADV	_	_
+19	hadde	ha	verb	_	pret	4	KOORD	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	19	SUBJ	_	_
+21	ei	ei	det	_	fem|ent|kvant	22	REP	_	_
+22	ei	ei	det	_	fem|ent|kvant	23	DET	_	_
+23	søster	søster	subst	_	ub|fem|ent|appell	19	DOBJ	_	_
+24	som	som	sbu	_	_	25	SBU	_	_
+25	er	være	verb	_	pres	23	ATR	_	_
+26	ett	én	det	_	nøyt|ent|kvant	31	ADV	_	_
+27	og	og	konj	_	_	30	KONJ	_	_
+28	et	et	det	_	nøyt|ent|kvant	30	DET	_	_
+29	halvt	halv	adj	_	ub|pos|nøyt|ent	30	ATR	_	_
+30	år	år	subst	_	ub|nøyt|ent|appell	26	KOORD	_	_
+31	eldre	gammel	adj	_	komp	25	SPRED	_	_
+32	enn	enn	prep	_	_	31	ADV	_	_
+33	jeg	jeg	pron	_	nom|1|ent|hum	32	PUTFYLL	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = og vi dreiv i skogen og # og hogde ved for han far og drog ned og vi saga det opp og kløyvde det # så vi # vi holdt da vinterveden # faktisk vi det r0t
+# segstart = 58.878
+# segstop = 69.733
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 17
+# annotator = SR
+1	og	og	konj	_	_	3	KONJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	dreiv	drive	verb	_	pret	37	FINV	_	_
+4	i	i	prep	_	_	3	ADV	_	_
+5	skogen	skog	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	og	og	konj	_	_	8	REP	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	og	og	konj	_	_	9	KONJ	_	_
+9	hogde	hogge	verb	_	pret	3	KOORD	_	_
+10	ved	ved	subst	_	ub|mask|ent|appell	9	DOBJ	_	_
+11	for	for	prep	_	_	9	ADV	_	_
+12	han	han	pron	_	nom|mask|3|ent|pers	13	DET	_	_
+13	far	far	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+14	og	og	konj	_	_	15	KONJ	_	_
+15	drog	dra	verb	_	pret	3	KOORD	_	_
+16	ned	ned	prep	_	_	15	ADV	_	_
+17	og	og	konj	_	_	19	KONJ	_	_
+18	vi	vi	pron	_	nom|1|fl|hum	19	SUBJ	_	_
+19	saga	sage	verb	_	pret	3	KOORD	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	19	DOBJ	_	_
+21	opp	opp	prep	_	_	19	ADV	_	_
+22	og	og	konj	_	_	23	KONJ	_	_
+23	kløyvde	kløyve	verb	_	pret	3	KOORD	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	23	DOBJ	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	så	så	konj	_	_	30	KONJ	_	_
+27	vi	vi	pron	_	nom|1|fl|hum	29	REP	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	vi	vi	pron	_	nom|1|fl|hum	30	SUBJ	_	_
+30	holdt	holde	verb	_	pret	3	KOORD	_	_
+31	da	da	adv	_	_	30	ADV	_	_
+32	vinterveden	vintervede	subst	_	be|mask|ent|appell	30	DOBJ	_	_
+33	#	#	pause	_	_	34	IK	_	_
+34	faktisk	faktisk	adj	_	ub|pos|nøyt|ent	30	ADV	_	_
+35	vi	vi	pron	_	nom|1|fl|hum	3	SLETT	_	_
+36	det	det	pron	_	nøyt|3|ent|pers	35	DOBJ	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = for n- da # den tida så gikk vi på skolen annenhver dag # så da hadde vi en dag fri r0t
+# segstart = 69.733
+# segstop = 76.317
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 18
+# annotator = SR
+# SR: Fant eksempel i INESS på en tilsvarende struktur for 'ett år fri', men bør ikke 'en dag' løftes opp til verbet som direkte objekt?
+1	for	for	konj	_	_	8	KONJ	_	_
+2	n-	n-	ufullst	_	_	3	FYLL	_	_
+3	da	da	adv	_	_	7	REP	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	den	den	det	_	fem|ent|dem	6	DET	_	_
+6	tida	tid	subst	_	be|fem|ent|appell	7	APP	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	gikk	gå	verb	_	pret	22	FINV	_	_
+9	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+10	på	på	prep	_	_	8	ADV	_	_
+11	skolen	skole	subst	_	be|mask|ent|appell	10	PUTFYLL	_	_
+12	annenhver	annenhver	det	_	mask|ent|kvant	13	DET	_	_
+13	dag	dag	subst	_	ub|mask|ent|appell	8	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	så	så	konj	_	_	17	KONJ	_	_
+16	da	da	adv	_	_	17	ADV	_	_
+17	hadde	ha	verb	_	pret	8	KOORD	_	_
+18	vi	vi	pron	_	nom|1|fl|hum	17	SUBJ	_	_
+19	en	en	det	_	mask|ent|kvant	20	DET	_	_
+20	dag	dag	subst	_	ub|mask|ent|appell	17	DOBJ	_	_
+21	fri	fri	adj	_	ub|pos|m/f|ent	17	OPRED	_	_
+22	r0t	_	_	_	_	0	root	_	_
+
+# text = og og vi hadde ikke m # _front-click_ i det huset vi budde da vi var små der hadde vi ikke innlagt vann # så vi bar inn vann r0t
+# segstart = 76.317
+# segstop = 86.538
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 19
+# annotator = SR
+1	og	og	konj	_	_	2	REP	_	_
+2	og	og	konj	_	_	4	KONJ	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	hadde	ha	verb	_	pret	30	FINV	_	_
+5	ikke	ikke	adv	_	_	4	ADV	_	_
+6	m	m	nol	_	_	9	FYLL	_	_
+7	#	#	pause	_	_	9	IK	_	_
+8	_front-click_	_front-click_	pause	_	_	9	FYLL	_	_
+9	i	i	prep	_	_	4	ADV	_	_
+10	det	det	det	_	nøyt|ent|dem	11	DET	_	_
+11	huset	hus	subst	_	be|nøyt|ent|appell	9	PUTFYLL	_	_
+12	vi	vi	pron	_	nom|1|fl|hum	13	SUBJ	_	_
+13	budde	bu	verb	_	pret	11	ATR	_	_
+14	da	da	sbu	_	_	16	SBU	_	_
+15	vi	vi	pron	_	nom|1|fl|hum	16	SUBJ	_	_
+16	var	være	verb	_	pret	13	ADV	_	_
+17	små	liten	adj	_	pos|fl	16	SPRED	_	_
+18	der	der	prep	_	_	19	ADV	_	_
+19	hadde	ha	verb	_	pret	4	KOORD	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	19	SUBJ	_	_
+21	ikke	ikke	adv	_	_	19	ADV	_	_
+22	innlagt	innlagt	adj	_	perf-part	23	ATR	_	_
+23	vann	vann	subst	_	ub|nøyt|ent|appell	19	DOBJ	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	så	så	konj	_	_	27	KONJ	_	_
+26	vi	vi	pron	_	nom|1|fl|hum	27	SUBJ	_	_
+27	bar	bære	verb	_	pret	4	KOORD	_	_
+28	inn	inn	prep	_	_	27	ADV	_	_
+29	vann	vann	subst	_	ub|nøyt|ent|appell	27	DOBJ	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = hadde e svære butter stående oppå og bar inn så det var fullt med vann # jo da så vi d- holdt på heile tida det var # men selvsagt så hadde vi tid til leik med da root
+# segstart = 86.538
+# segstop = 97.45
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 20
+# annotator = SR
+1	hadde	ha	verb	_	pret	39	FINV	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	svære	svær	adj	_	pos|fl	4	ATR	_	_
+4	butter	butt	subst	_	ub|mask|fl|appell	1	DOBJ	_	_
+5	stående	stående	adj	_	pres-part	1	OPRED	_	_
+6	oppå	oppå	prep	_	_	5	ADV	_	_
+7	og	og	konj	_	_	8	KONJ	_	_
+8	bar	bære	verb	_	pret	1	KOORD	_	_
+9	inn	inn	prep	_	_	8	ADV	_	_
+10	så	så	konj	_	_	12	KONJ	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+12	var	være	verb	_	pret	1	KOORD	_	_
+13	fullt	full	adj	_	ub|pos|nøyt|ent	12	SPRED	_	_
+14	med	med	prep	_	_	13	ADV	_	_
+15	vann	vann	subst	_	ub|nøyt|ent|appell	14	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	jo	jo	interj	_	_	22	INTERJ	_	_
+18	da	da	adv	_	_	17	ADV	_	_
+19	så	så	konj	_	_	22	KONJ	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	22	SUBJ	_	_
+21	d-	d	ufullst	_	_	22	FYLL	_	_
+22	holdt	holde	verb	_	pret	12	ADV	_	_
+23	på	på	prep	_	_	22	ADV	_	_
+24	heile	heil	adj	_	be|pos|ent	25	ATR	_	_
+25	tida	tid	subst	_	be|fem|ent|appell	22	ADV	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	27	FSUBJ	_	_
+27	var	være	verb	_	pret	32	REP	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	men	men	konj	_	_	32	KONJ	_	_
+30	selvsagt	selvsagt	adj	_	ub|pos|nøyt|ent	31	APP	_	_
+31	så	så	adv	_	_	32	ADV	_	_
+32	hadde	ha	verb	_	pret	1	KOORD	_	_
+33	vi	vi	pron	_	nom|1|fl|hum	32	SUBJ	_	_
+34	tid	tid	subst	_	ub|fem|ent|appell	32	DOBJ	_	_
+35	til	til	prep	_	_	34	ATR	_	_
+36	leik	leik	subst	_	ub|mask|ent|appell	35	PUTFYLL	_	_
+37	med	med	prep	_	_	36	ATR	_	_
+38	da	da	adv	_	_	32	ADV	_	_
+39	root	_	_	_	_	0	root	_	_
+
+# text = ja det var … r0t
+# segstart = 97.45
+# segstop = 98.309
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 21
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	var	være	verb	_	pret	5	FINV	_	_
+4	…	…	pause	_	_	3	IK	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = * og lekser r0t
+# segstart = 97.45
+# segstop = 98.309
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 22
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	og	og	konj	_	_	3	KONJ	_	_
+3	lekser	lekse	subst	_	ub|fem|fl|appell	4	FRAG	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja ja r0t
+# segstart = 98.309
+# segstop = 99.191
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 23
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = litt begge deler r0t
+# segstart = 99.191
+# segstop = 99.978
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 24
+# annotator = SR
+1	litt	litt	adj	_	ub|pos|nøyt|ent	2	ADV	_	_
+2	begge	begge	det	_	fl|kvant	3	DET	_	_
+3	deler	del	subst	_	ub|mask|fl|appell	4	FRAG	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 99.191
+# segstop = 99.978
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 25
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja r0t
+# segstart = 99.978
+# segstop = 100.575
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 26
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = men du fortalte at dere dreiv i skogen dreiv du i skogen altså du som var dame ? r0t
+# segstart = 100.575
+# segstop = 103.999
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 27
+# annotator = SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+3	fortalte	fortelle	verb	_	pret	19	FINV	_	_
+4	at	at	sbu	_	_	6	SBU	_	_
+5	dere	dere	pron	_	nom|2|fl|hum	6	SUBJ	_	_
+6	dreiv	drive	verb	_	pret	3	DOBJ	_	_
+7	i	i	prep	_	_	6	ADV	_	_
+8	skogen	skog	subst	_	be|mask|ent|appell	7	PUTFYLL	_	_
+9	dreiv	dreiv	verb	_	pret	3	KOORD	_	_
+10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+11	i	i	prep	_	_	9	ADV	_	_
+12	skogen	skog	subst	_	be|mask|ent|appell	11	PUTFYLL	_	_
+13	altså	altså	adv	_	_	9	ADV	_	_
+14	du	du	pron	_	nom|2|ent|hum	10	APP	_	_
+15	som	som	sbu	_	_	16	SBU	_	_
+16	var	være	verb	_	pret	14	ATR	_	_
+17	dame	dame	subst	_	ub|fem|ent|appell	16	SPRED	_	_
+18	?	?	clb	_	_	9	IP	_	_
+19	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # vi vi var med og kvista or og og # og bror min hadde en slik en # som han dro på da s- som vi kalte stytting r0t
+# segstart = 103.999
+# segstop = 114.148
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 28
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	REP	_	_
+4	vi	vi	pron	_	nom|1|fl|hum	5	SUBJ	_	_
+5	var	være	verb	_	pret	31	FINV	_	_
+6	med	med	prep	_	_	5	ADV	_	_
+7	og	og	konj	_	_	8	KONJ	_	_
+8	kvista	kviste	verb	_	pret	5	KOORD	_	_
+9	or	or	subst	_	ub|fem|ent|appell	8	DOBJ	_	_
+10	og	og	konj	_	_	11	REP	_	_
+11	og	og	konj	_	_	13	REP	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	og	og	konj	_	_	16	KONJ	_	_
+14	bror	bror	subst	_	ub|mask|ent|appell	16	KOORD	_	_
+15	min	min	det	_	mask|ent|poss	14	DET	_	_
+16	hadde	ha	verb	_	pret	5	KOORD	_	_
+17	en	en	det	_	mask|ent|kvant	19	DET	_	_
+18	slik	slik	det	_	mask|ent|dem	19	DET	_	_
+19	en	en	det	_	mask|ent|kvant	16	DOBJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	som	som	sbu	_	_	23	SBU	_	_
+22	han	han	pron	_	nom|mask|3|ent|pers	23	SUBJ	_	_
+23	dro	dra	verb	_	pret	19	ATR	_	_
+24	på	på	prep	_	_	23	ADV	_	_
+25	da	da	adv	_	_	23	ADV	_	_
+26	s-	s-	ufullst	_	_	27	FYLL	_	_
+27	som	som	sbu	_	_	29	SBU	_	_
+28	vi	vi	pron	_	nom|1|fl|hum	29	SUBJ	_	_
+29	kalte	kalle	verb	_	pret	19	ATR	_	_
+30	stytting	stytting	subst	_	ub|mask|ent|appell	29	DOBJ	_	_
+31	r0t	_	_	_	_	0	root	_	_
+
+# text = og hva er det ? r0t
+# segstart = 114.148
+# segstop = 115.269
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 29
+# annotator = SR
+1	og	og	konj	_	_	3	KONJ	_	_
+2	hva	hva	pron	_	sp	3	SPRED	_	_
+3	er	være	verb	_	pres	6	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+5	?	?	clb	_	_	3	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = det var det var laga av av bjørk e som var var bøyd til så det ble som en kjelke ## to slike og så en slik en tvertover da r0t
+# segstart = 115.269
+# segstop = 126.096
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 30
+# annotator = SR
+# SR: Ville vært fint om vi kunne kikke på 'to slike og så en slik en tvertover da'
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	var	være	verb	_	pret	4	REP	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	var	være	verb	_	pret	31	FINV	_	_
+5	laga	lage	verb	_	perf-part	4	INFV	_	_
+6	av	av	prep	_	_	7	REP	_	_
+7	av	av	prep	_	_	5	ADV	_	_
+8	bjørk	bjørk	subst	_	ub|fem|ent|appell	7	PUTFYLL	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	som	som	sbu	_	_	12	SBU	_	_
+11	var	være	verb	_	pret	12	REP	_	_
+12	var	være	verb	_	pret	8	ATR	_	_
+13	bøyd	bøye	adj	_	_	12	INFV	_	_
+14	til	til	prep	_	_	13	ADV	_	_
+15	så	så	sbu	_	_	17	SBU	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	SUBJ	_	_
+17	ble	bli	verb	_	pret	13	KOORD	_	_
+18	som	som	prep	_	_	17	SPRED	_	_
+19	en	en	det	_	mask|ent|kvant	20	DET	_	_
+20	kjelke	kjelke	subst	_	ub|mask|ent|appell	18	PUTFYLL	_	_
+21	##	##	pause	_	_	22	IK	_	_
+22	to	to	det	_	fl|kvant	23	DET	_	_
+23	slike	slik	det	_	fl|dem	4	KOORD	_	_
+24	og	og	konj	_	_	28	KONJ	_	_
+25	så	så	adv	_	_	28	ADV	_	_
+26	en	en	det	_	mask|ent|kvant	28	DET	_	_
+27	slik	slik	det	_	mask|ent|dem	28	DET	_	_
+28	en	en	det	_	mask|ent|kvant	23	KOORD	_	_
+29	tvertover	tvertover	prep	_	_	28	ATR	_	_
+30	da	da	adv	_	_	28	ADV	_	_
+31	r0t	_	_	_	_	0	root	_	_
+
+# text = så vi la la e vedstokkene oppå der # og snørte til og så og så dro det var han som var hest da veit du r0t
+# segstart = 126.096
+# segstop = 134.302
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 31
+# annotator = SR
+1	så	så	konj	_	_	4	KONJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+3	la	legge	verb	_	pret	4	REP	_	_
+4	la	legge	verb	_	pret	27	FINV	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	vedstokkene	vedstokk	subst	_	be|mask|fl|samset	4	DOBJ	_	_
+7	oppå	oppå	prep	_	_	4	ADV	_	_
+8	der	der	prep	_	_	7	PUTFYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	snørte	snøre	verb	_	pret	4	KOORD	_	_
+12	til	til	prep	_	_	11	ADV	_	_
+13	og	og	konj	_	_	15	REP	_	_
+14	så	så	adv	_	_	16	REP	_	_
+15	og	og	konj	_	_	17	KONJ	_	_
+16	så	så	adv	_	_	17	ADV	_	_
+17	dro	dra	verb	_	pret	4	KOORD	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+19	var	være	verb	_	pret	4	KOORD	_	_
+20	han	han	pron	_	nom|mask|3|ent|pers	19	SPRED	_	_
+21	som	som	sbu	_	_	22	SBU	_	_
+22	var	være	verb	_	pret	20	ATR	_	_
+23	hest	hest	subst	_	ub|mask|ent|appell	22	SPRED	_	_
+24	da	da	adv	_	_	19	ADV	_	_
+25	veit	veit	verb	_	pres	4	PAR	_	_
+26	du	du	pron	_	nom|2|ent|hum	25	SUBJ	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja # sterk han da ? r0t
+# segstart = 134.302
+# segstop = 135.661
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 32
+# annotator = SR
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	sterk	sterk	adj	_	ub|pos|m/f|ent	5	SPRED	_	_
+5	han	han	pron	_	nom|mask|3|ent|pers	2	ADV	_	_
+6	da	da	adv	_	_	5	ADV	_	_
+7	?	?	clb	_	_	1	IP	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 134.302
+# segstop = 135.661
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 33
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja ja r0t
+# segstart = 135.661
+# segstop = 136.973
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 34
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = men så dere så dere kløyvde på en måte veden ute i skogen ? r0t
+# segstart = 136.973
+# segstop = 140.473
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 35
+# annotator = SR
+1	men	men	konj	_	_	6	KONJ	_	_
+2	så	så	konj	_	_	4	REP	_	_
+3	dere	dere	pron	_	nom|2|fl|hum	5	REP	_	_
+4	så	så	konj	_	_	6	KONJ	_	_
+5	dere	dere	pron	_	nom|2|fl|hum	6	SUBJ	_	_
+6	kløyvde	kløyve	verb	_	pret	15	FINV	_	_
+7	på	på	prep	_	_	6	ADV	_	_
+8	en	en	det	_	mask|ent|kvant	9	DET	_	_
+9	måte	måte	subst	_	ub|mask|ent|appell	7	PUTFYLL	_	_
+10	veden	ved	subst	_	be|mask|ent|appell	6	DOBJ	_	_
+11	ute	ute	prep	_	_	6	ADV	_	_
+12	i	i	prep	_	_	11	PUTFYLL	_	_
+13	skogen	skog	subst	_	be|mask|ent|appell	12	PUTFYLL	_	_
+14	?	?	clb	_	_	6	IP	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 136.973
+# segstop = 140.473
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 36
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja vi saga han opp med håndsag # og kløyvde r0t
+# segstart = 140.473
+# segstop = 142.901
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 37
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	saga	sage	verb	_	pret	11	FINV	_	_
+4	han	han	pron	_	akk|mask|3|ent|pers	3	DOBJ	_	_
+5	opp	opp	prep	_	_	3	ADV	_	_
+6	med	med	prep	_	_	3	ADV	_	_
+7	håndsag	håndsag	subst	_	ub|fem|ent|appell	6	PUTFYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	kløyvde	kløyve	verb	_	pret	3	KOORD	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # så der foregikk alt på en plass ja ? r0t
+# segstart = 142.901
+# segstop = 145.072
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 38
+# annotator = SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	konj	_	_	5	KONJ	_	_
+4	der	der	prep	_	_	5	ADV	_	_
+5	foregikk	foregå	verb	_	pret	12	FINV	_	_
+6	alt	alt	det	_	nøyt|ent|kvant	5	SUBJ	_	_
+7	på	på	prep	_	_	5	ADV	_	_
+8	en	en	det	_	mask|ent|kvant	9	DET	_	_
+9	plass	plass	subst	_	ub|mask|ent|appell	7	PUTFYLL	_	_
+10	ja	ja	interj	_	_	5	INTERJ	_	_
+11	?	?	clb	_	_	5	IP	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 142.901
+# segstop = 145.072
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 39
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja ja ja ja r0t
+# segstart = 145.072
+# segstop = 146.695
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 40
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	ja	ja	interj	_	_	1	INTERJ	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 157.632
+# segstop = 161.942
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 44
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 172.571
+# segstop = 174.05
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 49
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 180.856
+# segstop = 184.079
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 54
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = men … * ja * ja r0t
+# segstart = 186.716
+# segstop = 188.787
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 57
+# annotator = SR
+1	men	men	konj	_	_	4	KONJ	_	_
+2	…	…	pause	_	_	4	IK	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	7	INTERJ	_	_
+5	*	*	pause	_	_	6	IK	_	_
+6	ja	ja	interj	_	_	4	INTERJ	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 193.227
+# segstop = 195.464
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 61
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ja ja ja # ja r0t
+# segstart = 195.464
+# segstop = 196.991
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 62
+# annotator = SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	ja	ja	interj	_	_	1	INTERJ	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = * _sniffing_ r0t
+# segstart = 196.991
+# segstop = 206.379
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 64
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_sniffing_	_sniffing_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = _sekvens_med_sensitive_personopplysninger_ r0t
+# segstart = 212.163
+# segstop = 254.517
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 66
+# annotator = SR
+1	_sekvens_med_sensitive_personopplysninger_	_sekvens_med_sensitive_personopplysninger_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * _front-click_ r0t
+# segstart = 259.497
+# segstop = 264.142
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 69
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 273.008
+# segstop = 275.291
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 74
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 285.558
+# segstop = 290.423
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 77
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = _uninterpretable_ … * _front-click_ r0t
+# segstart = 315.083
+# segstop = 317.886
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 83
+# annotator = SR
+1	_uninterpretable_	_uninterpretable_	pause	_	_	5	FYLL	_	_
+2	…	…	pause	_	_	1	IK	_	_
+3	*	*	pause	_	_	1	IK	_	_
+4	_front-click_	_front-click_	pause	_	_	1	FYLL	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 338.282
+# segstop = 341.379
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 90
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 347.474
+# segstop = 349.578
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 93
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ r0t
+# segstart = 357.627
+# segstop = 358.367
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 96
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ r0t
+# segstart = 369.631
+# segstop = 373.898
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 103
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 384.789
+# segstop = 390.125
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 111
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * _sniffing_ * r0t
+# segstart = 390.125
+# segstop = 391.982
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 113
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_sniffing_	_sniffing_	pause	_	_	4	FYLL	_	_
+3	*	*	pause	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 391.982
+# segstop = 394.526
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 115
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * _uninterpretable_ * _front-click_ r0t
+# segstart = 413.536
+# segstop = 415.754
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 123
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_uninterpretable_	_uninterpretable_	pause	_	_	5	FYLL	_	_
+3	*	*	pause	_	_	2	IK	_	_
+4	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = var det det ? mm r0t
+# segstart = 415.969
+# segstop = 416.565
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 125
+# annotator = SR
+1	var	være	verb	_	pret	6	FINV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	1	SPRED	_	_
+4	?	?	clb	_	_	1	IP	_	_
+5	mm	mm	interj	_	_	1	INTERJ	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 446.061
+# segstop = 447.563
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 134
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 510.361
+# segstop = 514.339
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 150
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 518.101
+# segstop = 519.842
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 155
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 543.025
+# segstop = 544.694
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 162
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * e r0t
+# segstart = 554.009
+# segstop = 559.661
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 165
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * _front-click_ ja r0t
+# segstart = 588.744
+# segstop = 592.173
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 173
+# annotator = SR
+1	*	*	pause	_	_	3	IK	_	_
+2	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+3	ja	ja	interj	_	_	4	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 607.633
+# segstop = 609.112
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 180
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * _front-click_ r0t
+# segstart = 611.348
+# segstop = 612.73
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 184
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = så artig ⸮
+# segstart = 146.695
+# segstop = 147.577
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 41
+# annotator = VDT
+1	så	så	adv	_	_	2	ADV	_	_
+2	artig	artig	adj	_	ub|pos|nøyt|ent	3	FRAG	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = jo så vi var veldig det var å å jobbe og stå på det far var borte heile uka # i tømmerhogst og da var det bare å # hjelpe til det ⸮
+# segstart = 147.577
+# segstop = 157.632
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 42
+# annotator = VDT, SR
+# SR: Her føler jeg at 'det å jobbe' og 'det å hjelpe til' kan reanalyseres som en SUBJ / SPRED-relasjon?
+1	jo	jo	interj	_	_	4	INTERJ	_	_
+2	så	så	konj	_	_	4	KONJ	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	var	være	verb	_	pret	7	SLETT	_	_
+5	veldig	veldig	adj	_	ub|pos|nøyt|ent	4	SPRED	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	var	være	verb	_	pret	33	FINV	_	_
+8	å	å	inf-merke	_	_	9	REP	_	_
+9	å	å	inf-merke	_	_	7	SPRED	_	_
+10	jobbe	jobbe	verb	_	inf	9	INFV	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	stå	stå	verb	_	inf	10	KOORD	_	_
+13	på	på	prep	_	_	12	ADV	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	6	APP	_	_
+15	far	far	subst	_	ub|mask|ent|appell	16	SUBJ	_	_
+16	var	være	verb	_	pret	7	KOORD	_	_
+17	borte	borte	prep	_	_	16	SPRED	_	_
+18	heile	heil	adj	_	be|pos|ent	19	ATR	_	_
+19	uka	uke	subst	_	be|fem|ent|appell	16	ADV	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	i	i	prep	_	_	16	ADV	_	_
+22	tømmerhogst	tømmerhogst	subst	_	ub|mask|ent|appell	21	PUTFYLL	_	_
+23	og	og	konj	_	_	25	KONJ	_	_
+24	da	da	adv	_	_	25	ADV	_	_
+25	var	være	verb	_	pret	7	KOORD	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
+27	bare	bare	adv	_	_	25	ADV	_	_
+28	å	å	inf-merke	_	_	25	PSUBJ	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	hjelpe	hjelpe	verb	_	inf	28	INFV	_	_
+31	til	til	prep	_	_	30	ADV	_	_
+32	det	det	pron	_	nøyt|3|ent|pers	26	APP	_	_
+33	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # em # dreiv far din med tømmer var det området rundt her eller ? ⸮
+# segstart = 157.632
+# segstop = 161.942
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 43
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	5	IK	_	_
+3	em	e	nol	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	dreiv	drive	verb	_	pret	17	FINV	_	_
+6	far	far	subst	_	ub|mask|ent|appell	5	SUBJ	_	_
+7	din	din	det	_	mask|ent|poss	6	DET	_	_
+8	med	med	prep	_	_	5	ADV	_	_
+9	tømmer	tømmer	subst	_	ub|nøyt|fl|appell	8	PUTFYLL	_	_
+10	var	være	verb	_	pret	5	KOORD	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	SUBJ	_	_
+12	området	område	subst	_	be|nøyt|ent|appell	10	SPRED	_	_
+13	rundt	rundt	prep	_	_	12	ATR	_	_
+14	her	her	prep	_	_	13	PUTFYLL	_	_
+15	eller	eller	konj	_	_	5	KONJ	_	_
+16	?	$?	clb	_	_	5	IP	_	_
+17	⸮	_	_	_	_	0	root	_	_
+
+# text = ja han hugde hugde tømmer men han lå e # flere vintre som han lå inni Vassfaret # og hugde ⸮
+# segstart = 161.942
+# segstop = 169.209
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 45
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	han	han	pron	_	nom|mask|3|ent|pers	4	SUBJ	_	_
+3	hugde	hugge	verb	_	pres	4	REP	_	_
+4	hugde	hugge	verb	_	pres	21	FINV	_	_
+5	tømmer	tømmer	subst	_	ub|nøyt|fl|appell	4	DOBJ	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	han	han	pron	_	nom|mask|3|ent|pers	8	SUBJ	_	_
+8	lå	ligge	verb	_	pret	4	KOORD	_	_
+9	e	e	nol	_	_	11	FYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	flere	mange	adj	_	komp	12	ATR	_	_
+12	vintre	vinter	subst	_	ub|mask|fl|appell	8	DOBJ	_	_
+13	som	som	sbu	_	_	15	SBU	_	_
+14	han	han	pron	_	nom|mask|3|ent|pers	15	SUBJ	_	_
+15	lå	ligge	verb	_	pret	12	ATR	_	_
+16	inni	inni	prep	_	_	15	ADV	_	_
+17	Vassfaret	Vassfaret	subst	_	prop	16	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	og	og	konj	_	_	20	KONJ	_	_
+20	hugde	hugge	verb	_	_	15	KOORD	_	_
+21	⸮	_	_	_	_	0	root	_	_
+
+# text = * hvor er det ? ⸮
+# segstart = 161.942
+# segstop = 169.209
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 46
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	hvor	hvor	adv	_	_	3	SPRED	_	_
+3	er	være	verb	_	pres	6	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+5	?	$?	clb	_	_	3	IP	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = og ja nei det veit ikke jeg hvor er ⸮
+# segstart = 172.571
+# segstop = 174.05
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 48
+# annotator = VDT
+1	og	og	konj	_	_	5	KONJ	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	nei	nei	interj	_	_	5	INTERJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
+5	veit	vite	verb	_	pres	10	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+8	hvor	hvor	adv	_	_	9	SPRED	_	_
+9	er	være	verb	_	pres	5	DOBJ	_	_
+10	⸮	_	_	_	_	0	root	_	_
+
+# text = nei men det det er i dalføret e må gå over fjellpartia her og så ned til Vassfaret da ⸮
+# segstart = 174.05
+# segstop = 179.497
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 50
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	men	men	konj	_	_	5	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	REP	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+5	er	være	verb	_	pres	20	FINV	_	_
+6	i	i	prep	_	_	5	SPRED	_	_
+7	dalføret	dalføre	subst	_	be|nøyt|ent|appell	6	PUTFYLL	_	_
+8	e	e	nol	_	_	9	FYLL	_	_
+9	må	måtte	verb	_	pres	5	KOORD	_	_
+10	gå	gå	verb	_	inf	9	INFV	_	_
+11	over	over	prep	_	_	10	ADV	_	_
+12	fjellpartia	fjellparti	subst	_	be|nøyt|fl|appell	11	PUTFYLL	_	_
+13	her	her	prep	_	_	12	ATR	_	_
+14	og	og	konj	_	_	16	KONJ	_	_
+15	så	så	adv	_	_	16	ADV	_	_
+16	ned	ned	prep	_	_	11	KOORD	_	_
+17	til	til	prep	_	_	16	PUTFYLL	_	_
+18	Vassfaret	Vassfaret	subst	_	prop	17	PUTFYLL	_	_
+19	da	da	adv	_	_	10	ADV	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 179.497
+# segstop = 180.093
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 51
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 180.093
+# segstop = 180.856
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 52
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = akkurat så det var liksom ikke så veldig langt unna han holdt på da ⸮
+# segstart = 180.856
+# segstop = 184.079
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 53
+# annotator = VDT
+1	akkurat	akkurat	adv	_	_	4	INTERJ	_	_
+2	så	så	konj	_	_	4	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	var	være	verb	_	pret	15	FINV	_	_
+5	liksom	liksom	adv	_	_	4	ADV	_	_
+6	ikke	ikke	adv	_	_	4	ADV	_	_
+7	så	så	adv	_	_	9	ADV	_	_
+8	veldig	veldig	adj	_	ub|pos|nøyt|ent	9	ADV	_	_
+9	langt	lang	adj	_	ub|pos|nøyt|ent	10	ADV	_	_
+10	unna	unna	prep	_	_	4	SPRED	_	_
+11	han	han	pron	_	nom|mask|3|ent|pers	12	SUBJ	_	_
+12	holdt	holde	verb	_	pret	4	PSUBJ	_	_
+13	på	på	prep	_	_	12	ADV	_	_
+14	da	da	adv	_	_	4	ADV	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = nei ikke så langt men e det var langt å gå for han da ⸮
+# segstart = 184.079
+# segstop = 186.716
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 55
+# annotator = VDT, SR
+# SR: FRAG ok?
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	ikke	ikke	adv	_	_	3	ADV	_	_
+3	så	så	adv	_	_	4	ADV	_	_
+4	langt	lang	adj	_	ub|pos|nøyt|ent	15	FRAG	_	_
+5	men	men	konj	_	_	8	KONJ	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	var	være	verb	_	pret	4	KOORD	_	_
+9	langt	lang	adj	_	ub|pos|nøyt|ent	8	SPRED	_	_
+10	å	å	inf-merke	_	_	9	ADV	_	_
+11	gå	gå	verb	_	inf	10	INFV	_	_
+12	for	for	prep	_	_	8	ADV	_	_
+13	han	han	pron	_	akk|mask|3|ent|pers	12	PUTFYLL	_	_
+14	da	da	adv	_	_	8	ADV	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det var klart det den gangen ⸮
+# segstart = 186.716
+# segstop = 188.787
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 56
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	8	FINV	_	_
+4	klart	klar	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	2	APP	_	_
+6	den	den	det	_	mask|ent|dem	7	DET	_	_
+7	gangen	gang	subst	_	be|mask|ent|appell	3	ADV	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = er det mye skogsdrift her nå eller ? ⸮
+# segstart = 188.787
+# segstop = 190.27
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 58
+# annotator = VDT, SR
+1	er	være	verb	_	pres	9	FINV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
+3	mye	mye	adj	_	pos|fl	4	ATR	_	_
+4	skogsdrift	skogsdrift	subst	_	ub|fem|ent|appell	1	PSUBJ	_	_
+5	her	her	prep	_	_	1	ADV	_	_
+6	nå	nå	adv	_	_	1	ADV	_	_
+7	eller	eller	konj	_	_	1	KONJ	_	_
+8	?	$?	clb	_	_	1	IP	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja # det driver men nå er det moderne maskineri veit du ⸮
+# segstart = 190.27
+# segstop = 193.227
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 59
+# annotator = VDT, SR
+1	å	å	interj	_	_	5	INTERJ	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+5	driver	drive	verb	_	pres	14	FINV	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	nå	nå	adv	_	_	8	ADV	_	_
+8	er	være	verb	_	pres	5	KOORD	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+10	moderne	moderne	adj	_	ub|pos|m/f|ent	11	ATR	_	_
+11	maskineri	maskineri	subst	_	ub|mask|ent|appell	8	PSUBJ	_	_
+12	veit	vite	verb	_	pres	8	PAR	_	_
+13	du	du	pron	_	nom|2|ent|hum	12	SUBJ	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # litt annerledes nå en _uninterpretable_ ⸮
+# segstart = 193.227
+# segstop = 195.464
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 60
+# annotator = VDT
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	litt	litt	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+4	annerledes	annerledes	adj	_	ub|pos|nøyt|ent	1	ADV	_	_
+5	nå	nå	adv	_	_	4	ADV	_	_
+6	en	en	det	_	mask|ent|kvant	4	SLETT	_	_
+7	_uninterpretable_	_uninterpretable_	pause	_	_	4	SLETT	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = em # skal vi se # em # har du noe første minne fra barndommen # noe som du husker fra du var veldig lita ? ⸮
+# segstart = 196.991
+# segstop = 206.379
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 63
+# annotator = VDT
+1	em	em	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	skal	skulle	verb	_	pres	9	PAR	_	_
+4	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+5	se	se	verb	_	inf	3	INFV	_	_
+6	#	#	pause	_	_	9	IK	_	_
+7	em	em	nol	_	_	9	FYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	har	ha	verb	_	pres	27	FINV	_	_
+10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+11	noe	noen	det	_	nøyt|ent|kvant	13	DET	_	_
+12	første	første	adj	_	kvant	13	ATR	_	_
+13	minne	minne	subst	_	ub|nøyt|ent|appell	9	DOBJ	_	_
+14	fra	fra	prep	_	_	13	ATR	_	_
+15	barndommen	barndom	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	noe	noe	pron	_	nøyt|3|ent|pers	13	APP	_	_
+18	som	som	sbu	_	_	20	SBU	_	_
+19	du	du	pron	_	nom|2|ent|hum	20	SUBJ	_	_
+20	husker	huske	verb	_	pres	17	ATR	_	_
+21	fra	fra	prep	_	_	20	ADV	_	_
+22	du	du	pron	_	nom|2|ent|hum	23	SUBJ	_	_
+23	var	være	verb	_	pret	21	PUTFYLL	_	_
+24	veldig	veldig	adj	_	ub|pos|nøyt|ent	25	ADV	_	_
+25	lita	liten	adj	_	ub|pos|fem|ent	23	SPRED	_	_
+26	?	$?	clb	_	_	9	IP	_	_
+27	⸮	_	_	_	_	0	root	_	_
+
+# text = det gjør jeg og som har satt seg fast i minnet du veit han har har mye men ⸮
+# segstart = 206.379
+# segstop = 212.163
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 65
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
+2	gjør	gjøre	verb	_	pres	19	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	og	og	konj	_	_	6	KONJ	_	_
+5	som	som	sbu	_	_	6	SBU	_	_
+6	har	ha	verb	_	pres	2	KOORD	_	_
+7	satt	sette	verb	_	perf-part	6	INFV	_	_
+8	seg	seg	pron	_	akk|refl	7	DOBJ	_	_
+9	fast	fast	adj	_	ub|pos|nøyt|ent	7	ADV	_	_
+10	i	i	prep	_	_	7	ADV	_	_
+11	minnet	minne	subst	_	be|nøyt|ent|appell	10	PUTFYLL	_	_
+12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+13	veit	vite	verb	_	pres	2	KOORD	_	_
+14	han	han	pron	_	nom|mask|3|ent|pers	16	SUBJ	_	_
+15	har	ha	verb	_	pres	16	REP	_	_
+16	har	ha	verb	_	pres	13	DOBJ	_	_
+17	mye	mye	adj	_	ub|pos|nøyt|ent	16	DOBJ	_	_
+18	men	men	konj	_	_	13	KONJ	_	_
+19	⸮	_	_	_	_	0	root	_	_
+
+# text = ellers så veit du han har mye men e du veit e han glemmer det bort att etter hvert ⸮
+# segstart = 254.517
+# segstop = 259.497
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 67
+# annotator = VDT, SR
+1	ellers	ellers	adv	_	_	2	APP	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	veit	vite	verb	_	pres	20	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	han	han	pron	_	nom|mask|3|ent|pers	6	SUBJ	_	_
+6	har	ha	verb	_	pres	3	DOBJ	_	_
+7	mye	mye	adj	_	ub|pos|nøyt|ent	6	DOBJ	_	_
+8	men	men	konj	_	_	14	KONJ	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+11	veit	vite	verb	_	pres	14	PAR	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	han	han	pron	_	nom|mask|3|ent|pers	14	SUBJ	_	_
+14	glemmer	glemme	verb	_	pres	3	KOORD	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	14	DOBJ	_	_
+16	bort	bort	prep	_	_	14	ADV	_	_
+17	att	att	adv	_	_	16	PUTFYLL	_	_
+18	etter	etter	prep	_	_	14	ADV	_	_
+19	hvert	hver	det	_	nøyt|ent|kvant	18	PUTFYLL	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ikke sant # men det er vel kanskje veldig karakteristiske minner slik _uninterpretable_ ⸮
+# segstart = 259.497
+# segstop = 264.142
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 68
+# annotator = VDT
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	ikke	ikke	adv	_	_	1	ADV	_	_
+3	sant	sann	adj	_	ub|pos|nøyt|ent	1	ADV	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	men	men	konj	_	_	7	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+7	er	være	verb	_	pres	15	FINV	_	_
+8	vel	vel	adv	_	_	7	ADV	_	_
+9	kanskje	kanskje	adv	_	_	7	ADV	_	_
+10	veldig	veldig	adj	_	ub|pos|nøyt|ent	11	ADV	_	_
+11	karakteristiske	karakteristisk	adj	_	ub|pos|nøyt|ent	12	ATR	_	_
+12	minner	minne	subst	_	ub|nøyt|fl|appell	7	SPRED	_	_
+13	slik	slik	adv	_	_	7	ADV	_	_
+14	_uninterpretable_	_uninterpretable_	pause	_	_	7	FYLL	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det var det ellers så så veit du han har nå masse minner etter en da han dreiv ute og leika isammen med naboungene og alt dette der så ⸮
+# segstart = 264.142
+# segstop = 271.791
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 70
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	31	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SPRED	_	_
+5	ellers	ellers	adv	_	_	7	APP	_	_
+6	så	så	adv	_	_	7	REP	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	veit	vite	verb	_	pres	11	PAR	_	_
+9	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+10	han	han	pron	_	nom|mask|3|ent|pers	11	SUBJ	_	_
+11	har	ha	verb	_	pres	3	KOORD	_	_
+12	nå	nå	adv	_	_	11	ADV	_	_
+13	masse	masse	adj	_	pos|fl	14	ATR	_	_
+14	minner	minne	subst	_	ub|nøyt|fl|appell	11	DOBJ	_	_
+15	etter	etter	prep	_	_	11	ADV	_	_
+16	en	en	det	_	mask|ent|kvant	15	PUTFYLL	_	_
+17	da	da	sbu	_	_	19	SBU	_	_
+18	han	han	pron	_	nom|mask|3|ent|pers	19	SUBJ	_	_
+19	dreiv	drive	verb	_	pret	11	ADV	_	_
+20	ute	ute	prep	_	_	19	ADV	_	_
+21	og	og	konj	_	_	22	KONJ	_	_
+22	leika	leike	verb	_	pret	19	KOORD	_	_
+23	isammen	isammen	adv	_	_	22	ADV	_	_
+24	med	med	prep	_	_	22	ADV	_	_
+25	naboungene	naboungene	subst	_	ub|nøyt|fl|appell	24	PUTFYLL	_	_
+26	og	og	konj	_	_	28	KONJ	_	_
+27	alt	all	det	_	nøyt|ent|kvant	28	DET	_	_
+28	dette	dette	pron	_	nøyt|3|ent|pers	25	KOORD	_	_
+29	der	der	prep	_	_	28	ATR	_	_
+30	så	så	adv	_	_	19	ADV	_	_
+31	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 271.791
+# segstop = 275.291
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 71
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 272.388
+# segstop = 273.008
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 72
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = dere hadde jo mange å leike med da når dere var ti stykker ⸮
+# segstart = 273.008
+# segstop = 275.291
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 73
+# annotator = VDT, SR
+1	dere	dere	pron	_	nom|2|fl|hum	2	SUBJ	_	_
+2	hadde	ha	verb	_	pret	14	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	mange	mange	adj	_	pos|fl	2	DOBJ	_	_
+5	å	å	inf-merke	_	_	4	ATR	_	_
+6	leike	leike	verb	_	inf	5	INFV	_	_
+7	med	med	prep	_	_	6	ADV	_	_
+8	da	da	adv	_	_	2	ADV	_	_
+9	når	når	sbu	_	_	11	SBU	_	_
+10	dere	dere	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+11	var	være	verb	_	pret	2	ADV	_	_
+12	ti	ti	det	_	fl|kvant	13	DET	_	_
+13	stykker	stykke	subst	_	ub|nøyt|fl|appell	11	SPRED	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = og ja det var mange naboer der var det en fem seks unger og # ja det var flere naboer der som hadde mange unger så # så vi hadde rikelig å leike med i hvert fall ⸮
+# segstart = 275.291
+# segstop = 285.558
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 75
+# annotator = VDT, SR
+1	og	og	konj	_	_	4	KONJ	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	var	være	verb	_	pret	38	FINV	_	_
+5	mange	mange	adj	_	pos|fl	6	ATR	_	_
+6	naboer	nabo	subst	_	ub|mask|fl|appell	4	PSUBJ	_	_
+7	der	der	prep	_	_	8	ADV	_	_
+8	var	være	verb	_	pret	4	KOORD	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+10	en	en	adv	_	_	12	ADV	_	_
+11	fem	fem	det	_	fl|kvant	12	FLAT	_	_
+12	seks	seks	det	_	fl|kvant	13	DET	_	_
+13	unger	unge	subst	_	ub|mask|fl|appell	8	PSUBJ	_	_
+14	og	og	konj	_	_	18	KONJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	ja	ja	interj	_	_	18	INTERJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	18	FSUBJ	_	_
+18	var	være	verb	_	pret	4	KOORD	_	_
+19	flere	mange	adj	_	komp	20	ATR	_	_
+20	naboer	nabo	subst	_	ub|mask|fl|appell	18	PSUBJ	_	_
+21	der	der	prep	_	_	20	ATR	_	_
+22	som	som	sbu	_	_	23	SBU	_	_
+23	hadde	ha	verb	_	pret	20	ATR	_	_
+24	mange	mange	adj	_	pos|fl	25	ATR	_	_
+25	unger	unge	subst	_	ub|mask|fl|appell	23	DOBJ	_	_
+26	så	så	adv	_	_	18	ADV	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	så	så	adv	_	_	30	KONJ	_	_
+29	vi	vi	pron	_	nom|1|fl|hum	30	SUBJ	_	_
+30	hadde	ha	verb	_	pret	4	KOORD	_	_
+31	rikelig	rikelig	verb	_	perf-part	30	DOBJ	_	_
+32	å	å	inf-merke	_	_	31	ADV	_	_
+33	leike	leike	verb	_	inf	32	INFV	_	_
+34	med	med	prep	_	_	33	ADV	_	_
+35	i	i	prep	_	_	33	ADV	_	_
+36	hvert	hver	det	_	nøyt|ent|kvant	37	DET	_	_
+37	fall	fall	subst	_	ub|nøyt|ent|appell	35	PUTFYLL	_	_
+38	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # ja det høres artig ut da # hva slags leiker var det dere leika da ? ⸮
+# segstart = 285.558
+# segstop = 290.423
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 76
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	5	INTERJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+5	høres	høres	verb	_	pres	19	FINV	_	_
+6	artig	artig	adj	_	ub|pos|nøyt|ent	5	SPRED	_	_
+7	ut	ut	prep	_	_	6	ADV	_	_
+8	da	da	adv	_	_	5	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	hva	hva	pron	_	sp	11	DET	_	_
+11	slags	slags	subst	_	nøyt|appell	12	DET	_	_
+12	leiker	leiker	subst	_	ub|fem|fl|appell	13	PSUBJ	_	_
+13	var	være	verb	_	pret	5	KOORD	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	13	FSUBJ	_	_
+15	dere	dere	pron	_	nom|2|fl|hum	16	SUBJ	_	_
+16	leika	leike	verb	_	pret	12	ATR	_	_
+17	da	da	adv	_	_	13	ADV	_	_
+18	?	$?	clb	_	_	5	IP	_	_
+19	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det var ikke anna enn å finne på det en e ute i naturen vi veit vi # vi dreiv og plukka e ja e # tok vare på gamle blekkbokser og # og # og glasskår og ⸮
+# segstart = 290.423
+# segstop = 313.651
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 78
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	var	være	verb	_	pret	40	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	anna	annet	det	_	_	3	PSUBJ	_	_
+6	enn	enn	prep	_	_	5	ADV	_	_
+7	å	å	inf-merke	_	_	6	PUTFYLL	_	_
+8	finne	finne	verb	_	inf	7	INFV	_	_
+9	på	på	prep	_	_	8	ADV	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	9	PUTFYLL	_	_
+11	en	en	det	_	mask|ent|kvant	10	REP	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	ute	ute	prep	_	_	9	PUTFYLL	_	_
+14	i	i	prep	_	_	13	PUTFYLL	_	_
+15	naturen	natur	subst	_	be|mask|ent|appell	14	PUTFYLL	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	17	SUBJ	_	_
+17	veit	vite	verb	_	pres	20	REP	_	_
+18	vi	vi	pron	_	nom|1|fl|hum	16	APP	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	21	SUBJ	_	_
+21	dreiv	drive	verb	_	pret	3	KOORD	_	_
+22	og	og	konj	_	_	23	KONJ	_	_
+23	plukka	plukke	verb	_	pret	21	KOORD	_	_
+24	e	e	nol	_	_	25	FYLL	_	_
+25	ja	ja	interj	_	_	28	INTERJ	_	_
+26	e	e	nol	_	_	28	FYLL	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	tok	ta	verb	_	pret	3	KOORD	_	_
+29	vare	vare	subst	_	appell	28	DOBJ	_	_
+30	på	på	prep	_	_	29	ATR	_	_
+31	gamle	gammel	adj	_	pos|fl	32	ATR	_	_
+32	blekkbokser	blekkbokser	subst	_	ub|mask|fl|samset	30	PUTFYLL	_	_
+33	og	og	konj	_	_	35	REP	_	_
+34	#	#	pause	_	_	35	IK	_	_
+35	og	og	konj	_	_	37	REP	_	_
+36	#	#	pause	_	_	37	IK	_	_
+37	og	og	konj	_	_	38	KONJ	_	_
+38	glasskår	glasskår	subst	_	ub|nøyt|fl|appell	32	KOORD	_	_
+39	og	og	konj	_	_	28	KONJ	_	_
+40	⸮	_	_	_	_	0	root	_	_
+
+# text = og laga oss slike # leikestuer # og hadde bord og og glasskår det var var tallerkenene da som vi åt på ⸮
+# segstart = 304.107
+# segstop = 313.651
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 79
+# annotator = VDT, SR
+# SR: Parentetisk uttrykk kan også analyseres som APP? Spesifiserer hva de brukte glasskårene til.
+1	og	og	konj	_	_	2	KONJ	_	_
+2	laga	lage	verb	_	pret	23	FINV	_	_
+3	oss	vi	pron	_	akk|1|fl|hum	2	IOBJ	_	_
+4	slike	slik	det	_	fl|dem	6	DET	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	leikestuer	leikestue	subst	_	ub|fem|fl|appell	2	DOBJ	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	og	og	konj	_	_	9	KONJ	_	_
+9	hadde	ha	verb	_	pret	2	KOORD	_	_
+10	bord	bord	subst	_	ub|nøyt|ent|appell	9	DOBJ	_	_
+11	og	og	konj	_	_	12	REP	_	_
+12	og	og	konj	_	_	13	KONJ	_	_
+13	glasskår	glasskår	subst	_	ub|mask|fl|appell	10	KOORD	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	16	SUBJ	_	_
+15	var	være	verb	_	pret	16	REP	_	_
+16	var	være	verb	_	pret	2	KOORD	_	_
+17	tallerkenene	tallerken	subst	_	be|mask|ent|appell	16	SPRED	_	_
+18	da	da	adv	_	_	16	ADV	_	_
+19	som	som	sbu	_	_	21	SBU	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	21	SUBJ	_	_
+21	åt	ete	verb	_	pret	17	ATR	_	_
+22	på	på	prep	_	_	21	ADV	_	_
+23	⸮	_	_	_	_	0	root	_	_
+
+# text = * oi ⸮
+# segstart = 304.107
+# segstop = 313.651
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 80
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	oi	oi	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 313.651
+# segstop = 315.083
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 81
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = så det var det gam- gammeldagse koppestellet det da eller ? ⸮
+# segstart = 315.083
+# segstop = 317.886
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 82
+# annotator = VDT
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	12	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	7	DET	_	_
+5	gam-	gam	ufullst	_	_	6	FYLL	_	_
+6	gammeldagse	gammeldags	subst	_	be|nøyt|ent|appell	7	ATR	_	_
+7	koppestellet	koppestell	subst	_	be|nøyt|ent|appell	3	SPRED	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	2	APP	_	_
+9	da	da	adv	_	_	3	ADV	_	_
+10	eller	eller	konj	_	_	3	KONJ	_	_
+11	?	$?	clb	_	_	3	IP	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ja ja # og og # nå sier de kongler da men vi sa tuppu # om dette der # det var tuppu ⸮
+# segstart = 317.886
+# segstop = 325.083
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 84
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	9	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	og	og	konj	_	_	6	REP	_	_
+6	og	og	konj	_	_	9	KONJ	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	nå	nå	adv	_	_	9	ADV	_	_
+9	sier	si	verb	_	pres	25	FINV	_	_
+10	de	de	pron	_	nom|2|fl|hum	9	SUBJ	_	_
+11	kongler	kongle	subst	_	ub|mask|fl|appell	9	DOBJ	_	_
+12	da	da	adv	_	_	9	ADV	_	_
+13	men	men	konj	_	_	15	KONJ	_	_
+14	vi	vi	pron	_	nom|1|fl|hum	15	SUBJ	_	_
+15	sa	si	verb	_	pret	9	KOORD	_	_
+16	tuppu	tuppu	subst	_	ub|fem|ent|appell	15	DOBJ	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	om	om	prep	_	_	15	ADV	_	_
+19	dette	dette	pron	_	nøyt|3|ent|pers	18	PUTFYLL	_	_
+20	der	der	prep	_	_	19	ATR	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	23	SUBJ	_	_
+23	var	være	verb	_	pret	15	KOORD	_	_
+24	tuppu	tuppu	subst	_	be|mask|ent|appell	23	SPRED	_	_
+25	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ var det det ? ⸮
+# segstart = 325.083
+# segstop = 325.703
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 85
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	var	være	verb	_	pret	6	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	2	SPRED	_	_
+5	?	$?	clb	_	_	2	IP	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # så det brukte vi som kyrne da ## tok de og satte fyrstikker under en # så de sto ⸮
+# segstart = 325.703
+# segstop = 333.638
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 86
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	konj	_	_	5	KONJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	DOBJ	_	_
+5	brukte	bruke	verb	_	pret	22	FINV	_	_
+6	vi	vi	pron	_	nom|1|fl|hum	5	SUBJ	_	_
+7	som	som	prep	_	_	8	SBU	_	_
+8	kyrne	ku	subst	_	be|fem|fl|appell	5	ADV	_	_
+9	da	da	adv	_	_	5	ADV	_	_
+10	##	##	pause	_	_	11	IK	_	_
+11	tok	ta	verb	_	pret	5	KOORD	_	_
+12	de	de	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	satte	sette	verb	_	pret	11	KOORD	_	_
+15	fyrstikker	fyrstikk	subst	_	be|mask|fl|appell	14	DOBJ	_	_
+16	under	under	prep	_	_	14	ADV	_	_
+17	en	en	det	_	mask|ent|kvant	16	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	så	så	sbu	_	_	21	SBU	_	_
+20	de	de	pron	_	nom|2|fl|hum	21	SUBJ	_	_
+21	sto	stå	verb	_	pret	14	ADV	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 333.638
+# segstop = 333.972
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 87
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # om vinteren så var det da å base i snøen da ⸮
+# segstart = 333.972
+# segstop = 338.282
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 88
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	om	om	prep	_	_	5	APP	_	_
+4	vinteren	vinter	subst	_	be|mask|ent|appell	3	PUTFYLL	_	_
+5	så	så	adv	_	_	6	ADV	_	_
+6	var	være	verb	_	pret	14	FINV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+8	da	da	adv	_	_	6	ADV	_	_
+9	å	å	inf-merke	_	_	6	SPRED	_	_
+10	base	base	verb	_	inf	9	INFV	_	_
+11	i	i	prep	_	_	10	ADV	_	_
+12	snøen	snø	subst	_	be|mask|ent|appell	11	PUTFYLL	_	_
+13	da	da	adv	_	_	6	ADV	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # ja så men det høres jo _uninterpretable_ … ⸮
+# segstart = 338.282
+# segstop = 341.379
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 89
+# annotator = VDT
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	7	INTERJ	_	_
+4	så	så	adv	_	_	5	REP	_	_
+5	men	men	konj	_	_	7	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	SUBJ	_	_
+7	høres	høres	verb	_	pres	11	FINV	_	_
+8	jo	jo	adv	_	_	7	ADV	_	_
+9	_uninterpretable_	_uninterpretable_	pause	_	_	7	FYLL	_	_
+10	…	…	pause	_	_	7	IK	_	_
+11	⸮	_	_	_	_	0	root	_	_
+
+# text = nei så det det var det var ikke noe anna vi var aldri noe kjøpeleiker der var f- det en fant på sjøl ⸮
+# segstart = 341.379
+# segstop = 347.474
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 91
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	7	INTERJ	_	_
+2	så	så	konj	_	_	7	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	REP	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	var	være	verb	_	pret	7	REP	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	var	være	verb	_	pret	24	FINV	_	_
+8	ikke	ikke	adv	_	_	7	ADV	_	_
+9	noe	noen	det	_	nøyt|ent|kvant	10	DET	_	_
+10	anna	annen	det	_	nøyt|ent|dem	7	PSUBJ	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+12	var	være	verb	_	pret	7	KOORD	_	_
+13	aldri	aldri	adv	_	_	12	ADV	_	_
+14	noe	noen	det	_	nøyt|ent|kvant	15	DET	_	_
+15	kjøpeleiker	kjøpeleiker	subst	_	ub|fem|fl|samset	12	SPRED	_	_
+16	der	der	prep	_	_	17	FSUBJ	_	_
+17	var	være	verb	_	pret	7	KOORD	_	_
+18	f-	f	ufullst	_	_	19	FYLL	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	17	PSUBJ	_	_
+20	en	en	pron	_	ent|hum	21	SUBJ	_	_
+21	fant	finne	verb	_	pret	19	ATR	_	_
+22	på	på	prep	_	_	21	ADV	_	_
+23	sjøl	sjøl	adv	_	_	21	ADV	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = men det hørtes ut som dere fant på mange artige ting ⸮
+# segstart = 347.474
+# segstop = 349.578
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 92
+# annotator = VDT, SR
+# SR: SPRED ok?
+1	men	men	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	hørtes	høres	verb	_	pret	12	FINV	_	_
+4	ut	ut	prep	_	_	3	ADV	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	dere	dere	pron	_	nom|2|fl|hum	7	SUBJ	_	_
+7	fant	finne	verb	_	pret	3	SPRED	_	_
+8	på	på	prep	_	_	7	ADV	_	_
+9	mange	mange	adj	_	pos|fl	11	ATR	_	_
+10	artige	artig	subst	_	ub|m/f|fl|appell	11	ATR	_	_
+11	ting	ting	subst	_	ub|mask|fl|appell	8	PUTFYLL	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = og neimen huttetu hadde ungene funnet på så mye nå i dag # men nå må de ha med seg de voksne hver gang # de skal finne på noe ⸮
+# segstart = 349.578
+# segstop = 357.627
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 94
+# annotator = VDT
+1	og	og	konj	_	_	4	KONJ	_	_
+2	neimen	neimen	adv	_	_	4	ADV	_	_
+3	huttetu	huttetu	interj	_	_	4	INTERJ	_	_
+4	hadde	ha	verb	_	pret	31	FINV	_	_
+5	ungene	unge	subst	_	be|mask|fl|appell	4	SUBJ	_	_
+6	funnet	finne	verb	_	perf-part	4	INFV	_	_
+7	på	på	prep	_	_	6	ADV	_	_
+8	så	så	adv	_	_	9	ADV	_	_
+9	mye	mye	adj	_	ub|pos|nøyt|ent	7	PUTFYLL	_	_
+10	nå	nå	adv	_	_	6	ADV	_	_
+11	i	i	prep	_	_	10	ADV	_	_
+12	dag	dag	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	men	men	konj	_	_	16	KONJ	_	_
+15	nå	nå	adv	_	_	16	ADV	_	_
+16	må	måtte	verb	_	pres	4	KOORD	_	_
+17	de	de	pron	_	nom|2|fl|hum	16	SUBJ	_	_
+18	ha	ha	verb	_	inf	16	INFV	_	_
+19	med	med	prep	_	_	18	ADV	_	_
+20	seg	seg	pron	_	akk|refl	19	PUTFYLL	_	_
+21	de	de	det	_	fl|dem	22	DET	_	_
+22	voksne	voksen	adj	_	pos|fl	18	DOBJ	_	_
+23	hver	hver	det	_	mask|ent|kvant	24	DET	_	_
+24	gang	gang	subst	_	ub|mask|ent|appell	18	ADV	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	de	de	pron	_	nom|2|fl|hum	27	SUBJ	_	_
+27	skal	skulle	verb	_	pres	24	ATR	_	_
+28	finne	finne	verb	_	inf	27	INFV	_	_
+29	på	på	prep	_	_	28	ADV	_	_
+30	noe	noen	det	_	nøyt|ent|kvant	29	PUTFYLL	_	_
+31	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 357.627
+# segstop = 358.367
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 95
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 358.367
+# segstop = 358.725
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 97
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = litt andre tider nå ja ⸮
+# segstart = 358.725
+# segstop = 360.06
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 98
+# annotator = VDT
+1	litt	litt	adj	_	ub|pos|nøyt|ent	2	ADV	_	_
+2	andre	annen	det	_	fl|dem	3	DET	_	_
+3	tider	tid	subst	_	ub|fem|fl|appell	5	ADV	_	_
+4	nå	nå	adv	_	_	3	ADV	_	_
+5	ja	ja	interj	_	_	6	INTERJ	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 360.06
+# segstop = 361.56
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 99
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = em # når dere var på skolen da e har du noe spesielle minner ifra de skoledagene ? ⸮
+# segstart = 361.56
+# segstop = 367.657
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 100
+# annotator = VDT
+1	em	e	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	når	når	sbu	_	_	5	SBU	_	_
+4	dere	dere	pron	_	nom|2|fl|hum	5	SUBJ	_	_
+5	var	være	verb	_	pret	19	FINV	_	_
+6	på	på	prep	_	_	5	SPRED	_	_
+7	skolen	skole	subst	_	be|mask|ent|appell	6	PUTFYLL	_	_
+8	da	da	adv	_	_	5	ADV	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	har	ha	verb	_	pres	5	KOORD	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	noe	noen	det	_	nøyt|ent|kvant	14	DET	_	_
+13	spesielle	spesiell	adj	_	pos|fl	14	ATR	_	_
+14	minner	minne	subst	_	ub|nøyt|fl|appell	10	DOBJ	_	_
+15	ifra	ifra	prep	_	_	14	ATR	_	_
+16	de	de	pron	_	nom|2|fl|hum	17	DET	_	_
+17	skoledagene	skoledag	subst	_	be|m/f|fl|appell	15	PUTFYLL	_	_
+18	?	$?	clb	_	_	5	IP	_	_
+19	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # masse slåsskamp _laughter_ ⸮
+# segstart = 367.657
+# segstop = 369.631
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 101
+# annotator = VDT
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	masse	masse	adj	_	pos|fl	4	ATR	_	_
+4	slåsskamp	slåsskamp	subst	_	ub|mask|ent|appell	1	ADV	_	_
+5	_laughter_	_laughter_	pause	_	_	1	FYLL	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = var det det ? # oi såpass ja # uff _laughter_ ⸮
+# segstart = 369.631
+# segstop = 373.898
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 102
+# annotator = VDT
+1	var	være	verb	_	pret	12	FINV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	SUBJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	1	SPRED	_	_
+4	?	$?	clb	_	_	6	IK	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	oi	oi	interj	_	_	8	INTERJ	_	_
+7	såpass	såpass	adv	_	_	6	ADV	_	_
+8	ja	ja	interj	_	_	1	INTERJ	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	uff	uff	interj	_	_	1	INTERJ	_	_
+11	_laughter_	_laughter_	pause	_	_	1	FYLL	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja vi hadde hadde særlig to # som slåss nesten hvert friminutt ⸮
+# segstart = 373.898
+# segstop = 378.659
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 104
+# annotator = VDT, SR
+1	å	å	interj	_	_	5	INTERJ	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	5	SUBJ	_	_
+4	hadde	ha	verb	_	pret	5	REP	_	_
+5	hadde	ha	verb	_	pret	14	FINV	_	_
+6	særlig	særlig	adj	_	ub|pos|nøyt|ent	7	ADV	_	_
+7	to	to	det	_	fl|kvant	5	DOBJ	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	som	som	sbu	_	_	10	SBU	_	_
+10	slåss	slåss	verb	_	pret	7	ADV	_	_
+11	nesten	nesten	adv	_	_	12	ADV	_	_
+12	hvert	hver	det	_	nøyt|ent|kvant	13	DET	_	_
+13	friminutt	friminutt	subst	_	ub|nøyt|ent|appell	10	ADV	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = det var guttene det da ? ⸮
+# segstart = 378.659
+# segstop = 379.398
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 105
+# annotator = VDT, SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	var	være	verb	_	pret	7	FINV	_	_
+3	guttene	gutt	subst	_	be|mask|fl|appell	2	SPRED	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	1	APP	_	_
+5	da	da	adv	_	_	2	ADV	_	_
+6	?	$?	clb	_	_	2	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 379.398
+# segstop = 379.804
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 106
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 379.804
+# segstop = 380.329
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 107
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # og ja # det var så blodet rant det ⸮
+# segstart = 380.329
+# segstop = 383.382
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 108
+# annotator = VDT
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	4	KONJ	_	_
+4	ja	ja	interj	_	_	7	INTERJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	var	være	verb	_	pret	12	FINV	_	_
+8	så	så	sbu	_	_	10	SBU	_	_
+9	blodet	blod	subst	_	be|nøyt|ent|appell	10	SUBJ	_	_
+10	rant	renne	verb	_	pret	7	SPRED	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	9	APP	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det var var det så blodet rant ? ⸮
+# segstart = 383.382
+# segstop = 384.789
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 109
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	var	være	verb	_	pret	4	REP	_	_
+4	var	være	verb	_	pret	10	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	så	så	konj	_	_	8	ADV	_	_
+7	blodet	blod	subst	_	be|nøyt|ent|appell	8	SUBJ	_	_
+8	rant	renne	verb	_	pret	4	ADV	_	_
+9	?	$?	clb	_	_	4	IP	_	_
+10	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja læreren han tok dem med inn og vaska av dem og det gikk # ja ⸮
+# segstart = 384.789
+# segstop = 390.125
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 110
+# annotator = VDT
+1	å	å	interj	_	_	5	INTERJ	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	læreren	lærer	subst	_	be|mask|ent|appell	4	APP	_	_
+4	han	han	pron	_	nom|mask|3|ent|pers	5	SUBJ	_	_
+5	tok	ta	verb	_	pret	18	FINV	_	_
+6	dem	de	pron	_	akk|3|fl|pers	5	DOBJ	_	_
+7	med	med	prep	_	_	5	ADV	_	_
+8	inn	inn	prep	_	_	7	PUTFYLL	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	vaska	vaske	verb	_	pret	5	KOORD	_	_
+11	av	av	prep	_	_	10	ADV	_	_
+12	dem	de	pron	_	akk|3|fl|pers	11	PUTFYLL	_	_
+13	og	og	konj	_	_	15	KONJ	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+15	gikk	gå	verb	_	pret	5	KOORD	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	ja	ja	interj	_	_	5	INTERJ	_	_
+18	⸮	_	_	_	_	0	root	_	_
+
+# text = men det de fikk ikke noe straff eller noe slik da ? ⸮
+# segstart = 390.125
+# segstop = 391.982
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 112
+# annotator = VDT, SR
+1	men	men	konj	_	_	4	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	REP	_	_
+3	de	de	pron	_	nom|3|fl|pers	4	SUBJ	_	_
+4	fikk	få	verb	_	pret	13	FINV	_	_
+5	ikke	ikke	adv	_	_	4	ADV	_	_
+6	noe	noen	det	_	fem|ent|kvant	7	DET	_	_
+7	straff	straff	subst	_	ub|fem|ent|appell	4	DOBJ	_	_
+8	eller	eller	konj	_	_	10	KONJ	_	_
+9	noe	noen	det	_	nøyt|ent|kvant	10	DET	_	_
+10	slik	slik	det	_	_	7	KOORD	_	_
+11	da	da	adv	_	_	4	ADV	_	_
+12	?	$?	clb	_	_	4	IP	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = å nei da det var det var ikke slik da # nei ⸮
+# segstart = 391.982
+# segstop = 394.526
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 114
+# annotator = VDT, SR
+1	å	å	interj	_	_	7	INTERJ	_	_
+2	nei	nei	interj	_	_	7	INTERJ	_	_
+3	da	da	adv	_	_	2	ADV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	var	være	verb	_	pret	7	REP	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	var	være	verb	_	pret	13	FINV	_	_
+8	ikke	ikke	adv	_	_	7	ADV	_	_
+9	slik	slik	det	_	m/f|ent|dem	7	PSUBJ	_	_
+10	da	da	adv	_	_	7	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	nei	nei	interj	_	_	7	INTERJ	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = det var slik som hørte med ? ⸮
+# segstart = 394.526
+# segstop = 395.247
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 116
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	var	være	verb	_	pret	8	FINV	_	_
+3	slik	slik	det	_	m/f|ent|dem	2	SPRED	_	_
+4	som	som	sbu	_	_	5	SBU	_	_
+5	hørte	høre	verb	_	pret	3	ATR	_	_
+6	med	med	prep	_	_	5	ADV	_	_
+7	?	$?	clb	_	_	2	IP	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det fulgte med det ⸮
+# segstart = 395.247
+# segstop = 396.744
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 117
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	fulgte	følge	verb	_	pret	6	FINV	_	_
+4	med	med	prep	_	_	3	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	2	APP	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # men dere jentene da stod dere og så på eller ? ⸮
+# segstart = 396.744
+# segstop = 400.102
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 118
+# annotator = VDT, SR
+# SR: Funksjonen til 'da' må endres?
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	7	KONJ	_	_
+4	dere	dere	pron	_	nom|2|fl|hum	8	APP	_	_
+5	jentene	jente	subst	_	be|fem|fl|appell	4	APP	_	_
+6	da	da	adv	_	_	7	ADV	_	_
+7	stod	stå	verb	_	pret	14	FINV	_	_
+8	dere	dere	pron	_	nom|2|fl|hum	7	SUBJ	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	så	se	verb	_	pret	7	KOORD	_	_
+11	på	på	prep	_	_	10	ADV	_	_
+12	eller	eller	konj	_	_	7	KONJ	_	_
+13	?	$?	clb	_	_	7	IP	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = _sighing_ ja du veit at det kan vel hende vi var blanda oss litt borti vi med men det ble jo ikke slik da ⸮
+# segstart = 400.102
+# segstop = 406.821
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 119
+# annotator = VDT
+1	_sighing_	_sighing_	pause	_	_	4	FYLL	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+4	veit	vite	verb	_	pres	25	FINV	_	_
+5	at	at	sbu	_	_	7	SBU	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	kan	kunne	verb	_	pres	4	DOBJ	_	_
+8	vel	vel	adv	_	_	9	ADV	_	_
+9	hende	hende	verb	_	inf	7	INFV	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+11	var	være	verb	_	pret	12	REP	_	_
+12	blanda	blande	verb	_	pret	9	DOBJ	_	_
+13	oss	vi	pron	_	akk|1|fl|hum	12	DOBJ	_	_
+14	litt	litt	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+15	borti	borti	prep	_	_	12	ADV	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	10	APP	_	_
+17	med	med	prep	_	_	12	REP	_	_
+18	men	men	konj	_	_	20	KONJ	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	ble	bli	verb	_	pret	4	KOORD	_	_
+21	jo	jo	adv	_	_	20	ADV	_	_
+22	ikke	ikke	adv	_	_	20	ADV	_	_
+23	slik	slik	adv	_	_	20	SPRED	_	_
+24	da	da	adv	_	_	20	ADV	_	_
+25	⸮	_	_	_	_	0	root	_	_
+
+# text = nei ⸮
+# segstart = 406.821
+# segstop = 407.704
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 120
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = å nei # nei da ellers så har jeg gode minner etter etter skolen # vi hadde snill lærer og ⸮
+# segstart = 407.704
+# segstop = 413.536
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 121
+# annotator = VDT
+1	å	å	interj	_	_	8	INTERJ	_	_
+2	nei	nei	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	nei	nei	interj	_	_	8	INTERJ	_	_
+5	da	da	adv	_	_	4	ADV	_	_
+6	ellers	ellers	adv	_	_	7	ADV	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	har	ha	verb	_	pres	21	FINV	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+10	gode	god	adj	_	pos|fl	11	ATR	_	_
+11	minner	minne	subst	_	ub|nøyt|fl|appell	8	DOBJ	_	_
+12	etter	etter	prep	_	_	13	REP	_	_
+13	etter	etter	prep	_	_	8	ADV	_	_
+14	skolen	skole	subst	_	be|mask|ent|appell	13	PUTFYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	17	SUBJ	_	_
+17	hadde	ha	verb	_	pret	8	KOORD	_	_
+18	snill	snill	adj	_	ub|pos|m/f|ent	19	ATR	_	_
+19	lærer	lærer	subst	_	ub|m/f|ent|appell	17	DOBJ	_	_
+20	og	og	konj	_	_	17	KONJ	_	_
+21	⸮	_	_	_	_	0	root	_	_
+
+# text = mm # det var todelt skole eller ? ⸮
+# segstart = 413.536
+# segstop = 415.754
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 122
+# annotator = VDT
+1	mm	mm	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	var	være	verb	_	pret	9	FINV	_	_
+5	todelt	todelt	adj	_	ub|nøyt|ent	6	ATR	_	_
+6	skole	skole	subst	_	ub|mask|ent|appell	4	SPRED	_	_
+7	eller	eller	konj	_	_	4	KONJ	_	_
+8	?	$?	clb	_	_	4	IP	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 415.754
+# segstop = 415.969
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 124
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # ja da ⸮
+# segstart = 416.565
+# segstop = 418.735
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 126
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	da	da	adv	_	_	3	ADV	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # syns du på en måte skol- husk- husker du skolen som streng eller var det ? ⸮
+# segstart = 418.735
+# segstop = 423.237
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 127
+# annotator = VDT, SR
+# SR: Satte 'som streng' som OPRED. OK?
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	syns	synes	verb	_	pres	10	SLETT	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	på	på	prep	_	_	3	ADV	_	_
+6	en	en	det	_	mask|ent|kvant	7	DET	_	_
+7	måte	måte	subst	_	ub|mask|ent|appell	5	PUTFYLL	_	_
+8	skol-	sko	ufullst	_	_	3	DOBJ	_	_
+9	husk-	husk	ufullst	_	_	10	REP	_	_
+10	husker	huske	verb	_	pres	19	FINV	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	skolen	skole	subst	_	be|mask|ent|appell	10	DOBJ	_	_
+13	som	som	prep	_	_	10	OPRED	_	_
+14	streng	streng	adj	_	ub|pos|m/f|ent	13	PUTFYLL	_	_
+15	eller	eller	konj	_	_	16	KONJ	_	_
+16	var	være	verb	_	pret	10	SLETT	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
+18	?	$?	clb	_	_	10	IP	_	_
+19	⸮	_	_	_	_	0	root	_	_
+
+# text = nei jeg synes ikke det ⸮
+# segstart = 423.237
+# segstop = 424.546
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 128
+# annotator = VDT
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	synes	synes	verb	_	pres	6	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = nei ⸮
+# segstart = 424.546
+# segstop = 425.118
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 129
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = nei det synes jeg ikke # jeg trur nok de de føler det annerledes nå i dag ⸮
+# segstart = 425.118
+# segstop = 431.076
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 130
+# annotator = VDT, SR
+# SR: Kan 'annerledes' analyseres som OPRED?
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+3	synes	synes	verb	_	pres	18	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	ikke	ikke	adv	_	_	3	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	trur	tru	verb	_	pres	3	KOORD	_	_
+9	nok	nok	adv	_	_	8	ADV	_	_
+10	de	de	pron	_	nom|2|fl|hum	12	REP	_	_
+11	de	de	pron	_	nom|2|fl|hum	12	SUBJ	_	_
+12	føler	føle	verb	_	pres	8	DOBJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	DOBJ	_	_
+14	annerledes	annerledes	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+15	nå	nå	adv	_	_	12	ADV	_	_
+16	i	i	prep	_	_	12	ADV	_	_
+17	dag	dag	subst	_	ub|mask|ent|appell	16	PUTFYLL	_	_
+18	⸮	_	_	_	_	0	root	_	_
+
+# text = men du veit det var ikke noe slik så mye mobbing eller eller slik # da # som det er nå da ⸮
+# segstart = 431.076
+# segstop = 439.47
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 131
+# annotator = VDT, SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+3	veit	vite	verb	_	pres	5	PAR	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	var	være	verb	_	pret	23	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	noe	noen	det	_	nøyt|ent|kvant	11	REP	_	_
+8	slik	slik	adv	_	_	11	REP	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	mye	mye	adj	_	ub|pos|m/f|ent	11	ATR	_	_
+11	mobbing	mobbing	subst	_	ub|fem|ent|appell	5	PSUBJ	_	_
+12	eller	eller	konj	_	_	13	REP	_	_
+13	eller	eller	konj	_	_	14	KONJ	_	_
+14	slik	slik	det	_	m/f|ent|dem	11	KOORD	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	da	da	adv	_	_	5	ADV	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	som	som	sbu	_	_	20	SBU	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	er	være	verb	_	pres	5	ADV	_	_
+21	nå	nå	adv	_	_	20	ADV	_	_
+22	da	da	adv	_	_	20	ADV	_	_
+23	⸮	_	_	_	_	0	root	_	_
+
+# text = selvsagt så var ble de erta noen e men e det tok de liksom for god fisk det _uninterpretable_ ⸮
+# segstart = 439.47
+# segstop = 446.061
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 132
+# annotator = VDT
+1	selvsagt	selvsagt	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+2	så	så	adv	_	_	4	ADV	_	_
+3	var	være	verb	_	pret	4	REP	_	_
+4	ble	bli	verb	_	pret	6	REP	_	_
+5	de	de	pron	_	nom|2|fl|hum	6	SUBJ	_	_
+6	erta	erte	verb	_	pret	20	FINV	_	_
+7	noen	noen	det	_	fl|kvant	6	DOBJ	_	_
+8	e	e	nol	_	_	9	FYLL	_	_
+9	men	men	konj	_	_	12	KONJ	_	_
+10	e	e	nol	_	_	11	FYLL	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	12	DOBJ	_	_
+12	tok	ta	verb	_	pret	6	KOORD	_	_
+13	de	de	pron	_	nom|2|fl|hum	12	SUBJ	_	_
+14	liksom	liksom	adv	_	_	12	ADV	_	_
+15	for	for	prep	_	_	12	ADV	_	_
+16	god	god	adj	_	ub|pos|m/f|ent	17	ATR	_	_
+17	fisk	fisk	subst	_	ub|mask|ent|appell	15	PUTFYLL	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	12	REP	_	_
+19	_uninterpretable_	_uninterpretable_	pause	_	_	12	FYLL	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = det var ikke av det alvorlige slaget ? ⸮
+# segstart = 446.061
+# segstop = 447.563
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 133
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	var	være	verb	_	pret	9	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	av	av	prep	_	_	2	SPRED	_	_
+5	det	det	det	_	nøyt|ent|dem	7	DET	_	_
+6	alvorlige	alvorlig	adj	_	be|pos|ent	7	ATR	_	_
+7	slaget	slag	subst	_	be|nøyt|ent|appell	4	PUTFYLL	_	_
+8	?	$?	clb	_	_	2	IP	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = nei jeg trur nei nei nei nei # men ellers så har jeg ikke noe jeg har gode minner etter skolen ⸮
+# segstart = 447.563
+# segstop = 452.968
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 135
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	trur	tru	verb	_	pres	17	REP	_	_
+4	nei	nei	interj	_	_	12	INTERJ	_	_
+5	nei	nei	interj	_	_	4	INTERJ	_	_
+6	nei	nei	interj	_	_	4	INTERJ	_	_
+7	nei	nei	interj	_	_	4	INTERJ	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	men	men	konj	_	_	12	KONJ	_	_
+10	ellers	ellers	adv	_	_	11	APP	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	har	ha	verb	_	pres	17	REP	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+14	ikke	ikke	adv	_	_	12	ADV	_	_
+15	noe	noe	pron	_	nøyt|3|ent|pers	12	DOBJ	_	_
+16	jeg	jeg	pron	_	nom|1|ent|hum	17	SUBJ	_	_
+17	har	ha	verb	_	pres	22	FINV	_	_
+18	gode	god	adj	_	pos|fl	19	ATR	_	_
+19	minner	minne	subst	_	ub|nøyt|fl|appell	17	DOBJ	_	_
+20	etter	etter	prep	_	_	17	ADV	_	_
+21	skolen	skole	subst	_	be|mask|ent|appell	20	PUTFYLL	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ så bra # e læreren dere hadde var han eller hun fra Flå eller ? ⸮
+# segstart = 452.968
+# segstop = 457.329
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 136
+# annotator = VDT, SR
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	bra	bra	adj	_	ub|pos|nøyt|ent	17	FRAG	_	_
+4	#	#	pause	_	_	6	IK	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	læreren	lærer	subst	_	be|mask|ent|appell	10	APP	_	_
+7	dere	dere	pron	_	nom|2|fl|hum	8	SUBJ	_	_
+8	hadde	ha	verb	_	pret	6	ATR	_	_
+9	var	være	verb	_	pret	3	KOORD	_	_
+10	han	han	pron	_	nom|mask|3|ent|pers	9	SUBJ	_	_
+11	eller	eller	konj	_	_	12	KONJ	_	_
+12	hun	hun	pron	_	nom|fem|3|ent|hum	10	KOORD	_	_
+13	fra	fra	prep	_	_	9	SPRED	_	_
+14	Flå	Flå	subst	_	prop	13	PUTFYLL	_	_
+15	eller	eller	konj	_	_	9	KONJ	_	_
+16	?	$?	clb	_	_	9	IP	_	_
+17	⸮	_	_	_	_	0	root	_	_
+
+# text = nei han var bortenifra # Vereide på Sunnmøre # han hette E1 sjøl ⸮
+# segstart = 457.329
+# segstop = 463.359
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 137
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	han	han	pron	_	nom|mask|3|ent|pers	3	SUBJ	_	_
+3	var	være	verb	_	pret	14	FINV	_	_
+4	bortenifra	bortenifra	prep	_	_	3	SPRED	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	Vereide	Vereide	subst	_	prop	4	PUTFYLL	_	_
+7	på	på	prep	_	_	6	ATR	_	_
+8	Sunnmøre	Sunnmøre	subst	_	prop	7	PUTFYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	han	han	pron	_	nom|mask|3|ent|pers	11	SUBJ	_	_
+11	hette	hete	verb	_	pret	3	KOORD	_	_
+12	E1	E1	subst	_	prop	11	SPRED	_	_
+13	sjøl	sjøl	adv	_	_	12	ATR	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = gjorde han det ? ⸮
+# segstart = 463.359
+# segstop = 464.003
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 138
+# annotator = VDT
+1	gjorde	gjøre	verb	_	pret	5	FINV	_	_
+2	han	han	pron	_	nom|mask|3|ent|pers	1	SUBJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	1	DOBJ	_	_
+4	?	$?	clb	_	_	1	IP	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # ja da ⸮
+# segstart = 464.003
+# segstop = 465.526
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 139
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	da	da	adv	_	_	3	ADV	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # _front-click_ bra # em # åssen e vil du karakterisere dialekten her i Flå # liksom i forhold til andre dialekter rundt omkring # har dere noe ? ⸮
+# segstart = 465.526
+# segstop = 476.915
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 140
+# annotator = VDT, SR
+# SR: Her vil jeg ha 'åssen' som OPRED. Nå ser jeg OPRED overalt ;D
+1	ja	ja	interj	_	_	10	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	_front-click_	_front-click_	pause	_	_	4	FYLL	_	_
+4	bra	bra	adj	_	ub|pos|nøyt|ent	10	ADV	_	_
+5	#	#	pause	_	_	8	IK	_	_
+6	em	e	nol	_	_	8	FYLL	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	åssen	åssen	adv	_	_	12	ADV	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	vil	ville	verb	_	pres	31	FINV	_	_
+11	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+12	karakterisere	karakterisere	verb	_	inf	10	INFV	_	_
+13	dialekten	dialekt	subst	_	be|mask|ent|appell	12	DOBJ	_	_
+14	her	her	prep	_	_	13	ATR	_	_
+15	i	i	prep	_	_	14	PUTFYLL	_	_
+16	Flå	Flå	subst	_	prop	15	PUTFYLL	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	liksom	liksom	adv	_	_	19	ADV	_	_
+19	i	i	prep	_	_	10	ADV	_	_
+20	forhold	forhold	subst	_	ub|nøyt|ent|appell	19	PUTFYLL	_	_
+21	til	til	prep	_	_	20	ATR	_	_
+22	andre	annen	det	_	fl|dem	23	DET	_	_
+23	dialekter	dialekt	subst	_	ub|mask|fl|appell	21	PUTFYLL	_	_
+24	rundt	rundt	prep	_	_	23	ATR	_	_
+25	omkring	omkring	prep	_	_	24	PUTFYLL	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	har	ha	verb	_	pres	10	KOORD	_	_
+28	dere	dere	pron	_	nom|2|fl|hum	27	SUBJ	_	_
+29	noe	noe	pron	_	nøyt|3|ent|pers	27	DOBJ	_	_
+30	?	$?	clb	_	_	10	IP	_	_
+31	⸮	_	_	_	_	0	root	_	_
+
+# text = _groaning_ # nei men e jeg synes e ## du veit e akkurat nå er det nå ikke det er de eldre som prater rein flåværing ⸮
+# segstart = 476.915
+# segstop = 487.015
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 141
+# annotator = VDT
+1	_groaning_	_groaning_	pause	_	_	20	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	nei	nei	interj	_	_	11	INTERJ	_	_
+4	men	men	konj	_	_	11	KONJ	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	synes	synes	verb	_	pres	11	REP	_	_
+8	e	e	nol	_	_	10	FYLL	_	_
+9	##	##	pause	_	_	10	IK	_	_
+10	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+11	veit	vite	verb	_	pres	20	REP	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	akkurat	akkurat	adv	_	_	14	ADV	_	_
+14	nå	nå	adv	_	_	15	ADV	_	_
+15	er	være	verb	_	pres	20	REP	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+17	nå	nå	adv	_	_	15	ADV	_	_
+18	ikke	ikke	adv	_	_	15	ADV	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	er	være	verb	_	pres	27	FINV	_	_
+21	de	de	det	_	fl|dem	22	DET	_	_
+22	eldre	gammel	adj	_	komp	20	SPRED	_	_
+23	som	som	sbu	_	_	24	SBU	_	_
+24	prater	prate	verb	_	pres	22	ATR	_	_
+25	rein	rein	adj	_	ub|pos|m/f|ent	26	ATR	_	_
+26	flåværing	flåværing	subst	_	prop	24	DOBJ	_	_
+27	⸮	_	_	_	_	0	root	_	_
+
+# text = ellers så ungdommen så gjør de ikke det # det er for mange innflyttere her til det veit du de har lett for å ta etter ⸮
+# segstart = 487.015
+# segstop = 494.86
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 142
+# annotator = VDT, SR
+1	ellers	ellers	adv	_	_	4	APP	_	_
+2	så	så	adv	_	_	5	REP	_	_
+3	ungdommen	ungdom	subst	_	be|mask|ent|appell	6	APP	_	_
+4	så	så	adv	_	_	5	ADV	_	_
+5	gjør	gjøre	verb	_	pres	27	FINV	_	_
+6	de	de	pron	_	nom|2|fl|hum	5	SUBJ	_	_
+7	ikke	ikke	adv	_	_	5	ADV	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	5	DOBJ	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
+11	er	være	verb	_	pres	5	KOORD	_	_
+12	for	for	adv	_	_	13	ADV	_	_
+13	mange	mange	adj	_	pos|fl	14	ATR	_	_
+14	innflyttere	innflytter	subst	_	ub|mask|fl|appell	11	PSUBJ	_	_
+15	her	her	prep	_	_	11	ADV	_	_
+16	til	til	prep	_	_	11	ADV	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	PUTFYLL	_	_
+18	veit	vite	verb	_	pres	11	PAR	_	_
+19	du	du	pron	_	nom|2|ent|hum	18	SUBJ	_	_
+20	de	de	pron	_	nom|2|fl|hum	21	SUBJ	_	_
+21	har	ha	verb	_	pres	5	KOORD	_	_
+22	lett	lett	adj	_	ub|pos|nøyt|ent	21	DOBJ	_	_
+23	for	for	prep	_	_	22	ADV	_	_
+24	å	å	inf-merke	_	_	23	PUTFYLL	_	_
+25	ta	ta	verb	_	inf	24	INFV	_	_
+26	etter	etter	prep	_	_	25	ADV	_	_
+27	⸮	_	_	_	_	0	root	_	_
+
+# text = men når en bare kommer ei mil nedenfor her # så er det ei annen dialekt att det er mer krødsheraddialekt ⸮
+# segstart = 494.86
+# segstop = 501.52
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 143
+# annotator = VDT
+1	men	men	konj	_	_	5	KONJ	_	_
+2	når	når	sbu	_	_	5	SBU	_	_
+3	en	en	det	_	mask|ent|kvant	5	SUBJ	_	_
+4	bare	bare	adv	_	_	5	ADV	_	_
+5	kommer	komme	verb	_	pres	11	APP	_	_
+6	ei	en	det	_	fem|ent|kvant	7	DET	_	_
+7	mil	mil	subst	_	ub|fem|fl|appell	5	DOBJ	_	_
+8	nedenfor	nedenfor	prep	_	_	5	ADV	_	_
+9	her	her	prep	_	_	8	PUTFYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	er	være	verb	_	pres	22	FINV	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+14	ei	en	det	_	fem|ent|kvant	16	DET	_	_
+15	annen	annen	det	_	ub|fem|ent|dem	16	DET	_	_
+16	dialekt	dialekt	subst	_	ub|fem|ent|appell	12	PSUBJ	_	_
+17	att	att	adv	_	_	12	ADV	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	19	SUBJ	_	_
+19	er	være	verb	_	pres	12	KOORD	_	_
+20	mer	mye	adj	_	komp	21	ATR	_	_
+21	krødsheraddialekt	krødsheraddialekt	subst	_	ub|mask|ent|appell	19	SPRED	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = ja nedover her ja ja ⸮
+# segstart = 501.52
+# segstop = 503.023
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 144
+# annotator = VDT
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	nedover	nedover	prep	_	_	1	ADV	_	_
+3	her	her	prep	_	_	2	PUTFYLL	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	ja	ja	interj	_	_	1	INTERJ	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # og kommer en opp til Nes så er det litt annerledes att ⸮
+# segstart = 503.023
+# segstop = 506.855
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 145
+# annotator = VDT
+1	ja	ja	interj	_	_	10	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	og	og	konj	_	_	10	KONJ	_	_
+4	kommer	komme	verb	_	pres	9	APP	_	_
+5	en	en	det	_	mask|ent|kvant	4	SUBJ	_	_
+6	opp	opp	prep	_	_	4	ADV	_	_
+7	til	til	prep	_	_	6	PUTFYLL	_	_
+8	Nes	Nes	subst	_	prop	7	PUTFYLL	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	er	være	verb	_	pres	15	FINV	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	litt	litt	adj	_	ub|pos|nøyt|ent	13	ADV	_	_
+13	annerledes	annerledes	adj	_	ub|pos|nøyt|ent	10	SPRED	_	_
+14	att	att	adv	_	_	10	ADV	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = så det er ikke så lange avstander fra _uninterpretable_ … ? ⸮
+# segstart = 506.855
+# segstop = 508.835
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 146
+# annotator = VDT, SR
+# SR: Mulig PSUBJ?
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	12	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	så	så	adv	_	_	6	ADV	_	_
+6	lange	lang	adj	_	pos|fl	7	ATR	_	_
+7	avstander	avstand	subst	_	ub|mask|fl|appell	3	PSUBJ	_	_
+8	fra	fra	prep	_	_	3	ADV	_	_
+9	_uninterpretable_	_uninterpretable_	pause	_	_	8	FYLL	_	_
+10	…	…	pause	_	_	8	IK	_	_
+11	?	$?	clb	_	_	3	IP	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = * nei nei nei ⸮
+# segstart = 506.855
+# segstop = 508.835
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 147
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	5	INTERJ	_	_
+3	nei	nei	interj	_	_	2	INTERJ	_	_
+4	nei	nei	interj	_	_	2	INTERJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = før det forandrer seg ⸮
+# segstart = 508.835
+# segstop = 510.361
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 148
+# annotator = VDT
+1	før	før	prep	_	_	3	ADV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	forandrer	forandre	verb	_	pres	5	FINV	_	_
+4	seg	seg	pron	_	akk|refl	3	DOBJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = hvor langt må du før du treffer krødsheraddialekt da Gulsvik eller lenger ? ⸮
+# segstart = 510.361
+# segstop = 514.339
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 149
+# annotator = VDT, SR
+# SR: Koordinerte 'Gulsvik eller lenger' med verbrota. OK?
+1	hvor	hvor	adv	_	_	2	ADV	_	_
+2	langt	lang	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+3	må	måtte	verb	_	pres	14	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	før	før	sbu	_	_	7	SBU	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	treffer	treffe	verb	_	pres	3	ADV	_	_
+8	krødsheraddialekt	krødsheraddialekt	subst	_	ub|fem|ent|appell	7	DOBJ	_	_
+9	da	da	adv	_	_	7	ADV	_	_
+10	Gulsvik	Gulsvik	subst	_	prop	3	KOORD	_	_
+11	eller	eller	konj	_	_	12	KONJ	_	_
+12	lenger	lenger	adv	_	_	10	KOORD	_	_
+13	?	$?	clb	_	_	3	IP	_	_
+14	⸮	_	_	_	_	0	root	_	_
+
+# text = Gulsvik ja # ute Gulsvik ja ⸮
+# segstart = 514.339
+# segstop = 515.603
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 151
+# annotator = VDT
+1	Gulsvik	Gulsvik	subst	_	prop	2	ADV	_	_
+2	ja	ja	interj	_	_	7	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	ute	ute	prep	_	_	2	ADV	_	_
+5	Gulsvik	Gulsvik	subst	_	prop	4	PUTFYLL	_	_
+6	ja	ja	interj	_	_	2	INTERJ	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 515.603
+# segstop = 516.676
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 152
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ Gulsvik er det da ⸮
+# segstart = 516.676
+# segstop = 518.101
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 153
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	Gulsvik	Gulsvik	subst	_	prop	3	SPRED	_	_
+3	er	være	verb	_	pres	6	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	da	da	adv	_	_	3	ADV	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # som det heter her ja ⸮
+# segstart = 518.101
+# segstop = 519.842
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 154
+# annotator = VDT
+1	ja	ja	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	som	som	sbu	_	_	5	SBU	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	heter	hete	verb	_	pres	1	ADV	_	_
+6	her	her	prep	_	_	5	ADV	_	_
+7	ja	ja	interj	_	_	5	INTERJ	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 519.842
+# segstop = 520.534
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 156
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = em # hvis du skulle prøve å lokke noen e utenfra # e hit til Flå ## e hvis de s- for å få de til å komme og bu her da ⸮
+# segstart = 520.534
+# segstop = 532.855
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 157
+# annotator = VDT, SR
+1	em	e	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hvis	hvis	sbu	_	_	5	SBU	_	_
+4	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
+5	skulle	skulle	verb	_	pret	33	FINV	_	_
+6	prøve	prøve	verb	_	inf	5	INFV	_	_
+7	å	å	inf-merke	_	_	6	DOBJ	_	_
+8	lokke	lokke	verb	_	inf	7	INFV	_	_
+9	noen	noen	det	_	fl|kvant	8	DOBJ	_	_
+10	e	e	nol	_	_	11	FYLL	_	_
+11	utenfra	utenfra	prep	_	_	9	ATR	_	_
+12	#	#	pause	_	_	14	IK	_	_
+13	e	e	nol	_	_	14	FYLL	_	_
+14	hit	hit	prep	_	_	8	ADV	_	_
+15	til	til	prep	_	_	14	PUTFYLL	_	_
+16	Flå	Flå	subst	_	prop	15	PUTFYLL	_	_
+17	##	##	pause	_	_	19	IK	_	_
+18	e	e	nol	_	_	19	FYLL	_	_
+19	hvis	hvis	sbu	_	_	20	SBU	_	_
+20	de	de	pron	_	nom|2|fl|hum	8	REP	_	_
+21	s-	s	ufullst	_	_	22	FYLL	_	_
+22	for	for	prep	_	_	8	ADV	_	_
+23	å	å	inf-merke	_	_	22	ADV	_	_
+24	få	få	verb	_	inf	23	KOORD	_	_
+25	de	de	pron	_	nom|2|fl|hum	24	DOBJ	_	_
+26	til	til	prep	_	_	24	ADV	_	_
+27	å	å	inf-merke	_	_	26	PUTFYLL	_	_
+28	komme	komme	verb	_	inf	27	INFV	_	_
+29	og	og	konj	_	_	30	KONJ	_	_
+30	bu	bo	verb	_	inf	28	KOORD	_	_
+31	her	her	prep	_	_	30	ADV	_	_
+32	da	da	adv	_	_	30	ADV	_	_
+33	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 531.4
+# segstop = 531.782
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 158
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = hva ville du sagt da ? ⸮
+# segstart = 531.782
+# segstop = 532.855
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 159
+# annotator = VDT
+1	hva	hva	pron	_	sp	4	DOBJ	_	_
+2	ville	ville	verb	_	pret	7	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	sagt	si	verb	_	perf-part	2	INFV	_	_
+5	da	da	adv	_	_	4	ADV	_	_
+6	?	$?	clb	_	_	2	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = _draws-breath_ ja jeg ville ha sagt det at det er da ei veldig trivelig bygd å bu i ## og nå skjer det veldig mye her da # kommer til gjøre ⸮
+# segstart = 532.855
+# segstop = 543.025
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 160
+# annotator = VDT, SR
+1	_draws-breath_	_draws-breath_	pause	_	_	4	FYLL	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+4	ville	ville	verb	_	pret	32	FINV	_	_
+5	ha	ha	verb	_	inf	4	INFV	_	_
+6	sagt	si	verb	_	perf-part	5	INFV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+8	at	at	sbu	_	_	10	SBU	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	SUBJ	_	_
+10	er	være	verb	_	pres	7	APP	_	_
+11	da	da	adv	_	_	10	ADV	_	_
+12	ei	en	det	_	fem|ent|kvant	15	DET	_	_
+13	veldig	veldig	adj	_	ub|pos|m/f|ent	14	ADV	_	_
+14	trivelig	trivelig	adj	_	ub|pos|m/f|ent	15	ATR	_	_
+15	bygd	bygd	verb	_	ub|fem|ent|appell	10	SPRED	_	_
+16	å	å	inf-merke	_	_	15	ATR	_	_
+17	bu	bu	verb	_	inf	16	INFV	_	_
+18	i	i	prep	_	_	17	ADV	_	_
+19	##	##	pause	_	_	20	IK	_	_
+20	og	og	konj	_	_	22	KONJ	_	_
+21	nå	nå	adv	_	_	22	ADV	_	_
+22	skjer	skje	verb	_	pres	10	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+24	veldig	veldig	adj	_	ub|pos|nøyt|ent	25	ADV	_	_
+25	mye	mye	adj	_	ub|pos|nøyt|ent	22	PSUBJ	_	_
+26	her	her	prep	_	_	22	ADV	_	_
+27	da	da	adv	_	_	22	ADV	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	kommer	komme	verb	_	pres	22	KOORD	_	_
+30	til	til	prep	_	_	29	ADV	_	_
+31	gjøre	gjøre	verb	_	inf	30	INFV	_	_
+32	⸮	_	_	_	_	0	root	_	_
+
+# text = jeg har hørt om Bjørneparken skjønner du ⸮
+# segstart = 543.025
+# segstop = 544.694
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 161
+# annotator = VDT
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	har	ha	verb	_	pres	8	FINV	_	_
+3	hørt	høre	verb	_	perf-part	2	INFV	_	_
+4	om	om	prep	_	_	3	ADV	_	_
+5	Bjørneparken	Bjørneparken	subst	_	prop	4	PUTFYLL	_	_
+6	skjønner	skjønne	verb	_	pres	2	PAR	_	_
+7	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja da nå har Thon e- etablert seg og # ja da nei så det er ei veldig veldig trivelig bygd å bu i ⸮
+# segstart = 544.694
+# segstop = 554.009
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 163
+# annotator = VDT, SR
+1	å	å	interj	_	_	5	INTERJ	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	da	da	adv	_	_	2	ADV	_	_
+4	nå	nå	adv	_	_	8	ADV	_	_
+5	har	ha	verb	_	pres	26	REP	_	_
+6	Thon	Thon	subst	_	prop	5	SUBJ	_	_
+7	e-	e	ufullst	_	perf-part	8	FYLL	_	_
+8	etablert	etablere	verb	_	perf-part	5	INFV	_	_
+9	seg	seg	pron	_	akk|refl	8	DOBJ	_	_
+10	og	og	konj	_	_	17	KONJ	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	ja	ja	interj	_	_	17	INTERJ	_	_
+13	da	da	adv	_	_	12	ADV	_	_
+14	nei	nei	interj	_	_	17	INTERJ	_	_
+15	så	så	konj	_	_	17	KONJ	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	SUBJ	_	_
+17	er	være	verb	_	pres	5	KOORD	_	_
+18	ei	en	det	_	fem|ent|kvant	22	DET	_	_
+19	veldig	veldig	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+20	veldig	veldig	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+21	trivelig	trivelig	subst	_	ub|fem|ent|appell	22	ATR	_	_
+22	bygd	bygd	subst	_	ub|pos|fem|ent	17	SPRED	_	_
+23	å	å	inf-merke	_	_	22	ATR	_	_
+24	bu	bue	verb	_	inf	23	INFV	_	_
+25	i	i	prep	_	_	24	ADV	_	_
+26	⸮	_	_	_	_	0	root	_	_
+
+# text = em # er det sp- fritidsaktiviteter som gjør det eller # er det ? ⸮
+# segstart = 554.009
+# segstop = 559.661
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 164
+# annotator = VDT, SR
+1	em	e	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	er	være	verb	_	pres	15	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	sp-	s	ufullst	_	_	6	REP	_	_
+6	fritidsaktiviteter	fritidsaktivitet	subst	_	ub|mask|fl|appell	3	SPRED	_	_
+7	som	som	prep	_	_	8	SBU	_	_
+8	gjør	gjøre	verb	_	pres	6	ATR	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	DOBJ	_	_
+10	eller	eller	konj	_	_	12	KONJ	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	er	være	verb	_	pres	3	KOORD	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+14	?	$?	clb	_	_	3	IP	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = ja nå er det vel e du veit her er det da fritt å gå rundt alle steder og og nå er det vel en del fritidsaktiviteter for ungdommen ⸮
+# segstart = 559.661
+# segstop = 569.485
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 166
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	nå	nå	adv	_	_	3	ADV	_	_
+3	er	være	verb	_	pres	10	REP	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	vel	vel	adv	_	_	3	ADV	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+8	veit	vite	verb	_	pres	3	PAR	_	_
+9	her	her	prep	_	_	10	ADV	_	_
+10	er	være	verb	_	pres	30	FINV	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	10	FSUBJ	_	_
+12	da	da	adv	_	_	10	ADV	_	_
+13	fritt	fri	adj	_	ub|pos|nøyt|ent	10	SPRED	_	_
+14	å	å	inf-merke	_	_	10	PSUBJ	_	_
+15	gå	gå	verb	_	inf	14	INFV	_	_
+16	rundt	rundt	prep	_	_	15	ADV	_	_
+17	alle	all	det	_	fl|kvant	18	DET	_	_
+18	steder	sted	subst	_	ub|nøyt|fl|appell	16	PUTFYLL	_	_
+19	og	og	konj	_	_	20	REP	_	_
+20	og	og	konj	_	_	22	KONJ	_	_
+21	nå	nå	adv	_	_	22	ADV	_	_
+22	er	være	verb	_	pres	10	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+24	vel	vel	adv	_	_	22	ADV	_	_
+25	en	en	det	_	mask|ent|kvant	26	DET	_	_
+26	del	del	subst	_	ub|mask|ent|appell	27	DET	_	_
+27	fritidsaktiviteter	fritidsaktivitet	subst	_	ub|mask|fl|appell	22	PSUBJ	_	_
+28	for	for	prep	_	_	27	ATR	_	_
+29	ungdommen	ungdom	subst	_	be|mask|ent|appell	28	PUTFYLL	_	_
+30	⸮	_	_	_	_	0	root	_	_
+
+# text = men e jeg synes det er bare til ta vare på de eldre # så er Flå kommune # ypperlig # veldig bra ⸮
+# segstart = 569.485
+# segstop = 578.075
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 167
+# annotator = VDT, SR
+1	men	men	konj	_	_	16	KONJ	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+4	synes	synes	verb	_	pres	16	REP	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	er	være	verb	_	pres	16	REP	_	_
+7	bare	bare	adv	_	_	6	ADV	_	_
+8	til	til	prep	_	_	15	APP	_	_
+9	ta	ta	verb	_	inf	8	INFV	_	_
+10	vare	vare	subst	_	appell	9	DOBJ	_	_
+11	på	på	prep	_	_	10	ATR	_	_
+12	de	de	det	_	fl|dem	13	DET	_	_
+13	eldre	gammel	adj	_	komp	11	PUTFYLL	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	så	så	adv	_	_	16	ADV	_	_
+16	er	være	verb	_	pres	24	FINV	_	_
+17	Flå	Flå	subst	_	prop	16	SUBJ	_	_
+18	kommune	kommune	subst	_	ub|mask|ent|appell	17	FLAT	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	ypperlig	ypperlig	adj	_	ub|pos|m/f|ent	16	SPRED	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	veldig	veldig	adj	_	ub|pos|nøyt|ent	23	ADV	_	_
+23	bra	bra	adj	_	ub|pos|nøyt|ent	20	KOORD	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = det er veldig bra da ⸮
+# segstart = 578.075
+# segstop = 579.077
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 168
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	er	være	verb	_	pres	6	FINV	_	_
+3	veldig	veldig	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+4	bra	bra	adj	_	ub|pos|nøyt|ent	2	SPRED	_	_
+5	da	da	adv	_	_	2	ADV	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # så så jeg jeg kan ikke si at jeg em # jeg gruer meg til alderdommen da # sjøl om jeg er to og sytti år sjøl ⸮
+# segstart = 579.077
+# segstop = 587.074
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 169
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	adv	_	_	4	REP	_	_
+4	så	så	konj	_	_	7	KONJ	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	6	REP	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	kan	kunne	verb	_	pres	30	FINV	_	_
+8	ikke	ikke	adv	_	_	9	ADV	_	_
+9	si	si	verb	_	inf	7	INFV	_	_
+10	at	at	sbu	_	_	15	SBU	_	_
+11	jeg	jeg	pron	_	nom|1|ent|hum	14	REP	_	_
+12	em	e	nol	_	_	14	FYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+15	gruer	grue	verb	_	pres	9	DOBJ	_	_
+16	meg	jeg	pron	_	akk|1|ent|hum	15	DOBJ	_	_
+17	til	til	prep	_	_	15	ADV	_	_
+18	alderdommen	alderdom	subst	_	be|mask|ent|appell	17	PUTFYLL	_	_
+19	da	da	adv	_	_	15	ADV	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	sjøl	sjøl	adv	_	_	22	ADV	_	_
+22	om	om	sbu	_	_	24	SBU	_	_
+23	jeg	jeg	pron	_	nom|1|ent|hum	24	SUBJ	_	_
+24	er	være	verb	_	pres	15	ADV	_	_
+25	to	to	det	_	fl|kvant	28	DET	_	_
+26	og	og	konj	_	_	27	KONJ	_	_
+27	sytti	sytti	det	_	fl|kvant	25	KOORD	_	_
+28	år	år	subst	_	ub|nøyt|fl|appell	24	SPRED	_	_
+29	sjøl	sjøl	adv	_	_	24	ADV	_	_
+30	⸮	_	_	_	_	0	root	_	_
+
+# text = ja nei det er bra ⸮
+# segstart = 587.074
+# segstop = 588.195
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 170
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	nei	nei	interj	_	_	4	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	er	være	verb	_	pres	6	FINV	_	_
+5	bra	bra	adj	_	ub|pos|nøyt|ent	4	SPRED	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 588.195
+# segstop = 588.744
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 171
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = det er bra da det er godt å vite da # å føle seg trygg slik ⸮
+# segstart = 588.744
+# segstop = 592.173
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 172
+# annotator = VDT, SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	er	være	verb	_	pres	17	FINV	_	_
+3	bra	bra	adj	_	ub|pos|nøyt|ent	2	SPRED	_	_
+4	da	da	sbu	_	_	2	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
+6	er	være	verb	_	pres	2	KOORD	_	_
+7	godt	god	adj	_	ub|pos|nøyt|ent	6	SPRED	_	_
+8	å	å	inf-merke	_	_	7	ADV	_	_
+9	vite	vite	verb	_	inf	8	INFV	_	_
+10	da	da	adv	_	_	6	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	å	å	inf-merke	_	_	8	KOORD	_	_
+13	føle	føle	verb	_	inf	12	INFV	_	_
+14	seg	seg	pron	_	akk|refl	13	DOBJ	_	_
+15	trygg	trygg	adj	_	ub|pos|m/f|ent	13	OPRED	_	_
+16	slik	slik	adv	_	_	13	ADV	_	_
+17	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 592.173
+# segstop = 593.127
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 174
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = em trur du det er store forskjeller mellom å bu her og i byen da ? ⸮
+# segstart = 593.127
+# segstop = 597.986
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 175
+# annotator = VDT
+1	em	e	nol	_	_	2	FYLL	_	_
+2	trur	tru	verb	_	pres	17	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	2	DOBJ	_	_
+6	store	stor	adj	_	pos|fl	7	ATR	_	_
+7	forskjeller	forskjell	subst	_	ub|mask|fl|appell	5	PSUBJ	_	_
+8	mellom	mellom	prep	_	_	7	ATR	_	_
+9	å	å	inf-merke	_	_	8	PUTFYLL	_	_
+10	bu	bu	verb	_	inf	9	INFV	_	_
+11	her	her	prep	_	_	10	ADV	_	_
+12	og	og	konj	_	_	13	KONJ	_	_
+13	i	i	prep	_	_	11	KOORD	_	_
+14	byen	by	subst	_	be|mask|ent|appell	13	PUTFYLL	_	_
+15	da	da	adv	_	_	2	ADV	_	_
+16	?	$?	clb	_	_	2	IP	_	_
+17	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja ⸮
+# segstart = 597.986
+# segstop = 598.484
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 176
+# annotator = VDT
+1	å	å	interj	_	_	3	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 598.484
+# segstop = 599.009
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 177
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja # å huttetu når jeg er nedi Oslo og besøker dattera mi så # aldri om jeg der ville ha budd # aldri ⸮
+# segstart = 599.009
+# segstop = 607.633
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 178
+# annotator = VDT, SR
+# SR: Litt usikker på hva vi skal gjøre med siste 'aldri'.
+1	å	å	interj	_	_	8	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	å	å	interj	_	_	8	INTERJ	_	_
+5	huttetu	huttetu	interj	_	_	4	INTERJ	_	_
+6	når	når	sbu	_	_	8	SBU	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	er	være	verb	_	pres	26	FINV	_	_
+9	nedi	nedi	prep	_	_	8	SPRED	_	_
+10	Oslo	Oslo	subst	_	prop	9	PUTFYLL	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	besøker	besøke	verb	_	pres	8	KOORD	_	_
+13	dattera	datter	subst	_	be|fem|ent|appell	12	DOBJ	_	_
+14	mi	min	det	_	fem|ent|poss	13	DET	_	_
+15	så	så	adv	_	_	8	REP	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	aldri	aldri	adv	_	_	23	ADV	_	_
+18	om	om	sbu	_	_	21	SBU	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	21	SUBJ	_	_
+20	der	der	prep	_	_	23	ADV	_	_
+21	ville	ville	verb	_	pret	8	KOORD	_	_
+22	ha	ha	verb	_	inf	21	INFV	_	_
+23	budd	bu	verb	_	perf-part	22	INFV	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	aldri	aldri	adv	_	_	8	KOORD	_	_
+26	⸮	_	_	_	_	0	root	_	_
+
+# text = du lengter heim til naturen og ? ⸮
+# segstart = 607.633
+# segstop = 609.112
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 179
+# annotator = VDT
+1	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+2	lengter	lengte	verb	_	pres	8	FINV	_	_
+3	heim	heim	prep	_	_	2	ADV	_	_
+4	til	til	prep	_	_	3	PUTFYLL	_	_
+5	naturen	natur	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	og	og	konj	_	_	2	KONJ	_	_
+7	?	$?	clb	_	_	2	IP	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = å ja ja ja ja ja ⸮
+# segstart = 609.112
+# segstop = 609.971
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 181
+# annotator = VDT
+1	å	å	interj	_	_	7	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	ja	ja	interj	_	_	1	INTERJ	_	_
+5	ja	ja	interj	_	_	1	INTERJ	_	_
+6	ja	ja	interj	_	_	1	INTERJ	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det kan jeg skjønne altså ⸮
+# segstart = 609.971
+# segstop = 611.348
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 182
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	5	DOBJ	_	_
+3	kan	kunne	verb	_	pres	7	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	skjønne	skjønne	verb	_	inf	3	INFV	_	_
+6	altså	altså	adv	_	_	5	ADV	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # å ja ⸮
+# segstart = 611.348
+# segstop = 612.73
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 183
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	å	å	interj	_	_	1	INTERJ	_	_
+4	ja	ja	interj	_	_	3	INTERJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det er jo så fint her ⸮
+# segstart = 612.73
+# segstop = 615.23
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 185
+# annotator = VDT
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	8	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	så	så	adv	_	_	6	ADV	_	_
+6	fint	fin	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+7	her	her	prep	_	_	3	ADV	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = e men da trur jeg nesten vi kan avslutte intervjuet fo- og det her gikk jo heilt fantastisk bra ⸮
+# segstart = 615.23
+# segstop = 621.216
+# file = flaa_04gk-amg
+# speaker = amg
+# id = 186
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	men	men	konj	_	_	4	KONJ	_	_
+3	da	da	adv	_	_	4	ADV	_	_
+4	trur	tru	verb	_	pres	20	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	nesten	nesten	adv	_	_	4	ADV	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+8	kan	kunne	verb	_	pres	4	DOBJ	_	_
+9	avslutte	avslutte	verb	_	inf	8	INFV	_	_
+10	intervjuet	intervju	subst	_	be|nøyt|ent|appell	9	DOBJ	_	_
+11	fo-	f	ufullst	_	_	12	REP	_	_
+12	og	og	konj	_	_	15	KONJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	15	SUBJ	_	_
+14	her	her	prep	_	_	13	ATR	_	_
+15	gikk	gå	verb	_	pret	4	KOORD	_	_
+16	jo	jo	adv	_	_	15	ADV	_	_
+17	heilt	heil	adj	_	ub|pos|nøyt|ent	18	ADV	_	_
+18	fantastisk	fantastisk	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+19	bra	bra	adj	_	ub|pos|nøyt|ent	15	ADV	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = * ja * ja ⸮
+# segstart = 615.23
+# segstop = 621.216
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 187
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	2	INTERJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 621.216
+# segstop = 621.454
+# file = flaa_04gk-amg
+# speaker = flaa_04gk
+# id = 188
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+

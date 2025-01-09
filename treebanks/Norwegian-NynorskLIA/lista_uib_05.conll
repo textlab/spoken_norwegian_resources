@@ -1,0 +1,5837 @@
+# text = kan du berre seie namnet ditt først
+# segstart = 3.651
+# segstop = 5.908
+# file = lista_uib_05
+# speaker = ho
+# id = 1
+1	kan		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	berre		adv			4	ADV		hov
+4	seie		verb			1	INFV		hov
+5	namnet		subst			4	DOBJ		hov
+6	ditt		det			5	DET		hov
+7	først		adv			4	ADV		hov
+
+# text = eg heiter lista_uib_0501 og # bur på Vatne
+# segstart = 5.681
+# segstop = 9.907
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 2
+1	eg		pron			2	SUBJ		hov
+2	heiter		verb			0	FINV		hov
+3	lista_uib_0501		subst			2	SPRED		hov
+4	og		konj			6	KONJ		hov
+5	#		pause			6	IK		hov
+6	bur		verb			2	KOORD		hov
+7	på		prep			6	ADV		hov
+8	Vatne		subst			7	PUTFYLL		hov
+
+# text = sånn …
+# segstart = 10.788
+# segstop = 12.64
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 3
+1	sånn		adv			0	FRAG		hov
+2	…		ellipsis			1	IK		hov
+
+# text = det er # heiter det Vatne her ?
+# segstart = 12.082
+# segstop = 14.339
+# file = lista_uib_05
+# speaker = ho
+# id = 4
+1	det		pron			2	SUBJ		hov
+2	er		verb			4	REP		hov
+3	#		pause			4	IK		hov
+4	heiter		verb			0	FINV		hov
+5	det		pron			4	SUBJ		hov
+6	Vatne		subst			4	SPRED		hov
+7	her		prep			4	ADV		hov
+8	?		clb			4	IP		hov
+
+# text = ja Austre Vatne
+# segstart = 14.204
+# segstop = 15.792
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 5
+1	ja		interj			0	INTERJ		hov
+2	Austre		subst			1	ADV		hov
+3	Vatne		subst			2	FLAT		hov
+
+# text = fem hundre meter ifrå # Vanse
+# segstart = 16.287
+# segstop = 18.604
+# file = lista_uib_05
+# speaker = ho
+# id = 6
+1	fem		det			2	DET		hov
+2	hundre		subst			3	DET		hov
+3	meter		subst			0	FRAG		hov
+4	ifrå		prep			3	ATR		hov
+5	#		pause			6	IK		hov
+6	Vanse		subst			4	PUTFYLL		hov
+
+# text = ja # det er ikkje langt
+# segstart = 18.515
+# segstop = 21.172
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 7
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	langt		adv			4	ADV		hov
+
+# text = ja # du er ikkje så veldig gammal heller
+# segstart = 23.793
+# segstop = 26.993
+# file = lista_uib_05
+# speaker = ho
+# id = 8
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	du		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	så		adv			7	ADV		hov
+7	veldig		adj			8	ADV		hov
+8	gammal		adj			4	SPRED		hov
+9	heller		adv			4	ADV		hov
+
+# text = nei eg er seksten år
+# segstart = 27.384
+# segstop = 30.943
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 9
+1	nei		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	er		verb			0	FINV		hov
+4	seksten		det			5	DET		hov
+5	år		subst			3	SPRED		hov
+
+# text = men em
+# segstart = 30.427
+# segstop = 31.587
+# file = lista_uib_05
+# speaker = ho
+# id = 10
+1	men		konj			0	FRAG		hov
+2	em		nol			1	FYLL		hov
+
+# text = e eg lurar på er det noko bestemt du kan hugse frå du var lita # altså det første du kan hugse kanskje # hugsar veldig godt
+# segstart = 32.491
+# segstop = 40.9
+# file = lista_uib_05
+# speaker = ho
+# id = 11
+1	e		nol			2	FYLL		hov
+2	eg		pron			3	SUBJ		hov
+3	lurar		verb			5	ADV		hov
+4	på		prep			3	ADV		hov
+5	er		verb			0	FINV		hov
+6	det		pron			5	FSUBJ		hov
+7	noko		det			8	DET		hov
+8	bestemt		adj			5	SPRED		hov
+9	du		pron			10	SUBJ		hov
+10	kan		verb			8	ATR		hov
+11	hugse		verb			10	INFV		hov
+12	frå		prep			11	ADV		hov
+13	du		pron			14	SUBJ		hov
+14	var		verb			12	DOBJ		hov
+15	lita		adj			14	SPRED		hov
+16	#		pause			17	IK		hov
+17	altså		adv			21	ADV		hov
+18	det		det			19	DET		hov
+19	første		adj			22	SPRED		hov
+20	du		pron			21	SUBJ		hov
+21	kan		verb			11	KOORD		hov
+22	hugse		verb			21	INFV		hov
+23	kanskje		adv			25	ADV		hov
+24	#		pause			25	IK		hov
+25	hugsar		verb			21	KOORD		hov
+26	veldig		adj			27	ADV		hov
+27	godt		adv			25	ADV		hov
+
+# text = det v- må vere da eg fekk katten
+# segstart = 40.969
+# segstop = 43.393
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 12
+1	det		pron			3	SUBJ		hov
+2	v-		ufullst			3	FYLL		hov
+3	må		verb			0	FINV		hov
+4	vere		verb			3	INFV		hov
+5	da		sbu			7	SBU		hov
+6	eg		pron			7	SUBJ		hov
+7	fekk		verb			4	DOBJ		hov
+8	katten		subst			7	DOBJ		hov
+
+# text = å ja ?
+# segstart = 44.007
+# segstop = 44.823
+# file = lista_uib_05
+# speaker = ho
+# id = 13
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	?		clb			1	IP		hov
+
+# text = det var # det er # tretten år sidan nå ## så
+# segstart = 44.546
+# segstop = 49.947
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 14
+1	det		pron			2	SUBJ		hov
+2	var		verb			5	REP		hov
+3	#		pause			4	IK		hov
+4	det		pron			5	SUBJ		hov
+5	er		verb			0	FINV		hov
+6	#		pause			7	IK		hov
+7	tretten		det			8	DET		hov
+8	år		subst			5	SPRED		hov
+9	sidan		adv			5	ADV		hov
+10	nå		adv			5	ADV		hov
+11	##		pause			12	IK		hov
+12	så		adv			5	ADV		hov
+
+# text = den der ?
+# segstart = 49.8
+# segstop = 50.796
+# file = lista_uib_05
+# speaker = ho
+# id = 15
+1	den		pron			0	FRAG		hov
+2	der		prep			1	ATR		hov
+3	?		clb			1	IP		hov
+
+# text = ja
+# segstart = 50.506
+# segstop = 51.261
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 16
+1	ja		interj			0	INTERJ		hov
+
+# text = jo eg fekk han hos naboen vår # dei hadde så fullt av kattar
+# segstart = 52.061
+# segstop = 56.302
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 17
+1	jo		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	fekk		verb			0	FINV		hov
+4	han		pron			3	DOBJ		hov
+5	hos		prep			3	ADV		hov
+6	naboen		subst			5	PUTFYLL		hov
+7	vår		det			6	DET		hov
+8	#		pause			9	IK		hov
+9	dei		pron			10	SUBJ		hov
+10	hadde		verb			3	KOORD		hov
+11	så		adv			12	ADV		hov
+12	fullt		adj			10	SPRED		hov
+13	av		prep			12	ADV		hov
+14	kattar		subst			13	PUTFYLL		hov
+
+# text = men han er veldig gammal nå men
+# segstart = 58.11
+# segstop = 60.702
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 18
+1	men		konj			3	KONJ		hov
+2	han		pron			3	SUBJ		hov
+3	er		verb			0	FINV		hov
+4	veldig		adj			5	ADV		hov
+5	gammal		adj			3	SPRED		hov
+6	nå		adv			3	ADV		hov
+7	men		konj			3	KONJ		hov
+
+# text = ja vel
+# segstart = 58.766
+# segstop = 59.542
+# file = lista_uib_05
+# speaker = ho
+# id = 19
+1	ja		interj			0	INTERJ		hov
+2	vel		adv			1	ADV		hov
+
+# text = han er jussom og han er heilt # er jussom han er ung # enda
+# segstart = 61.031
+# segstop = 66.742
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 20
+1	han		pron			2	SUBJ		hov
+2	er		verb			12	REP		hov
+3	jussom		adv			2	ADV		hov
+4	og		konj			6	KONJ		hov
+5	han		pron			6	SUBJ		hov
+6	er		verb			12	REP		hov
+7	heilt		adj			6	ADV		hov
+8	#		pause			9	IK		hov
+9	er		verb			12	REP		hov
+10	jussom		adv			9	ADV		hov
+11	han		pron			12	SUBJ		hov
+12	er		verb			0	FINV		hov
+13	ung		adj			12	SPRED		hov
+14	#		pause			15	IK		hov
+15	enda		adv			12	ADV		hov
+
+# text = tretten år er nå bra alder for ein katt vel ?
+# segstart = 66.398
+# segstop = 68.907
+# file = lista_uib_05
+# speaker = ho
+# id = 21
+1	tretten		det			2	DET		hov
+2	år		subst			3	SUBJ		hov
+3	er		verb			0	FINV		hov
+4	nå		adv			3	ADV		hov
+5	bra		adj			6	ATR		hov
+6	alder		subst			3	SPRED		hov
+7	for		prep			3	ADV		hov
+8	ein		det			9	DET		hov
+9	katt		subst			7	PUTFYLL		hov
+10	vel		adv			3	ADV		hov
+11	?		clb			3	IP		hov
+
+# text = mm
+# segstart = 68.578
+# segstop = 69.447
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 22
+1	mm		interj			0	INTERJ		hov
+
+# text = men han verkar ikkje som han er så gammal så
+# segstart = 70.502
+# segstop = 73.088
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 23
+1	men		konj			3	KONJ		hov
+2	han		pron			3	SUBJ		hov
+3	verkar		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	som		sbu			7	SBU		hov
+6	han		pron			7	SUBJ		hov
+7	er		verb			3	SPRED		hov
+8	så		adv			9	ADV		hov
+9	gammal		adj			7	SPRED		hov
+10	så		adv			7	ADV		hov
+
+# text = han ligg ikkje berre i ro heile dagen ?
+# segstart = 73.555
+# segstop = 75.526
+# file = lista_uib_05
+# speaker = ho
+# id = 24
+1	han		pron			2	SUBJ		hov
+2	ligg		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	berre		adv			2	ADV		hov
+5	i		prep			2	ADV		hov
+6	ro		subst			5	PUTFYLL		hov
+7	heile		adj			8	ATR		hov
+8	dagen		subst			2	ADV		hov
+9	?		clb			2	IP		hov
+
+# text = nei da han er ute mykje
+# segstart = 75.186
+# segstop = 77.198
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 25
+1	nei		interj			4	INTERJ		hov
+2	da		adv			4	ADV		hov
+3	han		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	ute		prep			4	SPRED		hov
+6	mykje		adj			4	ADV		hov
+
+# text = ute på jakt ?
+# segstart = 77.199
+# segstop = 78.421
+# file = lista_uib_05
+# speaker = ho
+# id = 26
+1	ute		prep			0	FRAG		hov
+2	på		prep			1	PUTFYLL		hov
+3	jakt		subst			2	PUTFYLL		hov
+4	?		clb			1	IP		hov
+
+# text = ja
+# segstart = 78.204
+# segstop = 79.1
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 27
+1	ja		interj			0	INTERJ		hov
+
+# text = så den har du hatt den er nesten like gammal som deg
+# segstart = 81.677
+# segstop = 84.378
+# file = lista_uib_05
+# speaker = ho
+# id = 28
+1	så		konj			3	KONJ		hov
+2	den		pron			5	DOBJ		hov
+3	har		verb			7	REP		hov
+4	du		pron			3	SUBJ		hov
+5	hatt		verb			3	INFV		hov
+6	den		pron			7	SUBJ		hov
+7	er		verb			0	FINV		hov
+8	nesten		adv			9	ADV		hov
+9	like		adv			10	ADV		hov
+10	gammal		adj			7	SPRED		hov
+11	som		prep			10	ADV		hov
+12	deg		pron			11	PUTFYLL		hov
+
+# text = ja # eller nesten
+# segstart = 84.475
+# segstop = 87.251
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 29
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	eller		konj			4	KONJ		hov
+4	nesten		adv			1	ADV		hov
+
+# text = ja er det nokre andre ting du hugsar ?
+# segstart = 88.228
+# segstop = 90.555
+# file = lista_uib_05
+# speaker = ho
+# id = 30
+1	ja		interj			2	INTERJ		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	nokre		det			6	DET		hov
+5	andre		det			6	DET		hov
+6	ting		subst			2	SPRED		hov
+7	du		pron			8	SUBJ		hov
+8	hugsar		verb			6	ATR		hov
+9	?		clb			2	IP		hov
+
+# text = ## ja ## ja # det var # e med ei # ei venninne så # skulle eg sitte oppå skuldrene hennar
+# segstart = 92.386
+# segstop = 107.749
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 31
+1	##		pause			2	IK		hov
+2	ja		interj			7	INTERJ		hov
+3	##		pause			4	IK		hov
+4	ja		interj			7	INTERJ		hov
+5	#		pause			6	IK		hov
+6	det		pron			7	FSUBJ		hov
+7	var		verb			0	FINV		hov
+8	#		pause			10	IK		hov
+9	e		nol			10	FYLL		hov
+10	med		prep			7	SPRED		hov
+11	ei		det			13	REP		hov
+12	#		pause			13	IK		hov
+13	ei		det			14	DET		hov
+14	venninne		subst			10	PUTFYLL		hov
+15	så		adv			17	ADV		hov
+16	#		pause			17	IK		hov
+17	skulle		verb			7	KOORD		hov
+18	eg		pron			17	SUBJ		hov
+19	sitte		verb			17	INFV		hov
+20	oppå		prep			19	ADV		hov
+21	skuldrene		subst			20	PUTFYLL		hov
+22	hennar		det			21	DET		hov
+
+# text = så datt eg ned på grusen og hovudet først # det gløymer eg aldri for eg fekk sånt svært arr i # med auget
+# segstart = 107.749
+# segstop = 115.346
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 32
+1	så		adv			2	ADV		hov
+2	datt		verb			0	FINV		hov
+3	eg		pron			2	SUBJ		hov
+4	ned		adv			2	ADV		hov
+5	på		prep			2	ADV		hov
+6	grusen		subst			5	PUTFYLL		hov
+7	og		konj			8	KONJ		hov
+8	hovudet		subst			6	KOORD		hov
+9	først		adv			2	ADV		hov
+10	#		pause			11	IK		hov
+11	det		pron			12	DOBJ		hov
+12	gløymer		verb			2	KOORD		hov
+13	eg		pron			12	SUBJ		hov
+14	aldri		adv			12	ADV		hov
+15	for		konj			17	KONJ		hov
+16	eg		pron			17	SUBJ		hov
+17	fekk		verb			2	KOORD		hov
+18	sånt		det			20	DET		hov
+19	svært		adj			20	ATR		hov
+20	arr		subst			17	DOBJ		hov
+21	i		prep			23	REP		hov
+22	#		pause			23	IK		hov
+23	med		prep			20	ATR		hov
+24	auget		subst			23	PUTFYLL		hov
+
+# text = seier du det
+# segstart = 115.254
+# segstop = 116.277
+# file = lista_uib_05
+# speaker = ho
+# id = 33
+1	seier		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+
+# text = så det hugsar eg veldig godt
+# segstart = 116.133
+# segstop = 119.966
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 34
+1	så		konj			3	KONJ		hov
+2	det		pron			3	DOBJ		hov
+3	hugsar		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	veldig		adj			6	ADV		hov
+6	godt		adj			3	ADV		hov
+
+# text = måtte du på sjukehuset eller ?
+# segstart = 120.11
+# segstop = 122.241
+# file = lista_uib_05
+# speaker = ho
+# id = 35
+1	måtte		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	på		prep			1	ADV		hov
+4	sjukehuset		subst			3	PUTFYLL		hov
+5	eller		konj			1	KONJ		hov
+6	?		clb			1	IP		hov
+
+# text = nei det var ikkje så ille men eg # måtte m- # eg var hos doktoren
+# segstart = 122.12
+# segstop = 126.521
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 36
+1	nei		interj			3	INTERJ		hov
+2	det		pron			3	SUBJ		hov
+3	var		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	så		adv			6	ADV		hov
+6	ille		adj			3	SPRED		hov
+7	men		konj			14	KONJ		hov
+8	eg		pron			10	SUBJ		hov
+9	#		pause			10	IK		hov
+10	måtte		verb			14	REP		hov
+11	m-		ufullst			13	FYLL		hov
+12	#		pause			13	IK		hov
+13	eg		pron			14	SUBJ		hov
+14	var		verb			3	KOORD		hov
+15	hos		prep			14	SPRED		hov
+16	doktoren		subst			15	PUTFYLL		hov
+
+# text = ja
+# segstart = 126.456
+# segstop = 127.448
+# file = lista_uib_05
+# speaker = ho
+# id = 37
+1	ja		interj			0	INTERJ		hov
+
+# text = har katten fått hoste ?
+# segstart = 129.596
+# segstop = 131.244
+# file = lista_uib_05
+# speaker = ho
+# id = 38
+1	har		verb			0	FINV		hov
+2	katten		subst			1	SUBJ		hov
+3	fått		verb			1	INFV		hov
+4	hoste		subst			3	SPRED		hov
+5	?		clb			1	IP		hov
+
+# text = # ja han hostar gansk-
+# segstart = 130.894
+# segstop = 133.06
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 39
+1	#		pause			2	IK		hov
+2	ja		interj			4	INTERJ		hov
+3	han		pron			4	SUBJ		hov
+4	hostar		verb			0	FINV		hov
+5	gansk-		ufullst			4	FYLL		hov
+
+# text = …
+# segstart = 132.27
+# segstop = 133.11
+# file = lista_uib_05
+# speaker = ho
+# id = 40
+1	…		ellipsis			0	IK		hov
+
+# text = ja # trur det må vere noko sånn ##
+# segstart = 133.06
+# segstop = 140.579
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 41
+1	ja		interj			3	INTERJ		hov
+2	#		pause			3	IK		hov
+3	trur		verb			0	FINV		hov
+4	det		pron			5	FSUBJ		hov
+5	må		verb			3	DOBJ		hov
+6	vere		verb			5	INFV		hov
+7	noko		det			8	ADV		hov
+8	sånn		adv			6	SPRED		hov
+9	##		pause			3	IK		hov
+
+# text = han likte kanskje ikkje dette her
+# segstart = 141.961
+# segstop = 144.051
+# file = lista_uib_05
+# speaker = ho
+# id = 42
+1	han		pron			2	SUBJ		hov
+2	likte		verb			0	FINV		hov
+3	kanskje		adv			2	ADV		hov
+4	ikkje		adv			2	ADV		hov
+5	dette		pron			2	DOBJ		hov
+6	her		prep			5	ATR		hov
+
+# text = e du kan jo kanskje seie litt om e # kva du # steller med i løpet av ein sånn alminneleg dag # korleis de # får dagen til gå
+# segstart = 147.34
+# segstop = 157.01
+# file = lista_uib_05
+# speaker = ho
+# id = 43
+1	e		nol			2	FYLL		hov
+2	du		pron			3	SUBJ		hov
+3	kan		verb			0	FINV		hov
+4	jo		adv			6	ADV		hov
+5	kanskje		adv			6	ADV		hov
+6	seie		verb			3	INFV		hov
+7	litt		adj			6	ADV		hov
+8	om		sbu			14	SBU		hov
+9	e		nol			11	FYLL		hov
+10	#		pause			11	IK		hov
+11	kva		pron			14	DOBJ		hov
+12	du		pron			14	SUBJ		hov
+13	#		pause			14	IK		hov
+14	steller		verb			6	DOBJ		hov
+15	med		prep			14	ADV		hov
+16	i		prep			14	ADV		hov
+17	løpet		subst			16	PUTFYLL		hov
+18	av		prep			17	ATR		hov
+19	ein		det			22	DET		hov
+20	sånn		det			22	DET		hov
+21	alminneleg		adj			22	ATR		hov
+22	dag		subst			18	PUTFYLL		hov
+23	#		pause			24	IK		hov
+24	korleis		adv			27	ADV		hov
+25	de		pron			27	SUBJ		hov
+26	#		pause			27	IK		hov
+27	får		verb			14	KOORD		hov
+28	dagen		subst			27	DOBJ		hov
+29	til		prep			30	ATR		hov
+30	gå		verb			27	INFV		hov
+
+# text = # ja vi er jo fri ganske tidleg ifrå skolen åss-
+# segstart = 156.885
+# segstop = 162.204
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 44
+1	#		pause			2	IK		hov
+2	ja		interj			4	INTERJ		hov
+3	vi		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	fri		adj			4	SPRED		hov
+7	ganske		adv			8	ADV		hov
+8	tidleg		adj			4	ADV		hov
+9	ifrå		prep			6	ADV		hov
+10	skolen		subst			9	PUTFYLL		hov
+11	åss-		ufullst			4	FYLL		hov
+
+# text = em pleier å få fri tjue over to # av og til kvart over eitt # så etter da så pleier eg å ## passe mykje ein unge som # vi kjenner her borte
+# segstart = 162.374
+# segstop = 175.36
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 45
+1	em		nol			2	FYLL		hov
+2	pleier		verb			0	FINV		hov
+3	å		inf-merke			2	DOBJ		hov
+4	få		verb			3	INFV		hov
+5	fri		adj			4	SPRED		hov
+6	tjue		det			4	ADV		hov
+7	over		prep			6	ATR		hov
+8	to		det			7	PUTFYLL		hov
+9	#		pause			10	IK		hov
+10	av		prep			4	ADV		hov
+11	og		konj			12	KONJ		hov
+12	til		prep			10	KOORD		hov
+13	kvart		subst			12	PUTFYLL		hov
+14	over		prep			13	ATR		hov
+15	eitt		det			14	PUTFYLL		hov
+16	#		pause			17	IK		hov
+17	så		konj			21	KONJ		hov
+18	etter		prep			21	ADV		hov
+19	da		adv			21	ADV		hov
+20	så		adv			21	ADV		hov
+21	pleier		verb			2	KOORD		hov
+22	eg		pron			21	SUBJ		hov
+23	å		inf-merke			21	DOBJ		hov
+24	##		pause			25	IK		hov
+25	passe		verb			23	INFV		hov
+26	mykje		adj			25	ADV		hov
+27	ein		det			28	DET		hov
+28	unge		subst			25	DOBJ		hov
+29	som		sbu			32	SBU		hov
+30	#		pause			31	IK		hov
+31	vi		pron			32	SUBJ		hov
+32	kjenner		verb			28	ATR		hov
+33	her		prep			32	ADV		hov
+34	borte		prep			33	PUTFYLL		hov
+
+# text = har han ifrå rett etter skolen til # om kvelden så går eg rundt med han i Vanse og sånn
+# segstart = 176.303
+# segstop = 182.934
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 46
+1	har		verb			11	APP		hov
+2	han		pron			1	DOBJ		hov
+3	ifrå		prep			1	ADV		hov
+4	rett		adj			5	ADV		hov
+5	etter		prep			3	PUTFYLL		hov
+6	skolen		subst			5	PUTFYLL		hov
+7	til		prep			6	ATR		hov
+8	#		pause			9	IK		hov
+9	om		prep			7	PUTFYLL		hov
+10	kvelden		subst			9	PUTFYLL		hov
+11	så		adv			12	ADV		hov
+12	går		verb			0	FINV		hov
+13	eg		pron			12	SUBJ		hov
+14	rundt		adv			12	ADV		hov
+15	med		prep			12	ADV		hov
+16	han		pron			15	PUTFYLL		hov
+17	i		prep			12	ADV		hov
+18	Vanse		subst			17	PUTFYLL		hov
+19	og		konj			20	KONJ		hov
+20	sånn		adv			12	ADV		hov
+
+# text = e seinare på kvelden så # er vi mykje på bedehuset # der har vi # har vi ungdomskveld og sånn
+# segstart = 185.433
+# segstop = 194.824
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 47
+1	e		nol			2	FYLL		hov
+2	seinare		adj			5	APP		hov
+3	på		prep			2	ADV		hov
+4	kvelden		subst			3	PUTFYLL		hov
+5	så		adv			7	ADV		hov
+6	#		pause			7	IK		hov
+7	er		verb			0	FINV		hov
+8	vi		pron			7	SUBJ		hov
+9	mykje		adj			7	SPRED		hov
+10	på		prep			9	ADV		hov
+11	bedehuset		subst			10	PUTFYLL		hov
+12	#		pause			13	IK		hov
+13	der		prep			17	ADV		hov
+14	har		verb			17	REP		hov
+15	vi		pron			14	SUBJ		hov
+16	#		pause			17	IK		hov
+17	har		verb			7	KOORD		hov
+18	vi		pron			17	SUBJ		hov
+19	ungdomskveld		subst			17	DOBJ		hov
+20	og		konj			21	KONJ		hov
+21	sånn		adv			17	ADV		hov
+
+# text = ja # for d- men em # du går på skolen sa du ?
+# segstart = 197.763
+# segstop = 201.952
+# file = lista_uib_05
+# speaker = ho
+# id = 48
+1	ja		interj			9	INTERJ		hov
+2	#		pause			3	IK		hov
+3	for		prep			9	ADV		hov
+4	d-		ufullst			5	FYLL		hov
+5	men		konj			9	KONJ		hov
+6	em		nol			8	FYLL		hov
+7	#		pause			8	IK		hov
+8	du		pron			9	SUBJ		hov
+9	går		verb			0	FINV		hov
+10	på		prep			9	ADV		hov
+11	skolen		subst			10	PUTFYLL		hov
+12	sa		verb			9	PAR		hov
+13	du		pron			12	SUBJ		hov
+14	?		clb			9	IP		hov
+
+# text = mm
+# segstart = 201.856
+# segstop = 202.948
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 49
+1	mm		interj			0	INTERJ		hov
+
+# text = kan du ikkje seie litt om om den skolen eg har berre vore innom så vidt på kontoret
+# segstart = 202.425
+# segstop = 206.657
+# file = lista_uib_05
+# speaker = ho
+# id = 50
+1	kan		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	ikkje		adv			4	ADV		hov
+4	seie		verb			1	INFV		hov
+5	litt		adj			4	ADV		hov
+6	om		prep			7	REP		hov
+7	om		prep			4	ADV		hov
+8	den		det			9	DET		hov
+9	skolen		subst			7	PUTFYLL		hov
+10	eg		pron			11	SUBJ		hov
+11	har		verb			1	KOORD		hov
+12	berre		adv			13	ADV		hov
+13	vore		verb			11	INFV		hov
+14	innom		prep			13	ADV		hov
+15	så		adv			16	ADV		hov
+16	vidt		adj			13	ADV		hov
+17	på		prep			13	SPRED		hov
+18	kontoret		subst			17	PUTFYLL		hov
+
+# text = eg går på teikning form og farge # det # det er sånt halvårig kurs # men så # eg gjekk der i # det første halvåret nå
+# segstart = 207.388
+# segstop = 220.528
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 51
+1	eg		pron			2	SUBJ		hov
+2	går		verb			0	FINV		hov
+3	på		prep			2	ADV		hov
+4	teikning		subst			3	PUTFYLL		hov
+5	form		subst			4	KOORD		hov
+6	og		konj			7	KONJ		hov
+7	farge		subst			5	KOORD		hov
+8	#		pause			9	IK		hov
+9	det		pron			11	REP		hov
+10	#		pause			11	IK		hov
+11	det		pron			12	SUBJ		hov
+12	er		verb			2	KOORD		hov
+13	sånt		det			15	DET		hov
+14	halvårig		adj			15	ATR		hov
+15	kurs		subst			12	SPRED		hov
+16	#		pause			17	IK		hov
+17	men		konj			21	KONJ		hov
+18	så		adv			21	ADV		hov
+19	#		pause			20	IK		hov
+20	eg		pron			21	SUBJ		hov
+21	gjekk		verb			2	KOORD		hov
+22	der		prep			21	ADV		hov
+23	i		prep			21	ADV		hov
+24	#		pause			25	IK		hov
+25	det		det			27	DET		hov
+26	første		adj			27	ATR		hov
+27	halvåret		subst			23	PUTFYLL		hov
+28	nå		adv			21	ADV		hov
+
+# text = og så skulle eg ha gått i Lyngdal på saum men så blei der for få søkarar # så eg # så eg måtte gå eit halvt år til her ute
+# segstart = 220.704
+# segstop = 229.329
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 52
+1	og		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	skulle		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	ha		verb			3	INFV		hov
+6	gått		verb			5	INFV		hov
+7	i		prep			6	ADV		hov
+8	Lyngdal		subst			7	PUTFYLL		hov
+9	på		prep			6	ADV		hov
+10	saum		subst			9	PUTFYLL		hov
+11	men		konj			13	KONJ		hov
+12	så		adv			13	ADV		hov
+13	blei		verb			3	KOORD		hov
+14	der		prep			13	FSUBJ		hov
+15	for		prep			13	ADV		hov
+16	få		adj			17	ATR		hov
+17	søkarar		subst			15	PUTFYLL		hov
+18	#		pause			19	IK		hov
+19	så		konj			22	REP		hov
+20	eg		pron			23	REP		hov
+21	#		pause			22	IK		hov
+22	så		konj			24	KONJ		hov
+23	eg		pron			24	SUBJ		hov
+24	måtte		verb			13	KOORD		hov
+25	gå		verb			24	INFV		hov
+26	eit		det			28	DET		hov
+27	halvt		adj			28	ATR		hov
+28	år		subst			25	ADV		hov
+29	til		prep			28	ATR		hov
+30	her		prep			25	ADV		hov
+31	ute		prep			30	PUTFYLL		hov
+
+# text = så det blir mest det same ## men # eg skulle prøve å gå i gang vidare # i forhold til dei andre ## s-
+# segstart = 229.529
+# segstop = 240.094
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 53
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	blir		verb			0	FINV		hov
+4	mest		adj			3	ADV		hov
+5	det		det			6	DET		hov
+6	same		det			3	SPRED		hov
+7	##		pause			8	IK		hov
+8	men		konj			11	KONJ		hov
+9	#		pause			10	IK		hov
+10	eg		pron			11	SUBJ		hov
+11	skulle		verb			3	KOORD		hov
+12	prøve		verb			11	INFV		hov
+13	å		inf-merke			12	DOBJ		hov
+14	gå		verb			13	INFV		hov
+15	i		prep			14	ADV		hov
+16	gang		subst			15	PUTFYLL		hov
+17	vidare		adj			14	ADV		hov
+18	#		pause			19	IK		hov
+19	i		prep			14	ADV		hov
+20	forhold		subst			19	PUTFYLL		hov
+21	til		prep			20	ATR		hov
+22	dei		det			23	DET		hov
+23	andre		det			21	PUTFYLL		hov
+24	##		pause			3	IK		hov
+25	s-		ufullst			3	FYLL		hov
+
+# text = ja # er det noko bestemt e yrke du tar sikte på ?
+# segstart = 240.841
+# segstop = 247.775
+# file = lista_uib_05
+# speaker = ho
+# id = 54
+1	ja		interj			3	INTERJ		hov
+2	#		pause			3	IK		hov
+3	er		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	noko		det			8	DET		hov
+6	bestemt		adj			8	ATR		hov
+7	e		nol			8	FYLL		hov
+8	yrke		subst			3	SPRED		hov
+9	du		pron			10	SUBJ		hov
+10	tar		verb			8	ATR		hov
+11	sikte		subst			10	DOBJ		hov
+12	på		prep			11	ATR		hov
+13	?		clb			3	IP		hov
+
+# text = nei dette året og så går eg berre for å # for eg skulle ha gått på # folkehøgskole # nå # men så var eg for ung til det # så
+# segstart = 248.547
+# segstop = 257.185
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 55
+1	nei		interj			6	INTERJ		hov
+2	dette		det			3	DET		hov
+3	året		subst			6	ADV		hov
+4	og		konj			6	KONJ		hov
+5	så		adv			6	ADV		hov
+6	går		verb			0	FINV		hov
+7	eg		pron			6	SUBJ		hov
+8	berre		adv			6	ADV		hov
+9	for		prep			6	ADV		hov
+10	å		inf-merke			9	PUTFYLL		hov
+11	#		pause			12	IK		hov
+12	for		konj			14	KONJ		hov
+13	eg		pron			14	SUBJ		hov
+14	skulle		verb			6	KOORD		hov
+15	ha		verb			14	INFV		hov
+16	gått		verb			15	INFV		hov
+17	på		prep			16	ADV		hov
+18	#		pause			19	IK		hov
+19	folkehøgskole		subst			17	PUTFYLL		hov
+20	#		pause			21	IK		hov
+21	nå		adv			16	ADV		hov
+22	#		pause			23	IK		hov
+23	men		konj			25	KONJ		hov
+24	så		adv			25	ADV		hov
+25	var		verb			14	KOORD		hov
+26	eg		pron			25	SUBJ		hov
+27	for		adv			28	ADV		hov
+28	ung		adj			25	SPRED		hov
+29	til		prep			28	ADV		hov
+30	det		pron			29	PUTFYLL		hov
+31	#		pause			32	IK		hov
+32	så		adv			25	ADV		hov
+
+# text = skulle eg berre ha dette året imellom så # skal søke på folkehøgskolen til neste år
+# segstart = 257.457
+# segstop = 262.645
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 56
+1	skulle		verb			0	FINV		hov
+2	eg		pron			1	SUBJ		hov
+3	berre		adv			4	ADV		hov
+4	ha		verb			1	INFV		hov
+5	dette		det			6	DET		hov
+6	året		subst			4	DOBJ		hov
+7	imellom		prep			6	ATR		hov
+8	så		adv			10	ADV		hov
+9	#		pause			10	IK		hov
+10	skal		verb			4	ADV		hov
+11	søke		verb			10	INFV		hov
+12	på		prep			11	ADV		hov
+13	folkehøgskolen		subst			12	PUTFYLL		hov
+14	til		prep			11	ADV		hov
+15	neste		adj			16	ATR		hov
+16	år		subst			14	PUTFYLL		hov
+
+# text = men e ## det er liksom berre for å få tida til å gå det ?
+# segstart = 266.518
+# segstop = 270.689
+# file = lista_uib_05
+# speaker = ho
+# id = 57
+1	men		konj			5	KONJ		hov
+2	e		nol			4	FYLL		hov
+3	##		pause			4	IK		hov
+4	det		pron			5	SUBJ		hov
+5	er		verb			0	FINV		hov
+6	liksom		adv			5	ADV		hov
+7	berre		adv			5	ADV		hov
+8	for		prep			5	SPRED		hov
+9	å		inf-merke			8	PUTFYLL		hov
+10	få		verb			9	INFV		hov
+11	tida		subst			10	DOBJ		hov
+12	til		prep			10	ADV		hov
+13	å		inf-merke			12	PUTFYLL		hov
+14	gå		verb			13	INFV		hov
+15	det		pron			4	APP		hov
+16	?		clb			5	IP		hov
+
+# text = mm
+# segstart = 270.35
+# segstop = 271.01
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 58
+1	mm		interj			0	INTERJ		hov
+
+# text = men du likar vel òg det ?
+# segstart = 271.0
+# segstop = 274.469
+# file = lista_uib_05
+# speaker = ho
+# id = 59
+1	men		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	likar		verb			0	FINV		hov
+4	vel		adv			3	ADV		hov
+5	òg		adv			3	ADV		hov
+6	det		pron			3	DOBJ		hov
+7	?		clb			3	IP		hov
+
+# text = fargar og den slags ting
+# segstart = 271.0
+# segstop = 274.469
+# file = lista_uib_05
+# speaker = ho
+# id = 60
+1	fargar		subst			0	FRAG		hov
+2	og		konj			5	KONJ		hov
+3	den		det			4	DET		hov
+4	slags		subst			5	DET		hov
+5	ting		subst			1	KOORD		hov
+
+# text = ja visst ja
+# segstart = 272.14
+# segstop = 273.69
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 61
+1	ja		interj			0	INTERJ		hov
+2	visst		adv			1	ADV		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = mm eg liker det veldig godt å teikne og sånn
+# segstart = 274.338
+# segstop = 276.963
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 62
+1	mm		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	liker		verb			0	FINV		hov
+4	det		pron			3	DOBJ		hov
+5	veldig		adj			6	ADV		hov
+6	godt		adj			3	ADV		hov
+7	å		inf-merke			3	FOPRED		hov
+8	teikne		verb			7	INFV		hov
+9	og		konj			10	KONJ		hov
+10	sånn		adv			8	KOORD		hov
+
+# text = jaha
+# segstart = 276.69
+# segstop = 277.706
+# file = lista_uib_05
+# speaker = ho
+# id = 63
+1	jaha		interj			0	INTERJ		hov
+
+# text = arbeide med leire og
+# segstart = 278.489
+# segstop = 280.236
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 64
+1	arbeide		verb			0	FINV		hov
+2	med		prep			1	ADV		hov
+3	leire		subst			2	PUTFYLL		hov
+4	og		konj			1	KONJ		hov
+
+# text = å ja
+# segstart = 280.086
+# segstop = 280.744
+# file = lista_uib_05
+# speaker = ho
+# id = 65
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = så
+# segstart = 280.673
+# segstop = 281.285
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 66
+1	så		adv			0	FRAG		hov
+
+# text = er det sånn kunstnar du vil bli eller dekoratør eller # noko sånt kanskje ?
+# segstart = 282.352
+# segstop = 287.97
+# file = lista_uib_05
+# speaker = ho
+# id = 67
+1	er		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	sånn		det			4	DET		hov
+4	kunstnar		subst			1	SPRED		hov
+5	du		pron			6	SUBJ		hov
+6	vil		verb			4	ATR		hov
+7	bli		verb			6	INFV		hov
+8	eller		konj			9	KONJ		hov
+9	dekoratør		subst			4	KOORD		hov
+10	eller		konj			13	KONJ		hov
+11	#		pause			12	IK		hov
+12	noko		det			13	DET		hov
+13	sånt		pron			4	KOORD		hov
+14	kanskje		adv			13	ADV		hov
+15	?		clb			1	IP		hov
+
+# text = # e kanskje det
+# segstart = 286.591
+# segstop = 289.539
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 68
+1	#		pause			3	IK		hov
+2	e		nol			3	FYLL		hov
+3	kanskje		adv			4	ADV		hov
+4	det		pron			0	FRAG		hov
+
+# text = ja ## du har vel gjerne tenkt litt ?
+# segstart = 289.212
+# segstop = 292.604
+# file = lista_uib_05
+# speaker = ho
+# id = 69
+1	ja		interj			4	INTERJ		hov
+2	##		pause			3	IK		hov
+3	du		pron			4	SUBJ		hov
+4	har		verb			0	FINV		hov
+5	vel		adv			7	ADV		hov
+6	gjerne		adv			7	ADV		hov
+7	tenkt		verb			4	INFV		hov
+8	litt		adj			7	ADV		hov
+9	?		clb			4	IP		hov
+
+# text = # ja # eg har jo det # men det var ikkje så mykje i forbindelse med dette her # eg har lyst til å # jobbe med # ungar og sånn
+# segstart = 292.714
+# segstop = 302.679
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 70
+1	#		pause			2	IK		hov
+2	ja		interj			5	INTERJ		hov
+3	#		pause			4	IK		hov
+4	eg		pron			5	SUBJ		hov
+5	har		verb			0	FINV		hov
+6	jo		adv			5	ADV		hov
+7	det		pron			5	DOBJ		hov
+8	#		pause			9	IK		hov
+9	men		konj			11	KONJ		hov
+10	det		pron			11	FSUBJ		hov
+11	var		verb			5	KOORD		hov
+12	ikkje		adv			11	ADV		hov
+13	så		adv			14	ADV		hov
+14	mykje		adj			11	SPRED		hov
+15	i		prep			14	ATR		hov
+16	forbindelse		subst			15	PUTFYLL		hov
+17	med		prep			16	ATR		hov
+18	dette		pron			17	PUTFYLL		hov
+19	her		prep			18	ATR		hov
+20	#		pause			21	IK		hov
+21	eg		pron			22	SUBJ		hov
+22	har		verb			5	KOORD		hov
+23	lyst		subst			22	DOBJ		hov
+24	til		prep			23	ATR		hov
+25	å		inf-merke			24	PUTFYLL		hov
+26	#		pause			27	IK		hov
+27	jobbe		verb			25	INFV		hov
+28	med		prep			27	ADV		hov
+29	#		pause			30	IK		hov
+30	ungar		subst			28	PUTFYLL		hov
+31	og		konj			32	KONJ		hov
+32	sånn		adv			30	KOORD		hov
+
+# text = komme i barnehage eller noko sånn
+# segstart = 302.855
+# segstop = 305.22
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 71
+1	komme		verb			0	FRAG		hov
+2	i		prep			1	ADV		hov
+3	barnehage		subst			2	PUTFYLL		hov
+4	eller		konj			5	KONJ		hov
+5	noko		det			1	KOORD		hov
+6	sånn		adv			5	ADV		hov
+
+# text = mm ## førskolelærar er det ikkje det det heiter ?
+# segstart = 306.626
+# segstop = 313.888
+# file = lista_uib_05
+# speaker = ho
+# id = 72
+1	mm		interj			4	INTERJ		hov
+2	##		pause			3	IK		hov
+3	førskolelærar		subst			4	SPRED		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	ikkje		adv			4	ADV		hov
+7	det		pron			3	APP		hov
+8	det		pron			9	SUBJ		hov
+9	heiter		verb			3	ATR		hov
+10	?		clb			4	IP		hov
+
+# text = # er det du tenker på ?
+# segstart = 306.626
+# segstop = 313.888
+# file = lista_uib_05
+# speaker = ho
+# id = 73
+1	#		pause			2	IK		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	SPRED		hov
+4	du		pron			5	SUBJ		hov
+5	tenker		verb			3	ATR		hov
+6	på		prep			5	ADV		hov
+7	?		clb			2	IP		hov
+
+# text = m ja # kanskje det òg ## helst sånn mindre ungar
+# segstart = 313.02
+# segstop = 318.821
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 74
+1	m		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	#		pause			4	IK		hov
+4	kanskje		adv			1	ADV		hov
+5	det		pron			1	ADV		hov
+6	òg		adv			11	ADV		hov
+7	##		pause			8	IK		hov
+8	helst		adv			11	ADV		hov
+9	sånn		det			11	DET		hov
+10	mindre		adj			11	ATR		hov
+11	ungar		subst			1	ADV		hov
+
+# text = ja vel
+# segstart = 320.377
+# segstop = 321.128
+# file = lista_uib_05
+# speaker = ho
+# id = 75
+1	ja		interj			0	INTERJ		hov
+2	vel		adv			1	ADV		hov
+
+# text = dagmamma er det kanskje det var
+# segstart = 320.881
+# segstop = 322.67
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 76
+1	dagmamma		subst			6	SPRED		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	kanskje		adv			6	ADV		hov
+5	det		pron			6	FSUBJ		hov
+6	var		verb			2	SPRED		hov
+
+# text = mm
+# segstart = 322.657
+# segstop = 323.553
+# file = lista_uib_05
+# speaker = ho
+# id = 77
+1	mm		interj			0	INTERJ		hov
+
+# text = eg veit ikkje
+# segstart = 323.945
+# segstop = 325.336
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 78
+1	eg		pron			2	SUBJ		hov
+2	veit		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+
+# text = du blir ikkje lei av det å passe den ungen da altså # dag etter dag
+# segstart = 325.388
+# segstop = 329.062
+# file = lista_uib_05
+# speaker = ho
+# id = 79
+1	du		pron			2	SUBJ		hov
+2	blir		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	lei		adj			2	SPRED		hov
+5	av		prep			4	ADV		hov
+6	det		pron			5	PUTFYLL		hov
+7	å		inf-merke			6	APP		hov
+8	passe		verb			7	INFV		hov
+9	den		det			10	DET		hov
+10	ungen		subst			8	DOBJ		hov
+11	da		adv			8	ADV		hov
+12	altså		adv			8	ADV		hov
+13	#		pause			14	IK		hov
+14	dag		subst			8	ADV		hov
+15	etter		prep			14	ADV		hov
+16	dag		subst			15	PUTFYLL		hov
+
+# text = nei i grunnen ikkje ja ja det blir jo ikkje kvar dag # av og til så er eg heime og syr lite grann og steller på rommet mitt og sånn
+# segstart = 328.537
+# segstop = 336.505
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 80
+1	nei		interj			8	INTERJ		hov
+2	i		prep			8	ADV		hov
+3	grunnen		subst			2	PUTFYLL		hov
+4	ikkje		adv			8	ADV		hov
+5	ja		interj			8	INTERJ		hov
+6	ja		interj			8	INTERJ		hov
+7	det		pron			8	FSUBJ		hov
+8	blir		verb			0	FINV		hov
+9	jo		adv			8	ADV		hov
+10	ikkje		adv			8	ADV		hov
+11	kvar		det			12	DET		hov
+12	dag		subst			8	SPRED		hov
+13	#		pause			14	IK		hov
+14	av		prep			18	ADV		hov
+15	og		konj			16	KONJ		hov
+16	til		prep			14	KOORD		hov
+17	så		adv			18	ADV		hov
+18	er		verb			8	KOORD		hov
+19	eg		pron			18	SUBJ		hov
+20	heime		subst			18	SPRED		hov
+21	og		konj			22	KONJ		hov
+22	syr		verb			18	KOORD		hov
+23	lite		adj			24	ATR		hov
+24	grann		subst			22	DOBJ		hov
+25	og		konj			26	KONJ		hov
+26	steller		verb			22	KOORD		hov
+27	på		prep			26	ADV		hov
+28	rommet		subst			27	PUTFYLL		hov
+29	mitt		det			28	DET		hov
+30	og		konj			31	KONJ		hov
+31	sånn		adv			26	ADV		hov
+
+# text = ja
+# segstart = 335.989
+# segstop = 336.806
+# file = lista_uib_05
+# speaker = ho
+# id = 81
+1	ja		interj			0	INTERJ		hov
+
+# text = gjer reint så
+# segstart = 336.766
+# segstop = 338.43
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 82
+1	gjer		verb			0	FINV		hov
+2	reint		adj			1	ADV		hov
+3	så		konj			1	KONJ		hov
+
+# text = ja vel ## men em # skolen er der mykje lekser ?
+# segstart = 341.342
+# segstop = 350.086
+# file = lista_uib_05
+# speaker = ho
+# id = 83
+1	ja		interj			8	INTERJ		hov
+2	vel		adv			8	ADV		hov
+3	##		pause			4	IK		hov
+4	men		konj			8	KONJ		hov
+5	em		nol			7	FYLL		hov
+6	#		pause			7	IK		hov
+7	skolen		subst			8	ADV		hov
+8	er		verb			0	FINV		hov
+9	der		prep			8	FSUBJ		hov
+10	mykje		adj			11	ATR		hov
+11	lekser		subst			8	SPRED		hov
+12	?		clb			8	IP		hov
+
+# text = # heimearbeid ?
+# segstart = 341.342
+# segstop = 350.086
+# file = lista_uib_05
+# speaker = ho
+# id = 84
+1	#		pause			2	IK		hov
+2	heimearbeid		subst			0	FRAG		hov
+3	?		clb			2	IP		hov
+
+# text = nei vi har # ingenting # heimearbeid # ikkje utan vi ville gjere noko sjølv da altså
+# segstart = 349.926
+# segstop = 355.551
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 85
+1	nei		interj			3	INTERJ		hov
+2	vi		pron			3	SUBJ		hov
+3	har		verb			0	FINV		hov
+4	#		pause			5	IK		hov
+5	ingenting		pron			7	ATR		hov
+6	#		pause			7	IK		hov
+7	heimearbeid		subst			3	DOBJ		hov
+8	#		pause			9	IK		hov
+9	ikkje		adv			3	ADV		hov
+10	utan		prep			3	ADV		hov
+11	vi		pron			12	SUBJ		hov
+12	ville		verb			3	KOORD		hov
+13	gjere		verb			12	INFV		hov
+14	noko		pron			13	DOBJ		hov
+15	sjølv		adv			13	ADV		hov
+16	da		adv			13	ADV		hov
+17	altså		adv			13	ADV		hov
+
+# text = sånn vi får jo oppgåver på skolen òg # men det pleier vi gjere på skolen alt det # skal helst ikkje ha noko heime
+# segstart = 355.951
+# segstop = 364.433
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 86
+1	sånn		adv			3	ADV		hov
+2	vi		pron			3	SUBJ		hov
+3	får		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	oppgåver		subst			3	DOBJ		hov
+6	på		prep			3	ADV		hov
+7	skolen		subst			6	PUTFYLL		hov
+8	òg		adv			3	ADV		hov
+9	#		pause			10	IK		hov
+10	men		konj			12	KONJ		hov
+11	det		pron			14	DOBJ		hov
+12	pleier		verb			3	KOORD		hov
+13	vi		pron			12	SUBJ		hov
+14	gjere		verb			12	DOBJ		hov
+15	på		prep			14	ADV		hov
+16	skolen		subst			15	PUTFYLL		hov
+17	alt		det			18	DET		hov
+18	det		pron			11	APP		hov
+19	#		pause			20	IK		hov
+20	skal		verb			3	KOORD		hov
+21	helst		adv			23	ADV		hov
+22	ikkje		adv			23	ADV		hov
+23	ha		verb			20	INFV		hov
+24	noko		det			25	DET		hov
+25	heime		subst			23	DOBJ		hov
+
+# text = skal helst ikkje det ?
+# segstart = 364.217
+# segstop = 365.621
+# file = lista_uib_05
+# speaker = ho
+# id = 87
+1	skal		verb			0	FINV		hov
+2	helst		adv			1	ADV		hov
+3	ikkje		adv			1	ADV		hov
+4	det		pron			1	DOBJ		hov
+5	?		clb			1	IP		hov
+
+# text = nei
+# segstart = 364.956
+# segstop = 365.875
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 88
+1	nei		interj			0	INTERJ		hov
+
+# text = seier du det ?
+# segstart = 365.758
+# segstop = 368.58
+# file = lista_uib_05
+# speaker = ho
+# id = 89
+1	seier		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = # kva er det for da ?
+# segstart = 365.758
+# segstop = 368.58
+# file = lista_uib_05
+# speaker = ho
+# id = 90
+1	#		pause			2	IK		hov
+2	kva		pron			5	PUTFYLL		hov
+3	er		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	for		prep			3	ADV		hov
+6	da		adv			3	ADV		hov
+7	?		clb			3	IP		hov
+
+# text = nei # veit- …
+# segstart = 368.808
+# segstop = 370.682
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 91
+1	nei		interj			0	INTERJ		hov
+2	#		pause			1	IK		hov
+3	veit-		ufullst			1	FYLL		hov
+4	…		ellipsis			1	IK		hov
+
+# text = har ikkje godt av det ?
+# segstart = 370.006
+# segstop = 370.949
+# file = lista_uib_05
+# speaker = ho
+# id = 92
+1	har		verb			0	FINV		hov
+2	ikkje		adv			3	ADV		hov
+3	godt		adj			1	ADV		hov
+4	av		prep			1	ADV		hov
+5	det		pron			4	PUTFYLL		hov
+6	?		clb			1	IP		hov
+
+# text = nei det er vel ikkje det men # dei # dei seier at vi træ- treng ikkje ha noko heime så
+# segstart = 370.971
+# segstop = 379.076
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 93
+1	nei		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	vel		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	det		pron			3	SPRED		hov
+7	men		konj			12	KONJ		hov
+8	#		pause			9	IK		hov
+9	dei		pron			11	REP		hov
+10	#		pause			11	IK		hov
+11	dei		pron			12	SUBJ		hov
+12	seier		verb			3	KOORD		hov
+13	at		sbu			16	SBU		hov
+14	vi		pron			16	SUBJ		hov
+15	træ-		ufullst			16	REP		hov
+16	treng		verb			12	DOBJ		hov
+17	ikkje		adv			18	ADV		hov
+18	ha		verb			16	INFV		hov
+19	noko		det			18	DET		hov
+20	heime		subst			18	DOBJ		hov
+21	så		adv			18	ADV		hov
+
+# text = det høyrest jo greitt ut det
+# segstart = 380.454
+# segstop = 381.8
+# file = lista_uib_05
+# speaker = ho
+# id = 94
+1	det		pron			2	SUBJ		hov
+2	høyrest		verb			0	FINV		hov
+3	jo		adv			2	ADV		hov
+4	greitt		adj			2	ADV		hov
+5	ut		prep			4	ADV		hov
+6	det		pron			1	APP		hov
+
+# text = ja
+# segstart = 381.527
+# segstop = 382.495
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 95
+1	ja		interj			0	INTERJ		hov
+
+# text = det er nok det du gjer på skolen ?
+# segstart = 383.406
+# segstop = 385.309
+# file = lista_uib_05
+# speaker = ho
+# id = 96
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	nok		adv			2	ADV		hov
+4	det		pron			2	SPRED		hov
+5	du		pron			6	SUBJ		hov
+6	gjer		verb			4	ATR		hov
+7	på		prep			6	ADV		hov
+8	skolen		subst			7	PUTFYLL		hov
+9	?		clb			2	IP		hov
+
+# text = mm
+# segstart = 385.15
+# segstop = 386.366
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 97
+1	mm		interj			0	INTERJ		hov
+
+# text = men e ja du sa av og til på på kvelden kva du heldt på med sånn men e
+# segstart = 388.926
+# segstop = 393.295
+# file = lista_uib_05
+# speaker = ho
+# id = 98
+1	men		konj			5	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	ja		interj			5	INTERJ		hov
+4	du		pron			5	SUBJ		hov
+5	sa		verb			0	FINV		hov
+6	av		prep			5	ADV		hov
+7	og		konj			8	KONJ		hov
+8	til		prep			6	KOORD		hov
+9	på		prep			10	REP		hov
+10	på		prep			5	ADV		hov
+11	kvelden		subst			10	PUTFYLL		hov
+12	kva		pron			16	PUTFYLL		hov
+13	du		pron			14	SUBJ		hov
+14	heldt		verb			5	DOBJ		hov
+15	på		prep			14	ADV		hov
+16	med		prep			14	ADV		hov
+17	sånn		adv			14	ADV		hov
+18	men		konj			14	KONJ		hov
+19	e		nol			5	FYLL		hov
+
+# text = e elles fritida der er jo ja laurdag søndag kanskje fredag laurdag søndag # er det noko spesielt å ta seg til da # her ?
+# segstart = 393.34
+# segstop = 403.129
+# file = lista_uib_05
+# speaker = ho
+# id = 99
+1	e		nol			2	FYLL		hov
+2	elles		adv			5	ADV		hov
+3	fritida		subst			5	SUBJ		hov
+4	der		prep			5	ADV		hov
+5	er		verb			0	FINV		hov
+6	jo		adv			5	ADV		hov
+7	ja		interj			5	INTERJ		hov
+8	laurdag		subst			5	FLAT		hov
+9	søndag		subst			5	FLAT		hov
+10	kanskje		adv			5	ADV		hov
+11	fredag		subst			5	FLAT		hov
+12	laurdag		subst			5	FLAT		hov
+13	søndag		subst			5	FLAT		hov
+14	#		pause			15	IK		hov
+15	er		verb			5	KOORD		hov
+16	det		pron			15	FSUBJ		hov
+17	noko		det			18	DET		hov
+18	spesielt		adj			15	SPRED		hov
+19	å		inf-merke			18	ADV		hov
+20	ta		verb			19	INFV		hov
+21	seg		pron			20	DOBJ		hov
+22	til		prep			20	ADV		hov
+23	da		adv			20	ADV		hov
+24	#		pause			25	IK		hov
+25	her		prep			20	ADV		hov
+26	?		clb			5	IP		hov
+
+# text = ja # der er ## der er ikkje så mykje forresten # dei fleste heng rundt på gatekjøkkenet der nede og sånn
+# segstart = 406.268
+# segstop = 415.169
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 100
+1	ja		interj			7	INTERJ		hov
+2	#		pause			3	IK		hov
+3	der		prep			4	SPRED		hov
+4	er		verb			7	REP		hov
+5	##		pause			6	IK		hov
+6	der		prep			7	FSUBJ		hov
+7	er		verb			0	FINV		hov
+8	ikkje		adv			7	ADV		hov
+9	så		adv			10	ADV		hov
+10	mykje		adj			7	SPRED		hov
+11	forresten		adv			15	ADV		hov
+12	#		pause			13	IK		hov
+13	dei		det			14	DET		hov
+14	fleste		adj			15	SUBJ		hov
+15	heng		verb			7	KOORD		hov
+16	rundt		prep			15	ADV		hov
+17	på		prep			16	PUTFYLL		hov
+18	gatekjøkkenet		subst			17	PUTFYLL		hov
+19	der		prep			18	ATR		hov
+20	nede		prep			19	PUTFYLL		hov
+21	og		konj			22	KONJ		hov
+22	sånn		adv			15	ADV		hov
+
+# text = men så er der jo # ungdomskveldar på Betel da # som vi pleier å gå på # elles er det ikkje så mykje
+# segstart = 415.329
+# segstop = 423.13
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 101
+1	men		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	er		verb			0	FINV		hov
+4	der		prep			3	FSUBJ		hov
+5	jo		adv			3	ADV		hov
+6	#		pause			7	IK		hov
+7	ungdomskveldar		subst			3	SPRED		hov
+8	på		prep			7	ATR		hov
+9	Betel		subst			8	PUTFYLL		hov
+10	da		adv			3	ADV		hov
+11	#		pause			12	IK		hov
+12	som		sbu			14	SBU		hov
+13	vi		pron			14	SUBJ		hov
+14	pleier		verb			3	ADV		hov
+15	å		inf-merke			14	DOBJ		hov
+16	gå		verb			15	INFV		hov
+17	på		prep			16	ADV		hov
+18	#		pause			19	IK		hov
+19	elles		adv			20	ADV		hov
+20	er		verb			3	KOORD		hov
+21	det		pron			20	FSUBJ		hov
+22	ikkje		adv			20	ADV		hov
+23	så		adv			24	ADV		hov
+24	mykje		adj			20	SPRED		hov
+
+# text = gatekjøkken er det berre sånn pølser og
+# segstart = 423.089
+# segstop = 425.586
+# file = lista_uib_05
+# speaker = ho
+# id = 102
+1	gatekjøkken		subst			2	ADV		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	berre		adv			2	ADV		hov
+5	sånn		det			6	DET		hov
+6	pølser		subst			2	SPRED		hov
+7	og		konj			2	KONJ		hov
+
+# text = nei der er # dei ja det er der au altså dei sel sånn # kylling og alt sånt # men så er der biljardbord og # speleautomat og sånn
+# segstart = 425.344
+# segstop = 435.097
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 103
+1	nei		interj			3	INTERJ		hov
+2	der		prep			3	SPRED		hov
+3	er		verb			0	FINV		hov
+4	#		pause			5	IK		hov
+5	dei		pron			3	SUBJ		hov
+6	ja		interj			3	INTERJ		hov
+7	det		pron			8	FSUBJ		hov
+8	er		verb			3	KOORD		hov
+9	der		prep			8	SPRED		hov
+10	au		adv			8	ADV		hov
+11	altså		adv			13	ADV		hov
+12	dei		pron			13	SUBJ		hov
+13	sel		verb			3	KOORD		hov
+14	sånn		det			16	DET		hov
+15	#		pause			16	IK		hov
+16	kylling		subst			13	DOBJ		hov
+17	og		konj			19	KONJ		hov
+18	alt		det			19	DET		hov
+19	sånt		det			16	KOORD		hov
+20	#		pause			21	IK		hov
+21	men		konj			23	KONJ		hov
+22	så		adv			23	ADV		hov
+23	er		verb			3	KOORD		hov
+24	der		prep			23	FSUBJ		hov
+25	biljardbord		subst			23	PSUBJ		hov
+26	og		konj			28	KONJ		hov
+27	#		pause			28	IK		hov
+28	speleautomat		subst			25	KOORD		hov
+29	og		konj			30	KONJ		hov
+30	sånn		adv			23	ADV		hov
+
+# text = ja
+# segstart = 431.059
+# segstop = 431.779
+# file = lista_uib_05
+# speaker = ho
+# id = 104
+1	ja		interj			0	INTERJ		hov
+
+# text = ganske stort rom # som vi kan vere
+# segstart = 435.452
+# segstop = 438.492
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 105
+1	ganske		adv			2	ADV		hov
+2	stort		adj			3	ATR		hov
+3	rom		subst			0	FRAG		hov
+4	#		pause			5	IK		hov
+5	som		sbu			7	SBU		hov
+6	vi		pron			7	SUBJ		hov
+7	kan		verb			3	ATR		hov
+8	vere		verb			7	INFV		hov
+
+# text = er det populært det ?
+# segstart = 439.84
+# segstop = 441.267
+# file = lista_uib_05
+# speaker = ho
+# id = 106
+1	er		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	populært		adj			1	SPRED		hov
+4	det		pron			2	APP		hov
+5	?		clb			1	IP		hov
+
+# text = ja # valdsamt mykje # mange som speler og # står i kø heile dagen for å kå- få spelt
+# segstart = 441.035
+# segstop = 447.854
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 107
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	valdsamt		adj			6	ADV		hov
+4	mykje		adj			6	REP		hov
+5	#		pause			6	IK		hov
+6	mange		adj			1	ADV		hov
+7	som		sbu			8	SBU		hov
+8	speler		verb			6	ADV		hov
+9	og		konj			11	KONJ		hov
+10	#		pause			11	IK		hov
+11	står		verb			8	KOORD		hov
+12	i		prep			11	ADV		hov
+13	kø		subst			12	PUTFYLL		hov
+14	heile		adj			15	ATR		hov
+15	dagen		subst			11	ADV		hov
+16	for		prep			11	ADV		hov
+17	å		inf-merke			16	PUTFYLL		hov
+18	kå-		ufullst			19	FYLL		hov
+19	få		verb			17	ADV		hov
+20	spelt		verb			19	INFV		hov
+
+# text = gjer dei det ?
+# segstart = 447.76
+# segstop = 448.456
+# file = lista_uib_05
+# speaker = ho
+# id = 108
+1	gjer		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = ja
+# segstart = 448.487
+# segstop = 449.336
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 109
+1	ja		interj			0	INTERJ		hov
+
+# text = tapar dei mykje pengar da ?
+# segstart = 449.363
+# segstop = 450.811
+# file = lista_uib_05
+# speaker = ho
+# id = 110
+1	tapar		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	mykje		adj			4	ATR		hov
+4	pengar		subst			1	DOBJ		hov
+5	da		adv			1	ADV		hov
+6	?		clb			1	IP		hov
+
+# text = det blir jo # grann det # m tener jo litt au
+# segstart = 450.622
+# segstop = 456.157
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 111
+1	det		pron			2	FSUBJ		hov
+2	blir		verb			0	FINV		hov
+3	jo		adv			2	ADV		hov
+4	#		pause			5	IK		hov
+5	grann		subst			2	SPRED		hov
+6	det		pron			9	FSUBJ		hov
+7	#		pause			8	IK		hov
+8	m		interj			9	INTERJ		hov
+9	tener		verb			2	KOORD		hov
+10	jo		adv			9	ADV		hov
+11	litt		adj			9	ADV		hov
+12	au		adv			9	ADV		hov
+
+# text = ja det kan vel det er vel nokre som tener litt ?
+# segstart = 456.397
+# segstop = 458.399
+# file = lista_uib_05
+# speaker = ho
+# id = 112
+1	ja		interj			6	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	kan		verb			6	REP		hov
+4	vel		adv			3	ADV		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+7	vel		adv			6	ADV		hov
+8	nokre		pron			6	SPRED		hov
+9	som		sbu			10	SBU		hov
+10	tener		verb			8	ATR		hov
+11	litt		adj			10	DOBJ		hov
+12	?		clb			6	IP		hov
+
+# text = mm
+# segstart = 458.055
+# segstop = 458.883
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 113
+1	mm		interj			0	INTERJ		hov
+
+# text = fleste tapar vel
+# segstart = 458.887
+# segstop = 460.582
+# file = lista_uib_05
+# speaker = ho
+# id = 114
+1	fleste		adj			2	SUBJ		hov
+2	tapar		verb			0	FINV		hov
+3	vel		adv			2	ADV		hov
+
+# text = ja # så
+# segstart = 460.349
+# segstop = 462.269
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 115
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	så		adv			1	ADV		hov
+
+# text = å ja er det noko nytt det kanskje …
+# segstart = 461.863
+# segstop = 464.17
+# file = lista_uib_05
+# speaker = ho
+# id = 116
+1	å		interj			3	INTERJ		hov
+2	ja		interj			3	INTERJ		hov
+3	er		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	noko		det			6	DET		hov
+6	nytt		adj			3	SPRED		hov
+7	det		pron			4	APP		hov
+8	kanskje		adv			3	ADV		hov
+9	…		ellipsis			3	IK		hov
+
+# text = ja # det er # det har vore i ein månad nå mest
+# segstart = 463.587
+# segstop = 469.224
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 117
+1	ja		interj			7	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			7	REP		hov
+5	#		pause			6	IK		hov
+6	det		pron			7	FSUBJ		hov
+7	har		verb			0	FINV		hov
+8	vore		verb			7	INFV		hov
+9	i		prep			8	ADV		hov
+10	ein		det			11	DET		hov
+11	månad		subst			9	PUTFYLL		hov
+12	nå		adv			8	ADV		hov
+13	mest		adj			8	ADV		hov
+
+# text = ja vel # så det var suksess ja
+# segstart = 470.152
+# segstop = 473.0
+# file = lista_uib_05
+# speaker = ho
+# id = 118
+1	ja		interj			6	INTERJ		hov
+2	vel		adv			6	ADV		hov
+3	#		pause			4	IK		hov
+4	så		adv			6	ADV		hov
+5	det		pron			6	FSUBJ		hov
+6	var		verb			0	FINV		hov
+7	suksess		subst			6	SPRED		hov
+8	ja		interj			6	INTERJ		hov
+
+# text = ja
+# segstart = 472.776
+# segstop = 474.016
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 119
+1	ja		interj			0	INTERJ		hov
+
+# text = er der er der andre ting ?
+# segstart = 475.496
+# segstop = 481.696
+# file = lista_uib_05
+# speaker = ho
+# id = 120
+1	er		verb			3	REP		hov
+2	der		prep			1	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	der		prep			3	FSUBJ		hov
+5	andre		det			6	DET		hov
+6	ting		subst			3	SPRED		hov
+7	?		clb			3	IP		hov
+
+# text = andre slags e foreiningar og idrettsforeining eller
+# segstart = 475.496
+# segstop = 481.696
+# file = lista_uib_05
+# speaker = ho
+# id = 121
+1	andre		det			2	DET		hov
+2	slags		subst			4	DET		hov
+3	e		nol			4	FYLL		hov
+4	foreiningar		subst			0	FRAG		hov
+5	og		konj			6	KONJ		hov
+6	idrettsforeining		subst			4	KOORD		hov
+7	eller		konj			4	KONJ		hov
+
+# text = ja eg speler mykje tennis sånn # på kveldane
+# segstart = 481.275
+# segstop = 485.281
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 122
+1	ja		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	speler		verb			0	FINV		hov
+4	mykje		adj			5	ATR		hov
+5	tennis		subst			3	DOBJ		hov
+6	sånn		adv			3	ADV		hov
+7	#		pause			8	IK		hov
+8	på		prep			3	ADV		hov
+9	kveldane		subst			8	PUTFYLL		hov
+
+# text = bordtennis ?
+# segstart = 485.459
+# segstop = 486.873
+# file = lista_uib_05
+# speaker = ho
+# id = 123
+1	bordtennis		subst			0	FRAG		hov
+2	?		clb			1	IP		hov
+
+# text = nei # det er sånn
+# segstart = 486.642
+# segstop = 488.51
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 124
+1	nei		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	sånn		adv			4	ADV		hov
+
+# text = skikkeleg tennis ?
+# segstart = 488.723
+# segstop = 490.042
+# file = lista_uib_05
+# speaker = ho
+# id = 125
+1	skikkeleg		adj			2	ATR		hov
+2	tennis		subst			0	FRAG		hov
+3	?		clb			2	IP		hov
+
+# text = ja ## der er det kvar kveld men eg # pleier ikkje gå meir enn to kveldar i veka
+# segstart = 489.601
+# segstop = 495.914
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 126
+1	ja		interj			4	INTERJ		hov
+2	##		pause			3	IK		hov
+3	der		prep			4	ADV		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	kvar		det			7	DET		hov
+7	kveld		subst			4	SPRED		hov
+8	men		konj			11	KONJ		hov
+9	eg		pron			11	SUBJ		hov
+10	#		pause			11	IK		hov
+11	pleier		verb			4	KOORD		hov
+12	ikkje		adv			13	ADV		hov
+13	gå		verb			11	INFV		hov
+14	meir		adj			13	SPRED		hov
+15	enn		sbu			14	ADV		hov
+16	to		det			17	DET		hov
+17	kveldar		subst			15	ADV		hov
+18	i		prep			17	ATR		hov
+19	veka		subst			18	PUTFYLL		hov
+
+# text = dei andre kveldane det er så seint ved # ti og ellevetida # det synest eg er litt seint # når eg skal vere tidleg på skolen og sånn
+# segstart = 495.951
+# segstop = 504.024
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 127
+1	dei		det			3	DET		hov
+2	andre		det			3	DET		hov
+3	kveldane		subst			4	APP		hov
+4	det		pron			5	SUBJ		hov
+5	er		verb			0	FINV		hov
+6	så		adv			7	ADV		hov
+7	seint		adj			5	SPRED		hov
+8	ved		prep			5	ADV		hov
+9	#		pause			10	IK		hov
+10	ti		det			8	ADV		hov
+11	og		konj			12	KONJ		hov
+12	ellevetida		subst			10	KOORD		hov
+13	#		pause			14	IK		hov
+14	det		pron			17	SUBJ		hov
+15	synest		verb			5	KOORD		hov
+16	eg		pron			15	SUBJ		hov
+17	er		verb			15	DOBJ		hov
+18	litt		adj			19	ADV		hov
+19	seint		adj			17	SPRED		hov
+20	#		pause			21	IK		hov
+21	når		sbu			23	SBU		hov
+22	eg		pron			23	SUBJ		hov
+23	skal		verb			17	ADV		hov
+24	vere		verb			23	INFV		hov
+25	tidleg		adj			26	ADV		hov
+26	på		prep			24	SPRED		hov
+27	skolen		subst			26	PUTFYLL		hov
+28	og		konj			29	KONJ		hov
+29	sånn		adv			24	ADV		hov
+
+# text = ja det er jo blir litt seint ## det gjer det
+# segstart = 503.527
+# segstop = 507.596
+# file = lista_uib_05
+# speaker = ho
+# id = 128
+1	ja		interj			5	INTERJ		hov
+2	det		pron			5	FSUBJ		hov
+3	er		verb			5	REP		hov
+4	jo		adv			3	ADV		hov
+5	blir		verb			0	FINV		hov
+6	litt		adj			7	ADV		hov
+7	seint		adj			5	SPRED		hov
+8	##		pause			9	IK		hov
+9	det		pron			10	FSUBJ		hov
+10	gjer		verb			5	KOORD		hov
+11	det		pron			10	DOBJ		hov
+
+# text = er du # er det andre foreiningar som du er med i ?
+# segstart = 511.288
+# segstop = 514.491
+# file = lista_uib_05
+# speaker = ho
+# id = 129
+1	er		verb			4	REP		hov
+2	du		pron			1	SUBJ		hov
+3	#		pause			4	IK		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	andre		det			7	DET		hov
+7	foreiningar		subst			4	SPRED		hov
+8	som		sbu			10	SBU		hov
+9	du		pron			10	SUBJ		hov
+10	er		verb			7	ATR		hov
+11	med		prep			10	SPRED		hov
+12	i		prep			10	ADV		hov
+13	?		clb			4	IP		hov
+
+# text = # Yngres er eg jo med i
+# segstart = 516.146
+# segstop = 519.05
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 130
+1	#		pause			3	IK		hov
+2	Yngres		subst			7	PUTFYLL		hov
+3	er		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	jo		adv			3	ADV		hov
+6	med		prep			3	SPRED		hov
+7	i		prep			6	PUTFYLL		hov
+
+# text = det er for eg er leiar nå # det er for dei # yngre da # til # femte klasse trur eg det er femte og oppover
+# segstart = 519.579
+# segstop = 529.274
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 131
+1	det		pron			2	SUBJ		hov
+2	er		verb			0	FINV		hov
+3	for		konj			5	KONJ		hov
+4	eg		pron			5	SUBJ		hov
+5	er		verb			2	SPRED		hov
+6	leiar		subst			5	SPRED		hov
+7	nå		adv			5	ADV		hov
+8	#		pause			9	IK		hov
+9	det		pron			10	FSUBJ		hov
+10	er		verb			2	KOORD		hov
+11	for		prep			10	SPRED		hov
+12	dei		det			14	DET		hov
+13	#		pause			14	IK		hov
+14	yngre		adj			11	PUTFYLL		hov
+15	da		adv			10	ADV		hov
+16	#		pause			17	IK		hov
+17	til		prep			10	ADV		hov
+18	#		pause			19	IK		hov
+19	femte		adj			20	ATR		hov
+20	klasse		subst			17	PUTFYLL		hov
+21	trur		verb			10	PAR		hov
+22	eg		pron			21	SUBJ		hov
+23	det		pron			24	FSUBJ		hov
+24	er		verb			2	KOORD		hov
+25	femte		adj			24	SPRED		hov
+26	og		konj			27	KONJ		hov
+27	oppover		prep			24	ADV		hov
+
+# text = så du likar å ha d- med sånn
+# segstart = 530.825
+# segstop = 533.248
+# file = lista_uib_05
+# speaker = ho
+# id = 132
+1	så		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	likar		verb			0	FINV		hov
+4	å		inf-merke			3	DOBJ		hov
+5	ha		verb			4	INFV		hov
+6	d-		ufullst			7	FYLL		hov
+7	med		prep			5	ADV		hov
+8	sånn		adv			5	ADV		hov
+
+# text = ja eg liker jo
+# segstart = 533.468
+# segstop = 535.436
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 133
+1	ja		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	liker		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+
+# text = barn og ungdom
+# segstart = 534.829
+# segstop = 535.89
+# file = lista_uib_05
+# speaker = ho
+# id = 134
+1	barn		subst			0	FRAG		hov
+2	og		konj			3	KONJ		hov
+3	ungdom		subst			1	KOORD		hov
+
+# text = mm
+# segstart = 535.585
+# segstop = 536.523
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 135
+1	mm		interj			0	INTERJ		hov
+
+# text = forstår eg ## mm
+# segstart = 537.323
+# segstop = 540.585
+# file = lista_uib_05
+# speaker = ho
+# id = 136
+1	forstår		verb			0	FINV		hov
+2	eg		pron			1	SUBJ		hov
+3	##		pause			4	IK		hov
+4	mm		interj			1	INTERJ		hov
+
+# text = men dei fleste her e # e ja dei fleste her e deltar i fritida
+# segstart = 542.391
+# segstop = 548.993
+# file = lista_uib_05
+# speaker = ho
+# id = 137
+1	men		konj			13	KONJ		hov
+2	dei		det			3	DET		hov
+3	fleste		adj			13	REP		hov
+4	her		prep			3	ATR		hov
+5	e		nol			8	FYLL		hov
+6	#		pause			8	IK		hov
+7	e		nol			8	FYLL		hov
+8	ja		interj			13	INTERJ		hov
+9	dei		det			10	DET		hov
+10	fleste		adj			13	SUBJ		hov
+11	her		prep			10	ATR		hov
+12	e		nol			13	FYLL		hov
+13	deltar		verb			0	FINV		hov
+14	i		prep			13	ADV		hov
+15	fritida		subst			14	PUTFYLL		hov
+
+# text = der er vel mange slags aktivitetar
+# segstart = 550.59
+# segstop = 553.498
+# file = lista_uib_05
+# speaker = ho
+# id = 138
+1	der		prep			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	vel		adv			2	ADV		hov
+4	mange		adj			6	ATR		hov
+5	slags		subst			6	DET		hov
+6	aktivitetar		subst			2	PSUBJ		hov
+
+# text = ja # der er veldig mykje å velje mellom # det er der jo og da # dei fleste speler handball # det er veldig populært her nede nå
+# segstart = 552.949
+# segstop = 561.231
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 139
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	der		prep			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	veldig		adj			6	ADV		hov
+6	mykje		adj			4	SPRED		hov
+7	å		inf-merke			6	ADV		hov
+8	velje		verb			7	INFV		hov
+9	mellom		prep			8	ADV		hov
+10	#		pause			11	IK		hov
+11	det		pron			12	FSUBJ		hov
+12	er		verb			4	KOORD		hov
+13	der		prep			12	SPRED		hov
+14	jo		interj			12	ADV		hov
+15	og		konj			20	KONJ		hov
+16	da		adv			20	ADV		hov
+17	#		pause			18	IK		hov
+18	dei		det			19	DET		hov
+19	fleste		adj			20	SUBJ		hov
+20	speler		verb			4	KOORD		hov
+21	handball		subst			20	DOBJ		hov
+22	#		pause			23	IK		hov
+23	det		pron			24	SUBJ		hov
+24	er		verb			20	KOORD		hov
+25	veldig		adj			26	ADV		hov
+26	populært		adj			24	SPRED		hov
+27	her		prep			24	ADV		hov
+28	nede		prep			27	PUTFYLL		hov
+29	nå		adv			24	ADV		hov
+
+# text = seier du det ja # er dei flinke da ?
+# segstart = 560.999
+# segstop = 563.258
+# file = lista_uib_05
+# speaker = ho
+# id = 140
+1	seier		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	ja		interj			1	INTERJ		hov
+5	#		pause			6	IK		hov
+6	er		verb			1	KOORD		hov
+7	dei		det			8	DET		hov
+8	flinke		adj			6	SPRED		hov
+9	da		adv			6	ADV		hov
+10	?		clb			1	IP		hov
+
+# text = ja dei begynner å bli gode nå ## der er så mange nå så # tek ut dei beste nå
+# segstart = 563.851
+# segstop = 571.019
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 141
+1	ja		interj			3	INTERJ		hov
+2	dei		pron			3	SUBJ		hov
+3	begynner		verb			0	FINV		hov
+4	å		inf-merke			3	DOBJ		hov
+5	bli		verb			4	INFV		hov
+6	gode		adj			5	SPRED		hov
+7	nå		adv			5	ADV		hov
+8	##		pause			9	IK		hov
+9	der		prep			5	ADV		hov
+10	er		verb			3	KOORD		hov
+11	så		adv			10	ADV		hov
+12	mange		det			10	ADV		hov
+13	nå		adv			10	ADV		hov
+14	så		adv			16	SBU		hov
+15	#		pause			16	IK		hov
+16	tek		verb			10	SPRED		hov
+17	ut		prep			16	ADV		hov
+18	dei		det			19	DET		hov
+19	beste		adj			16	DOBJ		hov
+20	nå		adv			16	ADV		hov
+
+# text = mm ## handball ja
+# segstart = 572.597
+# segstop = 576.999
+# file = lista_uib_05
+# speaker = ho
+# id = 142
+1	mm		interj			0	INTERJ		hov
+2	##		pause			3	IK		hov
+3	handball		subst			1	ADV		hov
+4	ja		interj			1	INTERJ		hov
+
+# text = Vanse handballag ?
+# segstart = 580.34
+# segstop = 581.972
+# file = lista_uib_05
+# speaker = ho
+# id = 143
+1	Vanse		subst			0	FRAG		hov
+2	handballag		subst			1	FLAT		hov
+3	?		clb			1	IP		hov
+
+# text = det er Borhaug # og ## f- e # Farsund # handballag trur eg
+# segstart = 582.62
+# segstop = 591.872
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 144
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	Borhaug		subst			2	SPRED		hov
+4	#		pause			5	IK		hov
+5	og		konj			10	KONJ		hov
+6	##		pause			7	IK		hov
+7	f-		ufullst			10	REP		hov
+8	e		nol			10	FYLL		hov
+9	#		pause			10	IK		hov
+10	Farsund		subst			3	KOORD		hov
+11	#		pause			10	IK		hov
+12	handballag		subst			10	FLAT		hov
+13	trur		verb			2	PAR		hov
+14	eg		pron			13	SUBJ		hov
+
+# text = jaha
+# segstart = 591.585
+# segstop = 592.749
+# file = lista_uib_05
+# speaker = ho
+# id = 145
+1	jaha		interj			0	INTERJ		hov
+
+# text = em # ja har lyst å spørje deg kva e synest du er # er sentrum er det her # Vanse eller er det i Farsund # er oppført som sentrum ?
+# segstart = 598.15
+# segstop = 609.263
+# file = lista_uib_05
+# speaker = ho
+# id = 146
+1	em		nol			3	FYLL		hov
+2	#		pause			3	IK		hov
+3	ja		interj			4	INTERJ		hov
+4	har		verb			0	FINV		hov
+5	lyst		subst			4	DOBJ		hov
+6	å		inf-merke			5	ATR		hov
+7	spørje		verb			6	INFV		hov
+8	deg		pron			7	DOBJ		hov
+9	kva		pron			15	SUBJ		hov
+10	e		nol			11	FYLL		hov
+11	synest		verb			4	KOORD		hov
+12	du		pron			11	SUBJ		hov
+13	er		verb			15	REP		hov
+14	#		pause			15	IK		hov
+15	er		verb			11	DOBJ		hov
+16	sentrum		subst			15	DOBJ		hov
+17	er		verb			4	KOORD		hov
+18	det		pron			17	FSUBJ		hov
+19	her		prep			17	SPRED		hov
+20	#		pause			21	IK		hov
+21	Vanse		subst			19	PUTFYLL		hov
+22	eller		konj			23	KONJ		hov
+23	er		verb			17	KOORD		hov
+24	det		pron			23	FSUBJ		hov
+25	i		prep			23	SPRED		hov
+26	Farsund		subst			25	PUTFYLL		hov
+27	#		pause			28	IK		hov
+28	er		verb			15	KOORD		hov
+29	oppført		verb			28	INFV		hov
+30	som		prep			29	ADV		hov
+31	sentrum		subst			30	PUTFYLL		hov
+32	?		clb			4	IP		hov
+
+# text = før var det jo alltid Farsund som var # det var jo byen det og sånn # men e
+# segstart = 610.363
+# segstop = 616.81
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 147
+1	før		prep			2	ADV		hov
+2	var		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	jo		adv			2	ADV		hov
+5	alltid		adv			2	ADV		hov
+6	Farsund		subst			2	SPRED		hov
+7	som		sbu			8	SBU		hov
+8	var		verb			6	ATR		hov
+9	#		pause			10	IK		hov
+10	det		pron			11	SUBJ		hov
+11	var		verb			2	KOORD		hov
+12	jo		adv			11	ADV		hov
+13	byen		subst			11	SPRED		hov
+14	det		pron			10	APP		hov
+15	og		konj			16	KONJ		hov
+16	sånn		adv			11	ADV		hov
+17	#		pause			18	IK		hov
+18	men		konj			2	KONJ		hov
+19	e		nol			2	FYLL		hov
+
+# text = nå synest eg dei begynner å trekke meir til Vanse # så nå veit eg ikkje riktig kva # det er begge delar
+# segstart = 617.04
+# segstop = 624.219
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 148
+1	nå		adv			2	ADV		hov
+2	synest		verb			0	FINV		hov
+3	eg		pron			2	SUBJ		hov
+4	dei		pron			5	SUBJ		hov
+5	begynner		verb			2	DOBJ		hov
+6	å		inf-merke			5	DOBJ		hov
+7	trekke		verb			6	INFV		hov
+8	meir		adj			9	ADV		hov
+9	til		prep			7	ADV		hov
+10	Vanse		subst			9	PUTFYLL		hov
+11	#		pause			12	IK		hov
+12	så		adv			14	ADV		hov
+13	nå		adv			14	ADV		hov
+14	veit		verb			2	KOORD		hov
+15	eg		pron			14	SUBJ		hov
+16	ikkje		adv			14	ADV		hov
+17	riktig		adj			14	ADV		hov
+18	kva		pron			14	ADV		hov
+19	#		pause			20	IK		hov
+20	det		pron			21	FSUBJ		hov
+21	er		verb			2	KOORD		hov
+22	begge		det			23	DET		hov
+23	delar		subst			21	SPRED		hov
+
+# text = sånn midt imellom
+# segstart = 624.923
+# segstop = 626.683
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 149
+1	sånn		adv			3	ADV		hov
+2	midt		adv			3	ADV		hov
+3	imellom		prep			0	FRAG		hov
+
+# text = ja vel men dei oppfattar # gjerne Vanse som sentrum dei dei som er # frå gamle Lista kommune da
+# segstart = 627.786
+# segstop = 634.998
+# file = lista_uib_05
+# speaker = ho
+# id = 150
+1	ja		interj			5	INTERJ		hov
+2	vel		adv			5	ADV		hov
+3	men		konj			5	KONJ		hov
+4	dei		pron			5	SUBJ		hov
+5	oppfattar		verb			0	FINV		hov
+6	#		pause			7	IK		hov
+7	gjerne		adv			5	ADV		hov
+8	Vanse		subst			5	DOBJ		hov
+9	som		prep			5	OPRED		hov
+10	sentrum		subst			9	PUTFYLL		hov
+11	dei		pron			12	REP		hov
+12	dei		pron			4	APP		hov
+13	som		sbu			14	SBU		hov
+14	er		verb			12	ATR		hov
+15	#		pause			16	IK		hov
+16	frå		prep			14	ADV		hov
+17	gamle		adj			18	ATR		hov
+18	Lista		subst			16	PUTFYLL		hov
+19	kommune		subst			18	FLAT		hov
+20	da		adv			14	ADV		hov
+
+# text = ja # det trur eg nok
+# segstart = 634.813
+# segstop = 636.72
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 151
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	DOBJ		hov
+4	trur		verb			0	FINV		hov
+5	eg		pron			4	SUBJ		hov
+6	nok		adv			4	ADV		hov
+
+# text = mm
+# segstart = 638.595
+# segstop = 639.427
+# file = lista_uib_05
+# speaker = ho
+# id = 152
+1	mm		interj			0	INTERJ		hov
+
+# text = m
+# segstart = 639.229
+# segstop = 639.815
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 153
+1	m		interj			0	INTERJ		hov
+
+# text = men er det er det mykje meir å å gjere da inni # Farsund enn her # Vanse har du inntrykk av det ?
+# segstart = 641.159
+# segstop = 647.822
+# file = lista_uib_05
+# speaker = ho
+# id = 154
+1	men		konj			4	KONJ		hov
+2	er		verb			4	REP		hov
+3	det		pron			2	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	mykje		adj			7	ADV		hov
+7	meir		adj			4	SPRED		hov
+8	å		inf-merke			9	REP		hov
+9	å		inf-merke			7	ADV		hov
+10	gjere		verb			9	INFV		hov
+11	da		adv			10	ADV		hov
+12	inni		prep			10	ADV		hov
+13	#		pause			14	IK		hov
+14	Farsund		subst			12	PUTFYLL		hov
+15	enn		sbu			16	SBU		hov
+16	her		prep			10	ADV		hov
+17	#		pause			18	IK		hov
+18	Vanse		subst			16	PUTFYLL		hov
+19	har		verb			4	KOORD		hov
+20	du		pron			19	SUBJ		hov
+21	inntrykk		subst			19	DOBJ		hov
+22	av		prep			21	ATR		hov
+23	det		pron			22	PUTFYLL		hov
+24	?		clb			4	IP		hov
+
+# text = nei # det er der ikkje men e det er messom større det er # fleire butikkar og sånn
+# segstart = 647.638
+# segstop = 653.072
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 155
+1	nei		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	der		prep			4	ADV		hov
+6	ikkje		adv			4	ADV		hov
+7	men		konj			10	KONJ		hov
+8	e		nol			9	FYLL		hov
+9	det		pron			10	FSUBJ		hov
+10	er		verb			4	KOORD		hov
+11	messom		adv			10	ADV		hov
+12	større		adj			10	SPRED		hov
+13	det		pron			14	FSUBJ		hov
+14	er		verb			4	KOORD		hov
+15	#		pause			16	IK		hov
+16	fleire		adj			17	ATR		hov
+17	butikkar		subst			14	SPRED		hov
+18	og		konj			19	KONJ		hov
+19	sånn		adv			14	ADV		hov
+
+# text = ja
+# segstart = 652.936
+# segstop = 654.025
+# file = lista_uib_05
+# speaker = ho
+# id = 156
+1	ja		interj			0	INTERJ		hov
+
+# text = der er jo # nå er bjynn- e det v- det var kafeteria og sånn # nedi Farsund men nå er der komme to til her oppe så
+# segstart = 655.574
+# segstop = 664.257
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 157
+1	der		prep			2	ADV		hov
+2	er		verb			12	REP		hov
+3	jo		adv			2	ADV		hov
+4	#		pause			5	IK		hov
+5	nå		adv			6	ADV		hov
+6	er		verb			12	REP		hov
+7	bjynn-		ufullst			9	FYLL		hov
+8	e		nol			9	FYLL		hov
+9	det		pron			11	REP		hov
+10	v-		ufullst			11	FYLL		hov
+11	det		pron			12	FSUBJ		hov
+12	var		verb			0	FINV		hov
+13	kafeteria		subst			12	SPRED		hov
+14	og		konj			15	KONJ		hov
+15	sånn		adv			12	ADV		hov
+16	#		pause			17	IK		hov
+17	nedi		prep			12	ADV		hov
+18	Farsund		subst			17	PUTFYLL		hov
+19	men		konj			21	KONJ		hov
+20	nå		adv			21	ADV		hov
+21	er		verb			12	KOORD		hov
+22	der		prep			21	FSUBJ		hov
+23	komme		verb			21	SPRED		hov
+24	to		det			23	DOBJ		hov
+25	til		prep			23	ADV		hov
+26	her		prep			23	ADV		hov
+27	oppe		prep			26	PUTFYLL		hov
+28	så		adv			23	ADV		hov
+
+# text = men er ikkje noko med det her og nå ## så det er like mykje Vanse du går til nå
+# segstart = 664.794
+# segstop = 669.857
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 158
+1	men		konj			2	KONJ		hov
+2	er		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	noko		pron			2	SPRED		hov
+5	med		prep			4	ATR		hov
+6	det		pron			5	PUTFYLL		hov
+7	her		prep			2	ADV		hov
+8	og		konj			9	KONJ		hov
+9	nå		adv			7	ADV		hov
+10	##		pause			11	IK		hov
+11	så		konj			13	KONJ		hov
+12	det		pron			13	FSUBJ		hov
+13	er		verb			2	KOORD		hov
+14	like		adv			15	ADV		hov
+15	mykje		adj			13	ADV		hov
+16	Vanse		subst			13	SPRED		hov
+17	du		pron			18	SUBJ		hov
+18	går		verb			16	ATR		hov
+19	til		prep			18	ADV		hov
+20	nå		adv			18	ADV		hov
+
+# text = ja vel
+# segstart = 669.772
+# segstop = 670.908
+# file = lista_uib_05
+# speaker = ho
+# id = 159
+1	ja		interj			0	INTERJ		hov
+2	vel		adv			1	ADV		hov
+
+# text = så du synest det er like greitt her i Vanse som i # i Farsund ?
+# segstart = 673.684
+# segstop = 677.603
+# file = lista_uib_05
+# speaker = ho
+# id = 160
+1	så		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	synest		verb			0	FINV		hov
+4	det		pron			5	FSUBJ		hov
+5	er		verb			3	DOBJ		hov
+6	like		adv			7	ADV		hov
+7	greitt		adj			5	SPRED		hov
+8	her		prep			5	ADV		hov
+9	i		prep			8	PUTFYLL		hov
+10	Vanse		subst			9	PUTFYLL		hov
+11	som		prep			8	ADV		hov
+12	i		prep			14	REP		hov
+13	#		pause			14	IK		hov
+14	i		prep			11	PUTFYLL		hov
+15	Farsund		subst			14	PUTFYLL		hov
+16	?		clb			3	IP		hov
+
+# text = ja # det synest eg
+# segstart = 677.119
+# segstop = 679.143
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 161
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	DOBJ		hov
+4	synest		verb			0	FINV		hov
+5	eg		pron			4	SUBJ		hov
+
+# text = mm ## men e er der em # er det er det vanskeleg å e med bussrute og sånn her ?
+# segstart = 680.18
+# segstop = 692.702
+# file = lista_uib_05
+# speaker = ho
+# id = 162
+1	mm		interj			5	ADV		hov
+2	##		pause			3	IK		hov
+3	men		konj			5	KONJ		hov
+4	e		nol			5	FYLL		hov
+5	er		verb			11	REP		hov
+6	der		prep			5	FSUBJ		hov
+7	em		nol			9	FYLL		hov
+8	#		pause			9	IK		hov
+9	er		verb			11	REP		hov
+10	det		pron			9	FSUBJ		hov
+11	er		verb			0	FINV		hov
+12	det		pron			11	FSUBJ		hov
+13	vanskeleg		adj			11	SPRED		hov
+14	å		inf-merke			16	SLETT		hov
+15	e		nol			16	FYLL		hov
+16	med		prep			11	ADV		hov
+17	bussrute		subst			16	PUTFYLL		hov
+18	og		konj			19	KONJ		hov
+19	sånn		adv			11	ADV		hov
+20	her		prep			11	ADV		hov
+21	?		clb			11	IP		hov
+
+# text = går det masse bussar til e # Vanse Farsund # og andre stadar på Lista
+# segstart = 694.047
+# segstop = 699.967
+# file = lista_uib_05
+# speaker = ho
+# id = 163
+1	går		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	masse		adj			4	ATR		hov
+4	bussar		subst			1	SPRED		hov
+5	til		prep			1	ADV		hov
+6	e		nol			8	FYLL		hov
+7	#		pause			8	IK		hov
+8	Vanse		subst			5	PUTFYLL		hov
+9	Farsund		subst			8	KOORD		hov
+10	#		pause			11	IK		hov
+11	og		konj			13	KONJ		hov
+12	andre		det			13	DET		hov
+13	stadar		subst			8	KOORD		hov
+14	på		prep			1	ADV		hov
+15	Lista		subst			14	PUTFYLL		hov
+
+# text = ja …
+# segstart = 696.464
+# segstop = 697.28
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 164
+1	ja		interj			0	INTERJ		hov
+2	…		ellipsis			1	IK		hov
+
+# text = nei eg veit ikkje eg veit ikkje så valdsamt mykje om bussane for eg tek ikkje så mykje buss eg synest det er så dyrt # men e
+# segstart = 699.643
+# segstop = 706.88
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 165
+1	nei		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	veit		verb			6	REP		hov
+4	ikkje		adv			3	ADV		hov
+5	eg		pron			6	SUBJ		hov
+6	veit		verb			0	FINV		hov
+7	ikkje		adv			6	ADV		hov
+8	så		adv			10	ADV		hov
+9	valdsamt		adj			10	ADV		hov
+10	mykje		adj			6	ADV		hov
+11	om		prep			10	ADV		hov
+12	bussane		subst			11	PUTFYLL		hov
+13	for		konj			15	KONJ		hov
+14	eg		pron			15	SUBJ		hov
+15	tek		verb			6	KOORD		hov
+16	ikkje		adv			15	ADV		hov
+17	så		adv			18	ADV		hov
+18	mykje		adj			19	ATR		hov
+19	buss		subst			15	DOBJ		hov
+20	eg		pron			21	SUBJ		hov
+21	synest		verb			6	KOORD		hov
+22	det		pron			23	SUBJ		hov
+23	er		verb			21	DOBJ		hov
+24	så		adv			25	ADV		hov
+25	dyrt		adj			23	SPRED		hov
+26	#		pause			27	IK		hov
+27	men		konj			21	KONJ		hov
+28	e		nol			6	FYLL		hov
+
+# text = er det dyrt ?
+# segstart = 705.025
+# segstop = 706.297
+# file = lista_uib_05
+# speaker = ho
+# id = 166
+1	er		verb			0	FINV		hov
+2	det		pron			1	SUBJ		hov
+3	dyrt		adj			1	SPRED		hov
+4	?		clb			1	IP		hov
+
+# text = eg trur det går # kvar time # til Farsund i kvart fall #
+# segstart = 707.08
+# segstop = 715.23
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 167
+1	eg		pron			2	SUBJ		hov
+2	trur		verb			0	FINV		hov
+3	det		pron			4	SUBJ		hov
+4	går		verb			2	DOBJ		hov
+5	#		pause			6	IK		hov
+6	kvar		det			7	DET		hov
+7	time		subst			4	ADV		hov
+8	#		pause			9	IK		hov
+9	til		prep			4	ADV		hov
+10	Farsund		subst			9	PUTFYLL		hov
+11	i		prep			4	ADV		hov
+12	kvart		det			13	DET		hov
+13	fall		subst			11	PUTFYLL		hov
+14	#		pause			2	IK		hov
+
+# text = haikar du eller syklar du ?
+# segstart = 715.019
+# segstop = 716.489
+# file = lista_uib_05
+# speaker = ho
+# id = 168
+1	haikar		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	eller		konj			4	KONJ		hov
+4	syklar		verb			1	KOORD		hov
+5	du		pron			4	SUBJ		hov
+6	?		clb			1	IP		hov
+
+# text = ja eg haikar for det meste #
+# segstart = 716.027
+# segstop = 718.186
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 169
+1	ja		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	haikar		verb			0	FINV		hov
+4	for		prep			3	ADV		hov
+5	det		det			6	DET		hov
+6	meste		adj			4	PUTFYLL		hov
+7	#		pause			3	IK		hov
+
+# text = ja vel # det går bra ja
+# segstart = 716.82
+# segstop = 719.262
+# file = lista_uib_05
+# speaker = ho
+# id = 170
+1	ja		interj			5	INTERJ		hov
+2	vel		adv			5	ADV		hov
+3	#		pause			4	IK		hov
+4	det		pron			5	SUBJ		hov
+5	går		verb			0	FINV		hov
+6	bra		adj			5	SPRED		hov
+7	ja		interj			5	INTERJ		hov
+
+# text = ja # gjer det
+# segstart = 718.893
+# segstop = 721.861
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 171
+1	ja		interj			3	INTERJ		hov
+2	#		pause			3	IK		hov
+3	gjer		verb			0	FINV		hov
+4	det		pron			3	DOBJ		hov
+
+# text = litt langt å sykle
+# segstart = 722.058
+# segstop = 723.651
+# file = lista_uib_05
+# speaker = ho
+# id = 172
+1	litt		adj			2	ADV		hov
+2	langt		adj			0	FRAG		hov
+3	å		inf-merke			2	ADV		hov
+4	sykle		verb			3	INFV		hov
+
+# text = ja
+# segstart = 723.596
+# segstop = 724.878
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 173
+1	ja		interj			0	INTERJ		hov
+
+# text = seks sju kilometer er det ikkje det ?
+# segstart = 725.103
+# segstop = 727.03
+# file = lista_uib_05
+# speaker = ho
+# id = 174
+1	seks		det			3	DET		hov
+2	sju		det			3	DET		hov
+3	kilometer		subst			4	SPRED		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	ikkje		adv			4	ADV		hov
+7	det		pron			5	APP		hov
+8	?		clb			4	IP		hov
+
+# text = jau det er vel noko sånt # eg veit ikkje sikkert
+# segstart = 728.782
+# segstop = 732.28
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 175
+1	jau		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	vel		adv			3	ADV		hov
+5	noko		det			6	DET		hov
+6	sånt		pron			3	SPRED		hov
+7	#		pause			8	IK		hov
+8	eg		pron			9	SUBJ		hov
+9	veit		verb			3	KOORD		hov
+10	ikkje		adv			9	ADV		hov
+11	sikkert		adj			9	SPRED		hov
+
+# text = e # mange stader så er det # snakk om generasjonsforskjellar
+# segstart = 735.166
+# segstop = 741.883
+# file = lista_uib_05
+# speaker = ho
+# id = 176
+1	e		nol			3	FYLL		hov
+2	#		pause			3	IK		hov
+3	mange		det			4	DET		hov
+4	stader		subst			5	APP		hov
+5	så		adv			6	ADV		hov
+6	er		verb			0	FINV		hov
+7	det		pron			6	FSUBJ		hov
+8	#		pause			9	IK		hov
+9	snakk		subst			6	SPRED		hov
+10	om		prep			9	ATR		hov
+11	generasjonsforskjellar		subst			10	PUTFYLL		hov
+
+# text = desse her eldre dei synest ungdommen er så og så umogleg og ungdommen synest dei # eldre dei er
+# segstart = 741.883
+# segstop = 748.313
+# file = lista_uib_05
+# speaker = ho
+# id = 177
+1	desse		det			3	DET		hov
+2	her		prep			3	ATR		hov
+3	eldre		adj			4	APP		hov
+4	dei		pron			5	SUBJ		hov
+5	synest		verb			0	FINV		hov
+6	ungdommen		subst			7	SUBJ		hov
+7	er		verb			5	DOBJ		hov
+8	så		adv			7	ADV		hov
+9	og		konj			10	KONJ		hov
+10	så		adv			8	KOORD		hov
+11	umogleg		adj			7	SPRED		hov
+12	og		konj			14	KONJ		hov
+13	ungdommen		subst			14	SUBJ		hov
+14	synest		verb			5	KOORD		hov
+15	dei		det			17	DET		hov
+16	#		pause			17	IK		hov
+17	eldre		adj			18	APP		hov
+18	dei		pron			19	SUBJ		hov
+19	er		verb			14	DOBJ		hov
+
+# text = så og så og så gammaldagse og vanskelege # em har du inntrykk av at det er noko problem her ?
+# segstart = 748.585
+# segstop = 755.643
+# file = lista_uib_05
+# speaker = ho
+# id = 178
+1	så		adv			11	ADV		hov
+2	og		konj			3	KONJ		hov
+3	så		adv			1	KOORD		hov
+4	og		konj			6	KONJ		hov
+5	så		adv			6	ADV		hov
+6	gammaldagse		adj			1	KOORD		hov
+7	og		konj			8	KONJ		hov
+8	vanskelege		adj			6	KOORD		hov
+9	#		pause			11	IK		hov
+10	em		nol			11	FYLL		hov
+11	har		verb			0	FINV		hov
+12	du		pron			11	SUBJ		hov
+13	inntrykk		subst			11	DOBJ		hov
+14	av		prep			13	ATR		hov
+15	at		sbu			17	SBU		hov
+16	det		pron			17	FSUBJ		hov
+17	er		verb			14	PUTFYLL		hov
+18	noko		det			19	DET		hov
+19	problem		subst			17	SPRED		hov
+20	her		prep			17	ADV		hov
+21	?		clb			11	IP		hov
+
+# text = m ikkje noko spesielt problem problem nei men e # der er mange som
+# segstart = 756.922
+# segstop = 762.52
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 179
+1	m		interj			12	INTERJ		hov
+2	ikkje		adv			6	ADV		hov
+3	noko		det			4	DET		hov
+4	spesielt		adj			6	ATR		hov
+5	problem		subst			6	REP		hov
+6	problem		subst			12	ADV		hov
+7	nei		interj			12	INTERJ		hov
+8	men		konj			12	KONJ		hov
+9	e		nol			11	FYLL		hov
+10	#		pause			11	IK		hov
+11	der		prep			12	FSUBJ		hov
+12	er		verb			0	FINV		hov
+13	mange		adj			12	SPRED		hov
+14	som		sbu			13	ADV		hov
+
+# text = ja ## dei snakkar om at e dei ann- nei kan ikkje høyre etter foreldra dei er så gammaldagse og sånn # ikkje høyr etter dei
+# segstart = 763.475
+# segstop = 773.97
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 180
+1	ja		interj			4	INTERJ		hov
+2	##		pause			3	IK		hov
+3	dei		pron			4	SUBJ		hov
+4	snakkar		verb			0	FINV		hov
+5	om		prep			4	ADV		hov
+6	at		sbu			11	SBU		hov
+7	e		nol			8	FYLL		hov
+8	dei		pron			11	SUBJ		hov
+9	ann-		ufullst			10	FYLL		hov
+10	nei		interj			11	INTERJ		hov
+11	kan		verb			5	PUTFYLL		hov
+12	ikkje		adv			13	ADV		hov
+13	høyre		verb			11	INFV		hov
+14	etter		prep			13	ADV		hov
+15	foreldra		subst			14	PUTFYLL		hov
+16	dei		pron			17	SUBJ		hov
+17	er		verb			11	KOORD		hov
+18	så		adv			19	ADV		hov
+19	gammaldagse		adj			17	SPRED		hov
+20	og		konj			21	KONJ		hov
+21	sånn		adv			17	ADV		hov
+22	#		pause			23	IK		hov
+23	ikkje		adv			24	ADV		hov
+24	høyr		verb			17	KOORD		hov
+25	etter		prep			24	ADV		hov
+26	dei		pron			25	PUTFYLL		hov
+
+# text = men # eg synest ikkje det er så mykje nå som det var ei stund tidligare for nokon år sidan
+# segstart = 773.97
+# segstop = 778.887
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 181
+1	men		konj			4	KONJ		hov
+2	#		pause			3	IK		hov
+3	eg		pron			4	SUBJ		hov
+4	synest		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	det		pron			7	FSUBJ		hov
+7	er		verb			4	DOBJ		hov
+8	så		adv			9	ADV		hov
+9	mykje		adj			7	SPRED		hov
+10	nå		adv			7	ADV		hov
+11	som		sbu			13	SBU		hov
+12	det		pron			13	FSUBJ		hov
+13	var		verb			7	ADV		hov
+14	ei		det			15	DET		hov
+15	stund		subst			13	ADV		hov
+16	tidligare		adj			15	ATR		hov
+17	for		prep			13	ADV		hov
+18	nokon		det			19	DET		hov
+19	år		subst			17	PUTFYLL		hov
+20	sidan		adv			19	ATR		hov
+
+# text = mm ## men e # det er nå ein # der er kanskje ein del da som synest at dei må høyre etter da og synest at det er # er dumt e dei ikkje får gjere som dei andre kanskje eller ?
+# segstart = 780.259
+# segstop = 794.292
+# file = lista_uib_05
+# speaker = ho
+# id = 182
+1	mm		interj			7	INTERJ		hov
+2	##		pause			3	IK		hov
+3	men		konj			7	KONJ		hov
+4	e		nol			6	FYLL		hov
+5	#		pause			6	IK		hov
+6	det		pron			7	FSUBJ		hov
+7	er		verb			12	REP		hov
+8	nå		adv			7	ADV		hov
+9	ein		pron			7	SPRED		hov
+10	#		pause			11	IK		hov
+11	der		prep			12	FSUBJ		hov
+12	er		verb			0	FINV		hov
+13	kanskje		adv			12	ADV		hov
+14	ein		det			15	DET		hov
+15	del		subst			12	SPRED		hov
+16	da		adv			12	ADV		hov
+17	som		sbu			18	SBU		hov
+18	synest		verb			15	ATR		hov
+19	at		sbu			21	SBU		hov
+20	dei		pron			21	SUBJ		hov
+21	må		verb			18	DOBJ		hov
+22	høyre		verb			21	INFV		hov
+23	etter		prep			22	ADV		hov
+24	da		adv			22	PUTFYLL		hov
+25	og		konj			26	KONJ		hov
+26	synest		verb			18	KOORD		hov
+27	at		sbu			31	SBU		hov
+28	det		pron			31	FSUBJ		hov
+29	er		verb			31	REP		hov
+30	#		pause			31	IK		hov
+31	er		verb			26	DOBJ		hov
+32	dumt		adj			31	SPRED		hov
+33	e		nol			34	FYLL		hov
+34	dei		pron			36	SUBJ		hov
+35	ikkje		adv			37	ADV		hov
+36	får		verb			12	KOORD		hov
+37	gjere		verb			36	INFV		hov
+38	som		sbu			37	ADV		hov
+39	dei		det			40	DET		hov
+40	andre		det			38	ADV		hov
+41	kanskje		adv			37	ADV		hov
+42	eller		konj			37	KONJ		hov
+43	?		clb			12	IP		hov
+
+# text = mm
+# segstart = 793.773
+# segstop = 794.757
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 183
+1	mm		interj			0	INTERJ		hov
+
+# text = har du inntrykk av det at det ?
+# segstart = 794.973
+# segstop = 797.144
+# file = lista_uib_05
+# speaker = ho
+# id = 184
+1	har		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	inntrykk		subst			1	DOBJ		hov
+4	av		prep			3	ATR		hov
+5	det		pron			4	PUTFYLL		hov
+6	at		sbu			1	SLETT		hov
+7	det		pron			6	ADV		hov
+8	?		clb			1	IP		hov
+
+# text = ja
+# segstart = 797.416
+# segstop = 798.571
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 185
+1	ja		interj			0	INTERJ		hov
+
+# text = har det sånn ?
+# segstart = 797.832
+# segstop = 799.32
+# file = lista_uib_05
+# speaker = ho
+# id = 186
+1	har		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	sånn		adv			1	ADV		hov
+4	?		clb			1	IP		hov
+
+# text = dei e # ein blir jo oppdradd til å høyre etter dei så
+# segstart = 800.456
+# segstop = 804.679
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 187
+1	dei		pron			4	REP		hov
+2	e		nol			4	FYLL		hov
+3	#		pause			4	IK		hov
+4	ein		pron			5	SUBJ		hov
+5	blir		verb			0	FINV		hov
+6	jo		adv			7	ADV		hov
+7	oppdradd		verb			5	INFV		hov
+8	til		prep			7	ADV		hov
+9	å		inf-merke			8	PUTFYLL		hov
+10	høyre		verb			9	INFV		hov
+11	etter		prep			10	ADV		hov
+12	dei		pron			11	PUTFYLL		hov
+13	så		adv			10	ADV		hov
+
+# text = det # det er vel sånn for mange ja
+# segstart = 806.335
+# segstop = 810.15
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 188
+1	det		pron			3	REP		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	vel		adv			4	ADV		hov
+6	sånn		adv			4	ADV		hov
+7	for		adv			4	ADV		hov
+8	mange		adj			7	PUTFYLL		hov
+9	ja		interj			4	INTERJ		hov
+
+# text = men e det er jo ikkje alle # foreldre eller gamle som synest # synest likt heller ?
+# segstart = 814.483
+# segstop = 823.93
+# file = lista_uib_05
+# speaker = ho
+# id = 189
+1	men		konj			4	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	ikkje		adv			4	ADV		hov
+7	alle		det			9	DET		hov
+8	#		pause			9	IK		hov
+9	foreldre		subst			4	SPRED		hov
+10	eller		konj			11	KONJ		hov
+11	gamle		adj			9	KOORD		hov
+12	som		sbu			15	SBU		hov
+13	synest		verb			15	REP		hov
+14	#		pause			15	IK		hov
+15	synest		verb			9	ATR		hov
+16	likt		adv			15	ADV		hov
+17	heller		adv			15	ADV		hov
+18	?		clb			4	IP		hov
+
+# text = # det høyrest jo ofte sånn ut men dei er jo litt forskjellige dei òg
+# segstart = 814.483
+# segstop = 823.93
+# file = lista_uib_05
+# speaker = ho
+# id = 190
+1	#		pause			2	IK		hov
+2	det		pron			3	FSUBJ		hov
+3	høyrest		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	ofte		adj			3	ADV		hov
+6	sånn		adv			7	ADV		hov
+7	ut		prep			3	ADV		hov
+8	men		konj			10	KONJ		hov
+9	dei		pron			10	SUBJ		hov
+10	er		verb			3	KOORD		hov
+11	jo		adv			10	ADV		hov
+12	litt		adj			13	ADV		hov
+13	forskjellige		adj			10	SPRED		hov
+14	dei		pron			9	APP		hov
+15	òg		adv			10	ADV		hov
+
+# text = n- # ja
+# segstart = 822.57
+# segstop = 825.192
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 191
+1	n-		ufullst			3	FYLL		hov
+2	#		pause			3	IK		hov
+3	ja		interj			0	INTERJ		hov
+
+# text = e # har du inntrykk av at e dei vaksne synest e ungdommen oppfører seg e dårleg ?
+# segstart = 827.244
+# segstop = 834.61
+# file = lista_uib_05
+# speaker = ho
+# id = 192
+1	e		nol			3	FYLL		hov
+2	#		pause			3	IK		hov
+3	har		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	inntrykk		subst			3	DOBJ		hov
+6	av		prep			5	ATR		hov
+7	at		sbu			11	SBU		hov
+8	e		nol			9	FYLL		hov
+9	dei		det			10	DET		hov
+10	vaksne		adj			11	SUBJ		hov
+11	synest		verb			6	PUTFYLL		hov
+12	e		nol			13	FYLL		hov
+13	ungdommen		subst			14	SUBJ		hov
+14	oppfører		verb			11	DOBJ		hov
+15	seg		pron			14	IOBJ		hov
+16	e		nol			17	FYLL		hov
+17	dårleg		adj			14	DOBJ		hov
+18	?		clb			3	IP		hov
+
+# text = ja det synest eg # dei …
+# segstart = 834.586
+# segstop = 837.763
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 193
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	DOBJ		hov
+3	synest		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	#		pause			6	IK		hov
+6	dei		pron			3	FYLL		hov
+7	…		ellipsis			3	IK		hov
+
+# text = synest dei det ?
+# segstart = 836.62
+# segstop = 837.828
+# file = lista_uib_05
+# speaker = ho
+# id = 194
+1	synest		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = ja i kvart fall dei fleste # synest dei er rampete og sånn
+# segstart = 838.893
+# segstop = 843.515
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 195
+1	ja		interj			8	INTERJ		hov
+2	i		prep			8	ADV		hov
+3	kvart		det			4	DET		hov
+4	fall		subst			2	PUTFYLL		hov
+5	dei		det			6	DET		hov
+6	fleste		adj			8	SUBJ		hov
+7	#		pause			8	IK		hov
+8	synest		verb			0	FINV		hov
+9	dei		pron			10	SUBJ		hov
+10	er		verb			8	DOBJ		hov
+11	rampete		adj			10	SPRED		hov
+12	og		konj			13	KONJ		hov
+13	sånn		adv			10	ADV		hov
+
+# text = ja vel
+# segstart = 840.863
+# segstop = 842.435
+# file = lista_uib_05
+# speaker = ho
+# id = 196
+1	ja		interj			0	INTERJ		hov
+2	vel		adv			1	ADV		hov
+
+# text = ja kva er det dei helst reagerer på er det # motorsykkel eller ?
+# segstart = 843.171
+# segstop = 847.763
+# file = lista_uib_05
+# speaker = ho
+# id = 197
+1	ja		interj			3	INTERJ		hov
+2	kva		pron			8	PUTFYLL		hov
+3	er		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	dei		pron			7	SUBJ		hov
+6	helst		adv			7	ADV		hov
+7	reagerer		verb			3	SPRED		hov
+8	på		prep			7	ADV		hov
+9	er		verb			3	KOORD		hov
+10	det		pron			9	FSUBJ		hov
+11	#		pause			12	IK		hov
+12	motorsykkel		subst			9	SPRED		hov
+13	eller		konj			9	KONJ		hov
+14	?		clb			3	IP		hov
+
+# text = ja det er mykje det for gutane i kvart fall # men jentene dei synest # vi heng for mykje rundt dei gjer jo ingenting nå og sånn
+# segstart = 847.816
+# segstop = 856.912
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 198
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	mykje		adj			3	SPRED		hov
+5	det		pron			2	APP		hov
+6	for		prep			3	ADV		hov
+7	gutane		subst			6	PUTFYLL		hov
+8	i		prep			3	ADV		hov
+9	kvart		det			10	DET		hov
+10	fall		subst			8	PUTFYLL		hov
+11	#		pause			12	IK		hov
+12	men		konj			15	KONJ		hov
+13	jentene		subst			15	SUBJ		hov
+14	dei		pron			13	APP		hov
+15	synest		verb			3	KOORD		hov
+16	#		pause			17	IK		hov
+17	vi		pron			18	SUBJ		hov
+18	heng		verb			15	DOBJ		hov
+19	for		adv			20	ADV		hov
+20	mykje		adj			18	DOBJ		hov
+21	rundt		prep			20	ATR		hov
+22	dei		pron			23	SUBJ		hov
+23	gjer		verb			15	KOORD		hov
+24	jo		adv			23	ADV		hov
+25	ingenting		pron			23	DOBJ		hov
+26	nå		adv			23	ADV		hov
+27	og		konj			28	KONJ		hov
+28	sånn		adv			23	ADV		hov
+
+# text = ja vel ja ## så det det reagerer dei litt på ja ?
+# segstart = 858.034
+# segstop = 865.523
+# file = lista_uib_05
+# speaker = ho
+# id = 199
+1	ja		interj			8	INTERJ		hov
+2	vel		adv			1	ADV		hov
+3	ja		interj			8	INTERJ		hov
+4	##		pause			5	IK		hov
+5	så		konj			8	ADV		hov
+6	det		pron			7	REP		hov
+7	det		pron			11	PUTFYLL		hov
+8	reagerer		verb			0	FINV		hov
+9	dei		pron			8	SUBJ		hov
+10	litt		adj			8	ADV		hov
+11	på		prep			8	ADV		hov
+12	ja		interj			8	INTERJ		hov
+13	?		clb			8	IP		hov
+
+# text = ja # synest det
+# segstart = 866.252
+# segstop = 868.58
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 200
+1	ja		interj			3	INTERJ		hov
+2	#		pause			3	IK		hov
+3	synest		verb			0	FINV		hov
+4	det		pron			3	DOBJ		hov
+
+# text = sånn når det er # klesdrakt da blir det jo somme som # har litt forskjellige oppfatningar om
+# segstart = 868.588
+# segstop = 875.805
+# file = lista_uib_05
+# speaker = ho
+# id = 201
+1	sånn		adv			4	ADV		hov
+2	når		adv			4	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	#		pause			6	IK		hov
+6	klesdrakt		subst			4	SPRED		hov
+7	da		adv			8	ADV		hov
+8	blir		verb			4	KOORD		hov
+9	det		pron			8	FSUBJ		hov
+10	jo		adv			8	ADV		hov
+11	somme		pron			8	SPRED		hov
+12	som		sbu			14	SBU		hov
+13	#		pause			14	IK		hov
+14	har		verb			11	ATR		hov
+15	litt		adj			16	ADV		hov
+16	forskjellige		adj			17	ATR		hov
+17	oppfatningar		subst			14	DOBJ		hov
+18	om		prep			17	ATR		hov
+
+# text = i gamle dagar da gjekk dei ikkje sånn kledt og # sånn som dei går kledt nå det # er jo ikkje så bra og så vidare
+# segstart = 877.307
+# segstop = 884.588
+# file = lista_uib_05
+# speaker = ho
+# id = 202
+1	i		prep			5	ADV		hov
+2	gamle		adj			3	ATR		hov
+3	dagar		subst			1	PUTFYLL		hov
+4	da		adv			5	ADV		hov
+5	gjekk		verb			0	FINV		hov
+6	dei		pron			5	SUBJ		hov
+7	ikkje		adv			5	ADV		hov
+8	sånn		adv			9	ADV		hov
+9	kledt		adj			5	SPRED		hov
+10	og		konj			12	KONJ		hov
+11	#		pause			12	IK		hov
+12	sånn		adv			5	ADV		hov
+13	som		sbu			15	SBU		hov
+14	dei		pron			15	SUBJ		hov
+15	går		verb			9	ADV		hov
+16	kledt		verb			15	ADV		hov
+17	nå		adv			16	ADV		hov
+18	det		pron			20	FSUBJ		hov
+19	#		pause			20	IK		hov
+20	er		verb			5	KOORD		hov
+21	jo		adv			20	ADV		hov
+22	ikkje		adv			20	ADV		hov
+23	så		adv			24	ADV		hov
+24	bra		adj			20	SPRED		hov
+25	og		konj			27	KONJ		hov
+26	så		adv			27	ADV		hov
+27	vidare		adj			20	ADV		hov
+
+# text = ja
+# segstart = 880.95
+# segstop = 882.039
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 203
+1	ja		interj			0	INTERJ		hov
+
+# text = nei
+# segstart = 885.045
+# segstop = 886.341
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 204
+1	nei		interj			0	INTERJ		hov
+
+# text = har du høyrt at dei # synest det òg somme ?
+# segstart = 885.285
+# segstop = 888.648
+# file = lista_uib_05
+# speaker = ho
+# id = 205
+1	har		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	høyrt		verb			1	INFV		hov
+4	at		sbu			7	SBU		hov
+5	dei		pron			7	SUBJ		hov
+6	#		pause			7	IK		hov
+7	synest		verb			3	DOBJ		hov
+8	det		pron			7	DOBJ		hov
+9	òg		adv			7	ADV		hov
+10	somme		pron			5	APP		hov
+11	?		clb			1	IP		hov
+
+# text = ja men eg trur dei # godtek det # at moten f- skifter og sånn
+# segstart = 890.138
+# segstop = 895.927
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 206
+1	ja		interj			4	INTERJ		hov
+2	men		konj			4	KONJ		hov
+3	eg		pron			4	SUBJ		hov
+4	trur		verb			0	FINV		hov
+5	dei		pron			7	SUBJ		hov
+6	#		pause			7	IK		hov
+7	godtek		verb			4	DOBJ		hov
+8	det		pron			7	DOBJ		hov
+9	#		pause			10	IK		hov
+10	at		sbu			13	SBU		hov
+11	moten		subst			13	SUBJ		hov
+12	f-		ufullst			13	FYLL		hov
+13	skifter		verb			8	APP		hov
+14	og		adv			15	KONJ		hov
+15	sånn		adv			13	ADV		hov
+
+# text = ja # jo d- # dei må vel det ?
+# segstart = 899.034
+# segstop = 902.219
+# file = lista_uib_05
+# speaker = ho
+# id = 207
+1	ja		interj			7	INTERJ		hov
+2	#		pause			3	IK		hov
+3	jo		interj			7	INTERJ		hov
+4	d-		ufullst			6	REP		hov
+5	#		pause			6	IK		hov
+6	dei		pron			7	SUBJ		hov
+7	må		verb			0	FINV		hov
+8	vel		adv			7	ADV		hov
+9	det		pron			7	DOBJ		hov
+10	?		clb			7	IP		hov
+
+# text = ja ein må jo det # det blir jo sånn
+# segstart = 901.968
+# segstop = 904.976
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 208
+1	ja		interj			3	INTERJ		hov
+2	ein		pron			3	SUBJ		hov
+3	må		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	det		pron			3	DOBJ		hov
+6	#		pause			7	IK		hov
+7	det		pron			8	FSUBJ		hov
+8	blir		verb			3	KOORD		hov
+9	jo		adv			8	ADV		hov
+10	sånn		adv			8	ADV		hov
+
+# text = men det er ikkje alle som likar det kanskje likevel
+# segstart = 904.678
+# segstop = 907.846
+# file = lista_uib_05
+# speaker = ho
+# id = 209
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	alle		pron			3	SPRED		hov
+6	som		sbu			7	SBU		hov
+7	likar		verb			5	ATR		hov
+8	det		pron			7	DOBJ		hov
+9	kanskje		adv			7	ADV		hov
+10	likevel		adv			7	ADV		hov
+
+# text = mm
+# segstart = 908.077
+# segstop = 909.196
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 210
+1	mm		interj			0	INTERJ		hov
+
+# text = og så e # dette her med # ja med livssyn eller e sånn
+# segstart = 910.06
+# segstop = 917.174
+# file = lista_uib_05
+# speaker = ho
+# id = 211
+1	og		konj			5	KONJ		hov
+2	så		adv			5	ADV		hov
+3	e		nol			5	FYLL		hov
+4	#		pause			5	IK		hov
+5	dette		pron			0	FRAG		hov
+6	her		prep			5	ADV		hov
+7	med		prep			10	REP		hov
+8	#		pause			9	IK		hov
+9	ja		interj			5	INTERJ		hov
+10	med		prep			5	ATR		hov
+11	livssyn		subst			10	PUTFYLL		hov
+12	eller		konj			14	KONJ		hov
+13	e		nol			14	FYLL		hov
+14	sånn		adv			5	ADV		hov
+
+# text = korleis dei ser på pengar og forskjellig sånn det er jo høyrer jo om ofte eldre snakkar om at e # ungdommen dei
+# segstart = 918.303
+# segstop = 926.433
+# file = lista_uib_05
+# speaker = ho
+# id = 212
+1	korleis		adv			3	ADV		hov
+2	dei		pron			3	SUBJ		hov
+3	ser		verb			0	FINV		hov
+4	på		prep			3	ADV		hov
+5	pengar		subst			4	PUTFYLL		hov
+6	og		konj			8	KONJ		hov
+7	forskjellig		adj			8	ADV		hov
+8	sånn		adv			3	ADV		hov
+9	det		pron			10	FSUBJ		hov
+10	er		verb			12	REP		hov
+11	jo		adv			10	ADV		hov
+12	høyrer		verb			3	KOORD		hov
+13	jo		adv			12	ADV		hov
+14	om		prep			12	ADV		hov
+15	ofte		adj			12	ADV		hov
+16	eldre		adj			17	SUBJ		hov
+17	snakkar		verb			12	DOBJ		hov
+18	om		prep			17	ADV		hov
+19	at		sbu			22	SBU		hov
+20	e		nol			22	FYLL		hov
+21	#		pause			22	IK		hov
+22	ungdommen		subst			18	PUTFYLL		hov
+23	dei		pron			22	APP		hov
+
+# text = dei vørder ikkje pengar for # dei har aldri hatt det vanskeleg og burde hatt lært sånn som dei # måtte gjere # og så vidare
+# segstart = 927.116
+# segstop = 938.23
+# file = lista_uib_05
+# speaker = ho
+# id = 213
+1	dei		pron			2	SUBJ		hov
+2	vørder		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	pengar		subst			2	DOBJ		hov
+5	for		sbu			8	SBU		hov
+6	#		pause			7	IK		hov
+7	dei		pron			8	SUBJ		hov
+8	har		verb			2	ADV		hov
+9	aldri		adv			10	ADV		hov
+10	hatt		verb			8	INFV		hov
+11	det		pron			10	FOBJ		hov
+12	vanskeleg		adj			10	OPRED		hov
+13	og		konj			14	KONJ		hov
+14	burde		verb			10	KOORD		hov
+15	hatt		verb			14	INFV		hov
+16	lært		verb			15	INFV		hov
+17	sånn		adv			16	PUTFYLL		hov
+18	som		sbu			21	SBU		hov
+19	dei		pron			21	SUBJ		hov
+20	#		pause			21	IK		hov
+21	måtte		verb			17	ADV		hov
+22	gjere		verb			21	INFV		hov
+23	#		pause			24	IK		hov
+24	og		konj			26	KONJ		hov
+25	så		adv			26	ADV		hov
+26	vidare		adj			21	ADV		hov
+
+# text = ja
+# segstart = 937.244
+# segstop = 938.524
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 214
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 939.37
+# segstop = 940.6
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 215
+1	ja		interj			0	INTERJ		hov
+
+# text = men du høyrer kanskje ikkje så mykje til det der
+# segstart = 940.825
+# segstop = 943.302
+# file = lista_uib_05
+# speaker = ho
+# id = 216
+1	men		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	høyrer		verb			0	FINV		hov
+4	kanskje		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	så		adv			7	ADV		hov
+7	mykje		adj			3	DOBJ		hov
+8	til		prep			3	ADV		hov
+9	det		pron			8	PUTFYLL		hov
+10	der		prep			3	ADV		hov
+
+# text = nei men du er jo alltid i pengeknipe det er jo alltid sånn # med unge # det
+# segstart = 943.984
+# segstop = 949.589
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 217
+1	nei		interj			4	INTERJ		hov
+2	men		konj			4	KONJ		hov
+3	du		pron			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	alltid		adv			4	ADV		hov
+7	i		prep			4	SPRED		hov
+8	pengeknipe		subst			7	PUTFYLL		hov
+9	det		pron			10	FSUBJ		hov
+10	er		verb			4	KOORD		hov
+11	jo		adv			10	ADV		hov
+12	alltid		adv			10	ADV		hov
+13	sånn		adv			10	ADV		hov
+14	#		pause			15	IK		hov
+15	med		prep			13	ADV		hov
+16	unge		subst			15	PUTFYLL		hov
+17	#		pause			18	IK		hov
+18	det		pron			4	SLETT		hov
+
+# text = er det det ?
+# segstart = 949.566
+# segstop = 950.878
+# file = lista_uib_05
+# speaker = ho
+# id = 218
+1	er		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	det		pron			1	SPRED		hov
+4	?		clb			1	IP		hov
+
+# text = ja ja ikkje alle det er nokon som all- som har # dei fleste har ikkje # men det er nå så
+# segstart = 951.119
+# segstop = 958.758
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 219
+1	ja		interj			6	INTERJ		hov
+2	ja		interj			6	INTERJ		hov
+3	ikkje		adv			6	ADV		hov
+4	alle		pron			6	ADV		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+7	nokon		pron			6	SPRED		hov
+8	som		sbu			10	REP		hov
+9	all-		ufullst			10	FYLL		hov
+10	som		sbu			11	SBU		hov
+11	har		verb			7	ATR		hov
+12	#		pause			13	IK		hov
+13	dei		det			14	DET		hov
+14	fleste		adj			15	SUBJ		hov
+15	har		verb			6	KOORD		hov
+16	ikkje		adv			15	ADV		hov
+17	#		pause			18	IK		hov
+18	men		konj			20	KONJ		hov
+19	det		pron			20	FSUBJ		hov
+20	er		verb			15	KOORD		hov
+21	nå		adv			20	ADV		hov
+22	så		adv			20	ADV		hov
+
+# text = der er ikkje så godt å få tak i pengar der er jo ikkje så mykje jobb å få rundt
+# segstart = 959.141
+# segstop = 963.95
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 220
+1	der		prep			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	så		adv			5	ADV		hov
+5	godt		adj			2	SPRED		hov
+6	å		inf-merke			2	PSUBJ		hov
+7	få		verb			6	INFV		hov
+8	tak		subst			7	DOBJ		hov
+9	i		prep			8	ATR		hov
+10	pengar		subst			9	PUTFYLL		hov
+11	der		prep			7	ADV		hov
+12	er		verb			2	KOORD		hov
+13	jo		adv			12	ADV		hov
+14	ikkje		adv			12	ADV		hov
+15	så		adv			16	ADV		hov
+16	mykje		adj			17	ATR		hov
+17	jobb		subst			12	SPRED		hov
+18	å		inf-merke			17	ATR		hov
+19	få		verb			18	INFV		hov
+20	rundt		prep			19	ADV		hov
+
+# text = men dei som har pengar kva # har dei småjobbar dei da kanskje ?
+# segstart = 963.735
+# segstop = 968.367
+# file = lista_uib_05
+# speaker = ho
+# id = 221
+1	men		konj			2	KONJ		hov
+2	dei		pron			9	APP		hov
+3	som		sbu			4	SBU		hov
+4	har		verb			2	ATR		hov
+5	pengar		subst			4	DOBJ		hov
+6	kva		pron			8	SLETT		hov
+7	#		pause			8	IK		hov
+8	har		verb			0	FINV		hov
+9	dei		pron			8	SUBJ		hov
+10	småjobbar		subst			8	DOBJ		hov
+11	dei		pron			9	APP		hov
+12	da		adv			8	ADV		hov
+13	kanskje		adv			8	ADV		hov
+14	?		clb			8	IP		hov
+
+# text = ja # dei får nokon sånne småjobbar etter skolen og sånn
+# segstart = 968.063
+# segstop = 972.489
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 222
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	dei		pron			4	SUBJ		hov
+4	får		verb			0	FINV		hov
+5	nokon		det			7	DET		hov
+6	sånne		det			7	DET		hov
+7	småjobbar		subst			4	DOBJ		hov
+8	etter		prep			4	ADV		hov
+9	skolen		subst			8	PUTFYLL		hov
+10	og		konj			11	KONJ		hov
+11	sånn		adv			4	ADV		hov
+
+# text = kva slags jobbar er det da ?
+# segstart = 973.513
+# segstop = 975.973
+# file = lista_uib_05
+# speaker = ho
+# id = 223
+1	kva		det			2	DET		hov
+2	slags		subst			3	DET		hov
+3	jobbar		subst			4	SPRED		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	da		adv			4	ADV		hov
+7	?		clb			4	IP		hov
+
+# text = det er for det meste gutane som får jobbar # på verkstad og sånn
+# segstart = 976.573
+# segstop = 981.025
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 224
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	for		prep			2	ADV		hov
+4	det		det			5	DET		hov
+5	meste		adj			3	PUTFYLL		hov
+6	gutane		subst			2	SPRED		hov
+7	som		sbu			8	SBU		hov
+8	får		verb			6	ATR		hov
+9	jobbar		subst			8	DOBJ		hov
+10	#		pause			11	IK		hov
+11	på		prep			8	ADV		hov
+12	verkstad		subst			11	PUTFYLL		hov
+13	og		konj			14	KONJ		hov
+14	sånn		adv			8	ADV		hov
+
+# text = nokon jobbar i skogen og # sånn ## mens vi får ingenting å gjere
+# segstart = 982.368
+# segstop = 989.38
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 225
+1	nokon		pron			2	SUBJ		hov
+2	jobbar		verb			0	FINV		hov
+3	i		prep			2	ADV		hov
+4	skogen		subst			3	PUTFYLL		hov
+5	og		konj			7	KONJ		hov
+6	#		pause			7	IK		hov
+7	sånn		adv			2	ADV		hov
+8	##		pause			9	IK		hov
+9	mens		sbu			11	SBU		hov
+10	vi		pron			11	SUBJ		hov
+11	får		verb			2	ADV		hov
+12	ingenting		pron			11	DOBJ		hov
+13	å		inf-merke			12	ATR		hov
+14	gjere		verb			13	INFV		hov
+
+# text = barnevakt
+# segstart = 989.416
+# segstop = 990.839
+# file = lista_uib_05
+# speaker = ho
+# id = 226
+1	barnevakt		subst			0	FRAG		hov
+
+# text = ja det er ikkje så mykje det
+# segstart = 991.144
+# segstop = 992.893
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 227
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	så		adv			6	ADV		hov
+6	mykje		adj			3	SPRED		hov
+7	det		pron			2	APP		hov
+
+# text = ikkje så mykje å tene på det ?
+# segstart = 992.565
+# segstop = 993.939
+# file = lista_uib_05
+# speaker = ho
+# id = 228
+1	ikkje		adv			2	ADV		hov
+2	så		adv			3	ADV		hov
+3	mykje		adj			0	FRAG		hov
+4	å		inf-merke			3	ATR		hov
+5	tene		verb			4	INFV		hov
+6	på		prep			5	ADV		hov
+7	det		pron			6	PUTFYLL		hov
+8	?		clb			3	IP		hov
+
+# text = nei
+# segstart = 993.676
+# segstop = 994.82
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 229
+1	nei		interj			0	INTERJ		hov
+
+# text = nei det er vel ikkje det
+# segstart = 996.039
+# segstop = 997.463
+# file = lista_uib_05
+# speaker = ho
+# id = 230
+1	nei		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	vel		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	det		pron			3	SPRED		hov
+
+# text = det blir jo ikkje så ofte det
+# segstart = 997.364
+# segstop = 999.068
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 231
+1	det		pron			2	FSUBJ		hov
+2	blir		verb			0	FINV		hov
+3	jo		adv			2	ADV		hov
+4	ikkje		adv			2	ADV		hov
+5	så		adv			6	ADV		hov
+6	ofte		adj			2	SPRED		hov
+7	det		pron			1	APP		hov
+
+# text = så du får ikkje for mykje pengar av det iallfall
+# segstart = 999.271
+# segstop = 1001.262
+# file = lista_uib_05
+# speaker = ho
+# id = 232
+1	så		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	får		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	for		prep			3	ADV		hov
+6	mykje		adj			7	ATR		hov
+7	pengar		subst			5	PUTFYLL		hov
+8	av		prep			7	ATR		hov
+9	det		pron			8	PUTFYLL		hov
+10	iallfall		adv			3	ADV		hov
+
+# text = nei
+# segstart = 1001.233
+# segstop = 1001.961
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 233
+1	nei		interj			0	INTERJ		hov
+
+# text = men ## har du em
+# segstart = 1005.292
+# segstop = 1009.15
+# file = lista_uib_05
+# speaker = ho
+# id = 234
+1	men		konj			3	KONJ		hov
+2	##		pause			3	IK		hov
+3	har		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	em		nol			3	FYLL		hov
+
+# text = vi snakka litt om om e dialekten da har du e # merka nokon forskjell i dialekt og talemål her mellom
+# segstart = 1010.124
+# segstop = 1019.121
+# file = lista_uib_05
+# speaker = ho
+# id = 235
+1	vi		pron			2	SUBJ		hov
+2	snakka		verb			0	FINV		hov
+3	litt		adj			2	ADV		hov
+4	om		prep			5	REP		hov
+5	om		prep			2	ADV		hov
+6	e		nol			7	FYLL		hov
+7	dialekten		subst			5	PUTFYLL		hov
+8	da		adv			2	ADV		hov
+9	har		verb			2	KOORD		hov
+10	du		pron			9	SUBJ		hov
+11	e		nol			13	FYLL		hov
+12	#		pause			13	IK		hov
+13	merka		verb			9	INFV		hov
+14	nokon		det			15	DET		hov
+15	forskjell		subst			13	DOBJ		hov
+16	i		prep			15	ATR		hov
+17	dialekt		subst			16	PUTFYLL		hov
+18	og		konj			19	KONJ		hov
+19	talemål		subst			17	KOORD		hov
+20	her		prep			13	ADV		hov
+21	mellom		prep			20	PUTFYLL		hov
+
+# text = mellom e dei på din alder og dei eldste # synest du dei snakkar nokolunde likt ?
+# segstart = 1019.121
+# segstop = 1026.266
+# file = lista_uib_05
+# speaker = ho
+# id = 236
+1	mellom		prep			11	ADV		hov
+2	e		nol			3	FYLL		hov
+3	dei		pron			1	PUTFYLL		hov
+4	på		prep			3	ATR		hov
+5	din		det			6	DET		hov
+6	alder		subst			4	PUTFYLL		hov
+7	og		konj			9	KONJ		hov
+8	dei		det			9	DET		hov
+9	eldste		adj			6	KOORD		hov
+10	#		pause			11	IK		hov
+11	synest		verb			0	FINV		hov
+12	du		pron			11	SUBJ		hov
+13	dei		pron			14	SUBJ		hov
+14	snakkar		verb			11	DOBJ		hov
+15	nokolunde		adv			16	ADV		hov
+16	likt		adv			14	ADV		hov
+17	?		clb			11	IP		hov
+
+# text = eg synest dialekten # held på å skifte nå i kvart fall
+# segstart = 1028.242
+# segstop = 1034.385
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 237
+1	eg		pron			2	SUBJ		hov
+2	synest		verb			0	FINV		hov
+3	dialekten		subst			5	SUBJ		hov
+4	#		pause			5	IK		hov
+5	held		verb			2	DOBJ		hov
+6	på		prep			5	ADV		hov
+7	å		inf-merke			6	PUTFYLL		hov
+8	skifte		verb			7	INFV		hov
+9	nå		adv			8	ADV		hov
+10	i		prep			8	ADV		hov
+11	kvart		det			12	DET		hov
+12	fall		subst			10	PUTFYLL		hov
+
+# text = det der bur så mange tilflyttarar og sånn og så # så høyrer du mykje på dei og
+# segstart = 1034.385
+# segstop = 1040.815
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 238
+1	det		pron			2	REP		hov
+2	der		prep			3	FSUBJ		hov
+3	bur		verb			0	FINV		hov
+4	så		adv			5	ADV		hov
+5	mange		det			6	DET		hov
+6	tilflyttarar		subst			3	DOBJ		hov
+7	og		konj			8	KONJ		hov
+8	sånn		adv			3	ADV		hov
+9	og		konj			13	KONJ		hov
+10	så		adv			12	REP		hov
+11	#		pause			12	IK		hov
+12	så		adv			13	ADV		hov
+13	høyrer		verb			3	KOORD		hov
+14	du		pron			13	SUBJ		hov
+15	mykje		adj			13	ADV		hov
+16	på		prep			13	ADV		hov
+17	dei		pron			16	PUTFYLL		hov
+18	og		konj			13	KONJ		hov
+
+# text = blir det mykje til vi legg om ja # i kvart fall når du pratar med andre
+# segstart = 1041.253
+# segstop = 1045.309
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 239
+1	blir		verb			6	REP		hov
+2	det		pron			1	FSUBJ		hov
+3	mykje		adj			1	INFV		hov
+4	til		prep			1	ADV		hov
+5	vi		pron			6	SUBJ		hov
+6	legg		verb			0	FINV		hov
+7	om		prep			6	ADV		hov
+8	ja		interj			6	INTERJ		hov
+9	#		pause			10	IK		hov
+10	i		prep			6	ADV		hov
+11	kvart		det			12	DET		hov
+12	fall		subst			10	PUTFYLL		hov
+13	når		sbu			15	SBU		hov
+14	du		pron			15	SUBJ		hov
+15	pratar		verb			6	ADV		hov
+16	med		prep			15	ADV		hov
+17	andre		det			16	PUTFYLL		hov
+
+# text = m det ja e dess større dei # ja ja det blir jo sånn med dei au
+# segstart = 1046.997
+# segstop = 1051.957
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 240
+1	m		interj			12	INTERJ		hov
+2	det		pron			12	SLETT		hov
+3	ja		interj			12	INTERJ		hov
+4	e		nol			6	FYLL		hov
+5	dess		adv			6	ADV		hov
+6	større		adj			12	SLETT		hov
+7	dei		pron			12	SLETT		hov
+8	#		pause			9	IK		hov
+9	ja		interj			12	INTERJ		hov
+10	ja		interj			12	INTERJ		hov
+11	det		pron			12	FSUBJ		hov
+12	blir		verb			0	FINV		hov
+13	jo		adv			12	ADV		hov
+14	sånn		adv			12	SPRED		hov
+15	med		prep			12	ADV		hov
+16	dei		pron			15	PUTFYLL		hov
+17	au		adv			12	ADV		hov
+
+# text = så du e du meiner der er litt forskjell
+# segstart = 1055.142
+# segstop = 1058.708
+# file = lista_uib_05
+# speaker = ho
+# id = 241
+1	så		konj			5	KONJ		hov
+2	du		pron			4	REP		hov
+3	e		nol			4	FYLL		hov
+4	du		pron			5	SUBJ		hov
+5	meiner		verb			0	FINV		hov
+6	der		prep			7	FSUBJ		hov
+7	er		verb			5	DOBJ		hov
+8	litt		adj			9	ATR		hov
+9	forskjell		subst			7	SPRED		hov
+
+# text = mm
+# segstart = 1058.662
+# segstop = 1059.654
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 242
+1	mm		interj			0	INTERJ		hov
+
+# text = e frå dei eldste til dei yngste # i dialekten da
+# segstart = 1059.465
+# segstop = 1064.249
+# file = lista_uib_05
+# speaker = ho
+# id = 243
+1	e		nol			2	FYLL		hov
+2	frå		prep			0	FRAG		hov
+3	dei		det			4	DET		hov
+4	eldste		adj			2	PUTFYLL		hov
+5	til		prep			2	ADV		hov
+6	dei		det			7	DET		hov
+7	yngste		adj			5	PUTFYLL		hov
+8	#		pause			9	IK		hov
+9	i		prep			7	ADV		hov
+10	dialekten		subst			9	PUTFYLL		hov
+11	da		adv			2	ADV		hov
+
+# text = ja # ikkje så mykje men # der er eit grann
+# segstart = 1064.441
+# segstop = 1068.116
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 244
+1	ja		interj			9	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ikkje		adv			9	ADV		hov
+4	så		adv			9	ADV		hov
+5	mykje		adj			9	ADV		hov
+6	men		konj			9	KONJ		hov
+7	#		pause			8	IK		hov
+8	der		prep			9	FSUBJ		hov
+9	er		verb			0	FINV		hov
+10	eit		det			11	DET		hov
+11	grann		subst			9	SPRED		hov
+
+# text = dei eldste dei snakkar meir # e sånn # sånn dialekt dei held på det # mens vi nå vi # vi legg meir over for det
+# segstart = 1069.985
+# segstop = 1079.992
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 245
+1	dei		det			2	DET		hov
+2	eldste		adj			3	APP		hov
+3	dei		pron			4	SUBJ		hov
+4	snakkar		verb			0	FINV		hov
+5	meir		adj			11	DET		hov
+6	#		pause			8	IK		hov
+7	e		nol			8	FYLL		hov
+8	sånn		det			10	REP		hov
+9	#		pause			10	IK		hov
+10	sånn		det			11	DET		hov
+11	dialekt		subst			4	DOBJ		hov
+12	dei		pron			13	SUBJ		hov
+13	held		verb			4	KOORD		hov
+14	på		prep			13	ADV		hov
+15	det		pron			14	PUTFYLL		hov
+16	#		pause			17	IK		hov
+17	mens		sbu			23	SBU		hov
+18	vi		pron			22	REP		hov
+19	nå		adv			23	ADV		hov
+20	vi		pron			22	REP		hov
+21	#		pause			22	IK		hov
+22	vi		pron			23	SUBJ		hov
+23	legg		verb			4	ADV		hov
+24	meir		adj			23	ADV		hov
+25	over		prep			23	ADV		hov
+26	for		prep			23	ADV		hov
+27	det		pron			26	PUTFYLL		hov
+
+# text = der er jo så mange tilflyttarar nå
+# segstart = 1080.489
+# segstop = 1083.161
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 246
+1	der		prep			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	jo		adv			2	ADV		hov
+4	så		adv			5	ADV		hov
+5	mange		adj			6	ATR		hov
+6	tilflyttarar		subst			2	SPRED		hov
+7	nå		adv			2	ADV		hov
+
+# text = tilflyttarane kor dei helst e kjem ifrå ?
+# segstart = 1083.677
+# segstop = 1086.655
+# file = lista_uib_05
+# speaker = ho
+# id = 247
+1	tilflyttarane		subst			3	APP		hov
+2	kor		adv			7	PUTFYLL		hov
+3	dei		pron			6	SUBJ		hov
+4	helst		adv			6	ADV		hov
+5	e		nol			6	FYLL		hov
+6	kjem		verb			0	FINV		hov
+7	ifrå		prep			6	ADV		hov
+8	?		clb			6	IP		hov
+
+# text = det er # enten Nord-Norge eller
+# segstart = 1087.435
+# segstop = 1090.347
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 248
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	#		pause			4	IK		hov
+4	enten		konj			5	KONJ		hov
+5	Nord-Norge		subst			2	SPRED		hov
+6	eller		konj			2	KONJ		hov
+
+# text = e # ja eg veit ikkje # ikkje noko spesielt
+# segstart = 1092.124
+# segstop = 1097.537
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 249
+1	e		nol			3	FYLL		hov
+2	#		pause			3	IK		hov
+3	ja		interj			5	INTERJ		hov
+4	eg		pron			5	SUBJ		hov
+5	veit		verb			0	FINV		hov
+6	ikkje		adv			8	REP		hov
+7	#		pause			8	IK		hov
+8	ikkje		adv			5	ADV		hov
+9	noko		det			10	DET		hov
+10	spesielt		adj			5	DOBJ		hov
+
+# text = andre delar av landet altså ?
+# segstart = 1097.07
+# segstop = 1098.547
+# file = lista_uib_05
+# speaker = ho
+# id = 250
+1	andre		det			2	DET		hov
+2	delar		subst			0	FRAG		hov
+3	av		prep			2	ATR		hov
+4	landet		subst			3	PUTFYLL		hov
+5	altså		adv			2	ADV		hov
+6	?		clb			2	IP		hov
+
+# text = ja
+# segstart = 1098.02
+# segstop = 1098.829
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 251
+1	ja		interj			0	INTERJ		hov
+
+# text = så langvegs ifrå
+# segstart = 1099.128
+# segstop = 1100.961
+# file = lista_uib_05
+# speaker = ho
+# id = 252
+1	så		konj			3	KONJ		hov
+2	langvegs		adv			3	ADV		hov
+3	ifrå		prep			0	FRAG		hov
+
+# text = mm
+# segstart = 1100.217
+# segstop = 1101.438
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 253
+1	mm		interj			0	INTERJ		hov
+
+# text = mm
+# segstart = 1101.347
+# segstop = 1102.113
+# file = lista_uib_05
+# speaker = ho
+# id = 254
+1	mm		interj			0	INTERJ		hov
+
+# text = ja vel # har du lagt merke til nokon bestemte ord eller # uttrykk som # er forskjellige ?
+# segstart = 1103.756
+# segstop = 1110.233
+# file = lista_uib_05
+# speaker = ho
+# id = 255
+1	ja		interj			4	INTERJ		hov
+2	vel		adv			4	ADV		hov
+3	#		pause			4	IK		hov
+4	har		verb			0	FINV		hov
+5	du		pron			4	SUBJ		hov
+6	lagt		verb			4	INFV		hov
+7	merke		subst			6	DOBJ		hov
+8	til		prep			7	ATR		hov
+9	nokon		det			11	DET		hov
+10	bestemte		adj			11	ATR		hov
+11	ord		subst			8	PUTFYLL		hov
+12	eller		konj			14	KONJ		hov
+13	#		pause			14	IK		hov
+14	uttrykk		subst			11	KOORD		hov
+15	som		sbu			17	SBU		hov
+16	#		pause			17	IK		hov
+17	er		verb			11	ATR		hov
+18	forskjellige		adj			17	SPRED		hov
+19	?		clb			4	IP		hov
+
+# text = hos dei eldre og dei # yngre
+# segstart = 1111.849
+# segstop = 1114.568
+# file = lista_uib_05
+# speaker = ho
+# id = 256
+1	hos		prep			0	FRAG		hov
+2	dei		det			3	DET		hov
+3	eldre		adj			1	PUTFYLL		hov
+4	og		konj			7	KONJ		hov
+5	dei		det			7	DET		hov
+6	#		pause			7	IK		hov
+7	yngre		adj			3	KOORD		hov
+
+# text = nei eg veit ikkje
+# segstart = 1119.872
+# segstop = 1121.655
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 257
+1	nei		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	veit		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+
+# text = om det vert « me » eller « mi » er det noko ?
+# segstart = 1123.755
+# segstop = 1126.315
+# file = lista_uib_05
+# speaker = ho
+# id = 258
+1	om		sbu			3	SBU		hov
+2	det		pron			3	FSUBJ		hov
+3	vert		verb			11	ADV		hov
+4	«		anf		anf	5	IK		hov
+5	me		pron		|q|	3	DOBJ		hov
+6	»		anf		anf	5	IK		hov
+7	eller		konj			9	KONJ		hov
+8	«		anf		anf	9	IK		hov
+9	mi		pron		|q|	5	KOORD		hov
+10	»		anf		anf	9	IK		hov
+11	er		verb			0	FINV		hov
+12	det		pron			11	FSUBJ		hov
+13	noko		pron			11	SPRED		hov
+14	?		clb			11	IP		hov
+
+# text = ja e
+# segstart = 1126.173
+# segstop = 1129.078
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 259
+1	ja		interj			0	INTERJ		hov
+2	e		nol			1	FYLL		hov
+
+# text = forskjell i det ?
+# segstart = 1129.029
+# segstop = 1132.293
+# file = lista_uib_05
+# speaker = ho
+# id = 260
+1	forskjell		subst			0	FRAG		hov
+2	i		prep			1	ATR		hov
+3	det		pron			2	PUTFYLL		hov
+4	?		clb			1	IP		hov
+
+# text = du bru- du brukte begge delar
+# segstart = 1129.029
+# segstop = 1132.293
+# file = lista_uib_05
+# speaker = ho
+# id = 261
+1	du		pron			3	REP		hov
+2	bru-		ufullst			4	REP		hov
+3	du		pron			4	SUBJ		hov
+4	brukte		verb			0	FINV		hov
+5	begge		det			6	DET		hov
+6	delar		subst			4	DOBJ		hov
+
+# text = ja det er så det er sånn opp og ned det # « mi » # eg seier vel e for det meste « mi »
+# segstart = 1132.407
+# segstop = 1138.109
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 262
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			6	REP		hov
+4	så		konj			6	KONJ		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+7	sånn		adv			6	ADV		hov
+8	opp		prep			6	SPRED		hov
+9	og		konj			10	KONJ		hov
+10	ned		prep			8	KOORD		hov
+11	det		pron			5	APP		hov
+12	#		pause			14	IK		hov
+13	«		anf		anf	14	IK		hov
+14	mi		pron		|q|	18	ADV		hov
+15	»		anf		anf	14	IK		hov
+16	#		pause			17	IK		hov
+17	eg		pron			18	SUBJ		hov
+18	seier		verb			6	KOORD		hov
+19	vel		adv			18	ADV		hov
+20	e		nol			21	FYLL		hov
+21	for		prep			18	ADV		hov
+22	det		det			23	DET		hov
+23	meste		adj			21	PUTFYLL		hov
+24	«		anf		anf	25	IK		hov
+25	mi		pron		|q|	18	DOBJ		hov
+26	»		anf		anf	25	IK		hov
+
+# text = eg veit ikkje kva dei vå- dei gamle seier ## trur dei seier « mi » dei au
+# segstart = 1141.167
+# segstop = 1148.32
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 263
+1	eg		pron			2	SUBJ		hov
+2	veit		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	kva		pron			9	DOBJ		hov
+5	dei		det			7	REP		hov
+6	vå-		ufullst			7	FYLL		hov
+7	dei		det			8	DET		hov
+8	gamle		adj			9	SUBJ		hov
+9	seier		verb			2	DOBJ		hov
+10	##		pause			11	IK		hov
+11	trur		verb			2	KOORD		hov
+12	dei		pron			13	SUBJ		hov
+13	seier		verb			11	DOBJ		hov
+14	«		anf		anf	15	IK		hov
+15	mi		pron		|q|	13	DOBJ		hov
+16	»		anf		anf	15	IK		hov
+17	dei		pron			12	APP		hov
+18	au		adv			13	ADV		hov
+
+# text = mm # det er ikkje nokon som seier « me » ?
+# segstart = 1147.89
+# segstop = 1150.39
+# file = lista_uib_05
+# speaker = ho
+# id = 264
+1	mm		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	nokon		pron			4	SPRED		hov
+7	som		sbu			8	SBU		hov
+8	seier		verb			6	ATR		hov
+9	«		anf		anf	10	IK		hov
+10	me		pron		|q|	8	DOBJ		hov
+11	»		anf		anf	10	IK		hov
+12	?		clb			4	IP		hov
+
+# text = e kje- eg trur ikkje det
+# segstart = 1151.414
+# segstop = 1153.463
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 265
+1	e		nol			3	FYLL		hov
+2	kje-		ufullst			3	FYLL		hov
+3	eg		pron			4	SUBJ		hov
+4	trur		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	det		pron			4	DOBJ		hov
+
+# text = er det « vi » i tilfelle da ?
+# segstart = 1153.983
+# segstop = 1155.591
+# file = lista_uib_05
+# speaker = ho
+# id = 266
+1	er		verb			0	FINV		hov
+2	det		pron			1	FSUBJ		hov
+3	«		anf		anf	4	IK		hov
+4	vi		pron		|q|	1	SPRED		hov
+5	»		anf		anf	4	IK		hov
+6	i		prep			1	ADV		hov
+7	tilfelle		subst			6	PUTFYLL		hov
+8	da		adv			1	ADV		hov
+9	?		clb			1	IP		hov
+
+# text = jaha
+# segstart = 1155.594
+# segstop = 1156.772
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 267
+1	jaha		interj			0	INTERJ		hov
+
+# text = viss du skal skifte på det
+# segstart = 1156.655
+# segstop = 1158.222
+# file = lista_uib_05
+# speaker = ho
+# id = 268
+1	viss		sbu			3	SBU		hov
+2	du		pron			3	SUBJ		hov
+3	skal		verb			0	FINV		hov
+4	skifte		verb			3	INFV		hov
+5	på		prep			4	ADV		hov
+6	det		pron			5	PUTFYLL		hov
+
+# text = mm
+# segstart = 1157.99
+# segstop = 1158.668
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 269
+1	mm		interj			0	INTERJ		hov
+
+# text = mm ## me- har du merka nokon forskjell på måten e gutar snakkar på # og jenter snakkar på ?
+# segstart = 1159.655
+# segstop = 1171.325
+# file = lista_uib_05
+# speaker = ho
+# id = 270
+1	mm		interj			4	INTERJ		hov
+2	##		pause			4	IK		hov
+3	me-		ufullst			4	FYLL		hov
+4	har		verb			0	FINV		hov
+5	du		pron			4	SUBJ		hov
+6	merka		verb			4	INFV		hov
+7	nokon		det			8	DET		hov
+8	forskjell		subst			6	DOBJ		hov
+9	på		prep			8	ATR		hov
+10	måten		subst			9	PUTFYLL		hov
+11	e		nol			12	FYLL		hov
+12	gutar		subst			13	SUBJ		hov
+13	snakkar		verb			10	ATR		hov
+14	på		prep			13	ADV		hov
+15	#		pause			16	IK		hov
+16	og		konj			18	KONJ		hov
+17	jenter		subst			18	SUBJ		hov
+18	snakkar		verb			13	KOORD		hov
+19	på		prep			18	ADV		hov
+20	?		clb			4	IP		hov
+
+# text = eg veit ikkje # kanskje # gutane snakkar meir breitt # i forhold til jentene ## eg veit ikkje
+# segstart = 1174.944
+# segstop = 1185.151
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 271
+1	eg		pron			2	SUBJ		hov
+2	veit		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	#		pause			5	IK		hov
+5	kanskje		adv			8	ADV		hov
+6	#		pause			7	IK		hov
+7	gutane		subst			8	SUBJ		hov
+8	snakkar		verb			2	KOORD		hov
+9	meir		adj			10	ADV		hov
+10	breitt		adj			8	ADV		hov
+11	#		pause			12	IK		hov
+12	i		prep			10	ADV		hov
+13	forhold		subst			12	PUTFYLL		hov
+14	til		prep			13	ATR		hov
+15	jentene		subst			14	PUTFYLL		hov
+16	##		pause			17	IK		hov
+17	eg		pron			18	SUBJ		hov
+18	veit		verb			2	KOORD		hov
+19	ikkje		adv			18	ADV		hov
+
+# text = kva tenker du på når du ## når du snakkar om breitt
+# segstart = 1184.732
+# segstop = 1188.903
+# file = lista_uib_05
+# speaker = ho
+# id = 272
+1	kva		pron			4	PUTFYLL		hov
+2	tenker		verb			0	FINV		hov
+3	du		pron			2	SUBJ		hov
+4	på		prep			2	ADV		hov
+5	når		sbu			8	REP		hov
+6	du		pron			9	REP		hov
+7	##		pause			8	IK		hov
+8	når		sbu			10	SBU		hov
+9	du		pron			10	SUBJ		hov
+10	snakkar		verb			2	ADV		hov
+11	om		prep			10	ADV		hov
+12	breitt		adj			10	ADV		hov
+
+# text = # nei altså
+# segstart = 1188.624
+# segstop = 1192.255
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 273
+1	#		pause			2	IK		hov
+2	nei		interj			0	INTERJ		hov
+3	altså		adv			2	ADV		hov
+
+# text = breitt det er meir sånn dialekten er # det er snakkar meir sånn # sånn som dei gjer i Vestbygda # nei altså
+# segstart = 1194.575
+# segstop = 1203.047
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 274
+1	breitt		adj			3	ADV		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	meir		adj			5	ADV		hov
+5	sånn		adv			7	ADV		hov
+6	dialekten		subst			7	SUBJ		hov
+7	er		verb			3	SPRED		hov
+8	#		pause			9	IK		hov
+9	det		pron			10	FSUBJ		hov
+10	er		verb			11	REP		hov
+11	snakkar		verb			3	KOORD		hov
+12	meir		adj			15	ADV		hov
+13	sånn		adv			15	REP		hov
+14	#		pause			15	IK		hov
+15	sånn		adv			11	ADV		hov
+16	som		sbu			18	SBU		hov
+17	dei		pron			18	SUBJ		hov
+18	gjer		verb			11	ADV		hov
+19	i		prep			18	ADV		hov
+20	Vestbygda		subst			19	PUTFYLL		hov
+21	#		pause			22	IK		hov
+22	nei		interj			18	INTERJ		hov
+23	altså		adv			18	ADV		hov
+
+# text = når ikkje dei snakkar breitt da er det meir sånn fint sånn # legg om dialekten
+# segstart = 1203.935
+# segstop = 1209.48
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 275
+1	når		sbu			4	SBU		hov
+2	ikkje		adv			4	ADV		hov
+3	dei		pron			4	SUBJ		hov
+4	snakkar		verb			6	APP		hov
+5	breitt		adj			4	ADV		hov
+6	da		adv			7	ADV		hov
+7	er		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	meir		adj			10	ADV		hov
+10	sånn		adv			11	ADV		hov
+11	fint		adj			7	SPRED		hov
+12	sånn		adv			7	ADV		hov
+13	#		pause			14	IK		hov
+14	legg		verb			7	KOORD		hov
+15	om		prep			14	ADV		hov
+16	dialekten		subst			15	PUTFYLL		hov
+
+# text = ja vel
+# segstart = 1210.875
+# segstop = 1211.97
+# file = lista_uib_05
+# speaker = ho
+# id = 276
+1	ja		interj			0	INTERJ		hov
+2	vel		adv			1	ADV		hov
+
+# text = ikkje så godt å forklare
+# segstart = 1212.067
+# segstop = 1213.638
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 277
+1	ikkje		adv			2	ADV		hov
+2	så		adv			3	ADV		hov
+3	godt		adj			0	FRAG		hov
+4	å		inf-merke			3	ADV		hov
+5	forklare		verb			4	INFV		hov
+
+# text = korleis legg dei om kan du kan du ikkje gi nokre eksempel på det ?
+# segstart = 1212.991
+# segstop = 1223.104
+# file = lista_uib_05
+# speaker = ho
+# id = 278
+1	korleis		adv			2	ADV		hov
+2	legg		verb			0	FINV		hov
+3	dei		pron			2	SUBJ		hov
+4	om		prep			2	ADV		hov
+5	kan		verb			7	REP		hov
+6	du		pron			5	SUBJ		hov
+7	kan		verb			2	KOORD		hov
+8	du		pron			7	SUBJ		hov
+9	ikkje		adv			10	ADV		hov
+10	gi		verb			7	INFV		hov
+11	nokre		det			12	DET		hov
+12	eksempel		subst			10	DOBJ		hov
+13	på		prep			12	ATR		hov
+14	det		pron			13	PUTFYLL		hov
+15	?		clb			2	IP		hov
+
+# text = # når dei snakkar litt finare da # sånne bestemte ord kanskje ?
+# segstart = 1212.991
+# segstop = 1223.104
+# file = lista_uib_05
+# speaker = ho
+# id = 279
+1	#		pause			2	IK		hov
+2	når		sbu			4	SBU		hov
+3	dei		pron			4	SUBJ		hov
+4	snakkar		verb			0	FINV		hov
+5	litt		adj			6	ADV		hov
+6	finare		adj			4	ADV		hov
+7	da		adv			4	ADV		hov
+8	#		pause			9	IK		hov
+9	sånne		det			11	DET		hov
+10	bestemte		adj			11	ATR		hov
+11	ord		subst			4	ADV		hov
+12	kanskje		adv			4	ADV		hov
+13	?		clb			4	IP		hov
+
+# text = # som dei # skiftar ut
+# segstart = 1212.991
+# segstop = 1223.104
+# file = lista_uib_05
+# speaker = ho
+# id = 280
+1	#		pause			2	IK		hov
+2	som		sbu			5	SBU		hov
+3	dei		pron			5	SUBJ		hov
+4	#		pause			5	IK		hov
+5	skiftar		verb			0	FINV		hov
+6	ut		prep			5	ADV		hov
+
+# text = ## eg e legg messom ikkje merke til det så valdsamt men
+# segstart = 1224.713
+# segstop = 1236.481
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 281
+1	##		pause			2	IK		hov
+2	eg		pron			4	SUBJ		hov
+3	e		nol			4	FYLL		hov
+4	legg		verb			0	FINV		hov
+5	messom		adv			7	ADV		hov
+6	ikkje		adv			7	ADV		hov
+7	merke		verb			4	INFV		hov
+8	til		prep			7	ADV		hov
+9	det		pron			8	PUTFYLL		hov
+10	så		adv			11	ADV		hov
+11	valdsamt		adj			7	ADV		hov
+12	men		konj			4	KONJ		hov
+
+# text = ikkje noko spesielt
+# segstart = 1239.273
+# segstop = 1241.6
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 282
+1	ikkje		adv			3	ADV		hov
+2	noko		det			3	DET		hov
+3	spesielt		adj			0	FRAG		hov
+
+# text = sånn som « gjenge » og « stend »
+# segstart = 1241.602
+# segstop = 1244.146
+# file = lista_uib_05
+# speaker = ho
+# id = 283
+1	sånn		adv			4	ADV		hov
+2	som		prep			1	ADV		hov
+3	«		anf		anf	4	IK		hov
+4	gjenge		verb		|q|	0	FINV		hov
+5	»		anf		anf	4	IK		hov
+6	og		konj			8	KONJ		hov
+7	«		anf		anf	8	IK		hov
+8	stend		verb		|q|	4	KOORD		hov
+9	»		anf		anf	8	IK		hov
+
+# text = å ja
+# segstart = 1244.396
+# segstop = 1245.312
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 284
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = skifter du på det trur du ?
+# segstart = 1244.841
+# segstop = 1246.601
+# file = lista_uib_05
+# speaker = ho
+# id = 285
+1	skifter		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	på		prep			1	ADV		hov
+4	det		pron			3	PUTFYLL		hov
+5	trur		verb			1	PAR		hov
+6	du		pron			5	SUBJ		hov
+7	?		clb			1	IP		hov
+
+# text = jaha # vi seier jo « mi gjenge » e « mi gjenge bort der » og sånn # vi legg ikkje om på det trur eg
+# segstart = 1248.93
+# segstop = 1255.934
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 286
+1	jaha		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	vi		pron			4	SUBJ		hov
+4	seier		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	«		anf		anf	8	IK		hov
+7	mi		det		|q|	8	DET		hov
+8	gjenge		verb		|q|	4	DOBJ		hov
+9	»		anf		anf	8	IK		hov
+10	e		nol			12	FYLL		hov
+11	«		anf		anf	13	IK		hov
+12	mi		det		|q|	13	DET		hov
+13	gjenge		verb		|q|	8	KOORD		hov
+14	bort		prep		|q|	13	ADV		hov
+15	der		prep		|q|	14	PUTFYLL		hov
+16	»		anf		anf	13	IK		hov
+17	og		konj			18	KONJ		hov
+18	sånn		adv			4	ADV		hov
+19	#		pause			20	IK		hov
+20	vi		pron			21	SUBJ		hov
+21	legg		verb			4	KOORD		hov
+22	ikkje		adv			21	ADV		hov
+23	om		prep			21	ADV		hov
+24	på		prep			23	PUTFYLL		hov
+25	det		pron			24	PUTFYLL		hov
+26	trur		verb			21	PAR		hov
+27	eg		pron			26	SUBJ		hov
+
+# text = ja
+# segstart = 1252.794
+# segstop = 1253.522
+# file = lista_uib_05
+# speaker = ho
+# id = 287
+1	ja		interj			0	INTERJ		hov
+
+# text = nei
+# segstart = 1255.096
+# segstop = 1256.234
+# file = lista_uib_05
+# speaker = ho
+# id = 288
+1	nei		interj			0	INTERJ		hov
+
+# text = men em # der er vel litt forskjell da em # mellom # denne bygda Vanse og så # nabobygda inn til # Farsund # sentrum ?
+# segstart = 1257.378
+# segstop = 1267.31
+# file = lista_uib_05
+# speaker = ho
+# id = 289
+1	men		konj			5	KONJ		hov
+2	em		nol			4	FYLL		hov
+3	#		pause			4	IK		hov
+4	der		prep			5	FSUBJ		hov
+5	er		verb			0	FINV		hov
+6	vel		adv			5	ADV		hov
+7	litt		adj			8	ATR		hov
+8	forskjell		subst			5	SPRED		hov
+9	da		adv			8	ADV		hov
+10	em		nol			12	FYLL		hov
+11	#		pause			12	IK		hov
+12	mellom		prep			8	ATR		hov
+13	#		pause			14	IK		hov
+14	denne		det			15	DET		hov
+15	bygda		subst			12	PUTFYLL		hov
+16	Vanse		subst			15	ATR		hov
+17	og		konj			20	KONJ		hov
+18	så		adv			20	ADV		hov
+19	#		pause			20	IK		hov
+20	nabobygda		subst			15	KOORD		hov
+21	inn		prep			20	ATR		hov
+22	til		prep			21	PUTFYLL		hov
+23	#		pause			24	IK		hov
+24	Farsund		subst			22	PUTFYLL		hov
+25	#		pause			26	IK		hov
+26	sentrum		subst			24	ATR		hov
+27	?		clb			5	IP		hov
+
+# text = ja i Farsund der snakkar dei mykje finare
+# segstart = 1267.365
+# segstop = 1270.658
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 290
+1	ja		interj			5	INTERJ		hov
+2	i		prep			5	ADV		hov
+3	Farsund		subst			2	PUTFYLL		hov
+4	der		prep			5	ADV		hov
+5	snakkar		verb			0	FINV		hov
+6	dei		pron			5	SUBJ		hov
+7	mykje		adj			8	ADV		hov
+8	finare		adj			5	ADV		hov
+
+# text = gjer dei det ?
+# segstart = 1270.344
+# segstop = 1271.296
+# file = lista_uib_05
+# speaker = ho
+# id = 291
+1	gjer		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = ja # dei gjer det # det er …
+# segstart = 1271.013
+# segstop = 1274.406
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 292
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	dei		pron			4	SUBJ		hov
+4	gjer		verb			0	FINV		hov
+5	det		pron			4	DOBJ		hov
+6	#		pause			7	IK		hov
+7	det		pron			8	SUBJ		hov
+8	er		verb			4	KOORD		hov
+9	…		ellipsis			4	IK		hov
+
+# text = kan du # seie nokre ord # dei brukar der ?
+# segstart = 1273.839
+# segstop = 1277.442
+# file = lista_uib_05
+# speaker = ho
+# id = 293
+1	kan		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	#		pause			4	IK		hov
+4	seie		verb			1	INFV		hov
+5	nokre		det			6	DET		hov
+6	ord		subst			4	DOBJ		hov
+7	#		pause			8	IK		hov
+8	dei		pron			9	SUBJ		hov
+9	brukar		verb			6	ATR		hov
+10	der		prep			9	ADV		hov
+11	?		clb			1	IP		hov
+
+# text = der seier dei « vi »
+# segstart = 1278.954
+# segstop = 1280.623
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 294
+1	der		prep			2	ADV		hov
+2	seier		verb			0	FINV		hov
+3	dei		pron			2	SUBJ		hov
+4	«		anf		anf	5	IK		hov
+5	vi		pron			2	DOBJ		hov
+6	»		anf		anf	5	IK		hov
+
+# text = gjer dei det ?
+# segstart = 1280.68
+# segstop = 1281.592
+# file = lista_uib_05
+# speaker = ho
+# id = 295
+1	gjer		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = ja # iallfall mange av dei # e
+# segstart = 1281.444
+# segstop = 1286.796
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 296
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	iallfall		adv			1	ADV		hov
+4	mange		adj			1	ADV		hov
+5	av		prep			4	ATR		hov
+6	dei		pron			5	PUTFYLL		hov
+7	#		pause			1	IK		hov
+8	e		nol			1	FYLL		hov
+
+# text = « ha » ja ja # e eg veit ikkje # dei snakkar så fint der i Farsund
+# segstart = 1289.428
+# segstop = 1295.709
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 297
+1	«		anf		anf	2	IK		hov
+2	ha		verb			9	ADV		hov
+3	»		anf		anf	2	IK		hov
+4	ja		interj			9	INTERJ		hov
+5	ja		interj			9	INTERJ		hov
+6	#		pause			8	IK		hov
+7	e		nol			8	FYLL		hov
+8	eg		pron			9	SUBJ		hov
+9	veit		verb			0	FINV		hov
+10	ikkje		adv			9	ADV		hov
+11	#		pause			12	IK		hov
+12	dei		pron			13	SUBJ		hov
+13	snakkar		verb			9	KONJ		hov
+14	så		adv			15	ADV		hov
+15	fint		adj			13	ADV		hov
+16	der		prep			13	ADV		hov
+17	i		prep			13	ADV		hov
+18	Farsund		subst			17	PUTFYLL		hov
+
+# text = gjer dei det ?
+# segstart = 1295.795
+# segstop = 1297.595
+# file = lista_uib_05
+# speaker = ho
+# id = 298
+1	gjer		verb			0	FINV		hov
+2	dei		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = # ja vel
+# segstart = 1295.795
+# segstop = 1297.595
+# file = lista_uib_05
+# speaker = ho
+# id = 299
+1	#		pause			2	IK		hov
+2	ja		interj			0	INTERJ		hov
+3	vel		adv			2	ADV		hov
+
+# text = i kvart fall # synest vi det ja
+# segstart = 1297.406
+# segstop = 1300.224
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 300
+1	i		prep			5	ADV		hov
+2	kvart		det			3	DET		hov
+3	fall		subst			1	PUTFYLL		hov
+4	#		pause			5	IK		hov
+5	synest		verb			0	FINV		hov
+6	vi		pron			5	SUBJ		hov
+7	det		pron			5	DOBJ		hov
+8	ja		interj			5	INTERJ		hov
+
+# text = mm ## kor langt må du reise her e for å høyre ein forskjell altså reise vestover ?
+# segstart = 1299.877
+# segstop = 1308.568
+# file = lista_uib_05
+# speaker = ho
+# id = 301
+1	mm		interj			5	INTERJ		hov
+2	##		pause			3	IK		hov
+3	kor		adv			4	ADV		hov
+4	langt		adj			7	ADV		hov
+5	må		verb			0	FINV		hov
+6	du		pron			5	SUBJ		hov
+7	reise		verb			5	INFV		hov
+8	her		prep			7	ADV		hov
+9	e		nol			10	FYLL		hov
+10	for		prep			7	ADV		hov
+11	å		inf-merke			10	PUTFYLL		hov
+12	høyre		verb			11	INFV		hov
+13	ein		det			14	DET		hov
+14	forskjell		subst			12	DOBJ		hov
+15	altså		adv			16	ADV		hov
+16	reise		verb			5	KOORD		hov
+17	vestover		prep			16	ADV		hov
+18	?		clb			5	IP		hov
+
+# text = det er berre ut # ut til Skeime
+# segstart = 1309.104
+# segstop = 1312.43
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 302
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	berre		adv			2	ADV		hov
+4	ut		prep			6	REP		hov
+5	#		pause			6	IK		hov
+6	ut		prep			2	SPRED		hov
+7	til		prep			6	PUTFYLL		hov
+8	Skeime		subst			7	PUTFYLL		hov
+
+# text = langt er det ?
+# segstart = 1313.334
+# segstop = 1314.339
+# file = lista_uib_05
+# speaker = ho
+# id = 303
+1	langt		adj			2	ADV		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	SUBJ		hov
+4	?		clb			2	IP		hov
+
+# text = det er # der M1 bur # å ja du var ikkje heime hos han nei ?
+# segstart = 1314.04
+# segstop = 1318.362
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 304
+1	det		pron			2	SUBJ		hov
+2	er		verb			0	FINV		hov
+3	#		pause			4	IK		hov
+4	der		prep			2	SPRED		hov
+5	M1		subst			6	SUBJ		hov
+6	bur		verb			4	PUTFYLL		hov
+7	#		pause			8	IK		hov
+8	å		interj			11	INTERJ		hov
+9	ja		interj			11	INTERJ		hov
+10	du		pron			11	SUBJ		hov
+11	var		verb			2	KOORD		hov
+12	ikkje		adv			11	ADV		hov
+13	heime		subst			11	SPRED		hov
+14	hos		prep			13	ATR		hov
+15	han		pron			14	PUTFYLL		hov
+16	nei		interj			2	INTERJ		hov
+17	?		clb			2	IP		hov
+
+# text = … # e
+# segstart = 1315.142
+# segstop = 1317.439
+# file = lista_uib_05
+# speaker = ho
+# id = 305
+1	…		ellipsis			3	IK		hov
+2	#		pause			3	IK		hov
+3	e		nol			0	FRAG		hov
+
+# text = nei
+# segstart = 1317.704
+# segstop = 1318.36
+# file = lista_uib_05
+# speaker = ho
+# id = 306
+1	nei		interj			0	INTERJ		hov
+
+# text = nei det er # eit stykke utanfor Vanse # ikkje langt ifrå ein
+# segstart = 1319.111
+# segstop = 1324.906
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 307
+1	nei		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	#		pause			5	IK		hov
+5	eit		det			6	DET		hov
+6	stykke		subst			3	SPRED		hov
+7	utanfor		prep			6	ATR		hov
+8	Vanse		subst			7	PUTFYLL		hov
+9	#		pause			10	IK		hov
+10	ikkje		adv			11	ADV		hov
+11	langt		adv			12	ADV		hov
+12	ifrå		prep			3	ADV		hov
+13	ein		det			12	PUTFYLL		hov
+
+# text = par kilometer ?
+# segstart = 1325.161
+# segstop = 1326.218
+# file = lista_uib_05
+# speaker = ho
+# id = 308
+1	par		subst			2	ATR		hov
+2	kilometer		subst			0	FRAG		hov
+3	?		clb			2	IP		hov
+
+# text = ja # det er ikkje langt
+# segstart = 1325.832
+# segstop = 1328.276
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 309
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	langt		adv			4	ADV		hov
+
+# text = så kan du høyre forskjell ?
+# segstart = 1328.003
+# segstop = 1329.219
+# file = lista_uib_05
+# speaker = ho
+# id = 310
+1	så		adv			2	ADV		hov
+2	kan		verb			0	FINV		hov
+3	du		pron			2	SUBJ		hov
+4	høyre		verb			2	INFV		hov
+5	forskjell		subst			4	DOBJ		hov
+6	?		clb			2	IP		hov
+
+# text = ja # det er ein spesiell dialekt der ute # sånn har vore sånn breitt på Brekne ## sånn
+# segstart = 1328.756
+# segstop = 1335.51
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 311
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	ein		det			7	DET		hov
+6	spesiell		adj			7	ATR		hov
+7	dialekt		subst			4	PSUBJ		hov
+8	der		prep			4	ADV		hov
+9	ute		prep			8	PUTFYLL		hov
+10	#		pause			11	IK		hov
+11	sånn		adv			12	ADV		hov
+12	har		verb			4	KOORD		hov
+13	vore		verb			12	INFV		hov
+14	sånn		det			15	DET		hov
+15	breitt		adj			13	SPRED		hov
+16	på		prep			15	ATR		hov
+17	Brekne		subst			16	PUTFYLL		hov
+18	##		pause			19	IK		hov
+19	sånn		det			15	DET		hov
+
+# text = men det er ikkje sånn som han M1 hadde vel ?
+# segstart = 1335.293
+# segstop = 1337.349
+# file = lista_uib_05
+# speaker = ho
+# id = 312
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	sånn		adv			6	ADV		hov
+6	som		sbu			9	SBU		hov
+7	han		pron			9	SUBJ		hov
+8	M1		subst			9	SUBJ		hov
+9	hadde		verb			3	SPRED		hov
+10	vel		adv			9	ADV		hov
+11	?		clb			3	IP		hov
+
+# text = nei M1 M1 har ikkje har ikkje den dialekten
+# segstart = 1337.473
+# segstop = 1340.751
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 313
+1	nei		interj			6	INTERJ		hov
+2	M1		subst			3	REP		hov
+3	M1		subst			6	SUBJ		hov
+4	har		verb			6	REP		hov
+5	ikkje		adv			7	REP		hov
+6	har		verb			0	FINV		hov
+7	ikkje		adv			6	ADV		hov
+8	den		det			9	DET		hov
+9	dialekten		subst			6	DOBJ		hov
+
+# text = nei
+# segstart = 1339.957
+# segstop = 1340.773
+# file = lista_uib_05
+# speaker = ho
+# id = 314
+1	nei		interj			0	INTERJ		hov
+
+# text = har du lagt merke til at det er nokon som forandrar på på dialekten når dei er i # nye situasjonar andre situasjonar i telefonen eller butikken eller i byen
+# segstart = 1342.365
+# segstop = 1352.234
+# file = lista_uib_05
+# speaker = ho
+# id = 315
+1	har		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	lagt		verb			1	INFV		hov
+4	merke		subst			3	DOBJ		hov
+5	til		prep			4	ATR		hov
+6	at		sbu			8	SBU		hov
+7	det		pron			8	FSUBJ		hov
+8	er		verb			5	PUTFYLL		hov
+9	nokon		pron			8	SPRED		hov
+10	som		sbu			11	SBU		hov
+11	forandrar		verb			9	ATR		hov
+12	på		prep			13	REP		hov
+13	på		prep			11	ADV		hov
+14	dialekten		subst			13	PUTFYLL		hov
+15	når		sbu			17	SBU		hov
+16	dei		pron			17	SUBJ		hov
+17	er		verb			11	ADV		hov
+18	i		prep			17	SPRED		hov
+19	#		pause			20	IK		hov
+20	nye		adj			21	ATR		hov
+21	situasjonar		subst			18	PUTFYLL		hov
+22	andre		det			23	DET		hov
+23	situasjonar		subst			21	KOORD		hov
+24	i		prep			17	ADV		hov
+25	telefonen		subst			24	PUTFYLL		hov
+26	eller		konj			27	KONJ		hov
+27	butikken		subst			25	KOORD		hov
+28	eller		konj			29	KONJ		hov
+29	i		prep			25	KOORD		hov
+30	byen		subst			29	PUTFYLL		hov
+
+# text = ja # det blir jo det # i kvart fall når du # når du er i butikken e eller # sånn snakkar med andre
+# segstart = 1352.171
+# segstop = 1362.576
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 316
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	blir		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	det		pron			4	SPRED		hov
+7	#		pause			8	IK		hov
+8	i		prep			16	ADV		hov
+9	kvart		det			10	DET		hov
+10	fall		subst			8	PUTFYLL		hov
+11	når		sbu			14	REP		hov
+12	du		pron			15	REP		hov
+13	#		pause			14	IK		hov
+14	når		sbu			16	SBU		hov
+15	du		pron			16	SUBJ		hov
+16	er		verb			4	ADV		hov
+17	i		prep			16	ADV		hov
+18	butikken		subst			17	PUTFYLL		hov
+19	e		nol			20	FYLL		hov
+20	eller		konj			23	KONJ		hov
+21	#		pause			22	IK		hov
+22	sånn		adv			23	ADV		hov
+23	snakkar		verb			16	KOORD		hov
+24	med		prep			23	ADV		hov
+25	andre		det			24	PUTFYLL		hov
+
+# text = viss ikkje du kjenner dei spesielt # da legg du jo om ## men e
+# segstart = 1364.28
+# segstop = 1370.69
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 317
+1	viss		sbu			4	SBU		hov
+2	ikkje		adv			4	ADV		hov
+3	du		pron			4	SUBJ		hov
+4	kjenner		verb			0	FINV		hov
+5	dei		pron			4	DOBJ		hov
+6	spesielt		adj			4	ADV		hov
+7	#		pause			8	IK		hov
+8	da		adv			9	ADV		hov
+9	legg		verb			4	KOORD		hov
+10	du		pron			9	SUBJ		hov
+11	jo		adv			9	ADV		hov
+12	om		prep			9	ADV		hov
+13	##		pause			14	IK		hov
+14	men		konj			9	KONJ		hov
+15	e		nol			4	FYLL		hov
+
+# text = kva slags mønster er det du har da er det Kristiansand eller Farsundsk eller ## Oslo og
+# segstart = 1370.797
+# segstop = 1376.36
+# file = lista_uib_05
+# speaker = ho
+# id = 318
+1	kva		det			2	DET		hov
+2	slags		adj			3	ATR		hov
+3	mønster		subst			7	DOBJ		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	du		pron			7	SUBJ		hov
+7	har		verb			4	SPRED		hov
+8	da		adv			7	ADV		hov
+9	er		verb			4	KOORD		hov
+10	det		pron			9	FSUBJ		hov
+11	Kristiansand		subst			9	SPRED		hov
+12	eller		konj			13	KONJ		hov
+13	Farsundsk		subst			11	KOORD		hov
+14	eller		konj			16	KONJ		hov
+15	##		pause			16	IK		hov
+16	Oslo		subst			11	KOORD		hov
+17	og		konj			4	KONJ		hov
+
+# text = e det er vel helst Kristiansand
+# segstart = 1374.807
+# segstop = 1377.688
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 319
+1	e		nol			2	FYLL		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	vel		adv			3	ADV		hov
+5	helst		adv			3	ADV		hov
+6	Kristiansand		subst			3	SPRED		hov
+
+# text = Kristiansand mest ?
+# segstart = 1377.71
+# segstop = 1378.857
+# file = lista_uib_05
+# speaker = ho
+# id = 320
+1	Kristiansand		subst			0	FRAG		hov
+2	mest		adj			1	ADV		hov
+3	?		clb			1	IP		hov
+
+# text = ja eg trur det
+# segstart = 1378.616
+# segstop = 1379.726
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 321
+1	ja		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	trur		verb			0	FINV		hov
+4	det		pron			3	DOBJ		hov
+
+# text = mm
+# segstart = 1379.35
+# segstop = 1380.342
+# file = lista_uib_05
+# speaker = ho
+# id = 322
+1	mm		interj			0	INTERJ		hov
+
+# text = veit ikkje
+# segstart = 1380.255
+# segstop = 1381.425
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 323
+1	veit		verb			0	FINV		hov
+2	ikkje		adv			1	ADV		hov
+
+# text = ja # e heilt til slutt har eg lyst å spørje deg om # kva du synest om # e Vanse-målet ?
+# segstart = 1382.356
+# segstop = 1389.71
+# file = lista_uib_05
+# speaker = ho
+# id = 324
+1	ja		interj			7	INTERJ		hov
+2	#		pause			4	IK		hov
+3	e		nol			4	FYLL		hov
+4	heilt		adj			5	ADV		hov
+5	til		prep			7	ADV		hov
+6	slutt		subst			5	PUTFYLL		hov
+7	har		verb			0	FINV		hov
+8	eg		pron			7	SUBJ		hov
+9	lyst		subst			7	DOBJ		hov
+10	å		inf-merke			9	ATR		hov
+11	spørje		verb			10	INFV		hov
+12	deg		pron			11	DOBJ		hov
+13	om		sbu			17	SBU		hov
+14	#		pause			15	IK		hov
+15	kva		pron			17	DOBJ		hov
+16	du		pron			17	SUBJ		hov
+17	synest		verb			11	ADV		hov
+18	om		prep			17	ADV		hov
+19	#		pause			21	IK		hov
+20	e		nol			21	FYLL		hov
+21	Vanse-målet		subst			18	PUTFYLL		hov
+22	?		clb			7	IP		hov
+
+# text = Lista-målet ?
+# segstart = 1382.356
+# segstop = 1389.71
+# file = lista_uib_05
+# speaker = ho
+# id = 325
+1	Lista-målet		subst			0	FRAG		hov
+2	?		clb			1	IP		hov
+
+# text = ditt eige mål altså
+# segstart = 1391.459
+# segstop = 1393.289
+# file = lista_uib_05
+# speaker = ho
+# id = 326
+1	ditt		det			3	DET		hov
+2	eige		det			3	DET		hov
+3	mål		subst			0	FRAG		hov
+4	altså		adv			3	ADV		hov
+
+# text = synest du det er fint eller stygt ?
+# segstart = 1394.601
+# segstop = 1396.193
+# file = lista_uib_05
+# speaker = ho
+# id = 327
+1	synest		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	det		pron			4	SUBJ		hov
+4	er		verb			1	DOBJ		hov
+5	fint		adj			4	SPRED		hov
+6	eller		konj			7	KONJ		hov
+7	stygt		adj			5	KOORD		hov
+8	?		clb			1	IP		hov
+
+# text = nei eg synest ikkje det er fint det synest eg ikkje
+# segstart = 1395.968
+# segstop = 1398.912
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 328
+1	nei		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	synest		verb			0	FINV		hov
+4	ikkje		adv			3	ADV		hov
+5	det		pron			6	SUBJ		hov
+6	er		verb			3	DOBJ		hov
+7	fint		adj			6	SPRED		hov
+8	det		pron			9	DOBJ		hov
+9	synest		verb			3	KOORD		hov
+10	eg		pron			9	SUBJ		hov
+11	ikkje		adv			9	ADV		hov
+
+# text = du gjer ikkje det ?
+# segstart = 1397.72
+# segstop = 1399.61
+# file = lista_uib_05
+# speaker = ho
+# id = 329
+1	du		pron			2	SUBJ		hov
+2	gjer		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	det		pron			2	DOBJ		hov
+5	?		clb			2	IP		hov
+
+# text = # nei
+# segstart = 1397.72
+# segstop = 1399.61
+# file = lista_uib_05
+# speaker = ho
+# id = 330
+1	#		pause			2	IK		hov
+2	nei		interj			0	INTERJ		hov
+
+# text = nei
+# segstart = 1399.064
+# segstop = 1400.249
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 331
+1	nei		interj			0	INTERJ		hov
+
+# text = em
+# segstart = 1401.323
+# segstop = 1402.501
+# file = lista_uib_05
+# speaker = ho
+# id = 332
+1	em		nol			0	FRAG		hov
+
+# text = ikkje så verst heller men
+# segstart = 1403.698
+# segstop = 1405.485
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 333
+1	ikkje		adv			3	ADV		hov
+2	så		adv			3	ADV		hov
+3	verst		adj			0	FRAG		hov
+4	heller		adv			3	ADV		hov
+5	men		konj			3	KONJ		hov
+
+# text = ikkje så verst heller ?
+# segstart = 1404.799
+# segstop = 1405.954
+# file = lista_uib_05
+# speaker = ho
+# id = 334
+1	ikkje		adv			3	ADV		hov
+2	så		adv			3	ADV		hov
+3	verst		adj			0	FRAG		hov
+4	heller		adv			3	ADV		hov
+5	?		clb			3	IP		hov
+
+# text = er der nokon er det nokon dialekt du synest er # er fin ?
+# segstart = 1407.596
+# segstop = 1413.068
+# file = lista_uib_05
+# speaker = ho
+# id = 335
+1	er		verb			4	REP		hov
+2	der		prep			1	FSUBJ		hov
+3	nokon		det			1	SPRED		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	nokon		det			7	DET		hov
+7	dialekt		subst			4	SPRED		hov
+8	du		pron			9	SUBJ		hov
+9	synest		verb			7	ATR		hov
+10	er		verb			12	REP		hov
+11	#		pause			12	IK		hov
+12	er		verb			9	DOBJ		hov
+13	fin		adj			12	SPRED		hov
+14	?		clb			4	IP		hov
+
+# text = # spesielt fin ?
+# segstart = 1407.596
+# segstop = 1413.068
+# file = lista_uib_05
+# speaker = ho
+# id = 336
+1	#		pause			2	IK		hov
+2	spesielt		adj			3	ADV		hov
+3	fin		adj			0	FRAG		hov
+4	?		clb			3	IP		hov
+
+# text = eg synest kristiandsandsdialekten den er veldig fin synest eg altså men
+# segstart = 1415.02
+# segstop = 1418.592
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 337
+1	eg		pron			2	SUBJ		hov
+2	synest		verb			0	FINV		hov
+3	kristiandsandsdialekten		subst			4	APP		hov
+4	den		pron			5	SUBJ		hov
+5	er		verb			2	DOBJ		hov
+6	veldig		adj			7	ADV		hov
+7	fin		adj			5	SPRED		hov
+8	synest		verb			2	PAR		hov
+9	eg		pron			8	SUBJ		hov
+10	altså		adv			8	ADV		hov
+11	men		konj			2	KONJ		hov
+
+# text = nokon andre òg ?
+# segstart = 1418.608
+# segstop = 1419.664
+# file = lista_uib_05
+# speaker = ho
+# id = 338
+1	nokon		det			2	DET		hov
+2	andre		det			0	FRAG		hov
+3	òg		adv			2	ADV		hov
+4	?		clb			2	IP		hov
+
+# text = Oslo-dialekten
+# segstart = 1419.822
+# segstop = 1421.566
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 339
+1	Oslo-dialekten		subst			0	FRAG		hov
+
+# text = er fin ?
+# segstart = 1421.281
+# segstop = 1422.046
+# file = lista_uib_05
+# speaker = ho
+# id = 340
+1	er		verb			0	FINV		hov
+2	fin		adj			1	SPRED		hov
+3	?		clb			1	IP		hov
+
+# text = mm
+# segstart = 1421.776
+# segstop = 1422.876
+# file = lista_uib_05
+# speaker = lista_uib_0501
+# id = 341
+1	mm		interj			0	INTERJ		hov
+
+# text = nokon stygge da ?
+# segstart = 1422.74
+# segstop = 1424.697
+# file = lista_uib_05
+# speaker = ho
+# id = 342
+1	nokon		det			2	DET		hov
+2	stygge		adj			0	FRAG		hov
+3	da		adv			2	ADV		hov
+4	?		clb			2	IP		hov
+

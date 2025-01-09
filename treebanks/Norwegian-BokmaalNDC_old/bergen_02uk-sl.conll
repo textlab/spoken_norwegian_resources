@@ -1,0 +1,3233 @@
+# text = _laughter_ r0t
+# segstart = 11.757
+# segstop = 12.194
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 6
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 112.322
+# segstop = 115.088
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 27
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 127.132
+# segstop = 129.277
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 31
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det er jo ikke det den dag i dag de har lovet det da men er jo ikke kommet enda så root
+# segstart = 129.277
+# segstop = 132.163
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 32
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	23	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	ikke	ikke	adv	_	_	3	ADV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	3	PSUBJ	_	_
+7	den	den	det	_	mask|ent|dem	8	DET	_	_
+8	dag	dag	subst	_	ub|mask|ent|appell	3	ADV	_	_
+9	i	i	prep	_	_	8	ATR	_	_
+10	dag	dag	subst	_	ub|mask|ent|appell	9	PUTFYLL	_	_
+11	de	de	pron	_	nom|2|fl|hum	12	SUBJ	_	_
+12	har	ha	verb	_	pres	3	KOORD	_	_
+13	lovet	love	verb	_	perf-part	12	INFV	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	13	DOBJ	_	_
+15	da	da	adv	_	_	13	ADV	_	_
+16	men	men	konj	_	_	17	KONJ	_	_
+17	er	være	verb	_	pres	3	KOORD	_	_
+18	jo	jo	adv	_	_	20	ADV	_	_
+19	ikke	ikke	adv	_	_	20	ADV	_	_
+20	kommet	komme	verb	_	perf-part	17	INFV	_	_
+21	enda	enda	adv	_	_	20	ADV	_	_
+22	så	så	konj	_	_	3	KONJ	_	_
+23	root	_	_	_	_	0	root	_	_
+
+# text = mm når du ikke var på skolen da # hva pleide du å gjøre da ? r0t
+# segstart = 202.014
+# segstop = 205.043
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 60
+# annotator = SR
+# SR: Her kan vi alternativt sette leddsetningen som ADV til 'gjøre'. Hvilken analyse går vi for?
+1	mm	mm	interj	_	_	11	INTERJ	_	_
+2	når	når	sbu	_	_	5	SBU	_	_
+3	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
+4	ikke	ikke	adv	_	_	5	ADV	_	_
+5	var	være	verb	_	pret	15	APP	_	_
+6	på	på	prep	_	_	5	SPRED	_	_
+7	skolen	skole	subst	_	be|mask|ent|appell	6	PUTFYLL	_	_
+8	da	da	adv	_	_	5	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	hva	hva	pron	_	sp	14	DOBJ	_	_
+11	pleide	pleie	verb	_	pret	17	KOORD	_	_
+12	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+13	å	å	inf-merke	_	_	11	DOBJ	_	_
+14	gjøre	gjøre	verb	_	inf	13	INFV	_	_
+15	da	da	adv	_	_	14	ADV	_	_
+16	?	?	clb	_	_	11	IP	_	_
+17	r0t	_	_	_	_	0	root	_	_
+
+# text = nei ok # og de liksom konkurrerer med hverandre # skyter på hverandre nei da r0t
+# segstart = 278.282
+# segstop = 282.98
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 86
+# annotator = SR
+1	nei	nei	interj	_	_	16	INTERJ	_	_
+2	ok	ok	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	og	og	konj	_	_	7	KONJ	_	_
+5	de	de	pron	_	nom|2|fl|hum	7	SUBJ	_	_
+6	liksom	liksom	adv	_	_	7	ADV	_	_
+7	konkurrerer	konkurrere	verb	_	pres	1	ADV	_	_
+8	med	med	prep	_	_	7	ADV	_	_
+9	hverandre	hverandre	pron	_	fl|res	8	PUTFYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	skyter	skyte	verb	_	pres	7	KOORD	_	_
+12	på	på	prep	_	_	11	ADV	_	_
+13	hverandre	hverandre	pron	_	fl|res	12	PUTFYLL	_	_
+14	nei	nei	interj	_	_	7	INTERJ	_	_
+15	da	da	adv	_	_	14	ADV	_	_
+16	r0t	_	_	_	_	0	root	_	_
+
+# text = * nei * ja r0t
+# segstart = 278.282
+# segstop = 282.98
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 87
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	5	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	2	INTERJ	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = nei _laughter_ stiligste buekorps r0t
+# segstart = 282.98
+# segstop = 285.484
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 88
+# annotator = SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
+3	stiligste	stilig	adj	_	be|sup	4	ATR	_	_
+4	buekorps	buekorps	subst	_	ub|nøyt|ent|samset	1	ADV	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ok # da er det på å marsjere og sånn eller ? r0t
+# segstart = 285.484
+# segstop = 287.606
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 89
+# annotator = SR
+# SR: Riktig å analysere 'på å marsjere' slik?
+1	ok	ok	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	da	da	adv	_	_	4	ADV	_	_
+4	er	være	verb	_	pres	13	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	på	på	prep	_	_	4	SPRED	_	_
+7	å	å	inf-merke	_	_	6	PUTFYLL	_	_
+8	marsjere	marsjere	verb	_	inf	7	INFV	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	sånn	sånn	adv	_	_	8	KOORD	_	_
+11	eller	eller	konj	_	_	4	KONJ	_	_
+12	?	?	clb	_	_	4	IP	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja * r0t
+# segstart = 285.484
+# segstop = 287.606
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 90
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	*	*	pause	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = det er på å marsjere det er på ting de skal gjøre ja det un- at uniformen er skikkelig # alt # trommingen hvem som er best r0t
+# segstart = 287.606
+# segstop = 296.334
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 91
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	28	FINV	_	_
+3	på	på	prep	_	_	2	SPRED	_	_
+4	å	å	inf-merke	_	_	3	PUTFYLL	_	_
+5	marsjere	marsjere	verb	_	inf	4	INFV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	2	KOORD	_	_
+8	på	på	prep	_	_	7	SPRED	_	_
+9	ting	ting	subst	_	ub|mask|fl|appell	8	PUTFYLL	_	_
+10	de	de	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+11	skal	skulle	verb	_	pres	9	KOORD	_	_
+12	gjøre	gjøre	verb	_	inf	11	INFV	_	_
+13	ja	ja	interj	_	_	18	INTERJ	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	18	REP	_	_
+15	un-	un-	ufullst	_	_	16	FYLL	_	_
+16	at	at	sbu	_	_	18	SBU	_	_
+17	uniformen	uniform	subst	_	ub|mask|ent|samset	18	SUBJ	_	_
+18	er	være	verb	_	pres	2	KOORD	_	_
+19	skikkelig	skikkelig	adj	_	ub|pos|nøyt|ent	18	SPRED	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	alt	alt	pron	_	nøyt|3|ent|pers	2	KOORD	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	trommingen	tromming	subst	_	be|mask|ent|appell	2	KOORD	_	_
+24	hvem	hvem	pron	_	sp	26	SUBJ	_	_
+25	som	som	sbu	_	_	26	SBU	_	_
+26	er	være	verb	_	pres	2	KOORD	_	_
+27	best	god	adj	_	ub|sup	26	SPRED	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
+# segstart = 296.334
+# segstop = 296.787
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 92
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 296.787
+# segstop = 297.264
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 93
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = kan jenter være med ? r0t
+# segstart = 297.264
+# segstop = 298.814
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 94
+# annotator = SR
+1	kan	kunne	verb	_	pres	6	FINV	_	_
+2	jenter	jente	subst	_	ub|fem|fl|appell	1	SUBJ	_	_
+3	være	være	verb	_	inf	1	INFV	_	_
+4	med	med	prep	_	_	3	SPRED	_	_
+5	?	?	clb	_	_	1	IP	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = nei vi har jentekorps r0t
+# segstart = 298.814
+# segstop = 300.221
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 95
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	5	FINV	_	_
+4	jentekorps	jentekorps	subst	_	ub|nøyt|ent|samset	3	DOBJ	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = ok r0t
+# segstart = 300.221
+# segstop = 300.865
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 96
+# annotator = SR
+1	ok	ok	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja ## for de som vil det # men det er jo de er ikke så veldig gamle jeg husker ikke hvor tid de kom men r0t
+# segstart = 300.865
+# segstop = 306.946
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 97
+# annotator = SR
+1	ja	ja	interj	_	_	27	INTERJ	_	_
+2	##	##	pause	_	_	3	IK	_	_
+3	for	for	prep	_	_	1	ADV	_	_
+4	de	de	pron	_	nom|2|fl|hum	3	PUTFYLL	_	_
+5	som	som	sbu	_	_	6	SBU	_	_
+6	vil	ville	verb	_	pres	4	ATR	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	men	men	konj	_	_	14	KONJ	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
+11	er	være	verb	_	pres	14	REP	_	_
+12	jo	jo	adv	_	_	11	ADV	_	_
+13	de	de	pron	_	nom|2|fl|hum	14	SUBJ	_	_
+14	er	være	verb	_	pres	1	ADV	_	_
+15	ikke	ikke	adv	_	_	14	ADV	_	_
+16	så	så	adv	_	_	18	ADV	_	_
+17	veldig	veldig	adj	_	ub|pos|nøyt|ent	18	ADV	_	_
+18	gamle	gammel	adj	_	pos|fl	14	SPRED	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+20	husker	huske	verb	_	pres	14	KOORD	_	_
+21	ikke	ikke	adv	_	_	20	ADV	_	_
+22	hvor	hvor	adv	_	_	23	DET	_	_
+23	tid	tid	subst	_	ub|fem|ent|appell	25	ADV	_	_
+24	de	de	pron	_	nom|2|fl|hum	25	SUBJ	_	_
+25	kom	komme	verb	_	pret	20	DOBJ	_	_
+26	men	men	konj	_	_	14	KONJ	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
+# segstart = 306.946
+# segstop = 307.518
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 98
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei men jeg hører til Sandviken så jeg kan ikke forflytte meg til noe annet så det # jeg må være her _laughter_ r0t
+# segstart = 307.518
+# segstop = 313.313
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 99
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	men	men	konj	_	_	4	KONJ	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+4	hører	høre	verb	_	pres	24	FINV	_	_
+5	til	til	prep	_	_	4	ADV	_	_
+6	Sandviken	Sandviken	subst	_	prop	5	PUTFYLL	_	_
+7	så	så	sbu	_	_	9	KONJ	_	_
+8	jeg	jeg	pron	_	nom|1|ent|hum	9	SUBJ	_	_
+9	kan	kunne	verb	_	pres	4	KOORD	_	_
+10	ikke	ikke	adv	_	_	11	ADV	_	_
+11	forflytte	forflytte	verb	_	inf	9	INFV	_	_
+12	meg	meg	pron	_	akk|1|ent|hum	11	DOBJ	_	_
+13	til	til	prep	_	_	11	ADV	_	_
+14	noe	noe	det	_	nøyt|ent|kvant	15	DET	_	_
+15	annet	annet	det	_	ub|nøyt|ent|dem	13	PUTFYLL	_	_
+16	så	så	adv	_	_	20	KONJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	19	REP	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+20	må	måtte	verb	_	pres	4	KOORD	_	_
+21	være	være	verb	_	inf	20	INFV	_	_
+22	her	her	prep	_	_	21	SPRED	_	_
+23	_laughter_	_laughter_	pause	_	_	22	FYLL	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = men er det sånn # altså i Oslo og sånn så er det jo skolekorps # på hver skole # sånn er det sånn her i tillegg r0t
+# segstart = 313.313
+# segstop = 319.585
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 100
+# annotator = SR
+1	men	men	konj	_	_	2	KONJ	_	_
+2	er	være	verb	_	pres	28	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	sånn	sånn	adv	_	_	2	SPRED	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	altså	altså	adv	_	_	7	ADV	_	_
+7	i	i	prep	_	_	11	APP	_	_
+8	Oslo	Oslo	subst	_	prop	7	PUTFYLL	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	sånn	sånn	adv	_	_	8	KOORD	_	_
+11	så	så	adv	_	_	12	ADV	_	_
+12	er	være	verb	_	pres	2	KOORD	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+14	jo	jo	adv	_	_	12	ADV	_	_
+15	skolekorps	skolekorps	subst	_	ub|nøyt|ent|appell	12	PSUBJ	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	på	på	prep	_	_	12	ADV	_	_
+18	hver	hver	det	_	mask|ent|kvant	19	DET	_	_
+19	skole	skole	subst	_	ub|mask|ent|appell	17	PUTFYLL	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	sånn	sånn	adv	_	_	22	REP	_	_
+22	er	være	verb	_	pres	2	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+24	sånn	sånn	adv	_	_	22	SPRED	_	_
+25	her	her	prep	_	_	22	ADV	_	_
+26	i	i	prep	_	_	22	ADV	_	_
+27	tillegg	tillegg	subst	_	ub|nøyt|ent|appell	26	PUTFYLL	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = * mhm * r0t
+# segstart = 313.313
+# segstop = 319.585
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 101
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mhm	mhm	interj	_	_	4	INTERJ	_	_
+3	*	*	pause	_	_	2	IP	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja vi har jo sånn e musikkorps skolekorps her òg men e uff jeg har aldri hørt noe til dem # eller sånn r0t
+# segstart = 319.585
+# segstop = 323.782
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 102
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	24	FINV	_	_
+4	jo	jo	adv	_	_	3	ADV	_	_
+5	sånn	sånn	adv	_	_	7	DET	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	musikkorps	musikkorps	subst	_	ub|nøyt|ent|samset	3	DOBJ	_	_
+8	skolekorps	skolekorps	subst	_	ub|nøyt|fl|appell	7	APP	_	_
+9	her	her	prep	_	_	3	ADV	_	_
+10	òg	òg	adv	_	_	3	ADV	_	_
+11	men	men	konj	_	_	15	KONJ	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	uff	uff	interj	_	_	15	INTERJ	_	_
+14	jeg	jeg	pron	_	nom|1|ent|hum	15	SUBJ	_	_
+15	har	ha	verb	_	pres	3	KOORD	_	_
+16	aldri	aldri	adv	_	_	17	ADV	_	_
+17	hørt	høre	verb	_	perf-part	15	INFV	_	_
+18	noe	noe	pron	_	nøyt|3|ent|pers	17	DOBJ	_	_
+19	til	til	prep	_	_	18	ATR	_	_
+20	dem	dem	pron	_	akk|3|fl|pers	19	PUTFYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	eller	eller	konj	_	_	23	KONJ	_	_
+23	sånn	sånn	adv	_	_	3	SLETT	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = * nei r0t
+# segstart = 319.585
+# segstop = 323.782
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 103
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = nei holder ikke meg med dem r0t
+# segstart = 323.782
+# segstop = 325.117
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 104
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	holder	holde	verb	_	pres	7	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	meg	meg	pron	_	akk|1|ent|hum	2	DOBJ	_	_
+5	med	med	prep	_	_	2	ADV	_	_
+6	dem	dem	pron	_	akk|3|fl|pers	5	PUTFYLL	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = det er buekorps _uninterpretable_ r0t
+# segstart = 325.117
+# segstop = 326.824
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 105
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	5	FINV	_	_
+3	buekorps	buekorps	subst	_	ub|nøyt|ent|samset	2	SPRED	_	_
+4	_uninterpretable_	_uninterpretable_	pause	_	_	3	FYLL	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = * her er det buekorps r0t
+# segstart = 325.117
+# segstop = 326.824
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 106
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	her	her	prep	_	_	3	ADV	_	_
+3	er	være	verb	_	pres	6	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	buekorps	buekorps	subst	_	ub|nøyt|ent|samset	3	SPRED	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ em m hvis du skulle prøve å m beskrive dialekten her i Sandviken r0t
+# segstart = 326.824
+# segstop = 336.087
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 107
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+2	em	em	nol	_	_	4	FYLL	_	_
+3	m	m	nol	_	_	4	FYLL	_	_
+4	hvis	hvis	sbu	_	_	6	SBU	_	_
+5	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+6	skulle	skulle	verb	_	pret	15	FINV	_	_
+7	prøve	prøve	verb	_	inf	6	INFV	_	_
+8	å	å	inf-merke	_	_	7	DOBJ	_	_
+9	m	m	nol	_	_	10	FYLL	_	_
+10	beskrive	beskrive	verb	_	inf	8	INFV	_	_
+11	dialekten	dialekt	subst	_	be|mask|ent|appell	10	DOBJ	_	_
+12	her	her	prep	_	_	11	ATR	_	_
+13	i	i	prep	_	_	12	PUTFYLL	_	_
+14	Sandviken	Sandviken	subst	_	prop	13	PUTFYLL	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = mhm r0t
+# segstart = 333.31
+# segstop = 333.747
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 108
+# annotator = SR
+1	mhm	mhm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = hva ville du sagt for noe da ? r0t
+# segstart = 333.747
+# segstop = 336.087
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 109
+# annotator = SR
+# SR: Nytt eksempel på 'hva for noe'.
+1	hva	hva	pron	_	sp	4	DOBJ	_	_
+2	ville	ville	verb	_	pret	9	FINV	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	sagt	si	verb	_	perf-part	2	INFV	_	_
+5	for	for	prep	_	_	1	ATR	_	_
+6	noe	noe	pron	_	nøyt|3|ent|pers	5	PUTFYLL	_	_
+7	da	da	adv	_	_	2	ADV	_	_
+8	?	?	clb	_	_	2	IP	_	_
+9	r0t	_	_	_	_	0	root	_	_
+
+# text = dialekten ## e ## ja det er helt naturlig han er bare # det er en naturlig dialekt for meg # som ## er vokst opp med han sånn sett så jeg kan ikke r0t
+# segstart = 336.087
+# segstop = 346.318
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 110
+# annotator = SR
+1	dialekten	dialekt	subst	_	be|mask|ent|appell	35	FRAG	_	_
+2	##	##	pause	_	_	5	IK	_	_
+3	e	e	nol	_	_	5	FYLL	_	_
+4	##	##	pause	_	_	5	IK	_	_
+5	ja	ja	interj	_	_	7	INTERJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	1	KOORD	_	_
+8	helt	hele	adj	_	ub|pos|nøyt|ent	9	ADV	_	_
+9	naturlig	naturlig	adj	_	ub|pos|nøyt|ent	7	SPRED	_	_
+10	han	han	pron	_	nom|mask|3|ent|pers	11	SUBJ	_	_
+11	er	være	verb	_	pres	15	REP	_	_
+12	bare	bare	adv	_	_	11	ADV	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	SUBJ	_	_
+15	er	være	verb	_	pres	7	KOORD	_	_
+16	en	en	det	_	mask|ent|kvant	18	DET	_	_
+17	naturlig	naturlig	adj	_	ub|pos|m/f|ent	18	ATR	_	_
+18	dialekt	dialekt	subst	_	ub|mask|ent|appell	15	SPRED	_	_
+19	for	for	prep	_	_	15	ADV	_	_
+20	meg	meg	pron	_	akk|1|ent|hum	19	PUTFYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	som	som	sbu	_	_	24	SBU	_	_
+23	##	##	pause	_	_	24	IK	_	_
+24	er	være	verb	_	pres	20	KOORD	_	_
+25	vokst	vokse	verb	_	perf-part	24	INFV	_	_
+26	opp	opp	prep	_	_	25	ADV	_	_
+27	med	med	prep	_	_	26	ADV	_	_
+28	han	han	pron	_	akk|mask|3|ent|pers	27	PUTFYLL	_	_
+29	sånn	sånn	adv	_	_	30	ADV	_	_
+30	sett	se	verb	_	perf-part	25	ADV	_	_
+31	så	så	konj	_	_	33	KONJ	_	_
+32	jeg	jeg	pron	_	nom|1|ent|hum	33	SUBJ	_	_
+33	kan	kunne	verb	_	pres	7	KOORD	_	_
+34	ikke	ikke	adv	_	_	33	ADV	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = jeg vet ikke om noe annet sånt sett _laughter_ liksom jeg kunne jo aldri ha snakket noe annet for å si det sånn # aldri _laughter_ r0t
+# segstart = 346.318
+# segstop = 351.302
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 111
+# annotator = SR
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	vet	vite	verb	_	pres	27	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	om	om	prep	_	_	2	ADV	_	_
+5	noe	noe	det	_	nøyt|ent|kvant	6	DET	_	_
+6	annet	annet	det	_	ub|nøyt|ent|dem	4	PUTFYLL	_	_
+7	sånt	sånt	adv	_	_	8	ADV	_	_
+8	sett	se	verb	_	perf-part	2	ADV	_	_
+9	_laughter_	_laughter_	pause	_	_	10	FYLL	_	_
+10	liksom	liksom	adv	_	_	12	ADV	_	_
+11	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+12	kunne	kunne	verb	_	pret	2	DOBJ	_	_
+13	jo	jo	adv	_	_	15	ADV	_	_
+14	aldri	aldri	adv	_	_	15	ADV	_	_
+15	ha	ha	verb	_	inf	12	INFV	_	_
+16	snakket	snakke	verb	_	perf-part	15	INFV	_	_
+17	noe	noe	det	_	nøyt|ent|kvant	18	DET	_	_
+18	annet	annet	det	_	ub|nøyt|ent|dem	16	DOBJ	_	_
+19	for	for	prep	_	_	16	ADV	_	_
+20	å	å	inf-merke	_	_	19	PUTFYLL	_	_
+21	si	si	verb	_	inf	20	INFV	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	21	DOBJ	_	_
+23	sånn	sånn	adv	_	_	21	ADV	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	aldri	aldri	adv	_	_	2	KOORD	_	_
+26	_laughter_	_laughter_	pause	_	_	25	FYLL	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = nei # v- er det noe forskjell sånn # mellom # bydelene # her kan du høre at liksom noen er fra Sandviken og ikke … ? r0t
+# segstart = 351.302
+# segstop = 359.816
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 112
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	v-	v-	ufullst	_	_	4	FYLL	_	_
+4	er	være	verb	_	pres	28	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	noe	noe	det	_	mask|ent|kvant	7	DET	_	_
+7	forskjell	forskjell	subst	_	ub|mask|ent|appell	4	PSUBJ	_	_
+8	sånn	sånn	adv	_	_	10	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	mellom	mellom	prep	_	_	7	ATR	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	bydelene	bydel	subst	_	be|mask|fl|appell	10	PUTFYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	her	her	prep	_	_	15	ADV	_	_
+15	kan	kunne	verb	_	pres	4	KOORD	_	_
+16	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+17	høre	høre	verb	_	inf	15	INFV	_	_
+18	at	at	sbu	_	_	21	SBU	_	_
+19	liksom	liksom	adv	_	_	21	ADV	_	_
+20	noen	noen	pron	_	nom|3|fl|pers	21	SUBJ	_	_
+21	er	være	verb	_	pres	17	DOBJ	_	_
+22	fra	fra	prep	_	_	21	SPRED	_	_
+23	Sandviken	Sandviken	subst	_	prop	22	PUTFYLL	_	_
+24	og	og	konj	_	_	25	KONJ	_	_
+25	ikke	ikke	adv	_	_	22	ADV	_	_
+26	…	…	pause	_	_	25	IK	_	_
+27	?	?	clb	_	_	4	IP	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = * nei r0t
+# segstart = 351.302
+# segstop = 359.816
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 113
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = nei # det er ikke noen så store forskjeller ? r0t
+# segstart = 359.816
+# segstop = 361.772
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 114
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	11	FINV	_	_
+5	ikke	ikke	adv	_	_	4	ADV	_	_
+6	noen	noen	det	_	fl|kvant	9	DET	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	store	stor	adj	_	pos|fl	9	ATR	_	_
+9	forskjeller	forskjell	subst	_	ub|mask|fl|appell	4	PSUBJ	_	_
+10	?	?	clb	_	_	4	IP	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = * nei r0t
+# segstart = 359.816
+# segstop = 361.772
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 115
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = nei da # det er ikke det r0t
+# segstart = 361.772
+# segstop = 363.203
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 116
+# annotator = SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	da	da	adv	_	_	1	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	8	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	5	PSUBJ	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = fins ikke noen … r0t
+# segstart = 363.203
+# segstop = 363.728
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 117
+# annotator = SR
+1	fins	finnes	verb	_	pres	5	FINV	_	_
+2	ikke	ikke	adv	_	_	1	ADV	_	_
+3	noen	noen	det	_	fem|ent|kvant	1	SUBJ	_	_
+4	…	…	pause	_	_	3	IK	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 363.203
+# segstop = 363.728
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 118
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = det er jeg og meg og deg r0t
+# segstart = 363.728
+# segstop = 364.753
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 119
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	8	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SPRED	_	_
+4	og	og	konj	_	_	5	KONJ	_	_
+5	meg	meg	pron	_	akk|1|ent|hum	3	KOORD	_	_
+6	og	og	konj	_	_	7	KONJ	_	_
+7	deg	deg	pron	_	akk|2|ent|hum	3	KOORD	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 364.753
+# segstop = 365.326
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 120
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # det er det r0t
+# segstart = 365.326
+# segstop = 366.208
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 121
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	er	være	verb	_	pres	6	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	SPRED	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = men det er ikke noen sånn spesielle sandvikord eller noe sånt noe r0t
+# segstart = 366.208
+# segstop = 370.095
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 122
+# annotator = SR
+1	men	men	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	13	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	noen	noen	det	_	fl|kvant	8	DET	_	_
+6	sånn	sånn	adv	_	_	7	ADV	_	_
+7	spesielle	spesiell	adj	_	pos|fl	8	ATR	_	_
+8	sandvikord	sandvikord	subst	_	ub|nøyt|fl|samset	3	PSUBJ	_	_
+9	eller	eller	konj	_	_	12	KONJ	_	_
+10	noe	noe	det	_	nøyt|ent|kvant	11	DET	_	_
+11	sånt	sånt	det	_	nøyt|ent|dem	12	DET	_	_
+12	noe	noe	pron	_	nøyt|3|ent|pers	8	KOORD	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 366.208
+# segstop = 370.095
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 123
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei ikke noe sånn r0t
+# segstart = 370.095
+# segstop = 372.146
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 124
+# annotator = SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	ikke	ikke	adv	_	_	4	ADV	_	_
+3	noe	noe	det	_	nøyt|ent|kvant	4	DET	_	_
+4	sånn	sånn	adv	_	_	1	ADV	_	_
+5	r0t	_	_	_	_	0	root	_	_
+
+# text = nei # em og e ja du bor jo her i dag òg ? r0t
+# segstart = 372.146
+# segstop = 376.629
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 125
+# annotator = SR
+1	nei	nei	interj	_	_	8	INTERJ	_	_
+2	#	#	pause	_	_	4	IK	_	_
+3	em	em	nol	_	_	4	FYLL	_	_
+4	og	og	konj	_	_	8	KONJ	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	ja	ja	interj	_	_	8	INTERJ	_	_
+7	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+8	bor	bo	verb	_	pres	15	FINV	_	_
+9	jo	jo	adv	_	_	8	ADV	_	_
+10	her	her	prep	_	_	8	ADV	_	_
+11	i	i	prep	_	_	8	ADV	_	_
+12	dag	dag	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+13	òg	òg	adv	_	_	12	ATR	_	_
+14	?	?	clb	_	_	8	IP	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det gjør jeg # kommer jeg alltid til å bo _laughter_ r0t
+# segstart = 376.629
+# segstop = 379.682
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 126
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+3	gjør	gjøre	verb	_	pres	13	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	kommer	komme	verb	_	pres	3	KOORD	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	6	SUBJ	_	_
+8	alltid	alltid	adv	_	_	6	ADV	_	_
+9	til	til	prep	_	_	6	ADV	_	_
+10	å	å	inf-merke	_	_	9	PUTFYLL	_	_
+11	bo	bo	verb	_	inf	10	INFV	_	_
+12	_laughter_	_laughter_	pause	_	_	11	FYLL	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = hvis du skulle e det her har vi kanskje snakket litt om før men hvis du skulle prøve å # reklamere for Sandviken eller lokke noen til å flytte hit # hva ville du sagt for noe da ? r0t
+# segstart = 379.682
+# segstop = 388.482
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 127
+# annotator = SR
+1	hvis	hvis	sbu	_	_	3	SBU	_	_
+2	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+3	skulle	skulle	verb	_	pret	7	REP	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	12	PUTFYLL	_	_
+6	her	her	prep	_	_	5	ATR	_	_
+7	har	ha	verb	_	pres	40	FINV	_	_
+8	vi	vi	pron	_	nom|1|fl|hum	7	SUBJ	_	_
+9	kanskje	kanskje	adv	_	_	10	ADV	_	_
+10	snakket	snakke	verb	_	perf-part	7	INFV	_	_
+11	litt	litt	adj	_	ub|pos|nøyt|ent	10	ADV	_	_
+12	om	om	prep	_	_	10	ADV	_	_
+13	før	før	prep	_	_	10	ADV	_	_
+14	men	men	konj	_	_	33	KONJ	_	_
+15	hvis	hvis	sbu	_	_	17	SBU	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	skulle	skulle	verb	_	pret	35	ADV	_	_
+18	prøve	prøve	verb	_	inf	17	INFV	_	_
+19	å	å	inf-merke	_	_	18	DOBJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	reklamere	reklamere	verb	_	inf	19	INFV	_	_
+22	for	for	prep	_	_	21	ADV	_	_
+23	Sandviken	Sandviken	subst	_	prop	22	PUTFYLL	_	_
+24	eller	eller	konj	_	_	25	KONJ	_	_
+25	lokke	lokke	verb	_	inf	21	KOORD	_	_
+26	noen	noen	pron	_	fem|3|ent|pers	25	DOBJ	_	_
+27	til	til	prep	_	_	25	ADV	_	_
+28	å	å	inf-merke	_	_	27	PUTFYLL	_	_
+29	flytte	flytte	verb	_	inf	28	INFV	_	_
+30	hit	hit	prep	_	_	29	ADV	_	_
+31	#	#	pause	_	_	32	IK	_	_
+32	hva	hva	pron	_	sp	35	DOBJ	_	_
+33	ville	ville	verb	_	pret	7	KOORD	_	_
+34	du	du	pron	_	nom|2|ent|hum	33	SUBJ	_	_
+35	sagt	si	verb	_	perf-part	33	INFV	_	_
+36	for	for	prep	_	_	32	ATR	_	_
+37	noe	noe	pron	_	nøyt|3|ent|pers	36	PUTFYLL	_	_
+38	da	da	adv	_	_	35	ADV	_	_
+39	?	?	clb	_	_	33	IP	_	_
+40	r0t	_	_	_	_	0	root	_	_
+
+# text = m _sighing_ ## det _groaning_ det er altså stille og rolig ja det er fin plass alle ske- omtrent alle liksom vi kjenner altså # mye sånt det er og helt sånn r0t
+# segstart = 388.482
+# segstop = 403.983
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 128
+# annotator = SR
+# SR: Denne ytringen var fryktelig rotete, og jeg har gjort noen dristige valg. Se 'omtrent alle liksom vi kjenner'.
+1	m	m	nol	_	_	4	FYLL	_	_
+2	_sighing_	_sighing_	pause	_	_	4	FYLL	_	_
+3	##	##	pause	_	_	4	IK	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	7	REP	_	_
+5	_groaning_	_groaning_	pause	_	_	6	FYLL	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	33	FINV	_	_
+8	altså	altså	adv	_	_	7	ADV	_	_
+9	stille	stille	adj	_	ub|pos|nøyt|ent	7	SPRED	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	rolig	rolig	adj	_	ub|pos|nøyt|ent	9	KOORD	_	_
+12	ja	ja	interj	_	_	14	INTERJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	14	SUBJ	_	_
+14	er	være	verb	_	pres	7	KOORD	_	_
+15	fin	fin	adj	_	ub|pos|m/f|ent	16	ATR	_	_
+16	plass	plass	subst	_	ub|mask|ent|appell	14	SPRED	_	_
+17	alle	alle	pron	_	3|fl|pers	20	REP	_	_
+18	ske-	ske-	ufullst	_	_	19	FYLL	_	_
+19	omtrent	omtrent	adv	_	_	20	ADV	_	_
+20	alle	alle	pron	_	3|fl|pers	23	DOBJ	_	_
+21	liksom	liksom	adv	_	_	23	ADV	_	_
+22	vi	vi	pron	_	nom|1|fl|hum	23	SUBJ	_	_
+23	kjenner	kjenne	verb	_	pres	7	KOORD	_	_
+24	altså	altså	adv	_	_	23	ADV	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	mye	mye	adj	_	ub|pos|nøyt|ent	27	ATR	_	_
+27	sånt	sånt	pron	_	nøyt|3|ent|pers	7	KOORD	_	_
+28	det	det	pron	_	nøyt|3|ent|pers	29	FSUBJ	_	_
+29	er	være	verb	_	pres	7	SLETT	_	_
+30	og	og	konj	_	_	32	KONJ	_	_
+31	helt	hele	adj	_	ub|pos|nøyt|ent	32	ADV	_	_
+32	sånn	sånn	adv	_	_	7	KOORD	_	_
+33	r0t	_	_	_	_	0	root	_	_
+
+# text = det men det er vel sånn i hver eneste bydel altså # er du fra Laksevåg så blir det det samme der Sandviken ska- altså # ja # jeg tror det vil være sånn r0t
+# segstart = 403.983
+# segstop = 411.28
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 129
+# annotator = SR
+1	det	det	pron	_	nøyt|3|ent|pers	4	REP	_	_
+2	men	men	konj	_	_	4	KONJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	35	FINV	_	_
+5	vel	vel	adv	_	_	4	ADV	_	_
+6	sånn	sånn	adv	_	_	4	SPRED	_	_
+7	i	i	prep	_	_	4	ADV	_	_
+8	hver	hver	det	_	mask|ent|kvant	10	DET	_	_
+9	eneste	eneste	det	_	be|kvant	10	ATR	_	_
+10	bydel	bydel	subst	_	ub|mask|ent|appell	7	PUTFYLL	_	_
+11	altså	altså	adv	_	_	13	ADV	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	er	være	verb	_	pres	17	APP	_	_
+14	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+15	fra	fra	prep	_	_	13	SPRED	_	_
+16	Laksevåg	Laksevåg	subst	_	prop	15	PUTFYLL	_	_
+17	så	så	adv	_	_	18	ADV	_	_
+18	blir	bli	verb	_	pres	4	KOORD	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	18	FSUBJ	_	_
+20	det	det	det	_	nøyt|ent|dem	21	DET	_	_
+21	samme	samme	det	_	be|dem	18	SPRED	_	_
+22	der	der	prep	_	_	18	ADV	_	_
+23	Sandviken	Sandviken	subst	_	prop	4	KOORD	_	_
+24	ska-	ska-	ufullst	_	_	25	FYLL	_	_
+25	altså	altså	adv	_	_	30	ADV	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	ja	ja	interj	_	_	30	INTERJ	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	jeg	jeg	pron	_	nom|1|ent|hum	30	SUBJ	_	_
+30	tror	tro	verb	_	pres	4	KOORD	_	_
+31	det	det	pron	_	nøyt|3|ent|pers	32	FSUBJ	_	_
+32	vil	ville	verb	_	pres	30	DOBJ	_	_
+33	være	være	verb	_	inf	32	INFV	_	_
+34	sånn	sånn	adv	_	_	33	SPRED	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # mm r0t
+# segstart = 411.28
+# segstop = 412.33
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 130
+# annotator = SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	mm	mm	interj	_	_	1	INTERJ	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 412.33
+# segstop = 412.783
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 131
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = så man har veldig lojalitet for # det stedet man bor r0t
+# segstart = 412.783
+# segstop = 415.74
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 132
+# annotator = SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	man	man	pron	_	nom|ent|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	12	FINV	_	_
+4	veldig	veldig	adj	_	ub|pos|m/f|ent	5	ATR	_	_
+5	lojalitet	lojalitet	subst	_	ub|mask|ent|appell	3	DOBJ	_	_
+6	for	for	prep	_	_	5	ATR	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	det	det	det	_	nøyt|ent|dem	9	DET	_	_
+9	stedet	sted	subst	_	be|nøyt|ent|appell	6	PUTFYLL	_	_
+10	man	man	pron	_	nom|ent|hum	11	SUBJ	_	_
+11	bor	bo	verb	_	pres	9	ATR	_	_
+12	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja r0t
+# segstart = 412.783
+# segstop = 415.74
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 133
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # det tror jeg # hvert fall for vi s- oss som har bort e bodd her hele tiden r0t
+# segstart = 415.74
+# segstop = 419.246
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 134
+# annotator = SR
+# SR: Koordinerte en konstituent med preposisjon som hode. Litt usikker på strukturen i 'hvert fall for...'.
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	DOBJ	_	_
+4	tror	tro	verb	_	pres	21	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	hvert	hvert	det	_	nøyt|ent|kvant	8	DET	_	_
+8	fall	fall	subst	_	ub|nøyt|ent|appell	9	ADV	_	_
+9	for	for	prep	_	_	4	ADV	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	12	REP	_	_
+11	s-	s-	ufullst	_	_	12	FYLL	_	_
+12	oss	oss	pron	_	akk|1|fl|hum	9	PUTFYLL	_	_
+13	som	som	sbu	_	_	14	SBU	_	_
+14	har	ha	verb	_	pres	12	ATR	_	_
+15	bort	bort	prep	_	_	17	REP	_	_
+16	e	e	nol	_	_	17	FYLL	_	_
+17	bodd	bo	verb	_	perf-part	14	INFV	_	_
+18	her	her	prep	_	_	17	ADV	_	_
+19	hele	hel	adj	_	be|pos|ent	20	ATR	_	_
+20	tiden	tid	subst	_	be|mask|ent|appell	17	ADV	_	_
+21	r0t	_	_	_	_	0	root	_	_
+
+# text = mm r0t
+# segstart = 419.246
+# segstop = 419.842
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 135
+# annotator = SR
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # så # ja r0t
+# segstart = 419.842
+# segstop = 421.774
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 136
+# annotator = SR
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	adv	_	_	1	ADV	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	ja	ja	interj	_	_	3	INTERJ	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ er det noe som ikke er så bra med å bo her ? r0t
+# segstart = 421.774
+# segstop = 424.874
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 137
+# annotator = SR
+1	_front-click_	_front-click_	pause	_	_	2	FYLL	_	_
+2	er	være	verb	_	pres	15	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+4	noe	noe	pron	_	nøyt|3|ent|pers	2	PSUBJ	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	ikke	ikke	adv	_	_	7	ADV	_	_
+7	er	være	verb	_	pres	4	ATR	_	_
+8	så	så	adv	_	_	9	ADV	_	_
+9	bra	bra	adj	_	ub|pos|nøyt|ent	7	SPRED	_	_
+10	med	med	prep	_	_	9	ADV	_	_
+11	å	å	inf-merke	_	_	10	PUTFYLL	_	_
+12	bo	bo	verb	_	inf	11	INFV	_	_
+13	her	her	prep	_	_	12	ADV	_	_
+14	?	?	clb	_	_	2	IP	_	_
+15	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det tror jeg ikke # kan jeg aldri tenke meg _laughter_ r0t
+# segstart = 424.874
+# segstop = 427.759
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 138
+# annotator = SR
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+3	tror	tro	verb	_	pres	13	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	ikke	ikke	adv	_	_	3	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	kan	kunne	verb	_	pres	3	KOORD	_	_
+8	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+9	aldri	aldri	adv	_	_	10	ADV	_	_
+10	tenke	tenke	verb	_	inf	7	INFV	_	_
+11	meg	meg	pron	_	akk|1|ent|hum	10	DOBJ	_	_
+12	_laughter_	_laughter_	pause	_	_	11	FYLL	_	_
+13	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ r0t
+# segstart = 427.759
+# segstop = 428.509
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 139
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ r0t
+# segstart = 428.509
+# segstop = 429.596
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 140
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = em # men e hvor e da du vokste opp vokste du opp i Sand- i nærheten av der du bor nå ? r0t
+# segstart = 429.596
+# segstop = 436.13
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 141
+# annotator = SR
+1	em	em	nol	_	_	3	FYLL	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	11	KONJ	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	hvor	hvor	adv	_	_	11	REP	_	_
+6	e	e	nol	_	_	7	FYLL	_	_
+7	da	da	adv	_	_	9	SBU	_	_
+8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+9	vokste	vokse	verb	_	pret	11	REP	_	_
+10	opp	opp	prep	_	_	9	ADV	_	_
+11	vokste	vokse	verb	_	pret	24	FINV	_	_
+12	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+13	opp	opp	prep	_	_	11	ADV	_	_
+14	i	i	prep	_	_	16	REP	_	_
+15	Sand-	Sand-	ufullst	_	prop	18	FYLL	_	_
+16	i	i	prep	_	_	11	ADV	_	_
+17	nærheten	nærhet	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+18	av	av	prep	_	_	17	ATR	_	_
+19	der	der	sbu	_	_	21	SBU	_	_
+20	du	du	pron	_	nom|2|ent|hum	21	SUBJ	_	_
+21	bor	bo	verb	_	pres	18	PUTFYLL	_	_
+22	nå	nå	adv	_	_	21	ADV	_	_
+23	?	?	clb	_	_	11	IP	_	_
+24	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 436.13
+# segstop = 436.559
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 142
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # var det … ? r0t
+# segstart = 436.559
+# segstop = 437.799
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 143
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	var	være	verb	_	pret	7	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	…	…	pause	_	_	4	IK	_	_
+6	?	?	clb	_	_	3	IP	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 436.559
+# segstop = 437.799
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 144
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = e to hus ved siden av r0t
+# segstart = 437.799
+# segstop = 438.658
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 145
+# annotator = SR
+1	e	e	nol	_	_	2	FYLL	_	_
+2	to	to	det	_	fl|kvant	3	DET	_	_
+3	hus	hus	subst	_	ub|nøyt|fl|appell	7	FRAG	_	_
+4	ved	ved	prep	_	_	3	ATR	_	_
+5	siden	siden	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	av	av	prep	_	_	5	PUTFYLL	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = å ja r0t
+# segstart = 438.658
+# segstop = 439.135
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 146
+# annotator = SR
+1	å	å	interj	_	_	3	INTERJ	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = ja r0t
+# segstart = 439.135
+# segstop = 440.208
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 147
+# annotator = SR
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = er det så det er ikke så stor forskjell e r0t
+# segstart = 440.208
+# segstop = 442.235
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 148
+# annotator = SR
+1	er	være	verb	_	pres	5	REP	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	FSUBJ	_	_
+3	så	så	konj	_	_	5	KONJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	er	være	verb	_	pres	11	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	stor	stor	adj	_	ub|pos|m/f|ent	9	ATR	_	_
+9	forskjell	forskjell	subst	_	ub|mask|ent|appell	5	PSUBJ	_	_
+10	e	e	nol	_	_	9	FYLL	_	_
+11	r0t	_	_	_	_	0	root	_	_
+
+# text = * r0t
+# segstart = 440.208
+# segstop = 442.235
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 149
+# annotator = SR
+1	*	*	pause	_	_	2	IP	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei da det er det samme det r0t
+# segstart = 442.235
+# segstop = 443.333
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 150
+# annotator = SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	da	da	adv	_	_	1	ADV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	er	være	verb	_	pres	8	FINV	_	_
+5	det	det	det	_	nøyt|ent|dem	6	DET	_	_
+6	samme	samme	det	_	be|dem	4	SPRED	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	3	APP	_	_
+8	r0t	_	_	_	_	0	root	_	_
+
+# text = ja _laughter_ r0t
+# segstart = 443.333
+# segstop = 444.763
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 151
+# annotator = SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	_laughter_	_laughter_	pause	_	_	1	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = * ja _laughter_ r0t
+# segstart = 443.333
+# segstop = 444.763
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 152
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ting # ikke noe forandringer der r0t
+# segstart = 444.763
+# segstop = 446.6
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 153
+# annotator = SR
+1	ting	ting	subst	_	ub|mask|fl|appell	7	FRAG	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ikke	ikke	adv	_	_	5	ADV	_	_
+4	noe	noe	det	_	nøyt|ent|kvant	5	DET	_	_
+5	forandringer	forandring	subst	_	ub|fem|fl|appell	1	KOORD	_	_
+6	der	der	prep	_	_	5	ATR	_	_
+7	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
+# segstart = 446.6
+# segstop = 447.053
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 154
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = nei r0t
+# segstart = 447.053
+# segstop = 447.339
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 155
+# annotator = SR
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	r0t	_	_	_	_	0	root	_	_
+
+# text = _front-click_ e nå ser jeg at disse spørsmålene kanskje ikke er helt beregnet på e by så det er liksom gårdsdrift forskjeller før og nå _laughter_ r0t
+# segstart = 447.339
+# segstop = 454.946
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 156
+# annotator = SR
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	nå	nå	adv	_	_	4	ADV	_	_
+4	ser	se	verb	_	pres	27	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	at	at	sbu	_	_	11	SBU	_	_
+7	disse	disse	det	_	fl|dem	8	DET	_	_
+8	spørsmålene	spørsmål	subst	_	be|nøyt|fl|appell	11	SUBJ	_	_
+9	kanskje	kanskje	adv	_	_	11	ADV	_	_
+10	ikke	ikke	adv	_	_	11	ADV	_	_
+11	er	være	verb	_	pres	4	DOBJ	_	_
+12	helt	hele	adj	_	ub|pos|nøyt|ent	13	ADV	_	_
+13	beregnet	beregnet	adj	_	perf-part	11	SPRED	_	_
+14	på	på	prep	_	_	13	ADV	_	_
+15	e	e	nol	_	_	16	FYLL	_	_
+16	by	by	subst	_	ub|mask|ent|appell	14	PUTFYLL	_	_
+17	så	så	konj	_	_	19	KONJ	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+19	er	være	verb	_	pres	4	KOORD	_	_
+20	liksom	liksom	adv	_	_	19	ADV	_	_
+21	gårdsdrift	gårdsdrift	subst	_	ub|fem|ent|samset	19	SPRED	_	_
+22	forskjeller	forskjell	subst	_	ub|mask|fl|appell	21	KOORD	_	_
+23	før	før	prep	_	_	22	ATR	_	_
+24	og	og	konj	_	_	25	KONJ	_	_
+25	nå	nå	adv	_	_	23	KOORD	_	_
+26	_laughter_	_laughter_	pause	_	_	25	FYLL	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = * _laughter_ r0t
+# segstart = 447.339
+# segstop = 454.946
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 157
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = er ikke noe gårdsdrift her r0t
+# segstart = 454.946
+# segstop = 456.091
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 158
+# annotator = SR
+1	er	være	verb	_	pres	6	FINV	_	_
+2	ikke	ikke	adv	_	_	1	ADV	_	_
+3	noe	noe	det	_	nøyt|ent|kvant	4	DET	_	_
+4	gårdsdrift	gårdsdrift	subst	_	ub|fem|ent|appell	1	PSUBJ	_	_
+5	her	her	prep	_	_	1	ADV	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det vet jeg jo men em # e hvordan altså du har jo veldig lyst til å fortsette å bo her men # hvordan er det liksom med venner fra tidligere eller sånn blir folk boende her eller ? r0t
+# segstart = 456.091
+# segstop = 465.916
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 159
+# annotator = SR
+# SR: Gjorde 'eller sånn' til en egen konstituent, under tvil.
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+3	vet	vite	verb	_	pres	41	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	jo	jo	adv	_	_	3	ADV	_	_
+6	men	men	konj	_	_	13	KONJ	_	_
+7	em	em	nol	_	_	10	FYLL	_	_
+8	#	#	pause	_	_	10	IK	_	_
+9	e	e	nol	_	_	10	FYLL	_	_
+10	hvordan	hvordan	adv	_	_	13	REP	_	_
+11	altså	altså	adv	_	_	13	ADV	_	_
+12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+13	har	ha	verb	_	pres	3	KOORD	_	_
+14	jo	jo	adv	_	_	13	ADV	_	_
+15	veldig	veldig	adj	_	ub|pos|m/f|ent	16	ATR	_	_
+16	lyst	lyst	subst	_	ub|fem|ent|appell	13	DOBJ	_	_
+17	til	til	prep	_	_	16	ATR	_	_
+18	å	å	inf-merke	_	_	17	PUTFYLL	_	_
+19	fortsette	fortsette	verb	_	inf	18	INFV	_	_
+20	å	å	inf-merke	_	_	19	DOBJ	_	_
+21	bo	bo	verb	_	inf	20	INFV	_	_
+22	her	her	prep	_	_	21	ADV	_	_
+23	men	men	konj	_	_	26	KONJ	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	hvordan	hvordan	adv	_	_	26	SPRED	_	_
+26	er	være	verb	_	pres	3	KOORD	_	_
+27	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
+28	liksom	liksom	adv	_	_	26	ADV	_	_
+29	med	med	prep	_	_	26	ADV	_	_
+30	venner	venn	subst	_	ub|mask|fl|appell	29	PUTFYLL	_	_
+31	fra	fra	prep	_	_	30	ATR	_	_
+32	tidligere	tidlig	adj	_	komp	31	PUTFYLL	_	_
+33	eller	eller	konj	_	_	35	KONJ	_	_
+34	sånn	sånn	adv	_	_	35	ADV	_	_
+35	blir	bli	verb	_	pres	3	KOORD	_	_
+36	folk	folk	subst	_	ub|nøyt|fl|appell	35	SUBJ	_	_
+37	boende	bo	adj	_	pres-part	35	SPRED	_	_
+38	her	her	prep	_	_	35	ADV	_	_
+39	eller	eller	konj	_	_	3	KONJ	_	_
+40	?	?	clb	_	_	3	IP	_	_
+41	r0t	_	_	_	_	0	root	_	_
+
+# text = * mhm r0t
+# segstart = 456.091
+# segstop = 465.916
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 160
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	mhm	mhm	interj	_	_	3	INTERJ	_	_
+3	r0t	_	_	_	_	0	root	_	_
+
+# text = e ja de f- som jeg er med _uninterpretable_ de bor her # eller ja er en på Askøy men er ikke noe # ellers bor de her r0t
+# segstart = 465.916
+# segstop = 474.143
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 161
+# annotator = SR
+1	e	e	nol	_	_	2	FYLL	_	_
+2	ja	ja	interj	_	_	11	INTERJ	_	_
+3	de	de	pron	_	nom|2|fl|hum	10	APP	_	_
+4	f-	f-	ufullst	_	_	5	FYLL	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	er	være	verb	_	pres	3	ATR	_	_
+8	med	med	prep	_	_	7	SPRED	_	_
+9	_uninterpretable_	_uninterpretable_	pause	_	_	10	FYLL	_	_
+10	de	de	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+11	bor	bo	verb	_	pres	29	KOORD	_	_
+12	her	her	prep	_	_	11	ADV	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	eller	eller	konj	_	_	16	KONJ	_	_
+15	ja	ja	interj	_	_	16	INTERJ	_	_
+16	er	være	verb	_	pres	11	KOORD	_	_
+17	en	en	det	_	mask|ent|kvant	16	PSUBJ	_	_
+18	på	på	prep	_	_	16	ADV	_	_
+19	Askøy	Askøy	subst	_	prop	18	PUTFYLL	_	_
+20	men	men	konj	_	_	21	KONJ	_	_
+21	er	være	verb	_	pres	26	REP	_	_
+22	ikke	ikke	adv	_	_	21	ADV	_	_
+23	noe	noe	pron	_	nøyt|3|ent|pers	21	SPRED	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	ellers	ellers	adv	_	_	26	ADV	_	_
+26	bor	bo	verb	_	pres	11	KOORD	_	_
+27	de	de	pron	_	nom|2|fl|hum	26	SUBJ	_	_
+28	her	her	prep	_	_	26	ADV	_	_
+29	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # ja # så det er fraflytting er ikke noe problem ? r0t
+# segstart = 474.143
+# segstop = 477.387
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 162
+# annotator = SR
+1	mm	mm	interj	_	_	9	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ja	ja	interj	_	_	9	INTERJ	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	så	så	konj	_	_	9	KONJ	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	9	REP	_	_
+8	fraflytting	fraflytting	subst	_	ub|fem|ent|samset	9	SUBJ	_	_
+9	er	være	verb	_	pres	14	FINV	_	_
+10	ikke	ikke	adv	_	_	9	ADV	_	_
+11	noe	noe	det	_	nøyt|ent|kvant	12	DET	_	_
+12	problem	problem	subst	_	ub|nøyt|ent|appell	9	SPRED	_	_
+13	?	?	clb	_	_	9	IP	_	_
+14	r0t	_	_	_	_	0	root	_	_
+
+# text = * så vi holder sammen r0t
+# segstart = 474.143
+# segstop = 477.387
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 163
+# annotator = SR
+1	*	*	pause	_	_	2	IK	_	_
+2	så	så	sbu	_	_	4	KONJ	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	holder	holde	verb	_	pres	6	FINV	_	_
+5	sammen	sammen	adv	_	_	4	ADV	_	_
+6	r0t	_	_	_	_	0	root	_	_
+
+# text = _laughter_ nei _laughter_ r0t
+# segstart = 477.387
+# segstop = 479.764
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 164
+# annotator = SR
+1	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+2	nei	nei	interj	_	_	4	INTERJ	_	_
+3	_laughter_	_laughter_	pause	_	_	2	FYLL	_	_
+4	r0t	_	_	_	_	0	root	_	_
+
+# text = ja det første spørsmålet det er da hvor er du født og oppvokst hen ? ⸮
+# segstart = 0
+# segstop = 3.506
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 1
+# annotator = VDT
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	det	det	det	_	nøyt|ent|dem	4	DET	_	_
+3	første	første	adj	_	be|pos|ent	4	ATR	_	_
+4	spørsmålet	spørsmål	subst	_	be|nøyt|ent|appell	5	APP	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
+6	er	være	verb	_	pres	16	FINV	_	_
+7	da	da	adv	_	_	6	ADV	_	_
+8	hvor	hvor	adv	_	_	11	ADV	_	_
+9	er	være	verb	_	pres	6	SPRED	_	_
+10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+11	født	føde	verb	_	perf-part	9	INFV	_	_
+12	og	og	konj	_	_	13	KONJ	_	_
+13	oppvokst	oppvokse	verb	_	perf-part	11	KOORD	_	_
+14	hen	hen	prep	_	_	9	ADV	_	_
+15	?	$?	clb	_	_	6	IP	_	_
+16	⸮	_	_	_	_	0	root	_	_
+
+# text = her i Sandviken ⸮
+# segstart = 3.506
+# segstop = 4.316
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 2
+# annotator = VDT
+1	her	her	prep	_	_	4	FRAG	_	_
+2	i	i	prep	_	_	1	PUTFYLL	_	_
+3	Sandviken	Sandviken	subst	_	prop	2	PUTFYLL	_	_
+4	⸮	_	_	_	_	0	root	_	_
+
+# text = mm # kan du fortelle litt om Sandviken ? ⸮
+# segstart = 4.316
+# segstop = 7.798
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 3
+# annotator = VDT
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	kan	kunne	verb	_	pres	10	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	fortelle	fortelle	verb	_	inf	3	INFV	_	_
+6	litt	litt	adj	_	ub|pos|nøyt|ent	5	ADV	_	_
+7	om	om	prep	_	_	5	ADV	_	_
+8	Sandviken	Sandviken	subst	_	prop	7	PUTFYLL	_	_
+9	?	$?	clb	_	_	3	IP	_	_
+10	⸮	_	_	_	_	0	root	_	_
+
+# text = * mm ⸮
+# segstart = 4.316
+# segstop = 7.798
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 4
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = e ja verdens beste # plass å bo # for det første ⸮
+# segstart = 7.798
+# segstop = 11.757
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 5
+# annotator = VDT, SR
+1	e	e	nol	_	_	2	FYLL	_	_
+2	ja	ja	interj	_	_	13	INTERJ	_	_
+3	verdens	verden	subst	_	ub|gen|mask|ent|appell	6	DET	_	_
+4	beste	god	adj	_	be|sup	6	ATR	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	plass	plass	subst	_	ub|mask|ent|appell	2	ADV	_	_
+7	å	å	inf-merke	_	_	6	ATR	_	_
+8	bo	bo	verb	_	inf	7	INFV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	for	for	prep	_	_	8	ADV	_	_
+11	det	det	det	_	nøyt|ent|dem	12	DET	_	_
+12	første	første	adj	_	be|pos|ent	10	PUTFYLL	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = _laughter_ ja det er liksom buekorpset her og # ja alt er bare helt # supert Sandviken er jo # Sandviken _laughter_ ⸮
+# segstart = 12.194
+# segstop = 21.081
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 7
+# annotator = VDT
+1	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	23	FINV	_	_
+5	liksom	liksom	adv	_	_	4	ADV	_	_
+6	buekorpset	buekorps	adj	_	be|pos|nøyt|ent	4	PSUBJ	_	_
+7	her	her	prep	_	_	4	ADV	_	_
+8	og	og	konj	_	_	12	KONJ	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	ja	ja	interj	_	_	12	INTERJ	_	_
+11	alt	all	det	_	nøyt|ent|kvant	12	SUBJ	_	_
+12	er	være	verb	_	pres	4	KOORD	_	_
+13	bare	bare	adv	_	_	12	ADV	_	_
+14	helt	hel	adj	_	ub|pos|nøyt|ent	16	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	supert	super	adj	_	ub|pos|nøyt|ent	12	SPRED	_	_
+17	Sandviken	Sandviken	subst	_	prop	18	SUBJ	_	_
+18	er	være	verb	_	pres	4	KOORD	_	_
+19	jo	jo	adv	_	_	18	ADV	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	Sandviken	Sandviken	subst	_	prop	18	SPRED	_	_
+22	_laughter_	_laughter_	pause	_	_	18	FYLL	_	_
+23	⸮	_	_	_	_	0	root	_	_
+
+# text = alle liksom # ja alle vet hvor Sandviken er omtrent ⸮
+# segstart = 21.081
+# segstop = 24.11
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 8
+# annotator = VDT
+1	alle	all	det	_	fl|kvant	6	REP	_	_
+2	liksom	liksom	adv	_	_	1	ADV	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	ja	ja	interj	_	_	6	INTERJ	_	_
+5	alle	alle	pron	_	akk|3|fl|pers	6	SUBJ	_	_
+6	vet	vite	verb	_	pres	11	FINV	_	_
+7	hvor	hvor	adv	_	_	9	ADV	_	_
+8	Sandviken	Sandviken	subst	_	prop	9	SUBJ	_	_
+9	er	være	verb	_	pres	6	DOBJ	_	_
+10	omtrent	omtrent	adv	_	_	9	ADV	_	_
+11	⸮	_	_	_	_	0	root	_	_
+
+# text = mm ⸮
+# segstart = 24.11
+# segstop = 24.579
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 9
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # det er ⸮
+# segstart = 24.579
+# segstop = 27.424
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 10
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	1	SLETT	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = et kjent sted i Bergen ? ⸮
+# segstart = 27.424
+# segstop = 28.474
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 11
+# annotator = VDT
+1	et	en	det	_	nøyt|ent|kvant	3	DET	_	_
+2	kjent	kjent	adj	_	ub|nøyt|ent	3	ATR	_	_
+3	sted	sted	subst	_	ub|nøyt|ent|appell	7	FRAG	_	_
+4	i	i	prep	_	_	3	ATR	_	_
+5	Bergen	Bergen	subst	_	prop	4	PUTFYLL	_	_
+6	?	$?	clb	_	_	3	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # det er det ⸮
+# segstart = 28.474
+# segstop = 29.69
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 12
+# annotator = VDT
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	er	være	verb	_	pres	1	ADV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	SPRED	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = mm hvorfor er det # så kjent tror du ? ⸮
+# segstart = 29.69
+# segstop = 32.719
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 13
+# annotator = VDT
+1	mm	mm	interj	_	_	3	INTERJ	_	_
+2	hvorfor	hvorfor	adv	_	_	3	ADV	_	_
+3	er	være	verb	_	pres	11	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	så	så	adv	_	_	7	ADV	_	_
+7	kjent	kjent	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+8	tror	tro	verb	_	pres	3	PAR	_	_
+9	du	du	pron	_	nom|2|ent|hum	8	SUBJ	_	_
+10	?	$?	clb	_	_	3	IP	_	_
+11	⸮	_	_	_	_	0	root	_	_
+
+# text = e nei det var det da _laughter_ nei d- det er vel # det er bare er nei sikkert g- de har gamle Bergen det er ja turistene alle er her altså det er # ja mange gamle hus e # ja # det går vel i # _sniffing_ # i ett med det # si det sånn ⸮
+# segstart = 32.719
+# segstop = 51.94
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 14
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	nei	nei	interj	_	_	4	INTERJ	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	var	være	verb	_	pret	59	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	SPRED	_	_
+6	da	da	adv	_	_	4	ADV	_	_
+7	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+8	nei	nei	interj	_	_	11	INTERJ	_	_
+9	d-	d	ufullst	_	_	10	FYLL	_	_
+10	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
+11	er	være	verb	_	pres	4	SLETT	_	_
+12	vel	vel	adv	_	_	11	ADV	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+15	er	være	verb	_	pres	17	REP	_	_
+16	bare	bare	adv	_	_	17	ADV	_	_
+17	er	være	verb	_	pres	4	SLETT	_	_
+18	nei	nei	interj	_	_	17	INTERJ	_	_
+19	sikkert	sikker	adj	_	ub|pos|nøyt|ent	17	ADV	_	_
+20	g-	g	ufullst	_	_	21	FYLL	_	_
+21	de	de	pron	_	nom|2|fl|hum	22	SUBJ	_	_
+22	har	ha	verb	_	pres	4	KOORD	_	_
+23	gamle	gammel	adj	_	be|pos|ent	24	ATR	_	_
+24	Bergen	Bergen	subst	_	prop	22	DOBJ	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
+26	er	være	verb	_	pres	30	REP	_	_
+27	ja	ja	interj	_	_	26	INTERJ	_	_
+28	turistene	turistene	adj	_	pos|fl	29	APP	_	_
+29	alle	all	det	_	fl|kvant	30	SUBJ	_	_
+30	er	være	verb	_	pres	4	KOORD	_	_
+31	her	her	prep	_	_	30	SPRED	_	_
+32	altså	altså	adv	_	_	30	ADV	_	_
+33	det	det	pron	_	nøyt|3|ent|pers	34	FSUBJ	_	_
+34	er	være	verb	_	pres	4	KOORD	_	_
+35	#	#	pause	_	_	36	IK	_	_
+36	ja	ja	interj	_	_	34	INTERJ	_	_
+37	mange	mange	adj	_	pos|fl	39	ATR	_	_
+38	gamle	gammel	adj	_	pos|fl	39	ATR	_	_
+39	hus	hus	subst	_	ub|nøyt|fl|appell	34	PSUBJ	_	_
+40	e	e	nol	_	_	42	FYLL	_	_
+41	#	#	pause	_	_	42	IK	_	_
+42	ja	ja	interj	_	_	45	INTERJ	_	_
+43	#	#	pause	_	_	44	IK	_	_
+44	det	det	pron	_	nøyt|3|ent|pers	45	FSUBJ	_	_
+45	går	gå	verb	_	pres	4	KOORD	_	_
+46	vel	vel	adv	_	_	45	ADV	_	_
+47	i	i	prep	_	_	45	REP	_	_
+48	#	#	pause	_	_	49	IK	_	_
+49	_sniffing_	_sniffing_	pause	_	_	45	IK	_	_
+50	#	#	pause	_	_	51	IK	_	_
+51	i	i	prep	_	_	45	ADV	_	_
+52	ett	én	det	_	nøyt|ent|kvant	51	PUTFYLL	_	_
+53	med	med	prep	_	_	52	ADV	_	_
+54	det	det	pron	_	nøyt|3|ent|pers	53	PUTFYLL	_	_
+55	#	#	pause	_	_	56	IK	_	_
+56	si	si	verb	_	inf	45	PAR	_	_
+57	det	det	pron	_	nøyt|3|ent|pers	56	DOBJ	_	_
+58	sånn	sånn	adv	_	_	56	ADV	_	_
+59	⸮	_	_	_	_	0	root	_	_
+
+# text = * ja ⸮
+# segstart = 32.719
+# segstop = 51.94
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 15
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 51.94
+# segstop = 52.799
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 16
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = e men hvor mange er det som bor her # vet du det ? ⸮
+# segstart = 52.799
+# segstop = 55.303
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 17
+# annotator = VDT
+1	e	e	nol	_	_	2	FYLL	_	_
+2	men	men	konj	_	_	5	KONJ	_	_
+3	hvor	hvor	adv	_	_	4	ADV	_	_
+4	mange	mange	adj	_	pos|fl	5	PSUBJ	_	_
+5	er	være	verb	_	pres	15	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+7	som	som	sbu	_	_	8	SBU	_	_
+8	bor	bo	verb	_	pres	4	ATR	_	_
+9	her	her	prep	_	_	8	ADV	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	vet	vite	verb	_	pres	5	KOORD	_	_
+12	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+13	det	det	pron	_	nøyt|3|ent|pers	11	DOBJ	_	_
+14	?	$?	clb	_	_	5	IP	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = nei aner ikke # har ikke peiling # _laughter_ # nei det er nok en del ⸮
+# segstart = 55.303
+# segstop = 60.168
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 18
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	aner	ane	verb	_	pres	17	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	har	ha	verb	_	pres	2	KOORD	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	peiling	peiling	subst	_	ub|fem|ent|appell	5	DOBJ	_	_
+8	#	#	pause	_	_	11	IK	_	_
+9	_laughter_	_laughter_	pause	_	_	11	FYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	nei	nei	interj	_	_	13	INTERJ	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	SUBJ	_	_
+13	er	være	verb	_	pres	2	ADV	_	_
+14	nok	nok	adv	_	_	13	ADV	_	_
+15	en	en	det	_	mask|ent|kvant	16	DET	_	_
+16	del	del	subst	_	ub|mask|ent|appell	13	SPRED	_	_
+17	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # hvordan var det å vokse opp her da ? ⸮
+# segstart = 60.168
+# segstop = 62.219
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 19
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hvordan	hvordan	adv	_	_	4	SPRED	_	_
+4	var	være	verb	_	pret	12	FINV	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	å	å	inf-merke	_	_	4	PSUBJ	_	_
+7	vokse	vokse	verb	_	inf	6	INFV	_	_
+8	opp	opp	prep	_	_	7	ADV	_	_
+9	her	her	prep	_	_	7	ADV	_	_
+10	da	da	adv	_	_	4	ADV	_	_
+11	?	$?	clb	_	_	4	IP	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = var veldig bra # godt miljø gode venner # ja # det er # supert # kunne ikke tenkt meg en annen plass ⸮
+# segstart = 62.219
+# segstop = 70.518
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 20
+# annotator = VDT
+1	var	være	verb	_	pret	24	FINV	_	_
+2	veldig	veldig	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+3	bra	bra	adj	_	ub|pos|nøyt|ent	1	SPRED	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	godt	god	adj	_	ub|pos|nøyt|ent	6	ATR	_	_
+6	miljø	miljø	subst	_	ub|nøyt|ent|appell	1	KOORD	_	_
+7	gode	god	adj	_	pos|fl	8	ATR	_	_
+8	venner	venn	subst	_	ub|mask|fl|appell	1	KOORD	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	ja	ja	interj	_	_	13	INTERJ	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	SUBJ	_	_
+13	er	være	verb	_	pres	1	KOORD	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	supert	super	adj	_	ub|pos|nøyt|ent	13	SPRED	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	kunne	kunne	verb	_	pret	1	KOORD	_	_
+18	ikke	ikke	adv	_	_	19	ADV	_	_
+19	tenkt	tenke	verb	_	perf-part	17	INFV	_	_
+20	meg	jeg	pron	_	akk|1|ent|hum	19	IOBJ	_	_
+21	en	en	det	_	mask|ent|kvant	23	DET	_	_
+22	annen	annen	det	_	ub|mask|ent|dem	23	DET	_	_
+23	plass	plass	subst	_	ub|mask|ent|appell	19	DOBJ	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = nei _laughter_ em hvis du tenker tilbake til da du var liten # hva er det første du kan huske # har du noe sånn første minne ? ⸮
+# segstart = 70.518
+# segstop = 81.106
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 21
+# annotator = VDT, SR
+# SR: Gjorde 'hvis'-setningen ADV-dependent på 'huske'.
+1	nei	nei	interj	_	_	6	INTERJ	_	_
+2	_laughter_	_laughter_	pause	_	_	6	FYLL	_	_
+3	em	em	nol	_	_	4	FYLL	_	_
+4	hvis	hvis	sbu	_	_	6	SBU	_	_
+5	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+6	tenker	tenke	verb	_	pres	20	ADV	_	_
+7	tilbake	tilbake	prep	_	_	6	ADV	_	_
+8	til	til	prep	_	_	6	ADV	_	_
+9	da	da	adv	_	_	11	SBU	_	_
+10	du	du	pron	_	nom|2|ent|hum	11	SUBJ	_	_
+11	var	være	verb	_	pret	8	PUTFYLL	_	_
+12	liten	liten	adj	_	ub|pos|mask|ent	11	SPRED	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	hva	hva	pron	_	sp	15	SPRED	_	_
+15	er	være	verb	_	pres	29	FINV	_	_
+16	det	det	det	_	nøyt|ent|dem	17	DET	_	_
+17	første	første	adj	_	be|pos|ent	15	SUBJ	_	_
+18	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
+19	kan	kunne	verb	_	pres	17	ATR	_	_
+20	huske	huske	verb	_	inf	19	INFV	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	har	ha	verb	_	pres	15	KOORD	_	_
+23	du	du	pron	_	nom|2|ent|hum	22	SUBJ	_	_
+24	noe	noen	det	_	nøyt|ent|kvant	27	DET	_	_
+25	sånn	sånn	det	_	fem|ent|dem	27	DET	_	_
+26	første	første	adj	_	be|pos|ent	27	ATR	_	_
+27	minne	minne	subst	_	ub|nøyt|ent|appell	22	DOBJ	_	_
+28	?	$?	clb	_	_	15	IP	_	_
+29	⸮	_	_	_	_	0	root	_	_
+
+# text = * nei * hm * mhm ⸮
+# segstart = 70.518
+# segstop = 81.106
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 22
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	nei	nei	interj	_	_	7	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	hm	hm	interj	_	_	2	INTERJ	_	_
+5	*	*	pause	_	_	6	IK	_	_
+6	mhm	mhm	interj	_	_	2	INTERJ	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ # e s- nei jeg har ikke noe sånn spesielt minne jeg har en # en plass vi lekte på en som heter Banna da # eller det jeg vet ikke det heter ikke det men det er liksom det her hos oss ⸮
+# segstart = 81.106
+# segstop = 95.176
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 23
+# annotator = VDT, SR
+# SR: APP'et 'en som heter Banna', under tvil.
+1	_front-click_	_front-click_	pause	_	_	7	FYLL	_	_
+2	#	#	pause	_	_	5	IK	_	_
+3	e	e	nol	_	_	5	FYLL	_	_
+4	s-	s	ufullst	_	_	5	FYLL	_	_
+5	nei	nei	interj	_	_	7	INTERJ	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	har	ha	verb	_	pres	45	FINV	_	_
+8	ikke	ikke	adv	_	_	7	ADV	_	_
+9	noe	noen	det	_	nøyt|ent|kvant	12	DET	_	_
+10	sånn	sånn	det	_	mask|ent|dem	12	DET	_	_
+11	spesielt	spesiell	adj	_	ub|pos|nøyt|ent	12	ATR	_	_
+12	minne	minne	subst	_	ub|nøyt|ent|appell	7	DOBJ	_	_
+13	jeg	jeg	pron	_	nom|1|ent|hum	14	SUBJ	_	_
+14	har	ha	verb	_	pres	7	KOORD	_	_
+15	en	en	det	_	mask|ent|kvant	17	REP	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	en	en	det	_	mask|ent|kvant	18	DET	_	_
+18	plass	plass	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
+19	vi	vi	pron	_	nom|1|fl|hum	20	SUBJ	_	_
+20	lekte	leke	verb	_	pret	18	ATR	_	_
+21	på	på	prep	_	_	20	ADV	_	_
+22	en	en	det	_	mask|ent|kvant	18	APP	_	_
+23	som	som	sbu	_	_	24	SBU	_	_
+24	heter	hete	verb	_	pres	22	ATR	_	_
+25	Banna	Banna	subst	_	prop	24	SPRED	_	_
+26	da	da	adv	_	_	14	ADV	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	eller	eller	konj	_	_	31	KONJ	_	_
+29	det	det	pron	_	nøyt|3|ent|pers	30	REP	_	_
+30	jeg	jeg	pron	_	nom|1|ent|hum	31	SUBJ	_	_
+31	vet	vite	verb	_	pres	34	REP	_	_
+32	ikke	ikke	adv	_	_	31	ADV	_	_
+33	det	det	pron	_	nøyt|3|ent|pers	34	SUBJ	_	_
+34	heter	hete	verb	_	pres	14	KOORD	_	_
+35	ikke	ikke	adv	_	_	34	ADV	_	_
+36	det	det	pron	_	nøyt|3|ent|pers	34	SPRED	_	_
+37	men	men	konj	_	_	39	KONJ	_	_
+38	det	det	pron	_	nøyt|3|ent|pers	39	SUBJ	_	_
+39	er	være	verb	_	pres	14	KOORD	_	_
+40	liksom	liksom	adv	_	_	39	ADV	_	_
+41	det	det	pron	_	nøyt|3|ent|pers	39	SPRED	_	_
+42	her	her	prep	_	_	41	ATR	_	_
+43	hos	hos	prep	_	_	42	PUTFYLL	_	_
+44	oss	vi	pron	_	akk|1|fl|hum	43	PUTFYLL	_	_
+45	⸮	_	_	_	_	0	root	_	_
+
+# text = og der hadde de et sånn svært sånt hus # som de rev en gang i tiden # så vi # liksom # e l- var i da ⸮
+# segstart = 95.176
+# segstop = 102.64
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 24
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	der	der	prep	_	_	3	ADV	_	_
+3	hadde	ha	verb	_	pret	29	FINV	_	_
+4	de	de	pron	_	nom|2|fl|hum	3	SUBJ	_	_
+5	et	en	det	_	nøyt|ent|kvant	9	DET	_	_
+6	sånn	sånn	det	_	mask|ent|dem	9	DET	_	_
+7	svært	svær	adj	_	ub|pos|nøyt|ent	9	ATR	_	_
+8	sånt	sånn	det	_	nøyt|ent|dem	9	DET	_	_
+9	hus	hus	subst	_	ub|nøyt|ent|appell	3	DOBJ	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	som	som	sbu	_	_	13	SBU	_	_
+12	de	de	pron	_	nom|2|fl|hum	13	SUBJ	_	_
+13	rev	rive	verb	_	pret	9	ATR	_	_
+14	en	en	det	_	mask|ent|kvant	15	DET	_	_
+15	gang	gang	subst	_	ub|mask|ent|appell	13	ADV	_	_
+16	i	i	prep	_	_	15	ATR	_	_
+17	tiden	tid	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	så	så	adv	_	_	26	ADV	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	26	SUBJ	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	liksom	liksom	adv	_	_	26	ADV	_	_
+23	#	#	pause	_	_	26	IK	_	_
+24	e	e	nol	_	_	26	FYLL	_	_
+25	l-	l	ufullst	_	_	26	FYLL	_	_
+26	var	være	verb	_	pret	3	SLETT	_	_
+27	i	i	prep	_	_	26	SLETT	_	_
+28	da	da	adv	_	_	26	ADV	_	_
+29	⸮	_	_	_	_	0	root	_	_
+
+# text = og det har vi aldri fått opp igjen # men e det # det # det er vel egentlig det som iallfall her ute som jeg ja ## husker og liksom # ja ⸮
+# segstart = 102.64
+# segstop = 112.322
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 25
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+3	har	ha	verb	_	pres	34	FINV	_	_
+4	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+5	aldri	aldri	adv	_	_	6	ADV	_	_
+6	fått	få	verb	_	perf-part	3	INFV	_	_
+7	opp	opp	prep	_	_	6	ADV	_	_
+8	igjen	igjen	adv	_	_	6	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	men	men	konj	_	_	17	KONJ	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	14	REP	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	16	REP	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	SUBJ	_	_
+17	er	være	verb	_	pres	3	KOORD	_	_
+18	vel	vel	adv	_	_	17	ADV	_	_
+19	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	17	ADV	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	17	SPRED	_	_
+21	som	som	sbu	_	_	29	SLETT	_	_
+22	iallfall	iallfall	adv	_	_	29	SLETT	_	_
+23	her	her	prep	_	_	29	SLETT	_	_
+24	ute	ute	prep	_	_	23	PUTFYLL	_	_
+25	som	som	sbu	_	_	29	SBU	_	_
+26	jeg	jeg	pron	_	nom|1|ent|hum	29	SUBJ	_	_
+27	ja	ja	interj	_	_	29	INTERJ	_	_
+28	##	##	pause	_	_	29	IK	_	_
+29	husker	huske	verb	_	pres	20	ATR	_	_
+30	og	og	konj	_	_	29	KONJ	_	_
+31	liksom	liksom	adv	_	_	29	ADV	_	_
+32	#	#	pause	_	_	33	IK	_	_
+33	ja	ja	interj	_	_	29	INTERJ	_	_
+34	⸮	_	_	_	_	0	root	_	_
+
+# text = hva slags type hus var det et sånt gammelt bolighus eller ? ⸮
+# segstart = 112.322
+# segstop = 115.088
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 26
+# annotator = VDT
+1	hva	hva	pron	_	sp	2	DET	_	_
+2	slags	slags	subst	_	mask|appell	3	DET	_	_
+3	type	type	subst	_	ub|mask|ent|appell	4	DET	_	_
+4	hus	hus	subst	_	ub|nøyt|ent|appell	5	SPRED	_	_
+5	var	være	verb	_	pret	13	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+7	et	en	det	_	nøyt|ent|kvant	10	DET	_	_
+8	sånt	sånn	det	_	nøyt|ent|dem	10	DET	_	_
+9	gammelt	gammel	adj	_	ub|pos|nøyt|ent	10	ATR	_	_
+10	bolighus	bolighus	subst	_	ub|nøyt|ent|samset	5	KOORD	_	_
+11	eller	eller	konj	_	_	5	KONJ	_	_
+12	?	$?	clb	_	_	5	IP	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = er n- nei det var et sånt svært er på en måte et dukkehus # med to etasjer og en rutsjebane og liksom det var # ja ⸮
+# segstart = 115.088
+# segstop = 121.643
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 28
+# annotator = VDT
+1	er	være	verb	_	pres	5	REP	_	_
+2	n-	n	ufullst	_	_	3	REP	_	_
+3	nei	nei	interj	_	_	5	INTERJ	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	SUBJ	_	_
+5	var	være	verb	_	pret	28	FINV	_	_
+6	et	en	det	_	nøyt|ent|kvant	7	DET	_	_
+7	sånt	sånn	det	_	nøyt|ent|dem	8	DET	_	_
+8	svært	svær	adj	_	ub|pos|nøyt|ent	5	SPRED	_	_
+9	er	være	verb	_	pres	5	KOORD	_	_
+10	på	på	prep	_	_	9	ADV	_	_
+11	en	en	det	_	mask|ent|kvant	12	DET	_	_
+12	måte	måte	subst	_	ub|mask|ent|appell	10	PUTFYLL	_	_
+13	et	en	det	_	nøyt|ent|kvant	14	DET	_	_
+14	dukkehus	dukkehus	subst	_	ub|nøyt|ent|appell	9	SPRED	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	med	med	prep	_	_	14	ATR	_	_
+17	to	to	det	_	fl|kvant	18	DET	_	_
+18	etasjer	etasje	subst	_	ub|mask|fl|appell	16	PUTFYLL	_	_
+19	og	og	konj	_	_	21	KONJ	_	_
+20	en	en	det	_	mask|ent|kvant	21	DET	_	_
+21	rutsjebane	rutsjebane	subst	_	ub|mask|ent|appell	18	KOORD	_	_
+22	og	og	konj	_	_	25	KONJ	_	_
+23	liksom	liksom	adv	_	_	25	ADV	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	25	SUBJ	_	_
+25	var	være	verb	_	pret	5	KOORD	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	ja	ja	interj	_	_	25	INTERJ	_	_
+28	⸮	_	_	_	_	0	root	_	_
+
+# text = det var liksom vårt der var vi ## men der overtok kommunen og rev det # ned ⸮
+# segstart = 121.643
+# segstop = 127.132
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 29
+# annotator = VDT
+1	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+2	var	være	verb	_	pret	18	FINV	_	_
+3	liksom	liksom	adv	_	_	2	ADV	_	_
+4	vårt	vår	det	_	nøyt|ent|poss	2	SPRED	_	_
+5	der	der	prep	_	_	6	ADV	_	_
+6	var	være	verb	_	pret	2	KOORD	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	6	SUBJ	_	_
+8	##	##	pause	_	_	9	IK	_	_
+9	men	men	konj	_	_	11	KONJ	_	_
+10	der	der	prep	_	_	11	ADV	_	_
+11	overtok	overta	verb	_	pret	2	KOORD	_	_
+12	kommunen	kommune	subst	_	be|mask|ent|appell	11	SUBJ	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	rev	rive	verb	_	pret	11	KOORD	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	14	DOBJ	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	ned	ned	prep	_	_	14	ADV	_	_
+18	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # så nå da var det ikke noe lekeplass e ? ⸮
+# segstart = 127.132
+# segstop = 129.277
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 30
+# annotator = VDT
+1	ja	ja	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	konj	_	_	6	KONJ	_	_
+4	nå	nå	adv	_	_	6	SLETT	_	_
+5	da	da	adv	_	_	6	ADV	_	_
+6	var	være	verb	_	pret	13	FINV	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+8	ikke	ikke	adv	_	_	6	ADV	_	_
+9	noe	noen	det	_	nøyt|ent|kvant	10	DET	_	_
+10	lekeplass	lekeplass	subst	_	ub|mask|ent|samset	6	PSUBJ	_	_
+11	e	e	nol	_	_	6	FYLL	_	_
+12	?	$?	clb	_	_	6	IP	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = nei ⸮
+# segstart = 132.163
+# segstop = 132.473
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 33
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = nei # det er nå sånn det er ⸮
+# segstart = 132.473
+# segstop = 133.523
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 34
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+4	er	være	verb	_	pres	9	FINV	_	_
+5	nå	nå	adv	_	_	4	ADV	_	_
+6	sånn	sånn	adv	_	_	4	SPRED	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	er	være	verb	_	pres	6	ADV	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # men var det mange steder dere v- hvor var dere hen da dere var små holdt jeg på å si ? ⸮
+# segstart = 133.523
+# segstop = 137.266
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 35
+# annotator = VDT
+1	ja	ja	interj	_	_	11	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	4	KONJ	_	_
+4	var	være	verb	_	pret	11	SLETT	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	4	FSUBJ	_	_
+6	mange	mang en	det	_	fl|kvant	7	ATR	_	_
+7	steder	sted	subst	_	ub|nøyt|fl|appell	4	PSUBJ	_	_
+8	dere	dere	pron	_	nom|2|fl|hum	9	SUBJ	_	_
+9	v-	v	ufullst	_	_	7	SLETT	_	_
+10	hvor	hvor	adv	_	_	11	ADV	_	_
+11	var	være	verb	_	pret	24	FINV	_	_
+12	dere	dere	pron	_	nom|2|fl|hum	11	SUBJ	_	_
+13	hen	hen	prep	_	_	11	ADV	_	_
+14	da	da	sbu	_	_	16	SBU	_	_
+15	dere	dere	pron	_	nom|2|fl|hum	16	SUBJ	_	_
+16	var	være	verb	_	pret	11	ADV	_	_
+17	små	liten	adj	_	pos|fl	16	SPRED	_	_
+18	holdt	holde	verb	_	pret	11	PAR	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	18	SUBJ	_	_
+20	på	på	prep	_	_	18	ADV	_	_
+21	å	å	inf-merke	_	_	20	PUTFYLL	_	_
+22	si	si	verb	_	inf	21	INFV	_	_
+23	?	$?	clb	_	_	11	IP	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = * der ⸮
+# segstart = 133.523
+# segstop = 137.266
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 36
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	der	der	prep	_	_	3	FRAG	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 137.266
+# segstop = 137.529
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 37
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = der var vi # det var der der fant du oss # alltid _laughter_ innimellom smitt og smug der og sånn ⸮
+# segstart = 137.529
+# segstop = 143.324
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 38
+# annotator = VDT
+1	der	der	prep	_	_	2	ADV	_	_
+2	var	være	verb	_	pret	22	FINV	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	var	være	verb	_	pret	9	SLETT	_	_
+7	der	der	prep	_	_	6	SPRED	_	_
+8	der	der	prep	_	_	9	ADV	_	_
+9	fant	finne	verb	_	pret	2	KOORD	_	_
+10	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+11	oss	vi	pron	_	akk|1|fl|hum	9	DOBJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	alltid	alltid	adv	_	_	9	ADV	_	_
+14	_laughter_	_laughter_	pause	_	_	9	FYLL	_	_
+15	innimellom	innimellom	prep	_	_	9	ADV	_	_
+16	smitt	smitt	subst	_	ub|mask|fl|appell	15	PUTFYLL	_	_
+17	og	og	konj	_	_	18	KONJ	_	_
+18	smug	smug	subst	_	ub|mask|fl|appell	16	KOORD	_	_
+19	der	der	prep	_	_	9	ADV	_	_
+20	og	og	konj	_	_	21	KONJ	_	_
+21	sånn	sånn	adv	_	_	18	KOORD	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = mm ⸮
+# segstart = 143.324
+# segstop = 143.801
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 39
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 143.801
+# segstop = 145.161
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 40
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ e hvor gikk du på skole hen da ? ⸮
+# segstart = 145.161
+# segstop = 146.687
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 41
+# annotator = VDT
+1	_front-click_	_front-click_	pause	_	_	4	FYLL	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	hvor	hvor	adv	_	_	4	ADV	_	_
+4	gikk	gå	verb	_	pret	11	FINV	_	_
+5	du	du	pron	_	nom|2|ent|hum	4	SUBJ	_	_
+6	på	på	prep	_	_	4	ADV	_	_
+7	skole	skole	subst	_	ub|mask|ent|appell	6	PUTFYLL	_	_
+8	hen	hen	prep	_	_	4	ADV	_	_
+9	da	da	adv	_	_	4	ADV	_	_
+10	?	$?	clb	_	_	4	IP	_	_
+11	⸮	_	_	_	_	0	root	_	_
+
+# text = Krohnengen # skole ⸮
+# segstart = 146.687
+# segstop = 148.404
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 42
+# annotator = VDT
+1	Krohnengen	Krohnengen	subst	_	prop	4	FRAG	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	skole	skole	subst	_	ub|mask|ent|appell	1	FLAT	_	_
+4	⸮	_	_	_	_	0	root	_	_
+
+# text = hvor ligger det hen da ? ⸮
+# segstart = 148.404
+# segstop = 149.429
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 43
+# annotator = VDT, SR
+1	hvor	hvor	adv	_	_	2	ADV	_	_
+2	ligger	ligge	verb	_	pres	7	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	SUBJ	_	_
+4	hen	hen	prep	_	_	2	ADV	_	_
+5	da	da	adv	_	_	2	ADV	_	_
+6	?	$?	clb	_	_	2	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ligger lengre opp i høyden # opp i lengre opp i Sandviken et stykke å gå e ja et stykke og stykke det er gjerne ja # kvarter ti minutter kvarter å gå opp ⸮
+# segstart = 149.429
+# segstop = 158.348
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 44
+# annotator = VDT, SR
+# SR: Litt usikker på strukturen i 'minutter kvarter'. Sette som FLAT med 'minutter' som hode?
+1	ligger	ligge	verb	_	pres	35	FINV	_	_
+2	lengre	lang	adj	_	komp	3	ADV	_	_
+3	opp	opp	prep	_	_	1	ADV	_	_
+4	i	i	prep	_	_	3	PUTFYLL	_	_
+5	høyden	høyde	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	opp	opp	prep	_	_	9	REP	_	_
+8	i	i	prep	_	_	7	ADV	_	_
+9	lengre	lang	adj	_	komp	1	ADV	_	_
+10	opp	opp	prep	_	_	9	ADV	_	_
+11	i	i	prep	_	_	10	PUTFYLL	_	_
+12	Sandviken	Sandviken	subst	_	prop	11	PUTFYLL	_	_
+13	et	en	det	_	nøyt|ent|kvant	14	DET	_	_
+14	stykke	stykke	subst	_	ub|nøyt|ent|appell	1	KOORD	_	_
+15	å	å	inf-merke	_	_	14	ATR	_	_
+16	gå	gå	verb	_	inf	15	INFV	_	_
+17	e	e	nol	_	_	18	FYLL	_	_
+18	ja	ja	interj	_	_	16	INTERJ	_	_
+19	et	en	det	_	nøyt|ent|kvant	20	DET	_	_
+20	stykke	stykke	subst	_	ub|nøyt|ent|appell	14	KOORD	_	_
+21	og	og	konj	_	_	22	KONJ	_	_
+22	stykke	stykke	subst	_	ub|nøyt|ent|appell	20	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	24	FSUBJ	_	_
+24	er	være	verb	_	pres	1	KOORD	_	_
+25	gjerne	gjerne	adv	_	_	24	ADV	_	_
+26	ja	ja	interj	_	_	24	INTERJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	kvarter	kvarter	subst	_	ub|nøyt|ent|appell	31	REP	_	_
+29	ti	ti	det	_	fl|kvant	30	DET	_	_
+30	minutter	minutt	subst	_	ub|nøyt|fl|appell	24	SPRED	_	_
+31	kvarter	kvarter	subst	_	ub|nøyt|ent|appell	30	FLAT	_	_
+32	å	å	inf-merke	_	_	30	ATR	_	_
+33	gå	gå	verb	_	inf	32	INFV	_	_
+34	opp	opp	prep	_	_	33	ADV	_	_
+35	⸮	_	_	_	_	0	root	_	_
+
+# text = og det er bare opp # så det blir langt _laughter_ ⸮
+# segstart = 158.348
+# segstop = 162.259
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 45
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	12	FINV	_	_
+4	bare	bare	adv	_	_	3	ADV	_	_
+5	opp	opp	prep	_	_	3	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	så	så	adv	_	_	9	KONJ	_	_
+8	det	det	pron	_	nøyt|3|ent|pers	9	SUBJ	_	_
+9	blir	bli	verb	_	pres	3	KOORD	_	_
+10	langt	lang	adj	_	ub|pos|nøyt|ent	9	SPRED	_	_
+11	_laughter_	_laughter_	pause	_	_	9	FYLL	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = var ikke noen sykkel lett sykkeltur opp liksom eller e ⸮
+# segstart = 162.259
+# segstop = 164.93
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 46
+# annotator = VDT, SR
+1	var	være	verb	_	pret	11	FINV	_	_
+2	ikke	ikke	adv	_	_	1	ADV	_	_
+3	noen	noen	det	_	fl|kvant	6	DET	_	_
+4	sykkel	sykkel	subst	_	ub|mask|ent|appell	6	REP	_	_
+5	lett	lett	adj	_	ub|pos|nøyt|ent	6	ATR	_	_
+6	sykkeltur	sykkeltur	verb	_	perf-part	1	SPRED	_	_
+7	opp	opp	prep	_	_	1	ADV	_	_
+8	liksom	liksom	adv	_	_	1	ADV	_	_
+9	eller	eller	konj	_	_	1	KONJ	_	_
+10	e	e	nol	_	_	9	FYLL	_	_
+11	⸮	_	_	_	_	0	root	_	_
+
+# text = * e nei ⸮
+# segstart = 162.259
+# segstop = 164.93
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 47
+# annotator = VDT
+1	*	*	pause	_	_	3	IK	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	nei	nei	interj	_	_	4	INTERJ	_	_
+4	⸮	_	_	_	_	0	root	_	_
+
+# text = nei ⸮
+# segstart = 164.93
+# segstop = 165.335
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 48
+# annotator = VDT
+1	nei	nei	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = veldig greit hjem men ikke opp ⸮
+# segstart = 165.335
+# segstop = 166.599
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 49
+# annotator = VDT
+1	veldig	veldig	adj	_	ub|pos|nøyt|ent	2	ADV	_	_
+2	greit	grei	adj	_	ub|pos|nøyt|ent	3	ATR	_	_
+3	hjem	hjem	subst	_	ub|nøyt|ent|appell	7	FRAG	_	_
+4	men	men	konj	_	_	6	KONJ	_	_
+5	ikke	ikke	adv	_	_	6	ADV	_	_
+6	opp	opp	prep	_	_	3	KOORD	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = nei _laughter_ har du noe sånn spesielle minner e ⸮
+# segstart = 166.599
+# segstop = 170.606
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 50
+# annotator = VDT
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	_laughter_	_laughter_	pause	_	_	3	FYLL	_	_
+3	har	ha	verb	_	pres	10	FINV	_	_
+4	du	du	pron	_	nom|2|ent|hum	3	SUBJ	_	_
+5	noe	noen	det	_	nøyt|ent|kvant	8	DET	_	_
+6	sånn	sånn	det	_	mask|ent|dem	8	DET	_	_
+7	spesielle	spesiell	adj	_	pos|fl	8	ATR	_	_
+8	minner	minne	subst	_	ub|nøyt|fl|appell	3	DOBJ	_	_
+9	e	e	nol	_	_	8	FYLL	_	_
+10	⸮	_	_	_	_	0	root	_	_
+
+# text = * _laughter_ * fra skolen ? ⸮
+# segstart = 166.599
+# segstop = 170.606
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 51
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	fra	fra	prep	_	_	7	FRAG	_	_
+5	skolen	skole	subst	_	be|mask|ent|appell	4	PUTFYLL	_	_
+6	?	$?	clb	_	_	4	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = mm ⸮
+# segstart = 170.606
+# segstop = 171.059
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 52
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = nei det har jeg ikke # det # det var helt greit ⸮
+# segstart = 171.059
+# segstop = 175.495
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 53
+# annotator = VDT
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	DOBJ	_	_
+3	har	ha	verb	_	pres	13	FINV	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+5	ikke	ikke	adv	_	_	3	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	9	REP	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	10	SUBJ	_	_
+10	var	være	verb	_	pret	3	KOORD	_	_
+11	helt	hel	adj	_	ub|pos|nøyt|ent	12	ADV	_	_
+12	greit	grei	adj	_	ub|pos|nøyt|ent	10	SPRED	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = * helt greit ? ⸮
+# segstart = 171.059
+# segstop = 175.495
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 54
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	helt	hel	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+3	greit	grei	adj	_	ub|pos|nøyt|ent	5	FRAG	_	_
+4	?	$?	clb	_	_	3	IP	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 175.495
+# segstop = 175.972
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 55
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = mm # m hva pleide dere å gjøre i friminuttene på skolen da ? ⸮
+# segstart = 175.972
+# segstop = 180.217
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 56
+# annotator = VDT
+1	mm	mm	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	m	m	nol	_	_	5	FYLL	_	_
+4	hva	hva	pron	_	sp	8	ADV	_	_
+5	pleide	pleie	verb	_	pret	15	FINV	_	_
+6	dere	dere	pron	_	nom|2|fl|hum	5	SUBJ	_	_
+7	å	å	inf-merke	_	_	5	DOBJ	_	_
+8	gjøre	gjøre	verb	_	inf	7	INFV	_	_
+9	i	i	prep	_	_	8	ADV	_	_
+10	friminuttene	friminutt	subst	_	be|nøyt|fl|appell	9	PUTFYLL	_	_
+11	på	på	prep	_	_	8	ADV	_	_
+12	skolen	skole	subst	_	be|mask|ent|appell	11	PUTFYLL	_	_
+13	da	da	adv	_	_	5	ADV	_	_
+14	?	$?	clb	_	_	5	IP	_	_
+15	⸮	_	_	_	_	0	root	_	_
+
+# text = i friminuttene da e en enten hoppet vi tau eller e spilte fotball eller ja # basketball # ja # det var mye sånn # _sniffing_ ⸮
+# segstart = 180.217
+# segstop = 190.996
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 57
+# annotator = VDT
+1	i	i	prep	_	_	7	ADV	_	_
+2	friminuttene	friminuttene	det	_	fl|samset	1	PUTFYLL	_	_
+3	da	da	adv	_	_	7	ADV	_	_
+4	e	e	nol	_	_	5	FYLL	_	_
+5	en	en	det	_	mask|ent|kvant	7	REP	_	_
+6	enten	enten	konj	_	_	7	KONJ	_	_
+7	hoppet	hoppe	verb	_	pret	27	FINV	_	_
+8	vi	vi	pron	_	nom|1|fl|hum	7	SUBJ	_	_
+9	tau	tau	subst	_	ub|nøyt|ent|appell	7	DOBJ	_	_
+10	eller	eller	konj	_	_	12	KONJ	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	spilte	spille	verb	_	pret	7	KOORD	_	_
+13	fotball	fotball	subst	_	ub|mask|ent|appell	12	DOBJ	_	_
+14	eller	eller	konj	_	_	17	KONJ	_	_
+15	ja	ja	interj	_	_	17	INTERJ	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	basketball	basketball	subst	_	ub|nøyt|ent|appell	13	KOORD	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	ja	ja	interj	_	_	22	INTERJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	det	det	pron	_	nøyt|3|ent|pers	22	FSUBJ	_	_
+22	var	være	verb	_	pret	7	KOORD	_	_
+23	mye	mye	adj	_	ub|pos|nøyt|ent	24	ADV	_	_
+24	sånn	sånn	adv	_	_	22	PSUBJ	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	_sniffing_	_sniffing_	pause	_	_	22	FYLL	_	_
+27	⸮	_	_	_	_	0	root	_	_
+
+# text = har du e hadde dere noen sånn spesielle leker som er sånn typisk for Bergen eller noe sånt noe ? ⸮
+# segstart = 190.996
+# segstop = 196.481
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 58
+# annotator = VDT, SR
+1	har	ha	verb	_	pres	4	REP	_	_
+2	du	du	pron	_	nom|2|ent|hum	1	SUBJ	_	_
+3	e	e	nol	_	_	4	FYLL	_	_
+4	hadde	ha	verb	_	pret	21	FINV	_	_
+5	dere	dere	pron	_	nom|2|fl|hum	4	SUBJ	_	_
+6	noen	noen	det	_	fl|kvant	9	DET	_	_
+7	sånn	sånn	det	_	mask|ent|dem	9	DET	_	_
+8	spesielle	spesiell	adj	_	pos|fl	9	ATR	_	_
+9	leker	leker	subst	_	ub|mask|fl|appell	4	DOBJ	_	_
+10	som	som	sbu	_	_	11	SBU	_	_
+11	er	være	verb	_	pres	9	ATR	_	_
+12	sånn	sånn	det	_	_	13	DET	_	_
+13	typisk	typisk	adj	_	ub|pos|m/f|ent	11	SPRED	_	_
+14	for	for	prep	_	_	13	ATR	_	_
+15	Bergen	Bergen	subst	_	prop	14	PUTFYLL	_	_
+16	eller	eller	konj	_	_	19	KONJ	_	_
+17	noe	noen	det	_	nøyt|ent|kvant	18	DET	_	_
+18	sånt	sånn	det	_	nøyt|ent|dem	19	DET	_	_
+19	noe	noe	pron	_	nøyt|3|ent|pers	11	KOORD	_	_
+20	?	$?	clb	_	_	4	IP	_	_
+21	⸮	_	_	_	_	0	root	_	_
+
+# text = m nei ikke noe jeg kommer på sånn i # ikke noe sånn nei # det var ikke det ⸮
+# segstart = 196.481
+# segstop = 202.014
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 59
+# annotator = VDT, SR
+# SR: APP'et 'ikke noe sånn', under tvil.
+1	m	m	nol	_	_	4	FYLL	_	_
+2	nei	nei	interj	_	_	4	INTERJ	_	_
+3	ikke	ikke	adv	_	_	4	ADV	_	_
+4	noe	noe	pron	_	nøyt|3|ent|pers	20	FRAG	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	6	SUBJ	_	_
+6	kommer	komme	verb	_	pres	4	ATR	_	_
+7	på	på	prep	_	_	6	ADV	_	_
+8	sånn	sånn	adv	_	_	6	SLETT	_	_
+9	i	i	prep	_	_	6	SLETT	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	ikke	ikke	adv	_	_	13	ADV	_	_
+12	noe	noen	det	_	nøyt|ent|kvant	13	DET	_	_
+13	sånn	sånn	det	_	fem|ent|dem	19	APP	_	_
+14	nei	nei	interj	_	_	17	INTERJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+17	var	være	verb	_	pret	6	KOORD	_	_
+18	ikke	ikke	adv	_	_	17	ADV	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	17	PSUBJ	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = * mhm ⸮
+# segstart = 202.014
+# segstop = 205.043
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 61
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mhm	mhm	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = da spilte jeg fotball ⸮
+# segstart = 205.043
+# segstop = 206.045
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 62
+# annotator = VDT
+1	da	da	adv	_	_	2	ADV	_	_
+2	spilte	spille	verb	_	pret	5	FINV	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+4	fotball	fotball	subst	_	ub|mask|ent|appell	2	DOBJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # mm # gjør det fremdeles ? ⸮
+# segstart = 206.045
+# segstop = 208.334
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 63
+# annotator = VDT
+1	ja	ja	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	mm	mm	interj	_	_	5	INTERJ	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	gjør	gjøre	verb	_	pres	9	FINV	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	5	DOBJ	_	_
+7	fremdeles	fremdeles	adv	_	_	5	ADV	_	_
+8	?	$?	clb	_	_	5	IP	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = * mm ⸮
+# segstart = 206.045
+# segstop = 208.334
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 64
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = nei # det gjør jeg ikke _laughter_ ⸮
+# segstart = 208.334
+# segstop = 210.6
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 65
+# annotator = VDT
+1	nei	nei	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	DOBJ	_	_
+4	gjør	gjøre	verb	_	pres	8	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	ikke	ikke	adv	_	_	4	ADV	_	_
+7	_laughter_	_laughter_	pause	_	_	4	FYLL	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = men det var bare fotball ? ⸮
+# segstart = 210.6
+# segstop = 212.102
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 66
+# annotator = VDT
+1	men	men	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	var	være	verb	_	pret	7	FINV	_	_
+4	bare	bare	adv	_	_	3	ADV	_	_
+5	fotball	fotball	subst	_	ub|mask|ent|appell	3	SPRED	_	_
+6	?	$?	clb	_	_	3	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja e ja nei altså vi lekte jo sammen alle e sånn fotball spilte vi noen ganger og så hadde vi ka- noe annet som het e ## hva var det het da ? ⸮
+# segstart = 212.102
+# segstop = 224.55
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 67
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	7	INTERJ	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	ja	ja	interj	_	_	1	INTERJ	_	_
+4	nei	nei	interj	_	_	1	INTERJ	_	_
+5	altså	altså	adv	_	_	7	ADV	_	_
+6	vi	vi	pron	_	nom|1|fl|hum	7	SUBJ	_	_
+7	lekte	lekte	subst	_	ub|nøyt|fl|appell	35	FINV	_	_
+8	jo	jo	adv	_	_	7	ADV	_	_
+9	sammen	sammen	adv	_	_	7	ADV	_	_
+10	alle	all	det	_	fl|kvant	6	APP	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	sånn	sånn	adv	_	_	14	ADV	_	_
+13	fotball	fotball	subst	_	ub|mask|ent|appell	14	DOBJ	_	_
+14	spilte	spille	verb	_	pret	7	KOORD	_	_
+15	vi	vi	pron	_	nom|1|fl|hum	14	SUBJ	_	_
+16	noen	noen	det	_	fl|kvant	17	DET	_	_
+17	ganger	gang	subst	_	ub|mask|fl|appell	14	ADV	_	_
+18	og	og	konj	_	_	20	KONJ	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	hadde	ha	verb	_	pret	7	KOORD	_	_
+21	vi	vi	pron	_	nom|1|fl|hum	20	SUBJ	_	_
+22	ka-	k	ufullst	_	_	23	REP	_	_
+23	noe	noen	det	_	nøyt|ent|kvant	24	DET	_	_
+24	annet	annen	det	_	ub|nøyt|ent|dem	20	DOBJ	_	_
+25	som	som	sbu	_	_	26	SBU	_	_
+26	het	hete	verb	_	pret	24	ATR	_	_
+27	e	e	nol	_	_	29	FYLL	_	_
+28	##	##	pause	_	_	29	IK	_	_
+29	hva	hva	pron	_	sp	30	SPRED	_	_
+30	var	være	verb	_	pret	26	REP	_	_
+31	det	det	pron	_	nøyt|3|ent|pers	30	FSUBJ	_	_
+32	het	hete	verb	_	pret	29	ATR	_	_
+33	da	da	adv	_	_	30	ADV	_	_
+34	?	$?	clb	_	_	7	IP	_	_
+35	⸮	_	_	_	_	0	root	_	_
+
+# text = jeg husker ikke men det var hvert fall et sånt gjemmespill da ⸮
+# segstart = 224.55
+# segstop = 227.174
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 68
+# annotator = VDT
+1	jeg	jeg	pron	_	nom|1|ent|hum	2	SUBJ	_	_
+2	husker	huske	verb	_	pres	13	FINV	_	_
+3	ikke	ikke	adv	_	_	2	ADV	_	_
+4	men	men	konj	_	_	6	KONJ	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	SUBJ	_	_
+6	var	være	verb	_	pret	2	KOORD	_	_
+7	hvert	hver	det	_	nøyt|ent|kvant	8	DET	_	_
+8	fall	fall	subst	_	ub|nøyt|ent|appell	6	ADV	_	_
+9	et	en	det	_	nøyt|ent|kvant	11	DET	_	_
+10	sånt	sånn	det	_	nøyt|ent|dem	11	DET	_	_
+11	gjemmespill	gjemmespill	subst	_	ub|nøyt|ent|samset	6	SPRED	_	_
+12	da	da	adv	_	_	6	ADV	_	_
+13	⸮	_	_	_	_	0	root	_	_
+
+# text = mm ⸮
+# segstart = 227.174
+# segstop = 227.651
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 69
+# annotator = VDT
+1	mm	mm	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja og e # _sniffing_ # mye sånn _sighing_ ⸮
+# segstart = 227.651
+# segstop = 230.775
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 70
+# annotator = VDT
+1	ja	ja	interj	_	_	10	INTERJ	_	_
+2	og	og	konj	_	_	1	KONJ	_	_
+3	e	e	nol	_	_	1	FYLL	_	_
+4	#	#	pause	_	_	1	IK	_	_
+5	_sniffing_	_sniffing_	pause	_	_	1	FYLL	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	mye	mye	adj	_	ub|pos|nøyt|ent	8	ADV	_	_
+8	sånn	sånn	det	_	mask|ent|dem	1	ADV	_	_
+9	_sighing_	_sighing_	pause	_	_	1	FYLL	_	_
+10	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 230.775
+# segstop = 231.228
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 71
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 231.228
+# segstop = 231.944
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 72
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = mm men så du var ikke med i buekorps du ? ⸮
+# segstart = 231.944
+# segstop = 234.162
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 73
+# annotator = VDT
+1	mm	mm	interj	_	_	5	INTERJ	_	_
+2	men	men	konj	_	_	5	KONJ	_	_
+3	så	så	adv	_	_	5	KONJ	_	_
+4	du	du	pron	_	nom|2|ent|hum	5	SUBJ	_	_
+5	var	være	verb	_	pret	12	FINV	_	_
+6	ikke	ikke	adv	_	_	5	ADV	_	_
+7	med	med	prep	_	_	5	SPRED	_	_
+8	i	i	prep	_	_	7	PUTFYLL	_	_
+9	buekorps	buekorps	subst	_	ub|nøyt|ent|samset	8	PUTFYLL	_	_
+10	du	du	pron	_	nom|2|ent|hum	4	APP	_	_
+11	?	$?	clb	_	_	5	IP	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = nei # men jeg har vært med dem liksom hele tiden min bror har alltid gått og # ja # så jeg vi har kjenner dem godt for si det sånn ⸮
+# segstart = 234.162
+# segstop = 241.006
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 74
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	5	KONJ	_	_
+4	jeg	jeg	pron	_	nom|1|ent|hum	5	SUBJ	_	_
+5	har	ha	verb	_	pres	32	FINV	_	_
+6	vært	være	verb	_	perf-part	5	INFV	_	_
+7	med	med	prep	_	_	6	SPRED	_	_
+8	dem	de	pron	_	akk|3|fl|pers	7	PUTFYLL	_	_
+9	liksom	liksom	adv	_	_	6	ADV	_	_
+10	hele	hel	adj	_	be|pos|ent	11	ATR	_	_
+11	tiden	tid	subst	_	be|mask|ent|appell	6	ADV	_	_
+12	min	min	det	_	mask|ent|poss	13	DET	_	_
+13	bror	bror	subst	_	ub|mask|ent|appell	14	SUBJ	_	_
+14	har	ha	verb	_	pres	5	KOORD	_	_
+15	alltid	alltid	adv	_	_	16	ADV	_	_
+16	gått	gå	verb	_	perf-part	14	INFV	_	_
+17	og	og	konj	_	_	16	KONJ	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	ja	ja	interj	_	_	25	INTERJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	så	så	konj	_	_	25	KONJ	_	_
+22	jeg	jeg	pron	_	nom|1|ent|hum	23	REP	_	_
+23	vi	vi	pron	_	nom|1|fl|hum	25	SUBJ	_	_
+24	har	ha	verb	_	pres	25	REP	_	_
+25	kjenner	kjenne	verb	_	pres	14	KOORD	_	_
+26	dem	de	pron	_	akk|3|fl|pers	25	DOBJ	_	_
+27	godt	god	adj	_	ub|pos|nøyt|ent	25	ADV	_	_
+28	for	for	prep	_	_	25	ADV	_	_
+29	si	si	verb	_	inf	28	PUTFYLL	_	_
+30	det	det	pron	_	nøyt|3|ent|pers	29	DOBJ	_	_
+31	sånn	sånn	adv	_	_	29	ADV	_	_
+32	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 241.006
+# segstop = 241.269
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 75
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # vi har alltid gått etter dem ⸮
+# segstart = 241.269
+# segstop = 243.058
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 76
+# annotator = VDT
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	4	SUBJ	_	_
+4	har	ha	verb	_	pres	9	FINV	_	_
+5	alltid	alltid	adv	_	_	6	ADV	_	_
+6	gått	gå	verb	_	perf-part	4	INFV	_	_
+7	etter	etter	prep	_	_	6	ADV	_	_
+8	dem	de	pron	_	akk|3|fl|pers	7	PUTFYLL	_	_
+9	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 243.058
+# segstop = 243.606
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 77
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # rævadilter som de kaller det _laughter_ så fint _laughter_ ⸮
+# segstart = 243.606
+# segstop = 247.136
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 78
+# annotator = VDT
+1	ja	ja	interj	_	_	12	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	rævadilter	rævadilter	subst	_	ub|fem|ent|appell	1	ADV	_	_
+4	som	som	sbu	_	_	6	SBU	_	_
+5	de	de	pron	_	nom|2|fl|hum	6	SUBJ	_	_
+6	kaller	kalle	verb	_	pres	3	ATR	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	DOBJ	_	_
+8	_laughter_	_laughter_	pause	_	_	6	FYLL	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	fint	fin	adj	_	ub|pos|nøyt|ent	6	ADV	_	_
+11	_laughter_	_laughter_	pause	_	_	6	FYLL	_	_
+12	⸮	_	_	_	_	0	root	_	_
+
+# text = men sånn for oss som ikke er fra Bergen hva e- hva er liksom opplegget med buekorps ? ⸮
+# segstart = 247.136
+# segstop = 252.096
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 79
+# annotator = VDT
+1	men	men	konj	_	_	3	KONJ	_	_
+2	sånn	sånn	adv	_	_	3	ADV	_	_
+3	for	for	prep	_	_	19	FRAG	_	_
+4	oss	vi	pron	_	akk|1|fl|hum	3	PUTFYLL	_	_
+5	som	som	sbu	_	_	7	SBU	_	_
+6	ikke	ikke	adv	_	_	7	ADV	_	_
+7	er	være	verb	_	pres	4	ATR	_	_
+8	fra	fra	prep	_	_	7	SPRED	_	_
+9	Bergen	Bergen	subst	_	prop	8	PUTFYLL	_	_
+10	hva	hva	pron	_	sp	11	REP	_	_
+11	e-	e	ufullst	_	_	13	REP	_	_
+12	hva	hva	pron	_	sp	13	SUBJ	_	_
+13	er	være	verb	_	pres	3	KOORD	_	_
+14	liksom	liksom	adv	_	_	13	ADV	_	_
+15	opplegget	opplegg	subst	_	be|nøyt|ent|appell	13	SPRED	_	_
+16	med	med	prep	_	_	15	ATR	_	_
+17	buekorps	buekorps	subst	_	ub|nøyt|ent|appell	16	PUTFYLL	_	_
+18	?	$?	clb	_	_	13	IP	_	_
+19	⸮	_	_	_	_	0	root	_	_
+
+# text = opplegget det er kanonstilig # små gutter i uniform # med e ja før var det sånne geværer nå har de fått bue # ja e det er ⸮
+# segstart = 252.096
+# segstop = 261.993
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 80
+# annotator = VDT, SR
+1	opplegget	opplegg	subst	_	be|nøyt|ent|appell	2	APP	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	29	REP	_	_
+4	kanonstilig	kanonstilig	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	små	liten	adj	_	pos|fl	7	ATR	_	_
+7	gutter	gutt	subst	_	ub|mask|fl|appell	3	KOORD	_	_
+8	i	i	prep	_	_	7	ATR	_	_
+9	uniform	uniform	subst	_	ub|fem|ent|appell	8	PUTFYLL	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	med	med	prep	_	_	7	ATR	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	ja	ja	interj	_	_	15	INTERJ	_	_
+14	før	før	prep	_	_	15	ADV	_	_
+15	var	være	verb	_	pret	11	PUTFYLL	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+17	sånne	sånn	det	_	fl|dem	18	DET	_	_
+18	geværer	gevær	subst	_	ub|nøyt|fl|samset	15	SPRED	_	_
+19	nå	nå	adv	_	_	20	ADV	_	_
+20	har	ha	verb	_	pres	15	KOORD	_	_
+21	de	de	pron	_	nom|2|fl|hum	20	SUBJ	_	_
+22	fått	få	verb	_	perf-part	20	INFV	_	_
+23	bue	bue	subst	_	ub|mask|ent|appell	22	DOBJ	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	ja	ja	interj	_	_	28	INTERJ	_	_
+26	e	e	nol	_	_	27	FYLL	_	_
+27	det	det	pron	_	nøyt|3|ent|pers	28	FSUBJ	_	_
+28	er	være	verb	_	pres	3	SLETT	_	_
+29	⸮	_	_	_	_	0	root	_	_
+
+# text = men de har ikke noe musikk ? ⸮
+# segstart = 261.993
+# segstop = 263.257
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 81
+# annotator = VDT
+1	men	men	konj	_	_	3	KONJ	_	_
+2	de	de	pron	_	nom|3|fl|pers	3	SUBJ	_	_
+3	har	ha	verb	_	pres	8	FINV	_	_
+4	ikke	ikke	adv	_	_	3	ADV	_	_
+5	noe	noen	det	_	nøyt|ent|kvant	6	DET	_	_
+6	musikk	musikk	subst	_	ub|mask|ent|appell	3	DOBJ	_	_
+7	?	$?	clb	_	_	3	IP	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = nei det er trommer ⸮
+# segstart = 263.257
+# segstop = 264.235
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 82
+# annotator = VDT
+1	nei	nei	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	er	være	verb	_	pres	5	FINV	_	_
+4	trommer	tromme	subst	_	ub|fem|fl|appell	3	PSUBJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = trommer ja # mm # ja # hm # men er det sånn at hver bydel liksom har sitt buekorps ? ⸮
+# segstart = 264.235
+# segstop = 270.07
+# file = bergen_02uk-sl
+# speaker = sl
+# id = 83
+# annotator = VDT, SR
+# SR: FRAG'get 'trommer' og APP'et 'at'-setningen.
+1	trommer	tromme	subst	_	ub|fem|fl|appell	22	FRAG	_	_
+2	ja	ja	interj	_	_	1	INTERJ	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	mm	mm	interj	_	_	1	INTERJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	ja	ja	interj	_	_	11	INTERJ	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	hm	hm	interj	_	_	6	INTERJ	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	men	men	konj	_	_	11	KONJ	_	_
+11	er	være	verb	_	pres	1	KOORD	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
+13	sånn	sånn	adv	_	_	11	SPRED	_	_
+14	at	at	sbu	_	_	18	SBU	_	_
+15	hver	hver	det	_	mask|ent|kvant	16	DET	_	_
+16	bydel	bydel	subst	_	ub|mask|ent|appell	18	SUBJ	_	_
+17	liksom	liksom	adv	_	_	18	ADV	_	_
+18	har	ha	verb	_	pres	13	APP	_	_
+19	sitt	sin	det	_	nøyt|ent|poss	20	DET	_	_
+20	buekorps	buekorps	subst	_	ub|nøyt|ent|appell	18	DOBJ	_	_
+21	?	$?	clb	_	_	11	IP	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = * ja * _uninterpretable_ ⸮
+# segstart = 264.235
+# segstop = 270.07
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 84
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	_uninterpretable_	_uninterpretable_	pause	_	_	2	FYLL	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = ja vi har Sandviken du har Veslengen du har Skansen du har Sinnes du har Mathismarken der er liksom ja # overalt utenom i Åsane der er ikke ⸮
+# segstart = 270.07
+# segstop = 278.282
+# file = bergen_02uk-sl
+# speaker = bergen_02uk
+# id = 85
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+3	har	ha	verb	_	pres	29	REP	_	_
+4	Sandviken	Sandviken	subst	_	prop	3	DOBJ	_	_
+5	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+6	har	ha	verb	_	pres	3	KOORD	_	_
+7	Veslengen	Veslengen	subst	_	prop	6	DOBJ	_	_
+8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+9	har	ha	verb	_	pres	3	KOORD	_	_
+10	Skansen	Skansen	subst	_	prop	9	DOBJ	_	_
+11	du	du	pron	_	nom|2|ent|hum	12	SUBJ	_	_
+12	har	ha	verb	_	pres	3	KOORD	_	_
+13	Sinnes	Sinnes	subst	_	prop	12	DOBJ	_	_
+14	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+15	har	ha	verb	_	pres	3	KOORD	_	_
+16	Mathismarken	Mathismarken	subst	_	prop	15	DOBJ	_	_
+17	der	der	prep	_	_	18	FSUBJ	_	_
+18	er	være	verb	_	pres	3	KOORD	_	_
+19	liksom	liksom	adv	_	_	18	ADV	_	_
+20	ja	ja	interj	_	_	18	INTERJ	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	overalt	overalt	adv	_	_	18	SPRED	_	_
+23	utenom	utenom	prep	_	_	18	ADV	_	_
+24	i	i	prep	_	_	23	PUTFYLL	_	_
+25	Åsane	Åsane	subst	_	prop	24	PUTFYLL	_	_
+26	der	der	prep	_	_	27	FSUBJ	_	_
+27	er	være	verb	_	pres	18	SLETT	_	_
+28	ikke	ikke	adv	_	_	27	ADV	_	_
+29	⸮	_	_	_	_	0	root	_	_
+

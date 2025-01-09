@@ -1,0 +1,5894 @@
+# text = det her er meint å vere eit forsøk på å gi att dialekta ifrå Nordli # i Lierne kommune
+# segstart = 9.426
+# segstop = 15.858
+# file = nordli_uio_01
+# speaker = of
+# id = 1
+1	det		pron			3	FSUBJ		hov
+2	her		prep			3	ADV		hov
+3	er		verb			0	FINV		hov
+4	meint		adj			3	SPRED		hov
+5	å		inf-merke			4	ADV		hov
+6	vere		verb			5	INFV		hov
+7	eit		det			8	DET		hov
+8	forsøk		subst			6	SPRED		hov
+9	på		prep			8	ATR		hov
+10	å		inf-merke			9	PUTFYLL		hov
+11	gi		verb			10	INFV		hov
+12	att		prep			11	ADV		hov
+13	dialekta		subst			12	PUTFYLL		hov
+14	ifrå		prep			13	ATR		hov
+15	Nordli		subst			14	PUTFYLL		hov
+16	#		pause			17	IK		hov
+17	i		prep			15	ATR		hov
+18	Lierne		subst			17	PUTFYLL		hov
+19	kommune		subst			18	FLAT		hov
+
+# text = når eg presiserer Nordli # så er det for at Lierne som språkområde ikkje eksisterer meiner eg
+# segstart = 17.309
+# segstop = 24.837
+# file = nordli_uio_01
+# speaker = of
+# id = 2
+1	når		sbu			3	SBU		hov
+2	eg		pron			3	SUBJ		hov
+3	presiserer		verb			6	APP		hov
+4	Nordli		subst			3	DOBJ		hov
+5	#		pause			6	IK		hov
+6	så		adv			7	ADV		hov
+7	er		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	for		prep			10	ADV		hov
+10	at		sbu			15	SBU		hov
+11	Lierne		subst			15	SUBJ		hov
+12	som		sbu			13	SBU		hov
+13	språkområde		subst			11	ATR		hov
+14	ikkje		adv			15	ADV		hov
+15	eksisterer		verb			7	SPRED		hov
+16	meiner		verb			7	PAR		hov
+17	eg		pron			16	SUBJ		hov
+
+# text = i Sørli som er andre halvparten av bygda har dei både meir innblanding av svensk # og dei har bøyingsformer som er meir like Namdalsmålet enn kva tilfellet er med dialekta i Nordli
+# segstart = 26.405
+# segstop = 40.685
+# file = nordli_uio_01
+# speaker = of
+# id = 3
+1	i		prep			9	ADV		hov
+2	Sørli		subst			1	PUTFYLL		hov
+3	som		sbu			4	SBU		hov
+4	er		verb			2	ATR		hov
+5	andre		det			6	DET		hov
+6	halvparten		subst			4	SPRED		hov
+7	av		prep			6	ATR		hov
+8	bygda		subst			7	PUTFYLL		hov
+9	har		verb			0	FINV		hov
+10	dei		pron			9	SUBJ		hov
+11	både		konj			13	KONJ		hov
+12	meir		adj			13	ATR		hov
+13	innblanding		subst			9	DOBJ		hov
+14	av		prep			13	ATR		hov
+15	svensk		subst			14	PUTFYLL		hov
+16	#		pause			17	IK		hov
+17	og		konj			19	KONJ		hov
+18	dei		pron			19	SUBJ		hov
+19	har		verb			9	KOORD		hov
+20	bøyingsformer		subst			19	DOBJ		hov
+21	som		sbu			22	SBU		hov
+22	er		verb			20	ATR		hov
+23	meir		adj			24	ADV		hov
+24	like		adj			25	ATR		hov
+25	Namdalsmålet		subst			22	SPRED		hov
+26	enn		sbu			29	SBU		hov
+27	kva		det			28	DET		hov
+28	tilfellet		subst			29	SUBJ		hov
+29	er		verb			22	ADV		hov
+30	med		prep			29	SPRED		hov
+31	dialekta		subst			30	PUTFYLL		hov
+32	i		prep			31	ATR		hov
+33	Nordli		subst			32	PUTFYLL		hov
+
+# text = det her opptaket er gjort i årsskiftet nittensekstiseks sekstisju
+# segstart = 44.719
+# segstop = 50.376
+# file = nordli_uio_01
+# speaker = of
+# id = 4
+1	det		pron			3	ATR		hov
+2	her		prep			1	ATR		hov
+3	opptaket		subst			4	SUBJ		hov
+4	er		verb			0	FINV		hov
+5	gjort		adj			4	INFV		hov
+6	i		prep			5	ADV		hov
+7	årsskiftet		subst			6	PUTFYLL		hov
+8	nittensekstiseks		det			7	DET		hov
+9	sekstisju		det			7	DET		hov
+
+# text = dei tre som høyrest er slaktaren og tømmerhoggaren # nordli_uio_0101 # sekstini år
+# segstart = 51.904
+# segstop = 59.959
+# file = nordli_uio_01
+# speaker = of
+# id = 5
+1	dei		pron			5	SUBJ		hov
+2	tre		det			1	DET		hov
+3	som		sbu			4	SBU		hov
+4	høyrest		verb			1	ATR		hov
+5	er		verb			0	FINV		hov
+6	slaktaren		subst			5	SPRED		hov
+7	og		konj			8	KONJ		hov
+8	tømmerhoggaren		subst			6	KOORD		hov
+9	#		pause			10	IK		hov
+10	nordli_uio_0101		subst			6	APP		hov
+11	#		pause			12	IK		hov
+12	sekstini		det			13	DET		hov
+13	år		subst			10	ATR		hov
+
+# text = det er ein elev i ungdomsskolen # femten år
+# segstart = 61.247
+# segstop = 65.378
+# file = nordli_uio_01
+# speaker = of
+# id = 6
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	ein		det			4	DET		hov
+4	elev		subst			2	SPRED		hov
+5	i		prep			4	ATR		hov
+6	ungdomsskolen		subst			5	PUTFYLL		hov
+7	#		pause			8	IK		hov
+8	femten		det			9	DET		hov
+9	år		subst			4	ATR		hov
+
+# text = og nordli_uio_0103 # tjueseks år og student # som er ansvarleg for opptaket
+# segstart = 66.474
+# segstop = 74.459
+# file = nordli_uio_01
+# speaker = of
+# id = 7
+1	og		konj			2	KONJ		hov
+2	nordli_uio_0103		subst			0	FRAG		hov
+3	#		pause			4	IK		hov
+4	tjueseks		det			5	DET		hov
+5	år		subst			2	ATR		hov
+6	og		konj			7	KONJ		hov
+7	student		subst			5	KOORD		hov
+8	#		pause			9	IK		hov
+9	som		sbu			10	SBU		hov
+10	er		verb			2	ATR		hov
+11	ansvarleg		adj			10	SPRED		hov
+12	for		prep			11	ADV		hov
+13	opptaket		subst			12	PUTFYLL		hov
+
+# text = når årstal er gitt # så er det for å gi moglegheit # for nærmare gransking viss nokon skulle ha interesse av det
+# segstart = 77.356
+# segstop = 84.169
+# file = nordli_uio_01
+# speaker = of
+# id = 8
+1	når		sbu			3	SBU		hov
+2	årstal		subst			3	SUBJ		hov
+3	er		verb			6	APP		hov
+4	gitt		adj			3	SPRED		hov
+5	#		pause			6	IK		hov
+6	så		adv			7	ADV		hov
+7	er		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	for		prep			7	SPRED		hov
+10	å		inf-merke			9	PUTFYLL		hov
+11	gi		verb			10	INFV		hov
+12	moglegheit		subst			11	DOBJ		hov
+13	#		pause			14	IK		hov
+14	for		prep			12	ATR		hov
+15	nærmare		adj			16	ATR		hov
+16	gransking		subst			14	PUTFYLL		hov
+17	viss		sbu			19	SBU		hov
+18	nokon		pron			19	SUBJ		hov
+19	skulle		verb			11	ADV		hov
+20	ha		verb			19	INFV		hov
+21	interesse		subst			20	DOBJ		hov
+22	av		prep			21	ATR		hov
+23	det		pron			22	PUTFYLL		hov
+
+# text = eg la merke til det nå at dei yngste ikkje bruker kasusbøying i nokon ord lenger # og det trur eg er første gongen eg har høyrt
+# segstart = 85.81
+# segstop = 94.073
+# file = nordli_uio_01
+# speaker = of
+# id = 9
+1	eg		pron			2	SUBJ		hov
+2	la		verb			0	FINV		hov
+3	merke		subst			2	DOBJ		hov
+4	til		prep			3	ATR		hov
+5	det		pron			4	PUTFYLL		hov
+6	nå		adv			2	ADV		hov
+7	at		sbu			11	SBU		hov
+8	dei		det			9	DET		hov
+9	yngste		adj			11	SUBJ		hov
+10	ikkje		adv			11	ADV		hov
+11	bruker		verb			2	ADV		hov
+12	kasusbøying		subst			11	DOBJ		hov
+13	i		prep			12	ATR		hov
+14	nokon		det			15	DET		hov
+15	ord		subst			13	PUTFYLL		hov
+16	lenger		adv			11	ADV		hov
+17	#		pause			18	IK		hov
+18	og		konj			20	KONJ		hov
+19	det		pron			22	SUBJ		hov
+20	trur		verb			2	KOORD		hov
+21	eg		pron			20	SUBJ		hov
+22	er		verb			20	DOBJ		hov
+23	første		adj			24	ATR		hov
+24	gongen		subst			22	SPRED		hov
+25	eg		pron			26	SUBJ		hov
+26	har		verb			24	ATR		hov
+27	høyrt		verb			26	INFV		hov
+
+# text = siste historie om harejakta # er sett i hop for å gi eit bilde av dialekta med dei ord og uttrykka som enda er i bruk
+# segstart = 94.945
+# segstop = 102.834
+# file = nordli_uio_01
+# speaker = of
+# id = 10
+1	siste		adj			2	ATR		hov
+2	historie		subst			6	SUBJ		hov
+3	om		prep			2	ATR		hov
+4	harejakta		subst			3	PUTFYLL		hov
+5	#		pause			6	IK		hov
+6	er		verb			0	FINV		hov
+7	sett		verb			6	INFV		hov
+8	i		prep			7	ADV		hov
+9	hop		subst			8	PUTFYLL		hov
+10	for		prep			7	ADV		hov
+11	å		inf-merke			10	PUTFYLL		hov
+12	gi		verb			11	INFV		hov
+13	eit		det			14	DET		hov
+14	bilde		subst			12	DOBJ		hov
+15	av		prep			14	ATR		hov
+16	dialekta		subst			15	PUTFYLL		hov
+17	med		prep			16	ATR		hov
+18	dei		det			19	DET		hov
+19	ord		subst			17	PUTFYLL		hov
+20	og		konj			21	KONJ		hov
+21	uttrykka		subst			19	KOORD		hov
+22	som		sbu			24	SBU		hov
+23	enda		adv			24	ADV		hov
+24	er		verb			19	ATR		hov
+25	i		prep			24	SPRED		hov
+26	bruk		subst			25	PUTFYLL		hov
+
+# text = jo da det var det var veldig pussig det for at e # det kom nå sånn at ## det skulle såleis vere da
+# segstart = 111.649
+# segstop = 121.358
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 11
+1	jo		interj			6	INTERJ		hov
+2	da		adv			6	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	var		verb			6	REP		hov
+5	det		pron			6	FSUBJ		hov
+6	var		verb			0	FINV		hov
+7	veldig		adj			8	ADV		hov
+8	pussig		adj			6	SPRED		hov
+9	det		pron			5	APP		hov
+10	for		prep			11	ADV		hov
+11	at		sbu			15	SBU		hov
+12	e		nol			14	FYLL		hov
+13	#		pause			14	IK		hov
+14	det		pron			15	FSUBJ		hov
+15	kom		verb			6	ADV		hov
+16	nå		adv			15	ADV		hov
+17	sånn		adv			18	ADV		hov
+18	at		sbu			21	SBU		hov
+19	##		pause			20	IK		hov
+20	det		pron			21	FSUBJ		hov
+21	skulle		verb			15	ADV		hov
+22	såleis		adv			23	ADV		hov
+23	vere		verb			21	INFV		hov
+24	da		adv			23	SPRED		hov
+
+# text = du skal ha # ha ho opp igjen
+# segstart = 122.694
+# segstop = 124.915
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 12
+1	du		pron			2	SUBJ		hov
+2	skal		verb			0	FINV		hov
+3	ha		verb			5	REP		hov
+4	#		pause			5	IK		hov
+5	ha		verb			2	INFV		hov
+6	ho		pron			5	DOBJ		hov
+7	opp		prep			5	ADV		hov
+8	igjen		adv			5	ADV		hov
+
+# text = ja # berre kom med den du
+# segstart = 125.074
+# segstop = 126.991
+# file = nordli_uio_01
+# speaker = of
+# id = 13
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	berre		adv			4	ADV		hov
+4	kom		verb			0	FINV		hov
+5	med		prep			4	ADV		hov
+6	den		pron			5	PUTFYLL		hov
+7	du		pron			4	SUBJ		hov
+
+# text = frå botnen ?
+# segstart = 125.793
+# segstop = 126.598
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 14
+1	frå		prep			0	FRAG		hov
+2	botnen		subst			1	PUTFYLL		hov
+3	?		clb			1	IP		hov
+
+# text = jo det var det var sånn turing der med eg var borti nabogarden
+# segstart = 128.17
+# segstop = 132.23
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 15
+1	jo		interj			5	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			5	REP		hov
+4	det		pron			5	FSUBJ		hov
+5	var		verb			0	FINV		hov
+6	sånn		det			7	DET		hov
+7	turing		subst			5	SPRED		hov
+8	der		prep			5	ADV		hov
+9	med		prep			5	ADV		hov
+10	eg		pron			11	SUBJ		hov
+11	var		verb			5	KOORD		hov
+12	borti		prep			11	SPRED		hov
+13	nabogarden		subst			12	PUTFYLL		hov
+
+# text = og så # vart vi nå einige om at det var nå mykje rart å lese
+# segstart = 132.236
+# segstop = 137.714
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 16
+1	og		konj			4	KONJ		hov
+2	så		adv			4	ADV		hov
+3	#		pause			4	IK		hov
+4	vart		verb			0	FINV		hov
+5	vi		pron			4	SUBJ		hov
+6	nå		adv			4	ADV		hov
+7	einige		adj			4	SPRED		hov
+8	om		prep			7	ADV		hov
+9	at		sbu			11	SBU		hov
+10	det		pron			11	FSUBJ		hov
+11	var		verb			8	PUTFYLL		hov
+12	nå		adv			11	ADV		hov
+13	mykje		adj			14	ADV		hov
+14	rart		adj			11	SPRED		hov
+15	å		inf-merke			14	ADV		hov
+16	lese		verb			15	INFV		hov
+
+# text = deriblant så kom vi på tale om s- at svarteboka var i e # farten
+# segstart = 138.066
+# segstop = 142.49
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 17
+1	deriblant		adv			3	ADV		hov
+2	så		adv			3	ADV		hov
+3	kom		verb			0	FINV		hov
+4	vi		pron			3	SUBJ		hov
+5	på		prep			3	ADV		hov
+6	tale		subst			5	PUTFYLL		hov
+7	om		prep			6	ATR		hov
+8	s-		ufullst			9	FYLL		hov
+9	at		sbu			11	SBU		hov
+10	svarteboka		subst			11	SUBJ		hov
+11	var		verb			7	PUTFYLL		hov
+12	i		prep			11	SPRED		hov
+13	e		nol			15	FYLL		hov
+14	#		pause			15	IK		hov
+15	farten		subst			12	PUTFYLL		hov
+
+# text = så var det ein liten pøykunge der når han høyrde tale om enn der svarteboka så spurde han at om eg hadde # om eg hadde lese henne # ja det hadde eg
+# segstart = 143.65
+# segstop = 151.779
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 18
+1	så		adv			2	ADV		hov
+2	var		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	ein		det			6	DET		hov
+5	liten		adj			6	ATR		hov
+6	pøykunge		subst			2	PSUBJ		hov
+7	der		prep			2	ADV		hov
+8	når		sbu			10	SBU		hov
+9	han		pron			10	SUBJ		hov
+10	høyrde		verb			2	ADV		hov
+11	tale		subst			10	DOBJ		hov
+12	om		prep			11	ATR		hov
+13	enn		prep			12	ADV		hov
+14	der		prep			13	PUTFYLL		hov
+15	svarteboka		subst			14	PUTFYLL		hov
+16	så		adv			17	ADV		hov
+17	spurde		verb			10	KOORD		hov
+18	han		pron			17	SUBJ		hov
+19	at		sbu			22	SBU		hov
+20	om		sbu			22	SBU		hov
+21	eg		pron			22	SUBJ		hov
+22	hadde		verb			26	REP		hov
+23	#		pause			24	IK		hov
+24	om		sbu			26	SBU		hov
+25	eg		pron			26	SUBJ		hov
+26	hadde		verb			17	DOBJ		hov
+27	lese		verb			26	INFV		hov
+28	henne		pron			27	DOBJ		hov
+29	#		pause			30	IK		hov
+30	ja		interj			32	INTERJ		hov
+31	det		pron			32	DOBJ		hov
+32	hadde		verb			26	KOORD		hov
+33	eg		pron			32	SUBJ		hov
+
+# text = ja så ville ville han vite kven som hadde ho # for han òg ville lese
+# segstart = 153.112
+# segstop = 157.538
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 19
+1	ja		interj			4	INTERJ		hov
+2	så		adv			4	ADV		hov
+3	ville		verb			4	REP		hov
+4	ville		verb			0	FINV		hov
+5	han		pron			4	SUBJ		hov
+6	vite		verb			4	INFV		hov
+7	kven		pron			6	DOBJ		hov
+8	som		sbu			9	SBU		hov
+9	hadde		verb			7	ATR		hov
+10	ho		pron			9	DOBJ		hov
+11	#		pause			12	IK		hov
+12	for		konj			15	KONJ		hov
+13	han		pron			15	SUBJ		hov
+14	òg		adv			16	ADV		hov
+15	ville		verb			4	KOORD		hov
+16	lese		verb			15	INFV		hov
+
+# text = nei så sa eg han tolte ikkje å lese den
+# segstart = 157.859
+# segstop = 160.577
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 20
+1	nei		interj			3	INTERJ		hov
+2	så		adv			3	ADV		hov
+3	sa		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	han		pron			6	SUBJ		hov
+6	tolte		verb			3	DOBJ		hov
+7	ikkje		adv			6	ADV		hov
+8	å		inf-merke			6	DOBJ		hov
+9	lese		verb			8	INFV		hov
+10	den		pron			9	DOBJ		hov
+
+# text = ja # det det tø- ville nå ikkje han gå med på
+# segstart = 161.121
+# segstop = 164.489
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 21
+1	ja		interj			6	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	REP		hov
+4	det		pron			12	PUTFYLL		hov
+5	tø-		ufullst			6	FYLL		hov
+6	ville		verb			0	FINV		hov
+7	nå		adv			10	ADV		hov
+8	ikkje		adv			10	ADV		hov
+9	han		pron			6	SUBJ		hov
+10	gå		verb			6	INFV		hov
+11	med		prep			10	ADV		hov
+12	på		prep			10	ADV		hov
+
+# text = men det gjekk da nokre år # og ikkje så få heller noko snakk om var nesten konfirmert han
+# segstart = 164.535
+# segstop = 170.262
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 22
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	gjekk		verb			0	FINV		hov
+4	da		adv			3	ADV		hov
+5	nokre		det			6	DET		hov
+6	år		subst			3	DOBJ		hov
+7	#		pause			8	IK		hov
+8	og		konj			11	KONJ		hov
+9	ikkje		adv			11	ADV		hov
+10	så		adv			11	ADV		hov
+11	få		adj			6	ATR		hov
+12	heller		adv			11	ADV		hov
+13	noko		det			14	DET		hov
+14	snakk		subst			16	ADV		hov
+15	om		prep			14	ATR		hov
+16	var		verb			3	KOORD		hov
+17	nesten		adv			18	ADV		hov
+18	konfirmert		adj			16	SPRED		hov
+19	han		pron			16	SUBJ		hov
+
+# text = og så # vart det da spørsmål om å slakte ein gammalhest
+# segstart = 170.438
+# segstop = 175.39
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 23
+1	og		konj			4	KONJ		hov
+2	så		adv			4	ADV		hov
+3	#		pause			4	IK		hov
+4	vart		verb			0	FINV		hov
+5	det		pron			4	FSUBJ		hov
+6	da		adv			4	ADV		hov
+7	spørsmål		subst			4	SPRED		hov
+8	om		prep			7	ATR		hov
+9	å		inf-merke			8	PUTFYLL		hov
+10	slakte		verb			9	INFV		hov
+11	ein		det			12	DET		hov
+12	gammalhest		subst			10	DOBJ		hov
+
+# text = men det var ingen som ville halde i og hjelpe meg medan eg skulle ta han # og det var jo radig
+# segstart = 176.52
+# segstop = 182.91
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 24
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	ingen		pron			3	SPRED		hov
+5	som		sbu			6	SBU		hov
+6	ville		verb			4	ATR		hov
+7	halde		verb			6	INFV		hov
+8	i		prep			7	ADV		hov
+9	og		konj			10	KONJ		hov
+10	hjelpe		verb			7	KOORD		hov
+11	meg		pron			10	DOBJ		hov
+12	medan		sbu			14	SBU		hov
+13	eg		pron			14	SUBJ		hov
+14	skulle		verb			10	ADV		hov
+15	ta		verb			14	INFV		hov
+16	han		pron			15	DOBJ		hov
+17	#		pause			18	IK		hov
+18	og		konj			20	KONJ		hov
+19	det		pron			20	FSUBJ		hov
+20	var		verb			3	KOORD		hov
+21	jo		adv			20	ADV		hov
+22	radig		adj			20	SPRED		hov
+
+# text = men så kom eg plutseleg på det at den der pøyken hadde da stått i og skulle ha i svarteboka
+# segstart = 183.17
+# segstop = 187.783
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 25
+1	men		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	kom		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	plutseleg		adj			3	ADV		hov
+6	på		prep			3	ADV		hov
+7	det		pron			6	PUTFYLL		hov
+8	at		sbu			12	SBU		hov
+9	den		det			12	SUBJ		hov
+10	der		prep			9	ATR		hov
+11	pøyken		subst			10	PUTFYLL		hov
+12	hadde		verb			7	APP		hov
+13	da		adv			14	ADV		hov
+14	stått		verb			12	INFV		hov
+15	i		prep			14	ADV		hov
+16	og		konj			17	KONJ		hov
+17	skulle		verb			12	KOORD		hov
+18	ha		verb			17	INFV		hov
+19	i		prep			18	ADV		hov
+20	svarteboka		subst			19	PUTFYLL		hov
+
+# text = # det er det er for dårleg
+# segstart = 187.788
+# segstop = 195.896
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 26
+1	#		pause			2	IK		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			5	REP		hov
+4	det		pron			5	FSUBJ		hov
+5	er		verb			0	FINV		hov
+6	for		adv			7	ADV		hov
+7	dårleg		adj			5	SPRED		hov
+
+# text = men det vart til det al- pøyken han han heldt i hesten ja det var ikkje saka
+# segstart = 196.364
+# segstop = 200.718
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 27
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	vart		verb			0	FINV		hov
+4	til		prep			3	SPRED		hov
+5	det		pron			4	PUTFYLL		hov
+6	al-		ufullst			7	FYLL		hov
+7	pøyken		subst			10	SUBJ		hov
+8	han		pron			9	REP		hov
+9	han		pron			7	APP		hov
+10	heldt		verb			5	APP		hov
+11	i		prep			10	ADV		hov
+12	hesten		subst			11	PUTFYLL		hov
+13	ja		interj			15	INTERJ		hov
+14	det		pron			15	SUBJ		hov
+15	var		verb			3	KOORD		hov
+16	ikkje		adv			15	ADV		hov
+17	saka		subst			15	SPRED		hov
+
+# text = og han hjelpte meg og men var da fort ferdige med og nå må du berre ha anna hjelp
+# segstart = 200.877
+# segstop = 206.326
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 28
+1	og		konj			3	KONJ		hov
+2	han		pron			3	SUBJ		hov
+3	hjelpte		verb			0	FINV		hov
+4	meg		pron			3	DOBJ		hov
+5	og		konj			7	KONJ		hov
+6	men		konj			7	KONJ		hov
+7	var		verb			3	KOORD		hov
+8	da		adv			7	ADV		hov
+9	fort		adj			10	ADV		hov
+10	ferdige		adj			7	SPRED		hov
+11	med		prep			10	ADV		hov
+12	og		konj			14	KONJ		hov
+13	nå		adv			14	ADV		hov
+14	må		verb			3	KOORD		hov
+15	du		pron			14	SUBJ		hov
+16	berre		adv			17	ADV		hov
+17	ha		verb			14	INFV		hov
+18	anna		det			19	DET		hov
+19	hjelp		subst			17	DOBJ		hov
+
+# text = ja det er det
+# segstart = 203.655
+# segstop = 209.705
+# file = nordli_uio_01
+# speaker = of
+# id = 29
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	det		pron			3	SPRED		hov
+
+# text = kva de hadde her ## de brukte to forskjellige ord for kniv i den tida ?
+# segstart = 215.404
+# segstop = 223.709
+# file = nordli_uio_01
+# speaker = of
+# id = 30
+1	kva		pron			3	DOBJ		hov
+2	de		pron			3	SUBJ		hov
+3	hadde		verb			0	FINV		hov
+4	her		prep			3	ADV		hov
+5	##		pause			6	IK		hov
+6	de		pron			7	SUBJ		hov
+7	brukte		verb			3	KOORD		hov
+8	to		det			10	DET		hov
+9	forskjellige		adj			10	ATR		hov
+10	ord		subst			7	DOBJ		hov
+11	for		prep			10	ATR		hov
+12	kniv		subst			11	PUTFYLL		hov
+13	i		prep			7	ADV		hov
+14	den		det			15	DET		hov
+15	tida		subst			13	PUTFYLL		hov
+16	?		clb			3	IP		hov
+
+# text = junge
+# segstart = 225.475
+# segstop = 225.981
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 31
+1	junge		subst			0	FRAG		hov
+
+# text = ja
+# segstart = 226.312
+# segstop = 226.922
+# file = nordli_uio_01
+# speaker = of
+# id = 32
+1	ja		interj			0	INTERJ		hov
+
+# text = ein junge kva # når s- når trur du at de slutta å bruke # å legge på jungane når de skulle ete middag kjem du i hug det ?
+# segstart = 227.96
+# segstop = 237.812
+# file = nordli_uio_01
+# speaker = of
+# id = 33
+1	ein		det			2	DET		hov
+2	junge		subst			8	ADV		hov
+3	kva		pron			8	SLETT		hov
+4	#		pause			5	IK		hov
+5	når		adv			7	REP		hov
+6	s-		ufullst			7	FYLL		hov
+7	når		adv			8	ADV		hov
+8	trur		verb			0	FINV		hov
+9	du		pron			8	SUBJ		hov
+10	at		sbu			12	SBU		hov
+11	de		pron			12	SUBJ		hov
+12	slutta		verb			8	DOBJ		hov
+13	å		inf-merke			16	REP		hov
+14	bruke		verb			13	INFV		hov
+15	#		pause			16	IK		hov
+16	å		inf-merke			12	DOBJ		hov
+17	legge		verb			16	INFV		hov
+18	på		prep			17	ADV		hov
+19	jungane		subst			18	PUTFYLL		hov
+20	når		sbu			22	SBU		hov
+21	de		pron			22	SUBJ		hov
+22	skulle		verb			17	ADV		hov
+23	ete		verb			22	INFV		hov
+24	middag		subst			23	DOBJ		hov
+25	kjem		verb			8	KOORD		hov
+26	du		pron			25	SUBJ		hov
+27	i		prep			25	ADV		hov
+28	hug		subst			27	PUTFYLL		hov
+29	det		pron			25	DOBJ		hov
+30	?		clb			8	IP		hov
+
+# text = ja det måtte nå vel bli rundt rekna i e tjuetalet
+# segstart = 237.255
+# segstop = 240.602
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 34
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	måtte		verb			0	FINV		hov
+4	nå		adv			6	ADV		hov
+5	vel		adv			6	ADV		hov
+6	bli		verb			3	INFV		hov
+7	rundt		prep			8	ADV		hov
+8	rekna		verb			6	INFV		hov
+9	i		prep			6	SPRED		hov
+10	e		nol			11	FYLL		hov
+11	tjuetalet	tyvetaLi	subst			9	PUTFYLL		hov
+
+# text = rundt rekna der ikring # for der sidan så vart det nå bordknivar da
+# segstart = 243.337
+# segstop = 248.675
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 35
+1	rundt		prep			2	ADV		hov
+2	rekna		verb			0	FINV		hov
+3	der		prep			2	ADV		hov
+4	ikring		prep			3	PUTFYLL		hov
+5	#		pause			6	IK		hov
+6	for		prep			10	ADV		hov
+7	der		prep			10	ADV		hov
+8	sidan		adv			10	ADV		hov
+9	så		adv			10	ADV		hov
+10	vart		verb			2	KOORD		hov
+11	det		pron			10	FSUBJ		hov
+12	nå		adv			10	ADV		hov
+13	bordknivar		subst			10	SPRED		hov
+14	da		adv			10	ADV		hov
+
+# text = ja
+# segstart = 248.441
+# segstop = 249.013
+# file = nordli_uio_01
+# speaker = of
+# id = 36
+1	ja		interj			0	INTERJ		hov
+
+# text = så det trur eg skulle bli der rundt rekna i tjuetalet ja
+# segstart = 253.365
+# segstop = 257.524
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 37
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	trur		verb			0	FINV		hov
+4	eg		pron			5	SUBJ		hov
+5	skulle		verb			3	DOBJ		hov
+6	bli		verb			5	INFV		hov
+7	der		prep			6	SPRED		hov
+8	rundt		prep			6	ADV		hov
+9	rekna		verb			8	PUTFYLL		hov
+10	i		prep			6	ADV		hov
+11	tjuetalet		subst			10	PUTFYLL		hov
+12	ja		interj			3	INTERJ		hov
+
+# text = og kva som gjorde at det vart # vart bortlagt det har eg heller ikkje aning om
+# segstart = 257.544
+# segstop = 262.662
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 38
+1	og		konj			12	KONJ		hov
+2	kva		pron			4	SUBJ		hov
+3	som		sbu			4	SBU		hov
+4	gjorde		verb			11	APP		hov
+5	at		sbu			9	SBU		hov
+6	det		pron			9	FSUBJ		hov
+7	vart		verb			9	REP		hov
+8	#		pause			9	IK		hov
+9	vart		verb			4	DOBJ		hov
+10	bortlagt		verb			9	INFV		hov
+11	det		pron			17	PUTFYLL		hov
+12	har		verb			0	FINV		hov
+13	eg		pron			12	SUBJ		hov
+14	heller		adv			15	ADV		hov
+15	ikkje		adv			12	ADV		hov
+16	aning		subst			12	DOBJ		hov
+17	om		prep			16	ATR		hov
+
+# text = nei
+# segstart = 262.634
+# segstop = 263.518
+# file = nordli_uio_01
+# speaker = of
+# id = 39
+1	nei		interj			0	INTERJ		hov
+
+# text = det begynte vel kanskje å verte litt e # meir trafikk over fjellet vestover da
+# segstart = 264.895
+# segstop = 270.271
+# file = nordli_uio_01
+# speaker = of
+# id = 40
+1	det		pron			2	FSUBJ		hov
+2	begynte		verb			0	FINV		hov
+3	vel		adv			2	ADV		hov
+4	kanskje		adv			2	ADV		hov
+5	å		inf-merke			2	DOBJ		hov
+6	verte		verb			5	INFV		hov
+7	litt		adj			10	ADV		hov
+8	e		nol			10	FYLL		hov
+9	#		pause			10	IK		hov
+10	meir		adj			11	ATR		hov
+11	trafikk		subst			6	DOBJ		hov
+12	over		prep			11	ATR		hov
+13	fjellet		subst			12	PUTFYLL		hov
+14	vestover		prep			11	ATR		hov
+15	da		adv			6	ADV		hov
+
+# text = e ja du veit det vart nå det kom nå veldig fort det etter nittenhundreogti
+# segstart = 268.85
+# segstop = 275.839
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 41
+1	e		nol			2	FYLL		hov
+2	ja		interj			4	INTERJ		hov
+3	du		pron			4	SUBJ		hov
+4	veit		verb			0	FINV		hov
+5	det		pron			6	FSUBJ		hov
+6	vart		verb			9	REP		hov
+7	nå		adv			6	SPRED		hov
+8	det		pron			9	FSUBJ		hov
+9	kom		verb			4	DOBJ		hov
+10	nå		adv			9	ADV		hov
+11	veldig		adj			12	ADV		hov
+12	fort		adj			9	ADV		hov
+13	det		pron			8	APP		hov
+14	etter		prep			9	ADV		hov
+15	nittenhundreogti		det			14	PUTFYLL		hov
+
+# text = ja
+# segstart = 275.692
+# segstop = 276.482
+# file = nordli_uio_01
+# speaker = of
+# id = 42
+1	ja		interj			0	INTERJ		hov
+
+# text = sjå inn til nittenhundreogsju det var jo nesten e ein saga blott
+# segstart = 277.029
+# segstop = 281.731
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 43
+1	sjå		verb			0	FINV		hov
+2	inn		prep			1	ADV		hov
+3	til		prep			2	PUTFYLL		hov
+4	nittenhundreogsju		det			3	PUTFYLL		hov
+5	det		pron			6	FSUBJ		hov
+6	var		verb			1	KOORD		hov
+7	jo		adv			6	ADV		hov
+8	nesten		adv			6	ADV		hov
+9	e		nol			10	FYLL		hov
+10	ein		det			11	DET		hov
+11	saga		subst			6	SPRED		hov
+12	blott		adj			11	ATR		hov
+
+# text = ja det var nå ikkje anna enn # det var nå det det bygdefolket da som køyrde med hest over
+# segstart = 281.737
+# segstop = 286.302
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 44
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			10	REP		hov
+4	nå		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	anna		det			3	SPRED		hov
+7	enn		sbu			3	SBU		hov
+8	#		pause			9	IK		hov
+9	det		pron			10	FSUBJ		hov
+10	var		verb			0	FINV		hov
+11	nå		adv			10	ADV		hov
+12	det		det			13	REP		hov
+13	det		det			14	DET		hov
+14	bygdefolket		subst			10	SPRED		hov
+15	da		adv			10	ADV		hov
+16	som		sbu			17	SBU		hov
+17	køyrde		verb			14	ATR		hov
+18	med		prep			17	ADV		hov
+19	hest		subst			18	PUTFYLL		hov
+20	over		prep			17	ADV		hov
+
+# text = og så kunne eg da treffe på at det fór ein skirennar sei sånn over
+# segstart = 286.821
+# segstop = 290.682
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 45
+1	og		konj			3	KONJ		hov
+2	så		adv			6	ADV		hov
+3	kunne		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	da		adv			6	ADV		hov
+6	treffe		verb			3	INFV		hov
+7	på		prep			6	ADV		hov
+8	at		sbu			10	SBU		hov
+9	det		pron			10	FSUBJ		hov
+10	fór		verb			7	PUTFYLL		hov
+11	ein		det			12	DET		hov
+12	skirennar		subst			10	DOBJ		hov
+13	sei		verb			10	ADV		hov
+14	sånn		adv			15	ADV		hov
+15	over		prep			10	ADV		hov
+
+# text = henn hæmmer så var da nesten ein saga blott at det fór folk over her
+# segstart = 290.682
+# segstop = 294.765
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 46
+1	henn		ufullst			4	SLETT		hov
+2	hæmmer		ufullst			4	SLETT		hov
+3	så		adv			4	ADV		hov
+4	var		verb			0	FINV		hov
+5	da		adv			4	ADV		hov
+6	nesten		adv			4	ADV		hov
+7	ein		det			8	DET		hov
+8	saga		subst			4	SPRED		hov
+9	blott		adj			8	ATR		hov
+10	at		sbu			12	SBU		hov
+11	det		pron			12	FSUBJ		hov
+12	fór		verb			4	ADV		hov
+13	folk		subst			12	DOBJ		hov
+14	over		prep			12	ADV		hov
+15	her		prep			14	PUTFYLL		hov
+
+# text = sånn sommartida noko stund da men du veit det var jo stasjonshus og den slags men det var jo berre # overfart over fjellet
+# segstart = 295.367
+# segstop = 303.67
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 47
+1	sånn		det			2	DET		hov
+2	sommartida		subst			8	SLETT		hov
+3	noko		det			4	DET		hov
+4	stund		subst			2	ATR		hov
+5	da		adv			8	ADV		hov
+6	men		konj			8	KONJ		hov
+7	du		pron			8	SUBJ		hov
+8	veit		verb			0	FINV		hov
+9	det		pron			10	FSUBJ		hov
+10	var		verb			8	DOBJ		hov
+11	jo		adv			10	ADV		hov
+12	stasjonshus		subst			10	SPRED		hov
+13	og		konj			15	KONJ		hov
+14	den		det			15	DET		hov
+15	slags		subst			12	KOORD		hov
+16	men		konj			18	KONJ		hov
+17	det		pron			18	FSUBJ		hov
+18	var		verb			8	KOORD		hov
+19	jo		adv			18	ADV		hov
+20	berre		adv			18	ADV		hov
+21	#		pause			22	IK		hov
+22	overfart		subst			18	SPRED		hov
+23	over		prep			22	ATR		hov
+24	fjellet		subst			23	PUTFYLL		hov
+
+# text = ja
+# segstart = 303.565
+# segstop = 303.982
+# file = nordli_uio_01
+# speaker = of
+# id = 48
+1	ja		interj			0	INTERJ		hov
+
+# text = så det var jo ikkje noko
+# segstart = 304.469
+# segstop = 305.831
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 49
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	noko		pron			3	SPRED		hov
+
+# text = m- …
+# segstart = 307.411
+# segstop = 307.947
+# file = nordli_uio_01
+# speaker = of
+# id = 50
+1	m-		ufullst			0	FRAG		hov
+2	…		ellipsis			1	IK		hov
+
+# text = men e etter nittenhundreogsju så begynte det nå da
+# segstart = 307.423
+# segstop = 310.115
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 51
+1	men		konj			6	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	etter		prep			6	ADV		hov
+4	nittenhundreogsju		det			3	PUTFYLL		hov
+5	så		adv			6	ADV		hov
+6	begynte		verb			0	FINV		hov
+7	det		pron			6	FSUBJ		hov
+8	nå		adv			6	ADV		hov
+9	da		adv			6	ADV		hov
+
+# text = og da vart det nå stort sett # veldig fort at e # vart meir og meir
+# segstart = 310.377
+# segstop = 316.048
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 52
+1	og		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	vart		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	nå		adv			7	ADV		hov
+6	stort		adj			7	ADV		hov
+7	sett		adj			3	ADV		hov
+8	#		pause			9	IK		hov
+9	veldig		adj			10	ADV		hov
+10	fort		adj			3	SPRED		hov
+11	at		sbu			14	SBU		hov
+12	e		nol			14	FYLL		hov
+13	#		pause			14	IK		hov
+14	vart		verb			10	ADV		hov
+15	meir		adj			14	SPRED		hov
+16	og		konj			17	KONJ		hov
+17	meir		adj			15	KOORD		hov
+
+# text = men føre den tida var de nesten isolerte da så de hadde ikkje nokon # kontakt med Sverige på noko vis heller da ?
+# segstart = 316.917
+# segstop = 323.417
+# file = nordli_uio_01
+# speaker = of
+# id = 53
+1	men		konj			5	KONJ		hov
+2	føre		prep			5	ADV		hov
+3	den		det			4	DET		hov
+4	tida		subst			2	PUTFYLL		hov
+5	var		verb			0	FINV		hov
+6	de		pron			5	SUBJ		hov
+7	nesten		adv			8	ADV		hov
+8	isolerte		verb			5	SPRED		hov
+9	da		adv			8	ADV		hov
+10	så		konj			12	KONJ		hov
+11	de		pron			12	SUBJ		hov
+12	hadde		verb			5	KOORD		hov
+13	ikkje		adv			12	ADV		hov
+14	nokon		det			16	DET		hov
+15	#		pause			16	IK		hov
+16	kontakt		subst			12	DOBJ		hov
+17	med		prep			16	ATR		hov
+18	Sverige		subst			17	PUTFYLL		hov
+19	på		prep			12	ADV		hov
+20	noko		det			21	DET		hov
+21	vis		subst			19	PUTFYLL		hov
+22	heller		adv			23	ADV		hov
+23	da		adv			12	ADV		hov
+24	?		clb			5	IP		hov
+
+# text = nei da det var ikkje det det var nå stort sitt nesten ikkje anna enn berre vi ly i i fjellet dei
+# segstart = 323.117
+# segstop = 329.337
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 54
+1	nei		interj			4	INTERJ		hov
+2	da		adv			1	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	var		verb			0	FINV		hov
+5	ikkje		adv			4	ADV		hov
+6	det		pron			4	SPRED		hov
+7	det		pron			8	FSUBJ		hov
+8	var		verb			4	KOORD		hov
+9	nå		adv			8	ADV		hov
+10	stort		adj			8	ADV		hov
+11	sitt		adv			10	ADV		hov
+12	nesten		adv			8	ADV		hov
+13	ikkje		adv			8	ADV		hov
+14	anna		det			15	DET		hov
+15	enn		sbu			18	SBU		hov
+16	berre		adv			18	ADV		hov
+17	vi		pron			18	REP		hov
+18	ly		adj			8	SPRED		hov
+19	i		prep			20	REP		hov
+20	i		prep			18	ADV		hov
+21	fjellet		subst			20	PUTFYLL		hov
+22	dei		pron			4	SLETT		hov
+
+# text = ja
+# segstart = 328.965
+# segstop = 329.551
+# file = nordli_uio_01
+# speaker = of
+# id = 55
+1	ja		interj			0	INTERJ		hov
+
+# text = og der var nå litt trasig å komme fram da når dei skulle køyre med hest
+# segstart = 331.931
+# segstop = 335.53
+# file = nordli_uio_01
+# speaker = of
+# id = 56
+1	og		konj			3	KONJ		hov
+2	der		prep			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	nå		adv			3	ADV		hov
+5	litt		adj			6	ADV		hov
+6	trasig		adj			3	SPRED		hov
+7	å		inf-merke			3	PSUBJ		hov
+8	komme		verb			7	INFV		hov
+9	fram		prep			8	ADV		hov
+10	da		adv			8	ADV		hov
+11	når		sbu			13	SBU		hov
+12	dei		pron			13	SUBJ		hov
+13	skulle		verb			8	ADV		hov
+14	køyre		verb			13	INFV		hov
+15	med		prep			14	ADV		hov
+16	hest		subst			15	PUTFYLL		hov
+
+# text = ja men så veit du i den tida var det litt trasig over til Sverige òg
+# segstart = 334.943
+# segstop = 339.7
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 57
+1	ja		interj			4	INTERJ		hov
+2	men		konj			4	KONJ		hov
+3	så		adv			4	ADV		hov
+4	veit		verb			0	FINV		hov
+5	du		pron			4	SUBJ		hov
+6	i		prep			9	ADV		hov
+7	den		det			8	DET		hov
+8	tida		subst			6	PUTFYLL		hov
+9	var		verb			4	DOBJ		hov
+10	det		pron			9	FSUBJ		hov
+11	litt		adj			12	ADV		hov
+12	trasig		adj			9	SPRED		hov
+13	over		prep			12	ADV		hov
+14	til		prep			13	PUTFYLL		hov
+15	Sverige		subst			14	PUTFYLL		hov
+16	òg		adv			9	ADV		hov
+
+# text = for at eg vil nå seie heilt ifrå Holand # og # på svenskesida så var det nå ikkje veg
+# segstart = 339.7
+# segstop = 346.295
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 58
+1	for		prep			4	ADV		hov
+2	at		sbu			4	SBU		hov
+3	eg		pron			4	SUBJ		hov
+4	vil		verb			0	FINV		hov
+5	nå		adv			6	ADV		hov
+6	seie		verb			4	INFV		hov
+7	heilt		adj			8	ADV		hov
+8	ifrå		prep			6	ADV		hov
+9	Holand		subst			8	PUTFYLL		hov
+10	#		pause			11	IK		hov
+11	og		konj			13	KONJ		hov
+12	#		pause			13	IK		hov
+13	på		prep			8	ADV		hov
+14	svenskesida		subst			13	PUTFYLL		hov
+15	så		adv			16	ADV		hov
+16	var		verb			6	DOBJ		hov
+17	det		pron			16	FSUBJ		hov
+18	nå		adv			16	ADV		hov
+19	ikkje		adv			16	ADV		hov
+20	veg		subst			16	SPRED		hov
+
+# text = det var nå berre nokre trekk for reinane så
+# segstart = 346.439
+# segstop = 349.48
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 59
+1	det		pron			2	FSUBJ		hov
+2	var		verb			0	FINV		hov
+3	nå		adv			2	ADV		hov
+4	berre		adv			2	ADV		hov
+5	nokre		det			6	DET		hov
+6	trekk		subst			2	SPRED		hov
+7	for		prep			6	ATR		hov
+8	reinane		subst			7	PUTFYLL		hov
+9	så		adv			2	ADV		hov
+
+# text = å ja
+# segstart = 349.47
+# segstop = 350.07
+# file = nordli_uio_01
+# speaker = of
+# id = 60
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = så det var nå ikkje brøyting eller noko sånt
+# segstart = 350.606
+# segstop = 353.448
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 61
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	nå		adv			3	ADV		hov
+5	ikkje		adv			3	ADV		hov
+6	brøyting		subst			3	SPRED		hov
+7	eller		konj			9	KONJ		hov
+8	noko		det			9	DET		hov
+9	sånt		pron			6	KOORD		hov
+
+# text = nei
+# segstart = 352.809
+# segstop = 353.385
+# file = nordli_uio_01
+# speaker = of
+# id = 62
+1	nei		interj			0	INTERJ		hov
+
+# text = men da var nå det likare ja han hadde nå iallfall brøyta vegen m- e imot fjella på andre sida
+# segstart = 354.172
+# segstop = 360.068
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 63
+1	men		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	var		verb			0	FINV		hov
+4	nå		adv			3	ADV		hov
+5	det		pron			3	FSUBJ		hov
+6	likare		adj			3	SPRED		hov
+7	ja		interj			9	INTERJ		hov
+8	han		pron			9	SUBJ		hov
+9	hadde		verb			3	KOORD		hov
+10	nå		adv			12	ADV		hov
+11	iallfall		adv			12	ADV		hov
+12	brøyta		verb			9	INFV		hov
+13	vegen		subst			12	DOBJ		hov
+14	m-		ufullst			16	FYLL		hov
+15	e		nol			16	FYLL		hov
+16	imot		prep			12	ADV		hov
+17	fjella		subst			16	PUTFYLL		hov
+18	på		prep			17	ATR		hov
+19	andre		det			20	DET		hov
+20	sida		subst			18	PUTFYLL		hov
+
+# text = ja
+# segstart = 359.893
+# segstop = 360.31
+# file = nordli_uio_01
+# speaker = of
+# id = 64
+1	ja		interj			0	INTERJ		hov
+
+# text = og likeins har dei nå brøyta veg oppi Sanddøldalen ifrå # Mortenslund det var nå heilt opp til # Sibir
+# segstart = 362.625
+# segstop = 369.779
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 65
+1	og		konj			3	KONJ		hov
+2	likeins		adj			6	ADV		hov
+3	har		verb			0	FINV		hov
+4	dei		pron			3	SUBJ		hov
+5	nå		adv			6	ADV		hov
+6	brøyta		verb			3	INFV		hov
+7	veg		subst			6	DOBJ		hov
+8	oppi		prep			6	ADV		hov
+9	Sanddøldalen		subst			8	PUTFYLL		hov
+10	ifrå		prep			9	ATR		hov
+11	#		pause			12	IK		hov
+12	Mortenslund		subst			10	PUTFYLL		hov
+13	det		pron			14	FSUBJ		hov
+14	var		verb			3	KOORD		hov
+15	nå		adv			14	ADV		hov
+16	heilt		adj			17	ADV		hov
+17	opp		prep			14	SPRED		hov
+18	til		prep			17	PUTFYLL		hov
+19	#		pause			20	IK		hov
+20	Sibir		subst			18	PUTFYLL		hov
+
+# text = det var # Stordalen # som vi sa
+# segstart = 370.506
+# segstop = 376.49
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 66
+1	det		pron			2	FSUBJ		hov
+2	var		verb			0	FINV		hov
+3	#		pause			4	IK		hov
+4	Stordalen		subst			2	SPRED		hov
+5	#		pause			6	IK		hov
+6	som		sbu			8	SBU		hov
+7	vi		pron			8	SUBJ		hov
+8	sa		verb			4	ATR		hov
+
+# text = mm
+# segstart = 374.222
+# segstop = 374.9
+# file = nordli_uio_01
+# speaker = of
+# id = 67
+1	mm		interj			0	INTERJ		hov
+
+# text = enn vø- du tala ved at han M1 hadde sånn mykje særskilte uttrykk kva det var for slags kar det han M1 ?
+# segstart = 377.964
+# segstop = 384.004
+# file = nordli_uio_01
+# speaker = of
+# id = 68
+1	enn		sbu			4	SBU		hov
+2	vø-		ufullst			3	FYLL		hov
+3	du		pron			4	SUBJ		hov
+4	tala		verb			0	FINV		hov
+5	ved		prep			4	ADV		hov
+6	at		sbu			9	SBU		hov
+7	han		pron			8	DET		hov
+8	M1		subst			9	SUBJ		hov
+9	hadde		verb			5	PUTFYLL		hov
+10	sånn		det			13	DET		hov
+11	mykje		adj			13	ADV		hov
+12	særskilte		adj			13	ATR		hov
+13	uttrykk		subst			9	DOBJ		hov
+14	kva		det			18	DET		hov
+15	det		pron			16	FSUBJ		hov
+16	var		verb			4	KOORD		hov
+17	for		prep			16	SPRED		hov
+18	slags		subst			19	DET		hov
+19	kar		subst			17	PUTFYLL		hov
+20	det		det			19	DET		hov
+21	han		pron			22	DET		hov
+22	M1		subst			19	APP		hov
+23	?		clb			4	IP		hov
+
+# text = ja det var jo var jo altså alminneleg bonde oppi
+# segstart = 383.793
+# segstop = 388.761
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 69
+1	ja		interj			5	INTERJ		hov
+2	det		pron			5	FSUBJ		hov
+3	var		verb			5	REP		hov
+4	jo		adv			3	ADV		hov
+5	var		verb			0	FINV		hov
+6	jo		adv			5	ADV		hov
+7	altså		adv			5	ADV		hov
+8	alminneleg		adj			9	ATR		hov
+9	bonde		subst			5	SPRED		hov
+10	oppi		prep			5	ADV		hov
+
+# text = ja
+# segstart = 388.915
+# segstop = 389.531
+# file = nordli_uio_01
+# speaker = of
+# id = 70
+1	ja		interj			0	INTERJ		hov
+
+# text = men sjø han e # det var nokre sånne e # merkelege ordtak han var nå alt mogleg
+# segstart = 389.636
+# segstop = 395.549
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 71
+1	men		konj			7	KONJ		hov
+2	sjø		adv			7	ADV		hov
+3	han		pron			6	SLETT		hov
+4	e		nol			6	FYLL		hov
+5	#		pause			6	IK		hov
+6	det		pron			7	FSUBJ		hov
+7	var		verb			0	FINV		hov
+8	nokre		det			13	DET		hov
+9	sånne		det			13	DET		hov
+10	e		nol			12	FYLL		hov
+11	#		pause			12	IK		hov
+12	merkelege		adj			13	ATR		hov
+13	ordtak		subst			7	SPRED		hov
+14	han		pron			15	SUBJ		hov
+15	var		verb			7	KOORD		hov
+16	nå		adv			15	ADV		hov
+17	alt		det			18	DET		hov
+18	mogleg		adj			15	SPRED		hov
+
+# text = og deriblant var han nå mykje godt los etter utlendingar # gjennom elgjakt og dei
+# segstart = 395.989
+# segstop = 401.796
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 72
+1	og		konj			3	KONJ		hov
+2	deriblant		adv			3	ADV		hov
+3	var		verb			0	FINV		hov
+4	han		pron			3	SUBJ		hov
+5	nå		adv			3	ADV		hov
+6	mykje		adj			7	ADV		hov
+7	godt		adj			8	ATR		hov
+8	los		subst			3	SPRED		hov
+9	etter		prep			8	ATR		hov
+10	utlendingar		subst			9	PUTFYLL		hov
+11	#		pause			12	IK		hov
+12	gjennom		prep			3	ADV		hov
+13	elgjakt		subst			12	PUTFYLL		hov
+14	og		konj			15	KONJ		hov
+15	dei		pron			13	KOORD		hov
+
+# text = jaha
+# segstart = 401.365
+# segstop = 402.172
+# file = nordli_uio_01
+# speaker = of
+# id = 73
+1	jaha		interj			0	INTERJ		hov
+
+# text = e så det var jo # mi- …
+# segstart = 403.178
+# segstop = 406.404
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 74
+1	e		nol			2	FYLL		hov
+2	så		konj			4	KONJ		hov
+3	det		pron			4	FSUBJ		hov
+4	var		verb			0	FINV		hov
+5	jo		adv			4	ADV		hov
+6	#		pause			4	IK		hov
+7	mi-		ufullst			4	FYLL		hov
+8	…		ellipsis			4	IK		hov
+
+# text = det kan ikkje vere det da du sa han brukte ordet « hyssje » for # for « enten eller » det kan ikkje vere at han har fått i
+# segstart = 406.053
+# segstop = 414.572
+# file = nordli_uio_01
+# speaker = of
+# id = 75
+1	det		pron			2	FSUBJ		hov
+2	kan		verb			0	FINV		hov
+3	ikkje		adv			4	ADV		hov
+4	vere		verb			2	INFV		hov
+5	det		pron			4	SPRED		hov
+6	da		sbu			8	SBU		hov
+7	du		pron			8	SUBJ		hov
+8	sa		verb			4	ADV		hov
+9	han		pron			10	SUBJ		hov
+10	brukte		verb			8	DOBJ		hov
+11	ordet		subst			10	DOBJ		hov
+12	«		anf		anf	13	IK		hov
+13	hyssje		verb			10	OPRED		hov
+14	»		anf		anf	13	IK		hov
+15	for		prep			17	REP		hov
+16	#		pause			17	IK		hov
+17	for		prep			23	ADV		hov
+18	«		anf		anf	19	IK		hov
+19	enten		konj			23	KONJ		hov
+20	eller		konj			19	KONJ		hov
+21	»		anf		anf	19	IK		hov
+22	det		pron			23	SUBJ		hov
+23	kan		verb			2	KOORD		hov
+24	ikkje		adv			25	ADV		hov
+25	vere		verb			23	INFV		hov
+26	at		sbu			28	SBU		hov
+27	han		pron			28	SUBJ		hov
+28	har		verb			25	SPRED		hov
+29	fått		verb			28	INFV		hov
+30	i		prep			29	ADV		hov
+
+# text = ja ja
+# segstart = 410.661
+# segstop = 411.683
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 76
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = ja # ja ja det har ikkje eg aning om eg men e
+# segstart = 412.411
+# segstop = 416.193
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 77
+1	ja		interj			6	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			6	INTERJ		hov
+4	ja		interj			6	INTERJ		hov
+5	det		pron			10	PUTFYLL		hov
+6	har		verb			0	FINV		hov
+7	ikkje		adv			6	ADV		hov
+8	eg		pron			6	SUBJ		hov
+9	aning		subst			6	DOBJ		hov
+10	om		prep			9	ATR		hov
+11	eg		pron			8	APP		hov
+12	men		konj			6	KONJ		hov
+13	e		nol			6	FYLL		hov
+
+# text = for det var det at eg syntest det var så rart at eg skulle høyre hjå han og ikkje hjå dei andre gamle der i det minste
+# segstart = 416.937
+# segstop = 423.503
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 78
+1	for		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	det		pron			3	SPRED		hov
+5	at		sbu			7	SBU		hov
+6	eg		pron			7	SUBJ		hov
+7	syntest		verb			3	ADV		hov
+8	det		pron			9	FSUBJ		hov
+9	var		verb			7	DOBJ		hov
+10	så		adv			11	ADV		hov
+11	rart		adj			9	SPRED		hov
+12	at		sbu			14	SBU		hov
+13	eg		pron			14	SUBJ		hov
+14	skulle		verb			9	ADV		hov
+15	høyre		verb			14	INFV		hov
+16	hjå		prep			15	ADV		hov
+17	han		pron			16	PUTFYLL		hov
+18	og		konj			20	KONJ		hov
+19	ikkje		adv			20	ADV		hov
+20	hjå		prep			16	KOORD		hov
+21	dei		det			23	DET		hov
+22	andre		det			23	DET		hov
+23	gamle		adj			20	PUTFYLL		hov
+24	der		prep			23	ADV		hov
+25	i		prep			23	ADV		hov
+26	det		det			27	DET		hov
+27	minste		adj			25	PUTFYLL		hov
+
+# text = ja
+# segstart = 423.064
+# segstop = 423.736
+# file = nordli_uio_01
+# speaker = of
+# id = 79
+1	ja		interj			0	INTERJ		hov
+
+# text = men e det er ingen annan eg har høyrt om e han M1 det eg kjem i hug da
+# segstart = 424.164
+# segstop = 429.79
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 80
+1	men		konj			4	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	ingen		det			6	DET		hov
+6	annan		det			4	SPRED		hov
+7	eg		pron			8	SUBJ		hov
+8	har		verb			6	ATR		hov
+9	høyrt		verb			8	INFV		hov
+10	om		prep			9	ADV		hov
+11	e		nol			13	FYLL		hov
+12	han		pron			13	DET		hov
+13	M1		subst			14	APP		hov
+14	det		pron			16	DOBJ		hov
+15	eg		pron			16	SUBJ		hov
+16	kjem		verb			4	KOORD		hov
+17	i		prep			16	ADV		hov
+18	hug		subst			17	PUTFYLL		hov
+19	da		adv			16	ADV		hov
+
+# text = nei
+# segstart = 429.351
+# segstop = 429.919
+# file = nordli_uio_01
+# speaker = of
+# id = 81
+1	nei		interj			0	INTERJ		hov
+
+# text = og da meiner du at det ordet « hyssje » som han nemnde var noko
+# segstart = 431.87
+# segstop = 436.103
+# file = nordli_uio_01
+# speaker = of
+# id = 82
+1	og		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	meiner		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	at		sbu			7	SBU		hov
+6	det		det			7	DET		hov
+7	ordet		subst			3	DOBJ		hov
+8	«		anf		anf	9	IK		hov
+9	hyssje		verb		|q|	7	ATR		hov
+10	»		anf		anf	9	IK		hov
+11	som		sbu			13	SBU		hov
+12	han		pron			13	SUBJ		hov
+13	nemnde		verb			7	ATR		hov
+14	var		verb			3	KOORD		hov
+15	noko		pron			14	SPRED		hov
+
+# text = enten eller
+# segstart = 436.137
+# segstop = 437.481
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 83
+1	enten		konj			0	FRAG		hov
+2	eller		konj			1	KONJ		hov
+
+# text = om- # omtrent « enten eller » ja
+# segstart = 436.2
+# segstop = 438.351
+# file = nordli_uio_01
+# speaker = of
+# id = 84
+1	om-		ufullst			3	REP		hov
+2	#		pause			3	IK		hov
+3	omtrent		adv			8	ADV		hov
+4	«		anf		anf	5	IK		hov
+5	enten		konj		|q|	8	KONJ		hov
+6	eller		konj		|q|	5	KONJ		hov
+7	»		anf		anf	5	IK		hov
+8	ja		interj			0	INTERJ		hov
+
+# text = ja # det er det det vart uttrykt sånn
+# segstart = 437.958
+# segstop = 441.359
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 85
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	det		pron			4	SPRED		hov
+6	det		pron			7	SUBJ		hov
+7	vart		verb			4	KOORD		hov
+8	uttrykt		verb			7	INFV		hov
+9	sånn		adv			8	ADV		hov
+
+# text = ja
+# segstart = 440.535
+# segstop = 441.289
+# file = nordli_uio_01
+# speaker = of
+# id = 86
+1	ja		interj			0	INTERJ		hov
+
+# text = e det var e ## det var « enten eller »
+# segstart = 441.519
+# segstop = 445.089
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 87
+1	e		nol			2	FYLL		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			7	REP		hov
+4	e		nol			6	FYLL		hov
+5	##		pause			6	IK		hov
+6	det		pron			7	FSUBJ		hov
+7	var		verb			0	FINV		hov
+8	«		anf		anf	9	IK		hov
+9	enten		konj		|q|	7	SPRED		hov
+10	eller		konj		|q|	9	KONJ		hov
+11	»		anf		anf	9	IK		hov
+
+# text = ja
+# segstart = 444.638
+# segstop = 445.31
+# file = nordli_uio_01
+# speaker = of
+# id = 88
+1	ja		interj			0	INTERJ		hov
+
+# text = vi seier « enten eller » # men e han sa « yssje » der
+# segstart = 446.806
+# segstop = 450.441
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 89
+1	vi		pron			2	SUBJ		hov
+2	seier		verb			0	FINV		hov
+3	«		anf		anf	4	IK		hov
+4	enten		konj		|q|	2	DOBJ		hov
+5	eller		konj		|q|	4	KONJ		hov
+6	»		anf		anf	4	IK		hov
+7	#		pause			8	IK		hov
+8	men		konj			11	KONJ		hov
+9	e		nol			10	FYLL		hov
+10	han		pron			11	SUBJ		hov
+11	sa		verb			2	KOORD		hov
+12	«		anf		anf	13	IK		hov
+13	yssje		konj		|q|	11	DOBJ		hov
+14	»		anf		anf	13	IK		hov
+15	der		prep			11	ADV		hov
+
+# text = ja
+# segstart = 450.489
+# segstop = 450.953
+# file = nordli_uio_01
+# speaker = of
+# id = 90
+1	ja		interj			0	INTERJ		hov
+
+# text = « hyssje »
+# segstart = 450.997
+# segstop = 451.702
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 91
+1	«		anf		anf	2	IK		hov
+2	hyssje		konj		|q|	0	FRAG		hov
+3	»		anf		anf	2	IK		hov
+
+# text = akkurat
+# segstart = 451.655
+# segstop = 452.393
+# file = nordli_uio_01
+# speaker = of
+# id = 92
+1	akkurat		adv			0	FRAG		hov
+
+# text = ja # e så det trur eg heilt sikkert at det var det
+# segstart = 452.386
+# segstop = 456.503
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 93
+1	ja		interj			6	INTERJ		hov
+2	#		pause			4	IK		hov
+3	e		nol			4	FYLL		hov
+4	så		adv			6	ADV		hov
+5	det		pron			6	DOBJ		hov
+6	trur		verb			0	FINV		hov
+7	eg		pron			6	SUBJ		hov
+8	heilt		adj			9	ADV		hov
+9	sikkert		adj			6	ADV		hov
+10	at		sbu			12	SBU		hov
+11	det		pron			12	FSUBJ		hov
+12	var		verb			5	APP		hov
+13	det		pron			12	SPRED		hov
+
+# text = og e # det tredje som ikkje eg høyrde var det der # når eit kvinnfolk var eit ordentleg rivjern da var ho ei "skurke"
+# segstart = 458.324
+# segstop = 467.745
+# file = nordli_uio_01
+# speaker = of
+# id = 94
+1	og		konj			10	KONJ		hov
+2	e		nol			4	FYLL		hov
+3	#		pause			4	IK		hov
+4	det		det			5	DET		hov
+5	tredje		adj			10	SPRED		hov
+6	som		sbu			9	SBU		hov
+7	ikkje		adv			9	ADV		hov
+8	eg		pron			9	SUBJ		hov
+9	høyrde		verb			5	ATR		hov
+10	var		verb			0	FINV		hov
+11	det		pron			10	FSUBJ		hov
+12	der		prep			11	ATR		hov
+13	#		pause			14	IK		hov
+14	når		sbu			17	SBU		hov
+15	eit		det			16	DET		hov
+16	kvinnfolk		subst			17	SUBJ		hov
+17	var		verb			10	ADV		hov
+18	eit		det			20	DET		hov
+19	ordentleg		adj			20	ATR		hov
+20	rivjern		subst			17	SPRED		hov
+21	da		adv			22	ADV		hov
+22	var		verb			17	ADV		hov
+23	ho		pron			22	SUBJ		hov
+24	ei		det			25	DET		hov
+25	"skurke"		subst			22	SPRED		hov
+
+# text = ja
+# segstart = 466.002
+# segstop = 466.669
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 95
+1	ja		interj			0	INTERJ		hov
+
+# text = skurke ja # ja
+# segstart = 466.994
+# segstop = 468.51
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 96
+1	skurke		subst			2	ADV		hov
+2	ja		interj			0	INTERJ		hov
+3	#		pause			4	IK		hov
+4	ja		interj			2	INTERJ		hov
+
+# text = men kvar det eigentleg kjem ifrå # det har ikkje eg noka aning om ja ikkje
+# segstart = 469.041
+# segstop = 474.279
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 97
+1	men		konj			5	KONJ		hov
+2	kvar		adv			5	ADV		hov
+3	det		pron			5	FSUBJ		hov
+4	eigentleg		adj			5	ADV		hov
+5	kjem		verb			0	FINV		hov
+6	ifrå		prep			5	ADV		hov
+7	#		pause			8	IK		hov
+8	det		pron			14	PUTFYLL		hov
+9	har		verb			5	KOORD		hov
+10	ikkje		adv			9	ADV		hov
+11	eg		pron			9	SUBJ		hov
+12	noka		det			13	DET		hov
+13	aning		subst			9	DOBJ		hov
+14	om		prep			13	ATR		hov
+15	ja		interj			5	INTERJ		hov
+16	ikkje		adv			5	ADV		hov
+
+# text = men e du veit det er jo mykje sånn da det er jo kan jo # vere berre og da men e # men e
+# segstart = 474.959
+# segstop = 482.19
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 98
+1	men		konj			4	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	du		pron			4	SUBJ		hov
+4	veit		verb			0	FINV		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			4	DOBJ		hov
+7	jo		adv			6	ADV		hov
+8	mykje		adj			6	SPRED		hov
+9	sånn		adv			8	ADV		hov
+10	da		adv			6	ADV		hov
+11	det		pron			14	FSUBJ		hov
+12	er		verb			14	REP		hov
+13	jo		adv			12	ADV		hov
+14	kan		verb			4	KOORD		hov
+15	jo		adv			17	ADV		hov
+16	#		pause			17	IK		hov
+17	vere		verb			14	INFV		hov
+18	berre		adv			17	ADV		hov
+19	og		konj			17	KONJ		hov
+20	da		adv			17	ADV		hov
+21	men		konj			24	REP		hov
+22	e		nol			24	FYLL		hov
+23	#		pause			24	IK		hov
+24	men		konj			4	KONJ		hov
+25	e		nol			4	FYLL		hov
+
+# text = men du høyrde fleire som brukte det ?
+# segstart = 481.589
+# segstop = 483.241
+# file = nordli_uio_01
+# speaker = of
+# id = 99
+1	men		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	høyrde		verb			0	FINV		hov
+4	fleire		adj			3	DOBJ		hov
+5	som		sbu			6	SBU		hov
+6	brukte		verb			4	ATR		hov
+7	det		pron			6	DOBJ		hov
+8	?		clb			3	IP		hov
+
+# text = ja #
+# segstart = 482.62
+# segstop = 485.62
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 100
+1	ja		interj			0	INTERJ		hov
+2	#		pause			1	IK		hov
+
+# text = ho F1 minnest du da vel til ?
+# segstart = 486.906
+# segstop = 491.5
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 101
+1	ho		pron			2	DET		hov
+2	F1		subst			3	DOBJ		hov
+3	minnest		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	da		adv			3	ADV		hov
+6	vel		adv			3	ADV		hov
+7	til		prep			3	ADV		hov
+8	?		clb			3	IP		hov
+
+# text = # ho som e flytta ål Leirbakken
+# segstart = 486.906
+# segstop = 491.5
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 102
+1	#		pause			2	IK		hov
+2	ho		pron			0	FRAG		hov
+3	som		sbu			5	SBU		hov
+4	e		nol			5	FYLL		hov
+5	flytta		verb			2	ATR		hov
+6	ål		prep			5	ADV		hov
+7	Leirbakken		subst			6	PUTFYLL		hov
+
+# text = ja
+# segstart = 491.114
+# segstop = 491.773
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 103
+1	ja		interj			0	INTERJ		hov
+
+# text = ja ho bruka da mykje seie sånn
+# segstart = 491.602
+# segstop = 494.651
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 104
+1	ja		interj			3	INTERJ		hov
+2	ho		pron			3	SUBJ		hov
+3	bruka		verb			0	FINV		hov
+4	da		adv			3	ADV		hov
+5	mykje		adj			3	ADV		hov
+6	seie		verb			3	SPRED		hov
+7	sånn		adv			6	ADV		hov
+
+# text = ja
+# segstart = 492.083
+# segstop = 492.682
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 105
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 494.33
+# segstop = 495.002
+# file = nordli_uio_01
+# speaker = of
+# id = 106
+1	ja		interj			0	INTERJ		hov
+
+# text = da ho F2 talte om # altså der # første gongen ho kom i hug at ho hadde bite seg fast i den der skurka det var
+# segstart = 495.324
+# segstop = 502.909
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 107
+1	da		sbu			4	SBU		hov
+2	ho		pron			3	DET		hov
+3	F2		subst			4	SUBJ		hov
+4	talte		verb			0	FINV		hov
+5	om		prep			4	ADV		hov
+6	#		pause			7	IK		hov
+7	altså		adv			4	ADV		hov
+8	der		prep			4	ADV		hov
+9	#		pause			10	IK		hov
+10	første		adj			11	ATR		hov
+11	gongen		subst			13	ADV		hov
+12	ho		pron			13	SUBJ		hov
+13	kom		verb			4	ADV		hov
+14	i		prep			13	ADV		hov
+15	hug		subst			14	PUTFYLL		hov
+16	at		sbu			18	SBU		hov
+17	ho		pron			18	SUBJ		hov
+18	hadde		verb			4	DOBJ		hov
+19	bite		verb			18	INFV		hov
+20	seg		pron			19	DOBJ		hov
+21	fast		adj			19	ADV		hov
+22	i		prep			19	ADV		hov
+23	den		det			25	DET		hov
+24	der		prep			25	ATR		hov
+25	skurka		subst			22	PUTFYLL		hov
+26	det		pron			27	SUBJ		hov
+27	var		verb			4	SLETT		hov
+
+# text = da F1 skulle ha sagt det om ho F3 # at det var ei skurke av eit kvinnfolk
+# segstart = 502.935
+# segstop = 508.441
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 108
+1	da		sbu			3	SBU		hov
+2	F1		subst			3	SUBJ		hov
+3	skulle		verb			0	FINV		hov
+4	ha		verb			3	INFV		hov
+5	sagt		verb			4	DOBJ		hov
+6	det		pron			5	DOBJ		hov
+7	om		prep			5	ADV		hov
+8	ho		pron			9	DET		hov
+9	F3		subst			7	PUTFYLL		hov
+10	#		pause			11	IK		hov
+11	at		sbu			13	SBU		hov
+12	det		pron			13	FSUBJ		hov
+13	var		verb			6	APP		hov
+14	ei		det			15	DET		hov
+15	skurke		subst			13	SPRED		hov
+16	av		prep			15	ATR		hov
+17	eit		det			18	DET		hov
+18	kvinnfolk		subst			16	PUTFYLL		hov
+
+# text = det var e ho F2 altså # det var første gongen ho har bite seg fast i det derre
+# segstart = 508.702
+# segstop = 513.529
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 109
+1	det		pron			2	FSUBJ		hov
+2	var		verb			0	FINV		hov
+3	e		nol			4	FYLL		hov
+4	ho		pron			5	DET		hov
+5	F2		subst			2	SPRED		hov
+6	altså		adv			2	ADV		hov
+7	#		pause			8	IK		hov
+8	det		pron			9	FSUBJ		hov
+9	var		verb			2	KOORD		hov
+10	første		adj			11	ATR		hov
+11	gongen		subst			9	SPRED		hov
+12	ho		pron			13	SUBJ		hov
+13	har		verb			11	ATR		hov
+14	bite		verb			13	INFV		hov
+15	seg		pron			14	DOBJ		hov
+16	fast		adj			15	ATR		hov
+17	i		prep			14	ADV		hov
+18	det		pron			17	PUTFYLL		hov
+19	derre		adv			18	ATR		hov
+
+# text = ja
+# segstart = 510.403
+# segstop = 511.155
+# file = nordli_uio_01
+# speaker = of
+# id = 110
+1	ja		interj			0	INTERJ		hov
+
+# text = og # eg # det eg tala om # det var altså det der tilfellet uti Haugen
+# segstart = 514.129
+# segstop = 519.25
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 111
+1	og		konj			7	KONJ		hov
+2	#		pause			3	IK		hov
+3	eg		pron			6	REP		hov
+4	#		pause			5	IK		hov
+5	det		pron			8	PUTFYLL		hov
+6	eg		pron			7	SUBJ		hov
+7	tala		verb			0	FINV		hov
+8	om		prep			7	ADV		hov
+9	#		pause			10	IK		hov
+10	det		pron			11	FSUBJ		hov
+11	var		verb			7	KOORD		hov
+12	altså		adv			11	ADV		hov
+13	det		det			15	DET		hov
+14	der		prep			13	ADV		hov
+15	tilfellet		subst			11	SPRED		hov
+16	uti		prep			15	ATR		hov
+17	Haugen		subst			16	PUTFYLL		hov
+
+# text = det begynte å bite meg fast i men eg høyrde nå fleire stykke av dei gamle som bruka det der skurknamnet
+# segstart = 519.257
+# segstop = 525.3
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 112
+1	det		pron			2	FSUBJ		hov
+2	begynte		verb			0	FINV		hov
+3	å		inf-merke			2	DOBJ		hov
+4	bite		verb			3	INFV		hov
+5	meg		pron			4	DOBJ		hov
+6	fast		adj			4	ADV		hov
+7	i		prep			4	ADV		hov
+8	men		konj			10	KONJ		hov
+9	eg		pron			10	SUBJ		hov
+10	høyrde		verb			2	KOORD		hov
+11	nå		adv			10	ADV		hov
+12	fleire		adj			13	ATR		hov
+13	stykke		subst			10	DOBJ		hov
+14	av		prep			12	ADV		hov
+15	dei		det			16	DET		hov
+16	gamle		subst			14	PUTFYLL		hov
+17	som		sbu			18	SBU		hov
+18	bruka		verb			16	ATR		hov
+19	det		det			21	DET		hov
+20	der		prep			19	ADV		hov
+21	skurknamnet		subst			18	DOBJ		hov
+
+# text = ja
+# segstart = 525.078
+# segstop = 525.566
+# file = nordli_uio_01
+# speaker = of
+# id = 113
+1	ja		interj			0	INTERJ		hov
+
+# text = og kva det eigentleg betydde da det # ja måtte nå vere eit rivjern
+# segstart = 525.917
+# segstop = 529.8
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 114
+1	og		konj			5	KONJ		hov
+2	kva		det			5	DOBJ		hov
+3	det		pron			5	SUBJ		hov
+4	eigentleg		adj			5	ADV		hov
+5	betydde		verb			0	FINV		hov
+6	da		adv			5	ADV		hov
+7	det		pron			10	SUBJ		hov
+8	#		pause			9	IK		hov
+9	ja		interj			10	INTERJ		hov
+10	måtte		verb			5	KOORD		hov
+11	nå		adv			12	ADV		hov
+12	vere		verb			10	INFV		hov
+13	eit		det			14	DET		hov
+14	rivjern		subst			12	SPRED		hov
+
+# text = ja
+# segstart = 527.705
+# segstop = 530.367
+# file = nordli_uio_01
+# speaker = of
+# id = 115
+1	ja		interj			0	INTERJ		hov
+
+# text = ettersom e vi seier men e # men kva det var henta ifrå det har ikkje ei aning
+# segstart = 529.816
+# segstop = 536.106
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 116
+1	ettersom		sbu			4	SBU		hov
+2	e		nol			3	FYLL		hov
+3	vi		pron			4	SUBJ		hov
+4	seier		verb			11	SLETT		hov
+5	men		konj			8	REP		hov
+6	e		nol			8	FYLL		hov
+7	#		pause			8	IK		hov
+8	men		konj			11	KONJ		hov
+9	kva		det			13	PUTFYLL		hov
+10	det		pron			11	FSUBJ		hov
+11	var		verb			0	FINV		hov
+12	henta		verb			11	INFV		hov
+13	ifrå		prep			12	ADV		hov
+14	det		pron			15	SUBJ		hov
+15	har		verb			11	KOORD		hov
+16	ikkje		adv			15	ADV		hov
+17	ei		det			18	DET		hov
+18	aning		subst			15	DOBJ		hov
+
+# text = nei det kan nå ikkje ha noko med skurk å gjere
+# segstart = 535.921
+# segstop = 537.781
+# file = nordli_uio_01
+# speaker = of
+# id = 117
+1	nei		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	kan		verb			0	FINV		hov
+4	nå		adv			6	ADV		hov
+5	ikkje		adv			6	ADV		hov
+6	ha		verb			3	INFV		hov
+7	noko		pron			6	DOBJ		hov
+8	med		prep			11	ADV		hov
+9	skurk		subst			8	PUTFYLL		hov
+10	å		inf-merke			7	ATR		hov
+11	gjere		verb			10	INFV		hov
+
+# text = nei langt ifrå
+# segstart = 537.629
+# segstop = 539.324
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 118
+1	nei		interj			0	INTERJ		hov
+2	langt		adj			3	ADV		hov
+3	ifrå		prep			1	ADV		hov
+
+# text = og så noko som vi synest er artig og som har komme bort nå det er at e # dei har kvinnfolka har karnamna
+# segstart = 542.582
+# segstop = 550.685
+# file = nordli_uio_01
+# speaker = of
+# id = 119
+1	og		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	noko		pron			15	APP		hov
+4	som		sbu			6	SBU		hov
+5	vi		pron			6	SUBJ		hov
+6	synest		verb			3	ATR		hov
+7	er		verb			6	DOBJ		hov
+8	artig		adj			7	SPRED		hov
+9	og		konj			11	KONJ		hov
+10	som		sbu			11	SBU		hov
+11	har		verb			7	KOORD		hov
+12	komme		verb			11	INFV		hov
+13	bort		prep			12	ADV		hov
+14	nå		adv			12	ADV		hov
+15	det		pron			16	SUBJ		hov
+16	er		verb			0	FINV		hov
+17	at		sbu			23	SBU		hov
+18	e		nol			20	FYLL		hov
+19	#		pause			20	IK		hov
+20	dei		pron			21	SUBJ		hov
+21	har		verb			23	REP		hov
+22	kvinnfolka		subst			23	SUBJ		hov
+23	har		verb			16	SPRED		hov
+24	karnamna		subst			23	DOBJ		hov
+
+# text = ja
+# segstart = 551.636
+# segstop = 552.244
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 120
+1	ja		interj			0	INTERJ		hov
+
+# text = som kor dei blei gjorde kjende med at dei er kjerringa hans Per må heite Per-Gitta og sånn
+# segstart = 552.11
+# segstop = 557.706
+# file = nordli_uio_01
+# speaker = of
+# id = 121
+1	som		sbu			4	SBU		hov
+2	kor		adv			4	ADV		hov
+3	dei		pron			4	SUBJ		hov
+4	blei		verb			0	FINV		hov
+5	gjorde		verb			4	INFV		hov
+6	kjende		adj			5	SPRED		hov
+7	med		prep			6	ADV		hov
+8	at		sbu			10	SBU		hov
+9	dei		pron			10	SUBJ		hov
+10	er		verb			7	PUTFYLL		hov
+11	kjerringa		subst			14	SUBJ		hov
+12	hans		det			13	DET		hov
+13	Per		subst			11	DET		hov
+14	må		verb			10	SPRED		hov
+15	heite		verb			14	INFV		hov
+16	Per-Gitta		subst			15	DOBJ		hov
+17	og		konj			14	KONJ		hov
+18	sånn		adv			17	ADV		hov
+
+# text = det det var bra artig da vi var på N1-skolen i einogtjue så # han e M2
+# segstart = 557.524
+# segstop = 564.465
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 122
+1	det		pron			2	REP		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	bra		adj			5	ADV		hov
+5	artig		adj			3	SPRED		hov
+6	da		sbu			8	SBU		hov
+7	vi		pron			8	SUBJ		hov
+8	var		verb			3	ADV		hov
+9	på		prep			8	SPRED		hov
+10	N1-skolen		subst			9	PUTFYLL		hov
+11	i		prep			8	ADV		hov
+12	einogtjue		det			11	PUTFYLL		hov
+13	så		adv			17	ADV		hov
+14	#		pause			15	IK		hov
+15	han		pron			17	DET		hov
+16	e		nol			17	FYLL		hov
+17	M2		subst			8	ADV		hov
+
+# text = han e dreiv og samla til sei sånn # dei her e mykje gode bygdeuttrykk
+# segstart = 564.921
+# segstop = 571.11
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 123
+1	han		pron			3	SUBJ		hov
+2	e		nol			3	FYLL		hov
+3	dreiv		verb			0	FINV		hov
+4	og		konj			5	KONJ		hov
+5	samla		verb			3	KOORD		hov
+6	til		prep			5	ADV		hov
+7	sei		verb			5	ADV		hov
+8	sånn		adv			7	ADV		hov
+9	#		pause			10	IK		hov
+10	dei		pron			6	PUTFYLL		hov
+11	her		prep			10	ATR		hov
+12	e		nol			13	FYLL		hov
+13	mykje		adj			14	ADV		hov
+14	gode		adj			15	ATR		hov
+15	bygdeuttrykk		subst			5	DOBJ		hov
+
+# text = han lo vel alltid veldig godt åt det herre vi sa "Olehansaberetmarja"
+# segstart = 571.119
+# segstop = 580.06
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 124
+1	han		pron			2	SUBJ		hov
+2	lo		verb			0	FINV		hov
+3	vel		adv			2	ADV		hov
+4	alltid		adv			2	ADV		hov
+5	veldig		adj			6	ADV		hov
+6	godt		adj			2	FSPRED		hov
+7	åt		prep			2	ADV		hov
+8	det		pron			7	PUTFYLL		hov
+9	herre		adv			8	ATR		hov
+10	vi		pron			11	SUBJ		hov
+11	sa		verb			2	KOORD		hov
+12	"Olehansaberetmarja"		subst			11	DOBJ		hov
+
+# text = det syntest han var e eit bra namn # "Olehansaberetmaria"
+# segstart = 580.141
+# segstop = 585.853
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 125
+1	det		pron			2	FSUBJ		hov
+2	syntest		verb			0	FINV		hov
+3	han		pron			4	SUBJ		hov
+4	var		verb			2	DOBJ		hov
+5	e		nol			6	FYLL		hov
+6	eit		det			8	DET		hov
+7	bra		adj			8	ATR		hov
+8	namn		subst			4	SPRED		hov
+9	#		pause			10	IK		hov
+10	"Olehansaberetmaria"		subst			8	APP		hov
+
+# text = men før var det mykje godt at har vorte sagt det
+# segstart = 586.128
+# segstop = 590.488
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 126
+1	men		konj			3	KONJ		hov
+2	før		prep			10	ADV		hov
+3	var		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	mykje		adj			6	ATR		hov
+6	godt		adj			3	SPRED		hov
+7	at		sbu			8	SBU		hov
+8	har		verb			3	ADV		hov
+9	vorte		verb			8	INFV		hov
+10	sagt		verb			9	INFV		hov
+11	det		pron			2	PUTFYLL		hov
+
+# text = ja eg høyrde ein gong
+# segstart = 590.16
+# segstop = 591.869
+# file = nordli_uio_01
+# speaker = of
+# id = 127
+1	ja		interj			3	INTERJ		hov
+2	eg		pron			3	SUBJ		hov
+3	høyrde		verb			0	FINV		hov
+4	ein		det			5	DET		hov
+5	gong		subst			3	ADV		hov
+
+# text = e ja da
+# segstart = 591.077
+# segstop = 593.085
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 128
+1	e		nol			2	FYLL		hov
+2	ja		interj			0	INTERJ		hov
+3	da		adv			2	ADV		hov
+
+# text = men du store min kva han gjekk der og lo av
+# segstart = 593.642
+# segstop = 596.479
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 129
+1	men		konj			2	KONJ		hov
+2	du		pron			7	ADV		hov
+3	store		adj			2	ATR		hov
+4	min		det			3	DET		hov
+5	kva		pron			11	PUTFYLL		hov
+6	han		pron			7	SUBJ		hov
+7	gjekk		verb			0	FINV		hov
+8	der		prep			7	ADV		hov
+9	og		konj			10	KONJ		hov
+10	lo		verb			7	KOORD		hov
+11	av		prep			10	ADV		hov
+
+# text = ja
+# segstart = 595.503
+# segstop = 596.191
+# file = nordli_uio_01
+# speaker = of
+# id = 130
+1	ja		interj			0	INTERJ		hov
+
+# text = og så når det var nå ein gong riktig umogleg da så var eg vel
+# segstart = 596.634
+# segstop = 602.717
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 131
+1	og		konj			5	KONJ		hov
+2	så		adv			5	ADV		hov
+3	når		sbu			5	SBU		hov
+4	det		pron			5	FSUBJ		hov
+5	var		verb			12	APP		hov
+6	nå		adv			5	ADV		hov
+7	ein		det			8	DET		hov
+8	gong		subst			5	ADV		hov
+9	riktig		adj			10	ADV		hov
+10	umogleg		adj			5	SPRED		hov
+11	da		adv			5	ADV		hov
+12	så		adv			13	ADV		hov
+13	var		verb			0	FINV		hov
+14	eg		pron			13	SUBJ		hov
+15	vel		adv			13	ADV		hov
+
+# text = det der var nå vel laga for at det skulle bli litt lettvint å finne att dei og sånn når det vart # mange som heitte Ole så måtte det nå bli Olehansa og sånn
+# segstart = 602.122
+# segstop = 611.159
+# file = nordli_uio_01
+# speaker = of
+# id = 132
+1	det		pron			3	FSUBJ		hov
+2	der		prep			1	ATR		hov
+3	var		verb			0	FINV		hov
+4	nå		adv			6	ADV		hov
+5	vel		adv			6	ADV		hov
+6	laga		verb			3	INFV		hov
+7	for		prep			6	ADV		hov
+8	at		sbu			10	SBU		hov
+9	det		pron			10	FSUBJ		hov
+10	skulle		verb			7	PUTFYLL		hov
+11	bli		verb			10	INFV		hov
+12	litt		adj			13	ADV		hov
+13	lettvint		adj			11	SPRED		hov
+14	å		inf-merke			13	ADV		hov
+15	finne		verb			14	INFV		hov
+16	att		prep			15	ADV		hov
+17	dei		pron			15	DOBJ		hov
+18	og		konj			15	KONJ		hov
+19	sånn		adv			18	ADV		hov
+20	når		sbu			22	SBU		hov
+21	det		pron			22	FSUBJ		hov
+22	vart		verb			15	ADV		hov
+23	#		pause			24	IK		hov
+24	mange		adj			22	SPRED		hov
+25	som		sbu			26	SBU		hov
+26	heitte		verb			24	ATR		hov
+27	Ole		subst			26	DOBJ		hov
+28	så		adv			32	ADV		hov
+29	måtte		verb			3	KOORD		hov
+30	det		pron			29	FSUBJ		hov
+31	nå		adv			32	ADV		hov
+32	bli		verb			29	INFV		hov
+33	Olehansa		subst			32	SPRED		hov
+34	og		konj			35	KONJ		hov
+35	sånn		adv			32	ADV		hov
+
+# text = ja # ja
+# segstart = 606.169
+# segstop = 608.441
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 133
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = ja
+# segstart = 610.477
+# segstop = 611.4
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 134
+1	ja		interj			0	INTERJ		hov
+
+# text = og så var det eit anna utrykk han hadde høyrt
+# segstart = 612.976
+# segstop = 616.117
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 135
+1	og		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	var		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	eit		det			7	DET		hov
+6	anna		det			7	DET		hov
+7	utrykk		subst			3	SPRED		hov
+8	han		pron			9	SUBJ		hov
+9	hadde		verb			7	ATR		hov
+10	høyrt		verb			9	INFV		hov
+
+# text = men det har ikkje eg høyrt før enn veit du dei tala i det men han sa det at
+# segstart = 616.121
+# segstop = 620.588
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 136
+1	men		konj			3	KONJ		hov
+2	det		pron			6	DOBJ		hov
+3	har		verb			0	FINV		hov
+4	ikkje		adv			6	ADV		hov
+5	eg		pron			3	SUBJ		hov
+6	høyrt		verb			3	INFV		hov
+7	før		prep			6	ADV		hov
+8	enn		prep			7	ADV		hov
+9	veit		verb			3	PAR		hov
+10	du		pron			9	SUBJ		hov
+11	dei		pron			12	SUBJ		hov
+12	tala		verb			7	PUTFYLL		hov
+13	i		prep			12	ADV		hov
+14	det		pron			13	PUTFYLL		hov
+15	men		konj			17	KONJ		hov
+16	han		pron			17	SUBJ		hov
+17	sa		verb			3	KOORD		hov
+18	det		pron			17	DOBJ		hov
+19	at		sbu			17	ADV		hov
+
+# text = ja han hadde høyrt det var vorte uttrykt han "Hans hans Hanshansa"
+# segstart = 621.07
+# segstop = 629.441
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 137
+1	ja		interj			3	INTERJ		hov
+2	han		pron			3	SUBJ		hov
+3	hadde		verb			0	FINV		hov
+4	høyrt		verb			3	INFV		hov
+5	det		pron			6	FSUBJ		hov
+6	var		verb			4	DOBJ		hov
+7	vorte		verb			6	INFV		hov
+8	uttrykt		verb			7	SPRED		hov
+9	han		pron			12	REP		hov
+10	"Hans		subst			12	REP		hov
+11	hans		subst			12	REP		hov
+12	Hanshansa"		subst			8	DOBJ		hov
+
+# text = # men det har ikkje eg høyrt før
+# segstart = 629.451
+# segstop = 634.026
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 138
+1	#		pause			2	IK		hov
+2	men		konj			4	KONJ		hov
+3	det		pron			7	DOBJ		hov
+4	har		verb			0	FINV		hov
+5	ikkje		adv			7	ADV		hov
+6	eg		pron			4	SUBJ		hov
+7	høyrt		verb			4	INFV		hov
+8	før		prep			7	ADV		hov
+
+# text = men det var heilt sikkert at det var
+# segstart = 634.697
+# segstop = 637.081
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 139
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	heilt		adj			5	ADV		hov
+5	sikkert		adj			3	SPRED		hov
+6	at		sbu			8	SBU		hov
+7	det		pron			8	SUBJ		hov
+8	var		verb			5	ADV		hov
+
+# text = jo da det er nå # mykje seier sånn som
+# segstart = 637.737
+# segstop = 642.627
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 140
+1	jo		interj			4	INTERJ		hov
+2	da		adv			4	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	nå		adv			4	ADV		hov
+6	#		pause			7	IK		hov
+7	mykje		adj			8	ADV		hov
+8	seier		verb			4	SPRED		hov
+9	sånn		adv			8	ADV		hov
+10	som		sbu			8	SBU		hov
+
+# text = når vi seier # « pipe » # og # « tjone » # og forskjellige ord med lange vokalar så er det sånn # sånn tydeleg dobbeltvokal på # på den der # eine vokalen som er vorten igjen da
+# segstart = 645.603
+# segstop = 663.309
+# file = nordli_uio_01
+# speaker = of
+# id = 141
+1	når		sbu			3	SBU		hov
+2	vi		pron			3	SUBJ		hov
+3	seier		verb			21	APP		hov
+4	#		pause			6	IK		hov
+5	«		anf		anf	6	IK		hov
+6	pipe		subst		|q|	3	DOBJ		hov
+7	»		anf		anf	6	IK		hov
+8	#		pause			9	IK		hov
+9	og		konj			12	KONJ		hov
+10	#		pause			12	IK		hov
+11	«		anf		anf	12	IK		hov
+12	tjone		verb		|q|	3	KOORD		hov
+13	»		anf		anf	12	IK		hov
+14	#		pause			15	IK		hov
+15	og		konj			17	KONJ		hov
+16	forskjellige		adj			17	ATR		hov
+17	ord		subst			3	KOORD		hov
+18	med		prep			17	ATR		hov
+19	lange		adj			20	ATR		hov
+20	vokalar		subst			18	PUTFYLL		hov
+21	så		adv			22	ADV		hov
+22	er		verb			0	FINV		hov
+23	det		pron			22	FSUBJ		hov
+24	sånn		det			26	REP		hov
+25	#		pause			26	IK		hov
+26	sånn		det			28	DET		hov
+27	tydeleg		adj			28	ATR		hov
+28	dobbeltvokal		subst			22	SPRED		hov
+29	på		prep			31	REP		hov
+30	#		pause			31	IK		hov
+31	på		prep			28	ATR		hov
+32	den		pron			31	PUTFYLL		hov
+33	der		prep			32	ATR		hov
+34	#		pause			35	IK		hov
+35	eine		det			36	DET		hov
+36	vokalen		subst			32	ATR		hov
+37	som		sbu			38	SBU		hov
+38	er		verb			36	ATR		hov
+39	vorten		adj			38	SPRED		hov
+40	igjen		adv			38	ADV		hov
+41	da		adv			22	ADV		hov
+
+# text = ja
+# segstart = 663.487
+# segstop = 664.147
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 142
+1	ja		interj			0	INTERJ		hov
+
+# text = men # har du inntrykk av det at # ord som ikkje er så lang vokal på for eksempel som # « bra » # « glad »
+# segstart = 664.132
+# segstop = 672.264
+# file = nordli_uio_01
+# speaker = of
+# id = 143
+1	men		konj			3	KONJ		hov
+2	#		pause			3	IK		hov
+3	har		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	inntrykk		subst			3	DOBJ		hov
+6	av		prep			5	ATR		hov
+7	det		pron			6	PUTFYLL		hov
+8	at		sbu			13	SBU		hov
+9	#		pause			10	IK		hov
+10	ord		subst			13	SUBJ		hov
+11	som		sbu			13	SBU		hov
+12	ikkje		adv			13	ADV		hov
+13	er		verb			7	APP		hov
+14	så		adv			15	ADV		hov
+15	lang		adj			16	ADV		hov
+16	vokal		adj			13	SPRED		hov
+17	på		prep			16	ADV		hov
+18	for		prep			13	ADV		hov
+19	eksempel		subst			18	PUTFYLL		hov
+20	som		sbu			23	ADV		hov
+21	#		pause			23	IK		hov
+22	«		anf		anf	23	IK		hov
+23	bra		adj		|q|	19	ATR		hov
+24	»		anf		anf	23	IK		hov
+25	#		pause			27	IK		hov
+26	«		anf		anf	27	IK		hov
+27	glad		adj		|q|	23	KOORD		hov
+28	»		anf		anf	27	IK		hov
+
+# text = ja
+# segstart = 672.5
+# segstop = 673.088
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 144
+1	ja		interj			0	INTERJ		hov
+
+# text = det e dei skulle ikkje hatt sånn dobbeltvokal men # har ikkje du òg inntrykk av det at det det er same lyden der ?
+# segstart = 673.399
+# segstop = 680.729
+# file = nordli_uio_01
+# speaker = of
+# id = 145
+1	det		pron			3	REP		hov
+2	e		nol			3	FYLL		hov
+3	dei		pron			4	SUBJ		hov
+4	skulle		verb			0	FINV		hov
+5	ikkje		adv			6	ADV		hov
+6	hatt		verb			4	INFV		hov
+7	sånn		det			8	DET		hov
+8	dobbeltvokal		subst			6	DOBJ		hov
+9	men		konj			11	KONJ		hov
+10	#		pause			11	IK		hov
+11	har		verb			4	KOORD		hov
+12	ikkje		adv			11	ADV		hov
+13	du		pron			11	SUBJ		hov
+14	òg		adv			11	ADV		hov
+15	inntrykk		subst			11	DOBJ		hov
+16	av		prep			15	ATR		hov
+17	det		pron			16	PUTFYLL		hov
+18	at		sbu			21	SBU		hov
+19	det		pron			20	REP		hov
+20	det		pron			21	FSUBJ		hov
+21	er		verb			17	APP		hov
+22	same		det			23	DET		hov
+23	lyden		subst			21	SPRED		hov
+24	der		prep			21	ADV		hov
+25	?		clb			4	IP		hov
+
+# text = jo # akkurat # e sjå det e som for eksempel Brattli
+# segstart = 680.634
+# segstop = 685.713
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 146
+1	jo		interj			6	INTERJ		hov
+2	#		pause			3	IK		hov
+3	akkurat		adv			6	ADV		hov
+4	#		pause			6	IK		hov
+5	e		nol			6	FYLL		hov
+6	sjå		verb			0	FINV		hov
+7	det		pron			6	FSUBJ		hov
+8	e		nol			9	FYLL		hov
+9	som		sbu			10	ADV		hov
+10	for		prep			6	ADV		hov
+11	eksempel		subst			10	PUTFYLL		hov
+12	Brattli		subst			11	ATR		hov
+
+# text = ja
+# segstart = 686.16
+# segstop = 686.721
+# file = nordli_uio_01
+# speaker = of
+# id = 147
+1	ja		interj			0	INTERJ		hov
+
+# text = fakta er det at e # det skulle vel ha vore skrive med ein t
+# segstart = 686.693
+# segstop = 692.902
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 148
+1	fakta		subst			2	SPRED		hov
+2	er		verb			0	FINV		hov
+3	det		pron			2	FSUBJ		hov
+4	at		sbu			8	SBU		hov
+5	e		nol			7	FYLL		hov
+6	#		pause			7	IK		hov
+7	det		pron			8	FSUBJ		hov
+8	skulle		verb			2	PSUBJ		hov
+9	vel		adv			10	ADV		hov
+10	ha		verb			8	INFV		hov
+11	vore		verb			10	INFV		hov
+12	skrive		verb			11	INFV		hov
+13	med		prep			12	ADV		hov
+14	ein		det			15	DET		hov
+15	t		subst			13	PUTFYLL		hov
+
+# text = men da blir det « Brattli » da # men sjø namnet i seg sjølv det er jo Brattli
+# segstart = 693.093
+# segstop = 698.909
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 149
+1	men		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	blir		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	«		anf		anf	6	IK		hov
+6	Brattli		subst		|q|	3	SPRED		hov
+7	»		anf		anf	6	IK		hov
+8	da		adv			3	ADV		hov
+9	#		pause			10	IK		hov
+10	men		konj			17	KONJ		hov
+11	sjø		adv			12	SLETT		hov
+12	namnet		subst			16	APP		hov
+13	i		prep			12	ATR		hov
+14	seg		pron			13	PUTFYLL		hov
+15	sjølv		adv			14	ATR		hov
+16	det		pron			17	FSUBJ		hov
+17	er		verb			3	KOORD		hov
+18	jo		adv			17	ADV		hov
+19	Brattli		subst			17	SPRED		hov
+
+# text = ja
+# segstart = 694.929
+# segstop = 695.586
+# file = nordli_uio_01
+# speaker = of
+# id = 150
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 698.861
+# segstop = 699.285
+# file = nordli_uio_01
+# speaker = of
+# id = 151
+1	ja		interj			0	INTERJ		hov
+
+# text = ja # og da blir det til det at du må bruke to t-ar # elles så # så får du ikkje « bratt »
+# segstart = 699.334
+# segstop = 704.937
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 152
+1	ja		interj			5	INTERJ		hov
+2	#		pause			3	IK		hov
+3	og		konj			5	KONJ		hov
+4	da		adv			5	ADV		hov
+5	blir		verb			0	FINV		hov
+6	det		pron			5	FSUBJ		hov
+7	til		prep			5	SPRED		hov
+8	det		pron			7	PUTFYLL		hov
+9	at		sbu			11	SBU		hov
+10	du		pron			11	SUBJ		hov
+11	må		verb			8	APP		hov
+12	bruke		verb			11	INFV		hov
+13	to		det			14	DET		hov
+14	t-ar		subst			12	DOBJ		hov
+15	#		pause			16	IK		hov
+16	elles		adv			20	ADV		hov
+17	så		adv			19	REP		hov
+18	#		pause			19	IK		hov
+19	så		adv			20	ADV		hov
+20	får		verb			12	ADV		hov
+21	du		pron			20	SUBJ		hov
+22	ikkje		adv			20	ADV		hov
+23	«		anf		anf	24	IK		hov
+24	bratt		adj		|q|	20	SPRED		hov
+25	»		anf		anf	24	IK		hov
+
+# text = ja
+# segstart = 701.903
+# segstop = 702.543
+# file = nordli_uio_01
+# speaker = of
+# id = 153
+1	ja		interj			0	INTERJ		hov
+
+# text = nei
+# segstart = 704.881
+# segstop = 705.489
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 154
+1	nei		interj			0	INTERJ		hov
+
+# text = det blir « Brattli » da
+# segstart = 705.719
+# segstop = 707.313
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 155
+1	det		pron			2	FSUBJ		hov
+2	blir		verb			0	FINV		hov
+3	«		anf		anf	4	IK		hov
+4	Brattli		subst		|q|	2	SPRED		hov
+5	»		anf		anf	4	IK		hov
+6	da		adv			2	ADV		hov
+
+# text = ja da # sånn det er
+# segstart = 718.921
+# segstop = 721.581
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 156
+1	ja		interj			6	INTERJ		hov
+2	da		adv			6	ADV		hov
+3	#		pause			4	IK		hov
+4	sånn		adv			6	SPRED		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+
+# text = nei som # vi har ein del ord # på a # som « dag » og « fat » # om # om du les dei så blir det litt # blir ei litt anna stemme enn min og # om du les det her som du har vilja lese dei så får du nå kanskje høyre på bandet
+# segstart = 722.837
+# segstop = 743.022
+# file = nordli_uio_01
+# speaker = of
+# id = 157
+1	nei		interj			5	INTERJ		hov
+2	som		sbu			5	SBU		hov
+3	#		pause			4	IK		hov
+4	vi		pron			5	SUBJ		hov
+5	har		verb			0	FINV		hov
+6	ein		det			7	DET		hov
+7	del		subst			8	ATR		hov
+8	ord		subst			5	DOBJ		hov
+9	#		pause			10	IK		hov
+10	på		prep			8	ATR		hov
+11	a		subst			10	PUTFYLL		hov
+12	#		pause			13	IK		hov
+13	som		sbu			15	SBU		hov
+14	«		anf		anf	15	IK		hov
+15	dag		subst		|q|	8	ATR		hov
+16	»		anf		anf	15	IK		hov
+17	og		konj			19	KONJ		hov
+18	«		anf		anf	19	IK		hov
+19	fat		subst		|q|	15	KOORD		hov
+20	»		anf		anf	19	IK		hov
+21	#		pause			22	IK		hov
+22	om		sbu			24	REP		hov
+23	#		pause			24	IK		hov
+24	om		sbu			26	SBU		hov
+25	du		pron			26	SUBJ		hov
+26	les		verb			28	APP		hov
+27	dei		pron			26	DOBJ		hov
+28	så		adv			33	ADV		hov
+29	blir		verb			33	REP		hov
+30	det		pron			29	FSUBJ		hov
+31	litt		adj			29	ADV		hov
+32	#		pause			33	IK		hov
+33	blir		verb			5	KOORD		hov
+34	ei		det			37	DET		hov
+35	litt		adj			36	ADV		hov
+36	anna		det			37	DET		hov
+37	stemme		subst			33	SPRED		hov
+38	enn		prep			37	ATR		hov
+39	min		det			38	PUTFYLL		hov
+40	og		konj			44	KONJ		hov
+41	#		pause			42	IK		hov
+42	om		sbu			44	SBU		hov
+43	du		pron			44	SUBJ		hov
+44	les		verb			53	APP		hov
+45	det		pron			44	DOBJ		hov
+46	her		prep			45	ATR		hov
+47	som		sbu			49	SBU		hov
+48	du		pron			49	SUBJ		hov
+49	har		verb			45	ATR		hov
+50	vilja		verb			49	INFV		hov
+51	lese		verb			50	INFV		hov
+52	dei		pron			51	DOBJ		hov
+53	så		adv			54	ADV		hov
+54	får		verb			5	KOORD		hov
+55	du		pron			54	SUBJ		hov
+56	nå		adv			58	ADV		hov
+57	kanskje		adv			58	ADV		hov
+58	høyre		verb			54	INFV		hov
+59	på		prep			58	ADV		hov
+60	bandet		subst			59	PUTFYLL		hov
+
+# text = ja ja ja
+# segstart = 739.564
+# segstop = 741.007
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 158
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = ja e da det blir e # ja det blir jo
+# segstart = 743.969
+# segstop = 748.278
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 159
+1	ja		interj			5	INTERJ		hov
+2	e		nol			3	FYLL		hov
+3	da		adv			5	ADV		hov
+4	det		pron			5	SUBJ		hov
+5	blir		verb			0	FINV		hov
+6	e		nol			7	FYLL		hov
+7	#		pause			8	IK		hov
+8	ja		interj			10	INTERJ		hov
+9	det		pron			10	SUBJ		hov
+10	blir		verb			5	KOORD		hov
+11	jo		adv			9	ADV		hov
+
+# text = som sak- var at det blir jo # ja men det blir jo det same som åt deg det
+# segstart = 748.905
+# segstop = 754.735
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 160
+1	som		sbu			3	SBU		hov
+2	sak-		ufullst			3	FYLL		hov
+3	var		verb			12	REP		hov
+4	at		sbu			6	SBU		hov
+5	det		pron			6	FSUBJ		hov
+6	blir		verb			3	SPRED		hov
+7	jo		adv			6	ADV		hov
+8	#		pause			9	IK		hov
+9	ja		interj			6	INTERJ		hov
+10	men		konj			12	KONJ		hov
+11	det		pron			12	FSUBJ		hov
+12	blir		verb			0	FINV		hov
+13	jo		adv			12	ADV		hov
+14	det		det			15	DET		hov
+15	same		det			12	SPRED		hov
+16	som		sbu			17	ADV		hov
+17	åt		prep			15	ADV		hov
+18	deg		pron			17	PUTFYLL		hov
+19	det		pron			11	APP		hov
+
+# text = men sjø # eg vil enda seie i din
+# segstart = 764.036
+# segstop = 766.915
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 161
+1	men		konj			5	KONJ		hov
+2	sjø		adv			7	ADV		hov
+3	#		pause			4	IK		hov
+4	eg		pron			5	SUBJ		hov
+5	vil		verb			0	FINV		hov
+6	enda		adv			7	ADV		hov
+7	seie		verb			5	INFV		hov
+8	i		prep			7	ADV		hov
+9	din		det			8	PUTFYLL		hov
+
+# text = på alle dei der så skulle det fakta har vore vore to e
+# segstart = 767.339
+# segstop = 772.481
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 162
+1	på		prep			5	APP		hov
+2	alle		det			3	DET		hov
+3	dei		pron			1	PUTFYLL		hov
+4	der		prep			3	ATR		hov
+5	så		adv			6	ADV		hov
+6	skulle		verb			0	FINV		hov
+7	det		pron			6	FSUBJ		hov
+8	fakta		verb			6	INFV		hov
+9	har		verb			8	DOBJ		hov
+10	vore		verb			11	REP		hov
+11	vore		verb			9	INFV		hov
+12	to		det			11	SPRED		hov
+13	e		nol			6	FYLL		hov
+
+# text = to e # ord av sam- eller to bokstavar av same slag
+# segstart = 774.102
+# segstop = 779.698
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 163
+1	to		det			4	DET		hov
+2	e		nol			4	FYLL		hov
+3	#		pause			4	IK		hov
+4	ord		subst			0	FRAG		hov
+5	av		prep			4	ATR		hov
+6	sam-		ufullst			7	FYLL		hov
+7	eller		konj			9	KONJ		hov
+8	to		det			9	DET		hov
+9	bokstavar		subst			4	KOORD		hov
+10	av		prep			9	ATR		hov
+11	same		det			12	DET		hov
+12	slag		subst			10	PUTFYLL		hov
+
+# text = ja # og det er akkurat det som # som dialekta kanskje har # har # har rasjonalisert lite grann
+# segstart = 779.495
+# segstop = 788.612
+# file = nordli_uio_01
+# speaker = of
+# id = 164
+1	ja		interj			5	INTERJ		hov
+2	#		pause			3	IK		hov
+3	og		konj			5	KONJ		hov
+4	det		pron			5	FSUBJ		hov
+5	er		verb			0	FINV		hov
+6	akkurat		adv			5	ADV		hov
+7	det		pron			5	SPRED		hov
+8	som		sbu			10	REP		hov
+9	#		pause			10	IK		hov
+10	som		sbu			17	SBU		hov
+11	dialekta		subst			17	SUBJ		hov
+12	kanskje		adv			17	ADV		hov
+13	har		verb			17	REP		hov
+14	#		pause			15	IK		hov
+15	har		verb			17	REP		hov
+16	#		pause			17	IK		hov
+17	har		verb			7	ATR		hov
+18	rasjonalisert		verb			17	INFV		hov
+19	lite		adj			20	ATR		hov
+20	grann		subst			18	DOBJ		hov
+
+# text = ja ja det trur eg
+# segstart = 787.992
+# segstop = 789.999
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 165
+1	ja		interj			4	INTERJ		hov
+2	ja		interj			4	INTERJ		hov
+3	det		pron			4	DOBJ		hov
+4	trur		verb			0	FINV		hov
+5	eg		pron			4	SUBJ		hov
+
+# text = for det # for det er same e lyden som blir berre gjenteken men det er
+# segstart = 789.11
+# segstop = 794.417
+# file = nordli_uio_01
+# speaker = of
+# id = 166
+1	for		konj			4	REP		hov
+2	det		pron			5	REP		hov
+3	#		pause			4	IK		hov
+4	for		konj			6	KONJ		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+7	same		det			9	DET		hov
+8	e		nol			9	FYLL		hov
+9	lyden		subst			6	SPRED		hov
+10	som		sbu			11	SBU		hov
+11	blir		verb			9	ATR		hov
+12	berre		adv			13	ADV		hov
+13	gjenteken		adj			11	SPRED		hov
+14	men		konj			16	KONJ		hov
+15	det		pron			16	FSUBJ		hov
+16	er		verb			6	KOORD		hov
+
+# text = ja ja ja
+# segstart = 793.286
+# segstop = 794.713
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 167
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = det er ikkje noko i e skrivinga av ordet som skulle tyde på det
+# segstart = 794.937
+# segstop = 798.225
+# file = nordli_uio_01
+# speaker = of
+# id = 168
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	ikkje		adv			2	ADV		hov
+4	noko		pron			2	SPRED		hov
+5	i		prep			4	ATR		hov
+6	e		nol			8	FYLL		hov
+7	skrivinga		subst			5	PUTFYLL		hov
+8	av		prep			7	ATR		hov
+9	ordet		subst			8	PUTFYLL		hov
+10	som		sbu			11	SBU		hov
+11	skulle		verb			7	ATR		hov
+12	tyde		verb			11	INFV		hov
+13	på		prep			12	ADV		hov
+14	det		pron			13	PUTFYLL		hov
+
+# text = nei
+# segstart = 797.706
+# segstop = 798.554
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 169
+1	nei		interj			0	INTERJ		hov
+
+# text = og # ein # på bokmål heiter det nå « ein far » # men vi seier nå « ein far »
+# segstart = 799.772
+# segstop = 805.817
+# file = nordli_uio_01
+# speaker = of
+# id = 170
+1	og		konj			7	KONJ		hov
+2	#		pause			3	IK		hov
+3	ein		pron			7	SLETT		hov
+4	#		pause			5	IK		hov
+5	på		prep			7	ADV		hov
+6	bokmål		subst			5	PUTFYLL		hov
+7	heiter		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	nå		adv			7	ADV		hov
+10	«		anf		anf	12	IK		hov
+11	ein		det		|q|	12	DET		hov
+12	far		subst		|q|	7	DOBJ		hov
+13	»		anf		anf	12	IK		hov
+14	#		pause			15	IK		hov
+15	men		konj			17	KONJ		hov
+16	vi		pron			17	SUBJ		hov
+17	seier		verb			7	KOORD		hov
+18	nå		adv			17	ADV		hov
+19	«		anf		anf	21	IK		hov
+20	ein		det		|q|	21	DET		hov
+21	far		subst		|q|	17	DOBJ		hov
+22	»		anf		anf	21	IK		hov
+
+# text = ja det er
+# segstart = 805.806
+# segstop = 806.955
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 171
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+
+# text = og det skulle nå ikkje har vore noko
+# segstart = 806.779
+# segstop = 807.832
+# file = nordli_uio_01
+# speaker = of
+# id = 172
+1	og		konj			6	KONJ		hov
+2	det		pron			6	FSUBJ		hov
+3	skulle		verb			6	SLETT		hov
+4	nå		adv			3	ADV		hov
+5	ikkje		adv			7	ADV		hov
+6	har		verb			0	FINV		hov
+7	vore		verb			6	INFV		hov
+8	noko		pron			7	SPRED		hov
+
+# text = nei nei
+# segstart = 807.654
+# segstop = 809.175
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 173
+1	nei		interj			0	INTERJ		hov
+2	nei		interj			1	INTERJ		hov
+
+# text = så det er berre lyden som har vorte forlengd
+# segstart = 809.209
+# segstop = 811.377
+# file = nordli_uio_01
+# speaker = of
+# id = 174
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	berre		adv			3	ADV		hov
+5	lyden		subst			3	SPRED		hov
+6	som		sbu			7	SBU		hov
+7	har		verb			5	ATR		hov
+8	vorte		verb			7	INFV		hov
+9	forlengd		adj			8	SPRED		hov
+
+# text = ja
+# segstart = 811.143
+# segstop = 811.791
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 175
+1	ja		interj			0	INTERJ		hov
+
+# text = ja da det er sånn så nei det er mykje sånn men e # men men # det blir jo ikkje anvendt nå da
+# segstart = 813.786
+# segstop = 820.649
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 176
+1	ja		interj			4	INTERJ		hov
+2	da		adv			1	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	sånn		adv			4	ADV		hov
+6	så		adv			9	ADV		hov
+7	nei		interj			9	INTERJ		hov
+8	det		pron			9	FSUBJ		hov
+9	er		verb			4	KOORD		hov
+10	mykje		adj			9	SPRED		hov
+11	sånn		adv			10	ADV		hov
+12	men		konj			16	REP		hov
+13	e		nol			15	FYLL		hov
+14	#		pause			15	IK		hov
+15	men		konj			16	REP		hov
+16	men		konj			19	KONJ		hov
+17	#		pause			18	IK		hov
+18	det		pron			19	FSUBJ		hov
+19	blir		verb			4	KOORD		hov
+20	jo		adv			19	ADV		hov
+21	ikkje		adv			19	ADV		hov
+22	anvendt		adj			19	SPRED		hov
+23	nå		adv			19	ADV		hov
+24	da		adv			19	ADV		hov
+
+# text = nei # det er berre eg dreiv og # og nemnde for den e # funksjonæren nedpå # Målførearkivet og og ho e ville gjerne # for det e høyre om det verkeleg var sånn for det e etter skrifta så skulle det ikkje vere
+# segstart = 821.286
+# segstop = 838.216
+# file = nordli_uio_01
+# speaker = of
+# id = 177
+1	nei		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	berre		adv			4	ADV		hov
+6	eg		pron			7	SUBJ		hov
+7	dreiv		verb			4	SPRED		hov
+8	og		konj			10	REP		hov
+9	#		pause			10	IK		hov
+10	og		konj			11	KONJ		hov
+11	nemnde		verb			7	KOORD		hov
+12	for		prep			11	ADV		hov
+13	den		det			16	DET		hov
+14	e		nol			16	FYLL		hov
+15	#		pause			16	IK		hov
+16	funksjonæren		subst			12	PUTFYLL		hov
+17	nedpå		prep			16	ATR		hov
+18	#		pause			19	IK		hov
+19	Målførearkivet		subst			17	PUTFYLL		hov
+20	og		konj			21	REP		hov
+21	og		konj			24	KONJ		hov
+22	ho		pron			24	SUBJ		hov
+23	e		nol			25	FYLL		hov
+24	ville		verb			11	KOORD		hov
+25	gjerne		adv			30	ADV		hov
+26	#		pause			27	IK		hov
+27	for		prep			30	ADV		hov
+28	det		pron			27	PUTFYLL		hov
+29	e		nol			30	FYLL		hov
+30	høyre		verb			24	INFV		hov
+31	om		sbu			34	SBU		hov
+32	det		pron			34	FSUBJ		hov
+33	verkeleg		adj			34	ADV		hov
+34	var		verb			30	DOBJ		hov
+35	sånn		adv			34	SPRED		hov
+36	for		prep			42	ADV		hov
+37	det		pron			36	PUTFYLL		hov
+38	e		nol			39	FYLL		hov
+39	etter		prep			42	ADV		hov
+40	skrifta		subst			39	PUTFYLL		hov
+41	så		adv			42	ADV		hov
+42	skulle		verb			34	ADV		hov
+43	det		pron			42	FSUBJ		hov
+44	ikkje		adv			45	ADV		hov
+45	vere		verb			42	INFV		hov
+
+# text = # ja ja
+# segstart = 834.152
+# segstop = 837.504
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 178
+1	#		pause			2	IK		hov
+2	ja		interj			0	INTERJ		hov
+3	ja		interj			2	INTERJ		hov
+
+# text = men da har det berre vorte antakeleg sånn at # dei orda som ei staving har komme bort på for eksempel « pipe »
+# segstart = 838.939
+# segstop = 845.536
+# file = nordli_uio_01
+# speaker = of
+# id = 179
+1	men		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	har		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	berre		adv			6	ADV		hov
+6	vorte		verb			3	INFV		hov
+7	antakeleg		adj			6	ADV		hov
+8	sånn		adv			9	ADV		hov
+9	at		sbu			12	SBU		hov
+10	#		pause			11	IK		hov
+11	dei		det			12	DET		hov
+12	orda		subst			6	SPRED		hov
+13	som		sbu			16	SBU		hov
+14	ei		det			15	DET		hov
+15	staving		subst			16	SUBJ		hov
+16	har		verb			12	ATR		hov
+17	komme		verb			16	INFV		hov
+18	bort		prep			17	ADV		hov
+19	på		prep			17	ADV		hov
+20	for		prep			17	ADV		hov
+21	eksempel		subst			20	PUTFYLL		hov
+22	«		anf		anf	23	IK		hov
+23	pipe		subst		|q|	21	ATR		hov
+24	»		anf		anf	23	IK		hov
+
+# text = ja
+# segstart = 845.415
+# segstop = 845.935
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 180
+1	ja		interj			0	INTERJ		hov
+
+# text = dei har e og uttalen av dei har # har jo vorte e så dei har verka på dei andre
+# segstart = 846.037
+# segstop = 852.073
+# file = nordli_uio_01
+# speaker = of
+# id = 181
+1	dei		pron			2	SUBJ		hov
+2	har		verb			10	SLETT		hov
+3	e		nol			4	FYLL		hov
+4	og		konj			2	KONJ		hov
+5	uttalen		subst			10	SUBJ		hov
+6	av		prep			5	ATR		hov
+7	dei		pron			6	PUTFYLL		hov
+8	har		verb			10	REP		hov
+9	#		pause			10	IK		hov
+10	har		verb			0	FINV		hov
+11	jo		adv			12	ADV		hov
+12	vorte		verb			10	INFV		hov
+13	e		nol			14	FYLL		hov
+14	så		sbu			16	SBU		hov
+15	dei		pron			16	SUBJ		hov
+16	har		verb			12	SPRED		hov
+17	verka		verb			16	INFV		hov
+18	på		prep			17	ADV		hov
+19	dei		det			20	DET		hov
+20	andre		det			18	PUTFYLL		hov
+
+# text = det
+# segstart = 847.044
+# segstop = 847.763
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 182
+1	det		pron			0	FRAG		hov
+
+# text = det
+# segstart = 852.433
+# segstop = 853.168
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 183
+1	det		pron			0	FRAG		hov
+
+# text = med litt lang
+# segstart = 852.51
+# segstop = 853.95
+# file = nordli_uio_01
+# speaker = of
+# id = 184
+1	med		prep			0	FRAG		hov
+2	litt		adj			3	ADV		hov
+3	lang		adj			1	PUTFYLL		hov
+
+# text = og så veit du det derre og det blir jo annleis
+# segstart = 855.444
+# segstop = 858.968
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 185
+1	og		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	veit		verb			0	FINV		hov
+4	du		pron			3	SUBJ		hov
+5	det		pron			3	DOBJ		hov
+6	derre		adv			5	ATR		hov
+7	og		konj			9	KONJ		hov
+8	det		pron			9	FSUBJ		hov
+9	blir		verb			3	KOORD		hov
+10	jo		adv			9	ADV		hov
+11	annleis		adj			9	SPRED		hov
+
+# text = e for eksempel dei der e # dei derre orda kjem inni ei setning # i motføre i enden
+# segstart = 860.456
+# segstop = 868.172
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 186
+1	e		nol			2	FYLL		hov
+2	for		prep			11	ADV		hov
+3	eksempel		subst			2	PUTFYLL		hov
+4	dei		pron			8	REP		hov
+5	der		prep			4	ATR		hov
+6	e		nol			8	FYLL		hov
+7	#		pause			8	IK		hov
+8	dei		pron			10	DET		hov
+9	derre		adv			8	ATR		hov
+10	orda		subst			11	SUBJ		hov
+11	kjem		verb			0	FINV		hov
+12	inni		prep			11	ADV		hov
+13	ei		det			14	DET		hov
+14	setning		subst			12	PUTFYLL		hov
+15	#		pause			16	IK		hov
+16	i		prep			11	ADV		hov
+17	motføre		subst			16	PUTFYLL		hov
+18	i		prep			11	ADV		hov
+19	enden		subst			18	PUTFYLL		hov
+
+# text = ja # det kjem an på kva kor mykje lengd ein legg på ordet det er antakeleg det # og det da er det nå spørsmål om kva det er for slags plass i setninga
+# segstart = 868.327
+# segstop = 878.705
+# file = nordli_uio_01
+# speaker = of
+# id = 187
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			4	FSUBJ		hov
+4	kjem		verb			0	FINV		hov
+5	an		adv			4	ADV		hov
+6	på		prep			4	ADV		hov
+7	kva		pron			8	REP		hov
+8	kor		adv			9	ADV		hov
+9	mykje		adj			10	ATR		hov
+10	lengd		subst			12	SUBJ		hov
+11	ein		det			12	DET		hov
+12	legg		verb			6	PUTFYLL		hov
+13	på		prep			12	ADV		hov
+14	ordet		subst			13	PUTFYLL		hov
+15	det		pron			16	FSUBJ		hov
+16	er		verb			4	KOORD		hov
+17	antakeleg		adj			16	ADV		hov
+18	det		pron			16	SPRED		hov
+19	#		pause			20	IK		hov
+20	og		konj			23	KONJ		hov
+21	det		pron			24	REP		hov
+22	da		adv			23	ADV		hov
+23	er		verb			4	KOORD		hov
+24	det		pron			23	FSUBJ		hov
+25	nå		adv			23	ADV		hov
+26	spørsmål		subst			23	SPRED		hov
+27	om		sbu			30	SBU		hov
+28	kva		pron			30	SPRED		hov
+29	det		pron			30	FSUBJ		hov
+30	er		verb			26	ATR		hov
+31	for		prep			28	ATR		hov
+32	slags		subst			33	DET		hov
+33	plass		subst			31	PUTFYLL		hov
+34	i		prep			33	ATR		hov
+35	setninga		subst			34	PUTFYLL		hov
+
+# text = ja ja
+# segstart = 874.009
+# segstop = 875.132
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 188
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = ja det er det blir det ja
+# segstart = 878.346
+# segstop = 880.326
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 189
+1	ja		interj			5	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			5	REP		hov
+4	det		pron			5	FSUBJ		hov
+5	blir		verb			0	FINV		hov
+6	det		pron			5	SPRED		hov
+7	ja		interj			5	INTERJ		hov
+
+# text = så det er jo jo da det e
+# segstart = 883.043
+# segstop = 886.166
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 190
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	jo		adv			5	REP		hov
+5	jo		adv			3	ADV		hov
+6	da		adv			3	ADV		hov
+7	det		pron			3	SPRED		hov
+8	e		nol			3	FYLL		hov
+
+# text = men da får vi nå tru dei # kan bruke det her til noko viss dei treng oss noko meir da så s- kan vi nå ta oss ein tur innom
+# segstart = 887.923
+# segstop = 895.563
+# file = nordli_uio_01
+# speaker = of
+# id = 191
+1	men		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	får		verb			0	FINV		hov
+4	vi		pron			3	SUBJ		hov
+5	nå		adv			6	ADV		hov
+6	tru		verb			3	INFV		hov
+7	dei		pron			9	SUBJ		hov
+8	#		pause			9	IK		hov
+9	kan		verb			6	DOBJ		hov
+10	bruke		verb			9	INFV		hov
+11	det		pron			10	DOBJ		hov
+12	her		prep			11	ATR		hov
+13	til		prep			10	ADV		hov
+14	noko		pron			13	PUTFYLL		hov
+15	viss		sbu			17	SBU		hov
+16	dei		pron			17	SUBJ		hov
+17	treng		verb			22	APP		hov
+18	oss		pron			17	DOBJ		hov
+19	noko		det			20	DET		hov
+20	meir		adj			17	ADV		hov
+21	da		adv			17	ADV		hov
+22	så		adv			24	ADV		hov
+23	s-		ufullst			24	FYLL		hov
+24	kan		verb			3	KOORD		hov
+25	vi		pron			24	SUBJ		hov
+26	nå		adv			27	ADV		hov
+27	ta		verb			24	INFV		hov
+28	oss		pron			27	IOBJ		hov
+29	ein		det			30	DET		hov
+30	tur		subst			27	DOBJ		hov
+31	innom		prep			27	ADV		hov
+
+# text = e
+# segstart = 888.036
+# segstop = 889.172
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 192
+1	e		nol			0	FRAG		hov
+
+# text = ja # men vi vi må ta ein gong sidan for at eg kom på andre
+# segstart = 893.89
+# segstop = 902.859
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 193
+1	ja		interj			6	INTERJ		hov
+2	#		pause			3	IK		hov
+3	men		konj			6	KONJ		hov
+4	vi		pron			5	REP		hov
+5	vi		pron			6	SUBJ		hov
+6	må		verb			0	FINV		hov
+7	ta		verb			6	INFV		hov
+8	ein		det			9	DET		hov
+9	gong		subst			7	DOBJ		hov
+10	sidan		adv			7	ADV		hov
+11	for		prep			7	ADV		hov
+12	at		sbu			14	SBU		hov
+13	eg		pron			14	SUBJ		hov
+14	kom		verb			11	PUTFYLL		hov
+15	på		prep			14	ADV		hov
+16	andre		det			15	PUTFYLL		hov
+
+# text = ja
+# segstart = 901.568
+# segstop = 902.232
+# file = nordli_uio_01
+# speaker = of
+# id = 194
+1	ja		interj			0	INTERJ		hov
+
+# text = det kan godt hende visst eg berre spekulerte lite grann at eg kjem på fleire sånne e gamle uttrykk som er
+# segstart = 903.316
+# segstop = 909.323
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 195
+1	det		pron			2	FSUBJ		hov
+2	kan		verb			0	FINV		hov
+3	godt		adj			4	ADV		hov
+4	hende		verb			2	INFV		hov
+5	visst		sbu			8	SBU		hov
+6	eg		pron			8	SUBJ		hov
+7	berre		adv			8	ADV		hov
+8	spekulerte		verb			4	ADV		hov
+9	lite		adj			10	ATR		hov
+10	grann		subst			8	DOBJ		hov
+11	at		sbu			13	SBU		hov
+12	eg		pron			13	SUBJ		hov
+13	kjem		verb			4	DOBJ		hov
+14	på		prep			13	ADV		hov
+15	fleire		adj			19	ATR		hov
+16	sånne		det			19	DET		hov
+17	e		nol			18	FYLL		hov
+18	gamle		adj			19	ATR		hov
+19	uttrykk		subst			14	PUTFYLL		hov
+20	som		sbu			21	SBU		hov
+21	er		verb			19	ATR		hov
+
+# text = men kan vi ikkje gjere sånn at du # du heng opp ein liten lapp på veggen her og så noterer det når du kjem på nokre sånne gammaluttrykk
+# segstart = 909.001
+# segstop = 917.564
+# file = nordli_uio_01
+# speaker = of
+# id = 196
+1	men		konj			2	KONJ		hov
+2	kan		verb			0	FINV		hov
+3	vi		pron			2	SUBJ		hov
+4	ikkje		adv			5	ADV		hov
+5	gjere		verb			2	INFV		hov
+6	sånn		adv			5	ADV		hov
+7	at		sbu			11	SBU		hov
+8	du		pron			10	REP		hov
+9	#		pause			10	IK		hov
+10	du		pron			11	SUBJ		hov
+11	heng		verb			5	ADV		hov
+12	opp		prep			11	ADV		hov
+13	ein		det			15	DET		hov
+14	liten		adj			15	ATR		hov
+15	lapp		subst			11	DOBJ		hov
+16	på		prep			11	ADV		hov
+17	veggen		subst			16	PUTFYLL		hov
+18	her		prep			17	ATR		hov
+19	og		konj			21	KONJ		hov
+20	så		adv			21	ADV		hov
+21	noterer		verb			2	KOORD		hov
+22	det		pron			21	FSUBJ		hov
+23	når		sbu			25	SBU		hov
+24	du		pron			25	SUBJ		hov
+25	kjem		verb			21	ADV		hov
+26	på		prep			25	ADV		hov
+27	nokre		det			29	DET		hov
+28	sånne		det			29	DET		hov
+29	gammaluttrykk		subst			26	PUTFYLL		hov
+
+# text = jo da det det det kan eg da godt gjere å hå ja da
+# segstart = 915.807
+# segstop = 920.474
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 197
+1	jo		interj			6	INTERJ		hov
+2	da		adv			1	ADV		hov
+3	det		pron			5	REP		hov
+4	det		pron			5	REP		hov
+5	det		pron			10	DOBJ		hov
+6	kan		verb			0	FINV		hov
+7	eg		pron			6	SUBJ		hov
+8	da		adv			10	ADV		hov
+9	godt		adj			10	ADV		hov
+10	gjere		verb			6	INFV		hov
+11	å		inf-merke			12	ADV		hov
+12	hå		interj			6	INTERJ		hov
+13	ja		interj			12	INTERJ		hov
+14	da		adv			13	ADV		hov
+
+# text = ja
+# segstart = 918.871
+# segstop = 919.607
+# file = nordli_uio_01
+# speaker = of
+# id = 198
+1	ja		interj			0	INTERJ		hov
+
+# text = for det er så mykje sei sånn i farten så klarer ikkje eg å ta det men
+# segstart = 920.838
+# segstop = 924.857
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 199
+1	for		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	så		adv			5	ADV		hov
+5	mykje		adj			3	SPRED		hov
+6	sei		verb			10	APP		hov
+7	sånn		adv			6	ADV		hov
+8	i		prep			6	ADV		hov
+9	farten		subst			8	PUTFYLL		hov
+10	så		adv			11	ADV		hov
+11	klarer		verb			3	KOORD		hov
+12	ikkje		adv			11	ADV		hov
+13	eg		pron			11	SUBJ		hov
+14	å		inf-merke			11	DOBJ		hov
+15	ta		verb			14	INFV		hov
+16	det		pron			15	DOBJ		hov
+17	men		konj			3	KONJ		hov
+
+# text = viss eg spekulerte så nok # eg er sikker på det eg får i fleire ord berre
+# segstart = 924.857
+# segstop = 929.786
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 200
+1	viss		sbu			3	SBU		hov
+2	eg		pron			3	SUBJ		hov
+3	spekulerte		verb			8	ADV		hov
+4	så		adv			3	ADV		hov
+5	nok		adv			3	ADV		hov
+6	#		pause			7	IK		hov
+7	eg		pron			8	SUBJ		hov
+8	er		verb			0	FINV		hov
+9	sikker		adj			8	SPRED		hov
+10	på		prep			9	ADV		hov
+11	det		pron			10	PUTFYLL		hov
+12	eg		pron			13	SUBJ		hov
+13	får		verb			8	KOORD		hov
+14	i		prep			13	ADV		hov
+15	fleire		adj			16	ATR		hov
+16	ord		subst			14	PUTFYLL		hov
+17	berre		adv			13	ADV		hov
+
+# text = ja
+# segstart = 926.413
+# segstop = 927.045
+# file = nordli_uio_01
+# speaker = of
+# id = 201
+1	ja		interj			0	INTERJ		hov
+
+# text = ja akkurat
+# segstart = 930.096
+# segstop = 930.976
+# file = nordli_uio_01
+# speaker = of
+# id = 202
+1	ja		interj			0	INTERJ		hov
+2	akkurat		adv			1	ADV		hov
+
+# text = ja men enn det uttrykket var det dei brukte å seie at # « ungane tjona »
+# segstart = 931.371
+# segstop = 935.97
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 203
+1	ja		interj			6	INTERJ		hov
+2	men		konj			6	KONJ		hov
+3	enn		prep			6	ADV		hov
+4	det		det			5	DET		hov
+5	uttrykket		subst			6	SUBJ		hov
+6	var		verb			0	FINV		hov
+7	det		pron			6	SPRED		hov
+8	dei		pron			9	SUBJ		hov
+9	brukte		verb			7	ATR		hov
+10	å		inf-merke			9	DOBJ		hov
+11	seie		verb			10	INFV		hov
+12	at		sbu			16	SBU		hov
+13	#		pause			15	IK		hov
+14	«		anf		anf	16	IK		hov
+15	ungane		subst		|q|	16	SUBJ		hov
+16	tjona		verb		|q|	11	DOBJ		hov
+17	»		anf		anf	16	IK		hov
+
+# text = ja tjone ja
+# segstart = 936.662
+# segstop = 937.901
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 204
+1	ja		interj			0	INTERJ		hov
+2	tjone		verb			1	ADV		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = tjone ja # og dei stussa
+# segstart = 937.639
+# segstop = 940.365
+# file = nordli_uio_01
+# speaker = of
+# id = 205
+1	tjone		verb			6	ADV		hov
+2	ja		interj			6	INTERJ		hov
+3	#		pause			4	IK		hov
+4	og		konj			6	KONJ		hov
+5	dei		pron			6	SUBJ		hov
+6	stussa		verb			0	FINV		hov
+
+# text = ja
+# segstart = 938.199
+# segstop = 938.727
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 206
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 938.2
+# segstop = 938.776
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 207
+1	ja		interj			0	INTERJ		hov
+
+# text = ja # « må de ut og stusse nå » er så dei heldt på og tjona med det
+# segstart = 939.654
+# segstop = 945.428
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 208
+1	ja		interj			4	INTERJ		hov
+2	#		pause			4	IK		hov
+3	«		anf		anf	4	IK		hov
+4	må		verb		|q|	0	FINV		hov
+5	de		pron		|q|	4	SUBJ		hov
+6	ut		prep		|q|	8	ADV		hov
+7	og		konj		|q|	8	KONJ		hov
+8	stusse		verb		|q|	4	INFV		hov
+9	nå		adv		|q|	8	ADV		hov
+10	»		anf		anf	4	IK		hov
+11	er		verb			4	KOORD		hov
+12	så		adv			11	ADV		hov
+13	dei		pron			14	SUBJ		hov
+14	heldt		verb			11	SPRED		hov
+15	på		prep			14	ADV		hov
+16	og		konj			17	KONJ		hov
+17	tjona		verb			14	KOORD		hov
+18	med		prep			17	ADV		hov
+19	det		pron			18	PUTFYLL		hov
+
+# text = ja
+# segstart = 942.535
+# segstop = 943.184
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 209
+1	ja		interj			0	INTERJ		hov
+
+# text = ja tjona # det måtte stort sett e # førestille at
+# segstart = 947.117
+# segstop = 952.263
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 210
+1	ja		interj			5	INTERJ		hov
+2	tjona		verb			5	ADV		hov
+3	#		pause			4	IK		hov
+4	det		pron			5	FSUBJ		hov
+5	måtte		verb			0	FINV		hov
+6	stort		adj			7	ADV		hov
+7	sett		adj			5	ADV		hov
+8	e		nol			10	FYLL		hov
+9	#		pause			10	IK		hov
+10	førestille		verb			5	INFV		hov
+11	at		sbu			10	SBU		hov
+
+# text = dei e dei sat i ro sei sånn og liksom lell var opptekne med noko slag
+# segstart = 952.687
+# segstop = 958.654
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 211
+1	dei		pron			3	REP		hov
+2	e		nol			3	FYLL		hov
+3	dei		pron			4	SUBJ		hov
+4	sat		verb			0	FINV		hov
+5	i		prep			4	ADV		hov
+6	ro		subst			5	PUTFYLL		hov
+7	sei		verb			4	ADV		hov
+8	sånn		adv			7	ADV		hov
+9	og		konj			12	KONJ		hov
+10	liksom		adv			12	ADV		hov
+11	lell		adv			12	ADV		hov
+12	var		verb			4	KOORD		hov
+13	opptekne		adj			12	SPRED		hov
+14	med		prep			13	ADV		hov
+15	noko		det			16	DET		hov
+16	slag		subst			14	PUTFYLL		hov
+
+# text = det trur eg
+# segstart = 959.837
+# segstop = 960.607
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 212
+1	det		pron			2	DOBJ		hov
+2	trur		verb			0	FINV		hov
+3	eg		pron			2	SUBJ		hov
+
+# text = her sit de mykje godt ungane sei sånn dei kan ha noko småtteri sei sånn og så sitte der og e ## pusle pusle på med
+# segstart = 962.112
+# segstop = 971.7
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 213
+1	her		prep			2	ADV		hov
+2	sit		verb			0	FINV		hov
+3	de		pron			2	SUBJ		hov
+4	mykje		adj			5	ADV		hov
+5	godt		adj			2	SPRED		hov
+6	ungane		subst			3	APP		hov
+7	sei		verb			2	ADV		hov
+8	sånn		adv			7	ADV		hov
+9	dei		pron			10	SUBJ		hov
+10	kan		verb			2	KOORD		hov
+11	ha		verb			10	INFV		hov
+12	noko		det			13	DET		hov
+13	småtteri		subst			11	DOBJ		hov
+14	sei		verb			11	ADV		hov
+15	sånn		adv			14	ADV		hov
+16	og		konj			18	KONJ		hov
+17	så		adv			18	ADV		hov
+18	sitte		verb			11	KOORD		hov
+19	der		prep			18	ADV		hov
+20	og		konj			24	KONJ		hov
+21	e		nol			23	FYLL		hov
+22	##		pause			23	IK		hov
+23	pusle		verb			24	REP		hov
+24	pusle		verb			18	KOORD		hov
+25	på		prep			24	ADV		hov
+26	med		prep			24	ADV		hov
+
+# text = tjone på
+# segstart = 969.641
+# segstop = 970.522
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 214
+1	tjone		verb			0	FRAG		hov
+2	på		prep			1	ADV		hov
+
+# text = ja
+# segstart = 970.288
+# segstop = 970.912
+# file = nordli_uio_01
+# speaker = of
+# id = 215
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 971.573
+# segstop = 972.095
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 216
+1	ja		interj			0	INTERJ		hov
+
+# text = i all truskyldigheit berre sånn # det måtte jo bli det derre som skulle førestille tjoning
+# segstart = 971.963
+# segstop = 977.536
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 217
+1	i		prep			8	ADV		hov
+2	all		det			3	DET		hov
+3	truskyldigheit		subst			1	PUTFYLL		hov
+4	berre		adv			8	ADV		hov
+5	sånn		adv			8	ADV		hov
+6	#		pause			7	IK		hov
+7	det		pron			8	FSUBJ		hov
+8	måtte		verb			0	FINV		hov
+9	jo		adv			10	ADV		hov
+10	bli		verb			8	INFV		hov
+11	det		pron			10	DOBJ		hov
+12	derre		adv			11	ATR		hov
+13	som		sbu			14	SBU		hov
+14	skulle		verb			11	ATR		hov
+15	førestille		verb			14	INFV		hov
+16	tjoning		subst			15	DOBJ		hov
+
+# text = ja # det v- det er noko sånt små-
+# segstart = 978.102
+# segstop = 980.845
+# file = nordli_uio_01
+# speaker = of
+# id = 218
+1	ja		interj			6	INTERJ		hov
+2	#		pause			3	IK		hov
+3	det		pron			5	REP		hov
+4	v-		ufullst			5	FYLL		hov
+5	det		pron			6	FSUBJ		hov
+6	er		verb			0	FINV		hov
+7	noko		det			8	DET		hov
+8	sånt		pron			6	SPRED		hov
+9	små-		ufullst			6	FYLL		hov
+
+# text = ja ja ja
+# segstart = 980.777
+# segstop = 981.809
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 219
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = puslearbeid kanskje ja kan du seie nå
+# segstart = 982.473
+# segstop = 985.17
+# file = nordli_uio_01
+# speaker = of
+# id = 220
+1	puslearbeid		subst			6	DOBJ		hov
+2	kanskje		adv			6	ADV		hov
+3	ja		interj			4	INTERJ		hov
+4	kan		verb			0	FINV		hov
+5	du		pron			4	SUBJ		hov
+6	seie		verb			4	INFV		hov
+7	nå		adv			6	ADV		hov
+
+# text = ja ja da han må nesten seie pusle ja
+# segstart = 983.602
+# segstop = 987.08
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 221
+1	ja		interj			5	INTERJ		hov
+2	ja		interj			5	INTERJ		hov
+3	da		adv			5	ADV		hov
+4	han		pron			5	SUBJ		hov
+5	må		verb			0	FINV		hov
+6	nesten		adv			7	ADV		hov
+7	seie		verb			5	INFV		hov
+8	pusle		verb			7	DOBJ		hov
+9	ja		interj			5	INTERJ		hov
+
+# text = ja # ja
+# segstart = 985.845
+# segstop = 987.376
+# file = nordli_uio_01
+# speaker = of
+# id = 222
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = for det at det e det er ikkje noko som akkurat
+# segstart = 987.566
+# segstop = 990.323
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 223
+1	for		konj			2	KONJ		hov
+2	det		pron			7	ADV		hov
+3	at		sbu			7	SBU		hov
+4	det		pron			6	REP		hov
+5	e		nol			6	FYLL		hov
+6	det		pron			7	FSUBJ		hov
+7	er		verb			0	FINV		hov
+8	ikkje		adv			7	ADV		hov
+9	noko		pron			7	SPRED		hov
+10	som		sbu			11	SBU		hov
+11	akkurat		adv			7	ADV		hov
+
+# text = og ikkje det det trur eg det at tjone # det trur ikkje eg erfor fleire # eg trur det er blott for ein
+# segstart = 990.452
+# segstop = 996.593
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 224
+1	og		konj			5	KONJ		hov
+2	ikkje		adv			5	ADV		hov
+3	det		pron			4	REP		hov
+4	det		pron			5	DOBJ		hov
+5	trur		verb			0	FINV		hov
+6	eg		pron			5	SUBJ		hov
+7	det		pron			4	APP		hov
+8	at		sbu			7	SBU		hov
+9	tjone		verb			11	APP		hov
+10	#		pause			11	IK		hov
+11	det		pron			12	DOBJ		hov
+12	trur		verb			5	KOORD		hov
+13	ikkje		adv			12	ADV		hov
+14	eg		pron			12	SUBJ		hov
+15	erfor		ufullst			16	FYLL		hov
+16	fleire		adj			12	ADV		hov
+17	#		pause			18	IK		hov
+18	eg		pron			19	SUBJ		hov
+19	trur		verb			12	KOORD		hov
+20	det		pron			21	SUBJ		hov
+21	er		verb			19	DOBJ		hov
+22	blott		adj			21	SPRED		hov
+23	for		prep			22	ADV		hov
+24	ein		pron			23	PUTFYLL		hov
+
+# text = ja
+# segstart = 996.043
+# segstop = 996.675
+# file = nordli_uio_01
+# speaker = of
+# id = 225
+1	ja		interj			0	INTERJ		hov
+
+# text = å ja
+# segstart = 996.88
+# segstop = 997.76
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 226
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = ja det trur eg
+# segstart = 997.625
+# segstop = 998.664
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 227
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	DOBJ		hov
+3	trur		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+
+# text = det trur eg ja
+# segstart = 998.442
+# segstop = 999.524
+# file = nordli_uio_01
+# speaker = of
+# id = 228
+1	det		pron			2	DOBJ		hov
+2	trur		verb			0	FINV		hov
+3	eg		pron			2	SUBJ		hov
+4	ja		interj			2	INTERJ		hov
+
+# text = for e vart det til det at e dei var fleire # da skulle dei grassere da
+# segstart = 999.512
+# segstop = 1003.357
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 229
+1	for		konj			3	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	vart		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	til		prep			3	SPRED		hov
+6	det		pron			5	PUTFYLL		hov
+7	at		sbu			10	SBU		hov
+8	e		nol			9	FYLL		hov
+9	dei		pron			10	SUBJ		hov
+10	var		verb			6	APP		hov
+11	fleire		adj			10	SPRED		hov
+12	#		pause			13	IK		hov
+13	da		adv			14	ADV		hov
+14	skulle		verb			10	KOORD		hov
+15	dei		pron			14	SUBJ		hov
+16	grassere		verb			14	INFV		hov
+17	da		adv			16	ADV		hov
+
+# text = ja « grassere » var noko nytt ja
+# segstart = 1003.929
+# segstop = 1005.853
+# file = nordli_uio_01
+# speaker = of
+# id = 230
+1	ja		interj			5	INTERJ		hov
+2	«		anf		anf	3	IK		hov
+3	grassere		verb		|q|	5	SUBJ		hov
+4	»		anf		anf	3	IK		hov
+5	var		verb			0	FINV		hov
+6	noko		det			7	DET		hov
+7	nytt		adj			5	SPRED		hov
+8	ja		interj			5	INTERJ		hov
+
+# text = ja
+# segstart = 1004.737
+# segstop = 1005.427
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 231
+1	ja		interj			0	INTERJ		hov
+
+# text = ja visst ja
+# segstart = 1005.132
+# segstop = 1006.272
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 232
+1	ja		interj			0	INTERJ		hov
+2	visst		adj			1	ADV		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = det det skulle dei gjere da skulle dei grassere da
+# segstart = 1006.04
+# segstop = 1008.498
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 233
+1	det		pron			2	REP		hov
+2	det		pron			5	DOBJ		hov
+3	skulle		verb			0	FINV		hov
+4	dei		pron			3	SUBJ		hov
+5	gjere		verb			3	INFV		hov
+6	da		adv			7	ADV		hov
+7	skulle		verb			3	KOORD		hov
+8	dei		pron			7	SUBJ		hov
+9	grassere		verb			7	INFV		hov
+10	da		adv			9	ADV		hov
+
+# text = ja
+# segstart = 1007.007
+# segstop = 1007.612
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 234
+1	ja		interj			0	INTERJ		hov
+
+# text = men e tjone # da da vart det stort sett e # meir i roa
+# segstart = 1009.078
+# segstop = 1014.082
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 235
+1	men		konj			7	KONJ		hov
+2	e		nol			3	FYLL		hov
+3	tjone		verb			7	ADV		hov
+4	#		pause			5	IK		hov
+5	da		adv			6	REP		hov
+6	da		adv			7	ADV		hov
+7	vart		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	stort		adj			10	ADV		hov
+10	sett		adj			7	ADV		hov
+11	e		nol			13	FYLL		hov
+12	#		pause			13	IK		hov
+13	meir		adj			7	SPRED		hov
+14	i		prep			13	ADV		hov
+15	roa		subst			14	PUTFYLL		hov
+
+# text = ja ein om ein
+# segstart = 1013.367
+# segstop = 1014.654
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 236
+1	ja		interj			0	INTERJ		hov
+2	ein		pron			1	ADV		hov
+3	om		prep			2	ATR		hov
+4	ein		pron			3	PUTFYLL		hov
+
+# text = ja
+# segstart = 1014.387
+# segstop = 1014.946
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 237
+1	ja		interj			0	INTERJ		hov
+
+# text = grassere ja # der har du og eit som # ja det kjem sei sånn
+# segstart = 1016.338
+# segstop = 1021.37
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 238
+1	grassere		verb			5	ADV		hov
+2	ja		interj			5	INTERJ		hov
+3	#		pause			4	IK		hov
+4	der		prep			5	ADV		hov
+5	har		verb			0	FINV		hov
+6	du		pron			5	SUBJ		hov
+7	og		konj			5	KONJ		hov
+8	eit		det			5	DET		hov
+9	som		sbu			13	SBU		hov
+10	#		pause			11	IK		hov
+11	ja		interj			13	INTERJ		hov
+12	det		pron			13	FSUBJ		hov
+13	kjem		verb			5	KOORD		hov
+14	sei		verb			13	ADV		hov
+15	sånn		adv			14	ADV		hov
+
+# text = ja
+# segstart = 1018.755
+# segstop = 1019.323
+# file = nordli_uio_01
+# speaker = of
+# id = 239
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 1020.698
+# segstop = 1021.425
+# file = nordli_uio_01
+# speaker = of
+# id = 240
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 1021.08
+# segstop = 1021.761
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 241
+1	ja		interj			0	INTERJ		hov
+
+# text = og så heldt vi på og såg på # « avbakleg »
+# segstart = 1023.547
+# segstop = 1026.818
+# file = nordli_uio_01
+# speaker = of
+# id = 242
+1	og		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	heldt		verb			0	FINV		hov
+4	vi		pron			3	SUBJ		hov
+5	på		prep			3	ADV		hov
+6	og		konj			7	KONJ		hov
+7	såg		verb			3	KOORD		hov
+8	på		prep			7	ADV		hov
+9	#		pause			11	IK		hov
+10	«		anf		anf	11	IK		hov
+11	avbakleg		adj		|q|	8	PUTFYLL		hov
+12	»		anf		anf	11	IK		hov
+
+# text = ja
+# segstart = 1026.947
+# segstop = 1027.529
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 243
+1	ja		interj			0	INTERJ		hov
+
+# text = det er nå vel eit ord som kanskje held på og kjem bort men som de kjenner vel til ?
+# segstart = 1027.818
+# segstop = 1031.81
+# file = nordli_uio_01
+# speaker = of
+# id = 244
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	nå		adv			2	ADV		hov
+4	vel		adv			2	ADV		hov
+5	eit		det			6	DET		hov
+6	ord		subst			2	SPRED		hov
+7	som		sbu			9	SBU		hov
+8	kanskje		adv			9	ADV		hov
+9	held		verb			6	ATR		hov
+10	på		prep			9	ADV		hov
+11	og		konj			12	KONJ		hov
+12	kjem		verb			9	KOORD		hov
+13	bort		prep			12	ADV		hov
+14	men		konj			17	KONJ		hov
+15	som		sbu			17	SBU		hov
+16	de		pron			17	SUBJ		hov
+17	kjenner		verb			9	KOORD		hov
+18	vel		adv			17	ADV		hov
+19	til		prep			17	ADV		hov
+20	?		clb			2	IP		hov
+
+# text = ja da
+# segstart = 1031.433
+# segstop = 1032.106
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 245
+1	ja		interj			0	INTERJ		hov
+2	da		adv			1	ADV		hov
+
+# text = ja
+# segstart = 1031.978
+# segstop = 1033.435
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 246
+1	ja		interj			0	INTERJ		hov
+
+# text = men det blir jo # s- forholdsvis det same som på tverke
+# segstart = 1033.477
+# segstop = 1037.357
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 247
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	blir		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	#		pause			7	IK		hov
+6	s-		ufullst			7	FYLL		hov
+7	forholdsvis		adv			3	ADV		hov
+8	det		det			9	DET		hov
+9	same		det			3	SPRED		hov
+10	som		prep			9	ADV		hov
+11	på		prep			10	ADV		hov
+12	tverke		subst			11	PUTFYLL		hov
+
+# text = ja # og bakvend
+# segstart = 1037.372
+# segstop = 1038.808
+# file = nordli_uio_01
+# speaker = of
+# id = 248
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	og		konj			4	KONJ		hov
+4	bakvend		adj			1	ADV		hov
+
+# text = ja # ja bakvend ja
+# segstart = 1037.875
+# segstop = 1040.301
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 249
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			1	INTERJ		hov
+4	bakvend		adj			5	ADV		hov
+5	ja		interj			1	INTERJ		hov
+
+# text = og så at nokon « skytast » på han far sin
+# segstart = 1042.384
+# segstop = 1045.029
+# file = nordli_uio_01
+# speaker = of
+# id = 250
+1	og		konj			6	KONJ		hov
+2	så		adv			6	ADV		hov
+3	at		sbu			6	SBU		hov
+4	nokon		pron			6	SUBJ		hov
+5	«		anf		anf	6	IK		hov
+6	skytast		verb		|q|	0	FINV		hov
+7	»		anf		anf	6	IK		hov
+8	på		prep			6	ADV		hov
+9	han		pron			10	DET		hov
+10	far		subst			8	PUTFYLL		hov
+11	sin		det			10	DET		hov
+
+# text = ja
+# segstart = 1044.97
+# segstop = 1045.535
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 251
+1	ja		interj			0	INTERJ		hov
+
+# text = skytast ja # ja
+# segstart = 1046.786
+# segstop = 1048.389
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 252
+1	skytast		verb			0	FINV		hov
+2	ja		interj			1	INTERJ		hov
+3	#		pause			4	IK		hov
+4	ja		interj			1	INTERJ		hov
+
+# text = ja
+# segstart = 1047.764
+# segstop = 1048.132
+# file = nordli_uio_01
+# speaker = of
+# id = 253
+1	ja		interj			0	INTERJ		hov
+
+# text = da sj- ho har skotest på ho mor si # skotest på ho mor si
+# segstart = 1049.062
+# segstop = 1054.095
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 254
+1	da		sbu			4	SBU		hov
+2	sj-		ufullst			3	FYLL		hov
+3	ho		pron			4	SUBJ		hov
+4	har		verb			0	FINV		hov
+5	skotest		verb			11	REP		hov
+6	på		prep			5	ADV		hov
+7	ho		pron			6	PUTFYLL		hov
+8	mor		subst			7	ATR		hov
+9	si		det			8	DET		hov
+10	#		pause			11	IK		hov
+11	skotest		verb			4	DOBJ		hov
+12	på		prep			11	ADV		hov
+13	ho		pron			14	DET		hov
+14	mor		subst			12	PUTFYLL		hov
+15	si		det			14	DET		hov
+
+# text = ja
+# segstart = 1051.186
+# segstop = 1051.691
+# file = nordli_uio_01
+# speaker = of
+# id = 255
+1	ja		interj			0	INTERJ		hov
+
+# text = jo da det er mykje sei sånn som har e eg er sikker på det s- berre eg hadde fått tida på meg så kjem det fulla men
+# segstart = 1054.915
+# segstop = 1061.122
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 256
+1	jo		interj			4	INTERJ		hov
+2	da		adv			4	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			0	FINV		hov
+5	mykje		adj			4	SPRED		hov
+6	sei		verb			4	ADV		hov
+7	sånn		adv			6	ADV		hov
+8	som		sbu			9	SBU		hov
+9	har		verb			5	ADV		hov
+10	e		nol			11	FYLL		hov
+11	eg		pron			12	SUBJ		hov
+12	er		verb			4	KOORD		hov
+13	sikker		adj			12	SPRED		hov
+14	på		prep			13	ADV		hov
+15	det		pron			14	PUTFYLL		hov
+16	s-		ufullst			17	FYLL		hov
+17	berre		adv			19	ADV		hov
+18	eg		pron			19	SUBJ		hov
+19	hadde		verb			12	ADV		hov
+20	fått		verb			19	INFV		hov
+21	tida		subst			20	DOBJ		hov
+22	på		prep			21	ATR		hov
+23	meg		pron			22	PUTFYLL		hov
+24	så		adv			25	ADV		hov
+25	kjem		verb			19	ADV		hov
+26	det		pron			25	FSUBJ		hov
+27	fulla		adv			25	ADV		hov
+28	men		konj			4	KONJ		hov
+
+# text = ja
+# segstart = 1060.531
+# segstop = 1061.119
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 257
+1	ja		interj			0	INTERJ		hov
+
+# text = men det var aldeles uføresett det derre så at det var jo # men du skal vel få til det
+# segstart = 1061.878
+# segstop = 1066.972
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 258
+1	men		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	aldeles		adv			5	ADV		hov
+5	uføresett		adj			3	SPRED		hov
+6	det		pron			2	APP		hov
+7	derre		adv			6	ATR		hov
+8	så		adv			9	ADV		hov
+9	at		sbu			11	SBU		hov
+10	det		pron			11	FSUBJ		hov
+11	var		verb			3	ADV		hov
+12	jo		adv			11	ADV		hov
+13	#		pause			14	IK		hov
+14	men		konj			16	KONJ		hov
+15	du		pron			16	SUBJ		hov
+16	skal		verb			3	KOORD		hov
+17	vel		adv			18	ADV		hov
+18	få		verb			16	INFV		hov
+19	til		prep			18	ADV		hov
+20	det		pron			18	DOBJ		hov
+
+# text = det er fint det
+# segstart = 1066.886
+# segstop = 1067.861
+# file = nordli_uio_01
+# speaker = of
+# id = 259
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	fint		adj			2	SPRED		hov
+4	det		pron			1	APP		hov
+
+# text = eg skal nok samle og
+# segstart = 1067.762
+# segstop = 1069.626
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 260
+1	eg		pron			2	SUBJ		hov
+2	skal		verb			0	FINV		hov
+3	nok		adv			4	ADV		hov
+4	samle		verb			2	INFV		hov
+5	og		konj			2	KONJ		hov
+
+# text = og så # « preinast »
+# segstart = 1069.734
+# segstop = 1072.235
+# file = nordli_uio_01
+# speaker = of
+# id = 261
+1	og		konj			5	KONJ		hov
+2	så		adv			5	ADV		hov
+3	#		pause			5	IK		hov
+4	«		anf		anf	5	IK		hov
+5	preinast		verb		|q|	0	FRAG		hov
+6	»		anf		anf	5	IK		hov
+
+# text = ja
+# segstart = 1072.274
+# segstop = 1072.794
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 262
+1	ja		interj			0	INTERJ		hov
+
+# text = det er nå kanskje noko som er særskilt brukt her ?
+# segstart = 1073.513
+# segstop = 1076.368
+# file = nordli_uio_01
+# speaker = of
+# id = 263
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	nå		adv			2	ADV		hov
+4	kanskje		adv			2	ADV		hov
+5	noko		pron			2	SPRED		hov
+6	som		sbu			7	SBU		hov
+7	er		verb			5	ATR		hov
+8	særskilt		adj			9	ADV		hov
+9	brukt		adj			7	INFV		hov
+10	her		prep			9	ADV		hov
+11	?		clb			2	IP		hov
+
+# text = ja da det er # før var da ikkje anna # det var jo
+# segstart = 1076.341
+# segstop = 1081.279
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 264
+1	ja		interj			7	INTERJ		hov
+2	da		adv			1	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	er		verb			7	REP		hov
+5	#		pause			6	IK		hov
+6	før		prep			7	ADV		hov
+7	var		verb			0	FINV		hov
+8	da		adv			7	ADV		hov
+9	ikkje		adv			7	ADV		hov
+10	anna		det			7	SPRED		hov
+11	#		pause			12	IK		hov
+12	det		pron			13	FSUBJ		hov
+13	var		verb			7	KOORD		hov
+14	jo		adv			13	ADV		hov
+
+# text = preinast med nokon ergast med nokon eller ?
+# segstart = 1081.316
+# segstop = 1083.985
+# file = nordli_uio_01
+# speaker = of
+# id = 265
+1	preinast		verb			0	FRAG		hov
+2	med		prep			1	ADV		hov
+3	nokon		pron			2	PUTFYLL		hov
+4	ergast		verb			1	KOORD		hov
+5	med		prep			4	ADV		hov
+6	nokon		pron			5	PUTFYLL		hov
+7	eller		konj			1	KONJ		hov
+8	?		clb			1	IP		hov
+
+# text = skulle nå # skulle nå prøy- skulle nå preinast med nokon
+# segstart = 1081.632
+# segstop = 1086.618
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 266
+1	skulle		verb			7	REP		hov
+2	nå		adv			1	ADV		hov
+3	#		pause			4	IK		hov
+4	skulle		verb			7	REP		hov
+5	nå		adv			4	ADV		hov
+6	prøy-		ufullst			7	FYLL		hov
+7	skulle		verb			0	FINV		hov
+8	nå		adv			9	ADV		hov
+9	preinast		verb			7	INFV		hov
+10	med		prep			9	ADV		hov
+11	nokon		pron			10	PUTFYLL		hov
+
+# text = ja ja preinast ja
+# segstart = 1083.398
+# segstop = 1085.14
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 267
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	preinast		verb			1	ADV		hov
+4	ja		interj			1	INTERJ		hov
+
+# text = det var akkurat det same som at du # du ville # vere som litt e # spydig ja
+# segstart = 1085.5
+# segstop = 1093.689
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 268
+1	det		pron			2	FSUBJ		hov
+2	var		verb			0	FINV		hov
+3	akkurat		adv			2	ADV		hov
+4	det		det			5	DET		hov
+5	same		det			2	SPRED		hov
+6	som		sbu			11	SBU		hov
+7	at		sbu			11	SBU		hov
+8	du		pron			10	REP		hov
+9	#		pause			10	IK		hov
+10	du		pron			11	SUBJ		hov
+11	ville		verb			2	ADV		hov
+12	#		pause			13	IK		hov
+13	vere		verb			11	INFV		hov
+14	som		sbu			13	SBU		hov
+15	litt		adj			18	ADV		hov
+16	e		nol			18	FYLL		hov
+17	#		pause			18	IK		hov
+18	spydig		adj			13	SPRED		hov
+19	ja		interj			2	INTERJ		hov
+
+# text = ja
+# segstart = 1093.139
+# segstop = 1093.611
+# file = nordli_uio_01
+# speaker = of
+# id = 269
+1	ja		interj			0	INTERJ		hov
+
+# text = ja
+# segstart = 1093.739
+# segstop = 1094.178
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 270
+1	ja		interj			0	INTERJ		hov
+
+# text = seie nokre ord som var litt # ja
+# segstart = 1094.231
+# segstop = 1097.972
+# file = nordli_uio_01
+# speaker = of
+# id = 271
+1	seie		verb			0	FINV		hov
+2	nokre		det			3	DET		hov
+3	ord		subst			1	DOBJ		hov
+4	som		sbu			5	SBU		hov
+5	var		verb			3	ATR		hov
+6	litt		adj			5	SPRED		hov
+7	#		pause			8	IK		hov
+8	ja		interj			1	INTERJ		hov
+
+# text = ja akkurat da meinte du det veldig godt da når du nådde i eller spike han med noko seier så # ja
+# segstart = 1095.194
+# segstop = 1102.146
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 272
+1	ja		interj			4	INTERJ		hov
+2	akkurat		adv			4	ADV		hov
+3	da		adv			4	ADV		hov
+4	meinte		verb			0	FINV		hov
+5	du		pron			4	SUBJ		hov
+6	det		pron			4	FOBJ		hov
+7	veldig		adj			8	ADV		hov
+8	godt		adj			4	FOPRED		hov
+9	da		adv			4	ADV		hov
+10	når		sbu			12	SBU		hov
+11	du		pron			12	SUBJ		hov
+12	nådde		verb			4	ADV		hov
+13	i		prep			12	ADV		hov
+14	eller		konj			15	KONJ		hov
+15	spike		verb			12	KOORD		hov
+16	han		pron			15	DOBJ		hov
+17	med		prep			15	ADV		hov
+18	noko		pron			17	PUTFYLL		hov
+19	seier		verb			15	ADV		hov
+20	så		adv			19	ADV		hov
+21	#		pause			22	IK		hov
+22	ja		interj			4	INTERJ		hov
+
+# text = m- …
+# segstart = 1100.119
+# segstop = 1100.596
+# file = nordli_uio_01
+# speaker = of
+# id = 273
+1	m-		ufullst			0	FRAG		hov
+2	…		ellipsis			1	IK		hov
+
+# text = spike han ja
+# segstart = 1100.827
+# segstop = 1101.718
+# file = nordli_uio_01
+# speaker = of
+# id = 274
+1	spike		verb			0	FINV		hov
+2	han		pron			1	SUBJ		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = så e men spike han det v- det var jo e det var jo e radig uttrykk det
+# segstart = 1103.5
+# segstop = 1109.191
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 275
+1	så		adv			4	ADV		hov
+2	e		nol			3	FYLL		hov
+3	men		konj			4	KONJ		hov
+4	spike		verb			13	ADV		hov
+5	han		pron			4	SUBJ		hov
+6	det		pron			8	REP		hov
+7	v-		ufullst			8	FYLL		hov
+8	det		pron			9	FSUBJ		hov
+9	var		verb			13	REP		hov
+10	jo		adv			9	ADV		hov
+11	e		nol			12	FYLL		hov
+12	det		pron			13	SUBJ		hov
+13	var		verb			0	FINV		hov
+14	jo		adv			13	ADV		hov
+15	e		nol			16	FYLL		hov
+16	radig		adj			17	ATR		hov
+17	uttrykk		subst			13	SPRED		hov
+18	det		pron			12	APP		hov
+
+# text = men e # jo da det
+# segstart = 1109.192
+# segstop = 1113.732
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 276
+1	men		konj			6	KONJ		hov
+2	e		nol			4	FYLL		hov
+3	#		pause			4	IK		hov
+4	jo		adv			6	ADV		hov
+5	da		adv			6	ADV		hov
+6	det		pron			0	FRAG		hov
+
+# text = men så lura vi på i aftes han pappa heldt på å tale om at # dei kalla ein for ein « kjesebukk » viss han var litt tverr og vanskeleg nå å halde på med
+# segstart = 1114.828
+# segstop = 1123.884
+# file = nordli_uio_01
+# speaker = of
+# id = 277
+1	men		konj			3	KONJ		hov
+2	så		adv			3	ADV		hov
+3	lura		verb			0	FINV		hov
+4	vi		pron			3	SUBJ		hov
+5	på		prep			3	ADV		hov
+6	i		prep			3	ADV		hov
+7	aftes		subst			6	PUTFYLL		hov
+8	han		pron			9	DET		hov
+9	pappa		subst			10	SUBJ		hov
+10	heldt		verb			3	KOORD		hov
+11	på		prep			10	ADV		hov
+12	å		inf-merke			11	PUTFYLL		hov
+13	tale		verb			12	INFV		hov
+14	om		prep			13	ADV		hov
+15	at		sbu			18	SBU		hov
+16	#		pause			17	IK		hov
+17	dei		pron			18	SUBJ		hov
+18	kalla		verb			14	PUTFYLL		hov
+19	ein		det			18	DOBJ		hov
+20	for		prep			18	ADV		hov
+21	ein		det			23	DET		hov
+22	«		anf		anf	23	IK		hov
+23	kjesebukk		subst		|q|	20	PUTFYLL		hov
+24	»		anf		anf	23	IK		hov
+25	viss		sbu			27	SBU		hov
+26	han		pron			27	SUBJ		hov
+27	var		verb			18	ADV		hov
+28	litt		adj			29	ADV		hov
+29	tverr		adj			27	SPRED		hov
+30	og		konj			31	KONJ		hov
+31	vanskeleg		adj			29	KOORD		hov
+32	nå		adv			31	ADV		hov
+33	å		inf-merke			31	ADV		hov
+34	halde		verb			33	INFV		hov
+35	på		prep			34	ADV		hov
+36	med		prep			34	ADV		hov
+
+# text = kjesebukk ja
+# segstart = 1123.542
+# segstop = 1124.766
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 278
+1	kjesebukk		subst			2	ADV		hov
+2	ja		interj			0	INTERJ		hov
+
+# text = vere i lag med
+# segstart = 1124.613
+# segstop = 1125.437
+# file = nordli_uio_01
+# speaker = of
+# id = 279
+1	vere		verb			0	FINV		hov
+2	i		prep			1	SPRED		hov
+3	lag		subst			2	PUTFYLL		hov
+4	med		prep			1	ADV		hov
+
+# text = ja
+# segstart = 1125.419
+# segstop = 1125.941
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 280
+1	ja		interj			0	INTERJ		hov
+
+# text = ein kjese ?
+# segstart = 1126.617
+# segstop = 1127.625
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 281
+1	ein		det			2	DET		hov
+2	kjese		subst			0	FRAG		hov
+3	?		clb			2	IP		hov
+
+# text = …
+# segstart = 1126.626
+# segstop = 1127.098
+# file = nordli_uio_01
+# speaker = of
+# id = 282
+1	…		ellipsis			0	IK		hov
+
+# text = ja at han var kjesen
+# segstart = 1127.79
+# segstop = 1129.502
+# file = nordli_uio_01
+# speaker = of
+# id = 283
+1	ja		interj			4	INTERJ		hov
+2	at		sbu			4	SBU		hov
+3	han		pron			4	SUBJ		hov
+4	var		verb			0	FINV		hov
+5	kjesen		subst			4	SPRED		hov
+
+# text = ja # ja
+# segstart = 1129.051
+# segstop = 1130.0
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 284
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = kva du trur det kjem av ?
+# segstart = 1130.517
+# segstop = 1131.872
+# file = nordli_uio_01
+# speaker = of
+# id = 285
+1	kva		pron			6	PUTFYLL		hov
+2	du		pron			3	SUBJ		hov
+3	trur		verb			0	FINV		hov
+4	det		pron			5	FSUBJ		hov
+5	kjem		verb			3	DOBJ		hov
+6	av		prep			5	ADV		hov
+7	?		clb			3	IP		hov
+
+# text = det kjem altså av det her e
+# segstart = 1131.873
+# segstop = 1134.489
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 286
+1	det		pron			2	FSUBJ		hov
+2	kjem		verb			0	FINV		hov
+3	altså		adv			2	ADV		hov
+4	av		prep			2	ADV		hov
+5	det		pron			4	PUTFYLL		hov
+6	her		prep			5	ATR		hov
+7	e		nol			2	FYLL		hov
+
+# text = kalvemage gammalt attetter
+# segstart = 1135.082
+# segstop = 1137.419
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 287
+1	kalvemage		subst			0	FRAG		hov
+2	gammalt		adj			1	ATR		hov
+3	attetter		prep			2	ADV		hov
+
+# text = seier du det ?
+# segstart = 1137.794
+# segstop = 1138.733
+# file = nordli_uio_01
+# speaker = of
+# id = 288
+1	seier		verb			0	FINV		hov
+2	du		pron			1	SUBJ		hov
+3	det		pron			1	DOBJ		hov
+4	?		clb			1	IP		hov
+
+# text = ja
+# segstart = 1138.367
+# segstop = 1138.911
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 289
+1	ja		interj			0	INTERJ		hov
+
+# text = e dei kalla han det da for kjese # den em dei stelte osteløype av mjølk-
+# segstart = 1140.441
+# segstop = 1146.007
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 290
+1	e		nol			2	FYLL		hov
+2	dei		pron			3	SUBJ		hov
+3	kalla		verb			0	FINV		hov
+4	han		pron			5	REP		hov
+5	det		pron			3	DOBJ		hov
+6	da		adv			3	ADV		hov
+7	for		prep			3	ADV		hov
+8	kjese		subst			7	PUTFYLL		hov
+9	#		pause			10	IK		hov
+10	den		pron			15	PUTFYLL		hov
+11	em		nol			12	FYLL		hov
+12	dei		pron			13	SUBJ		hov
+13	stelte		verb			3	KOORD		hov
+14	osteløype		subst			13	DOBJ		hov
+15	av		prep			14	ATR		hov
+16	mjølk-		ufullst			3	FYLL		hov
+
+# text = ja # og så og så vart det kjesemus
+# segstart = 1145.618
+# segstop = 1148.115
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 291
+1	ja		interj			7	INTERJ		hov
+2	#		pause			3	IK		hov
+3	og		konj			5	REP		hov
+4	så		adv			6	REP		hov
+5	og		konj			7	KONJ		hov
+6	så		adv			7	ADV		hov
+7	vart		verb			0	FINV		hov
+8	det		pron			7	FSUBJ		hov
+9	kjesemus		subst			7	SPRED		hov
+
+# text = å ja
+# segstart = 1146.239
+# segstop = 1147.132
+# file = nordli_uio_01
+# speaker = of
+# id = 292
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = ja # ja ja ja
+# segstart = 1147.688
+# segstop = 1150.026
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 293
+1	ja		interj			0	INTERJ		hov
+2	#		pause			3	IK		hov
+3	ja		interj			1	INTERJ		hov
+4	ja		interj			1	INTERJ		hov
+5	ja		interj			1	INTERJ		hov
+
+# text = ja kjesemus veit eg av
+# segstart = 1147.964
+# segstop = 1149.692
+# file = nordli_uio_01
+# speaker = of
+# id = 294
+1	ja		interj			3	INTERJ		hov
+2	kjesemus		subst			3	DOBJ		hov
+3	veit		verb			0	FINV		hov
+4	eg		pron			3	SUBJ		hov
+5	av		prep			3	ADV		hov
+
+# text = men # e kva du trur det kjem av dei har flytta over det der på ein ein som er # litt tverr og
+# segstart = 1150.316
+# segstop = 1156.581
+# file = nordli_uio_01
+# speaker = of
+# id = 295
+1	men		konj			6	KONJ		hov
+2	#		pause			4	IK		hov
+3	e		nol			4	FYLL		hov
+4	kva		pron			6	DOBJ		hov
+5	du		pron			6	SUBJ		hov
+6	trur		verb			0	FINV		hov
+7	det		pron			8	FSUBJ		hov
+8	kjem		verb			6	ADV		hov
+9	av		prep			8	ADV		hov
+10	dei		pron			11	SUBJ		hov
+11	har		verb			8	SPRED		hov
+12	flytta		verb			11	INFV		hov
+13	over		prep			12	ADV		hov
+14	det		pron			13	PUTFYLL		hov
+15	der		prep			14	ATR		hov
+16	på		prep			12	ADV		hov
+17	ein		pron			18	REP		hov
+18	ein		pron			20	SUBJ		hov
+19	som		sbu			20	SBU		hov
+20	er		verb			16	PUTFYLL		hov
+21	#		pause			22	IK		hov
+22	litt		adj			23	ADV		hov
+23	tverr		adj			20	SPRED		hov
+24	og		konj			6	KONJ		hov
+
+# text = ja men sjø det var da det var da til han var da tverr
+# segstart = 1156.133
+# segstop = 1161.107
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 296
+1	ja		interj			8	INTERJ		hov
+2	men		konj			8	KONJ		hov
+3	sjø		adv			8	ADV		hov
+4	det		pron			5	FSUBJ		hov
+5	var		verb			8	REP		hov
+6	da		adv			5	ADV		hov
+7	det		pron			8	FSUBJ		hov
+8	var		verb			0	FINV		hov
+9	da		adv			8	ADV		hov
+10	til		prep			8	SPRED		hov
+11	han		pron			12	SUBJ		hov
+12	var		verb			8	KOORD		hov
+13	da		adv			12	ADV		hov
+14	tverr		adj			12	SPRED		hov
+
+# text = ja ja men da er vel det
+# segstart = 1160.227
+# segstop = 1163.86
+# file = nordli_uio_01
+# speaker = of
+# id = 297
+1	ja		interj			5	INTERJ		hov
+2	ja		interj			5	INTERJ		hov
+3	men		konj			5	KONJ		hov
+4	da		adv			5	ADV		hov
+5	er		verb			0	FINV		hov
+6	vel		adv			5	ADV		hov
+7	det		pron			5	FSUBJ		hov
+
+# text = og du veit dei hadde da veldig til arbeid med den før enn dei hadde reinska han
+# segstart = 1163.862
+# segstop = 1169.103
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 298
+1	og		konj			3	KONJ		hov
+2	du		pron			3	SUBJ		hov
+3	veit		verb			0	FINV		hov
+4	dei		pron			5	SUBJ		hov
+5	hadde		verb			3	DOBJ		hov
+6	da		adv			5	ADV		hov
+7	veldig		adj			5	DOBJ		hov
+8	til		prep			7	ADV		hov
+9	arbeid		subst			8	PUTFYLL		hov
+10	med		prep			9	ATR		hov
+11	den		pron			10	PUTFYLL		hov
+12	før		prep			15	ADV		hov
+13	enn		sbu			15	SBU		hov
+14	dei		pron			15	SUBJ		hov
+15	hadde		verb			5	ADV		hov
+16	reinska		verb			15	INFV		hov
+17	han		pron			16	DOBJ		hov
+
+# text = og nesten ubegrensa kva arbeid dei har
+# segstart = 1169.391
+# segstop = 1172.139
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 299
+1	og		konj			7	KONJ		hov
+2	nesten		adv			3	ADV		hov
+3	ubegrensa		adj			7	ADV		hov
+4	kva		det			5	DET		hov
+5	arbeid		subst			7	DOBJ		hov
+6	dei		pron			7	SUBJ		hov
+7	har		verb			0	FINV		hov
+
+# text = å ja sånn ja
+# segstart = 1171.875
+# segstop = 1172.871
+# file = nordli_uio_01
+# speaker = of
+# id = 300
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+3	sånn		adv			4	ADV		hov
+4	ja		interj			1	INTERJ		hov
+
+# text = ja # først var han nå trasig å ta laus og så # dei tok han av kalvemagen
+# segstart = 1172.501
+# segstop = 1178.352
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 301
+1	ja		interj			4	INTERJ		hov
+2	#		pause			3	IK		hov
+3	først		adv			4	ADV		hov
+4	var		verb			0	FINV		hov
+5	han		pron			4	SUBJ		hov
+6	nå		adv			4	ADV		hov
+7	trasig		adj			4	SPRED		hov
+8	å		inf-merke			7	ADV		hov
+9	ta		verb			8	INFV		hov
+10	laus		adj			9	ADV		hov
+11	og		konj			15	KONJ		hov
+12	så		adv			15	ADV		hov
+13	#		pause			14	IK		hov
+14	dei		pron			15	SUBJ		hov
+15	tok		verb			4	KOORD		hov
+16	han		pron			15	DOBJ		hov
+17	av		prep			15	ADV		hov
+18	kalvemagen		subst			17	PUTFYLL		hov
+
+# text = å ja
+# segstart = 1178.77
+# segstop = 1179.626
+# file = nordli_uio_01
+# speaker = of
+# id = 302
+1	å		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = og det måtte vere altså av e ein kalv som ikkje hadde fått fôr
+# segstart = 1180.93
+# segstop = 1185.068
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 303
+1	og		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	måtte		verb			0	FINV		hov
+4	vere		verb			3	INFV		hov
+5	altså		adv			4	ADV		hov
+6	av		prep			4	SPRED		hov
+7	e		nol			10	FYLL		hov
+8	ein		det			9	DET		hov
+9	kalv		subst			6	PUTFYLL		hov
+10	som		sbu			12	SBU		hov
+11	ikkje		adv			13	ADV		hov
+12	hadde		verb			9	ATR		hov
+13	fått		verb			12	INFV		hov
+14	fôr		subst			13	DOBJ		hov
+
+# text = og han måtte ikkje vere over tre dagar gammal # når du e slakta han og tok den der kjesen
+# segstart = 1185.486
+# segstop = 1192.624
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 304
+1	og		konj			3	KONJ		hov
+2	han		pron			3	SUBJ		hov
+3	måtte		verb			0	FINV		hov
+4	ikkje		adv			5	ADV		hov
+5	vere		verb			3	INFV		hov
+6	over		prep			5	SPRED		hov
+7	tre		det			8	DET		hov
+8	dagar		subst			6	PUTFYLL		hov
+9	gammal		adj			8	ATR		hov
+10	#		pause			11	IK		hov
+11	når		sbu			14	SBU		hov
+12	du		pron			14	SUBJ		hov
+13	e		nol			14	FYLL		hov
+14	slakta		verb			5	ADV		hov
+15	han		pron			14	DOBJ		hov
+16	og		konj			17	KONJ		hov
+17	tok		verb			14	KOORD		hov
+18	den		det			20	DET		hov
+19	der		prep			18	ADV		hov
+20	kjesen		subst			17	DOBJ		hov
+
+# text = å jaså
+# segstart = 1185.544
+# segstop = 1186.922
+# file = nordli_uio_01
+# speaker = of
+# id = 305
+1	å		interj			0	INTERJ		hov
+2	jaså		adv			1	ADV		hov
+
+# text = jaha
+# segstart = 1189.117
+# segstop = 1190.14
+# file = nordli_uio_01
+# speaker = of
+# id = 306
+1	jaha		interj			0	INTERJ		hov
+
+# text = ja visst ja
+# segstart = 1192.647
+# segstop = 1193.907
+# file = nordli_uio_01
+# speaker = of
+# id = 307
+1	ja		interj			0	INTERJ		hov
+2	visst		adv			1	ADV		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = og i og med det at du hadde da arbeidd han # til
+# segstart = 1193.947
+# segstop = 1197.919
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 308
+1	og		konj			2	KONJ		hov
+2	i		prep			0	FRAG		hov
+3	og		konj			4	KONJ		hov
+4	med		prep			2	KOORD		hov
+5	det		pron			4	PUTFYLL		hov
+6	at		sbu			8	SBU		hov
+7	du		pron			8	SUBJ		hov
+8	hadde		verb			5	APP		hov
+9	da		adv			10	ADV		hov
+10	arbeidd		verb			8	INFV		hov
+11	han		pron			10	DOBJ		hov
+12	#		pause			13	IK		hov
+13	til		prep			10	ADV		hov
+
+# text = så var nå berre å slå vatn på han der og ha ståande da # ei viss tid
+# segstart = 1198.258
+# segstop = 1203.171
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 309
+1	så		adv			2	ADV		hov
+2	var		verb			0	FINV		hov
+3	nå		adv			2	ADV		hov
+4	berre		adv			2	ADV		hov
+5	å		inf-merke			2	SPRED		hov
+6	slå		verb			5	INFV		hov
+7	vatn		subst			6	DOBJ		hov
+8	på		prep			6	ADV		hov
+9	han		pron			8	PUTFYLL		hov
+10	der		prep			6	ADV		hov
+11	og		konj			12	KONJ		hov
+12	ha		verb			6	KOORD		hov
+13	ståande		adj			12	SPRED		hov
+14	da		adv			12	ADV		hov
+15	#		pause			16	IK		hov
+16	ei		det			18	DET		hov
+17	viss		adj			18	ATR		hov
+18	tid		subst			12	ADV		hov
+
+# text = ja
+# segstart = 1201.897
+# segstop = 1202.631
+# file = nordli_uio_01
+# speaker = of
+# id = 310
+1	ja		interj			0	INTERJ		hov
+
+# text = og det var kjeselaup som berre det
+# segstart = 1203.491
+# segstop = 1206.394
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 311
+1	og		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	kjeselaup		subst			3	SPRED		hov
+5	som		prep			3	ADV		hov
+6	berre		adv			7	ATR		hov
+7	det		pron			5	PUTFYLL		hov
+
+# text = ja
+# segstart = 1206.01
+# segstop = 1207.074
+# file = nordli_uio_01
+# speaker = of
+# id = 312
+1	ja		interj			0	INTERJ		hov
+
+# text = og da brukte dei han da til å til å få mjølka til å e # oste seg # og sprekke ja
+# segstart = 1207.382
+# segstop = 1212.722
+# file = nordli_uio_01
+# speaker = of
+# id = 313
+1	og		konj			3	KONJ		hov
+2	da		adv			3	ADV		hov
+3	brukte		verb			0	FINV		hov
+4	dei		pron			3	SUBJ		hov
+5	han		pron			3	DOBJ		hov
+6	da		adv			3	ADV		hov
+7	til		prep			9	REP		hov
+8	å		inf-merke			7	PUTFYLL		hov
+9	til		prep			3	ADV		hov
+10	å		inf-merke			9	PUTFYLL		hov
+11	få		verb			10	INFV		hov
+12	mjølka		subst			11	DOBJ		hov
+13	til		prep			12	ATR		hov
+14	å		inf-merke			13	PUTFYLL		hov
+15	e		nol			17	FYLL		hov
+16	#		pause			17	IK		hov
+17	oste		verb			14	INFV		hov
+18	seg		pron			17	DOBJ		hov
+19	#		pause			20	IK		hov
+20	og		konj			21	KONJ		hov
+21	sprekke		verb			17	KOORD		hov
+22	ja		interj			3	INTERJ		hov
+
+# text = ja sprekke # ta utor ost
+# segstart = 1210.698
+# segstop = 1214.316
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 314
+1	ja		interj			2	INTERJ		hov
+2	sprekke		verb			0	FINV		hov
+3	#		pause			4	IK		hov
+4	ta		verb			2	INFV		hov
+5	utor		prep			4	ADV		hov
+6	ost		subst			5	PUTFYLL		hov
+
+# text = ja
+# segstart = 1213.813
+# segstop = 1214.433
+# file = nordli_uio_01
+# speaker = of
+# id = 315
+1	ja		interj			0	INTERJ		hov
+
+# text = så at
+# segstart = 1215.062
+# segstop = 1216.246
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 316
+1	så		adv			0	FRAG		hov
+2	at		sbu			1	SBU		hov
+
+# text = ja visst ja
+# segstart = 1215.497
+# segstop = 1217.537
+# file = nordli_uio_01
+# speaker = of
+# id = 317
+1	ja		interj			0	INTERJ		hov
+2	visst		adj			1	ADV		hov
+3	ja		interj			1	INTERJ		hov
+
+# text = men skjønt det var nå eit stygt arbeid å e og få til dei der
+# segstart = 1217.007
+# segstop = 1222.198
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 318
+1	men		konj			4	KONJ		hov
+2	skjønt		adj			4	ADV		hov
+3	det		pron			4	FSUBJ		hov
+4	var		verb			0	FINV		hov
+5	nå		adv			4	ADV		hov
+6	eit		det			8	DET		hov
+7	stygt		adj			8	ATR		hov
+8	arbeid		subst			4	SPRED		hov
+9	å		inf-merke			8	ATR		hov
+10	e		nol			11	FYLL		hov
+11	og		konj			12	KONJ		hov
+12	få		verb			9	INFV		hov
+13	til		prep			12	ADV		hov
+14	dei		pron			12	DOBJ		hov
+15	der		prep			14	ATR		hov
+
+# text = ja
+# segstart = 1221.608
+# segstop = 1222.41
+# file = nordli_uio_01
+# speaker = of
+# id = 319
+1	ja		interj			0	INTERJ		hov
+
+# text = så det var nå berre ## var nå berre som skulle gjere det nei da
+# segstart = 1222.736
+# segstop = 1228.242
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 320
+1	så		konj			7	KONJ		hov
+2	det		pron			7	FSUBJ		hov
+3	var		verb			7	REP		hov
+4	nå		adv			3	ADV		hov
+5	berre		adv			3	ADV		hov
+6	##		pause			7	IK		hov
+7	var		verb			0	FINV		hov
+8	nå		adv			7	ADV		hov
+9	berre		adv			7	ADV		hov
+10	som		sbu			11	SBU		hov
+11	skulle		verb			7	SPRED		hov
+12	gjere		verb			11	INFV		hov
+13	det		pron			12	DOBJ		hov
+14	nei		interj			7	INTERJ		hov
+15	da		adv			14	ADV		hov
+
+# text = men dei var jo nøydde til det # i den tida
+# segstart = 1228.529
+# segstop = 1230.56
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 321
+1	men		konj			3	KONJ		hov
+2	dei		pron			3	SUBJ		hov
+3	var		verb			0	FINV		hov
+4	jo		adv			3	ADV		hov
+5	nøydde		adj			3	SPRED		hov
+6	til		prep			5	ADV		hov
+7	det		pron			6	PUTFYLL		hov
+8	#		pause			9	IK		hov
+9	i		prep			3	ADV		hov
+10	den		det			11	DET		hov
+11	tida		subst			9	PUTFYLL		hov
+
+# text = ja
+# segstart = 1230.972
+# segstop = 1231.562
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 322
+1	ja		interj			0	INTERJ		hov
+
+# text = ja det var greitt med dei
+# segstart = 1231.044
+# segstop = 1232.676
+# file = nordli_uio_01
+# speaker = of
+# id = 323
+1	ja		interj			3	INTERJ		hov
+2	det		pron			3	FSUBJ		hov
+3	var		verb			0	FINV		hov
+4	greitt		adj			3	SPRED		hov
+5	med		prep			4	ADV		hov
+6	dei		pron			5	PUTFYLL		hov
+
+# text = ei jo ja det var da # eg kjem i hug sist eg var borti den der kjesen det var under krigen
+# segstart = 1232.424
+# segstop = 1239.976
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 324
+1	ei		det			5	SLETT		hov
+2	jo		interj			5	INTERJ		hov
+3	ja		interj			5	INTERJ		hov
+4	det		pron			5	FSUBJ		hov
+5	var		verb			0	FINV		hov
+6	da		adv			5	ADV		hov
+7	#		pause			8	IK		hov
+8	eg		pron			9	SUBJ		hov
+9	kjem		verb			5	SPRED		hov
+10	i		prep			9	ADV		hov
+11	hug		subst			10	PUTFYLL		hov
+12	sist		adv			14	ADV		hov
+13	eg		pron			14	SUBJ		hov
+14	var		verb			9	DOBJ		hov
+15	borti		prep			14	SPRED		hov
+16	den		det			18	DET		hov
+17	der		prep			18	ATR		hov
+18	kjesen		subst			15	PUTFYLL		hov
+19	det		pron			20	SUBJ		hov
+20	var		verb			5	KOORD		hov
+21	under		prep			20	SPRED		hov
+22	krigen		subst			21	PUTFYLL		hov
+
+# text = ja
+# segstart = 1239.803
+# segstop = 1240.707
+# file = nordli_uio_01
+# speaker = of
+# id = 325
+1	ja		interj			0	INTERJ		hov
+
+# text = for så var det nå veldig trasig med osteløypen
+# segstart = 1240.606
+# segstop = 1243.51
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 326
+1	for		prep			3	ADV		hov
+2	så		adv			3	ADV		hov
+3	var		verb			0	FINV		hov
+4	det		pron			3	FSUBJ		hov
+5	nå		adv			3	ADV		hov
+6	veldig		adj			7	ADV		hov
+7	trasig		adj			3	SPRED		hov
+8	med		prep			7	ADV		hov
+9	osteløypen		subst			8	PUTFYLL		hov
+
+# text = mm
+# segstart = 1242.647
+# segstop = 1243.451
+# file = nordli_uio_01
+# speaker = nordli_uio_0102
+# id = 327
+1	mm		interj			0	INTERJ		hov
+
+# text = e F6 ho # ho e ho F6
+# segstart = 1244.507
+# segstop = 1249.036
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 328
+1	e		nol			3	FYLL		hov
+2	F6		subst			8	REP		hov
+3	ho		pron			7	REP		hov
+4	#		pause			5	IK		hov
+5	ho		pron			7	REP		hov
+6	e		nol			7	FYLL		hov
+7	ho		pron			8	DET		hov
+8	F6		subst			0	FRAG		hov
+
+# text = ho tok e- ein og # stelte # var da mange som fekk dei til den der kjeselaupen av han
+# segstart = 1249.051
+# segstop = 1255.279
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 329
+1	ho		pron			2	SUBJ		hov
+2	tok		verb			0	FINV		hov
+3	e-		ufullst			4	FYLL		hov
+4	ein		pron			2	DOBJ		hov
+5	og		konj			7	KONJ		hov
+6	#		pause			7	IK		hov
+7	stelte		verb			2	KOORD		hov
+8	#		pause			9	IK		hov
+9	var		verb			2	KOORD		hov
+10	da		adv			9	ADV		hov
+11	mange		adj			9	SPRED		hov
+12	som		sbu			13	SBU		hov
+13	fekk		verb			11	ADV		hov
+14	dei		pron			13	ADV		hov
+15	til		prep			13	ADV		hov
+16	den		det			18	DET		hov
+17	der		prep			16	ADV		hov
+18	kjeselaupen		subst			13	DOBJ		hov
+19	av		prep			13	ADV		hov
+20	han		pron			19	PUTFYLL		hov
+
+# text = ja
+# segstart = 1250.639
+# segstop = 1252.044
+# file = nordli_uio_01
+# speaker = of
+# id = 330
+1	ja		interj			0	INTERJ		hov
+
+# text = ja ja
+# segstart = 1255.477
+# segstop = 1256.61
+# file = nordli_uio_01
+# speaker = of
+# id = 331
+1	ja		interj			0	INTERJ		hov
+2	ja		interj			1	INTERJ		hov
+
+# text = så det er det siste eg minnest at
+# segstart = 1257.492
+# segstop = 1260.867
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 332
+1	så		konj			3	KONJ		hov
+2	det		pron			3	FSUBJ		hov
+3	er		verb			0	FINV		hov
+4	det		det			5	DET		hov
+5	siste		adj			7	SPRED		hov
+6	eg		pron			7	SUBJ		hov
+7	minnest		verb			3	SPRED		hov
+8	at		sbu			7	SBU		hov
+
+# text = jaså # nei det visste eg ikkje
+# segstart = 1260.39
+# segstop = 1262.343
+# file = nordli_uio_01
+# speaker = of
+# id = 333
+1	jaså		adv			5	ADV		hov
+2	#		pause			3	IK		hov
+3	nei		interj			5	INTERJ		hov
+4	det		pron			5	DOBJ		hov
+5	visste		verb			0	FINV		hov
+6	eg		pron			5	SUBJ		hov
+7	ikkje		adv			5	ADV		hov
+
+# text = jo da
+# segstart = 1262.161
+# segstop = 1262.794
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 334
+1	jo		adv			2	ADV		hov
+2	da		adv			0	FRAG		hov
+
+# text = så det
+# segstart = 1263.723
+# segstop = 1265.122
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 335
+1	så		konj			2	KONJ		hov
+2	det		pron			0	FRAG		hov
+
+# text = så i dag har eg lært mykje nytt
+# segstart = 1264.683
+# segstop = 1266.167
+# file = nordli_uio_01
+# speaker = of
+# id = 336
+1	så		konj			4	KONJ		hov
+2	i		prep			6	ADV		hov
+3	dag		subst			2	PUTFYLL		hov
+4	har		verb			0	FINV		hov
+5	eg		pron			4	SUBJ		hov
+6	lært		verb			4	INFV		hov
+7	mykje		adj			6	ADV		hov
+8	nytt		adj			6	DOBJ		hov
+
+# text = det er heilt sikkert det kjem derifrå ja
+# segstart = 1266.867
+# segstop = 1269.315
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 337
+1	det		pron			2	FSUBJ		hov
+2	er		verb			0	FINV		hov
+3	heilt		adj			4	ADV		hov
+4	sikkert		adj			2	SPRED		hov
+5	det		pron			6	FSUBJ		hov
+6	kjem		verb			2	ADV		hov
+7	derifrå		prep			6	ADV		hov
+8	ja		interj			2	INTERJ		hov
+
+# text = men da # er vi einige om at du lagar deg ein liten lapp da og skriv opp det du kjem på
+# segstart = 1269.511
+# segstop = 1274.597
+# file = nordli_uio_01
+# speaker = of
+# id = 338
+1	men		konj			4	KONJ		hov
+2	da		adv			4	ADV		hov
+3	#		pause			4	IK		hov
+4	er		verb			0	FINV		hov
+5	vi		pron			4	SUBJ		hov
+6	einige		adj			4	SPRED		hov
+7	om		prep			6	ADV		hov
+8	at		sbu			10	SBU		hov
+9	du		pron			10	SUBJ		hov
+10	lagar		verb			7	PUTFYLL		hov
+11	deg		pron			10	IOBJ		hov
+12	ein		det			14	DET		hov
+13	liten		adj			14	ATR		hov
+14	lapp		subst			10	DOBJ		hov
+15	da		adv			10	ADV		hov
+16	og		konj			17	KONJ		hov
+17	skriv		verb			10	KOORD		hov
+18	opp		prep			17	ADV		hov
+19	det		pron			17	DOBJ		hov
+20	du		pron			17	SUBJ		hov
+21	kjem		verb			19	ATR		hov
+22	på		prep			21	ADV		hov
+
+# text = ja da # det skal eg gjere # så sikkert som
+# segstart = 1272.007
+# segstop = 1276.397
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 339
+1	ja		interj			5	INTERJ		hov
+2	da		adv			5	ADV		hov
+3	#		pause			5	IK		hov
+4	det		pron			7	DOBJ		hov
+5	skal		verb			0	FINV		hov
+6	eg		pron			5	SUBJ		hov
+7	gjere		verb			5	INFV		hov
+8	#		pause			9	IK		hov
+9	så		adv			10	ADV		hov
+10	sikkert		adj			7	ADV		hov
+11	som		sbu			7	SBU		hov
+
+# text = så kjem eg innom nokon dag
+# segstart = 1276.215
+# segstop = 1277.629
+# file = nordli_uio_01
+# speaker = of
+# id = 340
+1	så		adv			2	ADV		hov
+2	kjem		verb			0	FINV		hov
+3	eg		pron			2	SUBJ		hov
+4	innom		prep			2	ADV		hov
+5	nokon		det			6	DET		hov
+6	dag		subst			4	PUTFYLL		hov
+
+# text = ja
+# segstart = 1277.671
+# segstop = 1278.399
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 341
+1	ja		interj			0	INTERJ		hov
+
+# text = takk skal du ha
+# segstart = 1278.084
+# segstop = 1278.956
+# file = nordli_uio_01
+# speaker = of
+# id = 342
+1	takk		interj			2	INTERJ		hov
+2	skal		verb			0	FINV		hov
+3	du		pron			2	SUBJ		hov
+4	ha		verb			2	INFV		hov
+
+# text = jo
+# segstart = 1278.748
+# segstop = 1279.276
+# file = nordli_uio_01
+# speaker = nordli_uio_0101
+# id = 343
+1	jo		interj			0	INTERJ		hov
+

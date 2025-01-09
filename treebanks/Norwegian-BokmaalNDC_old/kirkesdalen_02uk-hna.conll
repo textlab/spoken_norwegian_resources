@@ -1,0 +1,2047 @@
+# text = men e # _uninterpretable_ for jeg vil egentlig bare høre litt om deg da # e # du kan jo fortelle meg litt om hvor du er e # født hen og vokste opp hen og ? r0t
+# segstart = 49.627
+# segstop = 61.54
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 1
+# annotator = VDT, SR
+# SR: - Endret strukturen i 'litt om..' og gjorde 'hvor' dependent til 'født'.
+1	men	men	konj	_	_	7	KONJ	_	_
+2	e	e	nol	_	_	4	FYLL	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	_uninterpretable_	_uninterpretable_	pause	_	_	7	FYLL	_	_
+5	for	for	konj	_	_	7	KONJ	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	7	SUBJ	_	_
+7	vil	ville	verb	_	pres	38	FINV	_	_
+8	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	10	ADV	_	_
+9	bare	bare	adv	_	_	10	ADV	_	_
+10	høre	høre	verb	_	inf	7	INFV	_	_
+11	litt	litt	adj	_	ub|pos|nøyt|ent	10	DOBJ	_	_
+12	om	om	prep	_	_	10	ADV	_	_
+13	deg	deg	pron	_	akk|2|ent|hum	12	PUTFYLL	_	_
+14	da	da	adv	_	_	10	ADV	_	_
+15	#	#	pause	_	_	18	IK	_	_
+16	e	e	nol	_	_	18	FYLL	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	du	du	pron	_	nom|2|ent|hum	19	SUBJ	_	_
+19	kan	kunne	verb	_	pres	7	KOORD	_	_
+20	jo	jo	adv	_	_	21	ADV	_	_
+21	fortelle	fortelle	verb	_	inf	19	INFV	_	_
+22	meg	meg	pron	_	akk|1|ent|hum	21	IOBJ	_	_
+23	litt	litt	adj	_	ub|pos|nøyt|ent	21	DOBJ	_	_
+24	om	om	prep	_	_	21	ADV	_	_
+25	hvor	hvor	adv	_	_	30	ADV	_	_
+26	du	du	pron	_	nom|2|ent|hum	27	SUBJ	_	_
+27	er	være	verb	_	pres	24	PUTFYLL	_	_
+28	e	e	nol	_	_	30	FYLL	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	født	føde	verb	_	perf-part	27	INFV	_	_
+31	hen	hen	prep	_	_	30	ADV	_	_
+32	og	og	konj	_	_	33	KONJ	_	_
+33	vokste	vokse	verb	_	pret	27	KOORD	_	_
+34	opp	opp	prep	_	_	33	ADV	_	_
+35	hen	hen	prep	_	_	33	ADV	_	_
+36	og	og	konj	_	_	7	KONJ	_	_
+37	?	?	clb	_	_	7	IP	_	_
+38	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # _front-click_ # nei jeg jeg nå født i Harstad # vel sykehus da # men jeg har bodd her hele livet aldri vært noen annen plass altså r0t
+# segstart = 61.54
+# segstop = 69.767
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 3
+# annotator = VDT, SR
+# SR: - Flyttet 'hele livet' opp til 'bodd'.
+1	ja	ja	interj	_	_	9	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	_front-click_	_front-click_	nol	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	nei	nei	interj	_	_	9	INTERJ	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	9	REP	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	9	SUBJ	_	_
+8	nå	nå	adv	_	_	9	ADV	_	_
+9	født	føde	verb	_	perf-part	30	FINV	_	_
+10	i	i	prep	_	_	9	ADV	_	_
+11	Harstad	Harstad	subst	_	prop	10	PUTFYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	vel	vel	adv	_	_	9	ADV	_	_
+14	sykehus	sykehus	subst	_	ub|nøyt|fl|appell	13	PUTFYLL	_	_
+15	da	da	adv	_	_	9	ADV	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	men	men	konj	_	_	19	KONJ	_	_
+18	jeg	jeg	pron	_	nom|1|ent|hum	19	SUBJ	_	_
+19	har	ha	verb	_	pres	9	KOORD	_	_
+20	bodd	bo	verb	_	perf-part	19	INFV	_	_
+21	her	her	prep	_	_	20	ADV	_	_
+22	hele	hel	adj	_	be|pos|ent	23	ATR	_	_
+23	livet	liv	subst	_	be|nøyt|ent|appell	20	ADV	_	_
+24	aldri	aldri	adv	_	_	25	ADV	_	_
+25	vært	være	verb	_	perf-part	20	KOORD	_	_
+26	noen	noen	det	_	mask|ent|kvant	28	DET	_	_
+27	annen	annen	det	_	ub|mask|ent|dem	28	DET	_	_
+28	plass	plass	subst	_	ub|mask|ent|appell	25	ADV	_	_
+29	altså	altså	adv	_	_	25	ADV	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = jo vært andre men har ikke # bodd noe anna plass enn her i Kirkesdalen på den her plassen da # og det huset her og # hele livet r0t
+# segstart = 69.767
+# segstop = 76.839
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 4
+# annotator = VDT, SR
+# SR: - Hang 'enn' på 'anna'. APP'et 'på den her plassen ...'.
+1	jo	jo	interj	_	_	2	ADV	_	_
+2	vært	være	verb	_	perf-part	30	FINV	_	_
+3	andre	andre	det	_	fl|dem	2	SPRED	_	_
+4	men	men	konj	_	_	5	KONJ	_	_
+5	har	ha	verb	_	pres	2	KOORD	_	_
+6	ikke	ikke	adv	_	_	8	ADV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	bodd	bo	verb	_	perf-part	5	INFV	_	_
+9	noe	noe	det	_	nøyt|ent|kvant	11	DET	_	_
+10	anna	anna	det	_	ub|fem|ent|dem	11	DET	_	_
+11	plass	plass	subst	_	ub|mask|ent|appell	8	ADV	_	_
+12	enn	enn	prep	_	_	10	ADV	_	_
+13	her	her	prep	_	_	12	PUTFYLL	_	_
+14	i	i	prep	_	_	13	PUTFYLL	_	_
+15	Kirkesdalen	kirkesdalen	subst	_	prop	14	PUTFYLL	_	_
+16	på	på	prep	_	_	13	APP	_	_
+17	den	den	det	_	mask|ent|dem	19	DET	_	_
+18	her	her	prep	_	_	19	ATR	_	_
+19	plassen	plass	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+20	da	da	adv	_	_	19	ADV	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	og	og	konj	_	_	24	KONJ	_	_
+23	det	det	det	_	nøyt|ent|dem	24	DET	_	_
+24	huset	hus	subst	_	be|nøyt|ent|appell	19	KOORD	_	_
+25	her	her	prep	_	_	24	ATR	_	_
+26	og	og	konj	_	_	24	KONJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	hele	hel	adj	_	be|pos|ent	29	ATR	_	_
+29	livet	liv	subst	_	be|nøyt|ent|appell	8	ADV	_	_
+30	r0t	_	_	_	_	0	root	_	_
+
+# text = er familien din her ifra # Kirkesdalen ? r0t
+# segstart = 76.839
+# segstop = 79.558
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 5
+# annotator = VDT, SR
+1	er	være	verb	_	pres	9	FINV	_	_
+2	familien	familie	subst	_	be|mask|ent|appell	1	SUBJ	_	_
+3	din	din	det	_	mask|ent|poss	2	DET	_	_
+4	her	her	prep	_	_	1	ADV	_	_
+5	ifra	ifra	prep	_	_	4	PUTFYLL	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	Kirkesdalen	kirkesdalen	subst	_	prop	5	PUTFYLL	_	_
+8	?	?	clb	_	_	1	IP	_	_
+9	r0t	_	_	_	_	0	root	_	_
+
+# text = ja han pappa er fra Kirkesdalen men e # hun mamma hun er nå # hun har nå # bodd i Harstad men så hadde de r0t
+# segstart = 79.558
+# segstop = 88.327
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 6
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	han	han	pron	_	nom|mask|3|ent|pers	3	DET	_	_
+3	pappa	pappa	subst	_	ub|mask|ent|appell	4	SUBJ	_	_
+4	er	være	verb	_	pres	27	FINV	_	_
+5	fra	fra	prep	_	_	4	SPRED	_	_
+6	Kirkesdalen	kirkesdale	subst	_	prop	5	PUTFYLL	_	_
+7	men	men	konj	_	_	17	KONJ	_	_
+8	e	e	nol	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	hun	hun	pron	_	nom|fem|3|ent|hum	11	DET	_	_
+11	mamma	mamma	subst	_	ub|mask|ent|appell	12	APP	_	_
+12	hun	hun	pron	_	nom|fem|3|ent|hum	13	SUBJ	_	_
+13	er	være	verb	_	pres	17	REP	_	_
+14	nå	nå	adv	_	_	13	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	hun	hun	pron	_	nom|fem|3|ent|hum	17	SUBJ	_	_
+17	har	ha	verb	_	pres	4	KOORD	_	_
+18	nå	nå	adv	_	_	20	ADV	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	bodd	bo	verb	_	perf-part	17	INFV	_	_
+21	i	i	prep	_	_	20	ADV	_	_
+22	Harstad	Harstad	subst	_	prop	21	PUTFYLL	_	_
+23	men	men	konj	_	_	25	KONJ	_	_
+24	så	så	adv	_	_	25	ADV	_	_
+25	hadde	ha	verb	_	pret	17	SLETT	_	_
+26	de	de	pron	_	nom|2|fl|hum	25	SUBJ	_	_
+27	r0t	_	_	_	_	0	root	_	_
+
+# text = mora # altså bestemora til hun mamma da # hadde hus her oppe og de hadde feriehus så de var i # Kirkesdalen i # noen ganger i ukene og hver helg og r0t
+# segstart = 88.327
+# segstop = 96.203
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 7
+# annotator = VDT, SR
+# SR: - Gjorde 'da' dependent til 'mamma'
+1	mora	mor	subst	_	be|fem|ent|appell	3	REP	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	altså	altså	adv	_	_	10	ADV	_	_
+4	bestemora	bestemor	subst	_	be|fem|ent|appell	10	SUBJ	_	_
+5	til	til	prep	_	_	4	ATR	_	_
+6	hun	hun	pron	_	nom|fem|3|ent|hum	7	DET	_	_
+7	mamma	mamma	subst	_	ub|mask|ent|appell	5	PUTFYLL	_	_
+8	da	da	adv	_	_	10	ADV	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	hadde	ha	verb	_	pret	34	FINV	_	_
+11	hus	hus	subst	_	ub|nøyt|ent|appell	10	DOBJ	_	_
+12	her	her	prep	_	_	10	ADV	_	_
+13	oppe	oppe	prep	_	_	12	PUTFYLL	_	_
+14	og	og	konj	_	_	16	KONJ	_	_
+15	de	de	pron	_	nom|2|fl|hum	16	SUBJ	_	_
+16	hadde	ha	verb	_	pret	10	KOORD	_	_
+17	feriehus	feriehus	subst	_	ub|nøyt|ent|appell	16	DOBJ	_	_
+18	så	så	konj	_	_	20	KONJ	_	_
+19	de	de	pron	_	nom|2|fl|hum	20	SUBJ	_	_
+20	var	være	verb	_	pret	10	KOORD	_	_
+21	i	i	prep	_	_	20	SPRED	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	Kirkesdalen	kirkesdale	subst	_	prop	21	PUTFYLL	_	_
+24	i	i	prep	_	_	23	SLETT	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	noen	noen	det	_	fl|kvant	27	DET	_	_
+27	ganger	ganger	subst	_	ub|mask|fl|appell	20	ADV	_	_
+28	i	i	prep	_	_	27	ATR	_	_
+29	ukene	uke	subst	_	be|fem|fl|appell	28	PUTFYLL	_	_
+30	og	og	konj	_	_	32	KONJ	_	_
+31	hver	hver	det	_	fem|ent|kvant	32	DET	_	_
+32	helg	helg	subst	_	ub|fem|ent|appell	27	KOORD	_	_
+33	og	og	konj	_	_	32	SLETT	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = så # pluss hun har en far fra # Øvrebygd # sånn at det jeg er liksom # døl jeg er jo # ja ja hun mamma snakker jo kirkesdaling og r0t
+# segstart = 96.203
+# segstop = 104.515
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 8
+# annotator = VDT, SR
+# SR: - Gjorde 'sånn' dependent til 'at'
+1	så	så	adv	_	_	5	KONJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	pluss	pluss	adv	_	_	5	ADV	_	_
+4	hun	hun	pron	_	nom|fem|3|ent|hum	5	SUBJ	_	_
+5	har	ha	verb	_	pres	32	FINV	_	_
+6	en	en	det	_	mask|ent|kvant	7	DET	_	_
+7	far	far	subst	_	ub|mask|ent|appell	5	DOBJ	_	_
+8	fra	fra	prep	_	_	7	ATR	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	Øvrebygd	Øvrebygd	subst	_	prop	8	PUTFYLL	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	sånn	sånn	adv	_	_	13	ADV	_	_
+13	at	at	sbu	_	_	16	SBU	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	REP	_	_
+15	jeg	jeg	pron	_	nom|1|ent|hum	16	SUBJ	_	_
+16	er	være	verb	_	pres	5	ADV	_	_
+17	liksom	liksom	adv	_	_	16	ADV	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	døl	døl	subst	_	ub|mask|ent|appell	16	SPRED	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	21	SUBJ	_	_
+21	er	være	verb	_	pres	5	SLETT	_	_
+22	jo	jo	adv	_	_	21	ADV	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	ja	ja	interj	_	_	28	INTERJ	_	_
+25	ja	ja	interj	_	_	28	INTERJ	_	_
+26	hun	hun	pron	_	nom|fem|3|ent|hum	27	DET	_	_
+27	mamma	mamma	adv	_	_	28	SUBJ	_	_
+28	snakker	snakke	verb	_	pres	5	KOORD	_	_
+29	jo	jo	adv	_	_	28	ADV	_	_
+30	kirkesdaling	kirkesdaling	subst	_	ub|mask|ent|appell	28	DOBJ	_	_
+31	og	og	konj	_	_	28	KONJ	_	_
+32	r0t	_	_	_	_	0	root	_	_
+
+# text = det har hun gjort hele livet hun har aldri # snakka Harstad # eller # for det at hun er fra Harstad # kun snakka kirkesdaling # han pappa er jo kirkesdaling så r0t
+# segstart = 104.515
+# segstop = 113.856
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 9
+# annotator = VDT, SR
+# SR: - endret 'kunne' til 'kun' etter å ha hørt opptak. 'for det at' analysert som kompleks subjunksjon med betydning 'selv om'
+1	det	det	pron	_	nøyt|3|ent|pers	4	DOBJ	_	_
+2	har	ha	verb	_	pres	34	FINV	_	_
+3	hun	hun	pron	_	nom|fem|3|ent|hum	2	SUBJ	_	_
+4	gjort	gjøre	verb	_	perf-part	2	INFV	_	_
+5	hele	hel	adj	_	be|pos|ent	6	ATR	_	_
+6	livet	liv	subst	_	be|nøyt|ent|appell	4	ADV	_	_
+7	hun	hun	pron	_	nom|fem|3|ent|hum	8	SUBJ	_	_
+8	har	ha	verb	_	pres	2	KOORD	_	_
+9	aldri	aldri	adv	_	_	11	ADV	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	snakka	snakke	verb	_	pret	8	INFV	_	_
+12	Harstad	Harstad	subst	_	prop	11	DOBJ	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	eller	eller	konj	_	_	20	KONJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	for	for	konj	_	_	20	SBU	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	FLAT	_	_
+18	at	at	sbu	_	_	16	FLAT	_	_
+19	hun	hun	pron	_	nom|fem|3|ent|hum	20	SUBJ	_	_
+20	er	være	verb	_	pres	11	ADV	_	_
+21	fra	fra	prep	_	_	20	SPRED	_	_
+22	Harstad	Harstad	subst	_	prop	21	PUTFYLL	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	kun	kun	adv	_	_	25	ADV	_	_
+25	snakka	snakke	verb	_	perf-part	11	KOORD	_	_
+26	kirkesdaling	kirkesdaling	subst	_	be|mask|ent|appell	25	DOBJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	han	han	pron	_	nom|mask|3|ent|pers	29	DET	_	_
+29	pappa	pappa	subst	_	ub|mask|ent|appell	30	SUBJ	_	_
+30	er	være	verb	_	pres	2	KOORD	_	_
+31	jo	jo	adv	_	_	30	ADV	_	_
+32	kirkesdaling	kirkesdaling	subst	_	be|mask|ent|appell	30	SPRED	_	_
+33	så	så	konj	_	_	30	KONJ	_	_
+34	r0t	_	_	_	_	0	root	_	_
+
+# text = mm # hvordan er hvordan er det å å hvordan er det å vokse opp her da ? # Kirkesdalen ? r0t
+# segstart = 113.856
+# segstop = 118.983
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 10
+# annotator = VDT, SR
+# SR: - Gjorde 'hvordan' til SPRED.
+1	mm	mm	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hvordan	hvordan	adv	_	_	4	ADV	_	_
+4	er	være	verb	_	pres	6	REP	_	_
+5	hvordan	hvordan	adv	_	_	6	ADV	_	_
+6	er	være	verb	_	pres	11	REP	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+8	å	å	inf-merke	_	_	9	REP	_	_
+9	å	å	inf-merke	_	_	6	PSUBJ	_	_
+10	hvordan	hvordan	adv	_	_	11	SPRED	_	_
+11	er	være	verb	_	pres	22	FINV	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	11	FSUBJ	_	_
+13	å	å	inf-merke	_	_	11	PSUBJ	_	_
+14	vokse	vokse	verb	_	inf	13	INFV	_	_
+15	opp	opp	prep	_	_	14	ADV	_	_
+16	her	her	prep	_	_	15	PUTFYLL	_	_
+17	da	da	adv	_	_	11	ADV	_	_
+18	?	?	clb	_	_	11	IP	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	Kirkesdalen	kirkesdalen	subst	_	prop	11	ADV	_	_
+21	?	?	clb	_	_	20	IP	_	_
+22	r0t	_	_	_	_	0	root	_	_
+
+# text = nei det jeg jo ## nei det jeg som båb- altså # trur nok ikke det at # e jeg har hvert fall hatt det veldig bra # på grunn av at jeg liker r0t
+# segstart = 118.983
+# segstop = 129.476
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 11
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	13	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	13	SLETT	_	_
+3	jeg	jeg	pron	_	nom|1|ent|hum	13	SLETT	_	_
+4	jo	jo	adv	_	_	13	ADV	_	_
+5	##	##	pause	_	_	6	IK	_	_
+6	nei	nei	interj	_	_	13	INTERJ	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	13	SLETT	_	_
+8	jeg	jeg	pron	_	nom|1|ent|hum	13	SLETT	_	_
+9	som	som	sbu	_	_	13	SLETT	_	_
+10	båb-	båb-	ufullst	_	_	13	SLETT	_	_
+11	altså	altså	adv	_	_	13	ADV	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	trur	tru	verb	_	pres	21	SLETT	_	_
+14	nok	nok	adv	_	_	13	ADV	_	_
+15	ikke	ikke	adv	_	_	13	ADV	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	13	SLETT	_	_
+17	at	at	sbu	_	_	13	SLETT	_	_
+18	#	#	pause	_	_	20	IK	_	_
+19	e	e	nol	_	_	20	FYLL	_	_
+20	jeg	jeg	pron	_	nom|1|ent|hum	21	SUBJ	_	_
+21	har	ha	verb	_	pres	35	FINV	_	_
+22	hvert	hvert	det	_	nøyt|ent|kvant	23	DET	_	_
+23	fall	fall	subst	_	ub|nøyt|ent|appell	24	ADV	_	_
+24	hatt	ha	verb	_	perf-part	21	KOORD	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	24	FOBJ	_	_
+26	veldig	veldig	adj	_	ub|pos|nøyt|ent	27	ADV	_	_
+27	bra	bra	adj	_	ub|pos|nøyt|ent	24	OPRED	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	på	på	prep	_	_	21	SLETT	_	_
+30	grunn	grunn	subst	_	ub|mask|ent|appell	29	PUTFYLL	_	_
+31	av	av	prep	_	_	30	ATR	_	_
+32	at	at	sbu	_	_	34	SBU	_	_
+33	jeg	jeg	pron	_	nom|1|ent|hum	34	SUBJ	_	_
+34	liker	like	verb	_	pres	31	PUTFYLL	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = ute og natur og sånn her # men jeg trur ikke det at # at de nå for at det er og at e _laughter_ # de hadde trivdes hvis noen har flytta for_eksempel fra Rundhaugen r0t
+# segstart = 129.476
+# segstop = 138.583
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 12
+# annotator = VDT, SR
+# SR: - Fragget første konst.
+1	ute	ute	prep	_	_	37	FRAG	_	_
+2	og	og	konj	_	_	3	KONJ	_	_
+3	natur	natur	subst	_	ub|mask|ent|appell	1	KOORD	_	_
+4	og	og	konj	_	_	5	KONJ	_	_
+5	sånn	sånn	adv	_	_	1	KOORD	_	_
+6	her	her	prep	_	_	5	ADV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	men	men	konj	_	_	10	KONJ	_	_
+9	jeg	jeg	pron	_	nom|1|ent|hum	10	SUBJ	_	_
+10	trur	tro	verb	_	pres	1	KOORD	_	_
+11	ikke	ikke	adv	_	_	10	ADV	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	10	SLETT	_	_
+13	at	at	sbu	_	_	15	REP	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	at	at	sbu	_	_	18	SBU	_	_
+16	de	de	pron	_	nom|2|fl|hum	17	SLETT	_	_
+17	nå	nå	adv	_	_	18	ADV	_	_
+18	for	for	prep	_	_	12	SLETT	_	_
+19	at	at	sbu	_	_	21	SBU	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	21	FSUBJ	_	_
+21	er	være	verb	_	pres	28	REP	_	_
+22	og	og	konj	_	_	28	KONJ	_	_
+23	at	at	sbu	_	_	28	SBU	_	_
+24	e	e	nol	_	_	25	FYLL	_	_
+25	_laughter_	_laughter_	pause	_	_	27	FYLL	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	de	de	pron	_	nom|2|fl|hum	28	SUBJ	_	_
+28	hadde	ha	verb	_	pret	10	DOBJ	_	_
+29	trivdes	trives	verb	_	perf-part	28	INFV	_	_
+30	hvis	hvis	sbu	_	_	32	SBU	_	_
+31	noen	noen	pron	_	fem|3|ent|pers	32	SUBJ	_	_
+32	har	ha	verb	_	pres	29	ADV	_	_
+33	flytta	flytte	verb	_	perf-part	32	INFV	_	_
+34	for_eksempel	for_eksempel	subst	_	_	33	ADV	_	_
+35	fra	fra	prep	_	_	33	ADV	_	_
+36	Rundhaugen	rundhaugen	subst	_	prop	35	PUTFYLL	_	_
+37	r0t	_	_	_	_	0	root	_	_
+
+# text = eller fra Bardufoss for at vi # ikke sant vi må jo kjøre _uninterpretable_ for å komme ned til butikken # og men det er jo bare r0t
+# segstart = 138.583
+# segstop = 144.759
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 13
+# annotator = VDT
+1	eller	eller	konj	_	_	2	KONJ	_	_
+2	fra	fra	prep	_	_	11	SLETT	_	_
+3	Bardufoss	Bardufoss	subst	_	prop	2	PUTFYLL	_	_
+4	for	for	prep	_	_	2	KOORD	_	_
+5	at	at	sbu	_	_	2	SLETT	_	_
+6	vi	vi	pron	_	nom|1|fl|hum	2	SLETT	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	ikke	ikke	adv	_	_	2	ADV	_	_
+9	sant	sann	adj	_	ub|pos|nøyt|ent	2	ADV	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	11	SUBJ	_	_
+11	må	måtte	verb	_	pres	28	FINV	_	_
+12	jo	jo	adv	_	_	13	ADV	_	_
+13	kjøre	kjøre	verb	_	inf	11	INFV	_	_
+14	_uninterpretable_	_uninterpretable_	pause	_	_	13	FYLL	_	_
+15	for	for	prep	_	_	13	ADV	_	_
+16	å	å	inf-merke	_	_	15	PUTFYLL	_	_
+17	komme	komme	verb	_	inf	16	INFV	_	_
+18	ned	ned	prep	_	_	17	ADV	_	_
+19	til	til	prep	_	_	17	PUTFYLL	_	_
+20	butikken	butikk	subst	_	be|mask|ent|appell	19	PUTFYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	og	og	konj	_	_	25	REP	_	_
+23	men	men	konj	_	_	25	KONJ	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	25	FSUBJ	_	_
+25	er	være	verb	_	pres	11	SLETT	_	_
+26	jo	jo	adv	_	_	25	ADV	_	_
+27	bare	bare	adv	_	_	25	ADV	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = det er jo bare sånn det er # at vi kan jo ikke gjøre noe med det # _front-click_ # så jeg trives nå veldig godt der_oppe # og jeg vil nå si at jeg hadde en veldig god oppvekst på grunn av at r0t
+# segstart = 144.759
+# segstop = 152.456
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 14
+# annotator = VDT, SR
+1	det	det	pron	_	nøyt|3|ent|pers	2	FSUBJ	_	_
+2	er	være	verb	_	pres	45	FINV	_	_
+3	jo	jo	adv	_	_	2	ADV	_	_
+4	bare	bare	adv	_	_	2	ADV	_	_
+5	sånn	sånn	adv	_	_	2	SPRED	_	_
+6	det	det	pron	_	nøyt|3|ent|pers	7	FSUBJ	_	_
+7	er	være	verb	_	pres	5	ADV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	at	at	sbu	_	_	11	SLETT	_	_
+10	vi	vi	pron	_	nom|1|fl|hum	11	SUBJ	_	_
+11	kan	kunne	verb	_	pres	2	KOORD	_	_
+12	jo	jo	adv	_	_	14	ADV	_	_
+13	ikke	ikke	adv	_	_	14	ADV	_	_
+14	gjøre	gjøre	verb	_	inf	11	INFV	_	_
+15	noe	noe	det	_	nøyt|ent|kvant	14	DOBJ	_	_
+16	med	med	prep	_	_	14	ADV	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	PUTFYLL	_	_
+18	#	#	pause	_	_	21	IK	_	_
+19	_front-click_	_front-click_	pause	_	_	21	FYLL	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	så	så	konj	_	_	23	KONJ	_	_
+22	jeg	jeg	pron	_	nom|1|ent|hum	23	SUBJ	_	_
+23	trives	trives	verb	_	pres	2	KOORD	_	_
+24	nå	nå	adv	_	_	23	ADV	_	_
+25	veldig	veldig	adj	_	ub|pos|nøyt|ent	26	ADV	_	_
+26	godt	god	adj	_	ub|pos|nøyt|ent	23	ADV	_	_
+27	der_oppe	der_oppe	prep	_	_	23	ADV	_	_
+28	#	#	pause	_	_	29	IK	_	_
+29	og	og	konj	_	_	31	KONJ	_	_
+30	jeg	jeg	pron	_	nom|1|ent|hum	31	SUBJ	_	_
+31	vil	ville	verb	_	pres	2	KOORD	_	_
+32	nå	nå	adv	_	_	33	ADV	_	_
+33	si	si	verb	_	inf	31	INFV	_	_
+34	at	at	sbu	_	_	36	SBU	_	_
+35	jeg	jeg	pron	_	nom|1|ent|hum	36	SUBJ	_	_
+36	hadde	ha	verb	_	pret	33	DOBJ	_	_
+37	en	en	det	_	mask|ent|kvant	40	DET	_	_
+38	veldig	veldig	adj	_	ub|pos|nøyt|ent	39	ADV	_	_
+39	god	god	adj	_	ub|pos|m/f|ent	40	ATR	_	_
+40	oppvekst	oppvekst	subst	_	ub|mask|ent|appell	36	DOBJ	_	_
+41	på	på	prep	_	_	36	ADV	_	_
+42	grunn	grunn	subst	_	ub|mask|ent|appell	41	PUTFYLL	_	_
+43	av	av	prep	_	_	42	ATR	_	_
+44	at	at	sbu	_	_	43	PUTFYLL	_	_
+45	r0t	_	_	_	_	0	root	_	_
+
+# text = vi kunne bare smette på oss skiene og gå opp i bakkene og tenne bål ikke sant # liksom lært opp med det og # _front-click_ jeg har nå hvert fall hatt en veldig bra barndom da r0t
+# segstart = 152.456
+# segstop = 160.673
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 15
+# annotator = VDT, SR
+1	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+2	kunne	kunne	verb	_	pret	38	FINV	_	_
+3	bare	bare	adv	_	_	4	ADV	_	_
+4	smette	smette	verb	_	inf	2	INFV	_	_
+5	på	på	prep	_	_	4	ADV	_	_
+6	oss	oss	pron	_	akk|1|fl|hum	5	PUTFYLL	_	_
+7	skiene	ski	subst	_	be|fem|fl|appell	4	DOBJ	_	_
+8	og	og	konj	_	_	9	KONJ	_	_
+9	gå	gå	verb	_	inf	4	KOORD	_	_
+10	opp	opp	prep	_	_	9	ADV	_	_
+11	i	i	prep	_	_	10	PUTFYLL	_	_
+12	bakkene	bakke	subst	_	be|mask|fl|appell	11	PUTFYLL	_	_
+13	og	og	konj	_	_	14	KONJ	_	_
+14	tenne	tenne	verb	_	inf	4	KOORD	_	_
+15	bål	bål	subst	_	ub|nøyt|fl|appell	14	DOBJ	_	_
+16	ikke	ikke	adv	_	_	17	FLAT	_	_
+17	sant	sann	adj	_	ub|pos|nøyt|ent	14	ADV	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	liksom	liksom	adv	_	_	20	ADV	_	_
+20	lært	lære	verb	_	perf-part	2	KOORD	_	_
+21	opp	opp	prep	_	_	20	ADV	_	_
+22	med	med	prep	_	_	20	ADV	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	PUTFYLL	_	_
+24	og	og	konj	_	_	28	KONJ	_	_
+25	#	#	pause	_	_	27	IK	_	_
+26	_front-click_	_front-click_	pause	_	_	27	FYLL	_	_
+27	jeg	jeg	pron	_	nom|1|ent|hum	28	SUBJ	_	_
+28	har	ha	verb	_	pres	2	KOORD	_	_
+29	nå	nå	adv	_	_	32	ADV	_	_
+30	hvert	hvert	det	_	nøyt|ent|kvant	31	DET	_	_
+31	fall	fall	subst	_	ub|nøyt|ent|appell	32	ADV	_	_
+32	hatt	ha	verb	_	perf-part	28	INFV	_	_
+33	en	en	det	_	mask|ent|kvant	36	DET	_	_
+34	veldig	veldig	adj	_	ub|pos|nøyt|ent	35	ADV	_	_
+35	bra	bra	adj	_	ub|pos|m/f|ent	36	ATR	_	_
+36	barndom	barndom	subst	_	ub|mask|ent|appell	32	DOBJ	_	_
+37	da	da	adv	_	_	32	ADV	_	_
+38	r0t	_	_	_	_	0	root	_	_
+
+# text = men e det har nå gått # og det # det er nå enda flott og # det har nå g- f- gått kjempebra egentlig da # så # har egentlig vært bra _laughter_ r0t
+# segstart = 167.851
+# segstop = 178.94
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 17
+# annotator = VDT, SR
+# SR: Usikker på FSUBJ / SUBJ, gjorde 'enda flott' og 'bra' til SPRED
+1	men	men	konj	_	_	4	KONJ	_	_
+2	e	e	nol	_	_	3	FYLL	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	4	SUBJ	_	_
+4	har	ha	verb	_	pres	35	FINV	_	_
+5	nå	nå	adv	_	_	6	ADV	_	_
+6	gått	gå	verb	_	perf-part	4	INFV	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	og	og	konj	_	_	12	KONJ	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	11	REP	_	_
+10	#	#	pause	_	_	11	IK	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	12	SUBJ	_	_
+12	er	være	verb	_	pres	4	KOORD	_	_
+13	nå	nå	adv	_	_	12	ADV	_	_
+14	enda	enda	adv	_	_	15	ADV	_	_
+15	flott	flott	adj	_	ub|pos|nøyt|ent	12	SPRED	_	_
+16	og	og	konj	_	_	19	KONJ	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	19	SUBJ	_	_
+19	har	ha	verb	_	pres	4	KOORD	_	_
+20	nå	nå	adv	_	_	23	ADV	_	_
+21	g-	g-	ufullst	_	prop	23	FYLL	_	_
+22	f-	f-	ufullst	_	_	23	FYLL	_	_
+23	gått	gå	verb	_	perf-part	19	INFV	_	_
+24	kjempebra	kjempebra	adj	_	ub|pos|nøyt|ent	23	ADV	_	_
+25	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	23	ADV	_	_
+26	da	da	adv	_	_	23	ADV	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	så	så	konj	_	_	30	KONJ	_	_
+29	#	#	pause	_	_	30	IK	_	_
+30	har	ha	verb	_	pres	4	KOORD	_	_
+31	egentlig	egentlig	adj	_	ub|pos|nøyt|ent	32	ADV	_	_
+32	vært	være	verb	_	perf-part	30	INFV	_	_
+33	bra	bra	adj	_	ub|pos|nøyt|ent	32	SPRED	_	_
+34	_laughter_	_laughter_	pause	_	_	30	IK	_	_
+35	r0t	_	_	_	_	0	root	_	_
+
+# text = ja # em # så # så du har vokst e holdt på å si du sier at du er glad i gå på # ski og r0t
+# segstart = 178.94
+# segstop = 191.662
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 18
+# annotator = VDT
+1	ja	ja	interj	_	_	9	INTERJ	_	_
+2	#	#	pause	_	_	5	IK	_	_
+3	em	em	nol	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	så	så	adv	_	_	7	REP	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	så	så	konj	_	_	9	KONJ	_	_
+8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+9	har	ha	verb	_	pres	12	SLETT	_	_
+10	vokst	vokse	verb	_	perf-part	9	INFV	_	_
+11	e	e	nol	_	_	12	FYLL	_	_
+12	holdt	holde	verb	_	perf-part	17	PAR	_	_
+13	på	på	prep	_	_	12	ADV	_	_
+14	å	å	inf-merke	_	_	13	PUTFYLL	_	_
+15	si	si	verb	_	inf	14	INFV	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	sier	si	verb	_	pres	28	FINV	_	_
+18	at	at	sbu	_	_	20	SBU	_	_
+19	du	du	pron	_	nom|2|ent|hum	20	SUBJ	_	_
+20	er	være	verb	_	pres	17	DOBJ	_	_
+21	glad	glad	adj	_	ub|pos|m/f|ent	20	SPRED	_	_
+22	i	i	prep	_	_	21	ADV	_	_
+23	gå	gå	verb	_	inf	22	PUTFYLL	_	_
+24	på	på	prep	_	_	23	ADV	_	_
+25	#	#	pause	_	_	26	IK	_	_
+26	ski	ski	subst	_	ub|fem|fl|appell	24	PUTFYLL	_	_
+27	og	og	konj	_	_	17	KONJ	_	_
+28	r0t	_	_	_	_	0	root	_	_
+
+# text = ja har du noen # husker du noe spesielt fra når du var # når du var liten ? r0t
+# segstart = 187.369
+# segstop = 191.662
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 20
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	har	ha	verb	_	pres	6	SLETT	_	_
+3	du	du	pron	_	nom|2|ent|hum	2	SUBJ	_	_
+4	noen	noen	pron	_	fem|3|ent|pers	2	DOBJ	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	husker	huske	verb	_	pres	20	FINV	_	_
+7	du	du	pron	_	nom|2|ent|hum	6	SUBJ	_	_
+8	noe	noe	det	_	nøyt|ent|kvant	9	DET	_	_
+9	spesielt	spesiell	adj	_	ub|pos|nøyt|ent	6	DOBJ	_	_
+10	fra	fra	prep	_	_	6	ADV	_	_
+11	når	når	sbu	_	_	13	SBU	_	_
+12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+13	var	være	verb	_	pret	15	REP	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	når	når	sbu	_	_	17	SBU	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	var	være	verb	_	pret	10	PUTFYLL	_	_
+18	liten	liten	adj	_	ub|pos|mask|ent	17	SPRED	_	_
+19	?	?	clb	_	_	6	IP	_	_
+20	r0t	_	_	_	_	0	root	_	_
+
+# text = så har vi en sånn # _front-click_ e # oppi her # så er det noen som har hytte da # som vi har brukt og vært på r0t
+# segstart = 198.315
+# segstop = 205.336
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 22
+# annotator = VDT, SR
+1	så	så	adv	_	_	2	KONJ	_	_
+2	har	ha	verb	_	pres	14	SLETT	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+4	en	en	det	_	mask|ent|kvant	2	DOBJ	_	_
+5	sånn	sånn	det	_	mask|ent|dem	4	ADV	_	_
+6	#	#	pause	_	_	7	IK	_	_
+7	_front-click_	_front-click_	pause	_	_	10	FYLL	_	_
+8	e	e	nol	_	_	10	FYLL	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	oppi	oppi	prep	_	_	13	APP	_	_
+11	her	her	prep	_	_	10	PUTFYLL	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	så	så	adv	_	_	14	ADV	_	_
+14	er	være	verb	_	pres	29	FINV	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	14	FSUBJ	_	_
+16	noen	noen	pron	_	fem|3|ent|pers	14	PSUBJ	_	_
+17	som	som	sbu	_	_	18	SBU	_	_
+18	har	ha	verb	_	pres	16	ATR	_	_
+19	hytte	hytte	subst	_	ub|fem|ent|appell	18	DOBJ	_	_
+20	da	da	adv	_	_	14	ADV	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	som	som	sbu	_	_	24	SBU	_	_
+23	vi	vi	pron	_	nom|1|fl|hum	24	SUBJ	_	_
+24	har	ha	verb	_	pres	19	ADV	_	_
+25	brukt	bruke	verb	_	perf-part	24	INFV	_	_
+26	og	og	konj	_	_	27	KONJ	_	_
+27	vært	være	verb	_	perf-part	25	KOORD	_	_
+28	på	på	prep	_	_	27	ADV	_	_
+29	r0t	_	_	_	_	0	root	_	_
+
+# text = og da er det sånn at det er ei s- hytte på toppen så er det åpent overalt og bakker og sånn her det er som # at det skulle vært tillaget til å gå på ski men det er jo ikke det r0t
+# segstart = 205.336
+# segstop = 212.499
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 23
+# annotator = VDT, SR
+# SR: APPet 'at det er ei..' til 'sånn'.
+# Gjorde 'som' til SPRED og at-setningen til PUTFYLL.
+# Usikker på FSUBJ / SUBJ
+1	og	og	konj	_	_	3	KONJ	_	_
+2	da	da	adv	_	_	3	ADV	_	_
+3	er	være	verb	_	pres	44	FINV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+5	sånn	sånn	adv	_	_	3	SPRED	_	_
+6	at	at	sbu	_	_	8	SBU	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+8	er	være	verb	_	pres	5	APP	_	_
+9	ei	ei	det	_	fem|ent|kvant	11	DET	_	_
+10	s-	s-	ufullst	_	_	11	FYLL	_	_
+11	hytte	hytte	subst	_	ub|fem|ent|appell	8	PSUBJ	_	_
+12	på	på	prep	_	_	11	ATR	_	_
+13	toppen	topp	subst	_	be|mask|ent|appell	12	PUTFYLL	_	_
+14	så	så	adv	_	_	15	ADV	_	_
+15	er	være	verb	_	pres	3	KOORD	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	SUBJ	_	_
+17	åpent	åpen	adj	_	ub|pos|nøyt|ent	15	SPRED	_	_
+18	overalt	overalt	adv	_	_	17	ADV	_	_
+19	og	og	konj	_	_	20	KONJ	_	_
+20	bakker	bakke	subst	_	ub|m/f|fl|appell	17	KOORD	_	_
+21	og	og	konj	_	_	22	KONJ	_	_
+22	sånn	sånn	adv	_	_	20	ADV	_	_
+23	her	her	prep	_	_	22	ADV	_	_
+24	det	det	pron	_	nøyt|3|ent|pers	25	SUBJ	_	_
+25	er	være	verb	_	pres	3	KOORD	_	_
+26	som	som	prep	_	_	25	SPRED	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	at	at	sbu	_	_	30	SBU	_	_
+29	det	det	pron	_	nøyt|3|ent|pers	30	SUBJ	_	_
+30	skulle	skulle	verb	_	pret	26	PUTFYLL	_	_
+31	vært	være	verb	_	perf-part	30	INFV	_	_
+32	tillaget	tillage	verb	_	perf-part	31	INFV	_	_
+33	til	til	prep	_	_	32	ADV	_	_
+34	å	å	inf-merke	_	_	33	PUTFYLL	_	_
+35	gå	gå	verb	_	inf	34	INFV	_	_
+36	på	på	prep	_	_	35	ADV	_	_
+37	ski	ski	subst	_	ub|fem|fl|appell	36	PUTFYLL	_	_
+38	men	men	konj	_	_	40	KONJ	_	_
+39	det	det	pron	_	nøyt|3|ent|pers	40	SUBJ	_	_
+40	er	være	verb	_	pres	25	KOORD	_	_
+41	jo	jo	adv	_	_	40	ADV	_	_
+42	ikke	ikke	adv	_	_	40	ADV	_	_
+43	det	det	pron	_	nøyt|3|ent|pers	40	SPRED	_	_
+44	r0t	_	_	_	_	0	root	_	_
+
+# text = der brukte vi å ha sånn her renn før da # så hele Kirkesdalen møttes der_oppe # og sant vi var jo flere # det var jo flere innbyggere før r0t
+# segstart = 212.499
+# segstop = 219.439
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 24
+# annotator = VDT, SR
+# SR: - Endret transkripsjon, fra 'det' til 'der'. Flyttet 'der' ned som dependent til 'ha'.
+# Litt usikker på 'sånn her'
+1	der	der	prep	_	_	5	ADV	_	_
+2	brukte	bruke	verb	_	pret	31	FINV	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+4	å	å	inf-merke	_	_	2	DOBJ	_	_
+5	ha	ha	verb	_	inf	4	INFV	_	_
+6	sånn	sånn	det	_	_	8	DET	_	_
+7	her	her	prep	_	_	6	FLAT	_	_
+8	renn	renn	subst	_	ub|nøyt|fl|appell	5	DOBJ	_	_
+9	før	før	prep	_	_	5	ADV	_	_
+10	da	da	adv	_	_	5	ADV	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	så	så	adv	_	_	15	ADV	_	_
+13	hele	hel	adj	_	be|pos|ent	14	ATR	_	_
+14	Kirkesdalen	kirkesdalen	subst	_	prop	15	SUBJ	_	_
+15	møttes	møtes	verb	_	pret	2	KOORD	_	_
+16	der_oppe	der_oppe	prep	_	_	15	ADV	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	og	og	konj	_	_	21	KONJ	_	_
+19	sant	sann	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+20	vi	vi	pron	_	nom|1|fl|hum	21	SUBJ	_	_
+21	var	være	verb	_	pret	26	REP	_	_
+22	jo	jo	adv	_	_	21	ADV	_	_
+23	flere	mange	adj	_	komp	21	SPRED	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	det	det	pron	_	nøyt|3|ent|pers	26	FSUBJ	_	_
+26	var	være	verb	_	pret	2	KOORD	_	_
+27	jo	jo	adv	_	_	26	ADV	_	_
+28	flere	mange	adj	_	komp	29	ATR	_	_
+29	innbyggere	innbygger	subst	_	ub|mask|fl|appell	26	PSUBJ	_	_
+30	før	før	prep	_	_	26	ADV	_	_
+31	r0t	_	_	_	_	0	root	_	_
+
+# text = men husker det at jeg gikk jo på ski for det er om å # det var kjempeartig # så vi _uninterpretable_ brukte å møtes oppå det het S1 da ⸮
+# segstart = 229.303
+# segstop = 236.529
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 26
+# annotator = VDT
+1	men	men	konj	_	_	2	KONJ	_	_
+2	husker	huske	verb	_	pres	31	FINV	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	2	DOBJ	_	_
+4	at	at	sbu	_	_	6	SBU	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	6	SUBJ	_	_
+6	gikk	gå	verb	_	pret	3	APP	_	_
+7	jo	jo	adv	_	_	6	ADV	_	_
+8	på	på	prep	_	_	6	ADV	_	_
+9	ski	ski	subst	_	ub|fem|fl|appell	8	PUTFYLL	_	_
+10	for	for	konj	_	_	12	KONJ	_	_
+11	det	det	pron	_	nøyt|3|ent|pers	12	FSUBJ	_	_
+12	er	være	verb	_	pres	6	SLETT	_	_
+13	om	om	prep	_	_	12	SPRED	_	_
+14	å	å	inf-merke	_	_	13	PUTFYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	FSUBJ	_	_
+17	var	være	verb	_	pret	2	KOORD	_	_
+18	kjempeartig	kjempeartig	adj	_	ub|pos|m/f|ent	17	SPRED	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	så	så	adv	_	_	23	KONJ	_	_
+21	vi	vi	pron	_	nom|1|fl|hum	23	SUBJ	_	_
+22	_uninterpretable_	_uninterpretable_	pause	_	_	23	IK	_	_
+23	brukte	bruke	verb	_	pret	2	KOORD	_	_
+24	å	å	inf-merke	_	_	23	DOBJ	_	_
+25	møtes	møtes	verb	_	inf	24	INFV	_	_
+26	oppå	oppå	prep	_	_	25	ADV	_	_
+27	det	det	pron	_	nøyt|3|ent|pers	28	FSUBJ	_	_
+28	het	hete	verb	_	pret	25	KOORD	_	_
+29	S1	S1	subst	_	prop	28	SPRED	_	_
+30	da	da	adv	_	_	28	ADV	_	_
+31	⸮	_	_	_	_	0	root	_	_
+
+# text = oppe der og gått på ski og rent på ski og # husker det at vi brukte å ha med oss # venner fra Rundhaugen og søskenbarna våre her fra Kirkesdalen da ⸮
+# segstart = 236.529
+# segstop = 243.826
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 27
+# annotator = VDT, SR
+# SR: Fragga første konstituent
+1	oppe	oppe	prep	_	_	33	FRAG	_	_
+2	der	der	prep	_	_	1	PUTFYLL	_	_
+3	og	og	konj	_	_	4	KONJ	_	_
+4	gått	gå	verb	_	perf-part	1	KOORD	_	_
+5	på	på	prep	_	_	4	ADV	_	_
+6	ski	ski	subst	_	ub|fem|fl|appell	5	PUTFYLL	_	_
+7	og	og	konj	_	_	8	KONJ	_	_
+8	rent	renne	verb	_	perf-part	4	KOORD	_	_
+9	på	på	prep	_	_	8	ADV	_	_
+10	ski	ski	subst	_	ub|fem|fl|appell	9	PUTFYLL	_	_
+11	og	og	konj	_	_	13	KONJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	husker	huske	verb	_	pres	1	FINV	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	13	DOBJ	_	_
+15	at	at	sbu	_	_	17	SBU	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	17	SUBJ	_	_
+17	brukte	bruke	verb	_	pret	14	APP	_	_
+18	å	å	inf-merke	_	_	17	DOBJ	_	_
+19	ha	ha	verb	_	inf	18	INFV	_	_
+20	med	med	prep	_	_	19	ADV	_	_
+21	oss	vi	pron	_	akk|1|fl|hum	20	PUTFYLL	_	_
+22	#	#	pause	_	_	23	IK	_	_
+23	venner	venn	subst	_	ub|mask|fl|appell	19	DOBJ	_	_
+24	fra	fra	prep	_	_	23	ATR	_	_
+25	Rundhaugen	Rundhaugen	subst	_	prop	24	PUTFYLL	_	_
+26	og	og	konj	_	_	27	KONJ	_	_
+27	søskenbarna	søskenbarn	subst	_	be|nøyt|fl|appell	23	KOORD	_	_
+28	våre	vår	det	_	fl|poss	27	DET	_	_
+29	her	her	prep	_	_	27	ATR	_	_
+30	fra	fra	prep	_	_	29	PUTFYLL	_	_
+31	Kirkesdalen	Kirkesdalen	subst	_	prop	30	PUTFYLL	_	_
+32	da	da	adv	_	_	17	ADV	_	_
+33	⸮	_	_	_	_	0	root	_	_
+
+# text = så brukte vi å tenne bål # oppå S1 og gå på ski opp dit # husker det at det var det artigste som fantes ⸮
+# segstart = 243.826
+# segstop = 249.703
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 28
+# annotator = VDT, SR
+1	så	så	adv	_	_	2	ADV	_	_
+2	brukte	bruke	verb	_	pret	26	FINV	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	2	SUBJ	_	_
+4	å	å	inf-merke	_	_	2	DOBJ	_	_
+5	tenne	tenne	verb	_	pret	4	INFV	_	_
+6	bål	bål	subst	_	ub|nøyt|ent|appell	5	DOBJ	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	oppå	oppå	prep	_	_	5	ADV	_	_
+9	S1	S1	subst	_	prop	8	PUTFYLL	_	_
+10	og	og	konj	_	_	11	KONJ	_	_
+11	gå	gå	verb	_	inf	5	KOORD	_	_
+12	på	på	prep	_	_	11	ADV	_	_
+13	ski	ski	subst	_	ub|fem|fl|appell	12	PUTFYLL	_	_
+14	opp	opp	prep	_	_	11	ADV	_	_
+15	dit	dit	prep	_	_	14	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	husker	huske	verb	_	pres	2	KOORD	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	17	DOBJ	_	_
+19	at	at	sbu	_	_	21	SBU	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	21	SUBJ	_	_
+21	var	være	verb	_	pret	18	APP	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	23	DET	_	_
+23	artigste	artig	adj	_	be|sup|m/f|ent	21	SPRED	_	_
+24	som	som	sbu	_	_	25	SBU	_	_
+25	fantes	finnes	verb	_	pret	23	ATR	_	_
+26	⸮	_	_	_	_	0	root	_	_
+
+# text = var kjempeartig men e # vet ikke om skiferdighetene er så veldig gode men det er artig for det om _laughter_ ⸮
+# segstart = 249.703
+# segstop = 256.595
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 29
+# annotator = VDT
+1	var	være	verb	_	pret	22	FINV	_	_
+2	kjempeartig	kjempeartig	adj	_	ub|pos|m/f|ent	1	SPRED	_	_
+3	men	men	konj	_	_	6	KONJ	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	vet	vite	verb	_	pres	1	KOORD	_	_
+7	ikke	ikke	adv	_	_	6	ADV	_	_
+8	om	om	sbu	_	_	10	SBU	_	_
+9	skiferdighetene	skiferdighet	subst	_	be|mask|fl|appell	10	SUBJ	_	_
+10	er	være	verb	_	pres	6	DOBJ	_	_
+11	så	så	adv	_	_	13	ADV	_	_
+12	veldig	veldig	adj	_	ub|pos|nøyt|ent	13	ADV	_	_
+13	gode	god	adj	_	pos|fl	10	SPRED	_	_
+14	men	men	konj	_	_	16	KONJ	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	16	SUBJ	_	_
+16	er	være	verb	_	pres	1	KOORD	_	_
+17	artig	artig	adj	_	ub|pos|nøyt|ent	16	SPRED	_	_
+18	for	for	prep	_	_	16	ADV	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	18	PUTFYLL	_	_
+20	om	om	prep	_	_	19	FLAT	_	_
+21	_laughter_	_laughter_	pause	_	_	20	FYLL	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = å gå på ski ? ⸮
+# segstart = 263.916
+# segstop = 264.584
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 31
+# annotator = VDT
+1	å	å	inf-merke	_	_	6	FRAG	_	_
+2	gå	gå	verb	_	inf	1	INFV	_	_
+3	på	på	prep	_	_	2	ADV	_	_
+4	ski	ski	subst	_	ub|fem|fl|appell	3	PUTFYLL	_	_
+5	?	$?	clb	_	_	1	IP	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 264.584
+# segstop = 264.865
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 32
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = hjemme best ? ⸮
+# segstart = 266.808
+# segstop = 267.756
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 34
+# annotator = VDT
+1	hjemme	hjemme	adv	_	_	4	FRAG	_	_
+2	best	god	adj	_	ub|sup	1	ADV	_	_
+3	?	$?	clb	_	_	1	IP	_	_
+4	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # borte bra men hjemme best # så har vi jo hytte # _front-click_ hvis nå man kjører helt innerst i Kirkesdalen så er det liksom opp et ⸮
+# segstart = 267.756
+# segstop = 275.721
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 35
+# annotator = VDT, SR
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	borte	borte	adv	_	_	30	FRAG	_	_
+4	bra	bra	adj	_	ub|pos|nøyt|ent	3	ADV	_	_
+5	men	men	konj	_	_	7	KONJ	_	_
+6	hjemme	hjemme	adv	_	_	3	KOORD	_	_
+7	best	god	adj	_	ub|sup	6	ADV	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	så	så	adv	_	_	10	ADV	_	_
+10	har	ha	verb	_	pres	3	KOORD	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	10	SUBJ	_	_
+12	jo	jo	adv	_	_	10	ADV	_	_
+13	hytte	hytte	subst	_	ub|fem|ent|appell	10	DOBJ	_	_
+14	#	#	pause	_	_	16	IK	_	_
+15	_front-click_	_front-click_	pause	_	_	16	FYLL	_	_
+16	hvis	hvis	sbu	_	_	19	SBU	_	_
+17	nå	nå	adv	_	_	19	ADV	_	_
+18	man	man	pron	_	nom|ent|hum	19	SUBJ	_	_
+19	kjører	kjøre	verb	_	pres	24	APP	_	_
+20	helt	hel	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+21	innerst	innerst	adj	_	ub|pos|nøyt|ent	19	ADV	_	_
+22	i	i	prep	_	_	21	ADV	_	_
+23	Kirkesdalen	Kirkesdalen	subst	_	prop	22	PUTFYLL	_	_
+24	så	så	adv	_	_	25	ADV	_	_
+25	er	være	verb	_	pres	10	KOORD	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	25	SUBJ	_	_
+27	liksom	liksom	adv	_	_	25	ADV	_	_
+28	opp	opp	prep	_	_	25	ADV	_	_
+29	et	et	det	_	nøyt|ent|kvant	28	PUTFYLL	_	_
+30	⸮	_	_	_	_	0	root	_	_
+
+# text = opp ei li og bare opp et fjell og der inni så har er det veldig mange kirkesdalinger som har hytte da # bruker vi å møtes der i påska og ⸮
+# segstart = 275.721
+# segstop = 283.091
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 36
+# annotator = VDT
+1	opp	opp	prep	_	_	12	APP	_	_
+2	ei	ei	det	_	fem|ent|kvant	3	DET	_	_
+3	li	li	subst	_	ub|fem|ent|appell	1	PUTFYLL	_	_
+4	og	og	konj	_	_	6	KONJ	_	_
+5	bare	bare	adv	_	_	6	ADV	_	_
+6	opp	opp	prep	_	_	1	KOORD	_	_
+7	et	et	det	_	nøyt|ent|kvant	8	DET	_	_
+8	fjell	fjell	subst	_	ub|nøyt|ent|appell	6	PUTFYLL	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	der	der	prep	_	_	1	ADV	_	_
+11	inni	inni	prep	_	_	10	PUTFYLL	_	_
+12	så	så	adv	_	_	14	ADV	_	_
+13	har	ha	verb	_	pres	14	REP	_	_
+14	er	være	verb	_	pres	32	FINV	_	_
+15	det	det	pron	_	nøyt|3|ent|pers	14	FSUBJ	_	_
+16	veldig	veldig	adv	_	_	17	ADV	_	_
+17	mange	mange	adj	_	pos|fl	18	ATR	_	_
+18	kirkesdalinger	kirkesdaling	subst	_	ub|mask|fl|appell	14	PSUBJ	_	_
+19	som	som	sbu	_	_	20	SBU	_	_
+20	har	ha	verb	_	pres	18	ATR	_	_
+21	hytte	hytte	subst	_	ub|fem|ent|appell	20	DOBJ	_	_
+22	da	da	adv	_	_	14	ADV	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	bruker	bruke	verb	_	pres	14	KOORD	_	_
+25	vi	vi	pron	_	nom|1|fl|hum	24	SUBJ	_	_
+26	å	å	inf-merke	_	_	24	DOBJ	_	_
+27	møtes	møtes	verb	_	inf	26	INFV	_	_
+28	der	der	prep	_	_	27	ADV	_	_
+29	i	i	prep	_	_	27	ADV	_	_
+30	påska	påske	subst	_	be|fem|ent|appell	29	PUTFYLL	_	_
+31	og	og	konj	_	_	24	KONJ	_	_
+32	⸮	_	_	_	_	0	root	_	_
+
+# text = og så bruker vi å sitte oppe der og gå på ski der og # det er # knall ⸮
+# segstart = 289.673
+# segstop = 294.109
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 38
+# annotator = VDT
+1	og	og	konj	_	_	3	KONJ	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	bruker	bruke	verb	_	pres	20	FINV	_	_
+4	vi	vi	pron	_	nom|1|fl|hum	3	SUBJ	_	_
+5	å	å	inf-merke	_	_	3	DOBJ	_	_
+6	sitte	sitte	verb	_	inf	5	INFV	_	_
+7	oppe	oppe	prep	_	_	6	ADV	_	_
+8	der	der	prep	_	_	6	ADV	_	_
+9	og	og	konj	_	_	10	KONJ	_	_
+10	gå	gå	verb	_	inf	6	KOORD	_	_
+11	på	på	prep	_	_	10	ADV	_	_
+12	ski	ski	subst	_	ub|fem|fl|appell	11	PUTFYLL	_	_
+13	der	der	prep	_	_	10	ADV	_	_
+14	og	og	konj	_	_	17	KONJ	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	17	SUBJ	_	_
+17	er	være	verb	_	pres	3	KOORD	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	knall	knall	adj	_	ub|pos|m/f|ent	17	SPRED	_	_
+20	⸮	_	_	_	_	0	root	_	_
+
+# text = em ## e # hva ellers brukte du å gjøre når du var lita ? # hadde du noe # var det noe frit- holdt på å si noe sånn organiserte ting du var med på ? ⸮
+# segstart = 294.109
+# segstop = 305.651
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 39
+# annotator = VDT, SR
+1	em	e	nol	_	_	5	FYLL	_	_
+2	##	##	pause	_	_	5	IK	_	_
+3	e	e	nol	_	_	5	FYLL	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	hva	hva	pron	_	sp	10	DOBJ	_	_
+6	ellers	ellers	adv	_	_	7	ADV	_	_
+7	brukte	bruke	verb	_	pret	38	FINV	_	_
+8	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+9	å	å	inf-merke	_	_	7	DOBJ	_	_
+10	gjøre	gjøre	verb	_	inf	9	INFV	_	_
+11	når	når	sbu	_	_	13	SBU	_	_
+12	du	du	pron	_	nom|2|ent|hum	13	SUBJ	_	_
+13	var	være	verb	_	pret	10	ADV	_	_
+14	lita	liten	adj	_	ub|pos|fem|ent	13	SPRED	_	_
+15	?	$?	clb	_	_	7	IK	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	hadde	ha	verb	_	pret	21	REP	_	_
+18	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+19	noe	noen	det	_	nøyt|ent|kvant	17	DOBJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	var	være	verb	_	pret	7	KOORD	_	_
+22	det	det	pron	_	nøyt|3|ent|pers	21	FSUBJ	_	_
+23	noe	noen	det	_	nøyt|ent|kvant	21	REP	_	_
+24	frit-	fri	ufullst	_	_	21	FYLL	_	_
+25	holdt	holde	verb	_	pret	21	PAR	_	_
+26	på	på	prep	_	_	25	ATR	_	_
+27	å	å	inf-merke	_	_	26	PUTFYLL	_	_
+28	si	si	verb	_	inf	27	INFV	_	_
+29	noe	noen	det	_	nøyt|ent|kvant	32	DET	_	_
+30	sånn	sånn	det	_	_	32	DET	_	_
+31	organiserte	organisere	adj	_	be|ent	32	ATR	_	_
+32	ting	ting	subst	_	ub|mask|fl|appell	21	PSUBJ	_	_
+33	du	du	pron	_	nom|2|ent|hum	34	SUBJ	_	_
+34	var	være	verb	_	pret	32	ATR	_	_
+35	med	med	prep	_	_	34	SPRED	_	_
+36	på	på	prep	_	_	34	ADV	_	_
+37	?	$?	clb	_	_	7	IP	_	_
+38	⸮	_	_	_	_	0	root	_	_
+
+# text = sånn fotball og sånn ting ? ⸮
+# segstart = 305.651
+# segstop = 307.249
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 40
+# annotator = VDT
+1	sånn	sånn	det	_	m/f|ent|dem	2	DET	_	_
+2	fotball	fotball	subst	_	ub|mask|ent|appell	7	FRAG	_	_
+3	og	og	konj	_	_	5	KONJ	_	_
+4	sånn	sånn	det	_	m/f|ent|dem	5	DET	_	_
+5	ting	ting	subst	_	ub|mask|fl|appell	2	KOORD	_	_
+6	?	$?	clb	_	_	2	IP	_	_
+7	⸮	_	_	_	_	0	root	_	_
+
+# text = ja ⸮
+# segstart = 307.249
+# segstop = 307.671
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 41
+# annotator = VDT
+1	ja	ja	interj	_	_	2	INTERJ	_	_
+2	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # fotball har jeg jo vært med på sia jeg var lita da # men e ikke noe særlig mer enn det så har jeg vært med på litt # dans og ⸮
+# segstart = 307.671
+# segstop = 314.348
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 42
+# annotator = VDT, SR
+# SR: - Fulgte NDT-analyse og gjorde 'på fotball', 'på dans' til adverbialdependenter på leksikalsk verb.
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	fotball	fotball	subst	_	ub|mask|ent|appell	9	PUTFYLL	_	_
+4	har	ha	verb	_	pres	34	FINV	_	_
+5	jeg	jeg	pron	_	nom|1|ent|hum	4	SUBJ	_	_
+6	jo	jo	adv	_	_	7	ADV	_	_
+7	vært	være	verb	_	perf-part	4	INFV	_	_
+8	med	med	prep	_	_	7	SPRED	_	_
+9	på	på	prep	_	_	8	PUTFYLL	_	_
+10	sia	sia	adv	_	_	7	ADV	_	_
+11	jeg	jeg	pron	_	nom|1|ent|hum	12	SUBJ	_	_
+12	var	være	verb	_	pret	10	PUTFYLL	_	_
+13	lita	liten	adj	_	ub|pos|fem|ent	12	SPRED	_	_
+14	da	da	adv	_	_	7	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	men	men	konj	_	_	21	KONJ	_	_
+17	e	e	nol	_	_	18	FYLL	_	_
+18	ikke	ikke	adv	_	_	21	ADV	_	_
+19	noe	noen	det	_	nøyt|ent|kvant	20	DET	_	_
+20	særlig	særlig	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+21	mer	mye	adj	_	komp	4	KOORD	_	_
+22	enn	enn	prep	_	_	21	ADV	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	PUTFYLL	_	_
+24	så	så	adv	_	_	25	ADV	_	_
+25	har	ha	verb	_	pres	4	KOORD	_	_
+26	jeg	jeg	pron	_	nom|1|ent|hum	25	SUBJ	_	_
+27	vært	være	verb	_	perf-part	25	INFV	_	_
+28	med	med	prep	_	_	27	SPRED	_	_
+29	på	på	prep	_	_	28	PUTFYLL	_	_
+30	litt	litt	adj	_	ub|pos|nøyt|ent	32	ATR	_	_
+31	#	#	pause	_	_	32	IK	_	_
+32	dans	dans	subst	_	ub|mask|ent|appell	29	PUTFYLL	_	_
+33	og	og	konj	_	_	32	KONJ	_	_
+34	⸮	_	_	_	_	0	root	_	_
+
+# text = ungdomsklubb og litt sånne ting så vi hadde # linedancekurs og swingkurs her oppe # og så har vi fotballtreninger ⸮
+# segstart = 314.348
+# segstop = 321.814
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 43
+# annotator = VDT
+1	ungdomsklubb	ungdomsklubb	subst	_	ub|mask|ent|appell	21	FRAG	_	_
+2	og	og	konj	_	_	5	KONJ	_	_
+3	litt	litt	adj	_	ub|pos|nøyt|ent	4	ADV	_	_
+4	sånne	sånn	det	_	fl|dem	5	DET	_	_
+5	ting	ting	subst	_	ub|mask|fl|appell	1	KOORD	_	_
+6	så	så	sbu	_	_	8	KONJ	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+8	hadde	ha	verb	_	pret	1	KOORD	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	linedancekurs	linedancekurs	subst	_	ub|nøyt|ent|appell	8	DOBJ	_	_
+11	og	og	konj	_	_	12	KONJ	_	_
+12	swingkurs	swingkurs	subst	_	ub|nøyt|ent|samset	10	KOORD	_	_
+13	her	her	prep	_	_	8	ADV	_	_
+14	oppe	oppe	prep	_	_	13	PUTFYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	og	og	konj	_	_	18	KONJ	_	_
+17	så	så	adv	_	_	18	ADV	_	_
+18	har	ha	verb	_	pres	1	KOORD	_	_
+19	vi	vi	pron	_	nom|1|fl|hum	18	SUBJ	_	_
+20	fotballtreninger	fotballtrening	subst	_	ub|fem|fl|appell	18	DOBJ	_	_
+21	⸮	_	_	_	_	0	root	_	_
+
+# text = en gang i uka # men det er kun på sommeren da på e # på e fotballbanen # _front-click_ # men e ellers så det har ikke jeg vært med på så mye ⸮
+# segstart = 321.814
+# segstop = 333.022
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 44
+# annotator = VDT, SR
+1	en	en	det	_	mask|ent|kvant	2	DET	_	_
+2	gang	gang	subst	_	ub|mask|ent|appell	35	FRAG	_	_
+3	i	i	prep	_	_	2	ATR	_	_
+4	uka	uke	subst	_	be|fem|ent|appell	3	PUTFYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	det	det	pron	_	nøyt|3|ent|pers	8	SUBJ	_	_
+8	er	være	verb	_	pres	2	KOORD	_	_
+9	kun	kun	adv	_	_	8	ADV	_	_
+10	på	på	prep	_	_	8	SPRED	_	_
+11	sommeren	sommer	subst	_	be|mask|ent|appell	10	PUTFYLL	_	_
+12	da	da	adv	_	_	8	ADV	_	_
+13	på	på	prep	_	_	16	REP	_	_
+14	e	e	nol	_	_	16	FYLL	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	på	på	prep	_	_	8	ADV	_	_
+17	e	e	nol	_	_	18	FYLL	_	_
+18	fotballbanen	fotballbane	subst	_	be|mask|ent|appell	16	PUTFYLL	_	_
+19	#	#	pause	_	_	22	IK	_	_
+20	_front-click_	_front-click_	pause	_	_	22	FYLL	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	men	men	konj	_	_	27	KONJ	_	_
+23	e	e	nol	_	_	24	FYLL	_	_
+24	ellers	ellers	adv	_	_	25	APP	_	_
+25	så	så	adv	_	_	27	SLETT	_	_
+26	det	det	pron	_	nøyt|3|ent|pers	32	PUTFYLL	_	_
+27	har	ha	verb	_	pres	8	KOORD	_	_
+28	ikke	ikke	adv	_	_	30	ADV	_	_
+29	jeg	jeg	pron	_	nom|1|ent|hum	27	SUBJ	_	_
+30	vært	være	verb	_	perf-part	27	INFV	_	_
+31	med	med	prep	_	_	30	SPRED	_	_
+32	på	på	prep	_	_	30	ADV	_	_
+33	så	så	adv	_	_	34	ADV	_	_
+34	mye	mye	adj	_	ub|pos|nøyt|ent	30	ADV	_	_
+35	⸮	_	_	_	_	0	root	_	_
+
+# text = fot- ja fotball har jo veldig mye av mi tid gått til nå da ## men det er jo men da må jeg jo ned til # da må jeg faktisk opp til Øvrebygd for der vi hadde lag ⸮
+# segstart = 333.022
+# segstop = 342.644
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 45
+# annotator = VDT, SR
+1	fot-	fot	ufullst	_	_	4	REP	_	_
+2	ja	ja	interj	_	_	4	INTERJ	_	_
+3	fotball	fotball	subst	_	ub|mask|ent|appell	12	PUTFYLL	_	_
+4	har	ha	verb	_	pres	40	FINV	_	_
+5	jo	jo	adv	_	_	11	ADV	_	_
+6	veldig	veldig	adj	_	ub|pos|nøyt|ent	7	ADV	_	_
+7	mye	mye	adj	_	ub|pos|nøyt|ent	4	SUBJ	_	_
+8	av	av	prep	_	_	7	ATR	_	_
+9	mi	min	det	_	fem|ent|poss	10	DET	_	_
+10	tid	tid	subst	_	ub|fem|ent|appell	8	PUTFYLL	_	_
+11	gått	gå	verb	_	perf-part	4	FINV	_	_
+12	til	til	prep	_	_	11	ADV	_	_
+13	nå	nå	adv	_	_	11	ADV	_	_
+14	da	da	adv	_	_	11	ADV	_	_
+15	##	##	pause	_	_	16	IK	_	_
+16	men	men	konj	_	_	18	KONJ	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	18	FSUBJ	_	_
+18	er	være	verb	_	pres	22	SLETT	_	_
+19	jo	jo	adv	_	_	18	ADV	_	_
+20	men	men	konj	_	_	22	KONJ	_	_
+21	da	da	adv	_	_	22	ADV	_	_
+22	må	måtte	verb	_	pres	29	REP	_	_
+23	jeg	jeg	pron	_	nom|1|ent|hum	22	SUBJ	_	_
+24	jo	jo	adv	_	_	22	ADV	_	_
+25	ned	ned	prep	_	_	22	ADV	_	_
+26	til	til	prep	_	_	25	PUTFYLL	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	da	da	adv	_	_	29	ADV	_	_
+29	må	måtte	verb	_	pres	11	KOORD	_	_
+30	jeg	jeg	pron	_	nom|1|ent|hum	29	SUBJ	_	_
+31	faktisk	faktisk	adj	_	ub|pos|nøyt|ent	29	ADV	_	_
+32	opp	opp	prep	_	_	29	ADV	_	_
+33	til	til	prep	_	_	32	PUTFYLL	_	_
+34	Øvrebygd	Øvrebygd	subst	_	prop	33	PUTFYLL	_	_
+35	for	for	prep	_	_	38	KONJ	_	_
+36	der	der	prep	_	_	38	ADV	_	_
+37	vi	vi	pron	_	nom|1|fl|hum	38	SUBJ	_	_
+38	hadde	ha	verb	_	pret	29	KOORD	_	_
+39	lag	lag	subst	_	ub|nøyt|ent|appell	38	DOBJ	_	_
+40	⸮	_	_	_	_	0	root	_	_
+
+# text = så det er en e god bete å kjøre men # det er nå verdt det # og jeg er glad i å spille fotball så # vi har jo ikke nok folk her nede for vi er ikke nok # ikke nok folk ⸮
+# segstart = 342.644
+# segstop = 351.909
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 46
+# annotator = VDT, SR
+1	så	så	konj	_	_	3	KONJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	45	FINV	_	_
+4	en	en	det	_	mask|ent|kvant	7	DET	_	_
+5	e	e	nol	_	_	6	FYLL	_	_
+6	god	god	adj	_	ub|pos|m/f|ent	7	ATR	_	_
+7	bete	bete	subst	_	ub|mask|ent|appell	3	SPRED	_	_
+8	å	å	inf-merke	_	_	7	ATR	_	_
+9	kjøre	kjøre	verb	_	inf	8	INFV	_	_
+10	men	men	konj	_	_	13	KONJ	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	det	det	pron	_	nøyt|3|ent|pers	13	SUBJ	_	_
+13	er	være	verb	_	pres	3	KOORD	_	_
+14	nå	nå	adv	_	_	13	ADV	_	_
+15	verdt	verdt	adj	_	ub|pos|nøyt|ent	13	SPRED	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	DOBJ	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	og	og	konj	_	_	20	KONJ	_	_
+19	jeg	jeg	pron	_	nom|1|ent|hum	20	SUBJ	_	_
+20	er	være	verb	_	pres	3	KOORD	_	_
+21	glad	glad	adj	_	ub|pos|m/f|ent	20	SPRED	_	_
+22	i	i	prep	_	_	21	ADV	_	_
+23	å	å	inf-merke	_	_	22	PUTFYLL	_	_
+24	spille	spille	verb	_	inf	23	INFV	_	_
+25	fotball	fotball	subst	_	ub|mask|ent|appell	24	DOBJ	_	_
+26	så	så	konj	_	_	20	KONJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	vi	vi	pron	_	nom|1|fl|hum	29	SUBJ	_	_
+29	har	ha	verb	_	pres	3	KOORD	_	_
+30	jo	jo	adv	_	_	29	ADV	_	_
+31	ikke	ikke	adv	_	_	29	ADV	_	_
+32	nok	nok	adv	_	_	33	ATR	_	_
+33	folk	folk	subst	_	ub|nøyt|fl|appell	29	DOBJ	_	_
+34	her	her	prep	_	_	29	ADV	_	_
+35	nede	nede	prep	_	_	34	PUTFYLL	_	_
+36	for	for	prep	_	_	38	KONJ	_	_
+37	vi	vi	pron	_	nom|1|fl|hum	38	SUBJ	_	_
+38	er	være	verb	_	pres	29	KOORD	_	_
+39	ikke	ikke	adv	_	_	38	REP	_	_
+40	nok	nok	adv	_	_	38	REP	_	_
+41	#	#	pause	_	_	42	IK	_	_
+42	ikke	ikke	adv	_	_	38	ADV	_	_
+43	nok	nok	adv	_	_	44	ATR	_	_
+44	folk	folk	subst	_	ub|nøyt|fl|appell	38	SPRED	_	_
+45	⸮	_	_	_	_	0	root	_	_
+
+# text = er det jentelag det da eller ? ⸮
+# segstart = 351.909
+# segstop = 353.065
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 47
+# annotator = VDT, SR
+1	er	være	verb	_	pres	8	FINV	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	1	SUBJ	_	_
+3	jentelag	jentelag	subst	_	ub|nøyt|ent|appell	1	SPRED	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	2	APP	_	_
+5	da	da	adv	_	_	1	ADV	_	_
+6	eller	eller	konj	_	_	1	KONJ	_	_
+7	?	$?	clb	_	_	1	IP	_	_
+8	⸮	_	_	_	_	0	root	_	_
+
+# text = ja # rent jentelag # men jeg husker før når vi var lita så brukte vi bestandig være sammenslått med guttene ⸮
+# segstart = 353.065
+# segstop = 360.038
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 48
+# annotator = VDT, SR
+# SR: - Endte opp med å analysere med to APPer.
+1	ja	ja	interj	_	_	4	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	rent	ren	adj	_	ub|pos|nøyt|ent	4	ATR	_	_
+4	jentelag	jentelag	subst	_	ub|nøyt|ent|appell	22	FRAG	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	jeg	jeg	pron	_	nom|1|ent|hum	8	SUBJ	_	_
+8	husker	huske	verb	_	pres	4	KOORD	_	_
+9	før	før	prep	_	_	14	APP	_	_
+10	når	når	sbu	_	_	12	SBU	_	_
+11	vi	vi	pron	_	nom|1|fl|hum	12	SUBJ	_	_
+12	var	være	verb	_	pret	14	APP	_	_
+13	lita	liten	adj	_	ub|pos|fem|ent	12	SPRED	_	_
+14	så	så	adv	_	_	15	ADV	_	_
+15	brukte	bruke	verb	_	pret	8	DOBJ	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	15	SUBJ	_	_
+17	bestandig	bestandig	adj	_	ub|pos|nøyt|ent	18	ADV	_	_
+18	være	være	verb	_	inf	15	INFV	_	_
+19	sammenslått	sammenslått	adj	_	perf-part	18	SPRED	_	_
+20	med	med	prep	_	_	19	ADV	_	_
+21	guttene	gutt	subst	_	be|mask|fl|appell	20	PUTFYLL	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = for at det # det var så lite folk men nå som vi er # blitt mye eldre og # så blir det jo litt mer sånn at guttene og jentene er fra hverandre ⸮
+# segstart = 360.038
+# segstop = 368.673
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 49
+# annotator = VDT, SR
+# SR: - Er det viktig hvor vi plasserer konjunksjoner? Se 'men' her. Jeg velger stort sett å henge konjunksjoner direkte på det koordinerte hodet.
+1	for	for	konj	_	_	6	SBU	_	_
+2	at	at	sbu	_	_	1	FLAT	_	_
+3	det	det	pron	_	nøyt|3|ent|pers	5	REP	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	var	være	verb	_	pret	35	FINV	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	lite	lite	adj	_	ub|pos|nøyt|ent	9	ATR	_	_
+9	folk	folk	subst	_	ub|nøyt|fl|appell	6	PSUBJ	_	_
+10	men	men	konj	_	_	22	KONJ	_	_
+11	nå	nå	adv	_	_	21	APP	_	_
+12	som	som	sbu	_	_	14	SBU	_	_
+13	vi	vi	pron	_	nom|1|fl|hum	14	SUBJ	_	_
+14	er	være	verb	_	pres	11	ADV	_	_
+15	#	#	pause	_	_	16	IK	_	_
+16	blitt	bli	verb	_	perf-part	14	INFV	_	_
+17	mye	mye	adj	_	ub|pos|nøyt|ent	18	ADV	_	_
+18	eldre	gammel	adj	_	komp	16	SPRED	_	_
+19	og	og	konj	_	_	14	SLETT	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	så	så	adv	_	_	22	ADV	_	_
+22	blir	bli	verb	_	pres	6	KOORD	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	22	SUBJ	_	_
+24	jo	jo	adv	_	_	22	ADV	_	_
+25	litt	litt	adj	_	ub|pos|nøyt|ent	26	ADV	_	_
+26	mer	mye	adj	_	komp	27	ADV	_	_
+27	sånn	sånn	adv	_	_	22	SPRED	_	_
+28	at	at	sbu	_	_	32	SBU	_	_
+29	guttene	gutt	subst	_	be|mask|fl|appell	32	SUBJ	_	_
+30	og	og	konj	_	_	31	KONJ	_	_
+31	jentene	jente	subst	_	be|fem|fl|appell	29	KOORD	_	_
+32	er	være	verb	_	pres	27	APP	_	_
+33	fra	fra	prep	_	_	32	SPRED	_	_
+34	hverandre	hverandre	pron	_	fl|res	33	PUTFYLL	_	_
+35	⸮	_	_	_	_	0	root	_	_
+
+# text = ikke vært på et # delt # sånn kjønn- lag sia jeg var # tolv trur jeg # elleve tolv ⸮
+# segstart = 368.673
+# segstop = 376.662
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 50
+# annotator = VDT, SR
+# SR: - 'kjønn-' er ufullstendig, men for at strukturen skal gi mening er det behandlet som fullstendig. OK å gjøre det?
+1	ikke	ikke	adv	_	_	2	ADV	_	_
+2	vært	være	verb	_	perf-part	21	FINV	_	_
+3	på	på	prep	_	_	2	SPRED	_	_
+4	et	en	det	_	nøyt|ent|kvant	10	DET	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	delt	dele	adj	_	ub|nøyt|ent	10	ATR	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	sånn	sånn	det	_	fem|ent|dem	10	DET	_	_
+9	kjønn-	kjønn	ufullst	_	_	10	FYLL	_	_
+10	lag	lag	subst	_	ub|nøyt|fl|appell	3	PUTFYLL	_	_
+11	sia	siden	sbu	_	_	13	SBU	_	_
+12	jeg	jeg	pron	_	nom|1|ent|hum	13	SUBJ	_	_
+13	var	være	verb	_	pret	2	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	tolv	tolv	det	_	fl|kvant	13	SPRED	_	_
+16	trur	tru	verb	_	pres	13	PAR	_	_
+17	jeg	jeg	pron	_	nom|1|ent|hum	16	SUBJ	_	_
+18	#	#	pause	_	_	19	IK	_	_
+19	elleve	elleve	det	_	fl|kvant	15	APP	_	_
+20	tolv	tolv	det	_	fl|kvant	19	FLAT	_	_
+21	⸮	_	_	_	_	0	root	_	_
+
+# text = ja det er klart da begynner da begynner å bli liksom sånn # det er litt sånn fysisk forskjell på guttene òg så ⸮
+# segstart = 376.662
+# segstop = 387.131
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 51
+# annotator = VDT, SR
+# SR: Gjorde 'litt' ATR-dependent til 'forskjell'.
+1	ja	ja	interj	_	_	3	INTERJ	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	SUBJ	_	_
+3	er	være	verb	_	pres	24	FINV	_	_
+4	klart	klar	adj	_	ub|pos|nøyt|ent	3	SPRED	_	_
+5	da	da	adv	_	_	8	REP	_	_
+6	begynner	begynner	verb	_	pres	8	REP	_	_
+7	da	da	adv	_	_	8	ADV	_	_
+8	begynner	begynne	verb	_	pres	15	SLETT	_	_
+9	å	å	inf-merke	_	_	8	DOBJ	_	_
+10	bli	bli	verb	_	inf	9	INFV	_	_
+11	liksom	liksom	adv	_	_	10	ADV	_	_
+12	sånn	sånn	adv	_	_	10	ADV	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+15	er	være	verb	_	pres	3	KOORD	_	_
+16	litt	litt	adj	_	ub|pos|nøyt|ent	19	ATR	_	_
+17	sånn	sånn	det	_	mask|ent|dem	19	DET	_	_
+18	fysisk	fysisk	adj	_	ub|pos|m/f|ent	19	ATR	_	_
+19	forskjell	forskjell	subst	_	ub|mask|ent|appell	15	PSUBJ	_	_
+20	på	på	prep	_	_	19	ATR	_	_
+21	guttene	gutt	subst	_	be|mask|fl|appell	20	PUTFYLL	_	_
+22	òg	òg	adv	_	_	19	ADV	_	_
+23	så	så	konj	_	_	15	KONJ	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = * ja * mm ⸮
+# segstart = 376.662
+# segstop = 382.576
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 52
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	ja	ja	interj	_	_	5	INTERJ	_	_
+3	*	*	pause	_	_	4	IK	_	_
+4	mm	mm	interj	_	_	2	INTERJ	_	_
+5	⸮	_	_	_	_	0	root	_	_
+
+# text = e men ha- hvor du # hvor du har gått på skole hen # opp gjennom # tida er det ? ⸮
+# segstart = 382.576
+# segstop = 387.131
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 53
+# annotator = VDT, SR
+# SR: Flyttet 'hvor' ned til 'gått'
+1	e	e	nol	_	_	2	FYLL	_	_
+2	men	men	konj	_	_	9	KONJ	_	_
+3	ha-	ha	ufullst	_	_	4	FYLL	_	_
+4	hvor	hvor	adv	_	_	9	REP	_	_
+5	du	du	pron	_	nom|2|ent|hum	9	REP	_	_
+6	#	#	pause	_	_	9	IK	_	_
+7	hvor	hvor	adv	_	_	10	ADV	_	_
+8	du	du	pron	_	nom|2|ent|hum	9	SUBJ	_	_
+9	har	ha	verb	_	pres	22	FINV	_	_
+10	gått	gå	verb	_	perf-part	9	INFV	_	_
+11	på	på	prep	_	_	10	ADV	_	_
+12	skole	skole	subst	_	ub|mask|ent|appell	11	PUTFYLL	_	_
+13	hen	hen	prep	_	_	10	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	opp	opp	prep	_	_	10	ADV	_	_
+16	gjennom	gjennom	prep	_	_	15	PUTFYLL	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	tida	tid	subst	_	be|fem|ent|appell	16	PUTFYLL	_	_
+19	er	være	verb	_	pres	9	SLETT	_	_
+20	det	det	pron	_	nøyt|3|ent|pers	19	SUBJ	_	_
+21	?	$?	clb	_	_	9	IP	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = nei # ikke sant det var jo en skole oppi Kirkesdalen her # men den skolen # ble lagt ned # men det var jo lenge før mi tid da det var jo foreldra mine og besteforeldrene mine og ⸮
+# segstart = 387.131
+# segstop = 396.384
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 54
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	6	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	ikke	ikke	adv	_	_	1	ADV	_	_
+4	sant	sann	adj	_	ub|pos|nøyt|ent	3	FLAT	_	_
+5	det	det	pron	_	nøyt|3|ent|pers	6	FSUBJ	_	_
+6	var	være	verb	_	pret	40	FINV	_	_
+7	jo	jo	adv	_	_	6	ADV	_	_
+8	en	en	det	_	mask|ent|kvant	9	DET	_	_
+9	skole	skole	subst	_	ub|mask|ent|appell	6	PSUBJ	_	_
+10	oppi	oppi	prep	_	_	6	ADV	_	_
+11	Kirkesdalen	Kirkesdalen	subst	_	prop	10	PUTFYLL	_	_
+12	her	her	prep	_	_	11	ATR	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	men	men	konj	_	_	18	KONJ	_	_
+15	den	den	det	_	mask|ent|dem	16	DET	_	_
+16	skolen	skole	subst	_	be|mask|ent|appell	18	SUBJ	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	ble	bli	verb	_	pret	6	KOORD	_	_
+19	lagt	legge	verb	_	perf-part	18	INFV	_	_
+20	ned	ned	prep	_	_	19	ADV	_	_
+21	#	#	pause	_	_	22	IK	_	_
+22	men	men	konj	_	_	24	KONJ	_	_
+23	det	det	pron	_	nøyt|3|ent|pers	24	SUBJ	_	_
+24	var	være	verb	_	pret	6	KOORD	_	_
+25	jo	jo	adv	_	_	24	ADV	_	_
+26	lenge	lenge	adv	_	_	24	SPRED	_	_
+27	før	før	prep	_	_	26	ADV	_	_
+28	mi	min	det	_	fem|ent|poss	29	DET	_	_
+29	tid	tid	subst	_	ub|fem|ent|appell	27	PUTFYLL	_	_
+30	da	da	adv	_	_	24	ADV	_	_
+31	det	det	pron	_	nøyt|3|ent|pers	32	SUBJ	_	_
+32	var	være	verb	_	pret	6	KOORD	_	_
+33	jo	jo	adv	_	_	32	ADV	_	_
+34	foreldra	forelder	subst	_	be|mask|fl|appell	32	SPRED	_	_
+35	mine	min	det	_	fl|poss	34	DET	_	_
+36	og	og	konj	_	_	37	KONJ	_	_
+37	besteforeldrene	besteforeldre	subst	_	be|mask|fl|appell	34	KOORD	_	_
+38	mine	min	det	_	fl|poss	37	DET	_	_
+39	og	og	konj	_	_	32	KONJ	_	_
+40	⸮	_	_	_	_	0	root	_	_
+
+# text = generasjonen før meg da # men vi går nå ned på Bakkehaug ned på Rundhaugen # det gjør nå alle fra Kirkesdalen ⸮
+# segstart = 396.384
+# segstop = 402.656
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 55
+# annotator = VDT, SR
+1	generasjonen	generasjon	subst	_	be|mask|ent|appell	23	FRAG	_	_
+2	før	før	prep	_	_	1	ATR	_	_
+3	meg	jeg	pron	_	akk|1|ent|hum	2	PUTFYLL	_	_
+4	da	da	adv	_	_	1	ADV	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	men	men	konj	_	_	8	KONJ	_	_
+7	vi	vi	pron	_	nom|1|fl|hum	8	SUBJ	_	_
+8	går	gå	verb	_	pres	1	KOORD	_	_
+9	nå	nå	adv	_	_	8	ADV	_	_
+10	ned	ned	prep	_	_	8	ADV	_	_
+11	på	på	prep	_	_	10	PUTFYLL	_	_
+12	Bakkehaug	Bakkehaug	subst	_	prop	11	PUTFYLL	_	_
+13	ned	ned	prep	_	_	12	ATR	_	_
+14	på	på	prep	_	_	13	PUTFYLL	_	_
+15	Rundhaugen	Rundhaugen	subst	_	prop	14	PUTFYLL	_	_
+16	#	#	pause	_	_	17	IK	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	18	DOBJ	_	_
+18	gjør	gjøre	verb	_	pres	8	KOORD	_	_
+19	nå	nå	adv	_	_	18	ADV	_	_
+20	alle	all	det	_	fl|kvant	18	SUBJ	_	_
+21	fra	fra	prep	_	_	20	ATR	_	_
+22	Kirkesdalen	Kirkesdalen	subst	_	prop	21	PUTFYLL	_	_
+23	⸮	_	_	_	_	0	root	_	_
+
+# text = og Rundhaugen # går nå på Bakkehaug # trives veldig godt der nede # vi er nå ikke så mange jeg trur vi vi er ⸮
+# segstart = 402.656
+# segstop = 411.865
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 56
+# annotator = VDT, SR
+1	og	og	konj	_	_	2	KONJ	_	_
+2	Rundhaugen	Rundhaugen	subst	_	prop	26	FRAG	_	_
+3	#	#	pause	_	_	4	IK	_	_
+4	går	gå	verb	_	pres	2	KOORD	_	_
+5	nå	nå	adv	_	_	4	ADV	_	_
+6	på	på	prep	_	_	4	ADV	_	_
+7	Bakkehaug	Bakkehaug	subst	_	prop	6	PUTFYLL	_	_
+8	#	#	pause	_	_	9	IK	_	_
+9	trives	trives	verb	_	pres	2	KOORD	_	_
+10	veldig	veldig	adj	_	ub|pos|nøyt|ent	11	ADV	_	_
+11	godt	god	adj	_	ub|pos|nøyt|ent	9	ADV	_	_
+12	der	der	prep	_	_	9	ADV	_	_
+13	nede	nede	prep	_	_	12	PUTFYLL	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	vi	vi	pron	_	nom|1|fl|hum	16	SUBJ	_	_
+16	er	være	verb	_	pres	2	KOORD	_	_
+17	nå	nå	adv	_	_	16	ADV	_	_
+18	ikke	ikke	adv	_	_	16	ADV	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	mange	mange	adj	_	pos|fl	16	SPRED	_	_
+21	jeg	jeg	pron	_	nom|1|ent|hum	22	SUBJ	_	_
+22	trur	tru	verb	_	pres	16	SLETT	_	_
+23	vi	vi	pron	_	nom|1|fl|hum	25	REP	_	_
+24	vi	vi	pron	_	nom|1|fl|hum	25	SUBJ	_	_
+25	er	være	verb	_	pres	22	DOBJ	_	_
+26	⸮	_	_	_	_	0	root	_	_
+
+# text = seks elever fra Kirkesdalen da som # går på Bakkehaug # flesteparten er jo gått ut # det er ikke så masse # _front-click_ nye unger # oppi her ⸮
+# segstart = 411.865
+# segstop = 420.542
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 57
+# annotator = VDT, SR
+1	seks	seks	det	_	fl|kvant	2	DET	_	_
+2	elever	elev	subst	_	ub|mask|fl|appell	12	APP	_	_
+3	fra	fra	prep	_	_	2	ATR	_	_
+4	Kirkesdalen	Kirkesdalen	subst	_	prop	3	PUTFYLL	_	_
+5	da	da	adv	_	_	3	ADV	_	_
+6	som	som	sbu	_	_	8	SBU	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	går	gå	verb	_	pres	2	ATR	_	_
+9	på	på	prep	_	_	8	ADV	_	_
+10	Bakkehaug	Bakkehaug	subst	_	prop	9	PUTFYLL	_	_
+11	#	#	pause	_	_	12	IK	_	_
+12	flesteparten	flestepart	subst	_	ub|mask|ent|samset	13	SUBJ	_	_
+13	er	være	verb	_	pres	30	FINV	_	_
+14	jo	jo	adv	_	_	15	ADV	_	_
+15	gått	gå	verb	_	perf-part	13	INFV	_	_
+16	ut	ut	prep	_	_	15	ADV	_	_
+17	#	#	pause	_	_	18	IK	_	_
+18	det	det	pron	_	nøyt|3|ent|pers	19	FSUBJ	_	_
+19	er	være	verb	_	pres	13	KOORD	_	_
+20	ikke	ikke	adv	_	_	19	ADV	_	_
+21	så	så	adv	_	_	22	ADV	_	_
+22	masse	masse	adj	_	pos|fl	26	ATR	_	_
+23	#	#	pause	_	_	25	IK	_	_
+24	_front-click_	_front-click_	pause	_	_	25	FYLL	_	_
+25	nye	ny	adj	_	pos|fl	26	ATR	_	_
+26	unger	unge	subst	_	ub|mask|fl|appell	19	PSUBJ	_	_
+27	#	#	pause	_	_	28	IK	_	_
+28	oppi	oppi	prep	_	_	19	ADV	_	_
+29	her	her	prep	_	_	28	PUTFYLL	_	_
+30	⸮	_	_	_	_	0	root	_	_
+
+# text = m ## men e # hvor men hvor de kommer fra de som er på Bakkehaug da er det # altså de # de jo # de som går som går på skolen på Bakkehaug ⸮
+# segstart = 420.542
+# segstop = 431.512
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 58
+# annotator = VDT, SR
+1	m	m	interj	_	_	10	INTERJ	_	_
+2	##	##	pause	_	_	3	IK	_	_
+3	men	men	konj	_	_	7	REP	_	_
+4	e	e	nol	_	_	6	FYLL	_	_
+5	#	#	pause	_	_	6	IK	_	_
+6	hvor	hvor	adv	_	_	7	REP	_	_
+7	men	men	konj	_	_	10	KONJ	_	_
+8	hvor	hvor	adv	_	_	11	PUTFYLL	_	_
+9	de	de	pron	_	nom|2|fl|hum	10	SUBJ	_	_
+10	kommer	komme	verb	_	pres	36	FINV	_	_
+11	fra	fra	prep	_	_	10	ADV	_	_
+12	de	de	pron	_	nom|3|fl|pers	9	APP	_	_
+13	som	som	sbu	_	_	14	SBU	_	_
+14	er	være	verb	_	pres	12	ATR	_	_
+15	på	på	prep	_	_	14	SPRED	_	_
+16	Bakkehaug	Bakkehaug	subst	_	prop	15	PUTFYLL	_	_
+17	da	da	adv	_	_	18	ADV	_	_
+18	er	være	verb	_	pres	27	REP	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	18	FSUBJ	_	_
+20	#	#	pause	_	_	21	IK	_	_
+21	altså	altså	adv	_	_	18	ADV	_	_
+22	de	de	pron	_	nom|2|fl|hum	18	ADV	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	de	de	pron	_	nom|2|fl|hum	27	REP	_	_
+25	jo	jo	adv	_	_	24	ADV	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	de	de	pron	_	nom|3|fl|pers	9	APP	_	_
+28	som	som	sbu	_	_	29	SBU	_	_
+29	går	gå	verb	_	pres	27	REP	_	_
+30	som	som	sbu	_	_	31	SBU	_	_
+31	går	gå	verb	_	pres	27	ATR	_	_
+32	på	på	prep	_	_	31	ADV	_	_
+33	skolen	skole	subst	_	be|mask|ent|appell	32	PUTFYLL	_	_
+34	på	på	prep	_	_	31	ADV	_	_
+35	Bakkehaug	Bakkehaug	subst	_	prop	34	PUTFYLL	_	_
+36	⸮	_	_	_	_	0	root	_	_
+
+# text = * mm ⸮
+# segstart = 420.542
+# segstop = 431.512
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 59
+# annotator = VDT
+1	*	*	pause	_	_	2	IK	_	_
+2	mm	mm	interj	_	_	3	INTERJ	_	_
+3	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ de kommer fra em ## _front-click_ Maukdal lenger nedfor Bakkehaug da # det er jo unger som bor der nede da # også de oppover Nordmoen ⸮
+# segstart = 431.512
+# segstop = 440.14
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 60
+# annotator = VDT, SR
+# SR: Koordinerte 'også de oppover Nordmoen', under sterk tvil. Mener at det er en ellipse med utelatt verb.
+1	_front-click_	_front-click_	pause	_	_	2	IK	_	_
+2	de	de	pron	_	nom|2|fl|hum	3	SUBJ	_	_
+3	kommer	komme	verb	_	pres	28	FINV	_	_
+4	fra	fra	prep	_	_	3	ADV	_	_
+5	em	e	nol	_	_	8	FYLL	_	_
+6	##	##	pause	_	_	8	IK	_	_
+7	_front-click_	_front-click_	pause	_	_	8	IK	_	_
+8	Maukdal	Maukdal	subst	_	prop	4	PUTFYLL	_	_
+9	lenger	lenger	adv	_	_	10	ADV	_	_
+10	nedfor	nedfor	adv	_	_	3	ADV	_	_
+11	Bakkehaug	Bakkehaug	subst	_	prop	10	PUTFYLL	_	_
+12	da	da	adv	_	_	3	ADV	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+15	er	være	verb	_	pres	3	KOORD	_	_
+16	jo	jo	adv	_	_	15	ADV	_	_
+17	unger	unge	subst	_	ub|mask|fl|appell	15	PSUBJ	_	_
+18	som	som	sbu	_	_	19	SBU	_	_
+19	bor	bo	verb	_	pres	17	ATR	_	_
+20	der	der	prep	_	_	19	ADV	_	_
+21	nede	nede	prep	_	_	20	PUTFYLL	_	_
+22	da	da	adv	_	_	19	ADV	_	_
+23	#	#	pause	_	_	24	IK	_	_
+24	også	også	adv	_	_	25	ADV	_	_
+25	de	de	pron	_	nom|2|fl|hum	3	KOORD	_	_
+26	oppover	oppover	prep	_	_	25	ATR	_	_
+27	Nordmoen	Nordmoen	subst	_	prop	26	PUTFYLL	_	_
+28	⸮	_	_	_	_	0	root	_	_
+
+# text = og så vi i Kirkesdalen og så er det ei på Alappmoen # og så er det m # på Grøtte og Løberg # og Elvero ⸮
+# segstart = 440.14
+# segstop = 447.723
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 61
+# annotator = VDT, SR
+1	og	og	konj	_	_	3	KONJ	_	_
+2	så	så	adv	_	_	3	ADV	_	_
+3	vi	vi	pron	_	nom|1|fl|hum	27	FRAG	_	_
+4	i	i	prep	_	_	3	ATR	_	_
+5	Kirkesdalen	Kirkesdalen	subst	_	prop	4	PUTFYLL	_	_
+6	og	og	konj	_	_	8	KONJ	_	_
+7	så	så	adv	_	_	8	ADV	_	_
+8	er	være	verb	_	pres	3	KOORD	_	_
+9	det	det	pron	_	nøyt|3|ent|pers	8	FSUBJ	_	_
+10	ei	en	det	_	fem|ent|kvant	8	PSUBJ	_	_
+11	på	på	prep	_	_	10	ATR	_	_
+12	Alappmoen	Alappmoen	subst	_	prop	11	PUTFYLL	_	_
+13	#	#	pause	_	_	14	IK	_	_
+14	og	og	konj	_	_	16	KONJ	_	_
+15	så	så	adv	_	_	16	ADV	_	_
+16	er	være	verb	_	pres	3	KOORD	_	_
+17	det	det	pron	_	nøyt|3|ent|pers	16	FSUBJ	_	_
+18	m	m	interj	_	_	20	INTERJ	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	på	på	prep	_	_	16	PSUBJ	_	_
+21	Grøtte	Grøtte	subst	_	prop	20	PUTFYLL	_	_
+22	og	og	konj	_	_	23	KONJ	_	_
+23	Løberg	Løberg	subst	_	prop	21	KOORD	_	_
+24	#	#	pause	_	_	25	IK	_	_
+25	og	og	konj	_	_	26	KONJ	_	_
+26	Elvero	Elvero	subst	_	prop	21	KOORD	_	_
+27	⸮	_	_	_	_	0	root	_	_
+
+# text = hvor Grøtte er hen ? ⸮
+# segstart = 447.723
+# segstop = 449.254
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 62
+# annotator = VDT
+1	hvor	hvor	adv	_	_	3	ADV	_	_
+2	Grøtte	Grøtte	subst	_	prop	3	SUBJ	_	_
+3	er	være	verb	_	pres	6	FINV	_	_
+4	hen	hen	prep	_	_	3	ADV	_	_
+5	?	$?	clb	_	_	3	IP	_	_
+6	⸮	_	_	_	_	0	root	_	_
+
+# text = _front-click_ det blir # når du kjører til e _laughter_ til e Bardufoss så er det først Elverum # så kommer du til Grøtta etterpå # det står Grøtta så inn det innover ⸮
+# segstart = 449.254
+# segstop = 458.912
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 63
+# annotator = VDT, SR
+# SR: Etter å ha sett mange eksempler på slike analyser i NDT, ble 'det står Grøtta' annotert med FSUBJ/PSUBJ-relasjon.
+1	_front-click_	_front-click_	pause	_	_	3	FYLL	_	_
+2	det	det	pron	_	nøyt|3|ent|pers	3	FSUBJ	_	_
+3	blir	bli	verb	_	pres	15	REP	_	_
+4	#	#	pause	_	_	5	IK	_	_
+5	når	når	sbu	_	_	7	SBU	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	kjører	kjøre	verb	_	pres	14	APP	_	_
+8	til	til	prep	_	_	7	REP	_	_
+9	e	e	nol	_	_	11	FYLL	_	_
+10	_laughter_	_laughter_	pause	_	_	11	FYLL	_	_
+11	til	til	prep	_	_	7	ADV	_	_
+12	e	e	nol	_	_	13	FYLL	_	_
+13	Bardufoss	Bardufoss	subst	_	prop	11	PUTFYLL	_	_
+14	så	så	adv	_	_	15	ADV	_	_
+15	er	være	verb	_	pres	34	FINV	_	_
+16	det	det	pron	_	nøyt|3|ent|pers	15	FSUBJ	_	_
+17	først	først	adv	_	_	18	ATR	_	_
+18	Elverum	Elverum	subst	_	prop	15	SPRED	_	_
+19	#	#	pause	_	_	20	IK	_	_
+20	så	så	adv	_	_	21	ADV	_	_
+21	kommer	komme	verb	_	pres	15	KOORD	_	_
+22	du	du	pron	_	nom|2|ent|hum	21	SUBJ	_	_
+23	til	til	prep	_	_	21	ADV	_	_
+24	Grøtta	Grøtta	subst	_	prop	23	PUTFYLL	_	_
+25	etterpå	etterpå	adv	_	_	21	ADV	_	_
+26	#	#	pause	_	_	27	IK	_	_
+27	det	det	pron	_	nøyt|3|ent|pers	28	FSUBJ	_	_
+28	står	stå	verb	_	pres	15	KOORD	_	_
+29	Grøtta	Grøtta	subst	_	prop	28	PSUBJ	_	_
+30	så	så	adv	_	_	28	ADV	_	_
+31	inn	inn	prep	_	_	28	SLETT	_	_
+32	det	det	pron	_	nøyt|3|ent|pers	31	PUTFYLL	_	_
+33	innover	innover	prep	_	_	28	SLETT	_	_
+34	⸮	_	_	_	_	0	root	_	_
+
+# text = tar av til Grøtta når du kommer e # _front-click_ ja # når du kommer til Grøtt- eller det er like før Målsfossen ⸮
+# segstart = 458.912
+# segstop = 465.518
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 64
+# annotator = VDT, SR
+1	tar	ta	verb	_	pres	24	FINV	_	_
+2	av	av	prep	_	_	1	ADV	_	_
+3	til	til	prep	_	_	2	PUTFYLL	_	_
+4	Grøtta	Grøtta	subst	_	prop	3	PUTFYLL	_	_
+5	når	når	sbu	_	_	7	SBU	_	_
+6	du	du	pron	_	nom|2|ent|hum	7	SUBJ	_	_
+7	kommer	komme	verb	_	pres	15	REP	_	_
+8	e	e	nol	_	_	11	FYLL	_	_
+9	#	#	pause	_	_	11	IK	_	_
+10	_front-click_	_front-click_	pause	_	_	11	FYLL	_	_
+11	ja	ja	interj	_	_	15	INTERJ	_	_
+12	#	#	pause	_	_	13	IK	_	_
+13	når	når	sbu	_	_	15	SBU	_	_
+14	du	du	pron	_	nom|2|ent|hum	15	SUBJ	_	_
+15	kommer	komme	verb	_	pres	1	ADV	_	_
+16	til	til	prep	_	_	15	ADV	_	_
+17	Grøtt-	Grøtt-	ufullst	_	prop	16	PUTFYLL	_	_
+18	eller	eller	konj	_	_	20	KONJ	_	_
+19	det	det	pron	_	nøyt|3|ent|pers	20	FSUBJ	_	_
+20	er	være	verb	_	pres	1	KOORD	_	_
+21	like	like	adv	_	_	22	ADV	_	_
+22	før	før	prep	_	_	20	SPRED	_	_
+23	Målsfossen	Målsfossen	subst	_	prop	22	PUTFYLL	_	_
+24	⸮	_	_	_	_	0	root	_	_
+
+# text = mm # så vi er cirka åtti elever # fra første til tiende # så vi er ikke så mange men ⸮
+# segstart = 466.175
+# segstop = 471.766
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 66
+# annotator = VDT, SR
+# SR: Gjorde 'fra første til tiende' ATR-dependent til 'elever', under tvil.
+1	mm	mm	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	så	så	adv	_	_	5	KONJ	_	_
+4	vi	vi	pron	_	nom|1|fl|hum	5	SUBJ	_	_
+5	er	være	verb	_	pres	22	FINV	_	_
+6	cirka	cirka	adv	_	_	7	ADV	_	_
+7	åtti	åtti	det	_	fl|kvant	8	DET	_	_
+8	elever	elev	subst	_	ub|mask|fl|appell	5	SPRED	_	_
+9	#	#	pause	_	_	10	IK	_	_
+10	fra	fra	prep	_	_	8	ATR	_	_
+11	første	første	adj	_	kvant	10	PUTFYLL	_	_
+12	til	til	prep	_	_	10	ADV	_	_
+13	tiende	tiende	adj	_	kvant	12	PUTFYLL	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	så	så	adv	_	_	17	ADV	_	_
+16	vi	vi	pron	_	nom|1|fl|hum	17	SUBJ	_	_
+17	er	være	verb	_	pres	5	KOORD	_	_
+18	ikke	ikke	adv	_	_	17	ADV	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	mange	mange	adj	_	pos|fl	17	SPRED	_	_
+21	men	men	konj	_	_	17	KONJ	_	_
+22	⸮	_	_	_	_	0	root	_	_
+
+# text = nei # hva det var e # hva du har tenkt å gjøre # når du er ferdig på Bakkehaug da ? ⸮
+# segstart = 471.766
+# segstop = 477.663
+# file = kirkesdalen_02uk-hna
+# speaker = hna
+# id = 67
+# annotator = VDT, SR
+1	nei	nei	interj	_	_	5	INTERJ	_	_
+2	#	#	pause	_	_	3	IK	_	_
+3	hva	hva	pron	_	sp	5	ADV	_	_
+4	det	det	pron	_	nøyt|3|ent|pers	5	FSUBJ	_	_
+5	var	være	verb	_	pret	10	REP	_	_
+6	e	e	nol	_	_	8	FYLL	_	_
+7	#	#	pause	_	_	8	IK	_	_
+8	hva	hva	pron	_	sp	13	DOBJ	_	_
+9	du	du	pron	_	nom|2|ent|hum	10	SUBJ	_	_
+10	har	ha	verb	_	pres	23	FINV	_	_
+11	tenkt	tenke	verb	_	perf-part	10	INFV	_	_
+12	å	å	inf-merke	_	_	11	DOBJ	_	_
+13	gjøre	gjøre	verb	_	inf	12	INFV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	når	når	sbu	_	_	17	SBU	_	_
+16	du	du	pron	_	nom|2|ent|hum	17	SUBJ	_	_
+17	er	være	verb	_	pres	13	ADV	_	_
+18	ferdig	ferdig	adj	_	ub|pos|m/f|ent	17	SPRED	_	_
+19	på	på	prep	_	_	18	ADV	_	_
+20	Bakkehaug	Bakkehaug	subst	_	prop	19	PUTFYLL	_	_
+21	da	da	adv	_	_	10	ADV	_	_
+22	?	$?	clb	_	_	10	IP	_	_
+23	⸮	_	_	_	_	0	root	_	_
+
+# text = nå jeg var lita ja jeg vel kanskje den som datt mest da # jeg var kanskje ikke så veldig god å gå på ski men jeg var jeg synes det var artig å gå på ski ⸮
+# segstart = 191.662
+# segstop = 198.315
+# file = kirkesdalen_02uk-hna
+# speaker = kirkesdalen_02uk
+# id = 21
+# annotator = VDT
+1	nå	nå	adv	_	_	3	ADV	_	_
+2	jeg	jeg	pron	_	nom|1|ent|hum	3	SUBJ	_	_
+3	var	være	verb	_	pret	38	FINV	_	_
+4	lita	liten	adj	_	ub|pos|fem|ent	3	SPRED	_	_
+5	ja	ja	interj	_	_	3	INTERJ	_	_
+6	jeg	jeg	pron	_	nom|1|ent|hum	3	KOORD	_	_
+7	vel	vel	adv	_	_	6	ADV	_	_
+8	kanskje	kanskje	adv	_	_	6	ADV	_	_
+9	den	den	det	_	mask|ent|dem	6	SPRED	_	_
+10	som	som	sbu	_	_	11	SBU	_	_
+11	datt	dette	verb	_	pret	9	ATR	_	_
+12	mest	mye	adj	_	ub|sup	11	ADV	_	_
+13	da	da	adv	_	_	11	ADV	_	_
+14	#	#	pause	_	_	15	IK	_	_
+15	jeg	jeg	pron	_	nom|1|ent|hum	16	SUBJ	_	_
+16	var	være	verb	_	pret	3	KOORD	_	_
+17	kanskje	kanskje	adv	_	_	16	ADV	_	_
+18	ikke	ikke	adv	_	_	16	ADV	_	_
+19	så	så	adv	_	_	20	ADV	_	_
+20	veldig	veldig	adj	_	ub|pos|nøyt|ent	21	ADV	_	_
+21	god	god	adj	_	ub|pos|m/f|ent	16	SPRED	_	_
+22	å	å	inf-merke	_	_	21	ADV	_	_
+23	gå	gå	verb	_	inf	22	INFV	_	_
+24	på	på	prep	_	_	23	ADV	_	_
+25	ski	ski	subst	_	ub|fem|fl|appell	24	PUTFYLL	_	_
+26	men	men	konj	_	_	28	KONJ	_	_
+27	jeg	jeg	pron	_	nom|1|ent|hum	28	SUBJ	_	_
+28	var	være	verb	_	pret	30	SLETT	_	_
+29	jeg	jeg	pron	_	nom|1|ent|hum	30	SUBJ	_	_
+30	synes	synes	verb	_	pres	3	KOORD	_	_
+31	det	det	pron	_	nøyt|3|ent|pers	32	FSUBJ	_	_
+32	var	være	verb	_	pret	30	DOBJ	_	_
+33	artig	artig	adj	_	ub|pos|nøyt|ent	32	SPRED	_	_
+34	å	å	inf-merke	_	_	32	PSUBJ	_	_
+35	gå	gå	verb	_	inf	34	INFV	_	_
+36	på	på	prep	_	_	35	ADV	_	_
+37	ski	ski	subst	_	ub|fem|fl|appell	36	PUTFYLL	_	_
+38	⸮	_	_	_	_	0	root	_	_
+
