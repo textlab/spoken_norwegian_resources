@@ -10197,7 +10197,7 @@
 # file = giske_uib_02
 # speaker = giske_uib_0202
 # id = 522
-1	sørvest	sovesste	prep		pres	0	FRAG		hov
+1	sørvest	sovesste	prep		    0	FRAG		hov
 
 # text = nordausten også nordavinden eller # nordausten er nokså allminneleg # somme tider særleg da på vårparten
 # segstart = 2549.525
