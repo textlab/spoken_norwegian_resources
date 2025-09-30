@@ -1,0 +1,646 @@
+spring_grove_MN_19gm               spring_grove_MN_19gm
+
+spring_grove_MN_19gm_orthography   spring_grove_MN_19gm
+
+spring_grove_MN_19gm               jæ ær em
+
+spring_grove_MN_19gm_orthography   jeg er em
+
+int                                hvor var du født ?
+
+int_orthography                    hvor var du født ?
+
+spring_grove_MN_19gm               e var føtt hær i Sprinng Gråv # i t- ee 
+                                   Sprinng Gråv Taonsjipp
+
+spring_grove_MN_19gm_orthography   jeg var født her i Spring Grove # i t- e 
+                                   Spring Grove Township
+
+int                                kan du fortelle litt om far din ?
+
+int_orthography                    kan du fortelle litt om far din ?
+
+spring_grove_MN_19gm               hann far kåmm hær te Ammerika +x inn ee a- 
+                                   att'nhunndretoåfæmmti
+
+spring_grove_MN_19gm_orthography   han far kom her til Amerika +x in e a- 
+                                   attenhundretoogfemti
+
+spring_grove_MN_19gm               å fækk se +x håmstedd hær i Sprinng Gråv 
+                                   Taonsjipp # såmm ann levvde på te # va på så 
+                                   lenng enn levvde
+
+spring_grove_MN_19gm_orthography   og fikk seg +x homestead her i Spring Grove 
+                                   Township # som han levde på til # var på så 
+                                   lenge han levde
+
+spring_grove_MN_19gm               å dær æ jæ alltså je +x oppræist
+
+spring_grove_MN_19gm_orthography   og der er jeg altså jeg +x oppreist
+
+int                                kan du e fortelle litt om var det mest 
+                                   hallinger eller hva var det som levde der ?
+
+int_orthography                    kan du e fortelle litt om var det mest 
+                                   hallinger eller hva var det som levde der ?
+
+spring_grove_MN_19gm               mæsste del'n hallinger
+
+spring_grove_MN_19gm_orthography   meste delen hallinger
+
+spring_grove_MN_19gm               de var ee # kannsji # åtti +x pesjennt 
+                                   hallinger %u te nabolage
+
+spring_grove_MN_19gm_orthography   det var e # kanskje # åtti +x percent 
+                                   hallinger %u til nabolaget
+
+spring_grove_MN_19gm               å # defør så
+
+spring_grove_MN_19gm_orthography   og # derfor så
+
+int                                lærte du å snakke halling ?
+
+int_orthography                    lærte du å snakke halling ?
+
+spring_grove_MN_19gm               dæfør så læRt jæ å snake halling +x kåsj de 
+                                   æ no bare så å så me hallingspråke
+
+spring_grove_MN_19gm_orthography   derfor så lærte jeg å snakke halling +x 
+                                   course det er nå bare så og så med 
+                                   hallingspråket
+
+int                                ja kan du fortelle gikk du på skole der uti ?
+
+int_orthography                    ja kan du fortelle gikk du på skole der uti ?
+
+spring_grove_MN_19gm               %s
+
+spring_grove_MN_19gm_orthography   %s
+
+spring_grove_MN_19gm               ja jikk på sko- hæim- hæimskuurn +x(å kåsj) 
+                                   # te jæ varrt enn fæmmt'n sekkst'n år så 
+                                   jebb æi d- i Dekåra på Luth- ee på +x( bRæk 
+                                   venn ) gikk te skul'n # såmm e va dær ee n 
+                                   to tre år
+
+spring_grove_MN_19gm_orthography   ja gikk på sko- hæim- heimskolen +x(of 
+                                   course) # til jeg ble en femten seksten år 
+                                   så jobbet jeg d- i Decorah på Luth- e på +x( 
+                                   break when ) gikk til skolen # som jeg var 
+                                   der e en to tre år
+
+int                                hva gjorde du der ? hva lærte du der ?
+
+int_orthography                    hva gjorde du der ? hva lærte du der ?
+
+spring_grove_MN_19gm               åh de var ee # enn +x(bissnis kalledj) # 
+                                   såmm de egentli var
+
+spring_grove_MN_19gm_orthography   å det var e # en +x(business college) # som 
+                                   det egentlig var
+
+spring_grove_MN_19gm               +x vell de va na- nattulivis enn +x(nåRmel 
+                                   kåsj) å %u på +x titjings å
+
+spring_grove_MN_19gm_orthography   +x well det var na- naturligvis en +x(normal 
+                                   course) og %u  på +x teachings og
+
+int                                å ja e kan du fortelle lite grann om hva du 
+                                   gjorde utafor skolen ?
+
+int_orthography                    å ja e kan du fortelle lite grann om hva du 
+                                   gjorde utafor skolen ?
+
+spring_grove_MN_19gm               +x væll ut'nem skuurn …
+
+spring_grove_MN_19gm_orthography   +x well utenom skolen …
+
+int                                %u
+
+int_orthography                    %u
+
+spring_grove_MN_19gm               e ræ m # ræiste te Dakåta # SørDakåota # i 
+                                   nitt- i att'nhunnretreånitti
+
+spring_grove_MN_19gm_orthography   er det m # reiste til Dakota # Sør-Dakota # 
+                                   i nitt- i attenhundretreognitti
+
+spring_grove_MN_19gm               å arr- skull arrbe på eit +x står få kå- få 
+                                   søsskenbarne mitt
+
+spring_grove_MN_19gm_orthography   og arr- skulle arbeide på et +x store for 
+                                   kå- for søskenbarnet mitt
+
+int                                jaha
+
+int_orthography                    jaha
+
+spring_grove_MN_19gm               å de va e i tre år åsså kåmm e tebakesj hær 
+                                   ti Sprinng Råv # så arrber e på æit 
+                                   +x(gråseRi står) hær ett år
+
+spring_grove_MN_19gm_orthography   og der var jeg i tre år også kom jeg tilbake 
+                                   her til Spring Grove # så arbeidet jeg på et 
+                                   +x(grocery store) her et år
+
+spring_grove_MN_19gm               så bynn je i låmmbeR-bissnisen i 
+                                   att'nhunndrefemmånitti
+
+spring_grove_MN_19gm_orthography   så begynte jeg i lumber-businessen i 
+                                   attenhundrefemognitti
+
+spring_grove_MN_19gm               %k så jæ a alltså værrt i bissnis i sju å 
+                                   førrti år
+
+spring_grove_MN_19gm_orthography   %k så jeg har altså vært i business i sju og 
+                                   førti år
+
+int                                heh # e kan du fortelle lite grann om e 
+                                   norskskolen ? hadde det
+
+int_orthography                    heh # e kan du fortelle lite grann om e 
+                                   norskskolen ? hadde det
+
+spring_grove_MN_19gm               ja ja i gammerdagar så vett såmm ba re 
+                                   nattulivis nåssjk ee relljongskuLe # to 
+                                   måner i # omm sommad'n
+
+spring_grove_MN_19gm_orthography   ja ja i gamledager så vet som var det 
+                                   naturligvis norsk e religionsskole # to 
+                                   måneder i # om sommeren
+
+int                                å ja
+
+int_orthography                    å ja
+
+spring_grove_MN_19gm               å # nattulivis no æ dæ pørrbi me nå # de ær 
+                                   ikkje nokon relljongskuLe i k- i de her +x 
+                                   kånntrie de
+
+spring_grove_MN_19gm_orthography   og # naturligvis nå er det forbi med nå # 
+                                   det er ikke noen religionsskole i k- i det 
+                                   her +x countryet det
+
+int                                hvordan likte dere å gå på den skolen ?
+
+int_orthography                    hvordan likte dere å gå på den skolen ?
+
+spring_grove_MN_19gm               frerons- relljonskuurn ?
+
+spring_grove_MN_19gm_orthography   frerons- religionsskolen ?
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_19gm               jo dænn likkt e nåkkså gått de e var # 
+                                   gannske fLinngk e læsa
+
+spring_grove_MN_19gm_orthography   jo den likte jeg nokså godt det jeg var # 
+                                   ganske flink å lese
+
+spring_grove_MN_19gm               så hadd jæ # da je var ee m skett- +x(gett 
+                                   elång) nåkkså gått på renn # på alle skoLer 
+                                   føræsst'n %k
+
+spring_grove_MN_19gm_orthography   så hadde jeg # da jeg var e m skett- +x(got 
+                                   along) nokså godt på den # på alle skoler 
+                                   forresten %k
+
+int                                ehe e kan du fortelle lite grann om kirka 
+                                   her ?
+
+int_orthography                    ehe e kan du fortelle lite grann om kirka 
+                                   her ?
+
+spring_grove_MN_19gm               ja de ær gannske lanng +x hisstori de %k
+
+spring_grove_MN_19gm_orthography   ja det er ganske lang +x history det %k
+
+spring_grove_MN_19gm               denn fisste tjærrka # va byggd tå enn 
+                                   privatmann hær ee %u såmm levvde i nabolage 
+                                   s'm ætte M1 +x( itt s de ) gråstæintjørrke
+
+spring_grove_MN_19gm_orthography   den første kirka # var bygde av en 
+                                   privatmann her e %u som levde i nabolaget 
+                                   som het M1 +x( it is the ) gråsteinskirke
+
+spring_grove_MN_19gm               %k menn ee denn tjærrka # +x væll ho varrt 
+                                   no få lit'n førr æin tinng'n
+
+spring_grove_MN_19gm_orthography   %k men e den kirka # +x well hun ble nå for 
+                                   liten for én ting
+
+spring_grove_MN_19gm               åsså bynte æine muen på æine sia te sige ut
+
+spring_grove_MN_19gm_orthography   også begynte ene muren på ene sida å sige ut
+
+spring_grove_MN_19gm               åsså varrt menieta redd å de va enn 
+                                   fåfæddele tummult dær # æin ganng de ba 
+                                   komfomasjon i kjørrka %k
+
+spring_grove_MN_19gm_orthography   også ble menigheta redd og det var en 
+                                   forferdelig tumult der # en gang det var 
+                                   konfirmasjon i kirka %k
+
+spring_grove_MN_19gm               di hadde sett no støtter på # på denn 
+                                   langveggen førr å da høllde så att n sko 
+                                   ttje gå ut
+
+spring_grove_MN_19gm_orthography   de hadde satt noen støtter på # på den 
+                                   langveggen for å da holde så at han skulle 
+                                   ikke gå ut
+
+spring_grove_MN_19gm               nåkk va re å tjærrka sto nåkk # menn dænn ee 
+                                   # dænn kåmmfåmasjonsdagen va re alleris 
+                                   tjærrka alldeles full
+
+spring_grove_MN_19gm_orthography   nok var det og kirka sto nok # men den e # 
+                                   den konfirmasjonsdagen var det aldeles kirka 
+                                   aldeles full
+
+spring_grove_MN_19gm               åsså ha re nå pLanngker uppi +x kåre såmm 
+                                   dæi satt på fårr e va tje upp så alldeles # 
+                                   møbbelert
+
+spring_grove_MN_19gm_orthography   også hadde de noen planker oppi +x coret som 
+                                   de satt på for det var ikke opp så aldeles # 
+                                   møblert
+
+spring_grove_MN_19gm               så jikk æin pLanngke åv i # ett si- sæte
+
+spring_grove_MN_19gm_orthography   så gikk en planke av i # et si- sete
+
+spring_grove_MN_19gm               å ee dei trudde nattulivis de att nå dett 
+                                   kjørrka ne
+
+spring_grove_MN_19gm_orthography   og e de trudde naturligvis det at nå detter 
+                                   kirka ned
+
+spring_grove_MN_19gm               de arre snakk åmm de att no dætt kjørrk- ee 
+                                   tjærrke tjæmm de dætte ne ein ganng
+
+spring_grove_MN_19gm_orthography   de hadde snakka om det at nå detter kjørrk- 
+                                   e kirka kommer å dette ned en gang
+
+spring_grove_MN_19gm               menn de va kji ee nokon fare me de tjærrka 
+                                   +l(sto nattuli) %u stå te o værrt riven ne
+
+spring_grove_MN_19gm_orthography   men det var ikke e noen fare med det kirka 
+                                   +l(sto naturlig) %u stå til hun ble revet ned
+
+int                                var du der den dagen ?
+
+int_orthography                    var du der den dagen ?
+
+spring_grove_MN_19gm               næi je va førr onnge de var ee
+
+spring_grove_MN_19gm_orthography   nei jeg var for ung det var e
+
+int                                nei
+
+int_orthography                    nei
+
+spring_grove_MN_19gm               åh de va enn fåfæd'le tummult de va visst ee 
+                                   # de va visst ein såmm varrt dræppt i 
+                                   tummult'n nårr emm va kåmma ut
+
+spring_grove_MN_19gm_orthography   å det var en forferdelig tumult det var 
+                                   visst e # det var visst en som ble drept i 
+                                   tumulten når de var kommet ut
+
+spring_grove_MN_19gm               dæi re de så- alle spRanng på døra å bå gLas 
+                                   å sjlå i sunn gLas å # høppa ut tå ræi å da 
+                                   æin varrt visst hukks ittje fæil så va re 
+                                   ein såmm varrt ee drepin
+
+spring_grove_MN_19gm_orthography   det det det så- alle sprang på døra og på 
+                                   glass og slo i sund glass og # hoppa ut av 
+                                   dem og da én ble visst husker ikke feil så 
+                                   var det én som ble e drept
+
+int                                hm
+
+int_orthography                    hm
+
+spring_grove_MN_19gm               å anndre var gannska mye såra
+
+spring_grove_MN_19gm_orthography   og andre var ganske mye såra
+
+spring_grove_MN_19gm               le kåmm ut væll tjærrka sto nattulivis i 
+                                   mannge år å sto te ho varrt nerivin så varrt 
+                                   de bygge aan e stor tjærrke i nitt'nhunndreå-
+
+spring_grove_MN_19gm_orthography   det kom ut vel kirka sto naturligvis i mange 
+                                   år og sto til hun ble nedrevet så ble det 
+                                   bygget annen ei stor kirke i nitt'nhunndreå-
+
+spring_grove_MN_19gm               i att'nhunnråsækksti varrt enn s- æin aan 
+                                   stor m tjørrke byggd
+
+spring_grove_MN_19gm_orthography   i attenhundreogseksti ble en s- en annen 
+                                   stor m kirke bygd
+
+spring_grove_MN_19gm               å denn brann ne i att'nhunndretreånitti
+
+spring_grove_MN_19gm_orthography   og den brant ned i attenhundretreognitti
+
+spring_grove_MN_19gm               så varrt denne hære tjørrka såmm ær hær nå # 
+                                   byggd ijenn å denn stå ve denn dag i dag # å 
+                                   vill verr stå så lennge såmm mannge ta uss 
+                                   leva
+
+spring_grove_MN_19gm_orthography   så ble denne herre kirka som er her nå # 
+                                   bygd igjen og den står ved den dag i dag # 
+                                   og vil vel stå så lenge som mange av oss 
+                                   lever
+
+int                                kan du fortelle lite grann om hvordan du 
+                                   feirer jul ?
+
+int_orthography                    kan du fortelle lite grann om hvordan du 
+                                   feirer jul ?
+
+spring_grove_MN_19gm               +x vell no e re gannske stille joL alminnle 
+                                   de er nesst'n bare enn joLedag'n kann sia 
+                                   såmm æ nogo nå fårr tia menn je gammerdaga 
+                                   nattulivis så va re a a +x rønne juL i tå 
+                                   viku
+
+spring_grove_MN_19gm_orthography   +x well nå er det ganske stille jul 
+                                   alminnelig det er nesten bare den juledagen 
+                                   kan si som er noe nå for tida men i 
+                                   gamledager naturligvis så var det da å +x 
+                                   rune jul i to uker
+
+spring_grove_MN_19gm               de va alle sjlakks daga e veit kann ittje 
+                                   hukks alle # alla dagane såmm varrt # fæira e
+
+spring_grove_MN_19gm_orthography   det var alle slags dager jeg veit kan ikke 
+                                   huske alle # alle dagene som ble # feira jeg
+
+int                                men hva gjorde dere liksom til å forberede 
+                                   det ?
+
+int_orthography                    men hva gjorde dere liksom til å forberede 
+                                   det ?
+
+spring_grove_MN_19gm               +l(åh de var) gå joRebokk å dæ va de partier 
+                                   å dæ va danns å dæ va ditti å dær så re var 
+                                   gannske lysstikt i juRehøRRga
+
+spring_grove_MN_19gm_orthography   +l(å det var) gå julebukk og det var det 
+                                   partyer og det var dans og det var dette og 
+                                   der så det var ganske lystig i julehelga
+
+int                                det var det ja
+
+int_orthography                    det var det ja
+
+spring_grove_MN_19gm               ja mænn de har døydd borrt mæir å mæir så no 
+                                   æ rær # fø nesst'n si atte re ær bare æin 
+                                   joLedagen de e allt sammans å så ær e åver
+
+spring_grove_MN_19gm_orthography   ja men det har dødd bort mer og mer så nå er 
+                                   der # får nesten si at det er bare en 
+                                   juledagen det er alt sammen og så er det over
+
+int                                em kan du huske at du har hørt fortalt noen 
+                                   historier om troll eller e julereia eller 
+                                   slike ting ?
+
+int_orthography                    em kan du huske at du har hørt fortalt noen 
+                                   historier om troll eller e julereia eller 
+                                   slike ting ?
+
+spring_grove_MN_19gm               +l(åh ja) %l # åh ja jæ a hørt så mye tå de 
+                                   atte bar- …
+
+spring_grove_MN_19gm_orthography   +l(å ja) %l # å ja jeg har hørt så mye av 
+                                   det at bar- …
+
+int                                har dere ?
+
+int_orthography                    har dere ?
+
+spring_grove_MN_19gm               ja de hørrd je så mye tå nå gammLingan satt 
+                                   å snakka førr eksemmpel lett ee elldere
+
+spring_grove_MN_19gm_orthography   ja det hørte jeg så mye av når gamlingene 
+                                   satt og snakka for eksempel litt e eldre
+
+spring_grove_MN_19gm               de va åffte de add naboer æll nokon såmm 
+                                   varrt tjennte satt å snak åmm trølla da å 
+                                   ditti å dær
+
+spring_grove_MN_19gm_orthography   det var ofte det at naboer eller noen som 
+                                   var kjente satt og snakke om trolla da og 
+                                   dette og der
+
+int                                kan du få huske noe bestemt e om dem ?
+
+int_orthography                    kan du få huske noe bestemt e om dem ?
+
+spring_grove_MN_19gm               +x nå e kann ikke de nokon virrkeli +x 
+                                   hisstori omm nokon tråll æll nå kossj d'm 
+                                   adde %u mænn # de va ne så manngt dæi jore 
+                                   ra få å +x kipe nissan å tralla ifrå
+
+spring_grove_MN_19gm_orthography   +x no jeg kan ikke det noen virkelig +x 
+                                   history om noen troll eller noe hvordan de 
+                                   hadde %u men # det var nå så mangt de gjorde 
+                                   da for å +x keepe nissene og trolla ifra
+
+int                                hva slags e … ?
+
+int_orthography                    hva slags e … ?
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_19gm               atte di skulle # hevvne se
+
+spring_grove_MN_19gm_orthography   at de skulle # hevne seg
+
+int                                gjorde dere gjorde dere her i her i landet 
+                                   nå ?
+
+int_orthography                    gjorde dere gjorde dere her i her i landet 
+                                   nå ?
+
+spring_grove_MN_19gm               +x(nå nå) menn +u( du vett ) dett va ifå 
+                                   Nårrge rei fårtæRde
+
+spring_grove_MN_19gm_orthography   +x(no no) men +u( du vet ) dette var ifra 
+                                   Norge de fortalte
+
+int                                å ja
+
+int_orthography                    å ja
+
+spring_grove_MN_19gm               atte re va redde at dei skulle # åh att vei 
+                                   skulle nissene skulle +x etrækkte trall da 
+                                   +x jektrækkte m krøttera dær %u hesstan æll 
+                                   nåån tinng
+
+spring_grove_MN_19gm_orthography   at det var redde at de skulle # å at vi 
+                                   skulle nissene skulle +x attracte troll da 
+                                   +x attracte m krøttera der %u hestene eller 
+                                   noen ting
+
+spring_grove_MN_19gm               att demm skull kåmma nekkon olykk åver dæi 
+                                   åsså # henngte ri noko på døra førr åsså 
+                                   halle # nissene å trålla borrte
+
+spring_grove_MN_19gm_orthography   at de skulle komme noen ulykke over dem også 
+                                   # hengte de noe på døra for å holde # 
+                                   nissene og trolla borte
+
+int                                jaha
+
+int_orthography                    jaha
+
+spring_grove_MN_19gm               %k mænn de ær
+
+spring_grove_MN_19gm_orthography   %k men det er
+
+int                                for hørte du tale om huldra og ?
+
+int_orthography                    for hørte du tale om huldra og ?
+
+spring_grove_MN_19gm               åh ja vell +l(ja de ha jæ hørt så mye)
+
+spring_grove_MN_19gm_orthography   å ja vel +l(ja det har jeg hørt så mye)
+
+int                                jaha
+
+int_orthography                    jaha
+
+spring_grove_MN_19gm               dei kunna høre trall %u hulldra borrti 
+                                   fjælla å skræik å detti a de å
+
+spring_grove_MN_19gm_orthography   de kunne høre troll %u huldre borti fjella 
+                                   og skreik og dette og det og
+
+int                                jaså
+
+int_orthography                    jaså
+
+spring_grove_MN_19gm               %l væit de va nån bare åvetru allt samant
+
+spring_grove_MN_19gm_orthography   %l veit det var noe bare overtru alt sammen
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_19gm               førr de hadd visst ikkje ko tråll å nisser i 
+                                   Nårrge +l(nå tru jæ ha ttje hørt no jøttre)
+
+spring_grove_MN_19gm_orthography   for de hadde visst ikke noen troll og nisser 
+                                   i Norge +l(nå trur jeg har ikke hørt noen 
+                                   jetter)
+
+int                                å det har vært e forsvunnet mer eller mindre 
+                                   var det noen som drev med en slags trolldom 
+                                   og kurering på krøtter eller folk eller noe 
+                                   slikt ?
+
+int_orthography                    å det har vært e forsvunnet mer eller mindre 
+                                   var det noen som drev med en slags trolldom 
+                                   og kurering på krøtter eller folk eller noe 
+                                   slikt ?
+
+spring_grove_MN_19gm               m næi # innte di ka- innkji her såmm je kann 
+                                   hukkse
+
+spring_grove_MN_19gm_orthography   m nei # ikke de ka- ikke her som jeg kan 
+                                   huske
+
+int                                du har ikke hørt noe om det nei
+
+int_orthography                    du har ikke hørt noe om det nei
+
+spring_grove_MN_19gm               +x nå inntji hær iallfall i lannde da
+
+spring_grove_MN_19gm_orthography   +x no ikke her iallfall i landet da
+
+int                                å jaså
+
+int_orthography                    å jaså
+
+spring_grove_MN_19gm               dæ va visst # kømmi åver dænn trua # mire 
+                                   dei såmm kåmm hær ti Ammerika
+
+spring_grove_MN_19gm_orthography   de var visst # kommet over den trua # mere 
+                                   de som kom her til Amerika
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja hva synes du om overgangen fra norsk til 
+                                   engelsk som foregår ?
+
+int_orthography                    ja hva synes du om overgangen fra norsk til 
+                                   engelsk som foregår ?
+
+spring_grove_MN_19gm               +x væl de går pLænnti fårt ette minn 
+                                   føsjtann da de sea ikkje ti minn føsjtann 
+                                   mænn så såmm e skulle like re å da je skulle 
+                                   like atte re helle lite lænngre mænn
+
+spring_grove_MN_19gm_orthography   +x vel det går plenty fort etter min 
+                                   forstand da det sier ikke til min forstand 
+                                   men sånn som jeg skulle likt det og da jeg 
+                                   skulle likt at det holdt litt lenger men
+
+spring_grove_MN_19gm               de bLæi tje nåån tinng å jøra mæ ræ spår æ 
+                                   de må kå- de må kåmma æin gånng å dæ # 
+                                   tjæmme gannske forrt
+
+spring_grove_MN_19gm_orthography   det blir ikke noen ting å gjøre med det spår 
+                                   jeg det må kå- det må komme en gang og det # 
+                                   kommer ganske fort
+
+int                                hvordan er forholdene her nå i Spring Grove ?
+
+int_orthography                    hvordan er forholdene her nå i Spring Grove ?
+
+spring_grove_MN_19gm               åh hær e re gannske bra hær æ re mye nåssj 
+                                   snakka
+
+spring_grove_MN_19gm_orthography   å her er det ganske bra her er det mye norsk 
+                                   snakka
+
+spring_grove_MN_19gm               hær e daglidakks å bruka i nåssjt å de bruke 
+                                   anndre bissnismenner å anndre farrmere såmm 
+                                   kåmme innt
+
+spring_grove_MN_19gm_orthography   her er dagligdags å bruke i norsk og det 
+                                   bruker andre businessmenn og andre farmere 
+                                   som kommer inn
+
+spring_grove_MN_19gm               +x kåsj dæi ynngre vett du bill ee gå mæire 
+                                   å mæire åver te ænngels såmm nattulivis e da 
+                                   fårr de da
+
+spring_grove_MN_19gm_orthography   +x course de yngre vet du vil e gå mere og 
+                                   mere over til engelsk som naturligvis er da 
+                                   for det da
+
+int                                mhm
+
+int_orthography                    mhm
+
+spring_grove_MN_19gm               så # de bri snart åver me de nåssjke språke 
+                                   i Ammerika
+
+spring_grove_MN_19gm_orthography   så # det blir snart over med det norske 
+                                   språket i Amerika
+
+int                                ja vel %u
+
+int_orthography                    ja vel %u
+

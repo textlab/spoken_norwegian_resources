@@ -1,0 +1,412 @@
+int                         ja
+
+int_orthography             ja
+
+blair_WI_20gm               blair_WI_20gm
+
+blair_WI_20gm_orthography   blair_WI_20gm
+
+int                         litt høyere
+
+int_orthography             litt høyere
+
+blair_WI_20gm               blair_WI_20gm # +u(æ nammne me)
+
+blair_WI_20gm_orthography   blair_WI_20gm # +u(er navnet mitt)
+
+int                         og du e # hvor bor du ?
+
+int_orthography             og du e # hvor bor du ?
+
+blair_WI_20gm               je bor i Våså-dal'n
+
+blair_WI_20gm_orthography   jeg bor i Wausau-dalen
+
+int                         ja # og hvor ble du født ?
+
+int_orthography             ja # og hvor ble du født ?
+
+blair_WI_20gm               huff
+
+blair_WI_20gm_orthography   huff
+
+blair_WI_20gm               jæ ble føtt dær i # på denn plass'n
+
+blair_WI_20gm_orthography   jeg ble født der i # på den plassen
+
+int                         hvor lenge sia ?
+
+int_orthography             hvor lenge sia ?
+
+blair_WI_20gm               i att'nhunndråfirååtti
+
+blair_WI_20gm_orthography   i attenhundreogfireogåtti
+
+int                         og far din het ?
+
+int_orthography             og far din het ?
+
+blair_WI_20gm               M1
+
+blair_WI_20gm_orthography   M1
+
+int                         og mor di ?
+
+int_orthography             og mor di ?
+
+blair_WI_20gm               F1 # E1 %u
+
+blair_WI_20gm_orthography   F1 # E1 %u
+
+int                         og hvor kom de fra ?
+
+int_orthography             og hvor kom de fra ?
+
+blair_WI_20gm               mor kåmm ifrå Såler å far ifra # +u Lønntre i
+                            Sværrje
+
+blair_WI_20gm_orthography   mor kom ifra Solør og far ifra # +u Løntre i Sverige
+
+int                         å ja # e kan du fortelle noe om da de kom hit til
+                            lands ?
+
+int_orthography             å ja # e kan du fortelle noe om da de kom hit til
+                            lands ?
+
+blair_WI_20gm               væ far e kåmm till # Dein Kaonti i
+                            att'nhunndråtreåfæmmti
+
+blair_WI_20gm_orthography   vel far han kom til # Dane County i
+                            attenhundreogtreogfemti
+
+blair_WI_20gm               nesste blir de # oppi # Djækks'n Kaonti i
+                            att'nhunndråfiråfæmmti
+
+blair_WI_20gm_orthography   neste blir det # oppi # Jackson County i
+                            attenhundreogfireogfemti
+
+int                         å ja
+
+int_orthography             å ja
+
+int                         e husker du noen historier fra da de kom over eller
+                            da de først kom hit ?
+
+int_orthography             e husker du noen historier fra da de kom over eller
+                            da de først kom hit ?
+
+int                         far din # eller mor di ?
+
+int_orthography             far din # eller mor di ?
+
+blair_WI_20gm               %u
+
+blair_WI_20gm_orthography   %u
+
+int                         hvilken # skole var det du gikk på ?
+
+int_orthography             hvilken # skole var det du gikk på ?
+
+blair_WI_20gm               væl je bynnte på # va mann kalle re
+
+blair_WI_20gm_orthography   vel jeg begynte på # hva man kaller det
+
+int                         ja
+
+int_orthography             ja
+
+int                         common-skolen ?
+
+int_orthography             common-skolen ?
+
+blair_WI_20gm               kamen-skuLe kalle vi de p- ee +u(va hette re)
+
+blair_WI_20gm_orthography   common-skole kaller vi det p- e +u(hva heter det)
+
+int                         ja
+
+int_orthography             ja
+
+int                         var det …
+
+int_orthography             var det …
+
+blair_WI_20gm               åsså jikk e derifra te # Dekåra
+
+blair_WI_20gm_orthography   også gikk jeg derifra til # Decorah
+
+int                         jaha
+
+int_orthography             jaha
+
+blair_WI_20gm               var der i tre år # å derifra så # Madisen var der i
+                            tre år
+
+blair_WI_20gm_orthography   var der i tre år # og derifra så # Madison var der
+                            i tre år
+
+int                         jaha
+
+int_orthography             jaha
+
+int                         e da du gikk på skolen her oppi var det for det
+                            meste norsk barna snakket eller engelsk ?
+
+int_orthography             e da du gikk på skolen her oppi var det for det
+                            meste norsk barna snakket eller engelsk ?
+
+blair_WI_20gm               de va mæsste nåssjk demm snakk imellom sæ
+
+blair_WI_20gm_orthography   det var meste norsk de snakka imellom seg
+
+int                         hva slags norsk var det for det meste # var solung ?
+
+int_orthography             hva slags norsk var det for det meste # var solung ?
+
+blair_WI_20gm               +u(va n) de var ee # mæsste såLung +u( krinng i
+                            denn gata )
+
+blair_WI_20gm_orthography   +u(var en) det var e # meste solung +u( kring i den
+                            gata )
+
+int                         mhm
+
+int_orthography             mhm
+
+int                         og e # og snakker du norsk noe videre nå ?
+
+int_orthography             og e # og snakker du norsk noe videre nå ?
+
+blair_WI_20gm               åh vi snakker nåssjkt +u ær i byyn å træffer di s'm
+                            snakker nåssjk itt så mye jæmme
+
+blair_WI_20gm_orthography   å vi snakker norsk +u her i byen og treffer de som
+                            snakker norsk ikke så mye hjemme
+
+int                         e leser du noe norsk ?
+
+int_orthography             e leser du noe norsk ?
+
+blair_WI_20gm               ja e læser
+
+blair_WI_20gm_orthography   ja jeg leser
+
+int                         har du norske aviser eller noe slikt ?
+
+int_orthography             har du norske aviser eller noe slikt ?
+
+blair_WI_20gm               åh jæ har ikke akkurat nå menn je ser nåssjke
+                            aviser å læser emm væ ganng jæ # ser demm
+
+blair_WI_20gm_orthography   å jeg har ikke akkurat nå men jeg ser norske aviser
+                            og leser dem hver gang jeg # ser de
+
+int                         e kan du fortelle lite grann om farmen din ?
+
+int_orthography             e kan du fortelle lite grann om farmen din ?
+
+blair_WI_20gm               %s
+
+blair_WI_20gm_orthography   %s
+
+int                         hvor stor er den og sånn %u ?
+
+int_orthography             hvor stor er den og sånn %u ?
+
+blair_WI_20gm               ee farrmen e tre hunndr å tyve æker # træ %u
+
+blair_WI_20gm_orthography   e farmen er tre hundre og tjue acre # tre %u
+
+blair_WI_20gm               far minn bodde dær i ee # søtti år
+
+blair_WI_20gm_orthography   far min bodde der i e # sytti år
+
+int                         mhm
+
+int_orthography             mhm
+
+int                         og e hva slags farming gjør dere for det meste på
+                            den ?
+
+int_orthography             og e hva slags farming gjør dere for det meste på
+                            den ?
+
+blair_WI_20gm               de er ee # hann kalle re
+
+blair_WI_20gm_orthography   det er e # han kaller det
+
+blair_WI_20gm               +x(deRRy faRRming) jæ kaller remm # %u si på +u
+                            nåssjk
+
+blair_WI_20gm_orthography   +x(dairy farming) jeg kaller dem # %u si på +u norsk
+
+int                         ja men # du kan si hva du gjør e kan du hva har
+                            dere e
+
+int_orthography             ja men # du kan si hva du gjør e kan du hva har
+                            dere e
+
+blair_WI_20gm               vi har # krøtter å hønns # mæsste
+
+blair_WI_20gm_orthography   vi har # krøtter og høns # meste
+
+int                         ja
+
+int_orthography             ja
+
+int                         og hva slags grain har dere nedi ?
+
+int_orthography             og hva slags grain har dere nedi ?
+
+blair_WI_20gm               åh vi hadde re havvre å bygg å veite
+
+blair_WI_20gm_orthography   å vi hadde det havre og bygg og hvete
+
+int                         mhm
+
+int_orthography             mhm
+
+int                         og e # e kan du fortelle litt om hva dere holder på
+                            med nå ?
+
+int_orthography             og e # e kan du fortelle litt om hva dere holder på
+                            med nå ?
+
+blair_WI_20gm               %u jæ hall på å # slått +x hæi
+
+blair_WI_20gm_orthography   %u jeg holder på å # slå +x hay
+
+blair_WI_20gm               åsså ska vi tell å # å ee
+
+blair_WI_20gm_orthography   også skal vi til å # å e
+
+int                         dere skulle til å # fylle silo kanskje ?
+
+int_orthography             dere skulle til å # fylle silo kanskje ?
+
+blair_WI_20gm               fylle +x sailo ja de å de å de e de eneste je
+
+blair_WI_20gm_orthography   fylle +x silo ja det og det og det er det eneste jeg
+
+int                         ja # ja
+
+int_orthography             ja # ja
+
+int                         ja bare snakk som du ville til når du til hvem som
+                            helst du
+
+int_orthography             ja bare snakk som du ville til når du til hvem som
+                            helst du
+
+blair_WI_20gm               ja
+
+blair_WI_20gm_orthography   ja
+
+int                         ja
+
+int_orthography             ja
+
+int                         og når du har gjort det # hva blir det neste ?
+
+int_orthography             og når du har gjort det # hva blir det neste ?
+
+blair_WI_20gm               ja ra bli re å # pløye att å # jøre joLa færdi ti
+                            nesst år
+
+blair_WI_20gm_orthography   ja da blir det å # pløye att og # gjøre jorda
+                            ferdige til neste år
+
+int                         ja
+
+int_orthography             ja
+
+int                         e er du med nede i menigheten der ?
+
+int_orthography             e er du med nede i menigheten der ?
+
+blair_WI_20gm               ja je …
+
+blair_WI_20gm_orthography   ja jeg …
+
+int                         kan du fortelle lite grann om kirkearbeidet ?
+
+int_orthography             kan du fortelle lite grann om kirkearbeidet ?
+
+blair_WI_20gm               ja de brukkt å være # to meniheter s'm brukkte
+                            samme kjirrken der å
+
+blair_WI_20gm_orthography   ja det brukte å være # to menigheter som brukte
+                            samme kirken der og
+
+blair_WI_20gm               nå ha de gått i samen +u(så de er)
+
+blair_WI_20gm_orthography   nå har de gått i sammen +u(så det er)
+
+int                         hvorfor var det to menigheter ?
+
+int_orthography             hvorfor var det to menigheter ?
+
+blair_WI_20gm               de va enn splitt'lse ee
+
+blair_WI_20gm_orthography   det var en splittelse e
+
+int                         hva var splittelsen om ?
+
+int_orthography             hva var splittelsen om ?
+
+blair_WI_20gm               omm ## omm læra
+
+blair_WI_20gm_orthography   om ## om læra
+
+blair_WI_20gm               +u(de var) læra s'm # +u dei blei juenig e- ueni
+                            åmm åsså # blæi dæ splett'lse å da dellte #
+                            meniheta se i to
+
+blair_WI_20gm_orthography   +u(det var) læra som # +u de blei uenige e- uenige
+                            om også # blei det splittelse og da delte #
+                            menigheta seg i to
+
+blair_WI_20gm               da blæi noon ## jaget ut a tje- tjerrken å
+
+blair_WI_20gm_orthography   da blei noen ## jaget ut av tje- kirken og
+
+int                         å ble de var det det var vel mye mye strid da ?
+
+int_orthography             å ble de var det det var vel mye mye strid da ?
+
+blair_WI_20gm               ja mye stri ja
+
+blair_WI_20gm_orthography   ja mye strid ja
+
+int                         kan du fortelle lite grann om den ?
+
+int_orthography             kan du fortelle lite grann om den ?
+
+blair_WI_20gm               +u(åh ja) %s dæ ble haR stri førr # naboa blei ueni
+                            milla sei å
+
+blair_WI_20gm_orthography   +u(å ja) %s det ble hard strid for # naboer blei
+                            uenige mellom seg og
+
+blair_WI_20gm               de de hallt på enn # par år menn så blei de nå va
+                            få likkt te atte di fikk bruke sama tjerrka da menn
+                            di hadde # to præsster
+
+blair_WI_20gm_orthography   det det holdt på et # par år men så blei det nå var
+                            for likt til at de fikk bruke samme kirka da men de
+                            hadde # to prester
+
+blair_WI_20gm               tell da de # jikk denn veien atte tell +x att år ##
+                            åtte åR siden da førenet de sei ijenn
+
+blair_WI_20gm_orthography   til da det # gikk den veien at til +x att år ##
+                            åtte år siden da forenet de seg igjen
+
+int                         mhm
+
+int_orthography             mhm
+
+int                         ja og takk skal du ha # %u
+
+int_orthography             ja og takk skal du ha # %u
+

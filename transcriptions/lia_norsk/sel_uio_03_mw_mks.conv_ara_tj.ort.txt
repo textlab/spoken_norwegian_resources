@@ -1,0 +1,3099 @@
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               ja denn bommen du spord etter ? # de æ nåkk ett 
+                           kritisk ponngt ja fårr # særle omm vinntern
+
+sel_uio_0301_orthography   ja den bommen du spurde etter ? # det er nok eit 
+                           kritisk punkt ja for # særleg om vinteren
+
+int                        ja
+
+int_orthography            ja
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               viss åmm da att ee en bilførar # såmm da kann si e 
+                           tåppfart'n da fæmmti kjilometer
+
+sel_uio_0301_orthography   viss om da at e ein bilførar # som da kan seie er 
+                           toppfarten da femti kilometer
+
+sel_uio_0301               åsså fæ n da ## ståpp ## singnal
+
+sel_uio_0301_orthography   også får han da ## stopp ## signal
+
+sel_uio_0301               å bommen går ne å n står da å ## ee banngka lite på 
+                           kLukka før enn n bynn i hel tatt å bikke se ne
+
+sel_uio_0301_orthography   og bommen går ned og ein står da og ## e bankar litt 
+                           på klokka før enn han begynner i heile tatt å bikke 
+                           seg ned
+
+int                        ja
+
+int_orthography            ja
+
+int                        +u mm
+
+int_orthography            +u mm
+
+sel_uio_0301               så bikke vell bærre en # en si # en bomm omm gånngen 
+                           da elle to å to t- ee fire # to par
+
+sel_uio_0301_orthography   så bikkar vel berre ein # ein sei # ein bom om 
+                           gongen da eller to og to t- e fire # to par
+
+int                        ja
+
+int_orthography            ja
+
+int                        +u mm
+
+int_orthography            +u mm
+
+sel_uio_0301               å viss enn bærre da denn bilførern da æ ## osikker 
+                           på fæ e ståppa fær æ kje ståppa
+
+sel_uio_0301_orthography   og viss han berre da den bilføraren da er ## usikker 
+                           på får eg stoppa får eg ikkje stoppa
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å de %u være n kenn få da # de røusingnale ## ja 
+                           kenn si en fæmm meter da
+
+sel_uio_0301_orthography   og det %u vere han kan få da # det raudsingnalet ## 
+                           ja kan seie ein fem meter da
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               så har n ikkje sjanngse få å få ståppa da ## på ee 
+                           gLatt føre # fårr henn ha kkje berenngna da att hær 
+                           bi de ståpp %l
+
+sel_uio_0301_orthography   så har han ikkje sjanse for å få stoppa da ## på e 
+                           glatt føre # for han har ikkje berekna da at her 
+                           blir det stopp %l
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               menn hann ska vell jære de vet du att de kænn bLi dæ
+
+sel_uio_0301_orthography   men han skal vel gjere det veit du at det kan bli det
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               så # elle da kenn de være de att demm da fæ panikk # 
+                           næi e ji på litte rann # ja næi næi fær- la de værra 
+                           å så næi e e såppa ja
+
+sel_uio_0301_orthography   så # eller det kan det vere det at dei da får panikk 
+                           # nei eg gir på lite grann # ja nei nei fær- la det 
+                           vere og så nei eg eg stoppar ja
+
+sel_uio_0301               å da bLi emm fårr seine ## da kenn de henne att 
+                           bommen går neppå bil'n da veit du
+
+sel_uio_0301_orthography   og da blir dem for seine ## da kan det hende at 
+                           bommen går nedpå bilen da veit du
+
+int                        +u mm
+
+int_orthography            +u mm
+
+int                        har det skjedd ?
+
+int_orthography            har det skjedd ?
+
+sel_uio_0301               du de har sjedd att demm ha ## jorrt de ja
+
+sel_uio_0301_orthography   du det har skjedd at dei har ## gjort det ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å de ha øu sjedd dæ att demm ha # kåmme å ## e ha 
+                           vore borrti de # fLeire gånngo e
+
+sel_uio_0301_orthography   og det har au skjedd det at dei har # komme og ## eg 
+                           har vore borti det # fleire gonger eg
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               dømm ha kåmme # «unnsjyll %l # kåmm ti å kjøre ne 
+                           bommen ne'i hær» ja
+
+sel_uio_0301_orthography   dei har komme # «unnskyld %l # kom til å køyre ned 
+                           bommen nedi her» ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               å då sa e # likksåm omm de va særle nå re va # 
+                           hånnbetjent bomm
+
+sel_uio_0301_orthography   og da sa eg # liksom om det var særleg når det var # 
+                           handbetent bom
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               åss svæiva nn sjøLLve annt'n frå # pLattfårrma hær 
+                           ell frå # neve bommen # dæ sto je å sveiva
+
+sel_uio_0301_orthography   vi sveiva han sjølve enten frå # plattforma her 
+                           eller frå # nedved bommen # der stod eg og sveiva
+
+int                        +u mm
+
+int_orthography            +u mm
+
+int                        +u(mm mm)
+
+int_orthography            +u(mm mm)
+
+sel_uio_0301               å så ## +u(bynn å sveive ) %u fårr åss sjiffta umm 
+                           natte da vett du mykkje hær
+
+sel_uio_0301_orthography   og så ## +u(begynte å sveive ) %u for vi skifta om 
+                           natta da veit du mykje her
+
+int                        ja mm
+
+int_orthography            ja mm
+
+sel_uio_0301               å så varrt åss mæ på sjiffte dær få de va ein mann 
+                           såmm sjifta åsså pluss konnduktørn # så hadd u 
+                           lånnge rekkj me vånngno
+
+sel_uio_0301_orthography   og så vart vi med på skiftet der for det var ein 
+                           mann  som skifta også pluss konduktøren # så hadde 
+                           du lange rekker med vogner
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               åsså sku n da hennje på kåbbLe da fårr eksemmpel 
+                           mitt på tommt'n da neddi hær # så di signala %u de 
+                           va mørrt å
+
+sel_uio_0301_orthography   også skulle ein da henge på kople da for eksempel 
+                           midt på tomta da nedi her # så dei signala %u det 
+                           var mørkt og
+
+sel_uio_0301               å så kunn de hænnde att lokke asså s- lokke da somm 
+                           va da synnst ## kåmm noLafår bommen
+
+sel_uio_0301_orthography   og så kunne det hende at loket altså s- loket da som 
+                           var da synst ## kom nordanfor bommen
+
+int                        +u mhm
+
+int_orthography            +u mhm
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               så da låg bommen nere da å ## kunn du kåmmå åver 
+                           viss du kjørte tvæssj jennåm bommen veit du
+
+sel_uio_0301_orthography   så da låg bommen nede da og ## kunne du komme over 
+                           viss du køyrde tvers gjennom bommen veit du
+
+int                        +l(ja visst) +u( komma der ja )
+
+int_orthography            +l(ja visst) +u( komme der ja )
+
+sel_uio_0301               dæ hænnte dæ +l asså
+
+sel_uio_0301_orthography   det hende det +l altså
+
+sel_uio_0301               så da ## kåmm emm såmm regel da # ja ståppa demm på 
+                           anndre sia
+
+sel_uio_0301_orthography   så da ## kom dei som regel da # ja stoppa dei på 
+                           andre sida
+
+sel_uio_0301               å da # kåmm demm da he letta på hatten %u kåmm te å 
+                           kjøre # sånn bommen ner fårr denn va # ikkje tå så 
+                           frykkteli stærrt matriale da
+
+sel_uio_0301_orthography   og da # kom dei da hadde letta på hatten %u kom til 
+                           å køyre # sånn bommen ned for den var # ikkje av så 
+                           frykteleg sterkt materiale da
+
+int                        å ja
+
+int_orthography            å ja
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               næi
+
+sel_uio_0301_orthography   nei
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               menn ee # dæ såmm va væssjt # i grunn de va i 
+                           såmmartrafikken
+
+sel_uio_0301_orthography   men e # det som var verst # i grunnen det var i 
+                           sommartrafikken
+
+sel_uio_0301               da dæ va hånnstillt allt samen # di # hadde en lite 
+                           skåp me brytar # neppå hær
+
+sel_uio_0301_orthography   da det var handstilt alt saman # dei # hadde eit 
+                           lite skap med brytar # nedpå her
+
+sel_uio_0301               %u såmm da ## fåranndra frå ståpp te grønnt å 
+                           ummvennt
+
+sel_uio_0301_orthography   %u som da ## forandra frå stopp til grønt og omvend
+
+sel_uio_0301               så du da hadd du jikk du da neppå å la ## rikkti spor
+
+sel_uio_0301_orthography   så du da hadde du gjekk du da nedpå og la ## riktig 
+                           spor
+
+sel_uio_0301               å ee # joLe de i stann ## åsså da vridde litt på 
+                           brytern da
+
+sel_uio_0301_orthography   og e # gjorde det i stand ## også da vridde litt på 
+                           brytaren da
+
+sel_uio_0301               da va re klart nye spår # %u # to å tre sjlek
+
+sel_uio_0301_orthography   da var det klart nye spor # %u # to og tre slike
+
+int                        mm
+
+int_orthography            mm
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               så sku du da passe på da # nårr toge fLøyta # +u 
+                           lanngsve
+
+sel_uio_0301_orthography   så skulle du da passe på da # når toget fløyta # +u 
+                           langsved
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å sså hadde du # såmmårtrafikken # bildur å
+
+sel_uio_0301_orthography   og så hadde du # sommartrafikken # bildur og
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               åffte kåmm de nuggun å prata åt de så du sku vær 
+                           selskapli annlakk %l
+
+sel_uio_0301_orthography   ofte kom det nokon og prata åt deg så du skulle vere 
+                           selskapeleg +x_anlagd %l
+
+int                        ja
+
+int_orthography            ja
+
+int                        +u(ikke verst)
+
+int_orthography            +u(ikkje verst)
+
+sel_uio_0301               å du va nå # hæLLvrar visst du ikkje svårrå au da 
+                           vet du
+
+sel_uio_0301_orthography   og du var nå # halvrar viss du ikkje svara au da 
+                           veit du
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               mænn ee å ikkje såg du nogo de va # ee særli dær 
+                           imot brue dær så va de # bjørrk å såmm hekksepynnt 
+                           va ee
+
+sel_uio_0301_orthography   men e og ikkje såg du noko det var # e særleg der 
+                           imot brua der så var det # bjørk og som heksepynt 
+                           var e
+
+int                        ja mm mm mm
+
+int_orthography            ja mm mm mm
+
+sel_uio_0301               stenngte fårr utsikkten søåver å så e de # brue litt 
+                           ti høgre enn veigen hær da
+
+sel_uio_0301_orthography   stengde for utsikta sørover og så er det # brua litt 
+                           til høgre enn vegen her da
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               så jell de åsså å ikkje ståppe traffikken fårr tile 
+                           # førr jor du dæ så varrt demm +u(starrt nokk kjøra) 
+                           %u tullbukken dær ha jorrt nå
+
+sel_uio_0301_orthography   så gjeld det også å ikkje stoppe trafikken for 
+                           tidleg # for gjorde du det så vart dei +u(starta nok 
+                           køyre) %u tullebukken der har gjort nå
+
+int                        ja %l
+
+int_orthography            ja %l
+
+sel_uio_0301               de kjemm da ikkje nå tog
+
+sel_uio_0301_orthography   det kjem da ikkje noko tog
+
+int                        +l nei
+
+int_orthography            +l nei
+
+sel_uio_0301               så vill di hellst unngå detta der så # vennta du te 
+                           n tuta å de va sjlik passjle ti
+
+sel_uio_0301_orthography   så ville dei helst unngå dette der så # venta du til 
+                           han tuta og det var slik passeleg tid
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               de va nå lisåmm li sånn spennenes # å få # te u ha 
+                           fått ne bommen # å få tatt # %u
+
+sel_uio_0301_orthography   det var nå liksom litt sånn spennande # å få # til 
+                           du hadde fått ned bommen # og få tatt # %u
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               så da da låg annsvare rætt å sjlett på denn såmm 
+                           jikk unner å
+
+sel_uio_0301_orthography   så da da låg ansvaret rett og slett på den som gjekk 
+                           under og
+
+int                        +u ja
+
+int_orthography            +u ja
+
+int                        var det berre ein # om det ?
+
+int_orthography            var det berre ein # om det ?
+
+sel_uio_0301               ee ja # de va enn ## ein du møtte dær da
+
+sel_uio_0301_orthography   e ja # det var ein ## ein du møtte der da
+
+int                        ja
+
+int_orthography            ja
+
+int                        det er jo nesten sjelden at du skulle ha ansvar både 
+                           for vegtrafikk og jernbanesamfunne
+
+int_orthography            det er jo nesten sjeldan at du skulle ha ansvar både 
+                           for vegtrafikk og jernbanesamfunnet
+
+sel_uio_0301               ja # denn ee ## får de %u de va kkje bomm fårr 
+                           tvæssj åver på # ette %u lin- væit du
+
+sel_uio_0301_orthography   ja # den e ## for det %u det var ikkje bom for tvers 
+                           over på # etter %u lin- veit du
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               n jikk lanngsme lina # å sså varrt n da lakkt ner så 
+                           varrt n da # spærra tvæssj åver trafikken da
+
+sel_uio_0301_orthography   han gjekk langsmed linja # og så vart han da lagt 
+                           ned så vart han da # sperra tvers over trafikken da
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja ja ja mm
+
+int_orthography            ja ja ja mm
+
+sel_uio_0301               å likens va de da i noLænnen menn dær va inng bomm 
+                           menn dær ha oss såmm regel de mæsste sjifftinge så 
+                           der dreiv åss å sjiffta
+
+sel_uio_0301_orthography   og likeins var det da i nordenden men der var ingen 
+                           bom men der hadde vi som regel det meste skiftinga 
+                           så der dreiv vi og skifta
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0301               å da +u(e en) ikkje kåmmå så lanngt noL att du # 
+                           skubba litte på toge da nårr de kåmm %l
+
+sel_uio_0301_orthography   og da +u(er ein) ikkje komme så langt nord at du # 
+                           skubba litt på toget da når det kom %l
+
+int                        +u(ja ja)
+
+int_orthography            +u(ja ja)
+
+sel_uio_0301               så de var denn sikkerhetsona da nå æ de kkje sjlik # 
+                           fårr nå ee ## æ de kkje rå å kåmm +u i de spore
+
+sel_uio_0301_orthography   så det var den sikkerheitsona da nå er det ikkje 
+                           slik # for nå e ## er det ikkje råd å komme +u i det 
+                           sporet
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               får dæ æ alltså fasstlæsst
+
+sel_uio_0301_orthography   for det er altså fastlåst
+
+int                        men det er skifting på same måte nå også ?
+
+int_orthography            men det er skifting på same måte nå også ?
+
+sel_uio_0301               sjiffte på s- ja menn nå må du da spørrja omm åsså 
+                           få ee # bruke spore nå
+
+sel_uio_0301_orthography   skifte på s- ja men nå må du da spørje om også få e 
+                           # bruke sporet nå
+
+sel_uio_0301               å da løyse dæmm på enn # ett ee annlegg hær inne 
+                           sjlik att du fæ # stille n sjøL me no knatter å de 
+                           går me elekktriske motor å
+
+sel_uio_0301_orthography   og da løyser dei på ein # eit e anlegg her inne slik 
+                           at du får # stille den sjølv med nokre knattar og 
+                           det går med elektriske motorar og
+
+int                        mm
+
+int_orthography            mm
+
+int                        mm # å ja
+
+int_orthography            mm # å ja
+
+sel_uio_0301               å da ser demm inni kå åss driv me å demm fæ kkje da 
+                           lakk klart %u når åss driv å tulla ti di spora # så 
+                           dæ æ %u de e alltfårr idiotsikkert
+
+sel_uio_0301_orthography   og da ser dei inni kva vi driv med og den får ikkje 
+                           da lagt klart %u når vi driv og tullar i dei spora # 
+                           så det er %u det er altfor idiotsikkert
+
+int                        nei
+
+int_orthography            nei
+
+int                        men bortsett frå dette her med signal har det skjedd 
+                           andre forandringar eller rasjonalisering innan ?
+
+int_orthography            men bortsett frå dette her med signal har det skjedd 
+                           andre forandringar eller rasjonalisering innan ?
+
+sel_uio_0301               nei åss bruka såmmå sjifftesingnaler allså # 
+                           bevægelse nårr de jell å sjiffte # de e akkorat 
+                           likkt de
+
+sel_uio_0301_orthography   nei vi brukar same skiftesignal altså # bevegelse 
+                           når det gjeld å skifte # det er akkurat likt det
+
+int                        ja
+
+int_orthography            ja
+
+int                        er det eit eige # språk får eg seie koden ?
+
+int_orthography            er det eit eige # språk får eg seie koden ?
+
+sel_uio_0301               kenn si dæ da ## dæ ## då gå singnala %u da
+
+sel_uio_0301_orthography   kan seie det da ## det ## da går signala %u da
+
+int                        ja du brukar både lys og flagg og ?
+
+int_orthography            ja du brukar både lys og flagg og ?
+
+sel_uio_0301               ee fLagg bruka åss ikkje onnde sjifftingen # åss 
+                           bruka lammpe umm kvæll'n
+
+sel_uio_0301_orthography   e flagg brukar vi ikkje under skiftinga # vi bruker 
+                           lampe om kvelden
+
+int                        å nei
+
+int_orthography            å nei
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               så # viffta lite me arrmom da på fåsjelli kannte # 
+                           ettesomm du %u +u(å stå på sakkte å)
+
+sel_uio_0301_orthography   så # viftar litt med armane da på forskjellige 
+                           kantar # ettersom du %u +u(og står på sakte og)
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+int                        det er bestemte teikn det er ikkje berre liksom ?
+
+int_orthography            det er bestemte teikn det er ikkje berre liksom ?
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               næi da de # viss de kjømm en heilt okjænnt så
+
+sel_uio_0301_orthography   nei da det # viss det kjem ein heilt ukjent så
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               de e attigt å sjå på sjafføren omm +u ska ha fLøtt 
+                           vånngnin fårr enn da kjemm demm me slakks singnal %u 
+                           ikkje ditåver hel tatt %l
+
+sel_uio_0301_orthography   det er artig og sjå på sjåføren om +u skal ha flytt 
+                           vognene for ein da kjem dei med slags signal %u 
+                           ikkje ditover heile tatt %l
+
+int                        ja %l nei
+
+int_orthography            ja %l nei
+
+sel_uio_0301               å de e kkje vænnte hæll # men asså du sjønna 
+                           omtrennt kå demm vill # ja
+
+sel_uio_0301_orthography   og det er ikkje vente heller # men altså du skjønner 
+                           omtrent kva dei vil # ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja her på Otta så var jo jernbanen det var eit miljø 
+                           for seg sjølv i grunn ?
+
+int_orthography            ja her på Otta så var jo jernbanen det var eit miljø 
+                           for seg sjølv i grunnen ?
+
+sel_uio_0301               ja de var de
+
+sel_uio_0301_orthography   ja det var det
+
+int                        litt spesielt ?
+
+int_orthography            litt spesielt ?
+
+sel_uio_0301               ja da # de va …
+
+sel_uio_0301_orthography   ja da # det var …
+
+int                        så ja at det kom så ee dei som vart tilsette i alle 
+                           fall i faste stillingar dei var vel # utlærte måtte 
+                           kanskje gå nokon skole eller iallfall vere på større 
+                           stasjonar før dei kom hit ?
+
+int_orthography            så ja at det kom så e dei som vart tilsette i alle 
+                           fall i faste stillingar dei var vel # utlærte måtte 
+                           kanskje gå nokon skole eller iallfall vere på større 
+                           stasjonar før dei kom hit ?
+
+sel_uio_0301               ikkje førr utvænndi %u
+
+sel_uio_0301_orthography   ikkje for utvendig %u
+
+int                        ikkje det ? nei
+
+int_orthography            ikkje det ? nei
+
+sel_uio_0301               næi
+
+sel_uio_0301_orthography   nei
+
+sel_uio_0301               næi næi ikkje de æ bynnte me
+
+sel_uio_0301_orthography   nei nei ikkje det eg begynte med
+
+int                        å det var mesteparten det som var %u ?
+
+int_orthography            og det var mesteparten det som var %u ?
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               å fårr innvænndi så måtte du ha de avskore
+
+sel_uio_0301_orthography   og for innvendig så måtte du har det avskore
+
+int                        ja vel
+
+int_orthography            ja vel
+
+sel_uio_0301               vatt du tellegrafisst å så ## %u på
+
+sel_uio_0301_orthography   vart du telegrafist og så ## %u på
+
+int                        %u # ja
+
+int_orthography            %u # ja
+
+int                        du treng ikkje å vere ved ein større stasjon og i 
+                           opplæringstid eller praksis … ?
+
+int_orthography            du treng ikkje å vere ved ein større stasjon og i 
+                           opplæringstid eller praksis … ?
+
+sel_uio_0301               dæ fæ ru jorrt på ste'e # de kjemm da fåLLk # såmm 
+                           har da mæ # ee du fæ da de utlevert bøk såmm du fæ 
+                           læssa å # sæta de inn i
+
+sel_uio_0301_orthography   det får du gjort på staden # det kjem da folk # som 
+                           har da med # e du får da det utlevert bøker som du 
+                           får lese og # sette deg inn i
+
+int                        %u
+
+int_orthography            %u
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               åsså få +u ru # ta prøvå # viss du består denn så ær 
+                           de # e du gokjænnt såmm # de eine ell de anndre
+
+sel_uio_0301_orthography   også får +u du # ta prøver # viss du består den så 
+                           er det # er du godkjent som # det eine eller det 
+                           andre
+
+int                        mm
+
+int_orthography            mm
+
+int                        det er ingen jernbaneskole ?
+
+int_orthography            det er ingen jernbaneskole ?
+
+sel_uio_0301               jøu da menn dæ e da spesiellt fårr inne å de e de 
+                           denn +u(tro æ e sæinare ra)
+
+sel_uio_0301_orthography   jau da men det er da spesielt for inne og det er det 
+                           den +u(trur eg er seinare da)
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               menn denn tie så va de kkje no sjlik annt enn fårr 
+                           di innvænndi pæsjonale # demm da måtte gå på 
+                           jærnbaneskuLe
+
+sel_uio_0301_orthography   men den tida så var det ikkje noko slikt anna enn 
+                           for det innvendige personalet # dei da måtte gå på 
+                           jernbaneskole
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å fårr ee lokkfåLLk å # konnotør # tok de ekkstra
+
+sel_uio_0301_orthography   og for e lokfolk og # konduktør # tok det ekstra
+
+sel_uio_0301               demm hadde ra på jærnbaneskuL'n
+
+sel_uio_0301_orthography   dei hadde da på jernbaneskolen
+
+int                        kva slags stilling har du nå ?
+
+int_orthography            kva slags stilling har du nå ?
+
+sel_uio_0301               nå æ e stassjonsfårmann
+
+sel_uio_0301_orthography   nå er eg stasjonsformann
+
+int                        ja kva betyr eigentleg det ?
+
+int_orthography            ja kva betyr eigentleg det ?
+
+sel_uio_0301               næi de æ nå dæ ## e ska nå sjå te ## att de bLi 
+                           jorrt fåsjelli da
+
+sel_uio_0301_orthography   nei det er nå det ## eg skal nå sjå til ## at det 
+                           blir gjort forskjellig da
+
+sel_uio_0301               de ær likksom en allminnli fårmenns ## uppgave dæ # 
+                           dæ …
+
+sel_uio_0301_orthography   det er liksom ein allminneleg formanns ## oppgåve 
+                           det # det …
+
+int                        ja er det noko som heiter stasjonsmeister nå ?
+
+int_orthography            ja er det noko som heiter stasjonsmeister nå ?
+
+sel_uio_0301               næi nå heter de ommråde # en avdelingsleder nå
+
+sel_uio_0301_orthography   nei nå heiter det område # ein avdelingsleiar nå
+
+int                        å ?
+
+int_orthography            å ?
+
+sel_uio_0301               %u # næi dæ # de e kkje stassjonsmæsster på # ikkje 
+                           såmm hete stassjonsmæsster lennger
+
+sel_uio_0301_orthography   %u # nei det # det er ikkje stasjonsmeister på # 
+                           ikkje som heiter stasjonsmeister lenger
+
+int                        er det ikkje det på ein stasjon lenger ?
+
+int_orthography            er det ikkje det på ein stasjon lenger ?
+
+int                        å det er ikkje det ?
+
+int_orthography            å det er ikkje det ?
+
+sel_uio_0301               næi
+
+sel_uio_0301_orthography   nei
+
+sel_uio_0301               menn avvdelingsleder
+
+sel_uio_0301_orthography   men avdelingsleiar
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               å så e de ommrådesjæf ## åss ligg onne Lillehammer
+
+sel_uio_0301_orthography   og så er det områdesjef ## vi ligg under Lillehammer
+
+int                        å ja # tidlegare var det Hamar var det ikkje det ?
+
+int_orthography            å ja # tidlegare var det Hamar var det ikkje det ?
+
+sel_uio_0301               ee åss va stassjonsmæsster sjøL da så åss ha egen 
+                           stassjonsmæsster da
+
+sel_uio_0301_orthography   e vi var stasjonsmeister sjølve da så vi hadde eigen 
+                           stasjonsmeister da
+
+int                        ja vel
+
+int_orthography            ja vel
+
+int                        ja %u
+
+int_orthography            ja %u
+
+sel_uio_0301               nå æ de ## ær e nå spesiellt store tinng så # +u(pLa 
+                           me å spøje) Lillehammer %u
+
+sel_uio_0301_orthography   nå er det ## er det nokre spesielt store ting så # 
+                           pleier vi å spørje Lillehammer %u
+
+int                        ja # mm
+
+int_orthography            ja # mm
+
+int                        har det vorte nedlagt mange stasjonar mellom 
+                           Lillehammer og her ?
+
+int_orthography            har det vorte nedlagt mange stasjonar mellom 
+                           Lillehammer og her ?
+
+sel_uio_0301               ja i fårrhåll te anntaLe så æ re # vårrte nelakkt ja
+
+sel_uio_0301_orthography   ja i forhold til +x_antalet så har det # vorte 
+                           nedlagt ja
+
+int                        har du nokre tal på kor mange det er kor mange som 
+                           er … ?
+
+int_orthography            har du nokre tal på kor mange det er kor mange som 
+                           er … ?
+
+sel_uio_0301               mm dæ mm kenn ikkje si eksakkte taL akkorat nåkkå
+
+sel_uio_0301_orthography   mm det mm kan ikkje seie eksakte tal akkurat noko
+
+int                        nei da
+
+int_orthography            nei da
+
+sel_uio_0301               vi ha nå Sjoa da %u
+
+sel_uio_0301_orthography   vi har nå Sjoa da %u
+
+int                        %u ?
+
+int_orthography            %u ?
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+int                        på +u Stolen kanskje ved Øyer ?
+
+int_orthography            på +u Stolen kanskje ved Øyer ?
+
+sel_uio_0301               %u # Øyer e nelakkt Hunnder
+
+sel_uio_0301_orthography   %u # Øyer er nedlagt Hunder
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               Øyer e kkje nelakkt mænn ee # Hunner # e nelakkt så 
+                           de æ no kje att någå dær Harrpefåss nelakkt
+
+sel_uio_0301_orthography   Øyer er ikkje nedlagt men e # Hunder # er nedlagt så 
+                           det er nå ikkje att noko der Harpefoss nedlagt
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               Fåbbær ær nelakkt
+
+sel_uio_0301_orthography   Fåberg er nedlagt
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å dæ æ prat umm fLeire
+
+sel_uio_0301_orthography   og det er prat om fleire
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               mænn dæ æ nå kje avjott ænnda
+
+sel_uio_0301_orthography   men det er nå ikkje avgjort enda
+
+int                        det har vorte stilt ved mange jernbanestasjonar 
+                           oppover dalen %u
+
+int_orthography            det har vorte stilt ved mange jernbanestasjonar 
+                           oppover dalen %u
+
+sel_uio_0301               ja %k %u Otta ja
+
+sel_uio_0301_orthography   ja %k %u Otta ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å att ee # tennkje på e va me å stikka denn runnt å 
+                           sisste vi hå ppå me hadde ve # stat'n de
+
+sel_uio_0301_orthography   og at e # tenker på eg var med og stikke den rundt 
+                           og siste vi heldt på med hadde ved # staten det
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               e hadde e krone timen såmm fLisgutt da va e me på å 
+                           stikka jærnbana frå # utpå LaLLm
+
+sel_uio_0301_orthography   eg hadde ei krone timen som flisgut da var eg med på 
+                           å stikke jernbana frå # utpå Lalm
+
+int                        %s
+
+int_orthography            %s
+
+sel_uio_0301               å så ve # denn kåmm # te ve Bjønnsta dær # 
+                           Ner-Bjønnsta
+
+sel_uio_0301_orthography   og så ved # den kom # til ved Bjørnstad der # 
+                           Ner-Bjørnstad
+
+int                        jaha # ja
+
+int_orthography            jaha # ja
+
+sel_uio_0301               dæmm # stikka frå Sell da # va tunnell da frå Sell å 
+                           så # ut att # på  Bjønnsta å så sku de gå neåver 
+                           lanngs LaLLm
+
+sel_uio_0301_orthography   dei # stakk frå Sel da # var tunnel da frå Sel og så 
+                           # ut att # på Bjørnstad og så skulle det gå nedover 
+                           langs Lalm
+
+int                        ja
+
+int_orthography            ja
+
+int                        +u mm
+
+int_orthography            +u mm
+
+sel_uio_0301               mæ bru åver på skrå akkorat ve LaLLmsbrue dær
+
+sel_uio_0301_orthography   med bru over på skrå akkurat ved Lalmsbrua der
+
+sel_uio_0301               stikka # jærnbana +u oppførr # +u(få demm) ut jennom 
+                           uthuse hass ## butikken hann M1 på LaLLm få si de 
+                           sånn
+
+sel_uio_0301_orthography   stikke # jernbana +u oppfor # +u(få dei) ut gjennom 
+                           uthuset hans ## butikken han M1 på Lalm for seie det 
+                           sånn
+
+int                        %l
+
+int_orthography            %l
+
+int                        +l(å ja) ?
+
+int_orthography            +l(å ja) ?
+
+sel_uio_0301               å så jikk de ee på baksia # å inn att ve sid'n a 
+                           Æidefåss ## dæ skull de gå
+
+sel_uio_0301_orthography   og så gjekk det e på baksida # og inn att ve sida av 
+                           Eidefoss ## der skulle det gå
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm # ja
+
+int_orthography            mm # ja
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               ja ee e va bærre gutonnjen får e si ee
+
+sel_uio_0301_orthography   ja e eg var berre gutungen får eg seie e
+
+sel_uio_0301               e va n ## ja # sækkst'n år # ja va ness'n bære 
+                           gutonngen va en sekkst'n år hann anndre æu
+
+sel_uio_0301_orthography   eg var ein ## ja # seksten år # ja var nesten berre 
+                           gutungen +u(var ein) seksten år han andre au
+
+sel_uio_0301               å ee # e fækk ælljder sjå # di %u
+
+sel_uio_0301_orthography   og e # eg fekk aldri sjå # dei %u
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               tord ikkje spørrja hæll væt du denn tia %l
+
+sel_uio_0301_orthography   torde ikkje spørje heller veit du den tida %l
+
+int                        nei nei men står det fast liksom sånne 
+                           framtidsplanar ?
+
+int_orthography            nei nei men står det fast liksom sånne 
+                           framtidsplanar ?
+
+sel_uio_0301               dæ trur æ ikkje # næi # bilen ha åvertie nå har du # 
+                           fri førbinnelse me Væsstlanne %u # heilårsveigen 
+                           tunell # omm fjelle
+
+sel_uio_0301_orthography   det trur eg ikkje # nei # bilane har overteke nå har 
+                           du # fri forbindelse med Vestlandet %u # 
+                           heilårsvegen tunell # om +u fjellet
+
+int                        nei
+
+int_orthography            nei
+
+int                        ja # mm
+
+int_orthography            ja # mm
+
+sel_uio_0301               mænn ee vi si dæ att ee dæ æ kkje denn konntakkte 
+                           bLannt ee ## ee bLannt kjørene pæsjonale da førr 
+                           æksæmmpel å
+
+sel_uio_0301_orthography   men e vi seier det at e det er ikkje den kontakten 
+                           blant e ## e blant køyrande personale da for 
+                           eksempel og
+
+int                        +u mm
+
+int_orthography            +u mm
+
+sel_uio_0301               +u(du vet dæsse) # dette lokkfåLLke
+
+sel_uio_0301_orthography   +u(du veit desse) # dette lokfolket
+
+sel_uio_0301               kåppLa te lokke å bytte lokk de e såmm e nævvnte # %u
+
+sel_uio_0301_orthography   kople til loket og byte lok det er som eg nemnde # %u
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               va nå jinne en prat # jekk uti gLase å prata ve n å 
+                           +u( då hadd n ) ## en liten replikk %u å plan omm
+
+sel_uio_0301_orthography   var nå gjerne ein prat # gjekk uti glaset og prata 
+                           ved han og +u( da hadde han ) ## ein liten replikk 
+                           %u og plan om
+
+int                        mm
+
+int_orthography            mm
+
+int                        ja # mm
+
+int_orthography            ja # mm
+
+sel_uio_0301               kjænnte ræmm å denn å denn %u
+
+sel_uio_0301_orthography   kjente dei og den og den %u
+
+sel_uio_0301               nå ser åss dømm ikkje nå har emm ikkje ti te å # ee 
+                           æingånng hå upp gLase demm må ## bære passe på 
+                           sinngnaler få ståppa å omm to minutt
+
+sel_uio_0301_orthography   nå ser vi dei ikkje nå har dei ikkje tid til å # e 
+                           eingong ha opp glaset dei må ## berre passe på 
+                           signal få stoppa og om to minutt
+
+sel_uio_0301               å sså ska dæi # passe på å # att dæ æ klart ut å 
+                           allt detta hær de ja de mått demm før øu
+
+sel_uio_0301_orthography   og så skal dei # passe på å # at det er klart ut og 
+                           alt dette her det ja det måtte dei før au
+
+int                        ja da
+
+int_orthography            ja da
+
+sel_uio_0301               mænn ee # allt detta ska jærra på to minutt # ee 
+                           fårrdi ## de æ ikke no s- eller stuttaste ti da
+
+sel_uio_0301_orthography   men e # alt dette skal gjere på to minutt # e fordi 
+                           ## det er ikkje noko s- eller stuttaste tid da
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               %u # du hadd ikkje n ha kje ti te ut å # sjlå av en 
+                           prat
+
+sel_uio_0301_orthography   %u # du hadde ikkje ein har ikkje tid til ut og # 
+                           slå av ein prat
+
+int                        så det var artig før ## %u
+
+int_orthography            så det var artig før ## %u
+
+sel_uio_0301               ja ## nå va de nå ## de va meir liv denn tie de va 
+                           ee mykkje meir å jærra
+
+sel_uio_0301_orthography   ja ## nå var det nå ## det var meir liv den tida det 
+                           var e mykje meir å gjere
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               nå æ dæ tinng såmm kannsje ikkje du rakk de dær de 
+                           forkåmm å
+
+sel_uio_0301_orthography   nå er det ting som kanskje ikkje du rakk det der det 
+                           førekom og
+
+sel_uio_0301               kunne få ratt litte kjæfft umm ikkje enna å %l %u
+
+sel_uio_0301_orthography   kunne få radt litt kjeft om ikkje anna og %l %u
+
+int                        ja akkurat +l ja
+
+int_orthography            ja akkurat +l ja
+
+int                        %u kontakt det òg
+
+int_orthography            %u kontakt det òg
+
+sel_uio_0301               de var konntakkt de æu menn de var de va bærre %u
+
+sel_uio_0301_orthography   det var kontakt det au men det var det var berre %u
+
+int                        ja ja %l
+
+int_orthography            ja ja %l
+
+sel_uio_0301               mænn e tykkte synn ti essa hærre lokkføraråm førr 
+                           ekksempel em # va fåsjinngka væit du onnde krigen # 
+                           dåli mæ nisstemat
+
+sel_uio_0301_orthography   men eg tykte synd i desse +x_herre lokførarane for 
+                           eksempel em # var forseinka veit du under krigen # 
+                           dårleg med nistemat
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               de va ei kakusjive mæ någgå # de va kkje støtt de va 
+                           smør på någgå væit du å dåli mjøL %u svarrt kaffe å
+
+sel_uio_0301_orthography   det var ei kakeskive med noko # det var ikkje støtt 
+                           det var smør på noko veit du og dårleg mjøl %u svart 
+                           kaffi og
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               sjlikk brømjøsjkaku
+
+sel_uio_0301_orthography   slik brødmjølskake
+
+int                        mm å ja %u
+
+int_orthography            mm å ja %u
+
+sel_uio_0301               å så kunn de va f- vorre f- vorrte fLeire time 
+                           fåsjinngka væit du å # kjæie
+
+sel_uio_0301_orthography   og så kunne det vere f- vore f- vorte fleire timar 
+                           forseinka veit du og # keie
+
+int                        ja # mm
+
+int_orthography            ja # mm
+
+sel_uio_0301               å så emm kåmm hit da så kunn de vare sjlik att ## 
+                           åss ha et sjifft ell to såmm måtte jerast fårr åss 
+                           hadd ikkje da ee fasst sjifftetrakktor hær
+
+sel_uio_0301_orthography   og så dei kom hit da så kunne det vere slik at ## vi 
+                           hadde eit skift eller to som måtte gjerast for vi 
+                           hadde ikkje da e fast skiftetraktor her
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               så va de ee besje frå inne da # att ## sku sjiffte
+
+sel_uio_0301_orthography   så var det e beskjed frå inne da # at ## skulle 
+                           skifte
+
+sel_uio_0301               å detta likkt emm sjøsjakkt ikkje de va kkje støtt 
+                           ee # de va # væLmeinnte oL såmm kåmm %l
+
+sel_uio_0301_orthography   og dette likte dei sjølvsagt ikkje det var ikkje 
+                           støtt e # det var # velmeinte ord som kom %l
+
+int                        nei %l
+
+int_orthography            nei %l
+
+sel_uio_0301               å åss da
+
+sel_uio_0301_orthography   og vi da
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               menn ee dæ va kkje rart omm demm varrt grinate hell 
+                           få remm va rett å sjlett kjeie fårr å si de rætt ut 
+                           å em
+
+sel_uio_0301_orthography   men e det var ikkje rart om dei vart grinete heller 
+                           for dei var rett og slett keie for å seie det rett 
+                           ut og em
+
+int                        +u nei
+
+int_orthography            +u nei
+
+sel_uio_0301               få da enn demm ha allså berre på ness'n a pakka 
+                           kuffert'n sin åsså %u revve opp kjeldress'n å # ee %u
+
+sel_uio_0301_orthography   for da han dei hadde altså berre på nesten da pakka 
+                           kofferten sin også %u rive opp kjeledressen og # e %u
+
+int                        +u mm
+
+int_orthography            +u mm
+
+sel_uio_0301               åsså fæ ru ja de hær de på nn ijenn # ja du kænn bLi 
+                           harrm veit du
+
+sel_uio_0301_orthography   også får du ja det her det på han igjen # ja du kan 
+                           bli harm veit du
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               mænn ee ## så da %k viss de va jikksåm vånngn da så 
+                           +u(va re)
+
+sel_uio_0301_orthography   men e ## så da %k viss det var liksom vogn da så 
+                           +u(var det)
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               vi fækk ekkstra ee uppdragen da
+
+sel_uio_0301_orthography   vi fekk ekstra e oppdraga da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               da kåmm en meir i hog kå hænn kælljasst sjøssjakkt %l
+
+sel_uio_0301_orthography   da kom ein meir i hug kva han kallast sjølvsagt %l
+
+int                        +l ja +u(ja vel)
+
+int_orthography            +l ja +u(ja vel)
+
+sel_uio_0301               mænn de ællesj var +l de de va jæmmt åver greie 
+                           fåLLk allt sammen de va kkje fali de mænn ee # nå e 
+                           tennkje me sjøL va e kjei øu
+
+sel_uio_0301_orthography   men det elles var +l det det var jamt over greie 
+                           folk alt saman det var ikkje farleg det men e # når 
+                           eg tenker meg sjølv var eg kei au
+
+int                        ja # ja
+
+int_orthography            ja # ja
+
+int                        ja %u tenker på miljø var det noka slags ee 
+                           foreining som de samlast av og til ?
+
+int_orthography            ja %u tenker på miljø var det noka slags e foreining 
+                           som de samlast av og til ?
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+int                        eller kunne møte opp på eller sangkor eller eit 
+                           eller anna slikt ?
+
+int_orthography            eller kunne møte opp på eller sangkor eller eit 
+                           eller anna slikt ?
+
+sel_uio_0301               ee de va såvitt de va jærnbanens idrettslag hær å så 
+                           # fotballage hær å # va me n E1 ståka hær de
+
+sel_uio_0301_orthography   e det var såvidt det var jernbanens idrettslag her 
+                           og så # fotballaget her og # var med han E1 ståka 
+                           her det
+
+int                        ja
+
+int_orthography            ja
+
+int                        oi
+
+int_orthography            oi
+
+int                        aha
+
+int_orthography            aha
+
+sel_uio_0301               dæ va en # dæ va sikkert enn
+
+sel_uio_0301_orthography   det var ein # det var sikkert ein
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               ja de va sjlik å så va de nå ## fæsst da # av å te 
+                           ve juLtie %u +u( va en fæsst på skøua )
+
+sel_uio_0301_orthography   ja det var slik og så var det nå ## fest da # av og 
+                           til ved juletida %u +u( var ein fest på skogen )
+
+int                        ja
+
+int_orthography            ja
+
+int                        jaha mm mm
+
+int_orthography            jaha mm mm
+
+sel_uio_0301               å da va de
+
+sel_uio_0301_orthography   og da var det
+
+sel_uio_0301               de va da +u%fåLLkje hær å så # di lokkfåLLkje helle 
+                           di konnduktørfåLLke da såmm hadde annledning te å # 
+                           vær me demm va nå mæ
+
+sel_uio_0301_orthography   det var da +u%folket her og så # dei lokfolket eller 
+                           dei konduktørfolka da som hadde anledning til å # 
+                           vere med dei var nå med
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               viss demm ikkje sku ut att tile
+
+sel_uio_0301_orthography   viss dei ikkje skulle ut att tidleg
+
+int                        mhm
+
+int_orthography            mhm
+
+int                        og da var dei til %u ?
+
+int_orthography            og da var dei til %u ?
+
+sel_uio_0301               får dømm ee
+
+sel_uio_0301_orthography   for dei e
+
+sel_uio_0301               de va såmm regel på Grann
+
+sel_uio_0301_orthography   det var som regel på Grand
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0301               å hyggeli ha de vore å ## så vitt trur e å
+
+sel_uio_0301_orthography   og hyggeleg har det vore og ## så vidt trur eg og
+
+int                        å
+
+int_orthography            og
+
+int                        er dette i drift enda %u ?
+
+int_orthography            er dette i drift enda %u ?
+
+sel_uio_0301               du nå æ de så lite fåLLk vorrte å så ha demm vorrte 
+                           så gammLe att åss ee
+
+sel_uio_0301_orthography   du nå er det så lite folk vorte og så har dei vortne 
+                           så gamle at vi e
+
+sel_uio_0301               ja så e e kkje akkkurat +l fårnøggd tå dæ  mænn så 
+                           mænn ee
+
+sel_uio_0301_orthography   ja så er eg ikkje akkkurat +l fornøgd av det men som 
+                           men e
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               de va ynngre så va de meire arrtikt å kåmmå i hop 
+                           veit du å ee dannse å stå ti å
+
+sel_uio_0301_orthography   dei var yngre så var det meir artig å komme i hop 
+                           veit du og e danse og stå i og
+
+int                        ja ja
+
+int_orthography            ja ja
+
+sel_uio_0301               nå æ åss fårr ee træige vortte # nå ha jo teven 
+                           ødlakkt allt sammen så de # %u # +u( få si de )
+
+sel_uio_0301_orthography   nå er vi for e treige vortne # nå har jo tv-en 
+                           øydelagt alt saman så det # %u # +u( får seie det )
+
+int                        %l
+
+int_orthography            %l
+
+int                        ja %u
+
+int_orthography            ja %u
+
+sel_uio_0301               fåLLk går kje åt nan slik lennger nå går de kkje dæ 
+                           må hå høytidelie  innbydelsa
+
+sel_uio_0301_orthography   folk går ikkje åt einannan slik lenger no går det 
+                           ikkje det må ha høgtidelege innbydingar
+
+int                        mm
+
+int_orthography            mm
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               %u å så må n gå ækkstra å ## de æ kkje sjlik såmm 
+                           mannge jør
+
+sel_uio_0301_orthography   %u og så må ein gå ekstra og ## det er ikkje slik 
+                           som mange gjer
+
+int                        ja
+
+int_orthography            ja
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               %u # å anndre tider enn %u ## bæsstemor
+
+sel_uio_0301_orthography   %u # og andre tider enn %u ## bestemor
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               dæ va nå fåresst'n så seint såmm onnde krigen
+
+sel_uio_0301_orthography   det var nå forresten så seint som under krigen
+
+int                        ja mor åt mor di
+
+int_orthography            ja mor åt mor di
+
+sel_uio_0301               mor henna mor ja
+
+sel_uio_0301_orthography   mor hennar mor ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               menn så ho æ frå ## em ditte bruk uppi # oggofårr N4
+
+sel_uio_0301_orthography   men så ho er frå ## em lite bruk oppi # ovanfor N4
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+sel_uio_0301               så va de # de va omm såmmårn dette hær i # spesiellt 
+                           %u
+
+sel_uio_0301_orthography   så var det # det var om sommaren dette her i # 
+                           spesielt %u
+
+sel_uio_0301               da sa o bæssmor dæ att ee # «næi nå ## ska åss ikkje 
+                           ee du å e» sa o # « gå ut i skogen å finna åss lite 
+                           ve »
+
+sel_uio_0301_orthography   da sa ho bestemor det at e # «nei nå ## skal vi 
+                           ikkje e du og eg» sa ho # « gå ut i skogen og finne 
+                           oss litt ved »
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               åsså ska åss ee # koke åss kaffe
+
+sel_uio_0301_orthography   også skal vi e # koke oss kaffi
+
+int                        +u ja
+
+int_orthography            +u ja
+
+sel_uio_0301               %u seier du ? menn de va jo de va jo arrti %u
+
+sel_uio_0301_orthography   %u seier du ? men det var jo det var jo artig %u
+
+sel_uio_0301               menn ho bæsstemor ho fårrtaLde inngkorrt væt du ha 
+                           goe stonnde å joLe e ronnde på # ja så va a kannsje 
+                           burrte enn ee burrt en time kannsje
+
+sel_uio_0301_orthography   men ho bestemor ho fortalde eitkvsrt veit du hadde 
+                           gode stunder og gjorde ein runde på # ja så var ho 
+                           kanskje borte ein e borte ein time kanskje
+
+sel_uio_0301               å da ha o dette hærre ett lite reip såmm ho tok å # 
+                           å så tok å fenn slik småkvisst
+
+sel_uio_0301_orthography   og da hadde ho dette +x_herre eit lite reip som ho 
+                           tok og # og så tok og fann slik småkvist
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               ænnda # skåårn va full tå ve # menn denn skull 
+                           brukas omm vinntern
+
+sel_uio_0301_orthography   enda # skålen var full av ved # men den skulle 
+                           brukast om vinteren
+
+sel_uio_0301               å ho ha kje rå te å bruke denn omm såmmårn så de va 
+                           bare kaffeve åss sku finne da
+
+sel_uio_0301_orthography   og ho hadde ikkje råd til å bruke den om sommaren så 
+                           det var berre kaffived vi skulle finne da
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0301               å e sætte på kaffe å kåmm inn å e joL opp i åmmen å 
+                           sætte på kjel'n # en halltime # sånn
+
+sel_uio_0301_orthography   og eg sette på kaffi og kom inn og eg gjorde opp i 
+                           omnen og sette på kjelen # ein halvtime # sånn
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               de va kkje såmm nå du bare trykkje på knappe å fræse 
+                           utåver å s-
+
+sel_uio_0301_orthography   det var ikkje som nå du berre trykker på knappar og 
+                           freser utover og s-
+
+int                        ja
+
+int_orthography            ja
+
+int                        nei så er det ikkje naturleg
+
+int_orthography            nei så er det ikkje naturleg
+
+sel_uio_0301               kall kaffe
+
+sel_uio_0301_orthography   kald kaffi
+
+sel_uio_0301               hm ?
+
+sel_uio_0301_orthography   hm ?
+
+int                        men så får vi ikkje naturen heller
+
+int_orthography            men så får vi ikkje naturen heller
+
+sel_uio_0301               næi n fæ kje upplæva
+
+sel_uio_0301_orthography   nei ein får ikkje oppleve
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               du veit de va ee # like så stor upplevels dæ så
+
+sel_uio_0301_orthography   du veit det var e # like så stor oppleving det som
+
+sel_uio_0301               du må iallfall ee løite # fårr å finne sjlike tinng 
+                           no
+
+sel_uio_0301_orthography   du må iallfall e leite # for å finne slike ting nå
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               å du tæ de kkje ti te de # dæ finns sjøsjakkt nå 
+                           menn ee # du ha kkje ti du ee # næi du ska ha me så 
+                           mykje rart veit du at %l
+
+sel_uio_0301_orthography   og du tar deg ikkje tid til det # det finst 
+                           sjølvsagt nå men e # du har ikkje tid du e # nei du 
+                           skal ha med så mykje rart veit du at %l
+
+int                        nei
+
+int_orthography            nei
+
+int                        ja
+
+int_orthography            ja
+
+int                        +u(men det er jo andre tingen) det ser ut som dette 
+                           er likt i over i alle minne %u rundt omkring nå
+
+int_orthography            +u(men det er jo andre tingen) det ser ut som dette 
+                           er likt i over i alle minne %u rundt omkring nå
+
+sel_uio_0301               ja # dæ æ dæ
+
+sel_uio_0301_orthography   ja # det er det
+
+int                        men %u og det har nok prega assosiasjonen 
+                           assosiasjonstankar det har %u og prega desse her %u
+
+int_orthography            men %u og det har nok prega assosiasjonen 
+                           assosiasjonstankar det har %u og prega desse her %u
+
+sel_uio_0301               ja da # ja
+
+sel_uio_0301_orthography   ja da # ja
+
+sel_uio_0301               ja de a dæ
+
+sel_uio_0301_orthography   ja det har det
+
+int                        men ee som du seier nå så er det ikkje tilsett for 
+                           mange %u
+
+int_orthography            men e som du seier nå så er det ikkje tilsett for 
+                           mange %u
+
+sel_uio_0301               næi # å næi
+
+sel_uio_0301_orthography   nei # å nei
+
+int                        det er ikkje så mange familiar som er tilknytte # mm
+
+int_orthography            det er ikkje så mange familiar som er tilknytte # mm
+
+sel_uio_0301               næi # de e ikkje dæ
+
+sel_uio_0301_orthography   nei # det er ikkje det
+
+int                        men eg syntest jo det var artig eg men eg har # %u
+
+int_orthography            men eg syntest jo det var artig eg men eg har # %u
+
+sel_uio_0301               jøu da %u
+
+sel_uio_0301_orthography   jau da %u
+
+sel_uio_0301               ee ja de æ
+
+sel_uio_0301_orthography   e ja det er
+
+sel_uio_0301               jo e vi si att de va arrtiar før fårr da hadd di 
+                           såmm bærre nevvnte dessa lokkfåLLkje såmm …
+
+sel_uio_0301_orthography   jo eg vil seie at det var artigare før for da hadde 
+                           dei som berre nemnde desse lokfolka som …
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å ee # kåmm te # fåLLk såmm e ha meire konntakkt me
+
+sel_uio_0301_orthography   og e # kom til # folk som eg har meir kontakt med
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               nån veit e kkje umm kann kællast # %u menn # %u demm 
+                           ha kje no i dag # ha re bra
+
+sel_uio_0301_orthography   nokon veit eg ikkje om kan kallast # %u men # %u dei 
+                           har ikkje noko i dag # ha det bra
+
+sel_uio_0301               %u bottåve dær
+
+sel_uio_0301_orthography   %u bortover der
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å så må je ta "lokk dørene" å allt detta hær # kåmm 
+                           dekk på så åss fe kjørt
+
+sel_uio_0301_orthography   og så må eg ta "lukk dørene" og alt dette her # kom 
+                           dykk på så vi får køyrt
+
+int                        ja
+
+int_orthography            ja
+
+int                        da har vel han eit kanskje strammare tidsskjema ?
+
+int_orthography            da har vel han eit kanskje strammare tidsskjema ?
+
+sel_uio_0301               de e klart # ja
+
+sel_uio_0301_orthography   det er klart # ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               de va em ## de va nå ee likksåm # arrtighet på 
+                           sommran da veit du
+
+sel_uio_0301_orthography   det var em ## det var nå e liksom # artigheit på 
+                           somme da veit du
+
+int                        ja ?
+
+int_orthography            ja ?
+
+sel_uio_0301               %l de va einn såmm # kåmm hær enn # gånng åsså va 
+                           detta # hann va på vårparrt'n
+
+sel_uio_0301_orthography   %l det var ein som # kom her ein # gong også var 
+                           dette # han var på vårparten
+
+sel_uio_0301               å hænn va # de va neafårr Låssna
+
+sel_uio_0301_orthography   og han var # det var nedanfor Losna
+
+sel_uio_0301               henn hadde ee # vårrte var de de va umm natte de va 
+                           umm fireti umm natte enn kåmm me ett gosståg
+
+sel_uio_0301_orthography   han hadde e # vorte var det det var om natta det var 
+                           om firetida om natta han kom med eit godstog
+
+sel_uio_0301               så varrt n var de hann var der ## de røuk onne låvin
+
+sel_uio_0301_orthography   så vart han var det han var der ## det rauk under 
+                           låven
+
+sel_uio_0301               å så ee va de denn ti demm dræv å brænnde # ee 
+                           brænnde bråtebrann såmm vi sir da
+
+sel_uio_0301_orthography   og så e var det den tid dei dreiv og brende # e 
+                           brende brotebrann som eg seier da
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0301               så hadde detta bLussa upp att onnde låvin # å dær ee 
+                           # %u så demm ståppa rett å sjlett
+
+sel_uio_0301_orthography   så hadde dette blussa opp att under låven # og der e 
+                           # %u så dei stoppa rett og slett
+
+int                        ja # toget ?
+
+int_orthography            ja # toget ?
+
+sel_uio_0301               toge å to me se brannsjlukkningsaperate
+
+sel_uio_0301_orthography   toget og tok med seg brannsløkkingsapparatet
+
+sel_uio_0301               å ee # ditte hæ va de va ette de va fjærnstyring øu
+
+sel_uio_0301_orthography   og e # dette her var det var etter det var 
+                           fjernstyring au
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               tok demm me se brannaparate å så %u menn så sjløkkte 
+                           att da brænnde re onne låva å på %u va tre allt 
+                           sammen
+
+sel_uio_0301_orthography   tok dei med seg brannapparatet og så %u men så 
+                           sløkte att da brann det under låven og på %u var tre 
+                           alt saman
+
+int                        åh
+
+int_orthography            å
+
+sel_uio_0301               demm kåmm akkoratt i rætte ti
+
+sel_uio_0301_orthography   dei kom akkurat i rette tid
+
+sel_uio_0301               å så sku demm em # vækkje fåLLke da demm ha de 
+                           travellt få demm hadde # konntroll full konntro på 
+                           Hamar vett du # så korr demm va
+
+sel_uio_0301_orthography   og så skulle dei em # vekke folket da dei hadde det 
+                           travelt for dei hadde # kontroll full kontroll på 
+                           Hamar veit du # såg kor dei var
+
+int                        ja ja
+
+int_orthography            ja ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å så ee # vækkte remm fåLLke sjølfåLLke
+
+sel_uio_0301_orthography   og så e # vekte dei folket sjølvefolket
+
+sel_uio_0301               å dømm varrt no så gLa att demm visst ikkje si arrme 
+                           rå vet du
+
+sel_uio_0301_orthography   og dei vart nå så glade at dei visste ikkje si arme 
+                           råd veit du
+
+sel_uio_0301               demm skull nå hå kaffe å trakktaring da # «næi dæ ha 
+                           åss ikkje ti te» sa remm så dæ
+
+sel_uio_0301_orthography   dei skulle nå ha kaffi og traktering da # «nei det 
+                           har vi ikkje tid til» sa dei så det
+
+int                        %l
+
+int_orthography            %l
+
+int                        +l nei
+
+int_orthography            +l nei
+
+sel_uio_0301               de va nå # bærre å tå åt att
+
+sel_uio_0301_orthography   det var nå # berre å ta åt att
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               menn demm tømmte nå ## ee +u(demm hadde væ) såpass 
+                           att demm tømmte da brannsjlokkningsaparate såmm va 
+                           på lokke
+
+sel_uio_0301_orthography   men dei tømte nå ## e +u(dei hadde vel) såpass at 
+                           dei tømte da brannsløkkingsapparatet som var på loket
+
+int                        ja ## du verda
+
+int_orthography            ja ## du verda
+
+sel_uio_0301               teoretisk så # har du kkje låv å røyve denn på ann't 
+                           ell toge væit du menn demm brukkte da mennesjele s- 
+                           # vurdering
+
+sel_uio_0301_orthography   teoretisk så # har du ikkje lov å røyve den på anna 
+                           enn toget veit du men dei brukte da menneskeleg s- # 
+                           vurdering
+
+int                        å ja # vurdering # ja
+
+int_orthography            å ja # vurdering # ja
+
+sel_uio_0301               å demm redda da kannsje # både dyre å # å kannsje 
+                           demm sjøLLve øu # ja demm sp- ee redda i værrt fall 
+                           mannge liv
+
+sel_uio_0301_orthography   og dei redda da kanskje # både dyra og # og kanskje 
+                           dei sjølve au # ja dei sp- e redda i kvart fall 
+                           mange liv
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å demm takka å så sto demm anndre å ee # demm skulle 
+                           ha i betaLing tykkte demm næi de sku emm ikkje ha de 
+                           va # arrtikt å få jøLLpe
+
+sel_uio_0301_orthography   og dei takka og så stod dei andre og e # dei skulle 
+                           ha i betaling tykte dei nei det skulle dei ikkje ha 
+                           det var # artig å få hjelpe
+
+int                        ja nettopp
+
+int_orthography            ja nettopp
+
+sel_uio_0301               de va di rette karanj
+
+sel_uio_0301_orthography   det var dei rette karane
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               a så ## jikk de ei stonn # så fækk demm da de va 
+                           hamarfåLLk # jikk de ei stonn å så
+
+sel_uio_0301_orthography   ja så ## gjekk det ei stund # så fekk dei da det var 
+                           hamarfolk # gjekk det ei stund og så
+
+sel_uio_0301               de e kåmme en # parr kålli åt døkk # på ilgoss'n hær
+
+sel_uio_0301_orthography   det er komme eit # par kolli åt dykk # på ilgodsen 
+                           her
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0301               på ekspræss'n
+
+sel_uio_0301_orthography   på ekspressen
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               dæ e såmm demm mm ha glømmt heile greia demm da
+
+sel_uio_0301_orthography   det er som dei dei har gløymt heile greia dei da
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               da va de to ## da fækk de kåssj sji ei stor sjinnke
+
+sel_uio_0301_orthography   da var det to ## da han fekk dei var si ei skinke
+
+int                        å # ja
+
+int_orthography            å # ja
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               de e bærre de %l # de æ arrtikt å få ee # sjlike 
+                           tinng fårr æ sånn att du sætte pris på de atte ru 
+                           att du mennte att demm sku få i va fall # ja
+
+sel_uio_0301_orthography   det er berre det %l # det er artig å få e # slike 
+                           ting for er sånn at du set pris på det at du at du 
+                           meinte at dei skulle få i kvart fall # ja
+
+int                        det var fint
+
+int_orthography            det var fint
+
+int                        ja visst # ja
+
+int_orthography            ja visst # ja
+
+sel_uio_0301               å dæ # sjlike tinng æ
+
+sel_uio_0301_orthography   og det # slike ting er
+
+int                        %u godt å høyre om slikt %u det er så mykje vondt nå 
+                           # og fælt
+
+int_orthography            %u godt å høyre om slikt %u det er så mykje vondt nå 
+                           # og fælt
+
+sel_uio_0301               ja # ja da
+
+sel_uio_0301_orthography   ja # ja da
+
+sel_uio_0301               ellesj så ## åss e jåLLp nå fåLLk så lanngt de går 
+                           da ee
+
+sel_uio_0301_orthography   elles så ## vi er hjelper når folk så langt det går 
+                           da e
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               kjømm nå hit å spør å # ja ## de e mannge sjlakks 
+                           jøLLpe gutt
+
+sel_uio_0301_orthography   kjem nå hit og spør og # ja ## det er mange slags 
+                           hjelper gut
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja # har du fått nokre oppdrag elles rare oppdrag ?
+
+int_orthography            ja # har du fått nokre oppdrag elles rare oppdrag ?
+
+sel_uio_0301               ja når e kåmm i hog dæmm væit du så
+
+sel_uio_0301_orthography   ja når eg kom i hug dei veit du så
+
+int                        ja +l(det er så mykkje kanskje) ?
+
+int_orthography            ja +l(det er så mykje kanskje) ?
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               mænn dessa herre ee de va ee fysste demm sa att du 
+                           %u ska få sjå # ee prata ve sjafføren i # demm såmm 
+                           da kjørde i de va Okåa å så
+
+sel_uio_0301_orthography   men desse +x_herre e det var e første dei sa at du 
+                           %u skal få sjå # e prata ved sjåføren i # dei som da 
+                           køyrde i det var OKA og så
+
+sel_uio_0301               dæ va Låmm å så va de +u Ogeæss da # så va de …
+
+sel_uio_0301_orthography   det var Lom og så var det +u OGS da # så var det …
+
+int                        stod det for ? Ottadalen … ?
+
+int_orthography            stod det for ? Ottadalen … ?
+
+sel_uio_0301               de va Geiranger Stryn
+
+sel_uio_0301_orthography   det var Geiranger Stryn
+
+int                        å ja men OKA var ?
+
+int_orthography            å ja men OKA var ?
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+sel_uio_0301               de va ee # Ottadals komunale # øuto ell ka de va
+
+sel_uio_0301_orthography   det var e # Ottadalens kommunale # auto eller kva 
+                           det var
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               dæ va Låmm
+
+sel_uio_0301_orthography   det var Lom
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0301               %u
+
+sel_uio_0301_orthography   %u
+
+sel_uio_0301               åsså va de ee Aess Sjåpping Sjåk)
+
+sel_uio_0301_orthography   også var det e AS Shopping Skjåk
+
+int                        ja # det var så mange selskap ?
+
+int_orthography            ja # det var så mange selskap ?
+
+sel_uio_0301               ja dæ va tri
+
+sel_uio_0301_orthography   ja det var tre
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               dessa dær slo seg da i hop te +u Okåbe
+
+sel_uio_0301_orthography   desse der slo seg da i hop til OKB
+
+sel_uio_0301               ee # denn såmm ee # ja åss fåsjto vell gått kå n sa
+
+sel_uio_0301_orthography   e # den som e # ja vi forstod vel godt kva han sa
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               menn du veit nårr låmmvær å sjåkvær kåmm hit neåver 
+                           veit du de va %l # ee e e sikker på de att dømm æu 
+                           va asså dæ # språke elle dialekkt'n frå Låmm å
+
+sel_uio_0301_orthography   men du veit når lomvær og skjåkvær kom hit nedover 
+                           veit du det var %l # e eg er sikker på det at dei au 
+                           var altså det # språket eller dialekten frå Lom og
+
+sel_uio_0301               de va heilt ee de va %u få e si de ha likksåm ee 
+                           jævvna sæ ut så de e meire likkt # mot de va da
+
+sel_uio_0301_orthography   det var heilt e det var %u får eg seie det har 
+                           liksom e jamna seg ut så det er meir likt # mot det 
+                           var da
+
+int                        mm
+
+int_orthography            mm
+
+int                        ja # meir # forskjell før ?
+
+int_orthography            ja # meir # forskjell før ?
+
+sel_uio_0301               de va meir fåsjæll før ja
+
+sel_uio_0301_orthography   det var meir forskjell før ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        og Otta likna meir på Heidalen her %u
+
+int_orthography            og Otta likna meir på Heidalen her %u
+
+sel_uio_0301               æe liggna mæi å ja de e stor fåsjell på ee # på på 
+                           Låmm å Otta sjøLsakkt %u
+
+sel_uio_0301_orthography   det likna meir å ja det er stor forskjell på e # på 
+                           på Lom og Otta sjølvsagt %u
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               Otta æ vell vorrte sjlik ee bLanndingspråk sjlik 
+                           stasjonsbyspråk # ja
+
+sel_uio_0301_orthography   Otta har vel vorte slikt e blandingsspråk slikt 
+                           stasjonsbyspråk # ja
+
+int                        ja ja ja %u
+
+int_orthography            ja ja ja %u
+
+sel_uio_0301               å …
+
+sel_uio_0301_orthography   og …
+
+int                        men det har vel kanskje jamna seg meir oppover ?
+
+int_orthography            men det har vel kanskje jamna seg meir oppover ?
+
+sel_uio_0301               ja te ælle kannta de æ vell ee # n- særle nå da veit 
+                           du nær denna teven såmm jær att nå fåsjtår nå vell 
+                           heile lannde ina'n
+
+sel_uio_0301_orthography   ja til alle kantar det er vel e # n- særleg nå da 
+                           veit du når denne tv-en som gjer at n forstår nå vel 
+                           heile landet einannan
+
+int                        ja # %u
+
+int_orthography            ja # %u
+
+sel_uio_0301               mænn ee # e kåmm hæilt upp te Sjåk væit du å
+
+sel_uio_0301_orthography   men e # eg kom heilt opp til Skjåk veit du og
+
+sel_uio_0301               nei eg finne mæi en hesst såmm n sa n ee hær KLe- 
+                           hær prata demm rart sa n ee # kellja da # « 
+                           rannkjinn fårr hannspik» sa n
+
+sel_uio_0301_orthography   nei eg finn meg ein hest som han sa han e her Kle- 
+                           her prata rdei rart sa han e # kallar da # « ranken 
+                           for handspik» sa han
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0301               vett du kå de æ ?
+
+sel_uio_0301_orthography   veit du kva det er ?
+
+int                        +l nei
+
+int_orthography            +l nei
+
+sel_uio_0301               de e asså ee enn ee # æsjtatter fårr e spett
+
+sel_uio_0301_orthography   det er altså e ein e # erstattar for eit spett
+
+int                        åh
+
+int_orthography            å
+
+sel_uio_0301               ja # så finn du de jenne en støur å bryt mæ ell 
+                           letta på  ænkånn mæ
+
+sel_uio_0301_orthography   ja # så finn du deg gjerne ein staur og bryt med 
+                           eller lettar på eitkvart med
+
+int                        ja da  ja da # å ja
+
+int_orthography            ja da ja da # å ja
+
+sel_uio_0301               å ee # i stann fårr en hannspik dær oppi # Sjåk 
+                           kallar emm de ranngkje
+
+sel_uio_0301_orthography   og e # i staden for ein handspik der oppi # Skjåk 
+                           kallar dei det ranke
+
+int                        %l var like gale for dykk %l
+
+int_orthography            %l var like gale for dykk %l
+
+sel_uio_0301               ja # menn ee # da va de «næi fe nå hæill jøLe så de 
+                           hæinng » sa n %l
+
+sel_uio_0301_orthography   ja # men e # da var det « nei får no heller gyrde så 
+                           det heng» sa han %l
+
+int                        åh ? kva det er ?
+
+int_orthography            å ? kva det er ?
+
+sel_uio_0301               ja så de va # fått på lasse da så
+
+sel_uio_0301_orthography   ja så det var # fått på lasset da så
+
+sel_uio_0301               skull n da jøLe da såmm enn sa de va nå kje så store 
+                           lasstebile de va ikkje +u(nåkka sånn) tri tånn å 
+                           sjlikkt da vet du
+
+sel_uio_0301_orthography   skulle ein da gyrde da som han sa men var nå ikkje 
+                           så store lastebilar det var ikkje +u(noko sånn) tre 
+                           tonn og slikt da veit du
+
+int                        ja
+
+int_orthography            ja
+
+int                        nei
+
+int_orthography            nei
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               å så va de # va de ope lasstebil da # så va de j- å 
+                           mure uppå dænna kall'n da
+
+sel_uio_0301_orthography   og så var det # var det open lastebil da # så var 
+                           det j- å mure oppå denne kallen da
+
+sel_uio_0301               gammLe dålige bile væt du de va kkje denn # 
+                           bilparrken demm har i dag
+
+sel_uio_0301_orthography   gamle dårlege bilar veit du det var ikkje den # 
+                           bilparken dei har i dag
+
+int                        hm
+
+int_orthography            hm
+
+sel_uio_0301               åsså va de slejje å tøug da
+
+sel_uio_0301_orthography   også var det slegge og tau da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               samme se jenne fåLLk da såmm
+
+sel_uio_0301_orthography   samla seg gjerne folk da som
+
+sel_uio_0301               va me få morro sjyll da %k tå kjenningom så va en 
+                           lanng tur frå Sjåk å hit å %u åt Ottun % sto n på 
+                           anndre sidn na hinn da så
+
+sel_uio_0301_orthography   var med for moro skyld da %k av kjenningane så var 
+                           ein lang tur frå Skjåk og hit og %u åt Otta % stod 
+                           han på andre sida denne hin da så
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               to imot tøuge å hækkta på kroken dær da
+
+sel_uio_0301_orthography   tok imot tauet og hekta på kroken der da
+
+sel_uio_0301               +u(va ee de mæsste) «fe nå hæill jøLe så de hæinng » 
+                           sa n %l
+
+sel_uio_0301_orthography   +u(var e det meste) «får nå heller gyrde så det heng 
+                           » sa han %l
+
+int                        så det vheng ?
+
+int_orthography            så det heng ?
+
+sel_uio_0301               ja n sku ee # jøLe de s- jøLe så sjikkele att de 
+                           ikkje dætt tå
+
+sel_uio_0301_orthography   ja han skulle e # gyrde det s- gyrde så skikkeleg at 
+                           det ikkje dett av
+
+int                        å ja # ja visst ja # akkurat # %u
+
+int_orthography            å ja # ja visst ja # akkurat # %u
+
+sel_uio_0301               ja % «du må da jøLe så de hæinng » s- n %l
+
+sel_uio_0301_orthography   ja %l «du må da gyrde så det heng » sa ahn %l
+
+int                        ja også «heng» ja %l det er sant det det er forskjell
+
+int_orthography            ja også «heng» ja %l det er sant det det er forskjell
+
+sel_uio_0301               ja %k
+
+sel_uio_0301_orthography   ja %k
+
+sel_uio_0301               ja ellesj så ha de nå vorre småohell å sjlik ee # de 
+                           ha åss # fårr eksæmmpel
+
+sel_uio_0301_orthography   ja elles så har det nå vore småuhell og slik e # det 
+                           har vi # for eksempel
+
+sel_uio_0301               da åss hadde eit lokk hær så va lite grann leitt ei 
+                           stonn ee dellte se i to ve pænns'n %l
+
+sel_uio_0301_orthography   da vi hadde eit lok her så var lite grann leitt ei 
+                           stund e delte seg i to ved pensen %l
+
+int                        å nei
+
+int_orthography            å nei
+
+sel_uio_0301               eit # frammdeln jekk åt eit spor å anndre hann jekk 
+                           +u ja åt anndre spore
+
+sel_uio_0301_orthography   eit # framdelen gjekk åt eit spor og andre han gjekk 
+                           +u ja åt andre sporet
+
+int                        %u
+
+int_orthography            %u
+
+int                        så braut det sundt
+
+int_orthography            så braut det sundt
+
+sel_uio_0301               kjømm væL i hog ja hann dellte se de va de ær ett 
+                           kåbbeL da imillom
+
+sel_uio_0301_orthography   kjem vel i hug ja han delte seg det var det er eit 
+                           koppel da imellom
+
+int                        ja
+
+int_orthography            ja
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               så ee dær å da %u å de kore såmm # de va da dellt så 
+                           de va vell ett ee en krok å sså va de sjlike # 
+                           seilduke
+
+sel_uio_0301_orthography   så e der og da %u og det koret som # det var da delt 
+                           så det var vel eit e ein krok og så var det slike # 
+                           segldukar
+
+int                        ja # å ja
+
+int_orthography            ja # å ja
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               såmm va likksåm # imilom da bakparrt å frammparrt 
+                           såmm ## dækkte sjlik att d ikkje trækkte da
+
+sel_uio_0301_orthography   som var liksom # imellom da bakpart og frampart som 
+                           ## dekte slik at det ikkje trekte da
+
+int                        ja hm
+
+int_orthography            ja hm
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å e hukksa enn gå e va på sjifftemasjin en kvæll
+
+sel_uio_0301_orthography   og eg hugsar ein gong eg var på skiftemaskin ein 
+                           kveld
+
+sel_uio_0301               de va M1 å så va de M2
+
+sel_uio_0301_orthography   det var M1 og så var det M2
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               +u(va de ett +u vær åsså dellt o se da) # +u( de e 
+                           ett sjifft fårr øss )
+
+sel_uio_0301_orthography   +u(var det eit +u kvar også delte ho seg da) # +u( 
+                           det er eit skift for oss )
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å så # M2 va # %u vet du
+
+sel_uio_0301_orthography   og så # M2 var # %u veit du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               M1 satt attpå na dærre del'n såmm hann sadd å kjørde 
+                           vet du hann M2 hann +u ha # %u sku læmmpe på da sto 
+                           enn på # anndre hæLLvdel'n tå gåLLve
+
+sel_uio_0301_orthography   M1 sat attpå denne +x_derre delen som han sat og 
+                           køyrde veit du han M2 han +u hadde # %u skulle lempe 
+                           på da stod han på # andre halvdelen av golvet
+
+int                        oi
+
+int_orthography            oi
+
+int                        nei nei
+
+int_orthography            nei nei
+
+sel_uio_0301               å så hanng d'n # matfLæsska si ee mat- ee 
+                           kaffefLæsska da denn hanng såmm regel på 
+                           instrumenntun på # kjeln å de va varnt dær inne væit 
+                           du
+
+sel_uio_0301_orthography   og så hang den # matflaska si e mat- e kaffiflaska 
+                           da den hang som regel på instrumenta på # kjelen og 
+                           det var varmt der inne veit du
+
+int                        ja +u vel
+
+int_orthography            ja +u vel
+
+int                        ja mm mm
+
+int_orthography            ja mm mm
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               da sku kaffen sku helle se varrm å de va # dæ va 
+                           allminnle ## tripelfLæsske da
+
+sel_uio_0301_orthography   da skulle kaffien skulle halde seg varm og det var # 
+                           det var alminneleg ## +x_trepelflaske da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å kaffe me fLøyte på ## såmm va i denna s- fLasskun 
+                           såmm står dær
+
+sel_uio_0301_orthography   og kaffi med fløyte på ## som var i denne s- flaska 
+                           som står her
+
+int                        ja ja
+
+int_orthography            ja ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å de rofft n fra eine spore n M2
+
+sel_uio_0301_orthography   og det ropte han frå eine sporet han M2
+
+sel_uio_0301               å åt omm M1 «M1» se enn « kasst ut fLasska mi » %l
+
+sel_uio_0301_orthography   og åt han M1 «M1» sa han « kast ut flaska mi » %l
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0301               «kaffen minn» står %u %l +l ja
+
+sel_uio_0301_orthography   «kaffien min» står %u %l +l ja
+
+int                        han tok det så +l gale ja
+
+int_orthography            han tok det så +l gale ja
+
+int                        ja ja # er det artig med slikt humør i arbeidslivet ?
+
+int_orthography            ja ja # er det artig med slikt humør i arbeidslivet ?
+
+sel_uio_0301               ja da
+
+sel_uio_0301_orthography   ja da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å de va ## mykkje mæir tonngvinnt sjifft ja de va de 
+                           va %u de va kkje ann måte å jæra de på fårr de va
+
+sel_uio_0301_orthography   og det var ## mykje meir tungvint skift ja det var 
+                           det var %u det var ikkje annan måte å gjere det på 
+                           for det var
+
+sel_uio_0301               de va vånngne såmm de va bremmso på # å vånngne såmm 
+                           de ikkje va bremmse på
+
+sel_uio_0301_orthography   det var vogner som det var bremser på # og vogner 
+                           som det ikkje var bremse på
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å sså va re vånngne såmm de va ikkje va ledning på 
+                           heile tatt
+
+sel_uio_0301_orthography   og så var det vogner som det var ikkje var leidning 
+                           på heile tatt
+
+int                        åh
+
+int_orthography            å
+
+sel_uio_0301               å skull på såmmå ste
+
+sel_uio_0301_orthography   og skulle på same stad
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               såmm nå banestrækkning di fårr eksemmpel noråver ## 
+                           så mått du ha ei gruppe # dær de va bremmså
+
+sel_uio_0301_orthography   som nå banestrekningane dei for eksempel nordover ## 
+                           så måtte du ha ei gruppe # der det var bremser
+
+int                        ja ja mm
+
+int_orthography            ja ja mm
+
+int                        jaha
+
+int_orthography            jaha
+
+sel_uio_0301               ta å ## åss ha me denn gruppa da # såmm ikkje ha ei 
+                           åt Trånnjæmm å æi te OppdaL Dommbås inni
+
+sel_uio_0301_orthography   ta og ## vi hadde med den gruppa da # som ikkje 
+                           hadde ei åt Trondheim og ei  til Oppdal Dombås inni
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å da fækk du vållsåmmt sjiffte på di stassjon såmm 
+                           toge da jekk føbi
+
+sel_uio_0301_orthography   og da fekk du valdsamt skifte på dei stasjonane som 
+                           toget da gjekk forbi
+
+sel_uio_0301               menn så sku sammLe sjlik att du fækk ## bære sætt ut 
+                           me eitt sjifft da på di stasjonåm
+
+sel_uio_0301_orthography   men så skulle samle slik at du fekk ## berre sette 
+                           ut med eitt skift da på dei stasjonane
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å de æ jåbben da består ass i sammLe hop di gruppun 
+                           da
+
+sel_uio_0301_orthography   og det er jobben da består altså i samle opp dei 
+                           gruppene da
+
+int                        det var hodebry det %l
+
+int_orthography            det var hovudbry det %l
+
+sel_uio_0301               ja da de va ee stor fåsjell på # måtin di sjiffta på 
+                           de va nesst'n så de kåmm framm
+
+sel_uio_0301_orthography   ja da det var e stor forskjell på # måten dei skifta 
+                           på det var nesten så det kom fram
+
+sel_uio_0301               å så intligennsen da på hann sjifftarn # så de va 
+                           stor fåsjæll på # sjifftare
+
+sel_uio_0301_orthography   og så intelligensen da på han skiftaren # så det var 
+                           stor forskjell på # skiftarar
+
+int                        måtte nesten # prøve det på papir først dette
+
+int_orthography            måtte nesten # prøve det på papir først dette
+
+sel_uio_0301               detta ha di i huggu
+
+sel_uio_0301_orthography   dette hadde dei i hovudet
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0301               å ## de jikk såmm regel bra asså minnst mole sjifft 
+                           minnst mogle drag fårr å få de %u de bi sjakktrekk
+
+sel_uio_0301_orthography   og ## det gjekk som regel bra altså minst mogleg 
+                           skift minst mogleg drag for å få det %u det blir 
+                           sjakktrekk
+
+int                        ja akkurat
+
+int_orthography            ja akkurat
+
+sel_uio_0301               ja
+
+sel_uio_0301_orthography   ja
+
+sel_uio_0301               de kænn allså da me eitt trekk så ee gaLe # så kann 
+                           de bli så gaLe att du # må jera de upp att å bynne 
+                           ifrå fysst'n
+
+sel_uio_0301_orthography   det kan altså da med eitt trekk så e gale # så kan 
+                           det bli så gale at du # må gjere det opp att og 
+                           begynne ifrå førsten
+
+int                        det er ikkje meint det at ein skal slutte å arbeide 
+                           rundt på jernbanen kanskje ? %l
+
+int_orthography            det er ikkje meint det at ein skal slutte å arbeide 
+                           rundt på jernbanen kanskje ? %l
+
+sel_uio_0301               de va nåkk ee # de såmm æ åsjake te att de detta ha 
+                           kåmme
+
+sel_uio_0301_orthography   det var nok e # det som er årsaka til at det dette 
+                           har komme
+
+int                        ja ?
+
+int_orthography            ja ?
+
+sel_uio_0301               de æ dæ att ee ## di fåLLkje såmm # kåmm frå Hammar 
+                           å # låg åver hær
+
+sel_uio_0301_orthography   det er det at e ## dei folka som # kom frå Hamar og 
+                           # låg over her
+
+int                        hm
+
+int_orthography            hm
+
+sel_uio_0301               demm kåmm da hit neppå i unifårrm å sto hær å # såg 
+                           på trafikken
+
+sel_uio_0301_orthography   dei kom da hit nedpå i uniform og stod her og # såg 
+                           på trafikken
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0301               å dessa trudde fåLLk ha arrbei da vet du # %l
+
+sel_uio_0301_orthography   og desse trudde folk hadde arbeid da veit du # %l
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å de ee de va kkje sannt mænn ee
+
+sel_uio_0301_orthography   og det e det var ikkje sant men e
+
+sel_uio_0301               næi de ha nå våre de ha våre mykkje # mykkje arrbei 
+                           å så æ de de att akkoratt i ## ee togtien så e de %u 
+                           pæsjon
+
+sel_uio_0301_orthography   nei det nå har vore det har vore mykje # mykje 
+                           arbeid og så er det det at akkurat i ## e togtidene 
+                           så er det %u person
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               togtien
+
+sel_uio_0301_orthography   togtidene
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               dær må du da hå så mykkje fåLLk att ee ## du fæ 
+                           onnajorrt detta dære # jåbben dær akkurat nårr toge 
+                           kjæme så forrt såmm dæ æ rå
+
+sel_uio_0301_orthography   der må du da ha så mykje folk at e ## du får 
+                           unnagjort dette +x_derre # jobben der akkurat når 
+                           toget kjem så fort som det er råd
+
+int                        mm mm
+
+int_orthography            mm mm
+
+sel_uio_0301               dæffår så står fåLLkje dær å vænnta
+
+sel_uio_0301_orthography   derfor så står folket der og ventar
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å vennte på att demm skall sette i ganng nårr de 
+                           toge kjæmm så da # fLy åss ått me # å tæ vår di 
+                           jobben åss væt åss ska jæra
+
+sel_uio_0301_orthography   og venter på at dei skal sette i gang når det toget 
+                           kjem så da # flyg vi åt med # og tar vår dei jobbane 
+                           vi veit vi skal gjere
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å da # kjømm demm massa te ællje kannta da ee ## da 
+                           æ de gått å væra jøLLpa
+
+sel_uio_0301_orthography   og da # kjem dei +u(masse til alle kantar) da e ## 
+                           da er det godt å vere hjelpa
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               mænn så innte dæ # å så sitt emm da å vænnta på toge 
+                           da å ja næi hær æ mykkje fåLLk hær driv demm me bære 
+                           å prata tull %l så e e trur de e mykkje tå de # ja # 
+                           ja
+
+sel_uio_0301_orthography   men så inntil det # og så sit dei da og ventar på 
+                           toget da og ja nei her er mykje folk her driv dei 
+                           med berre og pratar tull %l så eg eg trur det er 
+                           mykje av det # ja # ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        +l ja # ja da heilt klart
+
+int_orthography            +l ja # ja da heilt klart
+
+int                        det er vel no og ein %u ventejobb du må stå heilt 
+                           klar ja
+
+int_orthography            det er vel nå og ein %u ventejobb du må står heilt 
+                           klar ja
+
+sel_uio_0301               ja ja # ja ja å så æ de pæriode såmm de æ lite å 
+                           jæra da væt du sjøsjakkt å de e da # fåLLk ser de 
+                           att menn %u # «sitt du dær he ?» %l
+
+sel_uio_0301_orthography   ja ja # ja ja og så er det periodar som det er lite 
+                           å gjere da veit du sjølvsagt og det er da # folk ser 
+                           det at men %u # «sit du der hæ ?» %l
+
+int                        ja mm
+
+int_orthography            ja mm
+
+int                        ja # mm
+
+int_orthography            ja # mm
+
+int                        %l ja
+
+int_orthography            %l ja
+
+sel_uio_0301               så denn ee de æ nåkk en del tå åsjaken te dette hære
+
+sel_uio_0301_orthography   så den e det er nok ein del av årsaka til dette 
+                           +x_herre
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               åsså har u fri da # +u(sa demm) «har du fri i dag 
+                           øu» # ja
+
+sel_uio_0301_orthography   også har du fri da # +u(sa dei) «har du fri i dag 
+                           au» # ja
+
+int                        jaha
+
+int_orthography            jaha
+
+int                        +l ja
+
+int_orthography            +l ja
+
+sel_uio_0301               menn så jåbba du da ee # annkårr hæLLg
+
+sel_uio_0301_orthography   men så jobbar du da e # annakvar helg
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0301               du jere tri dågå på æi hæLLg vet du
+
+sel_uio_0301_orthography   du gjer tre dagar) på ei helg veit du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               du sier sonndan da konn du jæra hadde du da fysst
+
+sel_uio_0301_orthography   du seier søndagen da kunne du gjere hadde du da først
+
+sel_uio_0301               da kunn du jåbbe fårr eksæmmpel e kann si bærre de 
+                           gammLe sjiffte frå sækks te to
+
+sel_uio_0301_orthography   da kunne du jobbe for eksempel eg kan seie berre det 
+                           gamle skiftet frå seks til to
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               åsså jekk du på natt umm kvæll
+
+sel_uio_0301_orthography   også gjekk du på natt om kvelden
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å sså natt te # sonndaskvæll'n att
+
+sel_uio_0301_orthography   og så natt til # søndagskvelden att
+
+int                        ja ja
+
+int_orthography            ja ja
+
+sel_uio_0301               så ha u jorrt da tri sjifft frå sækks læurdagsmårrgo 
+                           te o va sækks månndasmårrgo da ha du jorrt tri dåggå 
+                           du
+
+sel_uio_0301_orthography   så har du gjort da tre skift frå seks 
+                           laurdagsmorgonen til ho var seks måndagsmorgonen da 
+                           har du gjort tre dagar du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               mæ di anndre a sutte heme å prate me kjærring å 
+                           onngee
+
+sel_uio_0301_orthography   med dei andre har sete heime og prata med kjerring 
+                           og ungar
+
+int                        +u familien %u
+
+int_orthography            +u familien %u
+
+sel_uio_0301               da må du da få fri att en to-tri dåggå mitt i vikun 
+                           væit du # ja
+
+sel_uio_0301_orthography   da må du da få fri att ein to-tre dagar midt i veka 
+                           veit du # ja
+
+int                        men det har ikkje vore skikkeleg forstått veit
+
+int_orthography            men det har ikkje vore skikkeleg forstått veit
+
+sel_uio_0301               næi de e trur nåkk de
+
+sel_uio_0301_orthography   nei det eg trur nok det
+
+int                        det er # framleis eit slikt vaktarbeid da ?
+
+int_orthography            det er # framleis eit slikt vaktarbeid da ?
+
+sel_uio_0301               ja de æ sjifftarrbei ja
+
+sel_uio_0301_orthography   ja det er skiftarbeid ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0301               å ee de e asså # ikkje å fåretrekkje
+
+sel_uio_0301_orthography   og e det er altså # ikkje å føretrekke
+
+int                        %u
+
+int_orthography            %u
+
+int                        %u
+
+int_orthography            %u
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+

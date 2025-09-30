@@ -1,0 +1,2974 @@
+int                        %u # og
+
+int_orthography            %u # og
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+int                        du veit du voks vel opp på eit # postkontor nær- 
+                           nærmast du
+
+int_orthography            du veit du voks vel opp på eit # postkontor nær- 
+                           nærmast du
+
+sel_uio_0101               ja # e # joLe o dæ veit du
+
+sel_uio_0101_orthography   ja # eg # gjorde jo det veit du
+
+sel_uio_0101               n far va jo påsståpner veit du å # å e våkks jo upp 
+                           i detta milljøe
+
+sel_uio_0101_orthography   han far var jo postopnar veit du og # og eg voks jo 
+                           opp i dette miljøet
+
+sel_uio_0101               å sjøsjakkt så # varrt e påsstmann e øu veit du 
+                           akk'ra såmm hænnj
+
+sel_uio_0101_orthography   og sjølvsagt så # vart eg postmannen eg au veit du 
+                           akkurat som han
+
+sel_uio_0101               å da e va # ee sækkst'n år så bynnte såmm asistennt 
+                           fårr hænnj å
+
+sel_uio_0101_orthography   og da eg var # e seksten år så begynte som assistent 
+                           for han og
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               å så fLøtta hann te Strømmen da fårr da varrt n 
+                           påsstsjef påsstmesster dær å
+
+sel_uio_0101_orthography   og så flytta han til Strømmen da for da vart han 
+                           postsjef postmeister der og
+
+sel_uio_0101               å da ee # varrt e # konstu- konstituert dær da # 
+                           Otta ## i åttåførr
+
+sel_uio_0101_orthography   og da e # vart eg # konstu- konstituert der da # 
+                           Otta ## i åtteogførti
+
+sel_uio_0101               å dær varrt e heilt te firåfæmmti
+
+sel_uio_0101_orthography   og der vart eg heilt til fireogfemti
+
+int                        %u var det %u utvikling eller forandring på Otta den 
+                           tida med omsyn til ee
+
+int_orthography            %u var det %u utvikling eller forandring på Otta den 
+                           tida med omsyn til e
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               ja # du de va kje så mye prikk- …
+
+sel_uio_0101_orthography   ja # du det var ikkje så mykje prikk- …
+
+int                        var det opneri # til å begynne med eller ?
+
+int_orthography            var det opneri # til å begynne med eller ?
+
+sel_uio_0101               ja # påsståpneri ja
+
+sel_uio_0101_orthography   ja # postopneri ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               å så ee # varrt de konntor da i nitt'nfireåfæmmti
+
+sel_uio_0101_orthography   og så e # vart det kontor da i nittenfireogfemti
+
+sel_uio_0101               da fækk åss påsstkontor da veit du
+
+sel_uio_0101_orthography   da fekk vi postkontor da veit du
+
+sel_uio_0101               da varrt de E1 såmm bLei denn føssjte påsstmæsster 
+                           på Otta
+
+sel_uio_0101_orthography   da vart det E1 som blei den første postmeister på 
+                           Otta
+
+int                        kva slags nye funksjonar kom %u ?
+
+int_orthography            kva slags nye funksjonar kom %u ?
+
+sel_uio_0101               %q # ja
+
+sel_uio_0101_orthography   %q # ja
+
+sel_uio_0101               ja da varrt de jo Ottadarn såmm bLei hass disstrikkt 
+                           da ## me åtte påsståpnerie å enn del brevhus
+
+sel_uio_0101_orthography   ja da vart det jo Ottadalen som blei hans distrikt 
+                           da ## med åtte postopneri og ein del brevhus
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               så hann hadde allså tatt åver ee ## Lillehammer sinn 
+                           fungsjon da
+
+sel_uio_0101_orthography   så han hadde altså tatt over e ## Lillehammer sin 
+                           funksjon da
+
+sel_uio_0101               %k %u å i nitt'nfiråfæmmti # varrt de påsstkontor
+
+sel_uio_0101_orthography   %k %u og i nittenfireogfemti # vart det postkontor
+
+sel_uio_0101               å fækk allså ee # OttedaLn såmm # åmmråde
+
+sel_uio_0101_orthography   og fekk altså e # Ottadalen som # område
+
+sel_uio_0101               å ee ## ommråde tre- strakkte se da heilt te Grotli 
+                           ## å Jænndeseim
+
+sel_uio_0101_orthography   og e ## området tre- strekte seg da heilt til Grotli 
+                           ## og Gjendesheim
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               menn dømm to va allså sesånngpåståpneri dømm
+
+sel_uio_0101_orthography   men dei to var altså sesongpostopneri dei
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+int                        viss du tenker på ## staden dei # de var på # %u 
+                           +u(og litt slik)
+
+int_orthography            viss du tenker på ## staden dei # de var på # %u 
+                           +u(og litt slik)
+
+sel_uio_0101               mm
+
+sel_uio_0101_orthography   mm
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               ja # du veit de va e lite lokale åss hade veit du
+
+sel_uio_0101_orthography   ja # du veit det var eit lite lokale vi hadde veit du
+
+sel_uio_0101               de va ein del av # butikken N1
+
+sel_uio_0101_orthography   det var ein del av # butikken N1
+
+int                        mm mm
+
+int_orthography            mm mm
+
+sel_uio_0101               akkerat såmm de æ på Øvrinngen i dag einn # 
+                           påsståpneri å ## å ein påsst- # å butikk
+
+sel_uio_0101_orthography   akkurat som det er på Høvringen i dag eit # 
+                           postopneri og ## og ein post- # og butikk
+
+sel_uio_0101               de va tranngt åss hade to lannpåsstbud å dømm ## 
+                           jåbba innje bLannt ee # sjokoladebehållningen våre å 
+                           # tobakken å
+
+sel_uio_0101_orthography   det var trongt vi hadde to landpostbod og dei ## 
+                           jobba inne blant e # sjokoladebehaldninga vår og # 
+                           tobakken og
+
+sel_uio_0101               akkera sjlikkt såmm de va
+
+sel_uio_0101_orthography   akkurat slikt som det var
+
+sel_uio_0101               te døkk +l kannsje %l
+
+sel_uio_0101_orthography   til dykk +l kanskje %l
+
+sel_uio_0101               jaa
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               du hukksa nn ee M1 hænnj va jo lannpåsstbud å hænnj 
+                           ee # hænnj sykkla jo dennj gånngen
+
+sel_uio_0101_orthography   du hugsar han e M1 han var jo landpostbod og han e # 
+                           han sykla jo den gongen
+
+sel_uio_0101               a da kåmm påsst'n åt Otta ve firetia ## mett i dagen 
+                           å fåLLk sto uttaførr å vænnta å
+
+sel_uio_0101_orthography   og da kom posten åt Otta ved firetida ## midt i 
+                           dagen og folk stod utanfor og venta og
+
+sel_uio_0101               å da hænnj va færdi me sitt så tok enn åt å sykkla # 
+                           oppi Veggum omm kvelln
+
+sel_uio_0101_orthography   og da han var ferdig med sitt så tok han åt og sykla 
+                           # oppi Veggum om kvelden
+
+sel_uio_0101               næ fårresst'n du hænnj sykkla vell ee # næsste dag 
+                           hænnj
+
+sel_uio_0101_orthography   nei forresten du han sykla vel e # neste dag han
+
+sel_uio_0101               va E2 dæ hænnj sykkla åsså åt Sells veit du på # å 
+                           va neåver mot N2
+
+sel_uio_0101_orthography   var E2 det han sykla også åt Sel veit du på # og var 
+                           nedover mot N2
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               ms n M1 hænnj hadde da UttadaLn
+
+sel_uio_0101_orthography   mens han M1 han hadde da Ottadalen
+
+sel_uio_0101               mænn hænnj vænnta te nesste dag da
+
+sel_uio_0101_orthography   men han venta til neste dag da
+
+sel_uio_0101               å ## hænnj ee # nå n kåmm åt Væggum da så va da # va 
+                           nå dær innje å drakk kaffe å sjlik
+
+sel_uio_0101_orthography   og ## han e # når han kom åt Veggum da så var da # 
+                           var nå der inne og drakk kaffi og slikt
+
+sel_uio_0101               menn nårr n ee sku åver æLLva # så ee # åffte att n 
+                           tok na dærre ## ee # sjlik ei såmm enn # sænne varer 
+                           åver æLLva me
+
+sel_uio_0101_orthography   men når han e skulle over elva # så e # ofte at han 
+                           tok denne +x_derre ## e # slik ei som ein # sender 
+                           varer over elva med
+
+int                        løypestreng ?
+
+int_orthography            løypestreng ?
+
+sel_uio_0101               akkerat
+
+sel_uio_0101_orthography   akkurat
+
+sel_uio_0101               dænn brukkte hænnj
+
+sel_uio_0101_orthography   den brukte han
+
+sel_uio_0101               tok sykkel'n påss'n å se sjøL uppi dær å strækkte se 
+                           åver
+
+sel_uio_0101_orthography   tok sykkelen posten og seg sjølv oppi der og strekte 
+                           seg over
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               %l
+
+sel_uio_0101_orthography   %l
+
+sel_uio_0101               va nokkså kallt manng ein gånng så
+
+sel_uio_0101_orthography   var nokså kaldt mang ein gong så
+
+sel_uio_0101               ennj gånng så sa hann deæ att «e va så kellj da e 
+                           kåmm åver att e greidde kje en gånng å si « Barbro» 
+                           da e kåmm åver » sa n %l
+
+sel_uio_0101_orthography   ein gong så sa han det at «eg var så kald da eg kom 
+                           over at eg greidde ikkje ein gong å seie « Barbro» 
+                           da eg kom over » sa han %l
+
+sel_uio_0101               å dær va vell litt s- # frykktli vannskli å si dæ 
+                           oLe da
+
+sel_uio_0101_orthography   og der var vel litt s- # frykteleg vanskeleg å seie 
+                           det ordet da
+
+int                        han hadde stiv
+
+int_orthography            han hadde stiv
+
+sel_uio_0101               ja # heilt stiv
+
+sel_uio_0101_orthography   ja # heilt stiv
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               du allså utvikkLingen dæ va nå væll att- ## va kkje 
+                           særli bedriffter på Otta dennj ganngen de va ## bære 
+                           nånn butikker å # komunale konntorer
+
+sel_uio_0101_orthography   du altså utviklinga det var nå vel at- ## var ikkje 
+                           særleg bedrifter på Otta den gongen det var ## berre 
+                           nokre butikkar og # kommunale kontor
+
+sel_uio_0101               %k
+
+sel_uio_0101_orthography   %k
+
+sel_uio_0101               så åss greid åss jo mæ # påsståpner å ## å asistænnt 
+                           da
+
+sel_uio_0101_orthography   så vi greidde oss jo med # postopnar og ## og 
+                           assistent da
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               ja åss greidd åss mæ påsståpner å asistænnt ja # s- 
+                           såmm e da va oss nn far
+
+sel_uio_0101_orthography   ja vi greidde oss med postopnar og assistent ja # s- 
+                           som eg da var hos han far
+
+sel_uio_0101               mænn # så bynnte de å bli litt tranngt på # konntore 
+                           da veit du ja dæ va dæ nå lennge så # hadde 
+                           påsstværrke pLaner omm å # få de te å bLi konntor # 
+                           mænn de stranna jo på lokaler
+
+sel_uio_0101_orthography   men # så begynte det å bli litt trongt på # kontoret 
+                           da veit du ja det var det nå lenge så # hadde 
+                           postverket planar om å # få det til å bli kontor # 
+                           men det stranda jo på lokale
+
+sel_uio_0101               akkerat såmm i dag # %l
+
+sel_uio_0101_orthography   akkurat som i dag # %l
+
+sel_uio_0101               å te sjlutt så fækk dæmm allså leid på Okåbe sitt # 
+                           %u # Okåbe sitt ee lokale da på opp ve sia tå # 
+                           Grann Hotell
+
+sel_uio_0101_orthography   og til slutt så fekk dei altså leidd på OKB sitt # 
+                           %u # OKB sitt e lokale da på oppe ved sida av # 
+                           Grand hotell
+
+sel_uio_0101               så i nitt'nfirråfæmmti # så bLei allså påsskontor
+
+sel_uio_0101_orthography   så i nittenfireogfemti # så blei altså postkontor
+
+sel_uio_0101               å da va nn # E1 såmm bLei påsstmæsster
+
+sel_uio_0101_orthography   og da var han # E1 som blei postmeister
+
+sel_uio_0101               å e varrt da asistænnt
+
+sel_uio_0101_orthography   og eg vart da assistent
+
+sel_uio_0101               å dær ha e værrt sia
+
+sel_uio_0101_orthography   og der har eg vore sidan
+
+sel_uio_0101               menn du veit utvikkLinga ha jo gått på Otta nå å så 
+                           nå ee ## nå æ de ju fullt me bedriffter å # 
+                           konntorer veit du å skoLer
+
+sel_uio_0101_orthography   men du veit utviklinga har jo gått på Otta nå og så 
+                           nå e ## nå er det jo fullt med bedrifter og # kontor 
+                           veit du og skolar
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               så nå æ åss vell enn # fæmmt'n-sækkst'n stykker # på 
+                           Otta påsstkontor
+
+sel_uio_0101_orthography   så nå er vi vel ein # femten-seksten stykke # på 
+                           Otta postkontor
+
+sel_uio_0101               så dæ %k
+
+sel_uio_0101_orthography   så det %k
+
+sel_uio_0101               menn nå e dæ lokale øu bLitt fårr ja så fækk åss jo 
+                           nye lokaler ti # føssjt på sækkstitaLe fårr på Grann 
+                           varrt de elle på # Okåbe varrt de fårr tranngt
+
+sel_uio_0101_orthography   men nå er det lokalet au blitt for ja så fekk vi jo 
+                           nye lokale til # først på sekstitalet for på Grand 
+                           vart det eller på # OKB vart det for trongt
+
+sel_uio_0101               å dær åss æ nå # så æ de jo alltfår tranngt
+
+sel_uio_0101_orthography   og der vi er nå # så er det jo altfor trongt
+
+sel_uio_0101               smyg åss næsst'n fårrbi væranndre veit du
+
+sel_uio_0101_orthography   smyg oss nesten forbi kvarandre veit du
+
+sel_uio_0101               å så
+
+sel_uio_0101_orthography   og så
+
+int                        er nokon byggeplanar
+
+int_orthography            er nokon byggeplanar
+
+sel_uio_0101               ja allså komun'n ee # ell ha værrt inni billde da 
+                           mænn
+
+sel_uio_0101_orthography   ja altså kommunen e # eller har vore inni bildet da 
+                           men
+
+sel_uio_0101               dæmm ha kje gred å skaffa någån # så nå
+
+sel_uio_0101_orthography   dei har ikkje greidd å skaffe nokon # så nå
+
+sel_uio_0101               deda kjøpesænntre såmm du sikkert ha hørt omm så 
+                           skulle bLi # dær da
+
+sel_uio_0101_orthography   dette kjøpesenteret som du sikkert har høyrt om som 
+                           skulle bli # der da
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0101               allså innpå Grann att på nytt
+
+sel_uio_0101_orthography   altså innpå Grand att på nytt
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               menn dæ se kje ut såmm vill gå så nå tru e de bLi ## 
+                           dette hærre N2-bygge såmm du kannsje ha hørt omm
+
+sel_uio_0101_orthography   men det ser ikkje ut som vil gå så nå trur eg det 
+                           blir ## dette +x_herre N2-bygget som du kanskje har 
+                           høyrt om
+
+sel_uio_0101               %k
+
+sel_uio_0101_orthography   %k
+
+int                        ee ja
+
+int_orthography            e ja
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               menn de æ kje ænndele bestæmmt mænn de eineste 
+                           tillbude påsstværrke har så
+
+sel_uio_0101_orthography   men det er ikkje endeleg bestemt men det einaste 
+                           tilbodet postverket har så
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               så de sannsynlivis bLi de dær da
+
+sel_uio_0101_orthography   så det sannsynlegvis blir det der da
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               e trur i nitt'nnitt'n da va de felltpåsskontor på 
+                           Otta
+
+sel_uio_0101_orthography   eg trur i nittennitten da var det feltpostkontor på 
+                           Otta
+
+sel_uio_0101               da va ein såmm hette E2 såmm va påsstmæsster
+
+sel_uio_0101_orthography   da var ein som heitte E2 som var postmeister
+
+sel_uio_0101               felltpåsstmæsster hette de de ganngen
+
+sel_uio_0101_orthography   feltpostmeister heitte det det gongen
+
+int                        mm # mm
+
+int_orthography            mm # mm
+
+sel_uio_0101               å lokale hadd n # på Grann Hotell
+
+sel_uio_0101_orthography   og lokalet hadde han # på Grand hotell
+
+sel_uio_0101               så vitt e ha fåsjtått
+
+sel_uio_0101_orthography   så vidt eg har forstått
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               å da va de sjlikk att ee nå påsst'n kåmm så
+
+sel_uio_0101_orthography   og da var det slik at e når posten kom så
+
+sel_uio_0101               ja før hass ti så va de stassjonsmæsstern såmm 
+                           fåresto # påsst'n
+
+sel_uio_0101_orthography   ja før hans tid så var det stasjonsmeisteren som 
+                           førestod # posten
+
+sel_uio_0101               å nå påsst'n nå fåLLk sku hænnte påsst'n så jor demm 
+                           på denn måt'n att påss- stasjonsmæsstern jekk ut på 
+                           trappa # roppt ut nammnan på # fåsjelli medlemmer ja 
+                           # ja fåsjellie adresater da
+
+sel_uio_0101_orthography   og når posten når folk skulle hente posten så gjorde 
+                           dei på den måten at påss- stasjonsmeisteren gjekk ut 
+                           på trappa # ropte ut namna på # forskjellige 
+                           medlemmar ja # ja forskjellige adressatar da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               «E3 # E4 # %u» # å så videre
+
+sel_uio_0101_orthography   «E3 # E4 # %u» # og så vidare
+
+sel_uio_0101               å da hænnta nn påsst'n sinn på denn måt'n
+
+sel_uio_0101_orthography   og da henta han posten sin på den måten
+
+sel_uio_0101               å ee # du veit # d æ frykkt'li mannge såmm heite E4 
+                           # på Otta
+
+sel_uio_0101_orthography   og e # du veit # det er frykteleg mange som heiter 
+                           E4 # på Otta
+
+sel_uio_0101               så ee hænn stassjonsmæsstern hænnj rofft opp E4 # så 
+                           kåmm de enn ny E4 å te sjlutt så sa nn «å E4 ijenn»
+
+sel_uio_0101_orthography   så e han stasjonsmeisteren han ropte opp E4 # så kom 
+                           det ein ny E4 og til slutt så sa han «å E4 igjen»
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0101               %l
+
+sel_uio_0101_orthography   %l
+
+sel_uio_0101               så de varrt jo litt ee komisk veit du %l
+
+sel_uio_0101_orthography   så det vart jo litt e komisk veit du %l
+
+int                        ja
+
+int_orthography            ja
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0101               detta æ bære sjlikk e ha hørt de fårtaLt da
+
+sel_uio_0101_orthography   dette er berre slik eg har høyrt det fortalt da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               ja så i nitt'nenåtjue # kåmm n far å mor te Otta ja 
+                           å # å etablerte se # sjå Håvvde
+
+sel_uio_0101_orthography   ja så i nitteneinogtjue # kom han far og mor til 
+                           Otta ja og # og etablerte seg # sjå Hovde
+
+sel_uio_0101               rætt åvenfårr døkk da
+
+sel_uio_0101_orthography   rett overfor dykk da
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               å hadde da # påssthus dær
+
+sel_uio_0101_orthography   og hadde da # posthus der
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               e trur demm dreiv litt ee # butikk ve sid'n elle 
+                           allfall ukebLa å sjlikk # viss e hukksa rætt
+
+sel_uio_0101_orthography   eg trur dei dreiv litt e # butikk ved sida eller 
+                           iallfall vekeblad og slikt # viss eg hugsar rett
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               jaa # synns e ha hørt dæ
+
+sel_uio_0101_orthography   ja # synest eg har høyrt det
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               jaha # så byggde nn far allså # %k ## nere ve 
+                           jærnban'n da å ## å fækk påssthus dær
+
+sel_uio_0101_orthography   jaha # så bygde han far altså # %k ## nede ved 
+                           jernbanen da og ## og fekk posthus der
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               å dær va de te i ## åttåfør da
+
+sel_uio_0101_orthography   og der var det til i ## åtteogførti da
+
+sel_uio_0101               næi firåfæmmti
+
+sel_uio_0101_orthography   nei fireogfemti
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+int                        og planane vidare det er da ## å utvide og flytte åt 
+                           anna bygg ?
+
+int_orthography            og planane vidare det er da ## å utvide og flytte åt 
+                           anna bygg ?
+
+sel_uio_0101               ja # ja # ja
+
+sel_uio_0101_orthography   ja # ja # ja
+
+sel_uio_0101               ja tillfrestill ikkje di dagens ee ## 
+                           miljøværnbestæmmelser veit du mæ hænnsyn te 
+                           spiseromm å # å sjlike tinng helljer
+
+sel_uio_0101_orthography   ja tilfredsstiller ikkje dei dagens e ## 
+                           +x_miljøvernbestemmelser veit du med +x_hensyn til 
+                           +x_spiserom og # og slike ting heller
+
+int                        nei vel
+
+int_orthography            nei vel
+
+int                        mm
+
+int_orthography            mm
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               ee påsst'n kåmm asså te Otta ve firetia
+
+sel_uio_0101_orthography   e posten kom altså til Otta ved firetida
+
+sel_uio_0101               så mått n jo brinnges te påssthuse å # åpnes 
+                           sorrteres # å så
+
+sel_uio_0101_orthography   så måtte han jo bringast til posthuset og # opnast 
+                           sorterast # og så
+
+sel_uio_0101               å menns åss sorterte så hadd åss ee stenngt luka ## 
+                           å ee butikken sjøsjakkt
+
+sel_uio_0101_orthography   og mens vi sorterte så hadde vi e stengt luka ## og 
+                           e butikken sjølvsagt
+
+sel_uio_0101               å da sto unngene uttafårr # på ee # i døra
+
+sel_uio_0101_orthography   og da stod ungane utanfor # på e # i døra
+
+sel_uio_0101               å e hukksa væL dømm spænnte i døra førr å
+
+sel_uio_0101_orthography   og eg hugsar vel dei spente i døra for og
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0101               utåLmodi veit du
+
+sel_uio_0101_orthography   utolmodig veit du
+
+int                        +u(heilt sikkert)
+
+int_orthography            +u(heilt sikkert)
+
+sel_uio_0101               å nårr døra varrt åpna så # spranng dømm såmm ei 
+                           åsskåssjrei borrt te luka
+
+sel_uio_0101_orthography   og når døra vart opna så # sprang dei som ei oskorei 
+                           bort til luka
+
+int                        +u %l
+
+int_orthography            +u %l
+
+sel_uio_0101               åmm å jørra å kåmma fysst førr å # hukksa u dæi nå ? 
+                           # fårr å få sinn påsst
+
+sel_uio_0101_orthography   om å gjere å komme først for å # hugsar du dei nå ? 
+                           # for å få sin post
+
+int                        %l
+
+int_orthography            %l
+
+int                        +l ja
+
+int_orthography            +l ja
+
+sel_uio_0101               så dæ va årrntLi ja va # kø fakktisk
+
+sel_uio_0101_orthography   så det var ordentleg ja var # kø faktisk
+
+sel_uio_0101               menn dæmm hænnta påsst'n ee åss hadde jo båkkser # 
+                           utemot parrken da
+
+sel_uio_0101_orthography   men dei henta posten e vi hadde jo boksar # utimot 
+                           parken da
+
+sel_uio_0101               dømm såmm hadde påssbåkks dømm # dømm hænnta på ga- …
+
+sel_uio_0101_orthography   dei som hadde postboks dei # dei henta på ga- …
+
+int                        ja # ja
+
+int_orthography            ja # ja
+
+int                        når kom dei boksane liksom ?
+
+int_orthography            når kom dei boksane liksom ?
+
+sel_uio_0101               å de va nå iallfall unner krigen
+
+sel_uio_0101_orthography   å det var nå iallfall under krigen
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               fæmm kroner kåssta de dennj ganngen å i dag kåsste 
+                           de fæmmt'n så e kje nå særli %u prisstigning da
+
+sel_uio_0101_orthography   fem kroner kosta det den gongen og i dag kostar det 
+                           femten så er ikkje noka særleg %u prisstigning da
+
+int                        mm
+
+int_orthography            mm
+
+int                        nei
+
+int_orthography            nei
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+int                        {dårleg lyd}
+
+int_orthography            {dårleg lyd}
+
+sel_uio_0101               før på før i tia da # far dinn å nn far # å e øu da 
+                           # jekk på jernban'n å hænnta varer mæ # dragkjærre
+
+sel_uio_0101_orthography   før på før i tida da # far din og han far # og eg au 
+                           da # gjekk på jernbanen og henta varer med # 
+                           dragkjerre
+
+sel_uio_0101               d æ de inngen såmm jør i dag
+
+sel_uio_0101_orthography   det er det ingen som gjer i dag
+
+sel_uio_0101               alle bruke varebil elle så æ de ett firrma såmm 
+                           kjøre de ut
+
+sel_uio_0101_orthography   alle bruker varebil eller så er det eit firma som 
+                           køyrer det ut
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               så de æ litt sånn # fåranndra se allt samment
+
+sel_uio_0101_orthography   så det er litt sånn # forandra seg alt saman
+
+sel_uio_0101               M2 va # ein av di sisste såmm brukkte dragkjærre på 
+                           Otta hellt # så lennge såmm hann dreiv butikk tru e
+
+sel_uio_0101_orthography   M2 var # ein av dei siste som brukte dragkjerre på 
+                           Otta heilt # så lenge som han dreiv butikk trur eg
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               sia så ha m vell bynnt me # bila alle sammen antageli
+
+sel_uio_0101_orthography   sidan så har dei vel begynt med # bilar alle saman 
+                           antakeleg
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               hukksa kje meir
+
+sel_uio_0101_orthography   hugsar ikkje meir
+
+sel_uio_0101               allså da e va fæLi mæ barn- hell mæ 
+                           fårtsjættsesko'rn så ## bynnte vell sjå M3 på # på 
+                           realsko'rn # eller midd'lsko'rn såmm de heite da
+
+sel_uio_0101_orthography   altså da eg var ferdig med barn- eller med 
+                           +x_fortsettelsesskolen så ## begynte vel hjå M3 på # 
+                           på realskolen # eller middelskolen som det heitte da
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               mænn # så va de ee # sj- ja # varrt så modærne å 
+                           ræise åt Låmm fårr å gå realskoLe dær
+
+sel_uio_0101_orthography   men # så var det e # sj- ja # vart så moderne å 
+                           reise åt Lom for å gå realskole der
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               så hænnj missta stadi ## ee ## elever
+
+sel_uio_0101_orthography   så han mista stadig ## e ## elevar
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               å te sjlutt så varrt de så få att hænnj rætt å 
+                           sjlætt ga opp
+
+sel_uio_0101_orthography   og til slutt så vart det så få at han rett og slett 
+                           gav opp
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               å så jekk de ett par måner ## ee ja # ja ## litt 
+                           åver to måner så kåmm # %u # kåmm de i ganng att på 
+                           ny
+
+sel_uio_0101_orthography   og så gjekk det eit par månader ## e ja # ja ## litt 
+                           over to månader så kom # %u # kom det i gang att på 
+                           ny
+
+sel_uio_0101               tå jøLLp av sjlike # førelldjre såmm da prøvvde # å 
+                           starte oppatt
+
+sel_uio_0101_orthography   av hjelp av slike # foreldre som da prøvde # å 
+                           starte oppatt
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               e husske gått M4 blannt ant
+
+sel_uio_0101_orthography   eg hugsar godt M4 blant anna
+
+sel_uio_0101               da varrt de dennj bestæmmels'n att denn såmm # 
+                           sjLutta nå hænnj skull # ha nøtt å betaLe # denn 
+                           månesavjifft'n
+
+sel_uio_0101_orthography   da vart det den +x_bestemmelsen at den som # slutta 
+                           nå han skulle # var nøydd å betale # den 
+                           månadsavgifta
+
+int                        +u m
+
+int_orthography            +u m
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               å da emm starrta oppatt da så fækk dæmm jo nye # 
+                           lærere å # F1 å ## F2 å sjlik
+
+sel_uio_0101_orthography   og da dei starta oppatt da så fekk dei jo nye # 
+                           lærarar og # F1 og ## F2 og slik
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               a menn da varrt de jammen så hart programm att e 
+                           rett å sjlett ee sjLutta me tyssken
+
+sel_uio_0101_orthography   av men da vart det jammen så hardt program at eg 
+                           rett og slett e slutta med tysken
+
+sel_uio_0101               e hukksa F2 # sa dæ att de # dæ sku e kje jøra sa ho 
+                           # mænn de va annleinn te å jøra de
+
+sel_uio_0101_orthography   eg hugsar F1 # sa det at det # det skulle eg ikkje 
+                           gjere sa ho # men det var anledning til å gjere det
+
+sel_uio_0101               mænn ee # de varrt kje n- m e greid me ikkje me 
+                           bærre me sjlutte mæ tyssken +l e veit du %u fårr e 
+                           satt faktissk ifra # e kåmm att emm æfftan å te e la 
+                           me
+
+sel_uio_0101_orthography   men e # det vart ikkje n- men eg greidde meg ikkje 
+                           med berre med slutte med tysken +l eg veit du %u for 
+                           eg sat faktisk ifrå # eg kom att om eftan og til eg 
+                           la meg
+
+int                        +u m
+
+int_orthography            +u m
+
+sel_uio_0101               e varrt ee heillt ee fæLi e allså # så e rett å 
+                           sjlett sjlutta
+
+sel_uio_0101_orthography   eg vart e heilt e ferdig eg altså # så eg rett og 
+                           slett slutta
+
+sel_uio_0101               fårr de varrt vell litt haLere enn vanle # å så va 
+                           kje e nå skoLelys sjøL så # ikkje no særli lysst'n 
+                           på å gå på skoLe hellj
+
+sel_uio_0101_orthography   for det vart vel litt hardare enn vanleg # og så var 
+                           ikkje eg noko skolelys sjølv så # ikkje noko særleg 
+                           lysten på å gå på skole heller
+
+int                        +u m
+
+int_orthography            +u m
+
+int                        å nei
+
+int_orthography            å nei
+
+sel_uio_0101               så e sjlutta e å
+
+sel_uio_0101_orthography   så eg slutta eg og
+
+sel_uio_0101               så de varrt i grunn'n inngen skoLeganng på me
+
+sel_uio_0101_orthography   så det vart i grunnen ingen skolegang på meg
+
+sel_uio_0101               menn de æ jo mi egen fæil
+
+sel_uio_0101_orthography   men det er jo min eigen feil
+
+sel_uio_0101               mænn mænn
+
+sel_uio_0101_orthography   men men
+
+int                        du har gått skole på post- …
+
+int_orthography            du har gått skole på post- …
+
+sel_uio_0101               ha jo ee ha jo
+
+sel_uio_0101_orthography   har jo e har jo
+
+sel_uio_0101               ja # du veit e kunn jo avangsert meir i påsstværrke 
+                           ha e hatt enn utdannelsa menn # e æ tefretts lell
+
+sel_uio_0101_orthography   ja # du veit eg kunne jo avansert meir i postverket 
+                           hadde eg hatt den +x_utdannelsen men # eg er 
+                           tilfreds lell
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               så de va kje så gått å få i ganng skoLer da veit du
+
+sel_uio_0101_orthography   så det var ikkje så godt å få i gang skolar da veit 
+                           du
+
+int                        eg kom på
+
+int_orthography            eg kom på
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               allså e hukksa åss dræiv borrti Øyåm å # kriga rett 
+                           å sjlett sjlik såmm # onnger jør te # vanlivis
+
+sel_uio_0101_orthography   altså eg hugsar vi dreiv borti Øyane og # kriga rett 
+                           og slett slik som # ungar gjer til # vanlegvis
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0101               de va jo unne krigen så åss varrt vell antagle ## 
+                           påvirrka tå # denn tia da
+
+sel_uio_0101_orthography   det var jo under krigen så vi vart vel antakeleg ## 
+                           påverka av # den tida da
+
+int                        mm
+
+int_orthography            mm
+
+int                        var det # parti eller ?
+
+int_orthography            var det # parti eller ?
+
+sel_uio_0101               byggde åss hytt-
+
+sel_uio_0101_orthography   bygde oss hytt-
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               ja da # de va partier
+
+sel_uio_0101_orthography   ja da # det var parti
+
+sel_uio_0101               hukkse de va dømm fra synna brue da # å så va de 
+                           dømm noLa brua
+
+sel_uio_0101_orthography   hugsar det var dei frå sønnan brua da # og så var 
+                           det dei nordan brua
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               så dæ va # motparrter
+
+sel_uio_0101_orthography   så det var # motpartar
+
+int                        ja
+
+int_orthography            ja
+
+int                        gjekk hardt for seg ?
+
+int_orthography            gjekk hardt for seg ?
+
+sel_uio_0101               ja åss byggde snø- ee byggde barhytter å sjlik åsså
+
+sel_uio_0101_orthography   ja vi bygde snø- e bygde barhytter og slikt også
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               hukks ikkje sprenng spranng nå hått å framm me nå 
+                           sjlakks jevær da såmm # fårestihltje jevær
+
+sel_uio_0101_orthography   hugsar ikkje spring sprang nå att og fram med nokon 
+                           slags gevær da som # førestilte gevær
+
+int                        +u %l
+
+int_orthography            +u %l
+
+sel_uio_0101               å ee # så va de å lægga se ne nå n va døu da
+
+sel_uio_0101_orthography   og e # så var det å legge seg ned når ein var daud da
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0101               visst nn varrt skutt de # «du æ skotte du æ skotte» 
+                           %l
+
+sel_uio_0101_orthography   viss ein vart skoten det # «du er skoten du er 
+                           skoten» %l
+
+int                        +l ja # ja
+
+int_orthography            +l ja # ja
+
+sel_uio_0101               så de va likksåmm ræine militær
+
+sel_uio_0101_orthography   så det var liksom reine militær
+
+int                        ja
+
+int_orthography            ja
+
+int                        i sommarferien # kva gjorde de da ?
+
+int_orthography            i sommarferien # kva gjorde de da ?
+
+sel_uio_0101               næi # åss ræiste inngen stan i vær fall
+
+sel_uio_0101_orthography   nei # vi reiste ingen stad i kvart fall
+
+int                        var mykje jobbing ?
+
+int_orthography            var mykje jobbing ?
+
+sel_uio_0101               tru kje dæ # næi
+
+sel_uio_0101_orthography   trur ikkje det # nei
+
+sel_uio_0101               +u jåbbing tru e
+
+sel_uio_0101_orthography   +u jobbing trur eg
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               enn så va de å væra heime på Otta å # åss ræiste 
+                           inngen steder
+
+sel_uio_0101_orthography   eller så var det å vere heime på Otta og # vi reiste 
+                           ingen stadar
+
+sel_uio_0101               hadde jo kje bil nønnj dennj ganngen de va bære 
+                           præsst'n å lennsmann å dåkktern dæ
+
+sel_uio_0101_orthography   hadde jo ikkje bil nokon den gongen det var berre 
+                           presten og lensmannen og doktoren det
+
+sel_uio_0101               så ee # såmmårdåggån brukkt åss på # badepLass'n
+
+sel_uio_0101_orthography   så e # sommardagane brukte vi på # badeplassen
+
+sel_uio_0101               borrtme Fettjbrua såmm de heite
+
+sel_uio_0101_orthography   bortmed Fettbrua som det heiter
+
+int                        mm
+
+int_orthography            mm
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0101               du kjænne denn ?
+
+sel_uio_0101_orthography   du kjenner den ?
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               ja
+
+sel_uio_0101_orthography   ja
+
+sel_uio_0101               ja å fjællturer a sjøsjakkt førr ee far va jo 
+                           frykktli intrisert fjellvanndrer
+
+sel_uio_0101_orthography   ja og fjellturer da sjølvsagt for e far var jo 
+                           frykteleg interessert fjellvandrar
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               så hænnj fløug jo opp på fjelle omm # onnsdaskvæll'n 
+                           å kåmm att  tossjdasjmårrgån ## te kLåkka åtte
+
+sel_uio_0101_orthography   så han flaug jo opp på fjellet om # onsdagskvelden 
+                           og kom att torsdagsmorgonen ## til klokka åtte
+
+sel_uio_0101               å e vokks i grunn'n opp mæ dærre fjelle e så e # 
+                           faktissk smitta på me # heile tia da %u
+
+sel_uio_0101_orthography   og eg voks i grunnen opp med +x_derre fjellet eg så 
+                           eg # faktisk smitta på meg # heile tida da %u
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               frykktli gLa i gå i fjelle å # går # fårrtsjatt
+
+sel_uio_0101_orthography   frykteleg glad i gå i fjellet og # går # fortsett
+
+int                        mm
+
+int_orthography            mm
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               å dæ ha jorrt mæ ee tok åss me onngan våre øu nå 
+                           dæmm va små
+
+sel_uio_0101_orthography   og det har gjort med e tok vi med ungane våre au når 
+                           dei var små
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0101               denn eine æ kje nå særli begæistra fø fjelle nå menn 
+                           anndre hænnj æ nå # frykktle intresert
+
+sel_uio_0101_orthography   den eine er ikkje noko særleg begeistra for fjellet 
+                           nå men andre han er nå # frykteleg interessert
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0101               så e fannt ut att e sku spanndere liffsvari 
+                           medlemmskap på hænnj a i turisstfåreningen
+
+sel_uio_0101_orthography   så eg fann ut at eg skulle spandere livsvarig 
+                           medlemskap på han da i turistforeininga
+
+int                        mm # mm
+
+int_orthography            mm # mm
+
+sel_uio_0101               ja da
+
+sel_uio_0101_orthography   ja da
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0101               få kjuge år sia så va snakk omm denna dær høybrua da 
+                           å
+
+sel_uio_0101_orthography   for tjue år sidan så var snakk om den der høgbrua da 
+                           òg
+
+sel_uio_0101               å da hukks e fåLLk sa dæ att «dæ gå kje ann å ha 
+                           dennj høybrua førr da går de kje ann # da æ de kje 
+                           slæeføre åver dær omm vinntern»
+
+sel_uio_0101_orthography   og da hugsar eg folk sa det at «det går ikkje an å 
+                           ha den høgbrua for da går det ikkje an # da er det 
+                           ikkje sledeføre over der om vinteren»
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0101               menn kæmm æ såmm kjøre mæ hæsst å slæ i dag ?
+
+sel_uio_0101_orthography   men kven er som køyrer med hest og slede i dag ?
+
+int                        +u %l
+
+int_orthography            +u %l
+
+sel_uio_0101               så dæ finnst visst ikkj en einaste ein tru e
+
+sel_uio_0101_orthography   så det finst visst ikkje ein einaste ein trur eg
+
+int                        m
+
+int_orthography            m
+
+int                        %u
+
+int_orthography            %u
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+int                        {innleiande kommentarar}
+
+int_orthography            {innleiande kommentarar}
+
+int                        hæ ?
+
+int_orthography            hæ ?
+
+sel_uio_0102               ho e heilt akktiv
+
+sel_uio_0102_orthography   ho er heilt aktiv
+
+int                        ja ho er det ?
+
+int_orthography            ja ho er det ?
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+int                        ja da
+
+int_orthography            ja da
+
+sel_uio_0102               %k
+
+sel_uio_0102_orthography   %k
+
+int                        nei men altså ee du hugsar da vel ee # det første 
+                           når du # som du kunne hugse tilbake på det var ja de 
+                           var dette der %u
+
+int_orthography            nei men altså e du hugsar da vel e # det første når 
+                           du # som du kunne hugse tilbake på det var ja det 
+                           var dette der %u
+
+sel_uio_0102               næi e va kje me dær e
+
+sel_uio_0102_orthography   nei eg var ikkje med der eg
+
+int                        nei # men du hugsar det ikkje sant ?
+
+int_orthography            nei # men du hugsar det ikkje sant ?
+
+sel_uio_0102               de- …
+
+sel_uio_0102_orthography   de- …
+
+sel_uio_0102               ja da fysst va lokalsentral på Høu- # ee ja sentral 
+                           sjå N3 de veit e
+
+sel_uio_0102_orthography   ja da først var lokalsentral på Høu- # e ja sentral 
+                           hjå N3 det veit eg
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å så fLøtte de ått ## ått ee # denna byggning'n dær 
+                           Okåbe e nå
+
+sel_uio_0102_orthography   og så flytta det åt ## åt e # denne bygninga der OKB 
+                           er nå
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å da bynnte ver o F3 # på denn tia
+
+sel_uio_0102_orthography   og da begynte vel ho F3 # på den tida
+
+int                        ja det stemmer de
+
+int_orthography            ja det stemmer det
+
+sel_uio_0102               tru e
+
+sel_uio_0102_orthography   trur eg
+
+int                        eller var det desse brakkene her
+
+int_orthography            eller var det desse brakkene her
+
+sel_uio_0102               å så va # å så fLøtt åss fra dær
+
+sel_uio_0102_orthography   og så var # og så flytta vi frå der
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               ja da va kje e mæ allså menn
+
+sel_uio_0102_orthography   ja da var ikkje eg med altså men
+
+int                        å nei
+
+int_orthography            å nei
+
+sel_uio_0102               bodde # ætte fæmmåførr da veit du da fLøtt emm hit
+
+sel_uio_0102_orthography   budde # etter femogførti da veit du da flytta dei hit
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               åvertok denna tysskerbrakka
+
+sel_uio_0102_orthography   overtok denne tyskarbrakka
+
+int                        +u ja
+
+int_orthography            +u ja
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0102               å ho sto heilt te i fjoL
+
+sel_uio_0102_orthography   og ho stod heilt til i fjor
+
+int                        ja # det gjorde den det la eg merke til
+
+int_orthography            ja # det gjorde den det la eg merke til
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+sel_uio_0102               menn du veit åss fLøtt åver hit # i dette huse hær
+
+sel_uio_0102_orthography   men du veit vi flytta over hit # i dette huset her
+
+sel_uio_0102               va de i ee niåsøtti ve nyttåsjleite åttåsøtti 
+                           niåsøtti
+
+sel_uio_0102_orthography   var det i e niogsytti ved nyttårsleitet åtteogsytti 
+                           niogsytti
+
+sel_uio_0102               fLøtt åss åver hit da
+
+sel_uio_0102_orthography   flytta vi over hit da
+
+int                        men ee # det var vel litt enklare før # når det kom 
+                           inn fleire # apparat og
+
+int_orthography            men e # det var vel litt enklare før # når det kom 
+                           inn fleire # apparat og
+
+sel_uio_0102               å guri ja
+
+sel_uio_0102_orthography   å guri ja
+
+sel_uio_0102               de va de sikkert
+
+sel_uio_0102_orthography   det var det sikkert
+
+sel_uio_0102               de va kje di jæLLpemiddla såmm e no næi
+
+sel_uio_0102_orthography   det var ikkje dei hjelpemidla som er nå nei
+
+int                        men så var det ikkje meir enn ein # sentral # 
+                           telefonsentral og
+
+int_orthography            men så var det ikkje meir enn ein # sentral # 
+                           telefonsentral og
+
+sel_uio_0102               næi u veit de va # de va sentral mæ # va de tri 
+                           hellj fire bor da vett e te byne me
+
+sel_uio_0102_orthography   nei du veit det var # det var sentral med # var det 
+                           tre eller fire bord da veit eg til begynne med
+
+int                        manuell og
+
+int_orthography            manuell og
+
+int                        ja
+
+int_orthography            ja
+
+int                        og så manuelt
+
+int_orthography            og så manuelt
+
+sel_uio_0102               de va manuellt allt samen
+
+sel_uio_0102_orthography   det var manuelt alt saman
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+sel_uio_0102               å da va de frykktele vænnteti veit du på på ee # 
+                           rikks
+
+sel_uio_0102_orthography   og da var det frykteleg ventetid veit du på på e # 
+                           riks
+
+sel_uio_0102               Lillehammer Ossjlo de va timesvis i vænnteti veit du
+
+sel_uio_0102_orthography   Lillehammer Oslo det var timesvis i ventetid veit du
+
+sel_uio_0102               så hadd åss oppdellt eit Ossjlo-boL å ett 
+                           Lill'ammer-boL
+
+sel_uio_0102_orthography   så hadde vi oppdelt eit Oslo-bord og eit 
+                           Lillehammer-bord
+
+sel_uio_0102               å så sat ei på smårikks da ei på lokal # på grunn tå 
+                           trafikken
+
+sel_uio_0102_orthography   og så sat ei på småriks da ei på lokal # på grunn av 
+                           trafikken
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               spesialisert å de # ja likksåmm delt åss på da
+
+sel_uio_0102_orthography   spesialisert og det # ja liksom delte oss på da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               fårr de va så lite liner da veit du
+
+sel_uio_0102_orthography   for det var så lite linjer da veit du
+
+int                        ja %u
+
+int_orthography            ja %u
+
+sel_uio_0102               menn ette kvårrt så varrt nå ## vænntetia ne- # 
+                           nekutta da
+
+sel_uio_0102_orthography   men etter kvart så vart nå ## ventetida ne- # 
+                           nedkutta da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               de varrt fleire linå
+
+sel_uio_0102_orthography   det vart fleire linjer
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så e veit ikkje # de va nå bær gåmmålt utstyr dæmm 
+                           dreiv mæ # stort sætt
+
+sel_uio_0102_orthography   så eg veit ikkje # det var nå berre gammalt utstyr 
+                           dei dreiv med # stort sett
+
+int                        kva tid vart det …
+
+int_orthography            kva tid vart det …
+
+sel_uio_0102               te sisste årom
+
+sel_uio_0102_orthography   til siste åra
+
+sel_uio_0102               så varrt de utvia mæ eit å eit boL da ette kårrt å 
+                           te sjlutt så tru e nå fåsjyne me va ti bor innpå 
+                           rikks'n e
+
+sel_uio_0102_orthography   så vart det utvida med eitt og eitt bord da etter 
+                           kvart og til slutt så trur eg nå forsyne meg var ti 
+                           bord innpå riksen eg
+
+int                        kan du hugse noko årstal ?
+
+int_orthography            kan du hugse noko årstal ?
+
+sel_uio_0102               næ dæ e vannskele de
+
+sel_uio_0102_orthography   nei det er vanskeleg det
+
+sel_uio_0102               va de ti de va nå mannge fLeir
+
+sel_uio_0102_orthography   var det ti det var nå mange fleire
+
+sel_uio_0102               de va borrti fæmmt'n boL fårr i nitt'nsøtti varrt 
+                           åss unnerlakkt ee # da sjlutte N4
+
+sel_uio_0102_orthography   det var borti femten bord for i nittensytti vart vi 
+                           underlagde e # da slutta N4
+
+sel_uio_0102               sa da varrt åss likksåmm ee # sjlått sammens me 
+                           Vinnstra
+
+sel_uio_0102_orthography   sa da vart vi liksom e # slått saman med Vinstra
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0102               så da kåmm hann bestyrer på Vinnstra kåmm hit
+
+sel_uio_0102_orthography   så da kom han +x_bestyraren på Vinstra kom hit
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               å da sjlo n ut veggen veit du milljåm 
+                           bestyrerkontore å rikks'n
+
+sel_uio_0102_orthography   og da slo han ut veggen veit du mellom 
+                           +x_bestyrarkontoret og riksen
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               da utvida n me # mannge boL att dær å
+
+sel_uio_0102_orthography   da utvida han med # mange bord att der og
+
+int                        kor mange er det nå ?
+
+int_orthography            kor mange er det nå ?
+
+sel_uio_0102               de e nelakkt nå veit du
+
+sel_uio_0102_orthography   det er nedlagt nå veit du
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               de e øutomatisert
+
+sel_uio_0102_orthography   det er automatisert
+
+int                        kva årstal ee # sa du det ?
+
+int_orthography            kva årstal e # sa du det ?
+
+sel_uio_0102               i ee ## trætt'ne massj i # nitt'nåtti ## varrt de 
+                           øutomatisert
+
+sel_uio_0102_orthography   i e ## trettande mars i # nittenåtti ## vart det 
+                           automatisert
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så da varrt åss likksåmm spredd da # fårr ellje 
+                           vinner
+
+sel_uio_0102_orthography   så da vart vi liksom spreidde da # for alle vindar
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               %l
+
+sel_uio_0102_orthography   %l
+
+int                        vart det mykje arbeidsledige ?
+
+int_orthography            vart det mykje arbeidsledige ?
+
+sel_uio_0102               nei # inngentinng # førr de varrt helljan fleire 
+                           arrbespLasser
+
+sel_uio_0102_orthography   nei # ingenting # for det vart heller fleire 
+                           arbeidsplassar
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0102               førr fyss så såg de heilsvarrt ut veit du
+
+sel_uio_0102_orthography   for først så såg det heilsvart ut veit du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               va meininga sku vær att bære ei stilling ## på 
+                           transmisjon da
+
+sel_uio_0102_orthography   var meininga skulle vere att berre ei stilling ## på 
+                           transmisjon da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å så søkkt e dennj e å fækk dennj ## fårr å sikkre me
+
+sel_uio_0102_orthography   og så søkte eg den eg og fekk den ## for å sikre meg
+
+int                        ja
+
+int_orthography            ja
+
+int                        m
+
+int_orthography            m
+
+sel_uio_0102               menn da va e på telegraf
+
+sel_uio_0102_orthography   men da var eg på telegraf
+
+sel_uio_0102               mænn så ette kvarrt da så varrt de likksåmm ## 
+                           bestæmmt att de sku vær oplysningssentral hær
+
+sel_uio_0102_orthography   men så etter kvart da så vart det liksom ## bestemt 
+                           at det skulle vere opplysningssentral her
+
+sel_uio_0102               null ahtt'n # d e nere hær i ## huse
+
+sel_uio_0102_orthography   null atten # det er nede her i ## huset
+
+sel_uio_0102               å dær æ de # arrbespLasser # åt ellje såmm va på 
+                           rikks'n før pluss enn # mannge te
+
+sel_uio_0102_orthography   og der er det # arbeidsplassar # åt alle som var på 
+                           riksen før pluss ein # mange til
+
+sel_uio_0102               så de varrt ## å så varrt oppritta enn stilling hær 
+                           på øutomat
+
+sel_uio_0102_orthography   så det vart ## og så vart oppretta ei stilling her 
+                           på automat
+
+sel_uio_0102               å likedann varrt de telekspidesjon å
+
+sel_uio_0102_orthography   og +x_likedan vart det teleekspedisjon og
+
+sel_uio_0102               kontor så va i bessl- bestyrern å
+
+sel_uio_0102_orthography   kontor som var i bessl- +x_bestyraren og
+
+sel_uio_0102               tenngnekontor æ de hær å detalljeplanlegger å
+
+sel_uio_0102_orthography   teiknekontor er det her og detaljeplanleggar og
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               marrkesrættleder å
+
+sel_uio_0102_orthography   marknadsrettleiar og
+
+sel_uio_0102               så de æ velldi my fåLLK hær da
+
+sel_uio_0102_orthography   så det er veldig mykje folk her da
+
+int                        kor cirka mange er det tilsett nå ?
+
+int_orthography            kor cirka mange er det tilsett nå ?
+
+sel_uio_0102               ka sku e si
+
+sel_uio_0102_orthography   kva skulle eg seie
+
+sel_uio_0102               de e værrt fall gått åver åtti ## trur e ## bærre 
+                           hær på stasjon
+
+sel_uio_0102_orthography   det er kvart fall godt over åtti ## trur eg ## berre 
+                           her på stasjonen
+
+int                        kor mange var det når du begynte %u ?
+
+int_orthography            kor mange var det når du begynte %u ?
+
+sel_uio_0102               %u ska e si
+
+sel_uio_0102_orthography   %u skal eg seie
+
+sel_uio_0102               å fru E5 å F5 # å F6 # å F7 ## å F8 å F9 # å F10 å 
+                           F11
+
+sel_uio_0102_orthography   og fru E5 og F5 # og F6 # og F7 ## og F8 og F9 # og 
+                           F10 og F11
+
+sel_uio_0102               e kåmm vell såmm niene mann da te trur e
+
+sel_uio_0102_orthography   eg kom vel som niande mann da til trur eg
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               trur dæ
+
+sel_uio_0102_orthography   trur det
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u stor forskjell
+
+int_orthography            %u stor forskjell
+
+sel_uio_0102               de e stor fåsjell) %l
+
+sel_uio_0102_orthography   det er stor forskjell) %l
+
+int                        ja det blir ein heilt annan arbeidsoperasjon du har 
+                           nå da # kva det består i nå ?
+
+int_orthography            ja det blir ein heilt annan arbeidsoperasjon du har 
+                           nå da # kva det består i nå ?
+
+sel_uio_0102               e ?
+
+sel_uio_0102_orthography   eg ?
+
+int                        kan du seie lite grann om kva du gjer ?
+
+int_orthography            kan du seie lite grann om kva du gjer ?
+
+sel_uio_0102               ja du veit detta konntore hær de æ ee # 
+                           driffskontroll få e si da # de e unnerlakkt 
+                           øutomatavdelingen
+
+sel_uio_0102_orthography   ja du veit dette kontoret her det er e # 
+                           driftskontroll får eg seie da # det er underlagt 
+                           automatavdelinga
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               så de øutomatledern såmm æ # sjefen minn
+
+sel_uio_0102_orthography   så det automatleiaren som er # sjefen min
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å så ## ja e har nå mæ åvervåking denna dærre 
+                           {flytter seg} dær da # tæk inn ahlt såmm sjer utpå 
+                           sentral'n
+
+sel_uio_0102_orthography   og så ## ja eg har nå med overvaking denne +x_derre 
+                           {flytter seg} der da # tar inn alt som skjer utpå 
+                           sentralen
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               menn dær da så ## lagres de da
+
+sel_uio_0102_orthography   men der da så ## lagrast det da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å så tæk e ut ifra denna tæk e # bruk e %u # å tæk 
+                           ut ## å lagre i denn
+
+sel_uio_0102_orthography   og så tar eg ut ifrå denne tar eg # bruker eg  %u # 
+                           og tar ut ## og lagrar i den
+
+sel_uio_0102               å så # kall e opp ee datamasjina på Jøvik å åveføre 
+                           # dæ e har liggan dær da åveføre te datamasjina så 
+                           fær e dæ att i kLar tækkst
+
+sel_uio_0102_orthography   og så # kallar eg opp e datamaskina på Jøvik og 
+                           overfører # det eg har liggande der da overfører til 
+                           datamaskina så får eg det att i klar tekst
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               likksåmm allt såmm har sjedd likksåmm
+
+sel_uio_0102_orthography   liksom alt som har skjedd liksom
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               att på dennj å dennj linnja ha de gått så å så 
+                           mannge sammtaLer å dømm ha stått jennåmsnittli så å 
+                           så lennge å
+
+sel_uio_0102_orthography   at på den og den linja har det gått så og så mange 
+                           samtaler og dei har stått gjennomsnittleg så og så 
+                           lenge og
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0102               å så # att dennj linnja mistenng- # mistenngkt # 
+                           likksåmm att de kunn vær enn feil på o fårr ee # o 
+                           va # operert sjlik å sjlik da
+
+sel_uio_0102_orthography   og så # at den linja mistenng- # mistenkt # liksom 
+                           at det kunne vere ein feil på henne for e # ho var # 
+                           operert slik og slik da
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               så dæ æ likksåmm ett unnerlag fårr ## feilretting å 
+                           oppsærvasjon da veit du fårr å sjå kass de virrke
+
+sel_uio_0102_orthography   så det er liksom eit underlag for ## feilretting og 
+                           observasjon da veit du for å sjå korleis det verkar
+
+sel_uio_0102               å da dæ eventuelt kunna # ta feil før de bli årrntli 
+                           feil å
+
+sel_uio_0102_orthography   og da det eventuelt kunne # ta feil før det blei 
+                           ordentleg feil og
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så går åss ne åt skrivarn da såmm oppsærvere allt 
+                           såmm sjer ute på sentral da
+
+sel_uio_0102_orthography   så går vi ned åt skrivaren da som observerer alt som 
+                           skjer ute på sentral da
+
+sel_uio_0102               te å mæ nårr e kjemm fåLLk inn dær så ser åss de %l
+
+sel_uio_0102_orthography   til og med når det kjem folk inn der så ser vi det %l
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å da kunn åss ee # få ti feilåm me ein gånng ## veit 
+                           du
+
+sel_uio_0102_orthography   og da kunne vi e # få tatt feila med ein gong ## 
+                           veit du
+
+sel_uio_0102               før de bli fårr gaLi
+
+sel_uio_0102_orthography   før det blei for gale
+
+sel_uio_0102               så ee ## velldi åLreit å væra hær
+
+sel_uio_0102_orthography   så e ## veldig ålreit å vere her
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+int                        men ee
+
+int_orthography            men e
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0102               likksåmm fårhålle mellåm te- ee tenngt du på ?
+
+sel_uio_0102_orthography   liksom forholdet mellom te- e tenkte du på ?
+
+int                        det er jo ja miljø og
+
+int_orthography            det er jo ja miljø og
+
+sel_uio_0102               de va alle tidesj
+
+sel_uio_0102_orthography   det var alle tiders
+
+sel_uio_0102               fårr # de va bære te fåre- te færre åss va fårr e si 
+                           %l
+
+sel_uio_0102_orthography   for # det var betre til fåre- til ferre vi var får 
+                           eg seie %l
+
+sel_uio_0102               fårr ettesåmm de utvikkLa se veit du å de varrt 
+                           fLeire ## så ee # fårr de fysste så varrt åss ikkje 
+                           kjænnt me einan
+
+sel_uio_0102_orthography   for ettersom det utvikla seg veit du og det vart 
+                           fleire ## så e # for det første så vart vi ikkje 
+                           kjente med einannan
+
+sel_uio_0102               å sammarbei vill e si dæ # gLei ut meir å # te fleir 
+                           de varrt
+
+sel_uio_0102_orthography   og samarbeid vil eg seie det # glei ut meir òg # til 
+                           fleire det vart
+
+sel_uio_0102               fårr ee # fåLLk æ så # fåsjellige veit du
+
+sel_uio_0102_orthography   for e # folk er så # forskjellige veit du
+
+int                        mm
+
+int_orthography            mm
+
+int                        men før da når de var ## ganske få og det var 
+                           oversiktleg
+
+int_orthography            men før da når det var ## ganske få og det var 
+                           oversiktleg
+
+sel_uio_0102               ee ja
+
+sel_uio_0102_orthography   e ja
+
+int                        %u liksom ## det positive # med det
+
+int_orthography            %u liksom ## det positive # med det
+
+sel_uio_0102               de va sammarbeie
+
+sel_uio_0102_orthography   det var samarbeidet
+
+int                        %u
+
+int_orthography            %u
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               vill e si
+
+sel_uio_0102_orthography   vil eg seie
+
+int                        du har ikkje nokon konkrete # eksempel ifrå ?
+
+int_orthography            du har ikkje nokon konkrete # eksempel %u ?
+
+sel_uio_0102               å …
+
+sel_uio_0102_orthography   og …
+
+sel_uio_0102               %u
+
+sel_uio_0102_orthography   %u
+
+int                        %u vanskeleg med vakter og
+
+int_orthography            %u vanskeleg med vakter og
+
+sel_uio_0102               å næi # næi
+
+sel_uio_0102_orthography   å nei # nei
+
+int                        %u finne på å bytte eller # %u
+
+int_orthography            %u finne på å bytte eller # %u
+
+sel_uio_0102               å ja dæ va jo inngen sak veit du
+
+sel_uio_0102_orthography   å ja det var jo inga sak veit du
+
+sel_uio_0102               de va helt ålreit
+
+sel_uio_0102_orthography   det var heilt ålreit
+
+sel_uio_0102               fårr va de ein såmm trenngte fri # ja ja ## på 
+                           æfftan enn dag så va de åLreit
+
+sel_uio_0102_orthography   for var det ein som trong fri # ja ja ## på eftan 
+                           ein dag så var det ålreit
+
+sel_uio_0102               sjøL omm åss va få allså va de inngen sak å få bytta 
+                           vakkt
+
+sel_uio_0102_orthography   sjølv om vi var få altså var det inga sak å få bytte 
+                           vakt
+
+sel_uio_0102               så ee åss jørrte inna'n allså åss va likksåmm ## 
+                           arrbedd i samm- sammen
+
+sel_uio_0102_orthography   så e vi hjelpte einannan altså vi var liksom ## 
+                           arbeidde i samm- saman
+
+int                        hadde du nattevakt nokon gong ?
+
+int_orthography            hadde du nattevakt nokon gong ?
+
+sel_uio_0102               ja da åss ha nattvakkt ee oppte fLeir gånng i vikkun
+
+sel_uio_0102_orthography   ja da vi har nattevakt e opptil fleire gonger i veka
+
+int                        kan du komme på # noko som kunne hende der som du 
+                           hugsar ?
+
+int_orthography            kan du komme på # noko som kunne hende der som du 
+                           hugsar ?
+
+sel_uio_0102               manngke banngke på gLase %l
+
+sel_uio_0102_orthography   manngke banke på glaset %l
+
+int                        %u
+
+int_orthography            %u
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               huf næi # dæ va de væssjte såmm fænnjst
+
+sel_uio_0102_orthography   huff nei # det var det verste som fanst
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               va bekkmørrt omm høust'n veit du å vinn å bLes å 
+                           renngna å # så kjæmm de nånn å banngka på gLase
+
+sel_uio_0102_orthography   var bekmørkt om hausten veit du og vind og blæs og 
+                           regnar og # så kjem det nokon og bankar på glaset
+
+int                        ja
+
+int_orthography            ja
+
+int                        kva du gjorde da ?
+
+int_orthography            kva du gjorde da ?
+
+sel_uio_0102               e låg stille såmm ei mus %l
+
+sel_uio_0102_orthography   eg låg stille som ei mus %l
+
+sel_uio_0102               %l ja å så ein gånng # kåmm de # kåmm de ei mus
+
+sel_uio_0102_orthography   %l ja og så ein gong # kom det # kom det ei mus
+
+int                        %l kom ei mus %l
+
+int_orthography            %l kom ei mus %l
+
+sel_uio_0102               %l
+
+sel_uio_0102_orthography   %l
+
+sel_uio_0102               å e e så redd mus
+
+sel_uio_0102_orthography   og eg er så redd mus
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0102               å da pila ei mus +l(åver # gåLLve veit du) # å e 
+                           hyla veit du å s- # å krøp oppi # elljer lenngst 
+                           oppi roa upp i sennga dær da veit du
+
+sel_uio_0102_orthography   og da pila ei mus +l(over # golvet veit du) # og eg 
+                           hyla veit du og s- # og kraup oppi # aller lengst 
+                           oppi roa opp i senga der da veit du
+
+int                        +l ja
+
+int_orthography            +l ja
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0102               å satt me stive øugo å gLana på gåLLve omm o sko 
+                           kåmma framm
+
+sel_uio_0102_orthography   og sat med stive auge og glana på golvet om ho 
+                           skulle komme fram
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               sa snart e hørte de krissjla veit du +l(å svettjin 
+                           rann)
+
+sel_uio_0102_orthography   sa snart eg høyrde det krisla veit du +l(og sveitten 
+                           rann)
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0102               så va eg å lista me ut på bøttekåtte fækk tak i 
+                           lanngkosst'n
+
+sel_uio_0102_orthography   så var eg og lista meg ut på bøttekottet fekk tak i 
+                           langkosten
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               +l(så satt e me hænnj # heile natta) %l # å sjlo 
+                           inni veggen å # å å banngka ne'i gøLLve så snart e 
+                           hørt e krissjla
+
+sel_uio_0102_orthography   +l(så sat eg med han # heile natta) %l # og slo inni 
+                           veggen og # og og banka nedi golvet så snart eg 
+                           høyrde det krisla
+
+int                        %l
+
+int_orthography            %l
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               ja da va e kjei allså %u …
+
+sel_uio_0102_orthography   ja da var eg kei altså %u …
+
+int                        det var ei hard vakt
+
+int_orthography            det var ei hard vakt
+
+sel_uio_0102               ja # æll- …
+
+sel_uio_0102_orthography   ja # æll- …
+
+int                        men ringte du ikkje nokon da ?
+
+int_orthography            men ringte du ikkje nokon da ?
+
+sel_uio_0102               jøuh da
+
+sel_uio_0102_orthography   jo da
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0102               e mått jikk åpp på tå då +l(veit du # å så opp på 
+                           storn # å svårrå)
+
+sel_uio_0102_orthography   eg måtte gjekk opp på tå da +l(veit du # og så opp 
+                           på stolen # og svare)
+
+int                        %l
+
+int_orthography            %l
+
+sel_uio_0102               a da va e så kjei att e gret da e kåmm heim att omm 
+                           natta
+
+sel_uio_0102_orthography   ja da var eg så kei at eg gret da eg kom heim att om 
+                           natta
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               ha kje sovve de grann veit du
+
+sel_uio_0102_orthography   hadde ikkje sove det grann veit du
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0102               a # a sia heile vinntern så jekk e # hadde mæ me 
+                           lanngkosst'n nå e sku på nattvakkt
+
+sel_uio_0102_orthography   og # og sidan heile vinteren så gjekk eg # hadde med 
+                           meg langkosten når eg skulle på nattevakt
+
+sel_uio_0102               %l før å sjlå i gåLLve ell veggen
+
+sel_uio_0102_orthography   %l for å slå i golvet eller veggen
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               åss hørte o for inni veggen øu veit
+
+sel_uio_0102_orthography   vi høyrde ho fór inni veggen au veit
+
+int                        men ee # det ringte ikkje ofte altså ?
+
+int_orthography            men e # det ringte ikkje ofte altså ?
+
+sel_uio_0102               næ dæ kunn være opp å ne menn de va kje åffte
+
+sel_uio_0102_orthography   nei det kunne vere opp og ned men det var ikkje ofte
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0102               du veit de kåssta ekkstra da ee # va de hellst nårr 
+                           de va nåko mer
+
+sel_uio_0102_orthography   du veit det kostar ekstra da e # var det helst når 
+                           det var noko meir
+
+int                        ja
+
+int_orthography            ja
+
+int                        men de kunne få sove altså ?
+
+int_orthography            men de kunne få sove altså ?
+
+sel_uio_0102               å ja da # de va net åss kunn såvvå # heile natta 
+                           fårr ekksemmpel ifra elljve å # te # litt før sju da 
+                           fårr da kåmm jo mettan
+
+sel_uio_0102_orthography   å ja da # det var netter vi kunne sove # heile natta 
+                           for eksempel ifrå elleve og # til # litt før sju da 
+                           for da kom jo +x_mettane
+
+int                        ja # ja
+
+int_orthography            ja # ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        kom ?
+
+int_orthography            kom ?
+
+sel_uio_0102               mett'n
+
+sel_uio_0102_orthography   +x_metten
+
+int                        kva det %u
+
+int_orthography            kva det %u
+
+sel_uio_0102               ee væropservasjone
+
+sel_uio_0102_orthography   e vêrobservasjonar
+
+int                        å ja %l
+
+int_orthography            å ja %l
+
+sel_uio_0102               ja # +l ja
+
+sel_uio_0102_orthography   ja # +l ja
+
+sel_uio_0102               de va oppi BøverdaLn å i
+
+sel_uio_0102_orthography   det var oppi Bøverdalen og i
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0102               å korr de va %u
+
+sel_uio_0102_orthography   og kor det var %u
+
+sel_uio_0102               Våggå
+
+sel_uio_0102_orthography   Vågå
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0102               å BøverdaLn
+
+sel_uio_0102_orthography   og Bøverdalen
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               dømm ha væropservasjone # såmm demm sænnte presis da 
+                           o va sju
+
+sel_uio_0102_orthography   dei hadde vêrobservasjonar # som dei sende presis da 
+                           ho var sju
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               %u …
+
+sel_uio_0102_orthography   %u …
+
+int                        kva de gjorde med dei ?
+
+int_orthography            kva de gjorde med dei ?
+
+sel_uio_0102               du omm mårrgån så sætt åss de bære åver åt telegraf 
+                           i Ossjlo
+
+sel_uio_0102_orthography   du om morgonen så sette vi det berre over åt 
+                           telegraf i Oslo
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0102               menn kLukka ettj å kLukka ee nitt'n ## ja trætt'n å 
+                           nitt'n da tok åss imot å sænnte videre
+
+sel_uio_0102_orthography   men klokka eitt og klokka e nitten ## ja tretten og 
+                           nitten da tok vi imot og sende vidare
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+sel_uio_0102               så de va likksåmm telegrafarrbei da # jekk # 
+                           telegramm
+
+sel_uio_0102_orthography   så det var liksom telegrafarbeid da # gikk # telegram
+
+int                        var det andre # ee ## oppdrag de hadde # ved sida av 
+                           det å # kople
+
+int_orthography            var det andre # e ## oppdrag de hadde # ved sida av 
+                           det å # kople
+
+sel_uio_0102               ee ja du veit åss hadde jo brannmellinga sett i 
+                           ganng brannvassjlinga
+
+sel_uio_0102_orthography   e ja du veit vi hadde jo brannmeldingar sette i gang 
+                           brannvarslinga
+
+sel_uio_0102               fårr da rinngte dømm # viss de va brann så rinngt 
+                           emm åt åss da veit du # fysste åss måtte jørra va jo 
+                           å sjlå på brannsirena
+
+sel_uio_0102_orthography   for da ringde dei # viss det var brann så ringde dei 
+                           åt oss da veit du # første vi måtte gjere var jo å 
+                           slå på brannsirena
+
+int                        ja
+
+int_orthography            ja
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               å mænns åss styrte denn da da mått åss sjynnte åss å 
+                           rinnge runnt åt fåsjellie
+
+sel_uio_0102_orthography   og mens vi styrte den da da måtte vi skynde oss å 
+                           ringe rundt åt forskjellige
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så fækk åss vållsåmmt te opprinngning da veit du
+
+sel_uio_0102_orthography   så fekk vi valdsamt til oppringing da veit du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               de lysste åver heile boLe åffte
+
+sel_uio_0102_orthography   det lyste over heile bordet ofte
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               «korr æ de brennj ? korr æ de brennj ?»
+
+sel_uio_0102_orthography   «kor er det brenn ? kor er det brenn ?»
+
+sel_uio_0102               så måtte åss prøve å pLugge inn å svårrå så gått åss 
+                           konne
+
+sel_uio_0102_orthography   så måtte vi prøve å plugge inn og svare så godt vi 
+                           kunne
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               mænns åss styrte # sirena da f e si
+
+sel_uio_0102_orthography   mens vi styrte # sirena da får eg seie
+
+sel_uio_0102               å så hadd åss alarrm i branna- ja tjuverialarrm # 
+                           næi sjlik ee ## %q ka ska e si innjbruddsalarrm på 
+                           banngken
+
+sel_uio_0102_orthography   og så hadde vi alarm i branna- ja tjuverialarm # nei 
+                           slik e ## %q kva skal eg seie innbrottsalarm på 
+                           banken
+
+int                        å
+
+int_orthography            å
+
+sel_uio_0102               begge banngkan
+
+sel_uio_0102_orthography   begge bankane
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               påsskontore
+
+sel_uio_0102_orthography   postkontoret
+
+sel_uio_0102               ee de rinngte sjå åss da # jikk allarrm dær viss de 
+                           va # fåsjøk på innjbrudd menn dæ va de nå kje
+
+sel_uio_0102_orthography   e det ringde hjå oss da # gjekk alarm der viss det 
+                           var # forsøk på innbrott men det var det nå ikkje
+
+int                        nei
+
+int_orthography            nei
+
+sel_uio_0102               %l mn de hænnte jo att dømm tok i miss på banngken å 
+                           sætte de i ganng sjøL da
+
+sel_uio_0102_orthography   %l men det hende jo at dei tok i miss på banken og 
+                           sette det i gang sjølve da
+
+sel_uio_0102               %l så åss skvatt nå någgre gånngå
+
+sel_uio_0102_orthography   %l så vi skvatt nå nokre gongar
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               menn de va nå hellst ## på dagti
+
+sel_uio_0102_orthography   men det var nå helst ## på dagtid
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så nåko anna veit e kje sjlik
+
+sel_uio_0102_orthography   så noko anna veit eg ikkje slik
+
+sel_uio_0102               jøu da # va mykkjy hænnvænnser fra private såmm sku 
+                           jøLLpe veit du me dihtt å dahtt veit du å
+
+sel_uio_0102_orthography   jo da # var mykje +x_henvendelser frå private som 
+                           skulle hjelpe veit du med ditt og datt veit du og
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0102               ja da %u
+
+sel_uio_0102_orthography   ja da %u
+
+int                        eksempel ?
+
+int_orthography            eksempel ?
+
+sel_uio_0102               ja de kunn jo vær fåLLK såmm va ## ja både sjukdomm 
+                           å sjlik veit du att åss fækk tak i leger fårr dømm å
+
+sel_uio_0102_orthography   ja det kunne jo vere folk som var ## ja både sjukdom 
+                           og slikt veit du at vi fekk tak i legar for dei og
+
+int                        å ja # mm
+
+int_orthography            å ja # mm
+
+sel_uio_0102               fåkLarte så gått åss kunne både ## sjukdommen å # å 
+                           veigen da
+
+sel_uio_0102_orthography   forklarte så godt vi kunne både ## sjukdommen og # 
+                           og vegen da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å tok imot besje fra dåkktern att # «e reise dit å 
+                           dit å æ tebake kLåkka da å da» fårr eksemmpel å
+
+sel_uio_0102_orthography   og tok imot beskjed frå doktoren at # «eg reiser dit 
+                           og dit og er tilbake klokka da og da» for eksempel og
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å va de nånn så sku ha dåkkter på dennj tia så sætt 
+                           åss dæmm åver åt # denn adressa hann ha åppjidd da
+
+sel_uio_0102_orthography   og var det nokon som skulle ha doktor på den tida så 
+                           sette vi dei over åt # den adressa han hadde oppgitt 
+                           da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               likdann va de me sjukebil å # jormor å
+
+sel_uio_0102_orthography   +x_likedan var eg med sjukebil og # jordmor og
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               sjkik såmm åss fåmiddla besjeer da få e si
+
+sel_uio_0102_orthography   slik som vi formidla beskjeder da får eg seie
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               både vikkti å ikkje vikktie
+
+sel_uio_0102_orthography   både viktige og ikkje viktige
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               så visst e skulle borrt ein kvell så sa e att # «e 
+                           ska e ska borrt i sellskap»
+
+sel_uio_0102_orthography   så viss eg skulle bort ein kveld så sa eg at # «eg 
+                           skal eg skal bort i selskap»
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               +l(ja # "e bli å træffe) dær å dær visst de visst de 
+                           æ telefon åt me # får rinnge dit"
+
+sel_uio_0102_orthography   +l(ja # "eg blir å treffe) der og der viss det viss 
+                           det er telefon åt meg # får ringe dit"
+
+int                        ja
+
+int_orthography            ja
+
+int                        ja
+
+int_orthography            ja
+
+int                        ok
+
+int_orthography            ok
+
+sel_uio_0102               å da sjlikk mått åss sitt å hukksa på da
+
+sel_uio_0102_orthography   og da slik måtte vi sitte og hugse på da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               %l
+
+sel_uio_0102_orthography   %l
+
+int                        det gjorde du
+
+int_orthography            det gjorde du
+
+sel_uio_0102               ja da
+
+sel_uio_0102_orthography   ja da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               fårr du veit åss kjænnte ellje fåLLk
+
+sel_uio_0102_orthography   for du veit vi kjente alle folk
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               å ja
+
+sel_uio_0102_orthography   å ja
+
+sel_uio_0102               behøvvde kje si korr demm rinngte fra
+
+sel_uio_0102_orthography   behøvde ikkje seie kor dei ringde frå
+
+int                        %u eit sakn òg
+
+int_orthography            %u eit sakn òg
+
+int                        i miljøet her
+
+int_orthography            i miljøet her
+
+sel_uio_0102               åss …
+
+sel_uio_0102_orthography   vi …
+
+sel_uio_0102               ja # dæ e dæ
+
+sel_uio_0102_orthography   ja # det er det
+
+sel_uio_0102               nå e åss så fræmmene fårr innjan veit du
+
+sel_uio_0102_orthography   nå er vi så framande for einannan veit du
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så ee # de va virrk'le # sammarbei dennj gånngen
+
+sel_uio_0102_orthography   så e # det var verkeleg # samarbeid den gongen
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               både nårr de jallt arbei å ## privat f e si ## jørrt 
+                           inan
+
+sel_uio_0102_orthography   både når det gjaldt arbeid og ## privat får eg seie 
+                           ## helpte einannan
+
+sel_uio_0102               å veit o F12 ho va nå såmm ei mor fårr åss ellje 
+                           samen
+
+sel_uio_0102_orthography   og veit ho F12 ho var nå som ei mor for oss alle 
+                           saman
+
+int                        ja
+
+int_orthography            ja
+
+int                        kva driv ho på med nå ?
+
+int_orthography            kva driv ho på med nå ?
+
+sel_uio_0102               F12 e dø ho
+
+sel_uio_0102_orthography   F12 er død ho
+
+int                        er ho det
+
+int_orthography            er ho det
+
+sel_uio_0102               ja o va non å åtti år a # da ho døe
+
+sel_uio_0102_orthography   ja ho var nokon og åtti år da  # da ho døde
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+sel_uio_0102               både ho F12 å ho F8 æ burrte
+
+sel_uio_0102_orthography   både ho F12 og ho F8 er borte
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+sel_uio_0102               å ho F7 ha sjlutt- e pangsjonisst # F7 F7
+
+sel_uio_0102_orthography   og ho F7 har sjlutt- er pensjonist # F7 F7
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               F2 ho æ vakktsjef neppå opplysningen
+
+sel_uio_0102_orthography   F2 ho er vaktsjef nedpå opplysninga
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               å dær æ o F9 å o F10
+
+sel_uio_0102_orthography   og der er ho F9 og ho F10
+
+int                        ja
+
+int_orthography            ja
+
+int                        %u
+
+int_orthography            %u
+
+sel_uio_0102               ja da # ja da
+
+sel_uio_0102_orthography   ja da # ja da
+
+sel_uio_0102               dæmm æ hærr ellje sammen
+
+sel_uio_0102_orthography   dei er her alle saman
+
+int                        ja
+
+int_orthography            ja
+
+int                        den gamle tida er forbi
+
+int_orthography            den gamle tida er forbi
+
+sel_uio_0102               denn e fårbi
+
+sel_uio_0102_orthography   den er forbi
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               så dæ fårr n finnje se ti # %l
+
+sel_uio_0102_orthography   så det får ein finne seg i # %l
+
+int                        {avbrot}
+
+int_orthography            {avbrot}
+
+sel_uio_0102               så har e %u nere såmm åss fæ ## gore pæusa fårr da
+
+sel_uio_0102_orthography   så har eg %u nede som vi får ## gode pausar for da
+
+int                        ja
+
+int_orthography            ja
+
+sel_uio_0102               åss fæ # %u fåsjelli te ## sellkåsst'n te få e si da 
+                           %l
+
+sel_uio_0102_orthography   vi får # %u forskjellige til ## sjølvkostet til får 
+                           eg seie da %l
+
+int                        å ja
+
+int_orthography            å ja
+
+sel_uio_0102               ja
+
+sel_uio_0102_orthography   ja
+
+int                        det var berre for tilsette ?
+
+int_orthography            det var berre for tilsette ?
+
+sel_uio_0102               ja da
+
+sel_uio_0102_orthography   ja da
+
+sel_uio_0102               så dæ e jo enn stor fårrdel veit du
+
+sel_uio_0102_orthography   så det er jo ein stor fordel veit du
+
+sel_uio_0102               fårr dær kunn åss likksåmm treffes da # i pøusa
+
+sel_uio_0102_orthography   for der kunne vi liksom treffest da # i pausen
+
+sel_uio_0102               treffes å ## prate sammen
+
+sel_uio_0102_orthography   treffest og ## prate saman
+
+int                        mm
+
+int_orthography            mm
+
+sel_uio_0102               åffte denn einaste kontakkt åss har me einan # mannge
+
+sel_uio_0102_orthography   ofte den einaste kontakt vi har med einannan # mange
+
+int                        ja
+
+int_orthography            ja
+
+int                        {avsluttande kommentarar}
+
+int_orthography            {avsluttande kommentarar}
+

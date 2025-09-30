@@ -1,0 +1,1497 @@
+int1                         kan du seie namnet ditt og kva år årstal du er 
+                             fødd ?
+
+int1_orthography             kan du seie namnet ditt og kva år årstal du er 
+                             fødd ?
+
+stord_uib_1001               stord_uib_1001 å {sensitive personopplysningar}
+
+stord_uib_1001_orthography   stord_uib_1001 og {sensitive personopplysningar}
+
+int1                         og # kvar er det du kjem ifrå ?
+
+int1_orthography             og # kvar er det du kjem ifrå ?
+
+stord_uib_1001               Fjellgarane
+
+stord_uib_1001_orthography   Fjellgardane
+
+int1                         du kjem ifrå Fjellgardane ja ?
+
+int1_orthography             du kjem ifrå Fjellgardane ja ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         akkurat
+
+int1_orthography             akkurat
+
+int1                         er du sjølv fødd der oppe ?
+
+int1_orthography             er du sjølv fødd der oppe ?
+
+stord_uib_1001               omm eg e fødd her på # %u ?
+
+stord_uib_1001_orthography   om eg er fødd her på # %u ?
+
+int1                         ja # foreldra dine # kvar er dei ifrå ?
+
+int1_orthography             ja # foreldra dine # kvar er dei ifrå ?
+
+stord_uib_1001               di e herifrå dei og
+
+stord_uib_1001_orthography   dei er herifrå dei òg
+
+int1                         ja # er det nyleg at dei flytta opp til 
+                             Fjellgardane ?
+
+int1_orthography             ja # er det nyleg at dei flytta opp til 
+                             Fjellgardane ?
+
+stord_uib_1001               ha ?
+
+stord_uib_1001_orthography   kva ?
+
+int1                         er det nyleg at dei flytta opp til %u … ?
+
+int1_orthography             er det nyleg at dei flytta opp til %u … ?
+
+stord_uib_1001               næi de e i # stonn sio då
+
+stord_uib_1001_orthography   nei det er ei # stund sidan da
+
+int1                         ja kor lenge sidan er ?
+
+int1_orthography             ja kor lenge sidan er ?
+
+stord_uib_1001               de e vell # sytt'n år sio nåke sånnt
+
+stord_uib_1001_orthography   det er vel # sytten år sidan noko sånt
+
+int1                         åh ja så du er # er oppvaksen der du eigentleg ?
+
+int1_orthography             å ja så du er # er oppvaksen der du eigentleg ?
+
+stord_uib_1001               jao
+
+stord_uib_1001_orthography   jo
+
+int1                         så ee # da reknar du kanskje sjølv med at du 
+                             snakkar # slik som dei andre på Fjellgardane da ?
+
+int1_orthography             så e # da reknar du kanskje sjølv med at du 
+                             snakkar # slik som dei andre på Fjellgardane da ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         det var greitt # å vite det for oss
+
+int1_orthography             det var greitt # å vite det for oss
+
+int1                         em # viss du # skulle ee # forklare lite grann # 
+                             ee kva folk driv med her på Stord
+
+int1_orthography             em # viss du # skulle e # forklare lite grann # e 
+                             kva folk driv med her på Stord
+
+int1                         kva korleis har du villa # lagt ut det for ein # 
+                             framand ?
+
+int1_orthography             kva korleis har du villa # lagt ut det for ein # 
+                             framand ?
+
+stord_uib_1001               e fåsjellit da de då
+
+stord_uib_1001_orthography   er forskjellig da det da
+
+stord_uib_1001               e sånn iderett du meinar då elle ?
+
+stord_uib_1001_orthography   er sånn idrett du meiner da eller ?
+
+int1                         nei eg tenkjer på arbeid eg # idretten kan vi ta 
+                             seinare
+
+int1_orthography             nei eg tenker på arbeid eg # idretten kan vi ta 
+                             seinare
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+stord_uib_1001               koss ska e fåklara da %u ?
+
+stord_uib_1001_orthography   korleis skal eg forklare det %u ?
+
+int1                         ja kva lever folk av ?
+
+int1_orthography             ja kva lever folk av ?
+
+stord_uib_1001               de e vell # d e møttje jorbruk e da vell hær # 
+                             sånn ee # så e dar ee # byggningsfållk # 
+                             annleggskara å # annleggsfållk
+
+stord_uib_1001_orthography   det er vel # det er mykje jordbruk er det vel her 
+                             # sånn e # så er der e # bygningsfolk # 
+                             anleggskarar og # anleggsfolk
+
+int1                         anlegg på ee ?
+
+int1_orthography             anlegg på e ?
+
+stord_uib_1001               ånn veibygging å +u ee
+
+stord_uib_1001_orthography   sånn vegbygging og +u e
+
+int1                         ja
+
+int1_orthography             ja
+
+int1                         kva gjer dine foreldre ?
+
+int1_orthography             kva gjer dine foreldre ?
+
+stord_uib_1001               far minn a e no snikker # å o # mamma hu jåbba # 
+                             heima
+
+stord_uib_1001_orthography   far min han er nå snikkar # og ho # mamma ho 
+                             jobbar # heime
+
+int1                         ee ja # så ja det er bustadfelt oppå der altså det 
+                             er ikkje alle som har gardar som bur der oppe ?
+
+int1_orthography             e ja # så ja det er bustadfelt oppå der altså det 
+                             er ikkje alle som har gardar som bur der oppe ?
+
+stord_uib_1001               næi e tje alle de e # dei så bur ee # lenngst mot 
+                             # Rommetet kann du sei
+
+stord_uib_1001_orthography   nei er ikkje alle det er # dei som bur e # lengst 
+                             mot # Rommetveit kan du seie
+
+int1                         ja ?
+
+int1_orthography             ja ?
+
+stord_uib_1001               der e # e tje så møttje gara
+
+stord_uib_1001_orthography   der er # er ikkje så mykje gardar
+
+stord_uib_1001               messt åppå dær # åppå tåppen
+
+stord_uib_1001_orthography   mest oppå der # oppå toppen
+
+int1                         mm
+
+int1_orthography             mm
+
+int1                         em # kva gjer ee # du på fritid ? # er du mykje på 
+                             Leirvik ?
+
+int1_orthography             em # kva gjer e # du på fritid ? # er du mykje på 
+                             Leirvik ?
+
+stord_uib_1001               næi e nesst'n ittje nåke på Lærvik
+
+stord_uib_1001_orthography   nei er nesten ikkje noko på Leirvik
+
+int1                         berre i skoletid ?
+
+int1_orthography             berre i skoletid ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         kva gjer de da ?
+
+int1_orthography             kva gjer de da ?
+
+stord_uib_1001               i skoltio ?
+
+stord_uib_1001_orthography   i skoletida ?
+
+int1                         nei eg tenkjer på ee i fritida eg
+
+int1_orthography             nei eg tenker på e i fritida eg
+
+stord_uib_1001               næi e spilla fottball å # jåbba heima
+
+stord_uib_1001_orthography   nei eg speler fotball og # jobbar heime
+
+int1                         ja # kva arbeid # ee gjer du da ?
+
+int1_orthography             ja # kva arbeid # e gjer du da ?
+
+stord_uib_1001               ja de e å gå i fjøse å # sånnt # %u
+
+stord_uib_1001_orthography   ja det er å gå i fjøset og # sånt # %u
+
+int1                         i fjøset # ja til nokon andre da til naboen +u 
+                             eller ?
+
+int1_orthography             i fjøset # ja til nokon andre da til naboen +u 
+                             eller ?
+
+stord_uib_1001               ne te # å- åss sjøl
+
+stord_uib_1001_orthography   nei til # o- oss sjølve
+
+int1                         å de har sjølve ?
+
+int1_orthography             å de har sjølve ?
+
+int1                         de har fjøs sjølve ja ?
+
+int1_orthography             de har fjøs sjølve ja ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         akkurat
+
+int1_orthography             akkurat
+
+int1                         så de har ein liten gard i tillegg til ## til at 
+                             far din er snikkar ?
+
+int1_orthography             så de har ein liten gard i tillegg til ## til at 
+                             far din er snikkar ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         em ## og det likar du å drive med # fjøsstell ?
+
+int1_orthography             em ## og det likar du å drive med # fjøsstell ?
+
+stord_uib_1001               ee ja ## tjekkt da
+
+stord_uib_1001_orthography   e ja ## kjekt det
+
+int1                         ja kva ee # kva er det som er det m- det kjekke # 
+                             med det ?
+
+int1_orthography             ja kva e # kva er det som er det m- det kjekke # 
+                             med det ?
+
+stord_uib_1001               nei de e jo %l # stella me dyro å # %u
+
+stord_uib_1001_orthography   nei det er jo %l # stelle med dyra og # %u
+
+int1                         mm
+
+int1_orthography             mm
+
+int1                         ja kva dyr har de ?
+
+int1_orthography             ja kva dyr har de ?
+
+stord_uib_1001               e tjyr o # okksa å søue å # gris å # hønns å allt
+
+stord_uib_1001_orthography   er kyr og # oksar og sauer og # gris og # høns og 
+                             alt
+
+int1                         åh ja # heile utvalet ?
+
+int1_orthography             å ja # heile utvalet ?
+
+stord_uib_1001               +u ja
+
+stord_uib_1001_orthography   +u ja
+
+int1                         seier du sparkar fotball # em # er det gode 
+                             forhold for å drive med # slik sport ?
+
+int1_orthography             seier du sparkar fotball # em # er det gode 
+                             forhold for å drive med # slik sport ?
+
+stord_uib_1001               ee ja # da æ da
+
+stord_uib_1001_orthography   e ja # det er det
+
+int1                         kor ee # ja kva betyr det er det # kvar ee sparkar 
+                             du hen ?
+
+int1_orthography             kor e # ja kva betyr det er det # kvar e sparkar 
+                             du hen ?
+
+stord_uib_1001               sparrka på Rommetveit # på dænn grusban'n så ligge
+
+stord_uib_1001_orthography   sparkar på Rommetveit # på den grusbanen som ligg
+
+int1                         nedpå skolen ?
+
+int1_orthography             nedpå skolen ?
+
+stord_uib_1001               ee ja
+
+stord_uib_1001_orthography   e ja
+
+int1                         ja # og ee # der er det bra forhold med å dusje og 
+                             ?
+
+int1_orthography             ja # og e # der er det bra forhold med å dusje og ?
+
+stord_uib_1001               ee ja
+
+stord_uib_1001_orthography   e ja
+
+int1                         treningsmoglegheiter er det det ?
+
+int1_orthography             treningsmoglegheiter er det det ?
+
+stord_uib_1001               ee ja %u …
+
+stord_uib_1001_orthography   e ja %u …
+
+int1                         %u …
+
+int1_orthography             %u …
+
+stord_uib_1001               låv å låna gymmsal'n nå de e stykkt ver # ute # 
+                             ittje kann væra ute # få vær i gymmsal'n då å spela
+
+stord_uib_1001_orthography   lov å låne gymsalen når det er stygt vêr # ute # 
+                             ikkje kan vere ute # får vere i gymsalen da og 
+                             spele
+
+int1                         ja er det dette organisert på nokon måte ?
+
+int1_orthography             ja er det dette organisert på nokon måte ?
+
+stord_uib_1001               ja ## fårr # vi he treningstie
+
+stord_uib_1001_orthography   ja ## for # vi har treningstider
+
+stord_uib_1001               he lilleputta å gutte å smågutte å junior å # 
+                             sjellige treningstie
+
+stord_uib_1001_orthography   har lilleputtar og gutar og smågutar og junior og 
+                             # forskjellige treningstider
+
+int1                         mm
+
+int1_orthography             mm
+
+int1                         ja og ee # det er eit idrettslag da ?
+
+int1_orthography             ja og e # det er eit idrettslag da ?
+
+stord_uib_1001               hæ ?
+
+stord_uib_1001_orthography   hæ ?
+
+int1                         det er eit idrettslag som liksom organiserer ?
+
+int1_orthography             det er eit idrettslag som liksom organiserer ?
+
+stord_uib_1001               ja # de e Trott
+
+stord_uib_1001_orthography   ja # det er Trott
+
+int1                         kva ?
+
+int1_orthography             kva ?
+
+stord_uib_1001               de Trått heta da
+
+stord_uib_1001_orthography   det Trott heiter det
+
+int1                         Trott ?
+
+int1_orthography             Trott ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         åh ja
+
+int1_orthography             å ja
+
+int1                         em # er det andre # idrettsgreiner du driv ?
+
+int1_orthography             em # er det andre # idrettsgreiner du driv ?
+
+stord_uib_1001               drive lånngrenn ## omm vinntærne då
+
+stord_uib_1001_orthography   driv langrenn ## om vintrane da
+
+int1                         ja
+
+int1_orthography             ja
+
+int1                         ja det går vel greitt å drive her det er # det er 
+                             vel såpass snø ?
+
+int1_orthography             ja det går vel greitt å drive her det er # det er 
+                             vel såpass snø ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         men ee slik som andre jamaldringar # kva driv dei 
+                             da ?
+
+int1_orthography             men e slik som andre jamaldringar # kva driv dei 
+                             da ?
+
+stord_uib_1001               de e de mesta fottball å # nåken går vell på turrn
+
+stord_uib_1001_orthography   det er det meste fotball og # nokre går vel på turn
+
+int1                         på turn ?
+
+int1_orthography             på turn ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         og der på Rommetveit ?
+
+int1_orthography             og der på Rommetveit ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         så de synest at det er # det er bra # moglegheiter 
+                             til å # drive slikt ?
+
+int1_orthography             så de synest at det er # det er bra # moglegheiter 
+                             til å # drive slikt ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         er du med i # nokon slags organisasjonar ?
+
+int1_orthography             er du med i # nokon slags organisasjonar ?
+
+stord_uib_1001               næi
+
+stord_uib_1001_orthography   nei
+
+int1                         utanom # idretten ?
+
+int1_orthography             utanom # idretten ?
+
+stord_uib_1001               næ
+
+stord_uib_1001_orthography   nei
+
+int1                         er du interessert i # musikk ?
+
+int1_orthography             er du interessert i # musikk ?
+
+stord_uib_1001               nei %l ## da e eg ittje
+
+stord_uib_1001_orthography   nei %l ## det er eg ikkje
+
+int1                         ikkje det ?
+
+int1_orthography             ikkje det ?
+
+stord_uib_1001               næ
+
+stord_uib_1001_orthography   nei
+
+int1                         så du spelar ikkje rock og # «regg» er det det det 
+                             heiter ?
+
+int1_orthography             så du spelar ikkje rock og # «regg» er det det det 
+                             heiter ?
+
+stord_uib_1001               næi
+
+stord_uib_1001_orthography   nei
+
+int2                         %u
+
+int2_orthography             %u
+
+stord_uib_1001               næi e jø tje da
+
+stord_uib_1001_orthography   nei eg gjer ikkje det
+
+int1                         ikkje det # og ikkje spelar du sjølv heller ?
+
+int1_orthography             ikkje det # og ikkje spelar du sjølv heller ?
+
+stord_uib_1001               næi
+
+stord_uib_1001_orthography   nei
+
+stord_uib_1001               +u næi
+
+stord_uib_1001_orthography   +u nei
+
+int1                         men ee bryr du deg med å gå på kino da ?
+
+int1_orthography             men e bryr du deg med å gå på kino da ?
+
+stord_uib_1001               ja # e går ve ein gånng i vekå
+
+stord_uib_1001_orthography   ja # eg går vel ein gong i veka
+
+int1                         hit på ?
+
+int1_orthography             hit på ?
+
+stord_uib_1001               e i kulturhuse ## Lærvik
+
+stord_uib_1001_orthography   er i kulturhuset ## Leirvik
+
+int1                         ja
+
+int1_orthography             ja
+
+int1                         og ee likar du ## filmutvalet ?
+
+int1_orthography             og e likar du ## filmutvalet ?
+
+stord_uib_1001               ee ja e kje so dårli # kløppe fillman somm e so 
+                             lanng
+
+stord_uib_1001_orthography   e ja er ikkje så dårleg # klipper filmane som er 
+                             så lange
+
+int1                         at dei som ?
+
+int1_orthography             at dei som ?
+
+stord_uib_1001               di kløppe fillman så møkje
+
+stord_uib_1001_orthography   dei klipper filmane så mykje
+
+int1                         gjer dei det ?
+
+int1_orthography             gjer dei det ?
+
+stord_uib_1001               ee ja
+
+stord_uib_1001_orthography   e ja
+
+stord_uib_1001               berre betavis
+
+stord_uib_1001_orthography   berre betevis
+
+int1                         +u(sei da) kva ee # korleis ser du det da ?
+
+int1_orthography             +u(sei det) kva e # korleis ser du det da ?
+
+stord_uib_1001               ser då nå de tjeme på eine siene så håppa da # 
+                             bønnta da på nutt
+
+stord_uib_1001_orthography   ser da når det kjem på eine sidene så hoppar det # 
+                             begynte det på nytt
+
+int1                         ja
+
+int1_orthography             ja
+
+stord_uib_1001               ser jo lett då
+
+stord_uib_1001_orthography   ser jo lett da
+
+int1                         men trur du at ee kven # kven er det du trur 
+                             klipper # slik da ?
+
+int1_orthography             men trur du at e kven # kven er det du trur 
+                             klipper # slik da ?
+
+stord_uib_1001               hæ ?
+
+stord_uib_1001_orthography   hæ ?
+
+int1                         kven er det som klipper slik da ?
+
+int1_orthography             kven er det som klipper slik da ?
+
+stord_uib_1001               nei e sikkert nei en eller an må vell vær ein # 
+                             idiot %l
+
+stord_uib_1001_orthography   nei er sikkert nei ein eller annan må vel vere ein 
+                             # idiot %l
+
+int1                         %l
+
+int1_orthography             %l
+
+int2                         %l
+
+int2_orthography             %l
+
+int1                         ja så du synest det er plagsamt altså at det # 
+                             ikkje blir samanheng ?
+
+int1_orthography             ja så du synest det er plagsamt altså at det # 
+                             ikkje blir samanheng ?
+
+stord_uib_1001               nja
+
+stord_uib_1001_orthography   nja
+
+int1                         kva filmar er det du likar å sjå ?
+
+int1_orthography             kva filmar er det du likar å sjå ?
+
+stord_uib_1001               e kåbbåifillmar
+
+stord_uib_1001_orthography   er cowboyfilmar
+
+int1                         ja # kva er det # kvifor likar du dei betre enn # 
+                             andre ?
+
+int1_orthography             ja # kva er det # kvifor likar du dei betre enn # 
+                             andre ?
+
+stord_uib_1001               næi eg vet ikkje eg menn # de e mærr futt i di
+
+stord_uib_1001_orthography   nei eg veit ikkje eg men # det er meir futt i dei
+
+int1                         futt ?
+
+int1_orthography             futt ?
+
+stord_uib_1001               sjyting å
+
+stord_uib_1001_orthography   skyting og
+
+int1                         så skyting er futt ?
+
+int1_orthography             så skyting er futt ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int1                         kor ee ## ee synest du at det er nok cowboyfilmar ?
+
+int1_orthography             kor e ## e synest du at det er nok cowboyfilmar ?
+
+stord_uib_1001               ee jå # da e da
+
+stord_uib_1001_orthography   e ja # det er det
+
+int1                         det var vel meir før var det ikkje det ?
+
+int1_orthography             det var vel meir før var det ikkje det ?
+
+stord_uib_1001               m nei
+
+stord_uib_1001_orthography   m nei
+
+int1                         så ee # men ee
+
+int1_orthography             så e # men e
+
+int1                         vi har brukt å spørje folk her om dei bruker å 
+                             vere noko på sjøen i båt # er du det ?
+
+int1_orthography             vi har brukt å spørje folk her om dei bruker å 
+                             vere noko på sjøen i båt # er du det ?
+
+stord_uib_1001               ee jå de e e # sommaren
+
+stord_uib_1001_orthography   e ja det er eg # sommaren
+
+int1                         jaha ?
+
+int1_orthography             jaha ?
+
+stord_uib_1001               har no ein lit'n robåt
+
+stord_uib_1001_orthography   har nå ein liten robåt
+
+int1                         ja vel # så det # bruker å fiske lite grann og ?
+
+int1_orthography             ja vel # så det # bruker å fiske lite grann og ?
+
+stord_uib_1001               mm
+
+stord_uib_1001_orthography   mm
+
+int1                         ja du ee skal vi sjå # vil du ta over du int2 ?
+
+int1_orthography             ja du e skal vi sjå # vil du tar over du int2 ?
+
+int2                         m
+
+int2_orthography             m
+
+int1                         og fortsetje ?
+
+int1_orthography             og fortsetje ?
+
+int2                         kva slags ee # valfag # har du ?
+
+int2_orthography             kva slags e # valfag # har du ?
+
+stord_uib_1001               e har ee sløyd # å så har eg fissk å sjøfart
+
+stord_uib_1001_orthography   eg har e sløyd # og så har eg fiske og sjøfart
+
+int2                         kva likar du best da ?
+
+int2_orthography             kva likar du best da ?
+
+stord_uib_1001               fissk å sjøfart
+
+stord_uib_1001_orthography   fiske og sjøfart
+
+int2                         kva er det eigentleg de lærer der ?
+
+int2_orthography             kva er det eigentleg de lærer der ?
+
+stord_uib_1001               hæ ?
+
+stord_uib_1001_orthography   hæ ?
+
+int2                         kva er det eigentleg de lærer der ?
+
+int2_orthography             kva er det eigentleg de lærer der ?
+
+stord_uib_1001               ja de e # omm båt'n å # sjøregla å # all sånn så 
+                             de ær
+
+stord_uib_1001_orthography   ja det er # om båten og # sjøreglar og # alt sånt 
+                             som det der
+
+stord_uib_1001               ska åppføra deg på sjød'n å
+
+stord_uib_1001_orthography   skal oppføre deg på sjøen og
+
+int2                         mm
+
+int2_orthography             mm
+
+stord_uib_1001               sånnt
+
+stord_uib_1001_orthography   sånt
+
+int2                         ja er det noko du meiner du kan få bruk for ?
+
+int2_orthography             ja er det noko du meiner du kan få bruk for ?
+
+stord_uib_1001               nja
+
+stord_uib_1001_orthography   nja
+
+stord_uib_1001               sjøregla kann e få bruk fårr # ka du børr hellst 
+                             ha me deg å # i båt'n
+
+stord_uib_1001_orthography   sjøreglar kan eg få bruk for # kva du bør helst ha 
+                             med deg og # i båten
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         ee du har ikkje har du har du tenkt å ## dra ee 
+                             dra på bli noko utpå sjøen seinare eller # %u ?
+
+int2_orthography             e du har ikkje har du har du tenkt å ## dra e dra 
+                             på bli noko utpå sjøen seinare eller # %u ?
+
+stord_uib_1001               %q næi ## tru tje da
+
+stord_uib_1001_orthography   %q nei ## trur ikkje det
+
+int2                         nei
+
+int2_orthography             nei
+
+int2                         ikkje dra uti Nordsjøen heller ?
+
+int2_orthography             ikkje dra uti Nordsjøen heller ?
+
+stord_uib_1001               næi
+
+stord_uib_1001_orthography   nei
+
+int2                         nei
+
+int2_orthography             nei
+
+int2                         kva er det de driv på med i sløyden da ?
+
+int2_orthography             kva er det de driv på med i sløyden da ?
+
+stord_uib_1001               %u # laga skåle å # hyddle å all sånnt
+
+stord_uib_1001_orthography   %u # lagar skåler og # hyller og alt sånt
+
+int2                         det er tresløyden altså ?
+
+int2_orthography             det er tresløyden altså ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int2                         då- du er berre der ?
+
+int2_orthography             då- du er berre der ?
+
+stord_uib_1001               ee ja
+
+stord_uib_1001_orthography   e ja
+
+int2                         de har ikkje moglegheiter til å ## drive med nokon 
+                             andre materiale ?
+
+int2_orthography             det er ikkje moglegheiter til å ## drive med nokon 
+                             andre materiale ?
+
+stord_uib_1001               næi ## de ha ittje
+
+stord_uib_1001_orthography   nei ## det har ikkje
+
+int2                         ee kva for nokon # fag er det du likar best på 
+                             skolen ?
+
+int2_orthography             e kva for nokon # fag er det du likar best på 
+                             skolen ?
+
+stord_uib_1001               ee mattmatikk ## e besst
+
+stord_uib_1001_orthography   e matematikk ## er best
+
+int2                         jaha # skal du fortsette med det seinare da ?
+
+int2_orthography             jaha # skal du fortsette med det seinare da ?
+
+stord_uib_1001               næi e vætt tje eg # he no tenngt å bli # bonnde
+
+stord_uib_1001_orthography   nei eg veit ikkje eg # har nå tenkt å bli # bonde
+
+int2                         jaha
+
+int2_orthography             jaha
+
+int2                         må du skal du # gå på nokon skole for det eller ?
+
+int2_orthography             må du skal du # gå på nokon skole for det eller ?
+
+stord_uib_1001               ska gå på lannbruskule
+
+stord_uib_1001_orthography   skal gå på landbruksskole
+
+int2                         kor hen da ?
+
+int2_orthography             kor hen da ?
+
+stord_uib_1001               de vett ittje eg # føss ska e gå på ee # 
+                             yrrkeskul'n de håpa eg på
+
+stord_uib_1001_orthography   det veit ikkje eg # først skal eg gå på e # 
+                             yrkesskolen det håpar eg på
+
+int2                         er det noka spesiell linje som # kvalifiserer ?
+
+int2_orthography             er det noka spesiell linje som # kvalifiserer ?
+
+stord_uib_1001               ja e # spara # masjin å mekanikarlinnjo # ska e gå
+
+stord_uib_1001_orthography   ja er # spare # maskin- og mekanikarlinja # skal 
+                             eg gå
+
+int2                         m
+
+int2_orthography             m
+
+int2                         men er det nokon ee jordbruksskole # som er 
+                             forholdsvis nær her ?
+
+int2_orthography             men er det nokon e jordbruksskole # som er 
+                             forholdsvis nær her ?
+
+stord_uib_1001               m e i Høugesunn # på Våss e da ## e di nærrmaste
+
+stord_uib_1001_orthography   m er i Haugesund # på Voss er det ## er dei nærmast
+
+int2                         men du har ikkje noko spesielt lyst til å dra # 
+                             ein av dei stadane ?
+
+int2_orthography             men du har ikkje noko spesielt lyst til å dra # 
+                             ein av dei stadene ?
+
+stord_uib_1001               %u # viss e skall dit so tjem e no te å reisa te 
+                             Høugesunn # trur eg
+
+stord_uib_1001_orthography   %u # viss eg skal dit så kjem eg nå til å reise 
+                             til Haugesund # trur eg
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         men det tar eitt år ?
+
+int2_orthography             men det tar eitt år ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int2                         ja
+
+int2_orthography             ja
+
+int2                         og så dreg du ta- overtek du # garden heime ?
+
+int2_orthography             og så drar du ta- overtar du # garden heime ?
+
+stord_uib_1001               mja
+
+stord_uib_1001_orthography   nja
+
+int2                         det som er planen med tida ?
+
+int2_orthography             det som er planen med tida ?
+
+stord_uib_1001               hæ ?
+
+stord_uib_1001_orthography   hæ ?
+
+int2                         det er det som er planen med tida ?
+
+int2_orthography             det er det som er planen med tida ?
+
+stord_uib_1001               ja
+
+stord_uib_1001_orthography   ja
+
+int2                         så du m ## er # interessert i å +x_forbli på Stord 
+                             ?
+
+int2_orthography             så du m ## er # interessert i å +x_forbli på Stord 
+                             ?
+
+stord_uib_1001               nja # de ar eg
+
+stord_uib_1001_orthography   nja # det har eg
+
+int2                         ingen # lyster om å dra ut ?
+
+int2_orthography             ingen # lyster om å dra ut ?
+
+stord_uib_1001               næ
+
+stord_uib_1001_orthography   nei
+
+int2                         %l
+
+int2_orthography             %l
+
+int2                         viss du skulle ha # valt ein annan stad enn Stord 
+                             da kor skulle det ha vore da trur du ?
+
+int2_orthography             viss du skulle ha # valt ein annan stad enn Stord 
+                             da kor skulle det ha vore da trur du ?
+
+stord_uib_1001               nei da # vett eg ittje
+
+stord_uib_1001_orthography   nei det # veit eg ikkje
+
+int2                         %l
+
+int2_orthography             %l
+
+int2                         har du vore noko særleg ute og reist ?
+
+int2_orthography             er du vore noko særleg ute og reist ?
+
+stord_uib_1001               næi # ha no våre rett ut fåbi # Bærrgen å # Osslo 
+                             å sånne plassa
+
+stord_uib_1001_orthography   nei # har nå vore rett ut forbi # Bergen og # Oslo 
+                             og sånne plassar
+
+int2                         om å gjere å komme fortast mogleg heim igjen ?
+
+int2_orthography             om å gjere å komme fortast mogleg heim igjen ?
+
+stord_uib_1001               ee ja
+
+stord_uib_1001_orthography   e ja
+
+int2                         du ee les du noko særleg utanfor # utanom 
+                             skolepensum ?
+
+int2_orthography             du e les du noko særleg utanfor # utanom 
+                             skolepensum ?
+
+stord_uib_1001               m næi # har tje ti te da %l
+
+stord_uib_1001_orthography   m nei # har ikkje tid til det %l
+
+int2                         ikkje blad ein gong ?
+
+int2_orthography             ikkje blad ein gong ?
+
+stord_uib_1001               jo likksom nåko # Donal å sånn # av å till de e no 
+                             so
+
+stord_uib_1001_orthography   jo liksom noko # Donald og sånn # av og til det er 
+                             nå så
+
+int2                         mm
+
+int2_orthography             mm
+
+stord_uib_1001               %u
+
+stord_uib_1001_orthography   %u
+
+int2                         aviser da ?
+
+int2_orthography             aviser da ?
+
+stord_uib_1001               da les eg åg # kvær dag
+
+stord_uib_1001_orthography   det les eg òg # kvar dag
+
+int2                         ja # kva for ein ?
+
+int2_orthography             ja # kva for ein ?
+
+stord_uib_1001               Høugesunns avis o # Sunnhårla
+
+stord_uib_1001_orthography   Haugesunds avis og # Sunnhordland
+
+int2                         kva er det du først slår opp på ?
+
+int2_orthography             kva er det du først slår opp på ?
+
+stord_uib_1001               sporrt'n %l
+
+stord_uib_1001_orthography   sporten %l
+
+int2                         lokale ee # er det nokon du held med ?
+
+int2_orthography             lokale e # er det nokon du held med ?
+
+stord_uib_1001               i her i Nårrge ?
+
+stord_uib_1001_orthography   i her i Noreg ?
+
+int2                         mm ?
+
+int2_orthography             mm ?
+
+stord_uib_1001               foppalag då elle ke meina- ?
+
+stord_uib_1001_orthography   fotballag da eller kva meine- ?
+
+int2                         ja eg veit ikkje kva du er mest interessert i om 
+                             det er …
+
+int2_orthography             ja eg veit ikkje kva du er mest interessert i om 
+                             det er …
+
+stord_uib_1001               ja e hell jo me Lillistrøm i fottball jaffal
+
+stord_uib_1001_orthography   ja eg held jo med Lillestrøm i fotball iallfall
+
+int2                         jaha
+
+int2_orthography             jaha
+
+int2                         men du les ikkje nokon bøker ?
+
+int2_orthography             men du les ikkje nokon bøker ?
+
+stord_uib_1001               %q næi
+
+stord_uib_1001_orthography   %q nei
+
+int2                         em # kva skal du # på syttande mai ?
+
+int2_orthography             em # kva skal du # på syttande mai ?
+
+stord_uib_1001               ska vær hær # på Lærvik # tror eg
+
+stord_uib_1001_orthography   skal vere her # på Leirvik # trur eg
+
+int2                         kva er det som skjer der da ?
+
+int2_orthography             kva er det som skjer der da ?
+
+stord_uib_1001               nei da vanlega tog o # ka me sæie # tjino å # 
+                             dænns og %u
+
+stord_uib_1001_orthography   nei det vanlege tog og # kan vi seie # kino og # 
+                             dans òg %u
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         skal du gå i toget ?
+
+int2_orthography             skal du går i toget ?
+
+stord_uib_1001               na +u ee +l(de vill no) visa seg e vett ikkje eg
+
+stord_uib_1001_orthography   nja +u e +l(det vil nå) vise seg eg veit ikkje eg
+
+stord_uib_1001               trur ittje da
+
+stord_uib_1001_orthography   trur ikkje det
+
+int2                         du går i niande ikkje sant ? # du skal vere # 
+                             gulruss ?
+
+int2_orthography             du går i niande ikkje sant ? # du skal vere # 
+                             gulruss ?
+
+stord_uib_1001               %q ee ja
+
+stord_uib_1001_orthography   %q e ja
+
+int2                         kva vil det seie eigentleg ? skal de feire noko ?
+
+int2_orthography             kva vil det seie eigentleg ? skal de feire noko ?
+
+stord_uib_1001               %k næi # e no # åpp te seg sjøl då %l
+
+stord_uib_1001_orthography   %k nei # er nå # opp til seg sjølv da %l
+
+int2                         kva ?
+
+int2_orthography             kva ?
+
+stord_uib_1001               de e nå åpp te # kvær ænngkelt de då de e no kje 
+                             så nåke spesiællt
+
+stord_uib_1001_orthography   det er nå opp til # kvar enkelt det da det er nå 
+                             ikkje så noko spesielt
+
+int2                         ja så det er ikkje # det er ikkje # arrangert noko 
+                             ?
+
+int2_orthography             ja så det er ikkje # det er ikkje # arrangert noko 
+                             ?
+
+stord_uib_1001               næ
+
+stord_uib_1001_orthography   nei
+
+int2                         og natt til syttande ?
+
+int2_orthography             og natt til syttande ?
+
+stord_uib_1001               ska væ heima då
+
+stord_uib_1001_orthography   skal vere heime da
+
+int2                         ja i # senga ?
+
+int2_orthography             ja i # senga ?
+
+stord_uib_1001               ja ?
+
+stord_uib_1001_orthography   ja ?
+
+int2                         ja +l vel # %l nei eg berre hadde inntrykk av at 
+                             det kanskje skulle skje noko da
+
+int2_orthography             ja +l vel # %l nei eg berre hadde inntrykk av at 
+                             det kanskje skulle skje noko da
+
+stord_uib_1001               næ
+
+stord_uib_1001_orthography   nei
+
+int2                         men i helgane sånn ee elles i året da ?
+
+int2_orthography             men i helgene sånn e elles i året da ?
+
+stord_uib_1001               kå jere på då ælle ?
+
+stord_uib_1001_orthography   kva gjer på da eller ?
+
+int2                         mm ?
+
+int2_orthography             mm ?
+
+stord_uib_1001               næ de %s ## de e heima å # lata deg
+
+stord_uib_1001_orthography   nei det %s ## det er heime og # latar ldeg
+
+int2                         mm
+
+int2_orthography             mm
+
+stord_uib_1001               har kje nåke å jera på der oppe
+
+stord_uib_1001_orthography   har ikkje noko å gjere på der oppe
+
+int2                         nei # så det blir til da at de drar ned hit ?
+
+int2_orthography             nei # så det blir til da at de drar ned hit ?
+
+stord_uib_1001               jo no e dænns o # omm hellgane
+
+stord_uib_1001_orthography   jo når er dans og # om helgene
+
+int2                         men ikkje berre for å ?
+
+int2_orthography             men ikkje berre for å ?
+
+stord_uib_1001               foppalkammp %u
+
+stord_uib_1001_orthography   fotballkamp %u
+
+int2                         ja
+
+int2_orthography             ja
+
+int2                         i kulturhuset du # er du der noko bortsett frå når 
+                             du går på kino ?
+
+int2_orthography             i kulturhuset du # er du der noko bortsett frå når 
+                             du går på kino ?
+
+stord_uib_1001               %q næi # ikkje nåke å jera på %u # sitta hær i enn 
+                             stol kann du jer heima og
+
+stord_uib_1001_orthography   %q nei # ikkje noko å gjere på %u # sitte her i 
+                             ein stol kan du gjere heime òg
+
+int2                         mm
+
+int2_orthography             mm
+
+stord_uib_1001               %u
+
+stord_uib_1001_orthography   %u
+
+int2                         da ser du sikkert ee ein del TV da ?
+
+int2_orthography             da ser du sikkert e ein del tv da ?
+
+stord_uib_1001               ja da jær eg # e se no # da så e å sjå %l
+
+stord_uib_1001_orthography   ja det gjer eg # eg ser nå # det som er å sjå %l
+
+int2                         m # ja og det er ?
+
+int2_orthography             m # ja og det er ?
+
+stord_uib_1001               nja ifrå # Ettemidasnytt te # Kvellsnytt # allti # 
+                             kvelldo
+
+stord_uib_1001_orthography   nja ifrå # Ettermiddagsnytt til # Kveldsnytt # 
+                             alltid # kveldane
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         er det sånn at du må vere heime for å # passe # 
+                             dyra at du har faste plikter eller er det berre 
+                             når du sjølv # %u … ?
+
+int2_orthography             er det sånn at du må vere heime for å # passe # 
+                             dyra at du har faste plikter eller er det berre 
+                             når du sjølv # %u … ?
+
+stord_uib_1001               næi # n vele sjøl
+
+stord_uib_1001_orthography   nei # ein vel sjølv
+
+stord_uib_1001               nårr eg vill sjøl o
+
+stord_uib_1001_orthography   når eg vil sjølv og
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         kven er det du likar best å stelle med ?
+
+int2_orthography             kven er det du liker best å stelle med ?
+
+stord_uib_1001               da e no # søugene
+
+stord_uib_1001_orthography   det er nå # sauene
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         ja
+
+int2_orthography             ja
+
+int2                         kven er det som treng mest # mest pass ?
+
+int2_orthography             kven er det som treng mest # mest pass ?
+
+stord_uib_1001               hø ?
+
+stord_uib_1001_orthography   kva ?
+
+int2                         kva er det som kven av dei er det som treng mest 
+                             pass ?
+
+int2_orthography             kva er det som kven av dei er det som treng mest 
+                             pass ?
+
+stord_uib_1001               e vell søugene da # tro eg
+
+stord_uib_1001_orthography   er vel sauene det # trur eg
+
+int2                         mm
+
+int2_orthography             mm
+
+int2                         ja
+
+int2_orthography             ja
+
+int2                         kva synest du om dette opplegget her ?
+
+int2_orthography             kva synest du om dette opplegget her ?
+
+stord_uib_1001               næi +l(e vett tje eg) # %u- …
+
+stord_uib_1001_orthography   nei +l(eg veit ikkje eg) # %u- …
+
+int2                         er du opptatt av kva det går ut på ?
+
+int2_orthography             er du opptatt av kva det går ut på ?
+
+stord_uib_1001               næ ittje heilt # sjukkeli
+
+stord_uib_1001_orthography   nei ikkje heilt # skikkeleg
+
+int2                         at vi er ute etter språket ? # lite grann
+
+int2_orthography             at vi er ute etter språket ? # lite grann
+
+int2                         kva synest du om # stordmålet ?
+
+int2_orthography             kva synest du om # stordmålet ?
+
+stord_uib_1001               de e no bra nåkk
+
+stord_uib_1001_orthography   det er nå bra nok
+
+int1                         merkar du nokon forskjellar på ee # slik du sjølv 
+                             snakkar og ee slik ee # vikafolk her snakkar ? # 
+                             folk fra # Vikjo ?
+
+int1_orthography             merkar du nokon forskjellar på e # slik du sjølv 
+                             snakkar og e slik e # +u vikafolk her snakkar ? # 
+                             folk frå # Vika ?
+
+stord_uib_1001               næi # enngkelte ka no vara so # nett kåmmt # ti 
+                             hær menn
+
+stord_uib_1001_orthography   nei # enkelte kan nå vere så # nett komne # til 
+                             her men
+
+stord_uib_1001               da e tje så stor fåsjell der åppe så de e her nere
+
+stord_uib_1001_orthography   det er ikkje så stor forskjell der oppe som det er 
+                             her nede
+
+int1                         det er ikkje så stor ?
+
+int1_orthography             det er ikkje så stor ?
+
+stord_uib_1001               ee næi
+
+stord_uib_1001_orthography   e nei
+
+int1                         nei # kor hen er det fors- # er det nokon som 
+                             snakkar litt forsjellig her da på Stord ?
+
+int1_orthography             nei # kor hen er det fors- # er det nokon som 
+                             snakkar litt forskjellig her da på Stord ?
+
+stord_uib_1001               ja de e nåkke so # tjeme # fløtta %u
+
+stord_uib_1001_orthography   ja det er nokre som # kjem # flytt %u
+
+int1                         ja # men innanfor # Stord kommune ?
+
+int1_orthography             ja # men innanfor # Stord kommune ?
+
+stord_uib_1001               fittjarfållkå di # ja ja de e no tje Storrd menn # 
+                             dei snakka vell likkt
+
+stord_uib_1001_orthography   fitjarfolka dei # ja ja det er nå ikkje Stord men 
+                             # dei snakkar vel likt
+
+int1                         Huglo da ?
+
+int1_orthography             Huglo da ?
+
+stord_uib_1001               snakka likkt der og trur eg nåkelonnde
+
+stord_uib_1001_orthography   snakkar likt der òg trur eg nokolunde
+
+int1                         nokolunde ja # men det kva er det som ikkje er 
+                             heilt da # likt ?
+
+int1_orthography             nokolunde ja # men det kva er det som ikkje er 
+                             heilt da # likt ?
+
+stord_uib_1001               e ve ittj # %u
+
+stord_uib_1001_orthography   eg veit ikkje # %u
+
+int1                         har du ikkje lagt merke til det ?
+
+int1_orthography             har du ikkje lagt merke til det ?
+
+stord_uib_1001               næi
+
+stord_uib_1001_orthography   nei
+
+int1                         nei
+
+int1_orthography             nei
+
+int1                         nei nei men det var bra du syntest at eg snakka 
+                             bra nok
+
+int1_orthography             nei nei men det var bra du syntest at eg snakka 
+                             bra nok
+
+stord_uib_1001               mm
+
+stord_uib_1001_orthography   mm
+
+int1                         trur du vi har vel ikkje meir å # spørje og grave 
+                             om ?
+
+int1_orthography             trur du vi har vel ikkje meir å # spørje og grave 
+                             om ?
+
+int2                         nei
+
+int2_orthography             nei
+
+int2                         nei
+
+int2_orthography             nei
+

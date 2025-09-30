@@ -1,0 +1,7 @@
+AuthUserFile /hf/foni/tekstlab/tilgang/swamp/htpasswd
+AuthName "Textlab user"
+AuthType Basic
+ 
+<Limit GET POST>
+require valid-user
+</Limit> 

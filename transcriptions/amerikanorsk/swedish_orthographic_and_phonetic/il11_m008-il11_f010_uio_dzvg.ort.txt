@@ -1,0 +1,4184 @@
+int                                {innleiiande kommentarar}
+
+int_orthography                    {innleiiande kommentarar}
+
+int                                ee har du bott någon annanstans än # ja du
+                                   har bott i Kalix
+
+int_orthography                    ee har du bott någon annanstans än # ja du
+                                   har bott i Kalix
+
+il11_f010_uio_dzvg                 ja menn du mena i Sväjje
+
+il11_f010_uio_dzvg01_orthography   ja men du menar i Sverige
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 nä # ja bodde alldri nånn annastans i S-
+
+il11_f010_uio_dzvg01_orthography   nä # jag bodde aldrig någon annanstans i S-
+
+int                                nej %u
+
+int_orthography                    nej %u
+
+il11_f010_uio_dzvg                 menn i härr i Uessa ha vi bott på # olika
+                                   stellen
+
+il11_f010_uio_dzvg01_orthography   men i här i USA har vi bott på # olika
+                                   ställen
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 %u +eng(the language # would you have to
+                                   fill in all that) %u
+
+il11_f010_uio_dzvg01_orthography   %u +eng(the language # would you have to
+                                   fill in all that) %u
+
+int                                ja du kan skriva # ditt förstaspråk är
+                                   svenska va ?
+
+int_orthography                    ja du kan skriva # ditt förstaspråk är
+                                   svenska va ?
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                och så lärde du dig svenska # när du föddes
+                                   # gissar jag
+
+int_orthography                    och så lärde du dig svenska # när du föddes
+                                   # gissar jag
+
+il11_f010_uio_dzvg                 %l
+
+il11_f010_uio_dzvg01_orthography   %l
+
+il11_f010_uio_dzvg                 ja %l var var va skriver mann då ?
+
+il11_f010_uio_dzvg01_orthography   ja %l var var vad skriver man då ?
+
+int                                vid födelsen kanske eller som barn
+
+int_orthography                    vid födelsen kanske eller som barn
+
+il11_f010_uio_dzvg                 samm barn
+
+il11_f010_uio_dzvg01_orthography   som barn
+
+int                                och engelska # lärde du dig någon engelska i
+                                   skolan eller var det först när du kom # nej
+                                   # när du kom till USA då ?
+
+int_orthography                    och engelska # lärde du dig någon engelska i
+                                   skolan eller var det först när du kom # nej
+                                   # när du kom till USA då ?
+
+il11_f010_uio_dzvg                 nä nä innte # inn- nä
+
+il11_f010_uio_dzvg01_orthography   nä nä inte # in- nä
+
+int                                skriv
+
+int_orthography                    skriv
+
+il11_f010_uio_dzvg                 kåmmer %u spitt
+
+il11_f010_uio_dzvg01_orthography   kommer %u +x_spit
+
+int                                det gör ingenting
+
+int_orthography                    det gör ingenting
+
+il11_f010_uio_dzvg                 %l
+
+il11_f010_uio_dzvg01_orthography   %l
+
+il11_f010_uio_dzvg                 kejj
+
+il11_f010_uio_dzvg01_orthography   okej
+
+int                                lärde du dig engelska och svenska samtidigt
+                                   när du var liten
+
+int_orthography                    lärde du dig engelska och svenska samtidigt
+                                   när du var liten
+
+il11_m008_uio_dzvg                 +eng(no when this # this is entire %u)
+
+il11_m008_uio_dzvg02_orthography   +eng(no when this # this is entire %u)
+
+int                                ja # det förstår jag
+
+int_orthography                    ja # det förstår jag
+
+il11_m008_uio_dzvg                 jä
+
+il11_m008_uio_dzvg02_orthography   +x_yeah
+
+il11_f010_uio_dzvg                 +eng(it's almost easier to talk English now
+                                   than Swedish) %l
+
+il11_f010_uio_dzvg01_orthography   +eng(it's almost easier to talk English now
+                                   than Swedish) %l
+
+int                                ja %l
+
+int_orthography                    ja %l
+
+il11_f010_uio_dzvg                 okej # måsste mann fylla i de här också ?
+
+il11_f010_uio_dzvg01_orthography   okej # måste man fylla i det här också ?
+
+int                                ja lite av det här är # det här behöver du
+                                   inte skriva för att # du är född i Sverige #
+                                   så det kan du hoppa över
+
+int_orthography                    ja lite av det här är # det här behöver du
+                                   inte skriva för att # du är född i Sverige #
+                                   så det kan du hoppa över
+
+il11_f010_uio_dzvg                 åh åh
+
+il11_f010_uio_dzvg01_orthography   åh åh
+
+int                                men här # hur ofta du pratar # ee svenska
+
+int_orthography                    men här # hur ofta du pratar # ee svenska
+
+il11_f010_uio_dzvg                 +eng(every now and then I guess # so I put #
+                                   %u X here)
+
+il11_f010_uio_dzvg01_orthography   +eng(every now and then i guess # so I put #
+                                   %u X here)
+
+int                                ja precis
+
+int_orthography                    ja precis
+
+int                                och så
+
+int_orthography                    och så
+
+il11_f010_uio_dzvg                 +eng(almost)
+
+il11_f010_uio_dzvg01_orthography   +eng(almost)
+
+int                                ni pratar %u svenska # lite
+
+int_orthography                    ni pratar %u svenska # lite
+
+il11_f010_uio_dzvg                 %u
+
+il11_f010_uio_dzvg01_orthography   %u
+
+il11_f010_uio_dzvg                 taL du svänska til dän # ibland
+
+il11_f010_uio_dzvg01_orthography   talar du svenska till den # ibland
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 ibland
+
+il11_f010_uio_dzvg01_orthography   ibland
+
+il11_f010_uio_dzvg                 +eng(and this # and of course the ones in
+                                   Sweden # I talk swedish to the)
+
+il11_f010_uio_dzvg01_orthography   +eng(and this # and of course the ones in
+                                   Sweden # I talk Swedish to the)
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 vell du nånn gånng bo # ee
+
+il11_f010_uio_dzvg01_orthography   vill du någon gång bo # ee
+
+il11_m008_uio_dzvg                 +eng(we go to sweden every other year # so #
+                                   that's about the only time that # I use #
+                                   what little swedish I know)
+
+il11_m008_uio_dzvg02_orthography   +eng(we go to Sweden every other year # so #
+                                   that's about the only time that # I use #
+                                   what little swedish I know)
+
+int                                mm
+
+int_orthography                    mm
+
+int                                då # då pratar
+
+int_orthography                    då # då pratar
+
+int                                ja # men där pratar du svenska ?
+
+int_orthography                    ja # men där pratar du svenska ?
+
+il11_m008_uio_dzvg                 +eng(yes # I understood it # mostly listened)
+
+il11_m008_uio_dzvg02_orthography   +eng(yes # I understood it # mostly listened)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                %l
+
+int_orthography                    %l
+
+il11_f010_uio_dzvg                 läser du någgra # någgon gånng böker
+                                   +eng(you know what I read a lot of swedish #
+                                   stuff every # week I guess)
+
+il11_f010_uio_dzvg01_orthography   läser du några # någon gång böker +eng(you
+                                   know what I read a lot of swedish # stuff
+                                   every # week I guess)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 hm
+
+il11_f010_uio_dzvg01_orthography   hm
+
+int                                och där nere # det är en # en sista # fast
+                                   det är bara två frågor
+
+int_orthography                    och där nere # det är en # en sista # fast
+                                   det är bara två frågor
+
+il11_f010_uio_dzvg                 en till # åh %l
+
+il11_f010_uio_dzvg01_orthography   en till # åh %l
+
+int                                det är # om internet # om du är inne på
+                                   internet och läser på svenska
+
+int_orthography                    det är # om internet # om du är inne på
+                                   internet och läser på svenska
+
+il11_f010_uio_dzvg                 +eng(no # I'm not)
+
+il11_f010_uio_dzvg01_orthography   +eng(no # I'm not)
+
+int                                nej # aldrig då kanske
+
+int_orthography                    nej # aldrig då kanske
+
+int                                och om du tittar på svensk tv
+
+int_orthography                    och om du tittar på svensk tv
+
+il11_f010_uio_dzvg                 ee ## nå
+
+il11_f010_uio_dzvg01_orthography   ee ## +x_no
+
+int                                nej
+
+int_orthography                    nej
+
+int                                tack
+
+int_orthography                    tack
+
+il11_f010_uio_dzvg                 +eng(how are you come # you have more)
+
+il11_f010_uio_dzvg01_orthography   +eng(how are you come # you have more)
+
+int                                okej # då kan kan inte du börja att berätta
+                                   # börja med vad du heter och så kanske du
+                                   kan börja med att berätta # hur det kommer
+                                   sig att du kom till USA
+
+int_orthography                    okej # då kan kan inte du börja att berätta
+                                   # börja med vad du heter och så kanske du
+                                   kan börja med att berätta # hur det kommer
+                                   sig att du kom till USA
+
+il11_f010_uio_dzvg                 ja # ee de måste ja # få se %u ne du # ha du
+                                   %l
+
+il11_f010_uio_dzvg01_orthography   ja # ee det måste jag # få se %u nej du #
+                                   har du %l
+
+int                                det är i gång här ser du det lyser # men du
+                                   behöver inte bry dig om det du kan glömma
+                                   bort det
+
+int_orthography                    det är i gång här ser du det lyser # men du
+                                   behöver inte bry dig om det du kan glömma
+                                   bort det
+
+il11_f010_uio_dzvg                 jao em ja hadd en farrbrorr ee såmm hadde em
+                                   bott i Uessa # närr hann varr öng hann ee
+                                   ock haddi alldri kåmmi hem till Sväjje f- #
+                                   på # trettifemm år
+
+il11_f010_uio_dzvg01_orthography   ja em jag hade en farbror ee som hade em
+                                   bott i USA # när han var ung han ee och hade
+                                   aldrig kommit hem till Sverige f- # på #
+                                   trettiofem år
+
+int                                nej
+
+int_orthography                    nej
+
+il11_f010_uio_dzvg                 senn kåmm hann öpp till ee # åpp till hellsa
+                                   på sinn # sinna # slecktingar å sinn sinna
+                                   bröder # i eh # Kaliks å där vi stor- vi ee
+                                   bodde igentligen ute i S- i på enn liten #
+                                   ee stele såmm hette Storön
+
+il11_f010_uio_dzvg01_orthography   sedan kom han upp till ee # upp +x_till
+                                   hälsa på sin # sina # släktingar och sin
+                                   sina bröder # i eh # Kalix och där vid Stor-
+                                   vi ee bodde egentligen ute i S- i på ett
+                                   litet # ee ställe som hette Storön
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å em # minn pappa # ee # var ennkemann
+
+il11_f010_uio_dzvg01_orthography   och em # min pappa # ee # var änkeman
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 hann hadde fyra barn # tre flickor å n påjjke
+
+il11_f010_uio_dzvg01_orthography   han hade fyra barn # tre flickor och en pojke
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å # minn mamma hadde # ee tebe tuberkulåses
+                                   # så honn va på ett sanatoRiem # ne ja varr
+                                   # ee nä vi vekste öpp
+
+il11_f010_uio_dzvg01_orthography   och # min mamma hade # ee TB +x_tuberkulos #
+                                   så hon var på ett sanatorium # när jag var #
+                                   ee när vi växte upp
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 så vi ee hadde messt hemmjellp ee mycke
+                                   finnskor å olika såmm # tok t- sjötte åmm åss
+
+il11_f010_uio_dzvg01_orthography   så vi ee hade mest hemhjälp ee mycket
+                                   finskor och olika som # tog t- skötte om oss
+
+int                                mm mm
+
+int_orthography                    mm mm
+
+il11_f010_uio_dzvg                 så när minn farrbro kåmm så sa hann att # ee
+                                   # en utav er kann kåmma till Uessa
+
+il11_f010_uio_dzvg01_orthography   så när min farbror kom så sade han att # ee
+                                   # en utav er kan komma till USA
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 %l
+
+il11_f010_uio_dzvg01_orthography   %l
+
+il11_f010_uio_dzvg                 så då va Re jag såmm # +l(såmm sa) # ja jag
+                                   kåmme järna
+
+il11_f010_uio_dzvg01_orthography   så då var det jag som # +l(som sade) # ja
+                                   jag tkommer gärna
+
+int                                sa du då ja %l
+
+int_orthography                    sade du då ja %l
+
+il11_f010_uio_dzvg                 så hann sjicka biljett
+
+il11_f010_uio_dzvg01_orthography   så han skickade biljett
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 sjicka biljett så på n åmm någgra månader så
+                                   ee # så fick ja # ee # biljett på ee ## va
+                                   hete renn dä båten # Grippshållm
+
+il11_f010_uio_dzvg01_orthography   skickade biljett så på en om några månader
+                                   så ee # så fick jag # ee # biljett på ee ##
+                                   vad heter den där båten # Gripsholm
+
+il11_m008_uio_dzvg                 GRuppsåmm
+
+il11_m008_uio_dzvg02_orthography   Gripsholm
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 frånn Jöttebårj
+
+il11_f010_uio_dzvg01_orthography   från Göteborg
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 å ja hadde ju alldri ricktit vari söderut i
+                                   Sväjje då fö ja va ju önng å # å ee
+
+il11_f010_uio_dzvg01_orthography   och jag hade ju aldrig riktigt varit söderut
+                                   i Sverige då för jag var ju ung och # och ee
+
+il11_f010_uio_dzvg                 ee kåmm ti Ståckållm å # var me någgra
+                                   slecktingaR i t- kussin i Ståckhållm å så
+                                   sän så åkte ja till # till ee # Jöttebårrj
+                                   me tåg
+
+il11_f010_uio_dzvg01_orthography   ee kom till Stockholm och # var med några
+                                   släktingar i t- kusin i Stockholm och så
+                                   sedan så åkte jag till # till ee # Göteborg
+                                   med tåg
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 ock ee # togg båten # över # d tog tie dagar
+
+il11_f010_uio_dzvg01_orthography   och ee # tog båten # över # det tog tio dagar
+
+int                                åkte du själv då ?
+
+int_orthography                    åkte du själv då ?
+
+il11_f010_uio_dzvg                 åkte re # åkte själv %l
+
+il11_f010_uio_dzvg01_orthography   åkte det # åkte själv %l
+
+int                                hur var det  ku- # var du lärde du känna
+                                   någon på båten eller ? # nej
+
+int_orthography                    hur var det  ku- # var du lärde du känna
+                                   någon på båten eller ? # nej
+
+il11_f010_uio_dzvg                 nä ja tsjände inngen på båten
+
+il11_f010_uio_dzvg01_orthography   nej jag kände ingen på båten
+
+int                                och du pratade inte engelska då
+
+int_orthography                    och du pratade inte engelska då
+
+il11_f010_uio_dzvg                 nä nä nä nä nä
+
+il11_f010_uio_dzvg01_orthography   nej nej nej nej nej
+
+il11_f010_uio_dzvg                 de va messt # svänskar de va mycke svänskar
+                                   såmm hadd- såmm kåmm fö fösjta gånngen
+
+il11_f010_uio_dzvg01_orthography   det var mest # svenskar det var mycket
+                                   svenskar som hadd- som kom för första gången
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 så ee # nä vi kåmm ti No iårk ee så eh de va
+                                   väldit ja kåmm de fösjta juli
+
+il11_f010_uio_dzvg01_orthography   så ee # när vi kom till New York ee så eh
+                                   det var väldigt jag kom den första juli
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å de va hemmst hett # de va så varrmt de va
+                                   # ja tro de va hönndrafyra grader
+
+il11_f010_uio_dzvg01_orthography   och det var hemskt hett # det var så varmt
+                                   det var # jag tror det var hundrafyra grader
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja he-  %u
+
+int_orthography                    ja he-  %u
+
+il11_f010_uio_dzvg                 å ja kå- ja vet att ja hadde tsjöpt enn #
+                                   fin ylledreckt
+
+il11_f010_uio_dzvg01_orthography   och jag ko- jag vet att jag hade köpt en #
+                                   fin ylledräkt
+
+int                                oj ja
+
+int_orthography                    oj ja
+
+il11_f010_uio_dzvg                 såmm e helveckad ylledreckt föRR Re va så
+                                   modärnt i Svärje å så # g-
+
+il11_f010_uio_dzvg01_orthography   som en helveckad ylledräkt för det var så
+                                   modernt i Sverige och så # g-
+
+il11_f010_uio_dzvg                 ee skor mä rågömmisulor # sånn dä g- stora
+                                   me sådä g- stora rågömmisulor
+
+il11_f010_uio_dzvg01_orthography   ee skor med rågummisulor # sådana där g-
+                                   stora med sådär g- stora rågummisulor
+
+int                                ja
+
+int_orthography                    ja
+
+int                                vad fanta- # ja
+
+int_orthography                    vad fanta- # ja
+
+il11_f010_uio_dzvg                 å ja kåmmer ihåg att de # de varr så hett i
+                                   No iårk å ja jick dä me dåmm dä å dåmm
+                                   {stampar foten i golvet} fassna i gatan %l
+
+il11_f010_uio_dzvg01_orthography   och jag kommer ihåg att det # det var så
+                                   hett i New York och jag gick där med de där
+                                   och de {stampar foten i golvet} fastnade i
+                                   gatan %l
+
+int                                men var det någon som mötte dig eller %u #
+                                   nej
+
+int_orthography                    men var det någon som mötte dig eller %u #
+                                   nej
+
+il11_f010_uio_dzvg                 nä de va inngen såmm möte mejj menn dåmm
+                                   hadde ee dåmm hadde jelp # förr dåmm såmm
+                                   innt könnde prata enngelska
+
+il11_f010_uio_dzvg01_orthography   Nä det var ingen som mötte mig men de hade
+                                   ee de hade hjälp # för dem som inte kunde
+                                   prata engelska
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 så dåmm jellpte till # ee i No iåRk # såo ee
+
+il11_f010_uio_dzvg01_orthography   så de hjälpte till # ee i New York # så ee
+
+int                                å ja # ja
+
+int_orthography                    åh ja # ja
+
+il11_f010_uio_dzvg                 å så k- fick kåmm ja på ett tåg # å dä satt
+                                   ja me enn ee elldre mann
+
+il11_f010_uio_dzvg01_orthography   och så k- fick kom jag på ett tåg # och där
+                                   satt jag med en ee äldre man
+
+il11_f010_uio_dzvg                 ee # såmm # hadde varrt i Uessa månng- #
+                                   gannska månnga år tidigare
+
+il11_f010_uio_dzvg01_orthography   ee # som # hade varit i USA mång- # ganska
+                                   många år tidigare
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 så ja satt me hånnåm på tåge till # till
+                                   Sjickago
+
+il11_f010_uio_dzvg01_orthography   så jag satt med honom på tåget till # till
+                                   Chicago
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å där s- möte minn ee # farrbrorr å fasster
+                                   mejj # så
+
+il11_f010_uio_dzvg01_orthography   och där s- mötte min ee # farbror och faster
+                                   mig # så
+
+int                                vad gjorde du då när du kom fram vad hände
+                                   då vad hände ?
+
+int_orthography                    vad gjorde du då när du kom fram vad hände
+                                   då vad hände ?
+
+il11_f010_uio_dzvg                 så # så senn så då bodde ja med med dåmm
+                                   dåmm bodde ijentligen i enn ee # enn litten
+                                   lägenhet
+
+il11_f010_uio_dzvg01_orthography   så # så sedan så då bodde jag med med dem de
+                                   bodde egentligen i en ee # en liten lägenhet
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å de va veldit varrmt å d- de va ju inngen
+                                   såmm hadde nånn löfftkåndisjonering jusst då
+                                   ja # tyckte ja Gud ja könnde innt vennta ti
+                                   ja könnde åka hemm +l(för de va s-) %l
+
+il11_f010_uio_dzvg01_orthography   och det var väldigt varmt och d- det var ju
+                                   ingen som hade någon luftkonditionering just
+                                   då jag # tyckte jag Gud jag kunde inte vänta
+                                   tills jag kunde åka hem +l(för det var s-) %l
+
+int                                mm
+
+int_orthography                    mm
+
+int                                nej
+
+int_orthography                    nej
+
+int                                %l
+
+int_orthography                    %l
+
+il11_f010_uio_dzvg                 %l
+
+il11_f010_uio_dzvg01_orthography   %l
+
+int                                det var du hadde inte # kunde inte
+                                   föreställa dig att skulle # nej
+
+int_orthography                    det var du hade inte # kunde inte föreställa
+                                   dig att skulle # nej
+
+il11_f010_uio_dzvg                 nä nä  de skulle va så så hett # å varrmt
+
+il11_f010_uio_dzvg01_orthography   när när  de skulle vara så så hett # och
+                                   varmt
+
+int                                nej
+
+int_orthography                    nej
+
+il11_f010_uio_dzvg                 å då senn så varr ja ee bjuden på enn ee ja
+                                   hadde mycke slecktingar här ja hadde
+                                   kussiner å # å så dåmm dåmm hadde nånn
+                                   picknik på ee på n badstrannd
+
+il11_f010_uio_dzvg01_orthography   och då sedan så var jag ee bjuden på en ee
+                                   jag hade mycket släktingar här jag hade
+                                   kusiner och # och så de de hade någon
+                                   picknick på ee på en badstrand
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 dä vi skulle s- dä ja skulle treffa alla
+                                   minna slecktingar å
+
+il11_f010_uio_dzvg01_orthography   där vi skulle s- där jag skulle träffa alla
+                                   mina släktingar och
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 ja vet att ja hadde enn # enn hemmstickad ee
+                                   bikini såmm ja hadde sticka %l
+
+il11_f010_uio_dzvg01_orthography   jag vet att jag hade en # en hemstickad ee
+                                   bikini som jag hade stickat %l
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 de va enn sånn dä tvådelad
+
+il11_f010_uio_dzvg01_orthography   det var en sådan där tvådelad
+
+il11_f010_uio_dzvg                 å minn fasster # honn visst- appsolut få du
+                                   få innte ta på de denn dä
+
+il11_f010_uio_dzvg01_orthography   och min faster # hon visst- absolut får du
+                                   får inte ta på dig den där
+
+int                                +l(nej)
+
+int_orthography                    +l(nej)
+
+il11_f010_uio_dzvg                 så så ja fick annvenda he- etavv en utav
+                                   hennes klenningar %l
+
+il11_f010_uio_dzvg01_orthography   så så jag fick använda he- utav en utav
+                                   hennes klänningar %l
+
+int                                %l
+
+int_orthography                    %l
+
+il11_f010_uio_dzvg                 på pickniken %l
+
+il11_f010_uio_dzvg01_orthography   på picknicken %l
+
+int                                det var
+
+int_orthography                    det var
+
+il11_f010_uio_dzvg                 å de varr då ja treffa alla minna ee #
+                                   kussiner å # å ee
+
+il11_f010_uio_dzvg01_orthography   och det var då jag träffade alla mina ee #
+                                   kusiner och # och ee
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 sän så fick ja ett ee # ett jåbb å sjutte
+                                   åmm någgra barn
+
+il11_f010_uio_dzvg01_orthography   sedan så fick jag ett ee # ett jobb och
+                                   skötte om några barn
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 ee för ett tag
+
+il11_f010_uio_dzvg01_orthography   ee för ett tag
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 åo ee #  å då böjja ja i i k- i kvellskola
+                                   på på Lekvju hajj skol
+
+il11_f010_uio_dzvg01_orthography   och ee # och då började jag i i k- i
+                                   kvällsskola på på Lakeview +x_high +x_school
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å de va R- ee då hadde ja fi- fått ett annat
+                                   jåbb så ja arrbeta för
+
+il11_f010_uio_dzvg01_orthography   och det var R- ee då hade jag fi- fått ett
+                                   annat jobb så jag arbetade för
+
+il11_f010_uio_dzvg                 ee en såmm # ägde enn s- jettestor
+                                   nöjjesparrk i S- i Sjikago såmm hette
+                                   Rivvervju
+
+il11_f010_uio_dzvg01_orthography   ee en som # ägde en s- jättestor nöjespark i
+                                   s- i Chicago som hette Riverview
+
+int                                +u nej
+
+int_orthography                    +u nej
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 de vaRR den stösjta nöjjesparrken i Sjikago
+                                   hann var # dåmm var tysskar å bodde i ett #
+                                   en hög våning där på Lejjksjår drajjv i
+                                   Sjikago
+
+il11_f010_uio_dzvg01_orthography   det var den största nöjesparken i Chicago
+                                   han var # de var tyskar och bodde i ett # en
+                                   hög våning där på Lakeshore Drive i Chicago
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å ja hadde enn # fasster ## ee såmm var
+                                   kokesjka # hoss dåmm
+
+il11_f010_uio_dzvg01_orthography   och jag hade en # faster ## ee som var
+                                   kokerska # hos dem
+
+int                                ja # mm
+
+int_orthography                    ja # mm
+
+il11_f010_uio_dzvg                 så ja fick arrbeta me henne då på # på denn
+                                   därr våningen
+
+il11_f010_uio_dzvg01_orthography   så jag fick arbeta med henne då på # på den
+                                   där våningen
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å ee # de varr då ja börrja å # gå på
+                                   kvellskola så ja tog # ee ## va het- hissen
+                                   ner varrje dag å
+
+il11_f010_uio_dzvg01_orthography   och ee # det var då jag började att # gå på
+                                   kvällsskola så jag tog # ee ## vad het-
+                                   hissen ner varje dag och
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 denn såmm va sjötte åmm hissen # ee var en
+                                   såmm # såmm minn bessta veninna såmm ja
+                                   hadde trefa när ja kåmm ti Sjickago honn
+                                   bodde i samma byggnad såmm mejj
+
+il11_f010_uio_dzvg01_orthography   den som var skötte om hissen # ee var en som
+                                   # som min bästa väninna som jag hade träffat
+                                   när jag kom till Chicago hon bodde i samma
+                                   byggnad som jag
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 honn hette F1
+
+il11_f010_uio_dzvg01_orthography   hon hette F1
+
+il11_f010_uio_dzvg                 å honn ee # hadde treffa denn här såmm
+                                   sjötte åmm hissen å dåmm dåmm hadd ett stort
+                                   bröllåpp
+
+il11_f010_uio_dzvg01_orthography   och hon ee # hade träffat den här som skötte
+                                   om hissen och de de hade ett stort bröllop
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 dåmm vigdes å ja var hennes # ee %l va hete
+                                   re
+
+il11_f010_uio_dzvg01_orthography   de vigdes och jag var hennes # ee %l vad
+                                   heter det
+
+int                                brudtärna
+
+int_orthography                    brudtärna
+
+il11_f010_uio_dzvg                 brutärna ja brutärna
+
+il11_f010_uio_dzvg01_orthography   brudtärna ja brudtärna
+
+il11_f010_uio_dzvg                 å dåmm hadde ett fint bröllåpp för henne å
+                                   denn såmm # honn arrbeta för hann var
+                                   pressident för # ee Dopant
+
+il11_f010_uio_dzvg01_orthography   och de hade ett fint bröllop för henne och
+                                   den som # hon arbetade för han var president
+                                   för # ee Dupont
+
+int                                mm
+
+int_orthography                    mm
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 å dåmm hadde hann gav henne ö- # va hete re
+                                   +eng(give her away)
+
+il11_f010_uio_dzvg01_orthography   och de hade han gav henne ö- # vad heter det
+                                   +eng(give her away)
+
+int                                ja # det # man
+
+int_orthography                    ja # det # man
+
+il11_f010_uio_dzvg                 på eh # i tsjyrrka ja ja i tsjyrrka
+
+il11_f010_uio_dzvg01_orthography   på eh # i kyrkan ja ja i kyrkan
+
+int                                lämnade över henne # mm
+
+int_orthography                    lämnade över henne # mm
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 så
+
+il11_f010_uio_dzvg01_orthography   så
+
+int                                det var # stora världen för dig
+
+int_orthography                    det var # stora världen för dig
+
+il11_f010_uio_dzvg                 +l ja ja de va stora värden fö ja hadde bara
+                                   varrt här någgra månader %l
+
+il11_f010_uio_dzvg01_orthography   +l ja ja det var stora världen för jag hade
+                                   bara varit här några månader %l
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+il11_f010_uio_dzvg                 å de var på denn där kvällskolan såmm hann
+                                   kåmm
+
+il11_f010_uio_dzvg01_orthography   och det var på den där kvällsskolan som han
+                                   kom
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 å hann hadde enn go venn såmm hadde kåmmi
+                                   frånn ee # Sväjje # å skölle arrbeta me sinn
+                                   pappa på # förr hann hadde enn
+
+il11_f010_uio_dzvg01_orthography   och han hade en god vän som hade kommit från
+                                   ee # Sverige # och skulle arbeta med sin
+                                   pappa på # för han hade en
+
+il11_m008_uio_dzvg                 hann vaRR måolar
+
+il11_m008_uio_dzvg02_orthography   han var målare
+
+il11_f010_uio_dzvg                 mål- hann hadde en målarfirrma
+
+il11_f010_uio_dzvg01_orthography   mål- han hade en målarfirma
+
+int                                jaha # jaha
+
+int_orthography                    jaha # jaha
+
+il11_f010_uio_dzvg                 å ee # så hann kåmm å # hann var i
+                                   kvellskolan åckså +eng(then you can %u to
+                                   tell # what you)
+
+il11_f010_uio_dzvg01_orthography   och ee # så han kom och # han var i
+                                   kvällsskolan också +eng(then you can %u to
+                                   tell # what you)
+
+int                                ja # då träffades ni på kvällsskolan
+
+int_orthography                    ja # då träffades ni på kvällsskolan
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+il11_m008_uio_dzvg                 ja ee fRögaR hur kann enn lär'ren # såmm
+                                   baRa tala enng'lska
+
+il11_m008_uio_dzvg02_orthography   jag ee frågar hur kan en lärare # som bara
+                                   talar engelska
+
+il11_m008_uio_dzvg                 ee haRR fyRRti femmti # ee såmm va i skolan
+                                   såmm # pRate innte enngelska
+
+il11_m008_uio_dzvg02_orthography   ee ha förtio femtio # ee som var i skolan
+                                   som # pratar inte engelska
+
+int                                nej
+
+int_orthography                    nej
+
+il11_m008_uio_dzvg                 hur kann # läR'Ren juR de ?
+
+il11_m008_uio_dzvg02_orthography   hur kan # läraren göra det ?
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 så # ee +eng (I was curious)
+
+il11_m008_uio_dzvg02_orthography   så # ee +eng (I was curious)
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 så ja jick me # +eng(this I have to see I
+                                   said)
+
+il11_m008_uio_dzvg02_orthography   så jag gick med # +eng(this I have to see I
+                                   said)
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 ja %l'
+
+il11_f010_uio_dzvg01_orthography   ja %l
+
+il11_m008_uio_dzvg                 än # ee # hann va svänsk minn vi- # ee bikant
+
+il11_m008_uio_dzvg02_orthography   +x_and # ee # han var svensk min vi- # ee
+                                   bekante
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 å s- hann # hadd treffat F2
+
+il11_m008_uio_dzvg02_orthography   och s- han # hade träffat F2
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 M1
+
+il11_f010_uio_dzvg01_orthography   M1
+
+il11_m008_uio_dzvg                 på klasen såo ja träfe häne
+
+il11_m008_uio_dzvg02_orthography   på klassen så jag träffade henne
+
+il11_f010_uio_dzvg                 ja ja %l
+
+il11_f010_uio_dzvg01_orthography   ja ja %l
+
+il11_m008_uio_dzvg                 åo # då börrje vi go tisammas
+
+il11_m008_uio_dzvg02_orthography   och # då började vi gå tillsammans
+
+int                                mm
+
+int_orthography                    mm
+
+int                                men vad gjorde du # då # du var # du var inte
+
+int_orthography                    men vad gjorde du # då # du var # du var inte
+
+il11_m008_uio_dzvg                 ja va s- ja va studenten på NårthoesteRn
+                                   junivöRsiry i Evvensten Illinåj
+
+il11_m008_uio_dzvg02_orthography   jag var s- jag var student på Northwestern
+                                   University i Evanston Illinois
+
+int                                jaha
+
+int_orthography                    jaha
+
+int                                du v-
+
+int_orthography                    du v-
+
+il11_m008_uio_dzvg                 ja ja va # kantsje # trejdje åR i # på minn
+                                   diggRi pRöugRäm
+
+il11_m008_uio_dzvg02_orthography   ja ja var # kanske # tredje år i # på min
+                                   +x_degree +x_program
+
+int                                ja
+
+int_orthography                    ja
+
+int                                som # vad var det du skulle # bli # eller
+                                   vad var det du blev ?
+
+int_orthography                    som # vad var det du skulle # bli # eller
+                                   vad var det du blev ?
+
+il11_m008_uio_dzvg                 ee # je tyhke åmm ee mäthemäriks såo ja
+                                   skulle tennk att ee bli ee lär'ren
+
+il11_m008_uio_dzvg02_orthography   ee # jag tyckte om ee +x_mathematics +x_so
+                                   jag skulle tänka att ee bli ee lärare
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja # just det
+
+int_orthography                    ja # just det
+
+il11_m008_uio_dzvg                 menn ee # å ja skulle gå # till SveRRja åo
+                                   få minn # mäst'Rs diggRi pRöugRäm
+
+il11_m008_uio_dzvg02_orthography   men ee # och jag skulle gå # till Sverige
+                                   och få min # +x_master's +x_degree +x_program
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja # mm
+
+int_orthography                    ja # mm
+
+il11_m008_uio_dzvg                 i mäthemäriks
+
+il11_m008_uio_dzvg02_orthography   i +x_mathematics
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 menn ee k'Rien oår va på # såo
+
+il11_m008_uio_dzvg02_orthography   men ee +x_Korean +x_war var på # så
+
+int                                jah
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ja va i # milliteR så ja kunn innt # lemmna
+                                   # Juessej
+
+il11_m008_uio_dzvg02_orthography   jag var i # militären så jag kunde inte #
+                                   lämna # USA
+
+int                                jaha
+
+int_orthography                    jaha
+
+int                                nej
+
+int_orthography                    nej
+
+il11_m008_uio_dzvg                 dåmm vill innt lemm- ee # sejj ja kann gåo
+                                   ti SveRRje föRR tvåo åR
+
+il11_m008_uio_dzvg02_orthography   de ville inte läm- ee # säga jag kan gå till
+                                   Sverige för två år
+
+il11_f010_uio_dzvg                 nä nä # du kunnd innt lemmna
+
+il11_f010_uio_dzvg01_orthography   nä nä # du kunde inte lämna
+
+int                                nej nej # nej
+
+int_orthography                    nej nej # nej
+
+il11_m008_uio_dzvg                 kantsje effter krig va öuver de dåmm sejjer
+                                   såo jag ee
+
+il11_m008_uio_dzvg02_orthography   kanske efter kriget var över det de säger så
+                                   jag ee
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 jick hit # åo ee sejj'R villk'n soRt arrbet
+                                   ja kann jöRe
+
+il11_m008_uio_dzvg02_orthography   gick hit # och ee säger vilken sorts arbete
+                                   jag kan göra
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 föR ee # såo ja ee +eng(I interviewed # I
+                                   don't know what the word is)
+
+il11_m008_uio_dzvg02_orthography   för ee # så jag ee +eng(I interviewed # I
+                                   don't know what the word is)
+
+int                                mm # intervjuade
+
+int_orthography                    mm # intervjuade
+
+il11_m008_uio_dzvg                 oåkej # ee mä Ajjbiemm kåRpoRejtjen
+
+il11_m008_uio_dzvg02_orthography   okej # ee med IBM +x_corporation
+
+int                                mm
+
+int_orthography                    mm
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 såo ee # +eng(they hired me)
+
+il11_m008_uio_dzvg02_orthography   +x_so ee # +eng(they hired me)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(and I was working in Chicago learning #
+                                   data processing and computers)
+
+il11_m008_uio_dzvg02_orthography   +eng(and I was working in Chicago learning #
+                                   data processing and computers)
+
+int                                jaha a
+
+int_orthography                    jaha ja
+
+il11_m008_uio_dzvg                 +eng(and at the time there were twentythree
+                                   thousand employees # in IBM)
+
+il11_m008_uio_dzvg02_orthography   +eng(and at the time there were twentythree
+                                   thousand employees # in IBM)
+
+int                                oj # ja
+
+int_orthography                    oj # ja
+
+il11_m008_uio_dzvg                 +eng(today there is close to five hundred
+                                   thousand)
+
+il11_m008_uio_dzvg02_orthography   +eng(today there is close to five hundred
+                                   thousand)
+
+int                                ja # +eng(det har hänt mycket) # ja
+
+int_orthography                    ja # +eng(det har hänt mycket) # ja
+
+il11_m008_uio_dzvg                 +eng(it was a small company # and I was with
+                                   them for forty years)
+
+il11_m008_uio_dzvg02_orthography   +eng(it was a small company # and I was with
+                                   them for forty years)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(and em)
+
+il11_m008_uio_dzvg02_orthography   +eng(and em)
+
+int                                så du såg vad som hände när det blev större
+                                   och större och större
+
+int_orthography                    så du så vad som hände när det blev större
+                                   och större och större
+
+il11_f010_uio_dzvg                 ja åo ja åo ja åo ja åo ja
+
+il11_f010_uio_dzvg01_orthography   ja åh ja åh ja åh ja åh ja
+
+il11_m008_uio_dzvg                 +eng(yes # yes)
+
+il11_m008_uio_dzvg02_orthography   +eng(yes # yes)
+
+il11_m008_uio_dzvg                 nä nä ja va femm åsj vi baRe tala svennska #
+                                   på hemm
+
+il11_m008_uio_dzvg02_orthography   när när jag var fem år vi bara talade
+                                   svenska # på hem
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+il11_m008_uio_dzvg                 menn # enn da # pappa # sejjer kåmm nu vi
+                                   ske tale åmm # va %u ju ska jöRe # nu
+
+il11_m008_uio_dzvg02_orthography   men # en dag # pappa # säger kom nu vi ska
+                                   tala om # vad %u +x_you ska göra # nu
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 du ska gå på enn skolan vär alle språokå #
+                                   enngelska
+
+il11_m008_uio_dzvg02_orthography   du ska gå på en skola där alla språkar #
+                                   engelska
+
+int                                mm
+
+int_orthography                    mm
+
+int                                du hadde inte
+
+int_orthography                    du hade inte
+
+il11_m008_uio_dzvg                 du ne ## ja språokå innte enngelska
+
+il11_m008_uio_dzvg02_orthography   du nej ## jaf språkade inte engelska
+
+int                                nej
+
+int_orthography                    nej
+
+il11_m008_uio_dzvg                 baRa svennska på hemm
+
+il11_m008_uio_dzvg02_orthography   bara svenska på hem
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 såo hann sejjeR # nu närr du gåo på skolän
+
+il11_m008_uio_dzvg02_orthography   så han säger # nu när du går på skolan
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 vi ska börrje å baRe tale enngelska pe hemm
+
+il11_m008_uio_dzvg02_orthography   vi ska börja att bara tala engelska på hem
+
+int                                oj oj oj
+
+int_orthography                    oj oj oj
+
+il11_m008_uio_dzvg                 föRR du måste leRe se heRRe te tala enngelska
+
+il11_m008_uio_dzvg02_orthography   för du måste lära sig hur +x_till tala
+                                   engelska
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+il11_m008_uio_dzvg                 +eng(and # from that day forward # we didn't
+                                   speak any Swedish at home)
+
+il11_m008_uio_dzvg02_orthography   +eng(and # from that day forward # we didn't
+                                   speak any Swedish at home)
+
+int                                mhm # men när du började skolan # kunde du
+                                   någon engelska då ?
+
+int_orthography                    mhm # men när du började skolan # kunde du
+                                   någon engelska då ?
+
+il11_m008_uio_dzvg                 dä va svåRt
+
+il11_m008_uio_dzvg02_orthography   det var svårt
+
+int                                det var svårt
+
+int_orthography                    det var svårt
+
+il11_m008_uio_dzvg                 ja menn # e taR baRa lite gRann tid u nåo du
+                                   e ong å
+
+il11_m008_uio_dzvg02_orthography   ja men # det tar bara lite grann tid +x_you
+                                   +x_know du är ung och
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 alle spRåok # enngelska så # du måsstes
+
+il11_m008_uio_dzvg02_orthography   alla språkar # engelska så # du måste
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 prata prata enngelska
+
+il11_f010_uio_dzvg01_orthography   prata prata engelska
+
+int                                ja # men när du var li- innan du bö- hadde
+                                   du svenska # lekkamrater # var det andra
+                                   svenskar där du bodde ?
+
+int_orthography                    ja # men när du var li- innan du bö- hade du
+                                   svenska # lekkamrater # var det andra
+                                   svenskar där du bodde ?
+
+il11_m008_uio_dzvg                 i- nejj # nejj dåmm va e-'
+
+il11_m008_uio_dzvg02_orthography   i- nej # nej de var e-
+
+int                                vem vem nej
+
+int_orthography                    vem vem nej
+
+il11_f010_uio_dzvg                 ve- menn menn dinn mamma och pappa hadde
+                                   mycke svennska väner
+
+il11_f010_uio_dzvg01_orthography   ve- men men din mamma och pappa hade mycket
+                                   svenska vänner
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 mycke dåmm va mycke tissamas me svänskar å
+                                   dåmm hadde ju s- # sinna barn å
+
+il11_f010_uio_dzvg01_orthography   mycket de var mycket tillsammans med
+                                   svenskar och de hade ju s- # sina barn och
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 å i Sjikago alle stur stad'
+
+il11_m008_uio_dzvg02_orthography   och i Chicago alla stora städer
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 dåmm haR så månnga ee # gRups
+
+il11_m008_uio_dzvg02_orthography   de har så många ee # +x_groups
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 grupper ja
+
+il11_f010_uio_dzvg01_orthography   grupper ja
+
+il11_m008_uio_dzvg                 såmm kåmm tisammas såmm tala svennska
+
+il11_m008_uio_dzvg02_orthography   som kom tillsammans som talade svenska
+
+il11_f010_uio_dzvg                 ja # å ja
+
+il11_f010_uio_dzvg01_orthography   ja # å ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                så du # mm
+
+int_orthography                    så du # mm
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+il11_m008_uio_dzvg                 såo # ee
+
+il11_m008_uio_dzvg02_orthography   så # ee
+
+il11_f010_uio_dzvg                 vi tillhörde månnga olika gröpe me
+
+il11_f010_uio_dzvg01_orthography   vi tillhörde många olika grupper med
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 dåmm börrja me ett en gröpp såmm hette
+                                   svänska jillet
+
+il11_f010_uio_dzvg01_orthography   de började med ett en grupp som hette
+                                   svenska gillet
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 å de börrja me alla
+
+il11_f010_uio_dzvg01_orthography   och det började med alla
+
+il11_m008_uio_dzvg                 de va stoR i Sjikago
+
+il11_m008_uio_dzvg02_orthography   den var stor i Chicago
+
+int                                ja det var # ja
+
+int_orthography                    ja det var # ja
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+il11_m008_uio_dzvg                 dåmm jellpte alla
+
+il11_m008_uio_dzvg02_orthography   de hjälpte alla
+
+il11_f010_uio_dzvg                 så de va alla alla såmm kåmm frånn denn #
+                                   tiden
+
+il11_f010_uio_dzvg01_orthography   så det var alla alla som kom från den # tiden
+
+int                                ja # men kunde dina föräldrar # pratade de
+                                   engelska # de kunde prata engelska
+
+int_orthography                    ja # men kunde dina föräldrar # pratade de
+                                   engelska # de kunde prata engelska
+
+il11_m008_uio_dzvg                 nä dåmm böRRja
+
+il11_m008_uio_dzvg02_orthography   när de började
+
+int                                de började också
+
+int_orthography                    de började också
+
+il11_m008_uio_dzvg                 för
+
+il11_m008_uio_dzvg02_orthography   för
+
+il11_f010_uio_dzvg                 menn no hadde då- # dåmm kåmm ju mycke #
+                                   tidigar no # no könde dåmm enngelska
+
+il11_f010_uio_dzvg01_orthography   men nog hade de- # de kom ju mycket #
+                                   tidigare nog # nog kunde de engelska
+
+il11_m008_uio_dzvg                 i # tsjugett # ja # tsjugefemm också
+
+il11_m008_uio_dzvg02_orthography   i # tjugoett # ja # tjugofem också
+
+il11_f010_uio_dzvg                 +u(förr dåmm) kåmm ju nittantsjugisju
+
+il11_f010_uio_dzvg01_orthography   +u(för de) kom ju +x_nittonhundratjugosju
+
+int                                ja
+
+int_orthography                    ja
+
+int                                vet du varför de kom # varför de # åkte ?
+
+int_orthography                    vet du varför de kom # varför de # åkte ?
+
+il11_m008_uio_dzvg                 de vä inngen aRRbete i Sverrje
+
+il11_m008_uio_dzvg02_orthography   de var inget arbete i Sverige
+
+int                                nej # nej
+
+int_orthography                    nej # nej
+
+il11_m008_uio_dzvg                 så # hann kåmmeR å hann treffa menn mamma i
+                                   Sjikagå
+
+il11_m008_uio_dzvg02_orthography   så # han kommer och han träffar min mamma i
+                                   Chicago
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 honn # ha kåmmit ee två åR effteR hånn
+
+il11_m008_uio_dzvg02_orthography   hon # har kommit ee två år efter honom
+
+int                                från också från Piteå
+
+int_orthography                    från också från Piteå
+
+il11_m008_uio_dzvg                 honn kommeR frånn BjuRRnebårk # ee inn
+                                   Finnlenn PåRi
+
+il11_m008_uio_dzvg02_orthography   hon kommer från Björneborg # ee +x_in
+                                   +x_Finland +x_Pori
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 PåRi # ja
+
+il11_f010_uio_dzvg01_orthography   +x_Pori # ja
+
+il11_m008_uio_dzvg                 ja ve dä e enn svennsk stad i Finnlenn #
+                                   däRR demm baRe tale # svennska
+
+il11_m008_uio_dzvg02_orthography   jag vet det är en svensk stad i +x_Finland #
+                                   där de bara talar # svenska
+
+int                                ins- i just det
+
+int_orthography                    ins- i just det
+
+il11_f010_uio_dzvg                 ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja
+
+il11_f010_uio_dzvg                 svennska
+
+il11_f010_uio_dzvg01_orthography   svenska
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 mhm
+
+il11_f010_uio_dzvg01_orthography   mhm
+
+il11_m008_uio_dzvg                 så honn va i ee # tycke åmm att tala
+                                   svennska så på hemm
+
+il11_m008_uio_dzvg02_orthography   så hon var i ee # tycker om att tala svenska
+                                   så på hem
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 minn sisst'R å ja vi baRe tale svennske till
+                                   ja va femm
+
+il11_m008_uio_dzvg02_orthography   min syster och jag vi bara talade svenska
+                                   till jag var fem
+
+int                                och # pratar du svenska # pratar du
+                                   fortsatte du att prata svenska med din
+                                   syster eller # pratade ni # sedan # när ni
+                                   blev större # pra-
+
+int_orthography                    och # pratar du svenska # pratar du
+                                   fortsatte du att prata svenska med din
+                                   syster eller # pratade ni # sedan # när ni
+                                   blev större # pra-
+
+il11_m008_uio_dzvg                 nä femm hunn va sju åR hunn
+
+il11_m008_uio_dzvg02_orthography   nä fem hon var sju år hon
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 honn # töke innte åmm åo tale svennska
+
+il11_m008_uio_dzvg02_orthography   hon # tycker inte om att tala svenska
+
+int                                nej
+
+int_orthography                    nej
+
+int                                nej
+
+int_orthography                    nej
+
+il11_m008_uio_dzvg                 näR alla ee
+
+il11_m008_uio_dzvg02_orthography   när alla ee
+
+il11_f010_uio_dzvg                 menn honn fössjtår
+
+il11_f010_uio_dzvg01_orthography   men hon förstår
+
+il11_m008_uio_dzvg                 honn # %u föRstå # bettre enn ja
+
+il11_m008_uio_dzvg02_orthography   hon # %u förstår # bättre än jag
+
+il11_f010_uio_dzvg                 så
+
+il11_f010_uio_dzvg01_orthography   så
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ee svenns spRåok
+
+il11_m008_uio_dzvg02_orthography   ee svenskt språk
+
+il11_f010_uio_dzvg                 å så va vi allti tisammans # honn jiffte se
+                                   året # innan vi jiffte åss
+
+il11_f010_uio_dzvg01_orthography   och så var vi alltid tillsammans # hon gifte
+                                   sig året # innan vi gifte oss
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 så %u # så den # då hadde ja ijentligen åkt
+                                   # ti Sväjje me båt # å skulle hellsa på dåmm
+                                   dä hemma
+
+il11_f010_uio_dzvg01_orthography   så %u # så den # då hade jag egentligen åkt
+                                   # till Sverige med båt # och skulle hälsa på
+                                   dem där hemma
+
+int                                ja # ja # ja
+
+int_orthography                    ja # ja # ja
+
+il11_f010_uio_dzvg                 å # de vaRR nå fel på de vaRR nå ståRm på
+                                   båten nä vi kåmm tibaks # så
+
+il11_f010_uio_dzvg01_orthography   och # de var något fel på det var någon
+                                   storm på båten när vi kom tillbaka # så
+
+il11_f010_uio_dzvg                 de va fösjenat # s- inna ja kåmm ti Sjickago
+                                   så ja # bara sjynnda me å satte på me
+                                   kLenningen såmm ja skulle hao till
+
+il11_f010_uio_dzvg01_orthography   det var försenat # s- innan jag kom till
+                                   Chicago så jag # bara skyndade mig och satte
+                                   på meg klänningen som jag skulle ha till
+
+int                                mm mm
+
+int_orthography                    mm mm
+
+int                                hmm
+
+int_orthography                    hmm
+
+il11_m008_uio_dzvg                 +eng(same day as the wedding)
+
+il11_m008_uio_dzvg02_orthography   +eng(same day as the wedding)
+
+il11_f010_uio_dzvg                 ja sejm de- samma dag som bröllåppe
+
+il11_f010_uio_dzvg01_orthography   ja +x_same +x_da- samma dag som bröllopet
+
+int                                oj oj oj # ja
+
+int_orthography                    oj oj oj # ja
+
+il11_f010_uio_dzvg                 ja ja # ja
+
+il11_f010_uio_dzvg01_orthography   ja ja # ja
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 menn vi haR månngå månngå bikant såmm e
+                                   fråmm SveRRje # nu
+
+il11_m008_uio_dzvg02_orthography   men vi har många många bekanta som är
+                                   +x_from Sverige # nu
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 så nu dä e skåjj att # höR svennska
+
+il11_m008_uio_dzvg02_orthography   så nu det är skoj att # höra svenska
+
+int                                ja # ja # ja
+
+int_orthography                    ja # ja # ja
+
+il11_m008_uio_dzvg                 åou fuRsöka # tala lite gRann svennska
+
+il11_m008_uio_dzvg02_orthography   och försöka # tala lite grann svenska
+
+int                                och # lyssna på dem kanske när de sjöng i
+                                   dag # ja # det är ju
+
+int_orthography                    och # lyssna på dem kanske när de sjöng i
+                                   dag # ja # det är ju
+
+il11_m008_uio_dzvg                 jo jo # ja
+
+il11_m008_uio_dzvg02_orthography   jo jo # ja
+
+il11_f010_uio_dzvg                 å ja # ja
+
+il11_f010_uio_dzvg01_orthography   å ja # ja
+
+il11_m008_uio_dzvg                 ja vi töck åmm ne # så nu ee
+
+il11_m008_uio_dzvg02_orthography   ja vi tycker om det # så nu ee
+
+il11_m008_uio_dzvg                 ja aRbeta föRR föRRi åR ja va båRt micke
+
+il11_m008_uio_dzvg02_orthography   jag arbetade för förtio år jag var borta
+                                   mycket
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 reste mycke över hela
+
+il11_f010_uio_dzvg01_orthography   reste mycket över hela
+
+int                                ja # över hela världen
+
+int_orthography                    ja # över hela världen
+
+il11_m008_uio_dzvg                 jä ee kånntoRsarbet så
+
+il11_m008_uio_dzvg02_orthography   +x_yeah ee kontorssarbete så
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ee när ja ee bli pentjonerad
+
+il11_m008_uio_dzvg02_orthography   ee när jag ee blev pensionerad
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 i najntin najntioann
+
+il11_m008_uio_dzvg02_orthography   i +x_nineteen +x_ninety-one
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 nu vi hävv bli pentjoneRad föRR nesstan
+                                   tsjuge åR
+
+il11_m008_uio_dzvg02_orthography   nu vi +x_have blivit pensionerade för nästan
+                                   tjugo år
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 jak sejjeR att nju # ee vi ska gå å # em #
+                                   på semest'R
+
+il11_m008_uio_dzvg02_orthography   jag säger att nu # ee vi ska gå och # em #
+                                   på semester
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 så åfft såmm vui kann
+
+il11_m008_uio_dzvg02_orthography   så ofta som vi kan
+
+il11_f010_uio_dzvg                 vi reser mycke nu
+
+il11_f010_uio_dzvg01_orthography   vi reser mycket nu
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 å nu ha vi tre söner ee s- dåmm två såmm bor
+                                   i Nårr Kärålajna
+
+il11_f010_uio_dzvg01_orthography   och nu har vi tre söner ee s- de två som bor
+                                   i North Carolina
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å en såmm bår så u- nära åss
+
+il11_f010_uio_dzvg01_orthography   och en som bor så u- nära oss
+
+il11_m008_uio_dzvg                 å en i Sjikagö
+
+il11_m008_uio_dzvg02_orthography   och en i Chicago
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å ee så vi ha dä secks barnbarn sju barnbarn
+                                   secks fLickor å en pojjke %l
+
+il11_f010_uio_dzvg01_orthography   och ee så vi har det sex barnbarn sju
+                                   barnbarn sex flickor och en pojke %l
+
+int                                mm # ja
+
+int_orthography                    mm # ja
+
+il11_m008_uio_dzvg                 åo ee såo
+
+il11_m008_uio_dzvg02_orthography   och ee så
+
+il11_f010_uio_dzvg                 så dåmm var alla me åss ti Sväjje på vårat
+                                   gulldbröllåpp
+
+il11_f010_uio_dzvg01_orthography   så de var alla med oss till Sverige på vårat
+                                   guldbröllop
+
+int                                på ee-
+
+int_orthography                    på ee-
+
+il11_f010_uio_dzvg                 å så hadde råmm ett stort grullbröll- #
+                                   gölldbröllåppskalas för åss här i # Sjickago
+                                   för
+
+il11_f010_uio_dzvg01_orthography   och så hade de ett stort guldbröll- #
+                                   guldbröllopskalas för oss här i # Chicago för
+
+il11_m008_uio_dzvg                 Sjickago
+
+il11_m008_uio_dzvg02_orthography   Chicago
+
+il11_m008_uio_dzvg                 ja å dåmm e ajj att dåmm kann innt tala
+                                   svennska
+
+il11_m008_uio_dzvg02_orthography   ja och de är arga att de kan inte tala
+                                   svenska
+
+il11_f010_uio_dzvg                 ve-
+
+il11_f010_uio_dzvg01_orthography   ve-
+
+il11_f010_uio_dzvg                 ja ja dåmm tycker att de va ju synnd att
+                                   dåmm innte hadde lärt sejj # svänska # ja
+
+il11_f010_uio_dzvg01_orthography   ja ja de tycker att det var ju synd att de
+                                   inte hade lärt sig # svenska # ja
+
+int                                ja # o- # %l
+
+int_orthography                    ja # o- # %l
+
+int                                ja # ja ni pratar inte svenska med era barn
+
+int_orthography                    ja # ja ni pratar inte svenska med era barn
+
+il11_f010_uio_dzvg                 nä # älldit lite # dåmm kann ee
+
+il11_f010_uio_dzvg01_orthography   nä # väldigt lite # de kan ee
+
+int                                nej
+
+int_orthography                    nej
+
+il11_m008_uio_dzvg                 sjunnge nå
+
+il11_m008_uio_dzvg02_orthography   sjunga någon
+
+il11_f010_uio_dzvg                 sjönnga någgra sånnger å # åo ee
+
+il11_f010_uio_dzvg01_orthography   sjunga några sånger och # och ee
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 dåmm vejt lite gRann
+
+il11_m008_uio_dzvg02_orthography   de vet lite grann
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å ja oj ja dåmm fössjtå
+
+il11_f010_uio_dzvg01_orthography   åh ja oj ja de förstår
+
+int                                ja # lite grann # ja
+
+int_orthography                    ja # lite grann # ja
+
+il11_m008_uio_dzvg                 menn ee niu när ja r pentsjeneRad vi kenn
+                                   spRennga båRt så vi gåR till Sverrje #
+                                   vaRRja anndRa åR
+
+il11_m008_uio_dzvg02_orthography   men ee nu när jag är pensionerad vi kan
+                                   springa bort så vi går till Sverige # varje
+                                   andra år
+
+il11_f010_uio_dzvg                 vartannat år
+
+il11_f010_uio_dzvg01_orthography   vartannat år
+
+int                                ja
+
+int_orthography                    ja
+
+int                                vart åker ni då # åker ni till Piteå och
+                                   Kalix eller ?
+
+int_orthography                    vart åker ni då # åker ni till Piteå och
+                                   Kalix eller ?
+
+il11_f010_uio_dzvg                 ja där va vi å så va vi i fjol va vi till #
+                                   Dalarna å ti Ståckållm å
+
+il11_f010_uio_dzvg01_orthography   ja där var vi och så var vi i fjol var vi
+                                   till # Dalarna och till Stockholm och
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 vi a vari i Jöttebårrj å vi ha va-
+
+il11_f010_uio_dzvg01_orthography   vi har varit i Göteborg och vi har va-
+
+il11_m008_uio_dzvg                 å sisste åR vi va i Skåni å
+
+il11_m008_uio_dzvg02_orthography   och sista året vi var i Skåne och
+
+il11_f010_uio_dzvg                 ja # å ja
+
+il11_f010_uio_dzvg01_orthography   ja # åh ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 såo vi ha sett micke i Sverrje
+
+il11_m008_uio_dzvg02_orthography   så vi har sett mycket i Sverige
+
+il11_f010_uio_dzvg                 vi hadde ijentligen enn eh # vi har
+                                   ijentligen enn god venn såmm ee # ägde #
+                                   äger Flickorna Lunnggrenns kaffestuga har du
+                                   nånnsin hört åmm denn ?
+
+il11_f010_uio_dzvg01_orthography   vi hade egentligen en eh # vi har egentligen
+                                   en god vän som ee # ägde # äger Flickorna
+                                   Lundgrens kaffestuga har du någonsin hört om
+                                   den ?
+
+int                                nej
+
+int_orthography                    nej
+
+il11_f010_uio_dzvg                 denn e vällditt eh välbekannt i Svärje
+
+il11_f010_uio_dzvg01_orthography   den är väldigt eh välbekant i Sverige
+
+il11_f010_uio_dzvg                 denn är på ee # va hete ren där ön uta- #
+                                   nära # Mallmö
+
+il11_f010_uio_dzvg01_orthography   den är på ee # vad heter den där ön uta- #
+                                   nära # Malmö
+
+int                                är det
+
+int_orthography                    är det
+
+il11_f010_uio_dzvg                 ee
+
+il11_f010_uio_dzvg01_orthography   ee
+
+il11_m008_uio_dzvg                 +eng(between Malmö and Göteborg)
+
+il11_m008_uio_dzvg02_orthography   +eng(between Malmö and Göteborg)
+
+il11_f010_uio_dzvg                 enn alldeles alldeles vi kussten
+
+il11_f010_uio_dzvg01_orthography   +x_and alldeles alldeles vid kusten
+
+il11_f010_uio_dzvg                 å honn var här
+
+il11_f010_uio_dzvg01_orthography   och hon var här
+
+il11_m008_uio_dzvg                 SjaRet # TjeRet
+
+il11_m008_uio_dzvg02_orthography   Skäret # Skäret
+
+int                                Tjär- # Skäret # på Skäret
+
+int_orthography                    Tjär- # Skäret # på Skäret
+
+il11_f010_uio_dzvg                 Sjäret # på Sjäret # ja ja
+
+il11_f010_uio_dzvg01_orthography   Skäret # på Skäret # ja ja
+
+il11_m008_uio_dzvg                 +eng(they have the most famous ee coffee eh
+                                   # restaurant # in all of Sweden yes)
+
+il11_m008_uio_dzvg02_orthography   +eng(they have the most famous ee coffee eh
+                                   # restaurant # in all of Sweden yes)
+
+int                                jaha
+
+int_orthography                    jaha
+
+int                                då måste jag ju åka dit
+
+int_orthography                    då måste jag ju åka dit
+
+il11_f010_uio_dzvg                 ja ja ja ja # ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja ja # ja
+
+int                                det har jag missat
+
+int_orthography                    det har jag missat
+
+il11_f010_uio_dzvg                 å honn eh honn kåmm hit å va heRR ee någgra
+                                   månader så vi treffa henne
+
+il11_f010_uio_dzvg01_orthography   och hon eh hon kom hit och var här ee några
+                                   månader så vi träffade henne
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 å vi håller fortfarande kånntakt me henne
+                                   honn err # nu pensjonera honn är vell #
+                                   nittifemm åR kannsje rönnt nitti-årsålldern
+
+il11_f010_uio_dzvg01_orthography   och vi håller fortfarande kontakt med henne
+                                   hon är # nu pensionerad hon är väl #
+                                   nittiofem år kanske runt nittio-årsåldern
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 menn hennes söner # äge renn dä stora
+
+il11_f010_uio_dzvg01_orthography   men hennes söner # äger den där stora
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 %u velldit fint dåmm ha mycke # ee
+
+il11_f010_uio_dzvg01_orthography   %u väldig fint de har mycket # ee
+
+il11_f010_uio_dzvg                 sj- ee va hete re # ja kånditori e
+                                   fanntastis # ja ja
+
+il11_f010_uio_dzvg01_orthography   sj- ee vad heter det # ja konditori är
+                                   fantastiskt # ja ja
+
+il11_m008_uio_dzvg                 kundiduri e # måst berrömt i Sverrje
+
+il11_m008_uio_dzvg02_orthography   konditori är # +x_most berömda i Sverige
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 såu dåmm haR ee ## femmti åR ee # i #
+                                   kundituRiet
+
+il11_m008_uio_dzvg02_orthography   så de har ee ## femtio år ee # i #
+                                   konditoriet
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 på SjäRet
+
+il11_m008_uio_dzvg02_orthography   på Skäret
+
+int                                det är många som säger att # svenska de #
+                                   pratar om svenska konditorier
+
+int_orthography                    det är många som säger att # svenska de #
+                                   pratar om svenska konditorier
+
+il11_f010_uio_dzvg                 ja å je å je å je
+
+il11_f010_uio_dzvg01_orthography   ja åh ja åh ja åh ja
+
+il11_m008_uio_dzvg                 jäss jäss
+
+il11_m008_uio_dzvg02_orthography   +x_yes +x_yes
+
+int                                vad är %l # ni # är det någon särskild # ni
+                                   vill ha ?
+
+int_orthography                    vad är %l # ni # är det någon särskild # ni
+                                   vill ha ?
+
+il11_f010_uio_dzvg                 ja tyck- ja tycker alla tycker åmm ee #
+                                   kånditorierna i Sväjje
+
+il11_f010_uio_dzvg01_orthography   jag tyck- jag tycker alla tycker om ee #
+                                   konditorierna i Sverige
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+il11_f010_uio_dzvg                 förr dåmm tycke råmm e så mycke bättre enn
+                                   allt du kann tsjö- förr allting här e för
+                                   sött
+
+il11_f010_uio_dzvg01_orthography   för de tycker de är så mycket bättre än allt
+                                   du kan kö- för allting här är för sött
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 sötta förr mycke
+
+il11_f010_uio_dzvg01_orthography   sötat för mycket
+
+int                                mm # är det
+
+int_orthography                    mm # är det
+
+il11_f010_uio_dzvg                 i Sväjje jöRR dåmm innte s-
+
+il11_f010_uio_dzvg01_orthography   i Sverige gör de inte s-
+
+int                                nej
+
+int_orthography                    nej
+
+il11_f010_uio_dzvg                 å vi hadde enn go venn åckså såmm kåmm hit
+                                   ungefer sammtiditt såmm åss # ee å hann
+                                   öppna t stort ee kånditori i S- i
+                                   Kallifårnien
+
+il11_f010_uio_dzvg01_orthography   och vi hade en god vän också som kom hit
+                                   ungefär samtidigt som oss # ee och han
+                                   öppnade ett stort ee konditori i S- i
+                                   Kalifornien
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 välditt
+
+il11_f010_uio_dzvg01_orthography   väldigt
+
+il11_m008_uio_dzvg                 denn måost beRumt i hele Källifårnia åckså
+
+il11_m008_uio_dzvg02_orthography   den +x_most berömda i hela +x_California
+                                   också
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 hann # aRRbete i SveRRja å hann vejt hur ett
+                                   bal-
+
+il11_m008_uio_dzvg02_orthography   han # arbetade i Sverige och han vet hur ett
+                                   bal-
+
+il11_f010_uio_dzvg                 va ru- # å ja # åo je # åo je
+
+il11_f010_uio_dzvg01_orthography   vad ro- # åh ja # åh ja# åh ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                det var en släktträff # var det # ert
+                                   guldbröllop som # när ni var # i Sverige
+                                   2004 sade ni
+
+int_orthography                    det var en släktträff # var det # ert
+                                   guldbröllop som # när ni var # i Sverige
+                                   2004 sade ni
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+il11_f010_uio_dzvg                 ja ja # ja då va vi där öppe å dåmm hadde
+                                   ett stort eh kalas för åss alldeles vi #
+                                   havet där å
+
+il11_f010_uio_dzvg01_orthography   ja ja # ja då var vi där uppe och de hade
+                                   ett stort eh kalas för oss alldeles vid #
+                                   havet där och
+
+int                                det var
+
+int_orthography                    det var
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 hadde ett ee # ett sånnt ett va hete re #
+                                   tippi sami ee # %u tellt ett ja
+
+il11_f010_uio_dzvg01_orthography   hade ett ee # ett sånt ett vad heter det #
+                                   +x_tipi +x_sami ee # %u tält ett ja
+
+il11_m008_uio_dzvg                 sami # tellt
+
+il11_m008_uio_dzvg02_orthography   +x_sami # tält
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 å dåmm laga mat föRR alla såmm # vi betale
+                                   hadde enn fijnt k'las föRR alle sleckt åo #
+                                   fRemma-
+
+il11_m008_uio_dzvg02_orthography   och de lagade mat för alla som # vi betalade
+                                   hade ett fint kalas för alla släkt och #
+                                   främma-
+
+il11_f010_uio_dzvg                 dåmm ha- # ja
+
+il11_f010_uio_dzvg01_orthography   de ha- # ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja %l ## fö ja hadd två sysstrar där öppe
+
+il11_f010_uio_dzvg01_orthography   ja %l ## för jag hade två systrar där uppe
+
+int                                %l
+
+int_orthography                    %l
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 åo ee
+
+il11_f010_uio_dzvg01_orthography   och ee
+
+il11_f010_uio_dzvg                 å dåmm ha varrt hä månnga gånnge frånn Sväjje
+
+il11_f010_uio_dzvg01_orthography   och de har varit här många gånger från
+                                   Sverige
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 dåmm ha j- dåmm ha no sett mer utavv Uessa
+                                   enn # messta av # såmm bor här %l
+
+il11_f010_uio_dzvg01_orthography   de har j- de har nog sett mer utav USA än #
+                                   mesta av # som bor här %l
+
+int                                %l tycke-
+
+int_orthography                    %l tycke-
+
+il11_f010_uio_dzvg                 fö vi # fö vi ha vari i KalifåRnie vi ha
+                                   vari å till Haoaji ha vi vari # me dåmm ett
+                                   par gånnger vi ha vari där månnga gånnge
+                                   själlva
+
+il11_f010_uio_dzvg01_orthography   för vi # för vi har varit i Kalifornien vi
+                                   har varit och till Hawaii har vi varit # med
+                                   dem ett par gånger vi har varit där många
+                                   gånger själva
+
+int                                ja
+
+int_orthography                    ja
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm # så de har vant sig vid att det är varmt
+
+int_orthography                    mm # så de har vant sig vid att det är varmt
+
+il11_f010_uio_dzvg                 så
+
+il11_f010_uio_dzvg01_orthography   så
+
+il11_f010_uio_dzvg                 ja å ja dåmm tycker åmm när de e varrmt ja #
+                                   å i ti FlåRida har dåmm varrt fLera gånnger
+                                   åckså
+
+il11_f010_uio_dzvg01_orthography   ja åh ja de tycker om när de är varmt ja #
+                                   och i till Florida har de varit flera gånger
+                                   också
+
+int                                ja # %l
+
+int_orthography                    ja # %l
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+int                                mm mm
+
+int_orthography                    mm mm
+
+il11_m008_uio_dzvg                 daon saoth
+
+il11_m008_uio_dzvg02_orthography   +x_down +x_south
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+int                                mm
+
+int_orthography                    mm
+
+int                                har du kontakt med din # släkt din svenska
+                                   släkt också ?
+
+int_orthography                    har du kontakt med din # släkt din svenska
+                                   släkt också ?
+
+il11_m008_uio_dzvg                 jo dej dä ha ja # sisste två åR ja %u # bli
+                                   ee
+
+il11_m008_uio_dzvg02_orthography   jo det det har jag # sista två åren jag %u #
+                                   blev ee
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 Ricktit bikant ee mej enn kossin såmm # ee
+                                   aRbejte utan Pitejå
+
+il11_m008_uio_dzvg02_orthography   riktigt bekant ee med en kusin som # ee
+                                   arbetade utanför Piteå
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 å # hann aRbejte på ee lasseRett å hannsess
+                                   fRu # ee e kimmjun-menädj'R i Piteå
+
+il11_m008_uio_dzvg02_orthography   och # han arbetade på ee lasarett och hans
+                                   fru # ee är +x_kommun-manager i Piteå
+
+int                                jaha
+
+int_orthography                    jaha
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 honn ee döreckt ee
+
+il11_m008_uio_dzvg02_orthography   hon ee direkt ee
+
+il11_f010_uio_dzvg                 honn kåm ijenntligen frånn ee Småland
+
+il11_f010_uio_dzvg01_orthography   hon kom egentligen från ee Småland
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 menn dåmm träfas viss på univesjitetet i Umeå
+
+il11_f010_uio_dzvg01_orthography   men de träffades visst på universitetet i
+                                   Umeå
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 ee ## näR vi va i Sverrja nick- # jick på #
+                                   sjeRet # a tReffa
+
+il11_m008_uio_dzvg02_orthography   ee ## när vi var i Sverige nick- # gick på #
+                                   Skäret # att träffa
+
+il11_m008_uio_dzvg                 dinn ee ## bikant såmm egna kånndid'Ri i pu
+                                   SjeRet
+
+il11_m008_uio_dzvg02_orthography   din ee ## bekant som ägde konditori i på
+                                   Skäret
+
+il11_m008_uio_dzvg                 ä va så såo skåj fåR vi hadde enn eh #
+                                   ap'Rtunedi to t- ee # treffa # hennes
+                                   f'millja
+
+il11_m008_uio_dzvg02_orthography   det var så så skoj för vi hade en eh #
+                                   +x_opportunity to t- ee # träffa # hennes
+                                   familj
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 såon såmm haRR såmm # ee mänedjes
+
+il11_m008_uio_dzvg02_orthography   son som har som # ee +x_manages
+
+il11_f010_uio_dzvg                 åo ja
+
+il11_f010_uio_dzvg01_orthography   åh ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 ee kundit'Ri å ## ee dä ä n stoR kundit'Ri å
+                                   Resst'Rant
+
+il11_m008_uio_dzvg02_orthography   ee konditori och ## ee det är ett stort
+                                   konditori och restaurant
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ee dåmm kåmmeR me stoR kRusjips
+
+il11_m008_uio_dzvg02_orthography   ee de kommer med stora +x_cruise-ships
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja # åo ja
+
+il11_f010_uio_dzvg01_orthography   ja # åh ja
+
+il11_m008_uio_dzvg                 såo ## trehannRed femhonnRed pip'L kåmmeR i
+                                   b- inn stunnd å ha kaffi åo ja
+
+il11_m008_uio_dzvg02_orthography   så ## +x_tre-hundred femhundra +x_people
+                                   kommer i b- en stund och har kaffe och ja
+
+il11_f010_uio_dzvg                 så dåmm ha mycke jesster
+
+il11_f010_uio_dzvg01_orthography   så de har mycket gäster
+
+int                                oj oj oj oj oj
+
+int_orthography                    oj oj oj oj oj
+
+il11_f010_uio_dzvg                 ja å ja
+
+il11_f010_uio_dzvg01_orthography   ja åh ja
+
+il11_m008_uio_dzvg                 ee n- vi treffa hennes dåt'R såmm ej i fåR'n
+                                   söRvis i Tsjaina a thi-
+
+il11_m008_uio_dzvg02_orthography   ee n- vi träffar hennes dotter som är i
+                                   +x_foreign +x_service i +x_China +x_I +x_thi-
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 aj ja tennk honn e kanns'l djäneR'l elleR
+                                   embäsed'R
+
+il11_m008_uio_dzvg02_orthography   +x_I jag tänker hon är +x_consul +x_general
+                                   eller +x_ambassador
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 tu Tscjaina
+
+il11_m008_uio_dzvg02_orthography   +x_to +x_China
+
+il11_f010_uio_dzvg                 ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja
+
+int                                oj # ja
+
+int_orthography                    oj # ja
+
+il11_m008_uio_dzvg                 hunn va hemm neRR vi va där så dä va skåj
+
+il11_m008_uio_dzvg02_orthography   hon var hemma när vi var där så det var skoj
+
+int                                %l
+
+int_orthography                    %l
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+il11_m008_uio_dzvg                 ee # åo ee
+
+il11_m008_uio_dzvg02_orthography   ee # och ee
+
+il11_m008_uio_dzvg                 nä vi va i ee # Piteöu sisste åR
+
+il11_m008_uio_dzvg02_orthography   när vi var i ee # Piteå sista året
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 vi ee # jick mej kosins # fRu # till ee #
+                                   Piteö kemjun å
+
+il11_m008_uio_dzvg02_orthography   vi ee # gick med kusins # fru # till ee #
+                                   Pite +x_commune och
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 å ee # tala åm # än stoR pRajekt såmm honn #
+                                   aRbeta påo
+
+il11_m008_uio_dzvg02_orthography   och ee # talade om # ett stort projekt som
+                                   hon # arbetade på
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 h'n ska dåmm ska ha stursta # ee luft- ee #
+                                   oinndmills
+
+il11_m008_uio_dzvg02_orthography   hon ska de ska ha största # ee luft- ee #
+                                   +x_windmills
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 i Piteå # stoRsta i hejla veRd
+
+il11_m008_uio_dzvg02_orthography   i Piteå # största i hela världen
+
+int                                oj oj oj
+
+int_orthography                    oj oj oj
+
+il11_m008_uio_dzvg                 +eng(one thousand and ninety-one # towers)
+
+il11_m008_uio_dzvg02_orthography   +eng(one thousand and ninety-one # towers)
+
+int                                wow
+
+int_orthography                    wow
+
+int                                för vindkraft
+
+int_orthography                    för vindkraft
+
+il11_m008_uio_dzvg                 oi- vinnkrafft # stöRsta i hejla väRd # i
+                                   Piteå
+
+il11_m008_uio_dzvg02_orthography   +x_wi- vindkraft # största i hela världen #
+                                   i Piteå
+
+il11_f010_uio_dzvg                 ja vinndkrafft # ja ja # ja
+
+il11_f010_uio_dzvg01_orthography   ja vindkraft # ja ja # ja
+
+int                                vad spännande # ja
+
+int_orthography                    vad spännande # ja
+
+il11_m008_uio_dzvg                 dä ska ta tRej fiRa åR # föRRen demm alle
+                                   bli bygge # menn ee
+
+il11_m008_uio_dzvg02_orthography   det ska ta tre fyra år # förrän de alla blir
+                                   byggde # men ee
+
+int                                ja # är det för att är det # blåser det
+                                   mycket i Piteå ?
+
+int_orthography                    ja # är det för att är det # blåser det
+                                   mycket i Piteå ?
+
+il11_m008_uio_dzvg                 nå dåmm ska sellja lektRissidy ti hele SväRja
+
+il11_m008_uio_dzvg02_orthography   +x_no de ska sälja +x_electricity till hela
+                                   Sverige
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                vad spännande det visste inte jag
+
+int_orthography                    vad spännande det visste inte jag
+
+il11_m008_uio_dzvg                 föRR dä e luffti i # app # nåR
+
+il11_m008_uio_dzvg02_orthography   för det är luftigt i # +x_up # norr
+
+int                                det finns plats att bygga så mycket
+
+int_orthography                    det finns plats att bygga så mycket
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+int                                men det måste det ju finnas här också # mark
+
+int_orthography                    men det måste det ju finnas här också # mark
+
+il11_f010_uio_dzvg                 ja dä finns åckså fass dä e så många såmm
+                                   innt vill ha de # nära deras # lycksvillor
+                                   %l %u
+
+il11_f010_uio_dzvg01_orthography   ja det finns också fast det är så många som
+                                   inte vill har det # nära deras # lyxvillor
+                                   %l %u
+
+int                                +l(ja det är så)
+
+int_orthography                    +l(ja det är så)
+
+int                                och det kanske är
+
+int_orthography                    och det kanske är
+
+il11_m008_uio_dzvg                 å dåmm sejjeR heR i Juess dätt däj e innte #
+                                   kåsst efecktiv
+
+il11_m008_uio_dzvg02_orthography   och de säger här i US +x_that +x_they är
+                                   inte # +x_cost +x_effective
+
+int                                nehej
+
+int_orthography                    nehej
+
+il11_m008_uio_dzvg                 dä ä billig'Re att haR annaRn # sårts åvv
+                                   lektRissiry
+
+il11_m008_uio_dzvg02_orthography   det är billigare att ha annan # +x_sorts
+                                   +x_of +x_electricity
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+il11_m008_uio_dzvg                 så dåmm tennk innte micke åmm dä hä
+
+il11_m008_uio_dzvg02_orthography   så de tänker inte mycket om det här
+
+int                                nej nej
+
+int_orthography                    nej nej
+
+il11_m008_uio_dzvg                 dåmm haR dåmm i dez'Rt
+
+il11_m008_uio_dzvg02_orthography   de har dem i +x_desert
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+il11_m008_uio_dzvg                 i Lass Vejges dez'Rt %u # bara sä- sannd #
+                                   föRR månngå månngå mil
+
+il11_m008_uio_dzvg02_orthography   i Las Vegas +x_desert %u # bara sa- sand #
+                                   för många många mil
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 då haR dåmm kanntsje # tvåo hånndRe tRej
+                                   hånndRe eh tao'Rs uRR töRbajns
+
+il11_m008_uio_dzvg02_orthography   då har de kanske # två hundra tre hundra eh
+                                   +x_towers +x_or +x_turbines
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 de hejt'R i SveRRja menn # vi +eng (we call
+                                   them windmills)
+
+il11_m008_uio_dzvg02_orthography   det heter i Sverige men # vi +eng (we call
+                                   them windmills)
+
+int                                men inte
+
+int_orthography                    men inte
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                vindkraftverk
+
+int_orthography                    vindkraftverk
+
+il11_m008_uio_dzvg                 ja vinnkrafftverrk
+
+il11_m008_uio_dzvg02_orthography   ja vindkraftverk
+
+il11_f010_uio_dzvg                 ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja
+
+int                                vattenkraftverk var det ju ann- # var det ju
+                                   mest annars # förut i alla fall i # det
+                                   måste det vara i Kalixälven och Piteälven och
+
+int_orthography                    vattenkraftverk var det ju ann- # var det ju
+                                   mest annars # förut i alla fall i # det
+                                   måste det vara i Kalixälven och Piteälven och
+
+il11_f010_uio_dzvg                 å ja å ja å ja ja # mhm # ja
+
+il11_f010_uio_dzvg01_orthography   åh ja åh ja åh ja ja # mhm # ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 ee # vaR do va född # de va baRe trej hannRe
+                                   såmm boR dä i fisskavi- ee # bu
+
+il11_m008_uio_dzvg02_orthography   ee # där du var född # det var bara tre
+                                   hundra som bor där i +x_fiske-vi- ee # by
+
+int                                jaha
+
+int_orthography                    jaha
+
+int                                ba-
+
+int_orthography                    ba-
+
+il11_f010_uio_dzvg                 de va # på enn liten fisskaRby såmm hete
+                                   Storön # de vaR där ijenntligen ee ja bodde
+
+il11_f010_uio_dzvg01_orthography   det var # på en liten fiskarby som heter
+                                   Storön # det var där egentligen ee jag bodde
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 där utanför Kaliks är ju stora stan %l
+
+il11_f010_uio_dzvg01_orthography   där utanför Kalix är ju stora stan %l
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja %l
+
+int_orthography                    ja %l
+
+int                                men tre hundra personer är ändå ganska m- #
+                                   då är det ju en ordentlig by
+
+int_orthography                    men tre hundra personer är ändå ganska m- #
+                                   då är det ju en ordentlig by
+
+il11_f010_uio_dzvg                 ja # fasst nu tro ja att de messta e # nu är
+                                   de messt # bara någgra # ja kannsje de e ett
+                                   par hunndra
+
+il11_f010_uio_dzvg01_orthography   ja # fast nu tror jag att det mesta är # nu
+                                   är det mest # bara några # ja kanske det är
+                                   ett par hundra
+
+int                                några kvar
+
+int_orthography                    några kvar
+
+int                                men # vad levde man på då fisket ?
+
+int_orthography                    men # vad levde man på då fisket ?
+
+il11_f010_uio_dzvg                 ee fisske mycke ja ja ee minn pappa hadde
+                                   enn ee # lannthanndel
+
+il11_f010_uio_dzvg01_orthography   ee fiske mycket ja ja ee min pappa hade en
+                                   ee # lanthandel
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 menn hann de va hann såmm ee ## s- ee seR
+                                   såmm månnga fissk'Rby ee vecks'R
+
+il11_m008_uio_dzvg02_orthography   men han det var han som ee # s- ee ser som
+                                   många fiskarby ee växer
+
+il11_f010_uio_dzvg                 hann # de va
+
+il11_f010_uio_dzvg01_orthography   han # det var
+
+il11_m008_uio_dzvg                 +eng(so # he was promoting fishing # in
+                                   Sweden and he was knighted by the king of
+                                   Sweden)
+
+il11_m008_uio_dzvg02_orthography   +eng(so # he was promoting fishing # in
+                                   Sweden and he was knighted by the king of
+                                   Sweden)
+
+il11_f010_uio_dzvg                 jäss
+
+il11_f010_uio_dzvg01_orthography   +x_yes
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_f010_uio_dzvg                 +eng(he yeah he got that # yeah # he was
+                                   knighted by the king of Sweden %l)
+
+il11_f010_uio_dzvg01_orthography   +eng(he yeah he got that # yeah # he was
+                                   knighted by the king of Sweden %l)
+
+int                                å jaha
+
+int_orthography                    åh jaha
+
+il11_m008_uio_dzvg                 +eng(for his work to develop the fishing
+                                   industry # in Sweden)
+
+il11_m008_uio_dzvg02_orthography   +eng(for his work to develop the fishing
+                                   industry # in Sweden)
+
+int                                wow
+
+int_orthography                    wow
+
+il11_f010_uio_dzvg                 +eng(yeah he is the one that started it) #
+                                   ja ja ja ja
+
+il11_f010_uio_dzvg01_orthography   +eng(yeah he is the one that started it) #
+                                   ja ja ja ja
+
+int                                fantastiskt
+
+int_orthography                    fantastiskt
+
+int                                mm
+
+int_orthography                    mm
+
+int                                var det något tim- skogs- # alltså timmer
+                                   och så
+
+int_orthography                    var det något tim- skogs- # alltså timmar
+                                   och så
+
+il11_f010_uio_dzvg                 å de va my- ja de e ju de åckså fösjtåss ja
+                                   # men fisske va mycke
+
+il11_f010_uio_dzvg01_orthography   åh det var my- ja det är ju det också
+                                   förstås ja # men fiske var mycket
+
+int                                ja # man flottade
+
+int_orthography                    ja # man flottade
+
+int                                det var det som var
+
+int_orthography                    det var det som var
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+int                                åt ni mycket fisk ?
+
+int_orthography                    åt ni mycket fisk ?
+
+il11_f010_uio_dzvg                 vi åt mycke å lacks å allting å strömming å
+                                   # åO allting menn nu är de ju mera stora
+                                   båOtar såmm har dåmm har ju innte dåmm där #
+                                   små små fisskarbåt
+
+il11_f010_uio_dzvg01_orthography   vi åt mycket och lax och allting och
+                                   strömming och # och allting men nu är det ju
+                                   mera stora båtar som har de har ju inte de
+                                   där # små små fiskebåtarna
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 ja åcksåo
+
+il11_m008_uio_dzvg02_orthography   ja också
+
+int                                nej
+
+int_orthography                    nej
+
+il11_f010_uio_dzvg                 menn då aRR de mycke # då aRR de mycke sånna
+                                   här ee fisskarstugor ute på hållmarna där #
+                                   ute
+
+il11_f010_uio_dzvg01_orthography   men då har de mycket # då har de mycket
+                                   sådana här ee fiskarstugor ute på holmarna
+                                   där # ute
+
+il11_m008_uio_dzvg                 faRms ållsåo
+
+il11_m008_uio_dzvg02_orthography   +x_farms +x_also
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm mm
+
+int_orthography                    mm mm
+
+il11_f010_uio_dzvg                 så
+
+il11_f010_uio_dzvg01_orthography   så
+
+il11_m008_uio_dzvg                 +eng(yes they have ee fishing farms all over
+                                   northern Sweden now where in the Gulf of
+                                   Bothnia and all # water # places)
+
+il11_m008_uio_dzvg02_orthography   +eng(yes they have ee fishing farms all over
+                                   northern Sweden now where in the Gulf of
+                                   Bothnia and all # water # places)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_f010_uio_dzvg                 åsså åss u-
+
+il11_f010_uio_dzvg01_orthography   också oss u-
+
+il11_m008_uio_dzvg                 +eng(they have it completely surrounded so
+                                   the fish can't get out # they're grow them
+                                   there and then they # take them when they're
+                                   ready to go to market sell them)
+
+il11_m008_uio_dzvg02_orthography   +eng(they have it completely surrounded so
+                                   the fish can't get out # they're grow them
+                                   there and then they # take them when they're
+                                   ready to go to market sell them)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                mm mm # mm
+
+int_orthography                    mm mm # mm
+
+il11_m008_uio_dzvg                 +eng(and that's very very big)
+
+il11_m008_uio_dzvg02_orthography   +eng(and that's very very big)
+
+il11_f010_uio_dzvg                 å susjtrömming ä stosj # %u %l
+
+il11_f010_uio_dzvg01_orthography   och surströmming är stort # %u %l
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja # har ni ätit det ?
+
+int_orthography                    ja # har ni ätit det ?
+
+il11_f010_uio_dzvg                 åo jä åo jä
+
+il11_f010_uio_dzvg01_orthography   +x_oh +x_yeah +x_oh +x_yeah
+
+il11_m008_uio_dzvg                 å jo Rå
+
+il11_m008_uio_dzvg02_orthography   åh jo då
+
+int                                tycker ni det är gott ?
+
+int_orthography                    tycker ni det är gott ?
+
+il11_f010_uio_dzvg                 åo ja ja tycker de e jättegått %l
+
+il11_f010_uio_dzvg01_orthography   åh ja jag tycker det är jättegott %l
+
+int                                ja # tycker du också det ?
+
+int_orthography                    ja # tycker du också det ?
+
+il11_f010_uio_dzvg                 ja ja # menn nu kann mann kann innt ta över
+                                   # börrkar me # susjt-
+
+il11_f010_uio_dzvg01_orthography   ja ja # men nu kan man kan inte ta över #
+                                   burkar med # surst-
+
+il11_m008_uio_dzvg                 ja # ee
+
+il11_m008_uio_dzvg02_orthography   ja # ee
+
+int                                nej
+
+int_orthography                    nej
+
+int                                ni får åka till Sverige
+
+int_orthography                    ni får åka till Sverige
+
+il11_f010_uio_dzvg                 menn # menn nu sejjer dåmm att ee dåmm ha
+                                   börrja å sellja de mycke till # Tsjina
+
+il11_f010_uio_dzvg01_orthography   men # men nu säger de att ee de har börjat
+                                   att sälja det mycket till # Kina
+
+int                                jaha # gillar de det ?
+
+int_orthography                    jaha # gillar de det ?
+
+il11_f010_uio_dzvg                 ee j- dåmm jillar de menn dåmm vill ha denn
+                                   filead # dåmm vill innt ha denn me nå # sånn
+
+il11_f010_uio_dzvg01_orthography   ee j- de gillar det men de vill ha den
+                                   filead # de vill inte ha den med någon #
+                                   sådan
+
+int                                ja # nej
+
+int_orthography                    ja # nej
+
+int                                det kan man # det tycker jag man kan förstå
+
+int_orthography                    det kan man # det tycker jag man kan förstå
+
+il11_f010_uio_dzvg                 ja ja %l
+
+il11_f010_uio_dzvg01_orthography   ja ja %l
+
+il11_m008_uio_dzvg                 åo ee # i Kaliks i ee vaR du va ee född i
+                                   StoRhamm
+
+il11_m008_uio_dzvg02_orthography   och ee # i Kalix i ee där du var ee född i
+                                   Storhamn
+
+il11_m008_uio_dzvg                 ee dåmm # haRR ee %s va hejt'R de där ee
+                                   thing
+
+il11_m008_uio_dzvg02_orthography   ee de # har ee %s vad heter det där ee
+                                   +x_thing
+
+il11_m008_uio_dzvg                 +eng(trying to think of the # word for it
+                                   they # you know the what they sell here the)
+
+il11_m008_uio_dzvg02_orthography   +eng(trying to think of the # word for it
+                                   they # you know the what they sell here the)
+
+il11_f010_uio_dzvg                 +eng(what is that) ?
+
+il11_f010_uio_dzvg01_orthography   +eng(what is that) ?
+
+il11_m008_uio_dzvg                 +eng(the orange c- ee)
+
+il11_m008_uio_dzvg02_orthography   +eng(the orange c- ee)
+
+il11_f010_uio_dzvg                 åo löjråmm # löjjråmm ja
+
+il11_f010_uio_dzvg01_orthography   åh löjrom # löjrom ja
+
+il11_m008_uio_dzvg                 låjjRåmm
+
+il11_m008_uio_dzvg02_orthography   löjrom
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 +eng(all the låjjRåmm in Sweden comes from
+                                   her area)
+
+il11_m008_uio_dzvg02_orthography   +eng(all the "löjrom" in Sweden comes from
+                                   her area)
+
+il11_f010_uio_dzvg                 ja # kamm- # de kåmmer # ja de kåmmer #
+                                   kalikslöjjråmm # å ja de kåmmer här-
+                                   därifrån ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja # komm- # det kommer # ja det kommer #
+                                   Kalixlöjråm # åh ja det kommer här- därifrån
+                                   ja ja ja
+
+int                                ja Kalixlöjrom
+
+int_orthography                    ja Kalixlöjrom
+
+int                                det är ju fint det
+
+int_orthography                    det är ju fint det
+
+il11_m008_uio_dzvg                 +eng(and it's such a delicacy in the United
+                                   States that a friend of mine that owns a big
+                                   chain of eh # supermarkets)
+
+il11_m008_uio_dzvg02_orthography   +eng(and it's such a delicacy in the United
+                                   States that a friend of mine that owns a big
+                                   chain of eh # supermarkets)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(was trying to buy some and he said do
+                                   you know anybody # that in Sweden and I said
+                                   I sure do)
+
+il11_m008_uio_dzvg02_orthography   +eng(was trying to buy some and he said do
+                                   you know anybody # that in Sweden and I said
+                                   I sure do)
+
+int                                %l
+
+int_orthography                    %l
+
+il11_m008_uio_dzvg                 +eng(some of my relatives work in that field
+                                   and he contacted them and # they won't sell
+                                   it abroad)
+
+il11_m008_uio_dzvg02_orthography   +eng(some of my relatives work in that field
+                                   and he contacted them and # they won't sell
+                                   it abroad)
+
+int                                nehej
+
+int_orthography                    nehej
+
+il11_m008_uio_dzvg                 +eng(to the United States because they have
+                                   so such a limited # amount of it # and the
+                                   swedes like it themselves)
+
+il11_m008_uio_dzvg02_orthography   +eng(to the United States because they have
+                                   so such a limited # amount of it # and the
+                                   swedes like it themselves)
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+il11_f010_uio_dzvg                 ja # +eng(and then it's very expensive)
+
+il11_f010_uio_dzvg01_orthography   ja # +eng(and then its very expensive)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                %u ja %l ni får komma # så ni åker till
+                                   Sverige när ni kommer till Sverige så äter
+                                   ni surströmming och löjrom kanske då
+
+int_orthography                    %u ja %l ni får komma # så ni åker till
+                                   Sverige när ni kommer till Sverige så äter
+                                   ni surströmming och löjrom kanske då
+
+il11_f010_uio_dzvg                 ja # dä e dyrt %l
+
+il11_f010_uio_dzvg01_orthography   ja # det är dyrt %l
+
+il11_f010_uio_dzvg                 susjtrömming å # manndelpotatis å # %l
+
+il11_f010_uio_dzvg01_orthography   surströmming och # mandelpotatis och # %l
+
+il11_m008_uio_dzvg                 ja ja
+
+il11_m008_uio_dzvg02_orthography   ja ja
+
+int                                de ja # på tunnbröd på ee
+
+int_orthography                    det ja # på tunnbröd på ee
+
+il11_f010_uio_dzvg                 å på tunnbröd ja å ja # a- ness- dä e så
+                                   månnga såmm har eh # bagasjtugor där åckså #
+                                   å bakar sitt eget tunnbröd så
+
+il11_f010_uio_dzvg01_orthography   och på tunnbröd ja åh ja # ja- näs- det är
+                                   så många som har eh # bagarstugor där också
+                                   # och bakar sitt eget tunnbröd så
+
+int                                ja
+
+int_orthography                    ja
+
+int                                gjorde du det när du var
+
+int_orthography                    gjorde du det när du var
+
+il11_f010_uio_dzvg                 ja de jorde vi # de jorde vi fasis
+
+il11_f010_uio_dzvg01_orthography   ja det gjorde vi # det gjorde vi faktiskt
+
+int                                ja
+
+int_orthography                    ja
+
+int                                gjorde ni hårdbröd då eller mjuk-
+
+int_orthography                    gjorde ni hårdbröd då eller mjuk-
+
+il11_f010_uio_dzvg                 nä nä bara tunnbröd # ja ja
+
+il11_f010_uio_dzvg01_orthography   nä nä bara tunnbröd # ja ja
+
+int                                bara b- # mm
+
+int_orthography                    bara b- # mm
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 +eng(but there's a lot of very very famous
+                                   and successful # swedes)
+
+il11_m008_uio_dzvg02_orthography   +eng(but there's a lot of very very famous
+                                   and successful # swedes)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(that are in the midwest that immigrated
+                                   here and have done extremely well)
+
+il11_m008_uio_dzvg02_orthography   +eng(that are in the midwest that immigrated
+                                   here and have done extremely well)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja # de ve- # alltså # det verkar så att det
+                                   var många som var fattiga och hade det svårt
+                                   och så kommer de hit och det gick # så bra
+
+int_orthography                    ja # de ve- # alltså # det verkar så att det
+                                   var många som var fattiga och hade det svårt
+                                   och så kommer de hit och det gick # så bra
+
+il11_f010_uio_dzvg                 ja ja ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja ja ja
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+il11_m008_uio_dzvg                 hemmst bRa såo dåmm e
+
+il11_m008_uio_dzvg02_orthography   hemskt bra så de är
+
+int                                ja # ja
+
+int_orthography                    ja # ja
+
+int                                det är ju
+
+int_orthography                    det är ju
+
+il11_m008_uio_dzvg                 {Sensitiv information}
+
+il11_m008_uio_dzvg02_orthography   {Sensitiv information}
+
+int                                men # det var någon # det var någon som sade
+                                   att Ch- när Chicago brann #  så var det
+                                   svenskar som byggde upp det
+
+int_orthography                    men # det var någon # det var någon som sade
+                                   att Ch- när Chicago brann #  så var det
+                                   svenskar som byggde upp det
+
+il11_f010_uio_dzvg                 å jä
+
+il11_f010_uio_dzvg01_orthography   +x_oh +x_yeah
+
+il11_f010_uio_dzvg                 å ja jä jä jä jä
+
+il11_f010_uio_dzvg01_orthography   åh ja +x_yeah +x_yeah +x_yeah +x_yeah
+
+il11_m008_uio_dzvg                 +eng(yes # the whole city was built by
+                                   swedes)
+
+il11_m008_uio_dzvg02_orthography   +eng(yes # the whole city was built by
+                                   swedes)
+
+int                                ja ni # men vil- # hur då # vad ?
+
+int_orthography                    ja ni # men vil- # hur då # vad ?
+
+il11_m008_uio_dzvg                 +eng(well # city of Chicago burned down the
+                                   whole city was a- made of wood # they had a
+                                   fire)
+
+il11_m008_uio_dzvg02_orthography   +eng(well # city of Chicago burned down the
+                                   whole city was a- made of wood # they had a
+                                   fire)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja just det # det var så det var
+
+int_orthography                    ja just det # det var så det var
+
+il11_f010_uio_dzvg                 ja ja Sjikago fajer
+
+il11_f010_uio_dzvg01_orthography   ja ja Chicago +x_fire
+
+il11_m008_uio_dzvg                 +eng(and so all of a sudden # Chicago was
+                                   gone # all this # almost all of the eh
+                                   wooden homes burnt down)
+
+il11_m008_uio_dzvg02_orthography   +eng(and so all of a sudden # Chicago was
+                                   gone # all this # almost all of the eh
+                                   wooden homes burnt down)
+
+il11_m008_uio_dzvg                 +eng(so they were looking for people that
+                                   knew how to build and all the swedes that
+                                   had immigrated were carpenters)
+
+il11_m008_uio_dzvg02_orthography   +eng(so they were looking for people that
+                                   knew how to build and all the swedes that
+                                   had immigrated were carpenters)
+
+int                                ja just det ja
+
+int_orthography                    ja just det ja
+
+il11_f010_uio_dzvg                 jäs
+
+il11_f010_uio_dzvg01_orthography   +x_yes
+
+il11_m008_uio_dzvg                 +eng(so they built the city and then they
+                                   established such a good reputation)
+
+il11_m008_uio_dzvg02_orthography   +eng(so they built the city and then they
+                                   established such a good reputation)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(that ee when they w- # the city was
+                                   growing # they were responsible for building
+                                   all of the highrises in Chicago)
+
+il11_m008_uio_dzvg02_orthography   +eng(that ee when they w- # the city was
+                                   growing # they were responsible for building
+                                   all of the highrises in Chicago)
+
+int                                mm
+
+int_orthography                    mm
+
+int                                mm %u
+
+int_orthography                    mm %u
+
+il11_m008_uio_dzvg                 +eng(and so # eh even recently they built
+                                   Sears tower which is now known as Willis
+                                   tower # it's the tallest building in Chicago
+                                   was built by a swede)
+
+il11_m008_uio_dzvg02_orthography   +eng(and so # eh even recently they built
+                                   Sears tower which is now known as Willis
+                                   tower # it's the tallest building in Chicago
+                                   was built by a swede)
+
+il11_f010_uio_dzvg                 Oillis taoer ja ja
+
+il11_f010_uio_dzvg01_orthography   Willis +x_tower ja ja
+
+int                                ja
+
+int_orthography                    ja
+
+int                                jaha # det visste inte jag
+
+int_orthography                    jaha # det visste inte jag
+
+il11_m008_uio_dzvg                 +eng(and there's a world famous tourist
+                                   attraction in ee northern suburbs)
+
+il11_m008_uio_dzvg02_orthography   +eng(and there's a world famous tourist
+                                   attraction in ee northern suburbs)
+
+int                                mm
+
+int_orthography                    mm
+
+il11_m008_uio_dzvg                 +eng(which is a church # called the Baia
+                                   temple)
+
+il11_m008_uio_dzvg02_orthography   +eng(which is a church # called the Baha'i
+                                   temple)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 +eng(it's close to the lakefront # in the
+                                   town of Wilmette # and it was built by
+                                   swedes it took thirty years to build it #
+                                   it's the most beautiful # building you've
+                                   ever seen if you have time to go and see it)
+
+il11_m008_uio_dzvg02_orthography   +eng(it's close to the lakefront # in the
+                                   town of Wilmette # and it was built by
+                                   swedes it took thirty years to build it #
+                                   it's the most beautiful # building you've
+                                   ever seen if you have time to go and see it)
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja # vi har ju lite
+
+int_orthography                    ja # vi har ju lite
+
+il11_f010_uio_dzvg                 jä jä jä # jä # jä
+
+il11_f010_uio_dzvg01_orthography   +x_yeah +x_yeah +x_yeah # +x_yeah # +x_yeah
+
+int                                ja vi får ## försöka titta lite nu när vi är
+                                   här
+
+int_orthography                    ja vi får ## försöka titta lite nu när vi är
+                                   här
+
+il11_f010_uio_dzvg                 ja %l
+
+il11_f010_uio_dzvg01_orthography   ja %l
+
+il11_m008_uio_dzvg                 +eng(it's only it's only fifteen twenty
+                                   minutes from here)
+
+il11_m008_uio_dzvg02_orthography   +eng(it's only it's only fifteen twenty
+                                   minutes from here)
+
+int                                jaha
+
+int_orthography                    jaha
+
+il11_m008_uio_dzvg                 +eng(and it's fabulous ## and the only one
+                                   that could build that the only one they
+                                   could turn to to build it were the swedes
+                                   because they had all the knowledge so
+                                   construction has been really big)
+
+il11_m008_uio_dzvg02_orthography   +eng(and it's fabulous ## and the only one
+                                   that could build that the only one they
+                                   could turn to to build it were the swedes 
+                                   because they had all the knowledge so
+                                   construction has been really big)
+
+int                                å vad spännande
+
+int_orthography                    åh vad spännande
+
+int                                ja ja
+
+int_orthography                    ja ja
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+int                                hmm
+
+int_orthography                    hmm
+
+int                                {avbrot}
+
+int_orthography                    {avbrot}
+
+int                                vad är # vad ser ni på bilden ?
+
+int_orthography                    vad är # vad ser ni på bilden ?
+
+il11_f010_uio_dzvg                 dåmm är inntreserade a varanndra
+
+il11_f010_uio_dzvg01_orthography   de är intresserade av varandra
+
+int                                ja # det är en # pojke och en flicka som
+                                   sitter på en bänk
+
+int_orthography                    ja # det är en # pojke och en flicka som
+                                   sitter på en bänk
+
+il11_f010_uio_dzvg                 ja s- ja ja sitte på enn bennk å dåmm # ee
+                                   hann vill järna # treffa henne å # tycker
+                                   att honn ee se- # trevli ut
+
+il11_f010_uio_dzvg01_orthography   ja s- ja ja sitter på en bänk och de # ee
+                                   han vill gärna # träffa henne och # tycker
+                                   att hon ee se- # trevlig ut
+
+int                                mm
+
+int_orthography                    mm
+
+int                                ja # och vad händer på andra bilden
+
+int_orthography                    ja # och vad händer på andra bilden
+
+int                                ja vad händer # du kan väl säg- # berätta
+
+int_orthography                    ja vad händer # du kan väl säg- # berätta
+
+il11_f010_uio_dzvg                 ja ja jo jo # do att
+
+il11_f010_uio_dzvg01_orthography   ja ja jo jo # +x_do +x_what
+
+il11_m008_uio_dzvg                 i svänska # vennska
+
+il11_m008_uio_dzvg02_orthography   i svenska # svenska
+
+il11_m008_uio_dzvg                 tala svennska
+
+il11_m008_uio_dzvg02_orthography   tala svenska
+
+il11_f010_uio_dzvg                 ne-
+
+il11_f010_uio_dzvg01_orthography   ne-
+
+int                                vad är det som # vad är det som kommer vad
+                                   är det för någonting ?
+
+int_orthography                    vad är det som # vad är det som kommer vad
+                                   är det för någonting ?
+
+il11_f010_uio_dzvg                 ee e de innte enn ee # va hete re # enn annka
+
+il11_f010_uio_dzvg01_orthography   ee är de inte en ee # vad heter det # en anka
+
+il11_m008_uio_dzvg                 dack
+
+il11_m008_uio_dzvg02_orthography   +x_duck
+
+il11_m008_uio_dzvg                 anngka
+
+il11_m008_uio_dzvg02_orthography   anka
+
+int                                en anka
+
+int_orthography                    en anka
+
+il11_f010_uio_dzvg                 enn annka
+
+il11_f010_uio_dzvg01_orthography   en anka
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja såmm kåmme
+
+il11_f010_uio_dzvg01_orthography   ja som kommer
+
+il11_m008_uio_dzvg                 va se hån # va se # honn # va titte honn på ?
+
+il11_m008_uio_dzvg02_orthography   vad se hon # vad ser # hon # vad tittar hon
+                                   på ?
+
+int                                ja vad ti- men de kan väl du säga
+
+int_orthography                    ja vad ti- men de kan väl du säga
+
+int                                %l # var det svårt ?
+
+int_orthography                    %l # var det svårt ?
+
+il11_f010_uio_dzvg                 ja %l
+
+il11_f010_uio_dzvg01_orthography   ja %l
+
+il11_m008_uio_dzvg                 %l
+
+il11_m008_uio_dzvg02_orthography   %l
+
+int                                hon tittar på # pojken
+
+int_orthography                    hon tittar på # pojken
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+int                                och vad händer här då ?
+
+int_orthography                    och vad händer här då ?
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+int                                vad är # vad är under ankan ?
+
+int_orthography                    vad är # vad är under ankan ?
+
+il11_m008_uio_dzvg                 e de mamma ?
+
+il11_m008_uio_dzvg02_orthography   är de mamma ?
+
+il11_m008_uio_dzvg                 mamma ?
+
+il11_m008_uio_dzvg02_orthography   mamma ?
+
+il11_m008_uio_dzvg                 å ee kanntsje hann # hann e Redd
+
+il11_m008_uio_dzvg02_orthography   åh ee kanske han # han är rädd
+
+il11_f010_uio_dzvg                 ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 +eng(we- how do you say that # he's shaking
+                                   # yeah because she's threatening him # say
+                                   it in Swedish # explain it)
+
+il11_m008_uio_dzvg02_orthography   +eng(we- how do you say that # he's shaking
+                                   # yeah because she's threatening him # say
+                                   it in Swedish # explain it)
+
+il11_f010_uio_dzvg                 hann ska- # ja ja åo ja # ja
+
+il11_f010_uio_dzvg01_orthography   han ska- # ja ja åh ja # ja
+
+il11_f010_uio_dzvg                 mm
+
+il11_f010_uio_dzvg01_orthography   mm
+
+int                                jag kan berätta # så kan ni så får ni svara
+                                   på mina frågor sedan
+
+int_orthography                    jag kan berätta # så kan ni så får ni svara
+                                   på mina frågor sedan
+
+il11_f010_uio_dzvg                 ja ja ja
+
+il11_f010_uio_dzvg01_orthography   ja ja ja
+
+int                                det är en pojke # och hans flickvän kanske #
+                                   som sitter på en bänk
+
+int_orthography                    det är en pojke # och hans flickvän kanske #
+                                   som sitter på en bänk
+
+il11_f010_uio_dzvg                 mhm
+
+il11_f010_uio_dzvg01_orthography   mhm
+
+int                                och så kommer det en anka # som tittar på
+                                   pojken men han ser inte)
+
+int_orthography                    och så kommer det en anka # som tittar på
+                                   pojken men han ser inte)
+
+il11_f010_uio_dzvg                 mhm
+
+il11_f010_uio_dzvg01_orthography   mhm
+
+il11_f010_uio_dzvg                 mhm
+
+il11_f010_uio_dzvg01_orthography   mhm
+
+int                                han tittar på sin flickvän han
+
+int_orthography                    han tittar på sin flickvän han
+
+int                                och så visar det sig att # under ankan # så
+                                   är det # flickvännens # mamma ## som dyker
+                                   upp
+
+int_orthography                    och så visar det sig att # under ankan # så
+                                   är det # flickvännens # mamma ## som dyker
+                                   upp
+
+il11_f010_uio_dzvg                 å jä
+
+il11_f010_uio_dzvg01_orthography   +x_oh +x_yeah
+
+il11_f010_uio_dzvg                 å ja
+
+il11_f010_uio_dzvg01_orthography   +x_oh +x_yeah
+
+int                                {avbrot}
+
+int_orthography                    {avbrot}
+
+int                                får jag fråga bara fort # vem sitter pojken
+                                   på bänken tillsammans med ?
+
+int_orthography                    får jag fråga bara fort # vem sitter pojken
+                                   på bänken tillsammans med ?
+
+il11_f010_uio_dzvg                 ee hann sitte me sinn # flickven
+
+il11_f010_uio_dzvg01_orthography   ee han sitter med sin # flickvän
+
+int                                ja # gillar han henne
+
+int_orthography                    ja # gillar han henne
+
+il11_f010_uio_dzvg                 ja hann jillar henne
+
+il11_f010_uio_dzvg01_orthography   ja han gillar henne
+
+int                                gillar hon honom ?
+
+int_orthography                    gillar hon honom ?
+
+il11_f010_uio_dzvg                 ee # je ja ja ja honn är inntreserad av
+                                   honnom
+
+il11_f010_uio_dzvg01_orthography   ee # +x_yeah ja ja ja hon är intresserad av
+                                   honom
+
+il11_m008_uio_dzvg                 ja honn e inntressan
+
+il11_m008_uio_dzvg02_orthography   ja hon är intresserad
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+int                                och vad händer på bild två # varför ser
+                                   pojken inte ankan ?
+
+int_orthography                    och vad händer på bild två # varför ser
+                                   pojken inte ankan ?
+
+il11_f010_uio_dzvg                 ee förr hann ä så # intresserad att titta på
+                                   henne så hann har innte tid å titta på denn
+                                   där
+
+il11_f010_uio_dzvg01_orthography   ee för han är så # intresserad att titta på
+                                   henne så han har inte tid å titta på den där
+
+int                                ja
+
+int_orthography                    ja
+
+il11_m008_uio_dzvg                 ja
+
+il11_m008_uio_dzvg02_orthography   ja
+
+int                                precis
+
+int_orthography                    precis
+
+il11_f010_uio_dzvg                 ja # o so sän så ee # så ä
+
+il11_f010_uio_dzvg01_orthography   ja # och så sedan så ee # så är
+
+int                                vem är hon som kommer upp ur vattnet ?
+
+int_orthography                    vem är hon som kommer upp ur vattnet ?
+
+il11_f010_uio_dzvg                 så är de # mamman till flickan # såmm kåmm å
+                                   # honn är s- honn # bLi nesstan arrj
+
+il11_f010_uio_dzvg01_orthography   så är de # mamman till flickan # som kom och
+                                   # hon är s- hon # blev nästan arg
+
+int                                ja
+
+int_orthography                    ja
+
+int                                ja varför det # varför är hon arg ?
+
+int_orthography                    ja varför det # varför är hon arg ?
+
+il11_f010_uio_dzvg                 ee för att # ho- hann ee # hann ä för
+                                   intresserad av henne å hann # honn tycker
+                                   innte att hann att hann ä rett för henne # t
+                                   hann e bra för henne
+
+il11_f010_uio_dzvg01_orthography   ee för att # ho- han ee # han är för
+                                   intresserad av henne och han # hon tycker
+                                   inte att han att han är rätt för henne # att
+                                   han är bra för henne
+
+int                                nej
+
+int_orthography                    nej
+
+int                                så vem är hon arg på ?
+
+int_orthography                    så vem är hon arg på ?
+
+il11_f010_uio_dzvg                 honn bLe arrj på hånnå
+
+il11_f010_uio_dzvg01_orthography   hon blev arg på honom
+
+int                                ja
+
+int_orthography                    ja
+
+int                                han då pojken # han är rädd
+
+int_orthography                    han då pojken # han är rädd
+
+il11_f010_uio_dzvg                 hann ble redd ja
+
+il11_f010_uio_dzvg01_orthography   han blev rädd ja
+
+int                                varför är han rädd ?
+
+int_orthography                    varför är han rädd ?
+
+il11_f010_uio_dzvg                 hann be redd för hann hn kåmmer me n # enn
+                                   eh # v heter de
+
+il11_f010_uio_dzvg01_orthography   han blev rädd för henne hon kommer med en #
+                                   en eh # vad heter det
+
+il11_m008_uio_dzvg                 +eng(rolling pin)
+
+il11_m008_uio_dzvg02_orthography   +eng(rolling pin)
+
+int                                ja just det
+
+int_orthography                    ja just det
+
+int                                vem är han rädd för alltså ?
+
+int_orthography                    vem är han rädd för alltså ?
+
+il11_f010_uio_dzvg                 hann ä redd förr henne
+
+il11_f010_uio_dzvg01_orthography   han är rädd för henne
+
+int                                ja
+
+int_orthography                    ja
+
+il11_f010_uio_dzvg                 ja
+
+il11_f010_uio_dzvg01_orthography   ja
+
+int                                och flickvännen då # den här flickan är hon
+                                   rädd ?
+
+int_orthography                    och flickvännen då # den här flickan är hon
+                                   rädd ?
+
+il11_f010_uio_dzvg                 nä
+
+il11_f010_uio_dzvg01_orthography   nä
+
+int                                är hon # sur ?
+
+int_orthography                    är hon # sur ?
+
+il11_f010_uio_dzvg                 ja hon bLe lite besviken på de att för att
+                                   mamman innte tycke åmm hånnå # förr honn
+                                   honn är intresserad menn # mamman är redd
+                                   för att ee ## att hann ä för intresserad av
+                                   henne
+
+il11_f010_uio_dzvg01_orthography   ja hon blev lite besviken på det att för att
+                                   mamman inte tycker om honom # för hon hon är
+                                   intresserad men # mamman är rädd för att ee
+                                   ## att han är för intresserad av henne
+
+int                                ja
+
+int_orthography                    ja
+
+int                                just det
+
+int_orthography                    just det
+
+int                                {avsluttande kommentarar}
+
+int_orthography                    {avsluttande kommentarar}
+

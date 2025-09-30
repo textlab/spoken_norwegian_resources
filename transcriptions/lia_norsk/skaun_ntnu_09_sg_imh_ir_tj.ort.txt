@@ -1,0 +1,637 @@
+int                           {innleiande kommentar}
+
+int_orthography               {innleiande kommentar}
+
+skaun_ntnu_0901               massjinællt ja
+
+skaun_ntnu_0901_orthography   maskinelt ja
+
+skaun_ntnu_0902               å
+
+skaun_ntnu_0902_orthography   og
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0902               føsst %s æ kåmm hit va de no ittj de a du ska no 
+                              hå bere ti en # ska no ittj hå hele # %u
+
+skaun_ntnu_0902_orthography   først %s eg kom hit var det nå ikkje det da du 
+                              skal nå ha berre i ein # skal nå ikkje ha heile # 
+                              %u
+
+int                           eg tar %u opp ja no eg har nå sett han på du må 
+                              snakke sakte og tydeleg
+
+int_orthography               eg tar %u opp ja nå eg har nå sett han på du må 
+                              snakkar sakte og tydeleg
+
+skaun_ntnu_0903               +l(å ja)
+
+skaun_ntnu_0903_orthography   +l(å ja)
+
+skaun_ntnu_0902               så va de ittj nå taLe omm att de va nå bil å %u 
+                              ætte veia da
+
+skaun_ntnu_0902_orthography   så var det ikkje noko tale om at det var noko bil 
+                              og %u etter vegen da
+
+int                           %u
+
+int_orthography               %u
+
+int                           %l
+
+int_orthography               %l
+
+skaun_ntnu_0901               %l
+
+skaun_ntnu_0901_orthography   %l
+
+skaun_ntnu_0902               de va no sekkert
+
+skaun_ntnu_0902_orthography   det var nå sikkert
+
+skaun_ntnu_0901               huff
+
+skaun_ntnu_0901_orthography   huff
+
+int                           er han forhaldsvis ny den vegen forbi ?
+
+int_orthography               er han forhaldsvis ny den vegen forbi ?
+
+skaun_ntnu_0902               jo næi de va veL enn +u(sjlakks væg) …
+
+skaun_ntnu_0902_orthography   jo nei det var vel enn +u(slags veg) …
+
+skaun_ntnu_0903               +u e va bøggd i fæmmåkju hannj # ja åpna i 
+                              fæmmåkju alljs
+
+skaun_ntnu_0903_orthography   +u han var bygd i femogtjue han # ja opna i 
+                              femogtjue altså
+
+skaun_ntnu_0901               ee
+
+skaun_ntnu_0901_orthography   e
+
+skaun_ntnu_0902               tru fæmmåkju
+
+skaun_ntnu_0902_orthography   trur femogtjue
+
+int                           jaha
+
+int_orthography               jaha
+
+skaun_ntnu_0902               da va ittj n
+
+skaun_ntnu_0902_orthography   da var ikkje han
+
+skaun_ntnu_0903               mn før jekk n nå # åver høggden dær da
+
+skaun_ntnu_0903_orthography   men før gjekk han nå # over høgdene der da
+
+skaun_ntnu_0902               å da # for n no førrbi Vænn å gaLanj å
+
+skaun_ntnu_0902_orthography   og da # fór han nå forbi Venn og gardane og
+
+int                           å gjorde han det ja ?
+
+int_orthography               å gjorde han det ja ?
+
+int                           jaha
+
+int_orthography               jaha
+
+skaun_ntnu_0901               ja # %u
+
+skaun_ntnu_0901_orthography   ja # %u
+
+skaun_ntnu_0902               hann for opp # Høvvein # føbbe- førrbi Høvven 
+                              åppjenåm KLevanj å # der # før # væien
+
+skaun_ntnu_0902_orthography   han fór opp # Høvevegen # forbi- forbi Høve 
+                              oppgjennom Kleivan og # der # før # vegen
+
+int                           å gjorde han det ja ?
+
+int_orthography               å gjorde han det ja ?
+
+int                           opp og ned altså ?
+
+int_orthography               opp og ned altså ?
+
+skaun_ntnu_0902               ja # de jor n ja
+
+skaun_ntnu_0902_orthography   ja # det gjorde han ja
+
+skaun_ntnu_0902               menn no æ de no anntjless ja
+
+skaun_ntnu_0902_orthography   men nå er det nå annleis ja
+
+int                           eg tykkjer det er nokså mykje trafikk her
+
+int_orthography               eg tykkjer det er nokså mykje trafikk her
+
+skaun_ntnu_0901               ja # de æ de # ja
+
+skaun_ntnu_0901_orthography   ja # det er det # ja
+
+int                           eg ser no i dag er det her # så mykje bilar som …
+
+int_orthography               eg ser nå i dag er det her # så mykje bilar som …
+
+skaun_ntnu_0902               ja
+
+skaun_ntnu_0902_orthography   ja
+
+skaun_ntnu_0902               de æ så my trafikk
+
+skaun_ntnu_0902_orthography   det er så mykje trafikk
+
+skaun_ntnu_0901               ja # ja
+
+skaun_ntnu_0901_orthography   ja # ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0902               å dennj her væien utåver å te Skæun hannj hi no 
+                              vårrte så my bruka hannj å no tå bila att
+
+skaun_ntnu_0902_orthography   og den her vegen utover da til skogen han har nå 
+                              vorte så mykje brukt han òg nå av bilar at
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0902               de va no ittj nå trafikk der hellj før da vett du
+
+skaun_ntnu_0902_orthography   det var nå ikkje noko trafikk der heller før da 
+                              veit du
+
+skaun_ntnu_0901               fårr de e kjøLe te trafik omm såmmårn æu ta ja # 
+                              no ja
+
+skaun_ntnu_0901_orthography   for det er kjøle til trafikk om sommaren au dette 
+                              ja # nå ja
+
+skaun_ntnu_0903               %u
+
+skaun_ntnu_0903_orthography   %u
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+int                           det er veg innover til Melhus inn her ikkje sant ?
+
+int_orthography               det er veg innover til Melhus inn her ikkje sant ?
+
+skaun_ntnu_0901               jaha # d æ de ja
+
+skaun_ntnu_0901_orthography   jaha # det er det ja
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0903               ja
+
+skaun_ntnu_0903_orthography   ja
+
+skaun_ntnu_0903               så k- kjæmm du no åver te Bøssja dær
+
+skaun_ntnu_0903_orthography   så k- kjem du nå over til Børsa der
+
+skaun_ntnu_0901               te Bøssja da
+
+skaun_ntnu_0901_orthography   til Børsa da
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+int                           går det an å %u ?
+
+int_orthography               går det an å %u ?
+
+skaun_ntnu_0903               ja
+
+skaun_ntnu_0903_orthography   ja
+
+skaun_ntnu_0902               ja da # de går fint de no ja
+
+skaun_ntnu_0902_orthography   ja da # det går fint det nå ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0902               de e sekkert
+
+skaun_ntnu_0902_orthography   det er sikkert
+
+int                           mm
+
+int_orthography               mm
+
+int                           det eg har lagt merke til at det er mykje hytter 
+                              her # sånn
+
+int_orthography               det eg har lagt merke til at det er mykje hytter 
+                              her # sånn
+
+skaun_ntnu_0901               frøkkt'le my
+
+skaun_ntnu_0901_orthography   frykteleg mykje
+
+skaun_ntnu_0902               å ja
+
+skaun_ntnu_0902_orthography   å ja
+
+skaun_ntnu_0901               my høtte ja
+
+skaun_ntnu_0901_orthography   mykje hytter ja
+
+skaun_ntnu_0902               de hi vårrte myttjy hytta ja
+
+skaun_ntnu_0902_orthography   det har vorte mykje hytter ja
+
+skaun_ntnu_0902               så E1 da d e no hannj såmm # fått
+
+skaun_ntnu_0902_orthography   så E1 da det er nå han som # fått
+
+skaun_ntnu_0903               me e snart helt innjbøggd tå høttå
+
+skaun_ntnu_0903_orthography   vi er snart heilt innbygd av hytter
+
+int                           ja
+
+int_orthography               ja
+
+int                           korleis ee likar de det da ?
+
+int_orthography               korleis e likar de det da ?
+
+skaun_ntnu_0903               %l ja
+
+skaun_ntnu_0903_orthography   %l ja
+
+skaun_ntnu_0903               både …
+
+skaun_ntnu_0903_orthography   både …
+
+skaun_ntnu_0902               ja de e nå ja d e nå sålles att de bi litte mere 
+                              oro # tå di +u så
+
+skaun_ntnu_0902_orthography   ja det er nå ja det er nå såleis at det blir lite 
+                              meir uro # av det +u så
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0901               %k
+
+skaun_ntnu_0901_orthography   %k
+
+skaun_ntnu_0902               de bLi ttj dennj roa såmm va før
+
+skaun_ntnu_0902_orthography   det blir ikkje den roa som var før
+
+skaun_ntnu_0902               mænn ee non gånng de går da vett du
+
+skaun_ntnu_0902_orthography   men e nokon gongar det går da veit du
+
+skaun_ntnu_0901               mænn dæ æ no en utvekkLeng annj må no sjå 
+                              frammtia på da fårr de att
+
+skaun_ntnu_0901_orthography   men det er nå ei utvikling han må nå sjå framtida 
+                              på da for det at
+
+skaun_ntnu_0902               ja
+
+skaun_ntnu_0902_orthography   ja
+
+skaun_ntnu_0901               de nøtte no ittj å # nøtte ittj å nækkt 
+                              frilufsområde helljer
+
+skaun_ntnu_0901_orthography   det nyttar nå ikkje å # nyttar ikkje å nekte 
+                              friluftsområde heller
+
+int                           nei
+
+int_orthography               nei
+
+skaun_ntnu_0902               %l
+
+skaun_ntnu_0902_orthography   %l
+
+skaun_ntnu_0901               å så e dæ tonngvinnjt joL å driv i grunnj # bærrg 
+                              å
+
+skaun_ntnu_0901_orthography   og så er det tungvint jord å drive i grunn # berg 
+                              og
+
+int                           er det det ?
+
+int_orthography               er det det ?
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0901               %u å %u myttji # bærrg ja
+
+skaun_ntnu_0901_orthography   %u og %u mykje # berg ja
+
+int                           %u
+
+int_orthography               %u
+
+skaun_ntnu_0902               næi da
+
+skaun_ntnu_0902_orthography   nei da
+
+int                           mm
+
+int_orthography               mm
+
+skaun_ntnu_0902               menn hannj blir no feL a
+
+skaun_ntnu_0902_orthography   men han blir nå fæl da
+
+skaun_ntnu_0901               ja hannj bLi de
+
+skaun_ntnu_0901_orthography   ja han blir det
+
+skaun_ntnu_0903               %u
+
+skaun_ntnu_0903_orthography   %u
+
+skaun_ntnu_0902               frøkkt'li
+
+skaun_ntnu_0902_orthography   frykteleg
+
+skaun_ntnu_0902               tjæmm dåmm att ?
+
+skaun_ntnu_0902_orthography   kjem dei at ?
+
+int                           ja er sjåføren som kjem att
+
+int_orthography               ja er sjåføren som kjem att
+
+skaun_ntnu_0902               ja
+
+skaun_ntnu_0902_orthography   ja
+
+int                           %u +l når eg vil heim igjen %l
+
+int_orthography               %u +l når eg vil heim igjen %l
+
+skaun_ntnu_0902               %l
+
+skaun_ntnu_0902_orthography   %l
+
+int                           %l
+
+int_orthography               %l
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0902               d e no lanngt å fårrå no da +u ee # te OppdaL å # 
+                              fårrå å kjør %u
+
+skaun_ntnu_0902_orthography   det er nå langt å fare nå da +u e # til Oppdal og 
+                              # fara og køyre %u
+
+skaun_ntnu_0901               ja +u vælldi
+
+skaun_ntnu_0901_orthography   ja +u veldig
+
+skaun_ntnu_0901               dæmm e no i byn # Trånnhæim
+
+skaun_ntnu_0901_orthography   dei er nå i byen # Trondheim
+
+int                           nei vi kjem frå byen
+
+int_orthography               nei vi kjem frå byen
+
+skaun_ntnu_0902               å jer di de ja ?
+
+skaun_ntnu_0902_orthography   å gjer de det ja ?
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0901               jær dæmm de ja
+
+skaun_ntnu_0901_orthography   gjer dei det ja
+
+skaun_ntnu_0902               di kjæmm ifra byn di da ?
+
+skaun_ntnu_0902_orthography   de kjem ifrå byen de da ?
+
+int                           ja da
+
+int_orthography               ja da
+
+int                           nei eg er no i Oppdal berre i feriane eg nesten 
+                              da +l ja
+
+int_orthography               nei eg er nå i Oppdal berre i feriane eg nesten 
+                              da +l ja
+
+skaun_ntnu_0901               ja # ja
+
+skaun_ntnu_0901_orthography   ja # ja
+
+int                           det veit du ja
+
+int_orthography               det veit du ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+int                           det er mykje skog her
+
+int_orthography               det er mykje skog her
+
+skaun_ntnu_0901               ja my skog
+
+skaun_ntnu_0901_orthography   ja mykje skog
+
+skaun_ntnu_0903               ja # de e bra me skog ja ronnjt ## hær
+
+skaun_ntnu_0903_orthography   ja # det er bra med skog ja rundt ## her
+
+skaun_ntnu_0902               e skog å +s bærrg
+
+skaun_ntnu_0902_orthography   er skog og +s berg
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0903               dæ æ nå lækksom dæ # hovednæringa attåt gårn
+
+skaun_ntnu_0903_orthography   det eg nå liksom det # hovudnæringa attåt garden
+
+int                           det er det ja ?
+
+int_orthography               det er det ja ?
+
+skaun_ntnu_0903               ja
+
+skaun_ntnu_0903_orthography   ja
+
+int                           ja
+
+int_orthography               ja
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0903               dæ æ n- villj e nå sei de e n åver hele # Skøun
+
+skaun_ntnu_0903_orthography   det er n- vil eg nå seie det er han over heile # 
+                              Skaun
+
+skaun_ntnu_0903               så har æmm no skog attått gåLanj
+
+skaun_ntnu_0903_orthography   så har dei noko skog attåt gardane
+
+int                           mm
+
+int_orthography               mm
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0902               å de e no manng såmm ittj hi de å da
+
+skaun_ntnu_0902_orthography   å det er nå mange som ikkje har det òg da
+
+skaun_ntnu_0903               å d æ nå enn få ar de da
+
+skaun_ntnu_0903_orthography   og det er nå ein få andre det da
+
+skaun_ntnu_0903               e fårållj dåmm såmm har # dåmm såmm har de
+
+skaun_ntnu_0903_orthography   i forhold dei som har # dei som har det
+
+skaun_ntnu_0901               %u
+
+skaun_ntnu_0901_orthography   %u
+
+skaun_ntnu_0902               såmm såmm +u ikke har de å
+
+skaun_ntnu_0902_orthography   som som +u ikkje har det og
+
+int                           ja
+
+int_orthography               ja
+
+skaun_ntnu_0902               runntj her
+
+skaun_ntnu_0902_orthography   rundt her
+
+int                           men ee når ein kjem lengre fram i bygda så er det 
+                              vel meir # kornjord og ?
+
+int_orthography               men e når ein kjem lengre fram i bygda så er det 
+                              vel meir # kornjord og ?
+
+skaun_ntnu_0903               jaha ja
+
+skaun_ntnu_0903_orthography   jaha ja
+
+int                           da er det vel ikkje så mykje skog da %u
+
+int_orthography               da er det vel ikkje så mykje skog da %u
+
+skaun_ntnu_0901               %u # ja
+
+skaun_ntnu_0901_orthography   %u # ja
+
+skaun_ntnu_0903               ja å ja d e # my skog a
+
+skaun_ntnu_0903_orthography   ja å ja det er # mykje skog da
+
+skaun_ntnu_0901               my skog å
+
+skaun_ntnu_0901_orthography   mykje skog og
+
+int                           er det det ja ?
+
+int_orthography               er det det ja ?
+
+skaun_ntnu_0903               å æ tøkk- ja d e de
+
+skaun_ntnu_0903_orthography   å eg tøkk- ja det er det
+
+skaun_ntnu_0901               de æ e
+
+skaun_ntnu_0901_orthography   det er det
+
+int                           ja det ser ut som om det er mykje fin skog rundt 
+                              her og
+
+int_orthography               ja det ser ut som om det er mykje fin skog rundt 
+                              her og
+
+skaun_ntnu_0903               ja
+
+skaun_ntnu_0903_orthography   ja
+
+skaun_ntnu_0901               ja
+
+skaun_ntnu_0901_orthography   ja
+
+skaun_ntnu_0903               de kannj no vårrå føsjelli somm såmm har lite da
+
+skaun_ntnu_0903_orthography   det kan nå vere forskjellig somme som har lite da
+
+skaun_ntnu_0903               de æ nå manng såmm har store arealer # m skog 
+                              attåt # ja %u
+
+skaun_ntnu_0903_orthography   det er nå mange som har store areal # m skog 
+                              attåt # ja %u
+
+int                           ja
+
+int_orthography               ja
+
+int                           det er det ja
+
+int_orthography               det er det ja
+
+int                           ja
+
+int_orthography               ja
+

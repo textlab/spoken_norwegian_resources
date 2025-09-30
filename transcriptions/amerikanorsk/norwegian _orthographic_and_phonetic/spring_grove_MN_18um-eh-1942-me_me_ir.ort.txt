@@ -1,0 +1,484 @@
+spring_grove_MN_18um               åh # nammne mitt de ær # spring_grove_MN_18um
+
+spring_grove_MN_18um_orthography   å # navnet mitt det er # spring_grove_MN_18um
+
+spring_grove_MN_18um               å ee e va fødd i # Dekora i Vennusjik Kaonti
+
+spring_grove_MN_18um_orthography   og e jeg var født i # Decorah i Winneshiek
+                                   County
+
+spring_grove_MN_18um               de er nå # ee masse nåssjke fåLLk dær
+
+spring_grove_MN_18um_orthography   det er nå # e masse norske folk der
+
+int                                {innledende kommentar}
+
+int_orthography                    {innledende kommentar}
+
+spring_grove_MN_18um               ja # å ee # de e mannge nåssjke # fåLLk somm
+                                   har fåsjellige nåssjke årganisasjonar neri
+                                   jennåm dei # nabolage
+
+spring_grove_MN_18um_orthography   ja # og e # det er mange norske # folk som
+                                   har forskjellige norske organisasjoner nedi
+                                   gjennom de # nabolaget
+
+spring_grove_MN_18um               vi har ee # Sønner a Nårrge # å ee
+                                   fåsjellige sanngfåreningar # s'm e nåssj-
+                                   Lul'n fårr eksæmmpel
+
+spring_grove_MN_18um_orthography   vi har e # Sønner av Norge # og e
+                                   forskjellige sangforeninger # som er nåssj-
+                                   Lulen for eksempel
+
+int                                har du vært til der noen gang ?
+
+int_orthography                    har du vært til der noen gang ?
+
+spring_grove_MN_18um               jæ a ittje hållt te dær mænn ee jæ ha ha
+                                   natulivis hørrd dei ha sunngi mannge gonng
+
+spring_grove_MN_18um_orthography   jeg har ikke holdt til der men e jeg har har
+                                   naturligvis hørt de har sunget mange ganger
+
+spring_grove_MN_18um               å …
+
+spring_grove_MN_18um_orthography   og …
+
+int                                men vokste du opp i byen Decorah da ?
+
+int_orthography                    men vokste du opp i byen Decorah da ?
+
+spring_grove_MN_18um               næi # e va fire år nå vi fLøtte dærifrå
+
+spring_grove_MN_18um_orthography   nei # jeg var fire år når vi flytta derifra
+
+int                                å ja
+
+int_orthography                    å ja
+
+spring_grove_MN_18um               å da fLøtte vi på # eller flytt- da fLøtte
+                                   vi på enn farrm # enn tjoge mil noR ifrå der
+                                   æller enn sækks mil sør ifrå Sprinng Gråov
+
+spring_grove_MN_18um_orthography   og da flytta vi på # eller flytt- da flytta
+                                   vi på en farm # en tjue mil nord ifra der
+                                   eller en seks mil sør ifra Spring Grove
+
+int                                hva heter det nabolaget der ?
+
+int_orthography                    hva heter det nabolaget der ?
+
+spring_grove_MN_18um               somm vi fLøtt te ?
+
+spring_grove_MN_18um_orthography   som vi flytta til ?
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_18um               åh de hæ- e likksom ee Hailenn nabolag #
+                                   eller i noLøsstre del'n ta Vinnisji Kaonti
+
+spring_grove_MN_18um_orthography   å det hæ- er liksom e Highland nabolag #
+                                   eller i nordøstre delen av Winneshiek County
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_18um               å der e nå odelokkende nåssjke fåLLk # i de
+                                   nabolage
+
+spring_grove_MN_18um_orthography   og der er nå utelukkende norske folk # i det
+                                   nabolaget
+
+spring_grove_MN_18um               å dæi kann nå # natulivis snakke ammrikansk
+                                   å da væit do menn # demm e nå i sæsjillt #
+                                   nåssjk
+
+spring_grove_MN_18um_orthography   og de kan nå # naturligvis snakke amerikansk
+                                   og da veit du men # de er nå i særskilt #
+                                   norske
+
+int                                ja
+
+int_orthography                    ja
+
+int                                men vil du e fortelle meg lite grann om hvor
+                                   de kom fra i Norge de som er der for det
+                                   meste ?
+
+int_orthography                    men vil du e fortelle meg lite grann om hvor
+                                   de kom fra i Norge de som er der for det
+                                   meste ?
+
+spring_grove_MN_18um               åh dær æ fåsjellige ifrå # båre NommedaL å
+                                   ee # å ifrå ee +x trønnder-settlamænnta vi
+                                   kaller re
+
+spring_grove_MN_18um_orthography   å der er forskjellige ifra # både Numedal og
+                                   e # og ifra e +x trønder-settlementa vi
+                                   kaller det
+
+spring_grove_MN_18um               å ee nonn e nå ee # ja de e nå sonngningar å
+                                   våssingar å da ibLannt
+
+spring_grove_MN_18um_orthography   og e noen er nå e # ja det er noen sogninger
+                                   og vossinger og da iblant
+
+int                                ja så temmelig oppblandet det der
+                                   settlementet der ?
+
+int_orthography                    ja så temmelig oppblandet det der
+                                   settlementet der ?
+
+spring_grove_MN_18um               ja # de …
+
+spring_grove_MN_18um_orthography   ja # det …
+
+int                                er det noe er det noen dialekt som du ville
+                                   si var fremherskende over de andre ?
+
+int_orthography                    er det noe er det noen dialekt som du ville
+                                   si var fremherskende over de andre ?
+
+spring_grove_MN_18um               væll # ja trønnderan # e goe te hålle språke
+                                   sitt bære hæll dæi anndre
+
+spring_grove_MN_18um_orthography   vel # ja trønderne # er gode å holde språket
+                                   sitt bedre enn de andre
+
+spring_grove_MN_18um               dei he- eller denn de de rei va vannt te
+                                   ifrå gammLelanne
+
+spring_grove_MN_18um_orthography   de he- eller den det det de var vant til
+                                   ifra gamlelandet
+
+int                                er du e trønder sjøl ?
+
+int_orthography                    er du e trønder sjøl ?
+
+spring_grove_MN_18um               de æ halle tå mi æ trønnder ja
+
+spring_grove_MN_18um_orthography   det er halve av meg er trønder ja
+
+int                                kan du fortelle lite grann om foreldrene
+                                   dine ?
+
+int_orthography                    kan du fortelle lite grann om foreldrene
+                                   dine ?
+
+spring_grove_MN_18um               ja hann far hann va fødd på Fråssta # i
+                                   att'nhunndreåsækksti
+
+spring_grove_MN_18um_orthography   ja han far han var født på Frosta # i
+                                   attenhundreogseksti
+
+spring_grove_MN_18um               ræsste te sjøss nå enn va # bærre enn rekkti
+                                   onng gutt
+
+spring_grove_MN_18um_orthography   reiste til sjøs når han var # bare en riktig
+                                   ung gutt
+
+spring_grove_MN_18um               å # va på sjøøn te hann va fir å tjuge år #
+                                   å da kåmm enn hit te lanne
+
+spring_grove_MN_18um_orthography   og # var på sjøen til han var fire og tjue
+                                   år # og da kom han hit til landet
+
+spring_grove_MN_18um               å sea # så levvd n omtrennt hæile tia i
+                                   Vinnisji Kaonti
+
+spring_grove_MN_18um_orthography   og sia # så levde han omtrent heile tida i
+                                   Winneshiek County
+
+int                                å ja og mor di ?
+
+int_orthography                    å ja og mor di ?
+
+spring_grove_MN_18um               ho mor va fødd her # i lanne
+
+spring_grove_MN_18um_orthography   hun mor var født her # i landet
+
+int                                jaså og foreldrene hennes ?
+
+int_orthography                    jaså og foreldrene hennes ?
+
+spring_grove_MN_18um               ja
+
+spring_grove_MN_18um_orthography   ja
+
+spring_grove_MN_18um               førælldra hennes kåmm ifrå NommedaL i Nårrge
+
+spring_grove_MN_18um_orthography   foreldra hennes kom ifra Numedal i Norge
+
+int                                å ja
+
+int_orthography                    å ja
+
+spring_grove_MN_18um               ja
+
+spring_grove_MN_18um_orthography   ja
+
+int                                e var det noen forskjell på slik far din og
+                                   mor di talte ?
+
+int_orthography                    e var det noen forskjell på slik far din og
+                                   mor di talte ?
+
+spring_grove_MN_18um               ja # de var de
+
+spring_grove_MN_18um_orthography   ja # det var det
+
+spring_grove_MN_18um               ho moR snaka nå nommedøLing nattulivis # å
+                                   enn far snaka trønnder
+
+spring_grove_MN_18um_orthography   hun mor snakka nå numedøling naturligvis #
+                                   og han far snakka trønder
+
+int                                hva lærte du da ?
+
+int_orthography                    hva lærte du da ?
+
+spring_grove_MN_18um               åh e ee # e de kåmm nå likksem henndikt få
+                                   me da ser o åssø føLLje o mor i språke
+
+spring_grove_MN_18um_orthography   å jeg e # jeg det kom nå liksom hendig for
+                                   meg da ser du å følge hun mor i språket
+
+int                                +u jaha ja
+
+int_orthography                    +u jaha ja
+
+spring_grove_MN_18um               mænn de # ennda væit du vi tjæmm nå på
+                                   manngt somm enn far sa å da væit du på +u
+                                   trønndær
+
+spring_grove_MN_18um_orthography   men det # enda veit du vi kommer nå på mangt
+                                   som han far sa og da veit du på +u trønder
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_18um               ee å de va nå # mannge # mannge åR somm enn
+                                   far bejynnte ja ell dræiv å sæi mye så
+                                   bejynnt ho mor å si åsså såmm var litt #
+                                   ette trønndemåLe
+
+spring_grove_MN_18um_orthography   e og det var nå # mange # mange ord som han
+                                   far begynte ja eller dreiv og sa mye så
+                                   begynte hun mor å si også som var litt #
+                                   etter trøndermålet
+
+int                                mhm
+
+int_orthography                    mhm
+
+spring_grove_MN_18um               nå har vi ee # enn dell hisstorier å ætter
+                                   enn del tå dessa trønnderan væit du
+
+spring_grove_MN_18um_orthography   nå har vi e # en del historier og etter en
+                                   del av disse trønderne veit du
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_18um               de ær å ee # trønnderan si «snåop-tænngkt»
+                                   dæi væit du # å de va nå nåe ta remm
+
+spring_grove_MN_18um_orthography   det er og e # trønderne sier «snabb-tenkt»
+                                   de veit du # og det var nå noen av dem
+
+spring_grove_MN_18um               de va enn gammeL trønnder ein gonng somm
+                                   hadde nå ee åh hann hadde nå vøri inni
+                                   drekkhuse da væit du lite grann
+
+spring_grove_MN_18um_orthography   det var en gammel trønder en gang som hadde
+                                   nå e å han hadde nå vært inni drikkehuset da
+                                   veit du lite grann
+
+spring_grove_MN_18um               åsså kåmm n å skulle # skulle gå inn på
+                                   drikkehuse på nytt # tok fæil å jikk så inn
+                                   på ei +x møbel-står
+
+spring_grove_MN_18um_orthography   også kom han og skulle # skulle gå inn på
+                                   drikkehuset på nytt # tok feil og gikk så
+                                   inn på ei +x møbel-store
+
+spring_grove_MN_18um               kåmm inn der så sto dær enn del ee
+                                   likkjisster oppræist ætter væggen # byner
+                                   gammLe trønndern å sjå på rei
+
+spring_grove_MN_18um_orthography   kom inn der så sto der en del e likkister
+                                   oppreist etter veggen # begynner gamle
+                                   trønderen å se på dem
+
+spring_grove_MN_18um               så sier # møbelmann # «skullde ru ha enn
+                                   likkjisste kann henne ?»
+
+spring_grove_MN_18um_orthography   så sier # møbelmannen # «skulle du ha en
+                                   likkiste kan hende ?»
+
+spring_grove_MN_18um               «dja æi sku hadd n ått enn lekkjisst ått n
+                                   dær ee kåRkjærringa sjir o»
+
+spring_grove_MN_18um_orthography   «tja jeg skulle hatt en åt en likkiste åt
+                                   hun der e kårkjerringa ser du»
+
+spring_grove_MN_18um               å de va enn gammeL kvitsjegga gammeL mann
+
+spring_grove_MN_18um_orthography   og det var en gammel kvitskjegget gammel mann
+
+spring_grove_MN_18um               så sier # møbbelmann te henn # " e o vakksin
+                                   ?»
+
+spring_grove_MN_18um_orthography   så sier # møbbelmannen til han # " er hun
+                                   voksen ?»
+
+spring_grove_MN_18um               «omm honn æ %u vakksin ho e gammLar ho inn
+                                   æ» si tronndern
+
+spring_grove_MN_18um_orthography   «om noen er %u voksen hun er eldre hun enn
+                                   meg» sier trønderen
+
+int                                %l
+
+int_orthography                    %l
+
+spring_grove_MN_18um               ja nå ann adde sett på ei stunn så si n #
+                                   «va ti ønnsket du å ha tjisst'n ?»
+
+spring_grove_MN_18um_orthography   ja når han hadde sett på ei stund så sier
+                                   han # «hva tid ønsket du å ha kisten ?»
+
+spring_grove_MN_18um               «åh ja æ væit nå itt omm de hassti» sa ann «
+                                   førr o e ennå itt dæu hell ennå sje du » %l
+
+spring_grove_MN_18um_orthography   «å ja jeg veit nå ikke om det haster» sa han
+                                   « for hun er ennå ikke daud heller ennå ser
+                                   du » %l
+
+int                                ja ja driv på du har du noen flere slike ?
+
+int_orthography                    ja ja driv på du har du noen flere slike ?
+
+spring_grove_MN_18um               ja # de kunn ha %u de å
+
+spring_grove_MN_18um_orthography   ja # det kunne ha %u det og
+
+spring_grove_MN_18um               dær va ein ee # trønnder somm ee ville kjøpe
+                                   sei fLæssk
+
+spring_grove_MN_18um_orthography   der var en e # trønder som e ville kjøpe seg
+                                   flesk
+
+spring_grove_MN_18um               åsså førrde hann hadde kømm inn te #
+                                   kjøtthanndlærn så ee føsjto ittje hann
+                                   nåssjk # å trønndern kunn ittje snake
+                                   enngelsk
+
+spring_grove_MN_18um_orthography   også fordi han hadde kommet inn til #
+                                   kjøtthandleren så e forsto ikke han norsk #
+                                   og trønderen kunne ikke snakke engelsk
+
+spring_grove_MN_18um               å hann kåmm inn dær å skreik fLæssk tå
+                                   liffsens kræffter # mænn hann visst n allt n
+                                   hadde menn ittje fLæssk
+
+spring_grove_MN_18um_orthography   og han kom inn der og skreik flesk av
+                                   livsens krefter # men han viste han alt han
+                                   hadde men ikke flesk
+
+spring_grove_MN_18um               så sier n «kann henn- probably it s pork you
+                                   want»
+
+spring_grove_MN_18um_orthography   så sier han «kan henn- probably it is pork
+                                   you want»
+
+spring_grove_MN_18um               så går trønndern borrt te døra åsså si n «ja
+                                   no fer de varra # nå itt e kann få ei
+                                   styttje me fLæssk førrut'n æ må tjøp i hæil
+                                   pårk» %l
+
+spring_grove_MN_18um_orthography   så går trønderen bort til døra også sier han
+                                   «ja nå får det være # når ikke jeg kan få et
+                                   stykke med flesk foruten jeg må kjøpe ei
+                                   heil pork» %l
+
+int                                %l
+
+int_orthography                    %l
+
+int                                og hvordan var det med strilen da har du
+                                   noen historier om han ?
+
+int_orthography                    og hvordan var det med strilen da har du
+                                   noen historier om han ?
+
+spring_grove_MN_18um               ja # e har d- e ha vi har nån a strila da
+                                   væit du inni nabolage dær
+
+spring_grove_MN_18um_orthography   ja # jeg har d- jeg har vi har noen av
+                                   striler da veit du inni nabolaget der
+
+spring_grove_MN_18um               å ee # ja du væit du kann tjenne enn stril
+                                   førr annte e remm på væigen å ska tjøp enn
+                                   fissk hell så har demm enn fissk unner arrmen
+
+spring_grove_MN_18um_orthography   og e # ja du veit du kan kjenner en stril
+                                   for enten er de på vegen og skal kjøpe en
+                                   fisk eller så har de en fisk under armen
+
+int                                %k
+
+int_orthography                    %k
+
+spring_grove_MN_18um               å ee # ein stril va førr eksæmmpel i
+                                   førættning # å de e bærre de er nå æin
+                                   førættning dømm e go i å de e sæll fissk
+
+spring_grove_MN_18um_orthography   og e # en stril var for eksempel i
+                                   forretning # og det er bare det er nå én
+                                   forretning de er gode i og det er selge fisk
+
+spring_grove_MN_18um               å så hadd n fissken sinn denn her strid'n
+                                   ligganes i ei +u tråo levanes
+
+spring_grove_MN_18um_orthography   og så hadde han fisken sin den her strilen
+                                   liggende i ei +u tråd levende
+
+spring_grove_MN_18um               åsså tjæmm de ei tjærring å sku tjøpe se
+                                   fissk
+
+spring_grove_MN_18um_orthography   også kommer det ei kjerring og skal kjøpe
+                                   seg fisk
+
+spring_grove_MN_18um               så såg ho denn på fissken åsså si n «e re
+                                   æin svære pryla du sku tjøpa dann»
+
+spring_grove_MN_18um_orthography   så så hun den på fisken også sa han «er det
+                                   en svær pryle du skulle kjøpe den»
+
+spring_grove_MN_18um               «næi dænn vill eg ittje ha» sa o « hann e
+                                   dæu å hann ligg på ryddjen »
+
+spring_grove_MN_18um_orthography   «nei den vil jeg ikke ha» sa hun « han er
+                                   daud og han ligger på ryggen »
+
+spring_grove_MN_18um               «næi ka si du» sa ann # « dænn e kkje dæu de
+                                   e me dænn nett se de e me reio sjøll du a
+                                   ligget på ryggen mannga venndo å æ nett lika
+                                   sprek » sa ann
+
+spring_grove_MN_18um_orthography   «nei hva sier du» sa han # « den er ikke
+                                   daud det er med den nett som det er med deg
+                                   sjøl du har ligget på ryggen mange vender og
+                                   er nett like sprek » sa han
+
+int                                %l
+
+int_orthography                    %l
+

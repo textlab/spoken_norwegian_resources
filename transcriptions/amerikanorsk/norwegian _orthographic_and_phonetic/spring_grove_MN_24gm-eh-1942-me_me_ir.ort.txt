@@ -1,0 +1,344 @@
+spring_grove_MN_24gm               ja nammne mitt ær ee spring_grove_MN_24gm
+
+spring_grove_MN_24gm_orthography   ja navnet mitt er e spring_grove_MN_24gm
+
+spring_grove_MN_24gm               je var føtt hær i Sprinng Råov # Taonsjipp
+                                   bæin ut'nfårr Sprinng Gråv-bin
+
+spring_grove_MN_24gm_orthography   jeg var født her i Spring Grove # Township
+                                   beint utenfor Spring Grove-byen
+
+spring_grove_MN_24gm               å em # namme hass far var M1 åsså # åsså mor
+                                   va F1
+
+spring_grove_MN_24gm_orthography   og em # navnet hans far var M1 også # også
+                                   mor var F1
+
+spring_grove_MN_24gm               å ee # ho mor va føtt i Villmingt'n
+                                   Taonsjipp å n far var føtt # på farrm
+                                   heimfarrmen hær ut'nfå bin
+
+spring_grove_MN_24gm_orthography   og e # hun mor var født i Wilmington
+                                   Township og han far var født # på farm
+                                   heimfarmen her utenfor byen
+
+spring_grove_MN_24gm               åsså # va enn # far va føtt i
+                                   att'nhunndråsekksti å # mor i
+                                   att'nhunndfiråsekksti
+
+spring_grove_MN_24gm_orthography   også # var han # far var født i
+                                   attenhundreogseksti og # mor i
+                                   attenhundreogfireogseksti
+
+int                                ja kan du fortelle noe fra hva de har sagt
+                                   deg om e gamledager her ?
+
+int_orthography                    ja kan du fortelle noe fra hva de har sagt
+                                   deg om e gamledager her ?
+
+spring_grove_MN_24gm               væll # ee itte så fært my domm bLukkt å
+                                   føtæLe- +x telle menn
+
+spring_grove_MN_24gm_orthography   vel # e ikke så fælt mye de brukte å føtæLe-
+                                   +x telle men
+
+spring_grove_MN_24gm               mænn ee # ann hann a tjøRRt me okkser da n
+                                   far # enn mannger gonnger # i gammLedaaL
+
+spring_grove_MN_24gm_orthography   men e # han han har kjørt med okser da han
+                                   far # en mange ganger # i gamledager
+
+int                                jaha ja
+
+int_orthography                    jaha ja
+
+spring_grove_MN_24gm               å # å da n va enn # nitt'n kjuge åR gammal
+                                   så bynt n å trøsske
+
+spring_grove_MN_24gm_orthography   og # og da han var en # nitten tjue år
+                                   gammel så begynte han å treske
+
+spring_grove_MN_24gm               å ann trøsskar i # åh en femmti år
+
+spring_grove_MN_24gm_orthography   og han tresket i # å en femti år
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_24gm               så har ann enn bror somm # ee hette M2 hann
+                                   # hann træssja i to å fæmmti år
+
+spring_grove_MN_24gm_orthography   så har han en bror som # e het M2 han # han
+                                   treska i to og femti år
+
+spring_grove_MN_24gm               å hann e ti år ynngre
+
+spring_grove_MN_24gm_orthography   og han er ti år yngre
+
+int                                hadde de sine egne maskiner da eller hva ?
+
+int_orthography                    hadde de sine egne maskiner da eller hva ?
+
+spring_grove_MN_24gm               ja # emm adde sine eg'ne massjiner
+
+spring_grove_MN_24gm_orthography   ja # de hadde sine egne maskiner
+
+int                                kan du fortelle lite grann om hva de gjorde
+                                   da når de reiste dem sånn ?
+
+int_orthography                    kan du fortelle lite grann om hva de gjorde
+                                   da når de reiste dem sånn ?
+
+spring_grove_MN_24gm               +x væll domm # i gammerdar da remm træsja
+                                   ifrå # fir- em ifrå i +x ågust å tell
+                                   nesst'n +u nettop fåre juL
+
+spring_grove_MN_24gm_orthography   +x well de # i gamledager da de treska ifra
+                                   # fir- em ifra i +x August og til nesten +u
+                                   nettopp før jul
+
+int                                %u
+
+int_orthography                    %u
+
+spring_grove_MN_24gm               %u-trøysinga å # åsså %u-trøysing
+
+spring_grove_MN_24gm_orthography   %u-treskinga og # også %u-tresking
+
+int                                å ja
+
+int_orthography                    å ja
+
+spring_grove_MN_24gm               menn nå sisste åra så har e vi +u vare # åh
+                                   enn to tre vikur # me træssjking
+
+spring_grove_MN_24gm_orthography   men nå siste åra så har det vi +u bare # å
+                                   en to tre uker # med tresking
+
+int                                mm
+
+int_orthography                    mm
+
+int                                hadde han sin egen farm og da ?
+
+int_orthography                    hadde han sin egen farm og da ?
+
+spring_grove_MN_24gm               ja nå hadd- hann far hann hann +x sætt no
+                                   såmm varrt attått heimfarrmen såmm hann
+                                   besstefar # +x sættla hær i enn kåmm åver
+                                   fra Nårrge
+
+spring_grove_MN_24gm_orthography   ja nå hadd- han far han han +x settla noe
+                                   som var attåt heimfarmen som han bestefar #
+                                   +x settla her i han kom over fra Norge
+
+int                                jaha
+
+int_orthography                    jaha
+
+spring_grove_MN_24gm               åsså # i såmm- i vår så dør hann far # denn
+                                   ann'n mai
+
+spring_grove_MN_24gm_orthography   også # i såmm- i vår så døde han far # den
+                                   annen mai
+
+spring_grove_MN_24gm               å da va ann # nesst'n to å åtti år gammal
+
+spring_grove_MN_24gm_orthography   og da var han # nesten to og åtti år gammel
+
+spring_grove_MN_24gm               å mor # dø # denne sjuene juni i såmmar
+
+spring_grove_MN_24gm_orthography   og mor # døde # denne sjuende juni i sommer
+
+spring_grove_MN_24gm               adde vi ho va begrø- gravet akkurat # var ee
+                                   ja femm eller sekks vikur # ett n far va
+                                   begrøven
+
+spring_grove_MN_24gm_orthography   hadde vi hun var begrø- gravet akkurat # var
+                                   e ja fem eller seks uker # etter han far var
+                                   begravet
+
+int                                å og e du har mye snakka norsk du da i din
+                                   tid ?
+
+int_orthography                    å og e du har mye snakka norsk du da i din
+                                   tid ?
+
+spring_grove_MN_24gm               vi lærtes nåssjk fisst vi da j- da je bynte
+                                   på skoL'n hær i bin # emm høsst'n i
+                                   nitt'nhunndråni så # så visst itte je håss'n
+                                   å snakke ænngelsk
+
+spring_grove_MN_24gm_orthography   vi lærte norsk først vi da j- da jeg begynte
+                                   på skolen her i byen # om høsten i
+                                   nittenhundreogni så # så visste ikke jeg
+                                   åssen å snakke engelsk
+
+spring_grove_MN_24gm               i kunn itt føstå åss'n unn skoLelærer kunne
+                                   lær åss å snakke ænngels da vi itte føsjo
+                                   ænngelsk
+
+spring_grove_MN_24gm_orthography   jeg kunne ikke forstå åssen hun skolelæreren
+                                   kunne lære oss å snakke engelsk da vi ikke
+                                   forsto engelsk
+
+spring_grove_MN_24gm               %u ho føsjto itte nåssjk
+
+spring_grove_MN_24gm_orthography   %u hun forsto ikke norsk
+
+spring_grove_MN_24gm               å
+
+spring_grove_MN_24gm_orthography   og
+
+int                                %u
+
+int_orthography                    %u
+
+spring_grove_MN_24gm               +x væl i # fækk nå lært da %u sjlutt likevæR
+
+spring_grove_MN_24gm_orthography   +x well jeg # fikk nå lært da %u slutt
+                                   likevel
+
+int                                jaha
+
+int_orthography                    jaha
+
+spring_grove_MN_24gm               så var e i nitt'nhunndråni jæ ha jæ skulle
+                                   byn på skuurn
+
+spring_grove_MN_24gm_orthography   så var det i nittenhundreogni jeg har jeg
+                                   skulle begynne på skolen
+
+spring_grove_MN_24gm               å så # lærte unn åss te å +x lagg # båre
+                                   nåssj-ball å beisbål
+
+spring_grove_MN_24gm_orthography   og så # lærte hun oss til å +x lage # både
+                                   norsk-ball og baseball
+
+int                                norsk-ball hva var nå det ?
+
+int_orthography                    norsk-ball hva var nå det ?
+
+spring_grove_MN_24gm               +x nåssjk-bål de ær dæ dæi brukkte +u(førr
+                                   å) …
+
+spring_grove_MN_24gm_orthography   +x norsk-ball det er det de brukte +u(for å)
+                                   …
+
+int                                hadde dere noe annet navn på det ?
+
+int_orthography                    hadde dere noe annet navn på det ?
+
+spring_grove_MN_24gm               +x nå # itte vi ee
+
+spring_grove_MN_24gm_orthography   +x no # ikke vi e
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_24gm               vi brukkte nå å måtte ha æin frællser da
+                                   væit du vi brukkte å kalle væit du vi
+                                   spillte +x bål +u åsså # ee starte så vi
+                                   alle sammen var på æi s- ee æine me æine +x
+                                   gullra ha vi kallte re så
+
+spring_grove_MN_24gm_orthography   vi brukte nå å måtte ha en frelser da veit
+                                   du vi brukte å kalle veit du vi spilte +x
+                                   ball +u også # e starta så vi alle sammen
+                                   var på ei s- e ene med ene +x gullra har vi
+                                   kalte det så
+
+spring_grove_MN_24gm               vi måtte ha enn frællser da æin såmm sku slå
+                                   +x båll +u(åmm å jør) lænnger ne %u kåmma
+                                   ijenn att till # +x gullver hell n kalle
+                                   fårr +x( håom pleis ) i beisbål
+
+spring_grove_MN_24gm_orthography   vi måtte ha en frelser da en som skulle slå
+                                   +x ball +u(om å gjøre) lenger ned %u komme
+                                   igjen att til # +x gullver eller man kaller
+                                   for +x( home place ) i baseball
+
+int                                ja
+
+int_orthography                    ja
+
+int                                hva skulle de andre gjøre da ?
+
+int_orthography                    hva skulle de andre gjøre da ?
+
+spring_grove_MN_24gm               væll domm måtte væra sattse på fårr å kåmma
+                                   heimatt dåmm %u enn ee +x(håom beis) menn de
+                                   æ hann slo +x båll lanngt bordi # %u
+
+spring_grove_MN_24gm_orthography   vel de måtte være satse på for å komme
+                                   heimatt de %u en e +x(home base) men det er
+                                   han slo +x ball langt borti # %u
+
+int                                ja
+
+int_orthography                    ja
+
+spring_grove_MN_24gm               %u sjlå ball %u # lanngt i gaLe
+
+spring_grove_MN_24gm_orthography   %u slå ball %u # langt av gårde
+
+int                                mhm
+
+int_orthography                    mhm
+
+spring_grove_MN_24gm               å da jikk # varrt vi jikk jennåm +x høgskuLe
+                                   +u att ti åR sid'n i år att e færdi me +x
+                                   høgskuLen
+
+spring_grove_MN_24gm_orthography   og da gikk # ble vi gikk gjennom +x
+                                   høgskolen +u at ti år siden i år at jeg
+                                   ferdig med +x høgskolen
+
+spring_grove_MN_24gm               så jikk je noon # n par år på JunevøRsti e
+                                   Minesåta
+
+spring_grove_MN_24gm_orthography   så gikk jeg noen # et par år på University
+                                   of Minnesota
+
+spring_grove_MN_24gm               å nå ha je
+
+spring_grove_MN_24gm_orthography   og nå har jeg
+
+int                                du lærte ikke noe norsk der ?
+
+int_orthography                    du lærte ikke noe norsk der ?
+
+spring_grove_MN_24gm               +x nå itte dær vi vi tokk # tokk nåssjk i #
+                                   i Sprinng Råv +x høgskurn så +x nnd # %u ta
+                                   romm ræiser
+
+spring_grove_MN_24gm_orthography   +x no ikke der vi vi tok # tok norsk i # i
+                                   Spring Grove +x høgskolen så +x and # %u av
+                                   dem reiser
+
+int                                jaha jeg visste ikke dere hadde %u her
+
+int_orthography                    jaha jeg visste ikke dere hadde %u her
+
+spring_grove_MN_24gm               ja vi hadde renn
+
+spring_grove_MN_24gm_orthography   ja vi hadde den
+
+spring_grove_MN_24gm               menn vi va de va åsså væe rekkti nåssjk dær
+                                   væit du å vi enn pLass %u nåssjk vi vet du å
+                                   fårdi vi # vi va itte så svært kLoke
+
+spring_grove_MN_24gm_orthography   men vi var det var også være riktig norsk
+                                   der veit du og vi en plass %u norsk vi vet
+                                   du og fordi vi # vi var ikke så svært kloke
+
+int                                %u %l
+
+int_orthography                    %u %l
+
+spring_grove_MN_24gm               %l
+
+spring_grove_MN_24gm_orthography   %l
+

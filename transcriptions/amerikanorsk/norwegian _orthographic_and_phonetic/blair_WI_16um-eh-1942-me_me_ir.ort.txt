@@ -1,0 +1,696 @@
+blair_WI_16um               n blair_WI_16um
+
+blair_WI_16um_orthography   han blair_WI_16um
+
+int                         og em  # e hvilket år ble du født ?
+
+int_orthography             og em  # e hvilket år ble du født ?
+
+int                         det var # hvor lenge sia ?
+
+int_orthography             det var # hvor lenge sia ?
+
+blair_WI_16um               +u att'nsjuånitti att'nsjuånitti
+
+blair_WI_16um_orthography   +u attensjuognitti attensjuognitti
+
+int                         ja # og e # em # kan du fortelle lite grann om far
+                            din og mor di ?
+
+int_orthography             ja # og e # em # kan du fortelle lite grann om far
+                            din og mor di ?
+
+int                         hva heter far din ?
+
+int_orthography             hva heter far din ?
+
+blair_WI_16um               M1
+
+blair_WI_16um_orthography   M1
+
+int                         og e # kan du fortelle lite grann om han # han ja
+
+int_orthography             og e # kan du fortelle lite grann om han # han ja
+
+blair_WI_16um               +u hann hann hann do onng ann # hann far
+
+blair_WI_16um_orthography   +u han han han døde ung han # han far
+
+int                         å han gjorde det ?
+
+int_orthography             å han gjorde det ?
+
+blair_WI_16um               ja +u n va bærre fir å fæmmti år
+
+blair_WI_16um_orthography   ja +u han var bare fire og femti år
+
+int                         %u
+
+int_orthography             %u
+
+blair_WI_16um               åh ja da +u(ja) # så varrt +u(nå vell) trætt'n år e
+                            da
+
+blair_WI_16um_orthography   å ja da +u(ja) # så ble +u(nå vel) tretten år jeg da
+
+int                         og mor di ?
+
+int_orthography             og mor di ?
+
+blair_WI_16um               ja honn ## do sækks år sea
+
+blair_WI_16um_orthography   ja hun ## døde seks år sia
+
+int                         å ja # e kan du fortelle lite grann om henne ?
+
+int_orthography             å ja # e kan du fortelle lite grann om henne ?
+
+int                         hvor hun har kommet fra i Norge ?
+
+int_orthography             hvor hun har kommet fra i Norge ?
+
+blair_WI_16um               ee ho +u varrt # varrt føtt hær
+
+blair_WI_16um_orthography   e hun +u ble # ble født her
+
+int                         hun var født her hun ?
+
+int_orthography             hun var født her hun ?
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         ja vel # jaha e # husker du noe om fra da folket
+                            ditt kom fra Norge som de har fortalt om ?
+
+int_orthography             ja vel # jaha e # husker du noe om fra da folket
+                            ditt kom fra Norge som de har fortalt om ?
+
+blair_WI_16um               e næi je je tte de
+
+blair_WI_16um_orthography   e nei jeg gjør ikke det
+
+int                         og e vil du fortelle lite grann om e # om da du
+                            gikk på skolen ?
+
+int_orthography             og e vil du fortelle lite grann om e # om da du
+                            gikk på skolen ?
+
+int                         hvor gammel var du da du begynte ?
+
+int_orthography             hvor gammel var du da du begynte ?
+
+blair_WI_16um               +u va jæ vell # +u ne sju år
+
+blair_WI_16um_orthography   +u var jeg vel # +u en sju år
+
+int                         og +u så gikk du hvor lenge ?
+
+int_orthography             og +u så gikk du hvor lenge ?
+
+blair_WI_16um               åh jæ måtte være emme mye å jæLLp enn far å
+
+blair_WI_16um_orthography   å jeg måtte være hjemme mye og hjelpe han far og
+
+int                         mm # var det …
+
+int_orthography             mm # var det …
+
+blair_WI_16um               jæ sjlutte da jæ var enn # a e fjorrt'n tenngk je
+                            fjorrt'n år
+
+blair_WI_16um_orthography   jeg slutta da jeg var en # ja en fjorten tenker jeg
+                            fjorten år
+
+int                         e hva gjorde ungene e når de ikke satt på
+                            skolebenken ?
+
+int_orthography             e hva gjorde ungene e når de ikke satt på
+                            skolebenken ?
+
+int                         hva dreiv +u dere med utafor skolen ?
+
+int_orthography             hva dreiv +u dere med utafor skolen ?
+
+blair_WI_16um               +u(ja å) vi spællte +x bål å opp på sjir omm
+                            vinntern %l
+
+blair_WI_16um_orthography   +u(ja å) vi spilte +x ball og opp på ski om
+                            vinteren %l
+
+int                         å ja # em # gikk du på norskskole ?
+
+int_orthography             å ja # em # gikk du på norskskole ?
+
+blair_WI_16um               ja da +u(nesst'n n) måån i +u( heit år )
+
+blair_WI_16um_orthography   ja da +u(nesten en) måned i +u( hvert år )
+
+int                         åssen var det å gå på den ?
+
+int_orthography             åssen var det å gå på den ?
+
+blair_WI_16um               åi # jæ %u de var denn væssjte skuLe e jikk på
+
+blair_WI_16um_orthography   oi # jeg %u de var den verste skolen jeg gikk på
+
+int                         hvorfor det ?
+
+int_orthography             hvorfor det ?
+
+blair_WI_16um               %l de va få heitt # varrnt
+
+blair_WI_16um_orthography   %l det var for heitt # varmt
+
+int                         å ja
+
+int_orthography             å ja
+
+int                         det var midt på sommeren det da ?
+
+int_orthography             det var midt på sommeren det da ?
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         ehe
+
+int_orthography             ehe
+
+blair_WI_16um               å værra gått +u ne sju åtte måne på enngelsk så var
+                            de ee synte sku vær færdi de åre vett du %l
+
+blair_WI_16um_orthography   å være gått +u nær sju åtte måneder på engelsk så
+                            var det e syntes skulle være ferdig det året vet du
+                            %l
+
+int                         ja
+
+int_orthography             ja
+
+int                         ja nå tenker jeg kanskje du kunne # om du ville #
+                            kanskje snakke til M2 og fortelle han lite grann om
+                            # hva du har drevet med i de senere åra
+
+int_orthography             ja nå tenker jeg kanskje du kunne # om du ville #
+                            kanskje snakke til M2 og fortelle han lite grann om
+                            # hva du har drevet med i de senere åra
+
+int                         du kan ha lyst på at han skulle få høre den
+
+int_orthography             du kan ha lyst på at han skulle få høre den
+
+blair_WI_16um               %s
+
+blair_WI_16um_orthography   %s
+
+int                         bare å tenke deg om veit du # %u
+
+int_orthography             bare å tenke deg om veit du # %u
+
+blair_WI_16um               %u
+
+blair_WI_16um_orthography   %u
+
+int                         %u hadde du lyst si det til han ?
+
+int_orthography             %u hadde du lyst si det til han ?
+
+int                         hva har du drevet med nå i det seinere ?
+
+int_orthography             hva har du drevet med nå i det seinere ?
+
+blair_WI_16um               åh # jæ a vøri litt a værrt jæ %u jæ aleine te enn
+                            farrm %u %l
+
+blair_WI_16um_orthography   å # jeg har vært litt av hvert jeg %u jeg aleine
+                            til en farm %u %l
+
+int                         ja bare fortell oss lite grann om det
+
+int_orthography             ja bare fortell oss lite grann om det
+
+blair_WI_16um               +l ja
+
+blair_WI_16um_orthography   +l ja
+
+int                         du e holdt på med pløyinga ?
+
+int_orthography             du e holdt på med pløyinga ?
+
+blair_WI_16um               ja ja barre pLøydd litte grann
+
+blair_WI_16um_orthography   ja ja bare pløyd lite grann
+
+int                         men før det du begynte med pløyinga hva gjorde du
+                            da ?
+
+int_orthography             men før det du begynte med pløyinga hva gjorde du
+                            da ?
+
+blair_WI_16um               nå jæ # driv å træsskå
+
+blair_WI_16um_orthography   nå jeg # driver og tresker
+
+int                         mhm # fortell meg lite grann om treskinga åssen
+                            gjør du det ?
+
+int_orthography             mhm # fortell meg lite grann om treskinga åssen
+                            gjør du det ?
+
+blair_WI_16um               i %u tresske
+
+blair_WI_16um_orthography   i %u tresker
+
+int                         men e # sett nå at jeg ikke vet noe om tresking og
+                            du ville fortelle meg åssen det åssen du gjorde det
+
+int_orthography             men e # sett nå at jeg ikke vet noe om tresking og
+                            du ville fortelle meg åssen det åssen du gjorde det
+
+int                         m bare fortell lite grann om # om # fra helt fra
+                            begynnelsen nå
+
+int_orthography             m bare fortell lite grann om # om # fra helt fra
+                            begynnelsen nå
+
+int                         når # du går ut på fielda da hva gjør du da ?
+
+int_orthography             når # du går ut på fielda da hva gjør du da ?
+
+blair_WI_16um               +l ja %u fæmm tim o # kjører +x grøn inn att da #
+                            tell # te enn seiss'n søtt'n mann
+
+blair_WI_16um_orthography   +l ja %u fem timer og # kjører +x grain inn att da
+                            # til # til en seksten sytten mann
+
+int                         mm
+
+int_orthography             mm
+
+int                         mhm jaha
+
+int_orthography             mhm jaha
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         jaha # og så # hva gjør dere da %u
+
+int_orthography             jaha # og så # hva gjør dere da %u
+
+blair_WI_16um               %l
+
+blair_WI_16um_orthography   %l
+
+blair_WI_16um               de varr ee # menn tresskingen e re bærre nå enn d'n
+                            ha brukkt å vørri
+
+blair_WI_16um_orthography   det var e # men treskingen er det bedre nå enn den
+                            har brukt å være
+
+int                         åssen var det før ?
+
+int_orthography             åssen var det før ?
+
+blair_WI_16um               %u de va tåfft de
+
+blair_WI_16um_orthography   %u det var tøft det
+
+int                         ja
+
+int_orthography             ja
+
+int                         e jeg lurte på om du kan fortelle meg lite grann om
+                            den gangen da du stelte %u
+
+int_orthography             e jeg lurte på om du kan fortelle meg lite grann om
+                            den gangen da du stelte %u
+
+blair_WI_16um               %l
+
+blair_WI_16um_orthography   %l
+
+int                         +u(du har jo svært gjerne om du fortalte meg det)
+
+int_orthography             +u(du har jo svært gjerne om du fortalte meg det)
+
+blair_WI_16um               ja nå ska n inn å n # stor vate-møller
+
+blair_WI_16um_orthography   ja nå skal den inn og en # stor water-mølle
+
+blair_WI_16um               å de va nn M3 va naboan a så næsst'n akkurat såmm
+                            M3 så # fekk n %u te dess hærra vatter-møller åsså
+                            # %u +u(væta omm de)
+
+blair_WI_16um_orthography   og det var han M3 var naboen da så nesten akkurat
+                            som M3 så # fikk han %u til disse her water-møller
+                            også # %j +u(vite om det)
+
+blair_WI_16um               omm kvæll'n ann komm så va re # så mørrt vi kunn
+                            itte # de va så mørrt æ kunn itte sjå ann menn e
+                            hadde je # +x(dåbbel bell) # hagg'Lbøssja
+
+blair_WI_16um_orthography   om kvelden han kom så var det # så mørkt vi kunne
+                            ikke # det var så mørkt jeg kunne ikke se han men
+                            jeg hadde jeg # +x(double bell) # haglbørse
+
+blair_WI_16um               så va ri neri der ra # menn æ kunn ke sjå no
+                            sollater me demm menn jæ +u(hørrde emm) banngka på
+                            demm
+
+blair_WI_16um_orthography   så var de nedi der da # men jeg kunne ikke se noe
+                            soldater med dem men jeg +u(hørte demm) banka på dem
+
+blair_WI_16um               å ee # da vennt itt demm da %u
+
+blair_WI_16um_orthography   og e # da venta ikke de da %u
+
+blair_WI_16um               ee e vennt itt enganng nårr emm banngka på nårr #
+                            skæut di å %u varrt så redd såmm %u
+
+blair_WI_16um_orthography   e jeg venta ikke engang når de banka på når # skøyt
+                            de og %u ble så redd som %u
+
+blair_WI_16um               %l å da tog hann te %u # hann hærrja åmtrennt såmm
+                            enn %u jæit
+
+blair_WI_16um_orthography   %l og da tok han til %u # han herja omtrent som en
+                            %u geit
+
+int                         %l
+
+int_orthography             %l
+
+blair_WI_16um               %l å da sa e de «komm her du da M4» sa jæ
+
+blair_WI_16um_orthography   %l og da sa jeg det «kom her du da M4» sa jeg
+
+blair_WI_16um               «ja» sa nn de « je %u vell itte » sa je
+
+blair_WI_16um_orthography   «ja» sa han det « jeg %u vel ikke » sa jeg
+
+blair_WI_16um               «nei %u skæut dæmm itte beint på mæ» sa n # «jo de
+                            jord di» sa jæ de
+
+blair_WI_16um_orthography   «nei %u skøyt de ikke beint på meg» sa han # «jo
+                            det gjorde de» sa jeg det
+
+int                         %l
+
+int_orthography             %l
+
+blair_WI_16um               %l å da varrt n %u åsså # taLa n ga- gæLi åsså sa
+                            ann atte # dætt æ sisste +u gonng jæ æ %u
+
+blair_WI_16um_orthography   %l og da ble han %u også # talte han ga- galt også
+                            sa han at # dette er siste +u gang jeg er %u
+
+blair_WI_16um               å de va de # sisste gonng jæ æ støL i måårn tenngk
+                            på %u %l
+
+blair_WI_16um_orthography   og det var det # siste gang jeg er støl i morgenen
+                            tenk på %u %l
+
+blair_WI_16um               å demm fannt dett ut på åmtrennt n to vinnter etter
+                            atte nåssjke %u +u(hadde # fo de me sæ)
+
+blair_WI_16um_orthography   og de fant dette ut på omtrent en to vinter etter
+                            at norske %u +u(hadde # fått det med seg)
+
+int                         ja em ## jeg hører du var på fairen i dag
+
+int_orthography             ja em ## jeg hører du var på fairen i dag
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         hva så du der ?
+
+int_orthography             hva så du der ?
+
+blair_WI_16um               åh fåLLk æ en tinng %l
+
+blair_WI_16um_orthography   å folk er en ting %l
+
+int                         ja
+
+int_orthography             ja
+
+blair_WI_16um               %u de itt så fært lite ta # +u +x små-fæRa
+
+blair_WI_16um_orthography   %u det ikke så fælt lite av # +u +x små-faira
+
+int                         m
+
+int_orthography             m
+
+blair_WI_16um               menn jæ adde sånn ein go # en hæistReis
+
+blair_WI_16um_orthography   men jeg hadde sånt et godt # et hesterace
+
+int                         mhm kan du fortelle lite grann om det # hva du så
+                            der ?
+
+int_orthography             mhm kan du fortelle lite grann om det # hva du så
+                            der ?
+
+blair_WI_16um               ee
+
+blair_WI_16um_orthography   e
+
+int                         så en del # dyr og
+
+int_orthography             så en del # dyr og
+
+blair_WI_16um               ja såg enn # %u bjønn %u
+
+blair_WI_16um_orthography   ja så en # %u bjørn %u
+
+int                         var det den som gikk å %u
+
+int_orthography             var det den som gikk å %u
+
+blair_WI_16um               +x nå +u(jæ a itte re)
+
+blair_WI_16um_orthography   +x no +u(jeg har ikke det)
+
+int                         dere hadde vel noe å # spise mens dere var der ?
+
+int_orthography             dere hadde vel noe å # spise mens dere var der ?
+
+blair_WI_16um               næi jæ såg inngen såmm +u(spisat ær)
+
+blair_WI_16um_orthography   nei jeg så ingen som +u(spis der)
+
+int                         mm
+
+int_orthography             mm
+
+int                         e hva skal du se i morgen da ?
+
+int_orthography             e hva skal du se i morgen da ?
+
+blair_WI_16um               nå e må tell åsså # %u fyllt +x sailoen
+
+blair_WI_16um_orthography   nå jeg må til også # %u fylt +x siloen
+
+int                         å ja # e hvem skulle du hatt til å hjelpe deg med
+                            det ?
+
+int_orthography             å ja # e hvem skulle du hatt til å hjelpe deg med
+                            det ?
+
+blair_WI_16um               åh je må a naboa
+
+blair_WI_16um_orthography   å jeg må ha naboer
+
+blair_WI_16um               dette ær enn tåll mann de å
+
+blair_WI_16um_orthography   dette er en tolv mann det og
+
+int                         å det er det
+
+int_orthography             å det er det
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         er den stor siloen din ?
+
+int_orthography             er den stor siloen din ?
+
+blair_WI_16um               d'n ær tåll å sækks å træddve
+
+blair_WI_16um_orthography   den er tolv og seks og tretti
+
+int                         hvor mye kan den %u
+
+int_orthography             hvor mye kan den %u
+
+blair_WI_16um               de var enn # de var enn fæmm sækks æker me gått kønn
+
+blair_WI_16um_orthography   det var en # det var en fem seks acre med godt korn
+
+int                         hva slags crop har dere hatt i år ?
+
+int_orthography             hva slags crop har dere hatt i år ?
+
+blair_WI_16um               vi a att enn go +x kRåkk
+
+blair_WI_16um_orthography   vi har hatt en god +x crop
+
+int                         kan du fortelle lite grann om hvor mye du har fått ?
+
+int_orthography             kan du fortelle lite grann om hvor mye du har fått ?
+
+blair_WI_16um               ja vell # nessten tre å træddve %u somm e væit åmm
+
+blair_WI_16um_orthography   ja vel # nesten tre og tretti %u som jeg veit om
+
+blair_WI_16um               å hålle litt a milla sækksti å søtti
+
+blair_WI_16um_orthography   og holder litt av mellom seksti og sytti
+
+blair_WI_16um               å +x hæie de # de jikk a så mye så %u %l
+
+blair_WI_16um_orthography   og +x hayet det # det gikk av så mye så %u %l
+
+int                         mhm og e åssen er det med disse disse ungene som
+                            lever der oppe ?
+
+int_orthography             mhm og e åssen er det med disse disse ungene som
+                            lever der oppe ?
+
+int                         hva skal de gjøre nå ?
+
+int_orthography             hva skal de gjøre nå ?
+
+blair_WI_16um               åh hann går på skuurn nå
+
+blair_WI_16um_orthography   å han går på skolen nå
+
+int                         når begynte de ?
+
+int_orthography             når begynte de ?
+
+blair_WI_16um               hann bynne manndag
+
+blair_WI_16um_orthography   han begynner mandag
+
+int                         å ja han han skal begynne da
+
+int_orthography             å ja han han skal begynne da
+
+blair_WI_16um               ja bynner å gå %u ei viku
+
+blair_WI_16um_orthography   ja begynner å gå %u ei uke
+
+int                         å ja # og e og hva slags skole går de på ? er det
+                            høyskolen eller ?
+
+int_orthography             å ja # og e og hva slags skole går de på ? er det
+                            høyskolen eller ?
+
+blair_WI_16um               +x nå å då ru sku brinnge binne på %u # ei dame
+                            såmm går oppi # skulen dær oppi %u høyskol'n
+
+blair_WI_16um_orthography   +x no og da du skulle bringe begynne på %u # ei
+                            dame som går oppi # skolen der oppi %u høgskolen
+
+int                         %u
+
+int_orthography             %u
+
+int                         skal du %u opp til de der ?
+
+int_orthography             skal du %u opp til de der ?
+
+blair_WI_16um               næi jæ sku ståppe ne'i byen hær oss # F1
+
+blair_WI_16um_orthography   nei jeg skulle stoppe nedi byen her hos # F1
+
+int                         å ja
+
+int_orthography             å ja
+
+int                         e hva var det du gjorde her om kvelden %u ?
+
+int_orthography             e hva var det du gjorde her om kvelden %u ?
+
+blair_WI_16um               åh +u(da var de) to høner såmm værrt hær
+
+blair_WI_16um_orthography   å +u(da var det) to høner som vært her
+
+int                         hvor har %u kjøpt dem hen ?
+
+int_orthography             hvor har %u kjøpt dem hen ?
+
+blair_WI_16um               e vannt demm %u M5 på akksjon
+
+blair_WI_16um_orthography   jeg vant dem %u M5 på auksjon
+
+int                         ja hvor mange var det da ?
+
+int_orthography             ja hvor mange var det da ?
+
+blair_WI_16um               domm sa de sku vær hunndre å fæmm å søtti så va re
+                            hunndre å fir å søtti så de var de va +x klåos
+
+blair_WI_16um_orthography   de sa det skulle være hundre og fem og sytti så var
+                            det hundre og fire og sytti så det var det var +x
+                            close
+
+int                         mhm # hva gjorde de det +u åssen gjorde de det da ?
+
+int_orthography             mhm # hva gjorde de det +u åssen gjorde de det da ?
+
+blair_WI_16um               åh de # %u F2 å ho var # åver åtti år
+
+blair_WI_16um_orthography   å det # %u F2 og hun var # over åtti år
+
+blair_WI_16um               å ho krabb unner %u alle +l sammen %l
+
+blair_WI_16um_orthography   og hun krabber under %u alle +l sammen %l
+
+int                         men når skal hun gjøre noe med den e # har hun #
+                            lyst på %u ?
+
+int_orthography             men når skal hun gjøre noe med den e # har hun #
+                            lyst på %u ?
+
+blair_WI_16um               ja da å %u åver to %u
+
+blair_WI_16um_orthography   ja da og %u over to %u
+
+int                         er det for e for eggene %u har kjøpt dem eller ?
+
+int_orthography             er det for e for eggene %u har kjøpt dem eller ?
+
+blair_WI_16um               ja
+
+blair_WI_16um_orthography   ja
+
+int                         kunne du tenke deg å få # %u egg %u ?
+
+int_orthography             kunne du tenke deg å få # %u egg %u ?
+
+blair_WI_16um               åh dæmm såmm hunndr å fæmm å søtti %u så få væll
+                            åve hunndre egg åmm dagan vett du
+
+blair_WI_16um_orthography   å de som hundre og fem og sytti %u så får vel over
+                            hundre egg om dagen vet du
+
+blair_WI_16um               mænn æ jæLLper unn nå da fårr å fLøtt dæmm nå
+
+blair_WI_16um_orthography   men jeg hjelper henne nå da for å flytte dem nå
+
+int                         mhm
+
+int_orthography             mhm
+

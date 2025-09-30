@@ -1,0 +1,758 @@
+int                               %u navnet ditt
+
+int_orthography                   %u navnet ditt
+
+coon_valley_WI_50gm               coon_valley_WI_50gm
+
+coon_valley_WI_50gm_orthography   coon_valley_WI_50gm
+
+int                               og hvor var du født ?
+
+int_orthography                   og hvor var du født ?
+
+coon_valley_WI_50gm               Nårrde Fråen
+
+coon_valley_WI_50gm_orthography   Nordre Fron
+
+int                               e kan du fortelle lite grann om slekta di
+                                  familien din og sånn ?
+
+int_orthography                   e kan du fortelle lite grann om slekta di
+                                  familien din og sånn ?
+
+coon_valley_WI_50gm               ja # jæ har brød- # har to to brøer hær
+
+coon_valley_WI_50gm_orthography   ja # jeg har brød- # har to to brødre her
+
+coon_valley_WI_50gm               å enn ee # å næ to sysst å enn ee to sysst å
+                                  %u å æin bror
+
+coon_valley_WI_50gm_orthography   og han e # og nei to søstre og én e to søstre
+                                  og %u og én bror
+
+int                               å ja
+
+int_orthography                   å ja
+
+coon_valley_WI_50gm               å to %u to ee # ee æin sysster å æin bror i
+                                  Nåri har je att
+
+coon_valley_WI_50gm_orthography   og to %u to e # e én søster og én bror i
+                                  Norge har jeg att
+
+int                               å så du har såpass mange att ja ?
+
+int_orthography                   å så du har såpass mange att ja ?
+
+coon_valley_WI_50gm               mm
+
+coon_valley_WI_50gm_orthography   mm
+
+int                               hvilket år var du født ?
+
+int_orthography                   hvilket år var du født ?
+
+coon_valley_WI_50gm               hm ?
+
+coon_valley_WI_50gm_orthography   hm ?
+
+int                               hvor lenge sia var du født ? # hvilket år ?
+
+int_orthography                   hvor lenge sia var du født ? # hvilket år ?
+
+coon_valley_WI_50gm               %u i sjuååtti
+
+coon_valley_WI_50gm_orthography   %u i sjuogåtti
+
+int                               sjuogåtti ?
+
+int_orthography                   sjuogåtti ?
+
+int                               e kan du fortelle lite grann om om …
+
+int_orthography                   e kan du fortelle lite grann om om …
+
+coon_valley_WI_50gm               +u +x nå # åttååtti
+
+coon_valley_WI_50gm_orthography   +u +x no # åtteogåtti
+
+int                               åtteogåtti var det ?
+
+int_orthography                   åtteogåtti var det ?
+
+coon_valley_WI_50gm               ja
+
+coon_valley_WI_50gm_orthography   ja
+
+int                               e kan du fortelle lite grann om e om det du
+                                  kommer i hug fra barndommen i Norge ?
+
+int_orthography                   e kan du fortelle lite grann om e om det du
+                                  kommer i hug fra barndommen i Norge ?
+
+int                               hvor gammel var du da du begynte å arbeide ?
+
+int_orthography                   hvor gammel var du da du begynte å arbeide ?
+
+coon_valley_WI_50gm               åh jæ var jæ var rett åver sju år da jæ bynte
+                                  jete tru je %u fyssjte gonngen
+
+coon_valley_WI_50gm_orthography   å jeg var jeg var rett over sju år da jeg
+                                  begynte gjete trur jeg %u første gangen
+
+int                               men e …
+
+int_orthography                   men e …
+
+coon_valley_WI_50gm               de va bærre åmm våårn de menn så # ha ittepå
+                                  ra så jætt e hæile såmmaren
+
+coon_valley_WI_50gm_orthography   det var bare om våren det men så # har
+                                  etterpå da så gjette jeg heile sommeren
+
+int                               e hvor var det du gjette ?
+
+int_orthography                   e hvor var det du gjette ?
+
+coon_valley_WI_50gm               hm ?
+
+coon_valley_WI_50gm_orthography   hm ?
+
+int                               e hvor var det du gjette ?
+
+int_orthography                   e hvor var det du gjette ?
+
+coon_valley_WI_50gm               jætte på se- m på sæ- på sætern i # fjelli
+
+coon_valley_WI_50gm_orthography   gjette på se- m på sæ- på seteren i # fjellet
+
+int                               åssen var det om sommeren å være oppi fjellet
+                                  ?
+
+int_orthography                   åssen var det om sommeren å være oppi fjellet
+                                  ?
+
+coon_valley_WI_50gm               åh de va # ælle +l sjlag
+
+coon_valley_WI_50gm_orthography   å det var # alle +l slag
+
+int                               kan du fortelle litt om det ?
+
+int_orthography                   kan du fortelle litt om det ?
+
+coon_valley_WI_50gm               somm- e va nå somme dia se %u # da va remm
+                                  borrte krykkjera væit du så måtte vi nesst'n
+                                  vi drive ute sa remm bae natt å rag
+
+coon_valley_WI_50gm_orthography   som- det var nå somme tida somm %u # da var
+                                  de borte krøttera veit du så måtte vi nesten
+                                  vi drive ute sa de både natt og dag
+
+int                               hvor ble de av da krøttera ?
+
+int_orthography                   hvor ble de av da krøttera ?
+
+coon_valley_WI_50gm               åh %u vell ræiste lanngt av gaLe væit du så #
+                                  komm ti hædde jæ fLu- ee væ- ee fLug ette rømm
+
+coon_valley_WI_50gm_orthography   å %u vel reiste langt av gårde veit du så #
+                                  kom til hadde jeg fLu- e væ- e fløy etter dem
+
+int                               heh
+
+int_orthography                   heh
+
+int                               og åssen var det med været oppi der ?
+
+int_orthography                   og åssen var det med været oppi der ?
+
+coon_valley_WI_50gm               åh e ræggna o # vonnt vær att somme ti somme
+                                  tiå va re rikktikt fint vær
+
+coon_valley_WI_50gm_orthography   å det regna og # vondt vær hadde somme tider
+                                  somme tider var det riktig fint vær
+
+int                               var du alene hele tida mens du gjette ?
+
+int_orthography                   var du alene hele tida mens du gjette ?
+
+coon_valley_WI_50gm               +x nå # jæ va ha budæie va budæio væt du # på
+                                  setern
+
+coon_valley_WI_50gm_orthography   +x no # jeg var har budeie var budeie veit du
+                                  # på seteren
+
+int                               men var det andre gutter som var ute ?
+
+int_orthography                   men var det andre gutter som var ute ?
+
+coon_valley_WI_50gm               åh ja re va # de va fLærie fLæire %u på
+                                  seterom så
+
+coon_valley_WI_50gm_orthography   å ja det var # det var flere flere %u på
+                                  setrene så
+
+int                               å ja
+
+int_orthography                   å ja
+
+coon_valley_WI_50gm               de va fLæire seter titt i hop ser du så re va
+                                  +x mæssum liki somm æi byggd
+
+coon_valley_WI_50gm_orthography   det var flere setre tett i hop ser du så det
+                                  var +x messom like som ei bygd
+
+int                               men e disse setrene var det mange hus på hver
+                                  seter kan du fortelle om husene på …
+
+int_orthography                   men e disse setrene var det mange hus på hver
+                                  seter kan du fortelle om husene på …
+
+coon_valley_WI_50gm               nå de var # var e %u romm +u kælla åsså så va
+                                  re ee +x stebel ell fjos +u kælla omm de nå
+
+coon_valley_WI_50gm_orthography   nå det var # var en %u de +u kaller også så
+                                  var det e +x stable eller fjøs +u kaller de
+                                  det nå
+
+int                               ja
+
+int_orthography                   ja
+
+coon_valley_WI_50gm               å ee åsså va re %u # +u da
+
+coon_valley_WI_50gm_orthography   og e også var det %u # +u da
+
+int                               ja
+
+int_orthography                   ja
+
+int                               var det alle husene som var på setra ?
+
+int_orthography                   var det alle husene som var på setra ?
+
+coon_valley_WI_50gm               ja
+
+coon_valley_WI_50gm_orthography   ja
+
+coon_valley_WI_50gm               ja re var somme staan va re vi- ee va re
+                                  vinntesjtuggu s'm de vær- låga kara i låg di
+                                  omm vinntærn
+
+coon_valley_WI_50gm_orthography   ja det var somme steder var det vi- e var det
+                                  vinterstue som det vær- lå karene i lå de om
+                                  vinteren
+
+coon_valley_WI_50gm               demm låg ee innafør å ja inn på sætærn å %u å
+                                  sjlikkt # å tjørrde ve ått setern
+
+coon_valley_WI_50gm_orthography   de lå e innafor og ja inne på seteren og %u
+                                  og slikt # og kjørte ved til seteren
+
+int                               å ja %u kom inn på om vinteren %u somme tider
+                                  og da ?
+
+int_orthography                   å ja %u kom inn på om vinteren %u somme tider
+                                  og da ?
+
+coon_valley_WI_50gm               åh ja var va immpå dær umm tell å tjørde himm
+                                  +u håiå
+
+coon_valley_WI_50gm_orthography   å ja var var innpå der em til å kjøre hjem +u
+                                  høyet
+
+int                               å ja
+
+int_orthography                   å ja
+
+int                               men hva gjorde dere med det som dere laga på
+                                  setra ?
+
+int_orthography                   men hva gjorde dere med det som dere laga på
+                                  setra ?
+
+coon_valley_WI_50gm               de # demm tjørde hin de åmm åmm høust'n
+
+coon_valley_WI_50gm_orthography   det # de kjørte hjem det om om høsten
+
+int                               var dere dere der hele sommeren ?
+
+int_orthography                   var dere dere der hele sommeren ?
+
+coon_valley_WI_50gm               %u bå +x høuslæia
+
+coon_valley_WI_50gm_orthography   %u på +x høstleia
+
+int                               å ja
+
+int_orthography                   å ja
+
+coon_valley_WI_50gm               da di tjørrde rømm de him # selle re
+
+coon_valley_WI_50gm_orthography   da de kjørte de det hjem # solgte det
+
+int                               %u du gjette at det var noe underjordisk
+                                  eller skrømt oppi der ?
+
+int_orthography                   %u du gjette at det var noe underjordisk
+                                  eller skrømt oppi der ?
+
+coon_valley_WI_50gm               næi vell si- såg nå æller någå ta di je menn
+
+coon_valley_WI_50gm_orthography   nei vel si- så nå aldri noe av dem jeg men
+
+int                               var det dem som så av dem ?
+
+int_orthography                   var det dem som så av dem ?
+
+coon_valley_WI_50gm               næ i hørrd itte va +u nege s'm såg de je da
+                                  jæ dænn tia ja dær %u e +u for
+
+coon_valley_WI_50gm_orthography   nei jeg hørte ikke var +u noen som så det jeg
+                                  da jeg den tida ja der %u jeg +u for
+
+int                               og du har aldri hørt historier fra …
+
+int_orthography                   og du har aldri hørt historier fra …
+
+coon_valley_WI_50gm               åh ja i hørrde nå råmm tåLå på re vætt menn
+
+coon_valley_WI_50gm_orthography   å ja jeg hørte nå de talte på det vet men
+
+int                               men hvor lenge holdt du på med %u gjetinga ?
+
+int_orthography                   men hvor lenge holdt du på med %u gjetinga ?
+
+coon_valley_WI_50gm               i jætte i sju såmmre
+
+coon_valley_WI_50gm_orthography   jeg gjette i sju sommere
+
+int                               og hva gjorde du da # etter den ?
+
+int_orthography                   og hva gjorde du da # etter den ?
+
+coon_valley_WI_50gm               åh da tjennte jæ på n ee tjennte e på ri gaLa
+                                  semm +u vi jætte fisste åre
+
+coon_valley_WI_50gm_orthography   å da tjente jeg på den e tjente jeg på de
+                                  gardene som +u vi gjette første året
+
+coon_valley_WI_50gm               %u va jæ me å va %u tjørrde å # sjlo å sjlikt
+
+coon_valley_WI_50gm_orthography   %u var jeg med og var %u kjørte og # slo og
+                                  slikt
+
+int                               å ja
+
+int_orthography                   å ja
+
+coon_valley_WI_50gm               anndre åre så e vår å tinnte på enn aan gaR
+
+coon_valley_WI_50gm_orthography   andre året så jeg var og tjente på en annen
+                                  gard
+
+int                               mm # og så ?
+
+int_orthography                   mm # og så ?
+
+coon_valley_WI_50gm               a så ee de va så enn ne- ee trea åre da så
+                                  komm de så ke- komm demm å villa hyra me att
+                                  att # %u dær såmm jæ ha vårri hæile tia å jett
+
+coon_valley_WI_50gm_orthography   ja så e det var så en ne- e tredje året da så
+                                  kom det så ke- kom de og ville hyre meg att
+                                  att # %u der som jeg har vært heile tida og
+                                  gjett
+
+int                               ja
+
+int_orthography                   ja
+
+int                               ja
+
+int_orthography                   ja
+
+coon_valley_WI_50gm               asså # %u # vitt jæ ha fått fLøtt da fLøtt så
+                                  %u fækk ei brev frå hær att e sku få kåmmå hit
+
+coon_valley_WI_50gm_orthography   også # %u # vidt jeg har fått flytta da
+                                  flytta så %u fikk jeg brev fra her at jeg
+                                  skulle få komme hit
+
+int                               e hvem kom det fra da ?
+
+int_orthography                   e hvem kom det fra da ?
+
+coon_valley_WI_50gm               de komm frå onngkel ee onngkelå minne hær nii
+                                  daLa hær
+
+coon_valley_WI_50gm_orthography   det kom fra onkel e onkelen min her nedi
+                                  dalen her
+
+int                               sendte han e …
+
+int_orthography                   sendte han e …
+
+coon_valley_WI_50gm               ja enn sennte +x tikket
+
+coon_valley_WI_50gm_orthography   ja han sendte +x ticket
+
+int                               han gjorde det ja ?
+
+int_orthography                   han gjorde det ja ?
+
+coon_valley_WI_50gm               ja
+
+coon_valley_WI_50gm_orthography   ja
+
+coon_valley_WI_50gm               åsså %u ra jæ har tie tenneste ra væit du på
+                                  hæile åre så væit du e var omm å jæra å få #
+                                  kåmma læus att
+
+coon_valley_WI_50gm_orthography   også %u da jeg har tatt tjeneste da veit du
+                                  på heile året så veit du det var om å gjøre å
+                                  få # komme laus att
+
+int                               ja
+
+int_orthography                   ja
+
+coon_valley_WI_50gm               +u menn så s- # menn så hør- taLa i omm de ve
+                                  rømm da væit du att i i eller att i sku få
+                                  ræise hit å # å %u te å å ræise
+
+coon_valley_WI_50gm_orthography   +u men så s- # men så hør- talte jeg om det
+                                  ved dem da veit du at jeg jeg eller at jeg
+                                  skulle få reise hit og # og %u til å å reise
+
+coon_valley_WI_50gm               ja e +u du skull få ræise visst att du s- ee
+                                  var dær ti ee att ti se- ja umtrennt ti re
+                                  rænn tia e skull tå hått
+
+coon_valley_WI_50gm_orthography   ja jeg +u du skulle få reise hvis at du s- e
+                                  var der til e at til se- ja omtrent til det
+                                  den tida jeg skulle ha hatt
+
+coon_valley_WI_50gm               å de jord i
+
+coon_valley_WI_50gm_orthography   og det gjorde jeg
+
+int                               mhm # %u han sendte ticket til deg lell ?
+
+int_orthography                   mhm # %u han sendte ticket til deg lell ?
+
+coon_valley_WI_50gm               %u
+
+coon_valley_WI_50gm_orthography   %u
+
+coon_valley_WI_50gm               ja ja je vill senna e ska ee %u je skræiv att
+                                  +u ann vætt du fysst # a romm visst itte +x
+                                  anntle e kunne kåmma ella ikk
+
+coon_valley_WI_50gm_orthography   ja ja jeg ville sende jeg skal e %u jeg
+                                  skreiv åt +u han vet du først # da de visste
+                                  ikke +x anten jeg kunne komme eller ikke
+
+coon_valley_WI_50gm               %u ja vi skræiv da %u ee
+
+coon_valley_WI_50gm_orthography   %u ja jeg skreiv da %u e
+
+coon_valley_WI_50gm               ja ja ee så fekk jæ att brev da %u så fekk +x
+                                  tikket å så # ræiste i
+
+coon_valley_WI_50gm_orthography   ja ja e så fikk jeg att brev da %u så fikk +x
+                                  ticket og så # reiste jeg
+
+coon_valley_WI_50gm               ja # jæ +x travla i sju nåssjke mil
+
+coon_valley_WI_50gm_orthography   ja # jeg +x travla i sju norske mil
+
+int                               fra ?
+
+int_orthography                   fra ?
+
+coon_valley_WI_50gm               Ha- ti Hammar
+
+coon_valley_WI_50gm_orthography   Ha- til Hamar
+
+int                               til Hamar ?
+
+int_orthography                   til Hamar ?
+
+coon_valley_WI_50gm               ja ti +x Verhammar
+
+coon_valley_WI_50gm_orthography   ja til +x Verhammer
+
+int                               til ?
+
+int_orthography                   til ?
+
+coon_valley_WI_50gm               ti Lillhammar
+
+coon_valley_WI_50gm_orthography   til Lillehammer
+
+int                               og e # så hva gjorde hvordan reiste du derfra
+                                  ?
+
+int_orthography                   og e # så hva gjorde hvordan reiste du derfra
+                                  ?
+
+coon_valley_WI_50gm               æ ræis- m æ ræiste på båt da ne ti
+                                  Esvellbakkin # dærfra på +x træn # ne ti
+                                  Kristiania
+
+coon_valley_WI_50gm_orthography   jeg ræis- m jeg reiste på båt da ned til
+                                  Eidsvollbakken # derfra på +x train # ned til
+                                  Kristiania
+
+int                               ja
+
+int_orthography                   ja
+
+int                               å ja # og så ?
+
+int_orthography                   å ja # og så ?
+
+coon_valley_WI_50gm               åsså da tokk %u # åver o- ee åver sjøøn
+
+coon_valley_WI_50gm_orthography   også da tok %u # over o- e over sjøen
+
+int                               og hvilket år var dette her ?
+
+int_orthography                   og hvilket år var dette her ?
+
+coon_valley_WI_50gm               e va # sjuås- # sjuåsøtti
+
+coon_valley_WI_50gm_orthography   det var # sjuås- # sjuogsytti
+
+int                               ja
+
+int_orthography                   ja
+
+int                               også da du e da du kom hit da # kan du
+                                  fortelle lite grann om det ?
+
+int_orthography                   også da du e da du kom hit da # kan du
+                                  fortelle lite grann om det ?
+
+coon_valley_WI_50gm               ja da va jæ tått i arrbæie ra vætt du
+
+coon_valley_WI_50gm_orthography   ja da var jeg tatt i arbeid da vet du
+
+int                               ja
+
+int_orthography                   ja
+
+coon_valley_WI_50gm               arrbæide nå ronnt hær ee hær da te # att jæ
+                                  %u arrbæid nå +u +x movvero minne %u av å te
+                                  te e te e fekk arrbæid opp att +x tikketen
+
+coon_valley_WI_50gm_orthography   arbeidde nå rundt her e her da til # at jeg
+                                  %u arbeidde nå +u +x mowerene mine %u av og
+                                  til til jeg til jeg fikk arbeidd opp att +x
+                                  ticketen
+
+int                               jaha
+
+int_orthography                   jaha
+
+coon_valley_WI_50gm               åsså # fekk je arrbæi nei %u så arrbæide je
+                                  de- arrbæid je arrbæide je dær da væit du
+                                  atte de # je va fri att åsså arrbæid je oss
+                                  dømm +x mæssom midlertidikt
+
+coon_valley_WI_50gm_orthography   også # fikk jeg arbeid nei %u så arbeidde jeg
+                                  de- arbeidde jeg arbeidde jeg der da veit du
+                                  at det # jeg var fri att også arbeidde jeg
+                                  hos dem +x messom midlertidig
+
+int                               har du vært her i Coon Valley hele tida ?
+
+int_orthography                   har du vært her i Coon Valley hele tida ?
+
+coon_valley_WI_50gm               +l næi # %u jæ a vårri hær
+
+coon_valley_WI_50gm_orthography   +l nei # %u jeg har vært her
+
+int                               ja du får fortelle om hvor du har vært %u da
+
+int_orthography                   ja du får fortelle om hvor du har vært %u da
+
+coon_valley_WI_50gm               åh jæ a vårri ee vårre i Dakota åss Minnisota
+                                  å # Kanada å
+
+coon_valley_WI_50gm_orthography   å jeg har vært e vært i Dakota også Minnesota
+                                  og # Canada og
+
+int                               %u kan du fortelle lite grann om arbeidet på
+                                  disse forskjellige plassene du har vært ?
+
+int_orthography                   %u kan du fortelle lite grann om arbeidet på
+                                  disse forskjellige plassene du har vært ?
+
+coon_valley_WI_50gm               åh ja arrbæid i ee +x harrvisten å i
+                                  tressjingen å # sjlåtta å
+
+coon_valley_WI_50gm_orthography   å ja arbeidde i e +x harvesten og i
+                                  treskingen og # slåtten og
+
+int                               ja
+
+int_orthography                   ja
+
+coon_valley_WI_50gm               åsså ha jæ nå hadd lann i NorDakota %u dræiv
+                                  e nå å +u(braut sjtæin)
+
+coon_valley_WI_50gm_orthography   også har jeg nå hatt land i Nord-Dakota %u
+                                  dreiv jeg nå og +u(brøyt stein)
+
+int                               å ja
+
+int_orthography                   å ja
+
+coon_valley_WI_50gm               å da har # +u ji ha brækking å fekk de brekkt
+                                  opp å # så selldi jæ renn hær fått brekkt
+                                  messta opp så selld i re va
+
+coon_valley_WI_50gm_orthography   og da har # +u jeg har brekking og fikk det
+                                  brukket opp og # så solgte jeg den her fått
+                                  brukket meste opp så solgte jeg det da
+
+int                               var det en homestead det ?
+
+int_orthography                   var det en homestead det ?
+
+coon_valley_WI_50gm               ja
+
+coon_valley_WI_50gm_orthography   ja
+
+int                               hvor stor var den ?
+
+int_orthography                   hvor stor var den ?
+
+coon_valley_WI_50gm               ee +x kvaRteR
+
+coon_valley_WI_50gm_orthography   e +x quarter
+
+int                               å det var en quarter # å ja
+
+int_orthography                   å det var en quarter # å ja
+
+int                               men hvorfor solgte du den da ?
+
+int_orthography                   men hvorfor solgte du den da ?
+
+coon_valley_WI_50gm               ja %u # +u ittersjte va ikke nog å like
+                                  dæretter
+
+coon_valley_WI_50gm_orthography   ja %u # +u ytterste var ikke noe å like
+                                  deretter
+
+int                               du syntes ikke det ?
+
+int_orthography                   du syntes ikke det ?
+
+coon_valley_WI_50gm               næ
+
+coon_valley_WI_50gm_orthography   nei
+
+int                               var det ikke godt land ?
+
+int_orthography                   var det ikke godt land ?
+
+coon_valley_WI_50gm               +x nå de va ålræit nåkk menn # m'n e va +x
+                                  mæssom tort ibLannt å
+
+coon_valley_WI_50gm_orthography   +x no det var ålreit nok men # men det var +x
+                                  messom tørt iblant og
+
+int                               å ja
+
+int_orthography                   å ja
+
+int                               og var det da du kom hit ?
+
+int_orthography                   og var det da du kom hit ?
+
+coon_valley_WI_50gm               ja e komm ee ja e komm nedi åver åh ja ed- ee
+                                  e komm itte hær da ee %u var nå vesstafor att
+                                  # %u
+
+coon_valley_WI_50gm_orthography   ja jeg kom e ja jeg kom nedi over å ja ed- e
+                                  jeg kom ikke her da e %u var nå vestafor att
+                                  # %u
+
+int                               mhm
+
+int_orthography                   mhm
+
+int                               så du har vært liksom fram og tilbake du da ?
+
+int_orthography                   så du har vært liksom fram og tilbake du da ?
+
+coon_valley_WI_50gm               åh ja jæ ha ræist att å framm hær mannge
+                                  gonngo
+
+coon_valley_WI_50gm_orthography   å ja jeg har reist att og fram her mange
+                                  ganger
+
+int                               ja
+
+int_orthography                   ja
+
+int                               du har ikke stifta noen familie ?
+
+int_orthography                   du har ikke stifta noen familie ?
+
+coon_valley_WI_50gm               +x nå # e itte nå sj'm %u hatt mei
+
+coon_valley_WI_50gm_orthography   +x no # er ikke noen som %u hatt meg
+
+int                               %u
+
+int_orthography                   %u
+
+int                               %u # kan ikke riktig tro det men
+
+int_orthography                   %u # kan ikke riktig tro det men
+
+coon_valley_WI_50gm               %l
+
+coon_valley_WI_50gm_orthography   %l
+
+int                               %l # ja
+
+int_orthography                   %l # ja
+
+coon_valley_WI_50gm               %u de kann jæ tru
+
+coon_valley_WI_50gm_orthography   %u det kan jeg tru
+
+int                               ja
+
+int_orthography                   ja
+
+int                               kommer du i hug noen historier eller noe
+                                  slikt om av ting som har hendt som kunne vært
+                                  morosamme å fortelle sånn på dagliglivet ?
+
+int_orthography                   kommer du i hug noen historier eller noe
+                                  slikt om av ting som har hendt som kunne vært
+                                  morosamme å fortelle sånn på dagliglivet ?
+
+coon_valley_WI_50gm               +x nå
+
+coon_valley_WI_50gm_orthography   +x no
+
+coon_valley_WI_50gm               +x nåo
+
+coon_valley_WI_50gm_orthography   +x no
+
+int                               noen rare folk som du har truffet eller ?
+
+int_orthography                   noen rare folk som du har truffet eller ?
+
+coon_valley_WI_50gm               +u +x nå
+
+coon_valley_WI_50gm_orthography   +u +x no
+

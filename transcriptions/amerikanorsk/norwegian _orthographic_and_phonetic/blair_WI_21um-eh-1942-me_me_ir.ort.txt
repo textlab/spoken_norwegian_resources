@@ -1,0 +1,730 @@
+int                         begynne med å si fram navnet ditt
+
+int_orthography             begynne med å si fram navnet ditt
+
+blair_WI_21um               ja # æ blair_WI_21um
+
+blair_WI_21um_orthography   ja # er blair_WI_21um
+
+int                         kan du snakke litt høyere enn jeg snakker %u også
+                            viktig
+
+int_orthography             kan du snakke litt høyere enn jeg snakker %u også
+                            viktig
+
+blair_WI_21um               %k ja
+
+blair_WI_21um_orthography   %k ja
+
+int                         blair_WI_21um ja
+
+int_orthography             blair_WI_21um ja
+
+int                         og kan du fortelle hvilket år du var født og hvor ?
+
+int_orthography             og kan du fortelle hvilket år du var født og hvor ?
+
+blair_WI_21um               åh je va føtt denn # fæmmte septemmber sækkste se-
+                            septemmbern
+
+blair_WI_21um_orthography   å jeg var født den # femte september sjette se-
+                            september
+
+int                         og e hvilket år ?
+
+int_orthography             og e hvilket år ?
+
+blair_WI_21um               +u i ee nitt'nhunndråfæmm
+
+blair_WI_21um_orthography   +u i e nittenhundreogfem
+
+int                         og e em # vil du e # fortelle lite grann om hva
+                            dere holder på med på farmen nå ?
+
+int_orthography             og e em # vil du e # fortelle lite grann om hva
+                            dere holder på med på farmen nå ?
+
+blair_WI_21um               åh vi driver å pLøyer åmm dagen å # nå sku vi tell
+                            å fille +x sailo
+
+blair_WI_21um_orthography   å vi driver og pløyer om dagen og # nå skal vi til
+                            å fylle +x silo
+
+int                         å # hva gjør du når du fyller siloen ?
+
+int_orthography             å # hva gjør du når du fyller siloen ?
+
+blair_WI_21um               åh vi # kjører %u å # +x hæver i +x fillærn
+
+blair_WI_21um_orthography   å vi # kjører %u og # +x haver i +x filleren
+
+int                         og så
+
+int_orthography             og så
+
+int                         hvor mange mann er dere ?
+
+int_orthography             hvor mange mann er dere ?
+
+blair_WI_21um               åh de e enn # ti tåll mann tænngke je
+
+blair_WI_21um_orthography   å det er en # ti tolv mann tenker jeg
+
+int                         aha
+
+int_orthography             aha
+
+int                         hva gjorde dere før dere begynte å fylle siloen ?
+
+int_orthography             hva gjorde dere før dere begynte å fylle siloen ?
+
+blair_WI_21um               åh vi hadde føssj +x(sekken kRapen) # varrt fæLi me
+                            denn
+
+blair_WI_21um_orthography   å vi hadde først +x(second cropen) # ble ferdig med
+                            den
+
+int                         kan du fortelle lite grann om hva slags maskineri
+                            dere bruker til det ?
+
+int_orthography             kan du fortelle lite grann om hva slags maskineri
+                            dere bruker til det ?
+
+blair_WI_21um               åh vi bruker +x(said delivveri) å +x loder å #
+                            vånngn å hessta da
+
+blair_WI_21um_orthography   å vi bruker +x(side delivery) og +x loader og #
+                            vogn og hester da
+
+int                         har du %u av noe av dette her ? # skadet deg noen
+                            gang på på den der maskinen ?
+
+int_orthography             har du %u av noe av dette her ? # skadet deg noen
+                            gang på på den der maskinen ?
+
+blair_WI_21um               åh ja de a +x(ryke se) nøkk
+
+blair_WI_21um_orthography   å ja det har +x(røket seg) nok
+
+int                         hva må dere gjøre da ?
+
+int_orthography             hva må dere gjøre da ?
+
+blair_WI_21um               åh vi ## bruker å ha ei +x vælldar å fikkse re opp
+                            att
+
+blair_WI_21um_orthography   å vi ## bruker å ha ei +x welder og fikse det opp
+                            att
+
+int                         når det skjer ?
+
+int_orthography             når det skjer ?
+
+blair_WI_21um               ja messta ta tin så
+
+blair_WI_21um_orthography   ja meste av tida så
+
+int                         har dere +u fyring her da ?
+
+int_orthography             har dere +u fyring her da ?
+
+blair_WI_21um               +x nå
+
+blair_WI_21um_orthography   +x no
+
+int                         dere har ikke det ?
+
+int_orthography             dere har ikke det ?
+
+int                         e hva gjorde dere før dere # før det igjen ?
+
+int_orthography             e hva gjorde dere før dere # før det igjen ?
+
+int                         hva var arbeidet som de voksne måtte gjøre ?
+
+int_orthography             hva var arbeidet som de voksne måtte gjøre ?
+
+blair_WI_21um               åh vi dreiv me # me trøsskinga da # drev å træsska
+
+blair_WI_21um_orthography   å vi dreiv med # med treskinga da # drev og treska
+
+int                         ja
+
+int_orthography             ja
+
+int                         da må dere i gang med treskinga ja
+
+int_orthography             da må dere i gang med treskinga ja
+
+blair_WI_21um               kjøRde me hesster å %u ee ## %u tressking joLe vi
+
+blair_WI_21um_orthography   kjørte med hester og %u e ## %u tresking gjorde vi
+
+int                         å
+
+int_orthography             å
+
+int                         hva gjør du når du gjør det ?
+
+int_orthography             hva gjør du når du gjør det ?
+
+blair_WI_21um               åh vi kjøre +x bann a å inn ått # trøsskamassjin'n
+                            å # seinere jennåm å
+
+blair_WI_21um_orthography   å vi kjøre +x bann da og inn åt # treskemaskinen og
+                            # seinere gjennom og
+
+int                         og hvor mange karer er det med da ?
+
+int_orthography             og hvor mange karer er det med da ?
+
+blair_WI_21um               åh enn fæmm'n sækkst'n karer såmm # er me
+
+blair_WI_21um_orthography   å en femten seksten karer som # er med
+
+int                         og e hva kaller du karene som er med da %u
+                            treskinga ?
+
+int_orthography             og e hva kaller du karene som er med da %u
+                            treskinga ?
+
+blair_WI_21um               å +u e # +u arrbesparer
+
+blair_WI_21um_orthography   og +u det # +u arbeidskarer
+
+int                         dere har vel litt å prate om når dere sitter sammen
+                            sånn # %u ?
+
+int_orthography             dere har vel litt å prate om når dere sitter sammen
+                            sånn # %u ?
+
+blair_WI_21um               åh ja # ja da
+
+blair_WI_21um_orthography   å ja # ja da
+
+int                         hva er det mest dere prater om %u ?
+
+int_orthography             hva er det mest dere prater om %u ?
+
+blair_WI_21um               åh de
+
+blair_WI_21um_orthography   å det
+
+int                         mange ting ?
+
+int_orthography             mange ting ?
+
+blair_WI_21um               mannge tinng de
+
+blair_WI_21um_orthography   mange ting det
+
+int                         em kan du fortelle lite grann om e dyra på farmen ?
+
+int_orthography             em kan du fortelle lite grann om e dyra på farmen ?
+
+int                         hvilke dyr har dere her ?
+
+int_orthography             hvilke dyr har dere her ?
+
+blair_WI_21um               åh vi har alle sjlag krøtter vi har m # kalle re +x
+                            skrubb
+
+blair_WI_21um_orthography   å vi har alle slag krøtter vi har m # kaller det +x
+                            skrubb
+
+int                         hva er det for noe ?
+
+int_orthography             hva er det for noe ?
+
+blair_WI_21um               åh de e alle sjlag de ska varra ## heisster å #
+                            sæuer å griser å
+
+blair_WI_21um_orthography   å det er alle slag det skal være ## hester og #
+                            sauer og griser og
+
+int                         og e hva gjør dere med hestene ?
+
+int_orthography             og e hva gjør dere med hestene ?
+
+blair_WI_21um               åh vi # bruka bruka omtrænnt vær dag å # +x kara
+                            romm å pinnte romm opp somme tid å
+
+blair_WI_21um_orthography   å vi # bruker bruker omtrent hver dag og # +x care
+                            dem og pynte dem opp somme tider og
+
+int                         jaha
+
+int_orthography             jaha
+
+int                         og hvor mange hester har du ?
+
+int_orthography             og hvor mange hester har du ?
+
+blair_WI_21um               e a fire
+
+blair_WI_21um_orthography   jeg har fire
+
+int                         har du navn på dem ?
+
+int_orthography             har du navn på dem ?
+
+blair_WI_21um               Jæk å Barni å FRænk å KøRnel å
+
+blair_WI_21um_orthography   Jack og Barney og Frank og Colonel og
+
+int                         og hvor gamle hester er det ?
+
+int_orthography             og hvor gamle hester er det ?
+
+blair_WI_21um               åh domm e # sj- ni å sju å # søtt'n å fire # år
+                            gammLe
+
+blair_WI_21um_orthography   å de er # sj- ni og sju og # sytten og fire # år
+                            gamle
+
+int                         hvor har du dem stående ?
+
+int_orthography             hvor har du dem stående ?
+
+blair_WI_21um               åh domm er i +u parrk fårr e messta ta tid'n domm
+                            er # så baLa gLa vi bruker emm bærre
+
+blair_WI_21um_orthography   å de er i +u park for det meste av tiden de er # så
+                            bare glad vi bruker dem bare
+
+int                         er det noen %u
+
+int_orthography             er det noen %u
+
+blair_WI_21um               de ær # fire +x besaids levvings-huse
+
+blair_WI_21um_orthography   det er # fire +x besides levings-huset
+
+int                         kaller du det ?
+
+int_orthography             kaller du det ?
+
+blair_WI_21um               på kalle re +x baarn å +x sjedd'n å +x grøneri å #
+                            +u kjukkLing-huse å levnings-huse da
+
+blair_WI_21um_orthography   på kaller det +x barnen og +x sheden og +x grainery
+                            og # +u kylling-huset og levings-huset da
+
+int                         %u levings-huset da kaller du rommene da %u
+
+int_orthography             %u levings-huset da kaller du rommene da %u
+
+blair_WI_21um               åh vi kalle re # kjøkene å # +x(daining Rom) å
+                            finromm å # %u +x oppstessj'n
+
+blair_WI_21um_orthography   å vi kaller det # kjøkkenet og # +x(dining room) og
+                            finrom og # %u +x upstairsen
+
+int                         ja har du kjeller ?
+
+int_orthography             ja har du kjeller ?
+
+blair_WI_21um               å tjæller
+
+blair_WI_21um_orthography   og kjeller
+
+int                         hva har du nedi kjelleren ?
+
+int_orthography             hva har du nedi kjelleren ?
+
+blair_WI_21um               åh de e salt å potteter å
+
+blair_WI_21um_orthography   å det er salt og poteter og
+
+int                         %l
+
+int_orthography             %l
+
+blair_WI_21um               å # mi annat +x ståff # guLusst å # læuk å
+
+blair_WI_21um_orthography   og # mye annet +x stuff # gulost og # løk og
+
+int                         mhm # e
+
+int_orthography             mhm # e
+
+int                         hvor ofte går du til byen ?
+
+int_orthography             hvor ofte går du til byen ?
+
+blair_WI_21um               åh de ell # sommer ti ein gonng i vikoa sommer ti
+                            to å sommer ti tre ætter somm
+
+blair_WI_21um_orthography   å det eller # somme tider én gang i uka somme tider
+                            to og somme tider tre etter som
+
+int                         og hva slags ærend har dere i byen for det meste ?
+
+int_orthography             og hva slags ærend har dere i byen for det meste ?
+
+blair_WI_21um               åh je ha itte fært mye te æærn nå jæ ræise mæssta
+                            ta tin %u moro
+
+blair_WI_21um_orthography   å jeg har ikke fælt mye til ærend når jeg reiser
+                            meste av tida %u moro
+
+int                         og e hva slags moro får du når du kommer nedi der ?
+
+int_orthography             og e hva slags moro får du når du kommer nedi der ?
+
+blair_WI_21um               åh # de er å se fåLLk # å taLa me fållk
+
+blair_WI_21um_orthography   å # det er å se folk # og tale med folk
+
+int                         ja kan du nevne noen av dem som du ser og taler med
+                            ?
+
+int_orthography             ja kan du nevne noen av dem som du ser og taler med
+                            ?
+
+blair_WI_21um               åh de e gannske mannge je ser sommer ter
+
+blair_WI_21um_orthography   å det er ganske mange jeg ser somme tider
+
+int                         og e # hvor lenge blir du i byen som oftest ?
+
+int_orthography             og e # hvor lenge blir du i byen som oftest ?
+
+blair_WI_21um               åh de # to tre timer å sommer tie lennger å sommer
+                            tie stuttere å
+
+blair_WI_21um_orthography   å det # to tre timer og somme tider lenger og somme
+                            tider stuttere og
+
+int                         em kan du fortelle # beskrive for meg hvordan du
+                            sett- har på sele på en hest ?
+
+int_orthography             em kan du fortelle # beskrive for meg hvordan du
+                            sett- har på sele på en hest ?
+
+blair_WI_21um               åh bruker å sætta på puta å sea # legge på sæLan å
+                            knyter att n å
+
+blair_WI_21um_orthography   å bruker å sette på puta og sia # legge på selen og
+                            knyter att han og
+
+int                         hva sa du ?
+
+int_orthography             hva sa du ?
+
+blair_WI_21um               knyter att n
+
+blair_WI_21um_orthography   knyter att han
+
+int                         hva er det for noe ?
+
+int_orthography             hva er det for noe ?
+
+blair_WI_21um               +x sjøtter n # å sånn
+
+blair_WI_21um_orthography   +x skjøtter han # og sånn
+
+int                         ja og så ?
+
+int_orthography             ja og så ?
+
+blair_WI_21um               sætte på +x beksjle ra å ta b- tar tå grima å sætt
+                            på +x bækksjle å
+
+blair_WI_21um_orthography   setter på +x beksel da og tar b- tar av grima og
+                            setter på +x beksel og
+
+blair_WI_21um               sea leie vi enn ut å +x hittjær n opp
+
+blair_WI_21um_orthography   sia leier vi han ut og +x hitcher han opp
+
+int                         og hva slags vogner har dere på farmen ?
+
+int_orthography             og hva slags vogner har dere på farmen ?
+
+blair_WI_21um               åh de er # træsskvånngn fårr ee +x hæi å
+
+blair_WI_21um_orthography   å det er # treskevogn for e +x hay og
+
+blair_WI_21um               ha vi anna # stor # vånng å
+
+blair_WI_21um_orthography   har vi anna # stor # vogn og
+
+int                         du bruker e dere bruker ikke boggi ?
+
+int_orthography             du bruker e dere bruker ikke boggi ?
+
+blair_WI_21um               +x nå fæ tte brukkt bånngi på mannge år
+
+blair_WI_21um_orthography   +x no får ikke brukt boggi på mange år
+
+int                         har dere en ?
+
+int_orthography             har dere en ?
+
+blair_WI_21um               ja vi har ein # ha itte brukkt denn på enn #
+                            fæmmt'n sækkst'n år
+
+blair_WI_21um_orthography   ja vi har en # har ikke brukt den på en # femten
+                            seksten år
+
+int                         vil dere komme til å måtte bruke den igjen nå snart
+                            kanskje ?
+
+int_orthography             vil dere komme til å måtte bruke den igjen nå snart
+                            kanskje ?
+
+blair_WI_21um               ja de e itte gått å væta
+
+blair_WI_21um_orthography   ja det er ikke godt å vite
+
+int                         åssen går det med den e +u(gasoline ration) har du
+                            %u ennå ?
+
+int_orthography             åssen går det med den e +u(gasoline ration) har du
+                            %u ennå ?
+
+blair_WI_21um               ja ee de e hart å seia innå åmm de
+
+blair_WI_21um_orthography   ja e det er hardt å si ennå om det
+
+blair_WI_21um               dåmm har taLa på +x(gæs reisjen) menn # du ve har
+                            veit itt no stort omm de ennda
+
+blair_WI_21um_orthography   de har talt på +x(gas ration) men # du vet har veit
+                            ikke noe stort om det enda
+
+int                         hva mener folk om krigen her ?
+
+int_orthography             hva mener folk om krigen her ?
+
+blair_WI_21um               åh domm ## har innga go tru re tell å me høres ut
+                            somm # trur de ske gå gærna vægen ett såmm jæ hører
+
+blair_WI_21um_orthography   å de ## har ingen god tru det til og med høres ut
+                            som # trur det skal gå gærne vegen etter som jeg
+                            hører
+
+int                         %u
+
+int_orthography             %u
+
+blair_WI_21um               næi domm a %k +x lage se tell fø seint sæi romm
+
+blair_WI_21um_orthography   nei de har %k +x laga seg til for seint sier de
+
+blair_WI_21um               mannge ta omm da de e tte gått å væta åss de kann gå
+
+blair_WI_21um_orthography   mange av dem da det er ikke godt å vite åssen det
+                            kan gå
+
+int                         ja # %u
+
+int_orthography             ja # %u
+
+int                         %u
+
+int_orthography             %u
+
+blair_WI_21um               ja # hann driv å +x dræfte romm tæmmli hart nå
+
+blair_WI_21um_orthography   ja # han driver og +x drafter dem temmelig hardt nå
+
+int                         er det mange som har reist herfra ?
+
+int_orthography             er det mange som har reist herfra ?
+
+blair_WI_21um               de æ mannge somm a reist +x steit
+
+blair_WI_21um_orthography   det er mange som har reist +x state
+
+blair_WI_21um               m reiser # enn åtti å sjlikkt vær måne # i Træmmplå
+                            Kaonti
+
+blair_WI_21um_orthography   de reiser # en åtti og slikt hver måned # i
+                            Trempealeau County
+
+blair_WI_21um               å da æ n- noon å træddve såmm itte +x pæser å
+                            helleste så reiser dei +u are
+
+blair_WI_21um_orthography   og da er n- noen og tretti som ikke +x passer og
+                            ellers så reiser de +u alle
+
+int                         åssen er det med e farmer ?
+
+int_orthography             åssen er det med e farmer ?
+
+blair_WI_21um               åh de er ee va itte væssjt i såmmar menn # drive re
+                            på så blir de hart te nesste såmmer
+
+blair_WI_21um_orthography   å det er e var ikke verst i sommer men # driver det
+                            på så blir det hardt til neste sommer
+
+blair_WI_21um               ee # dåmm driv å tæg domm rætt lanng
+
+blair_WI_21um_orthography   e # de driver og tar dem rett langt
+
+int                         e # åssen kommer det til at du snakker så godt
+                            norsk ?
+
+int_orthography             e # åssen kommer det til at du snakker så godt
+                            norsk ?
+
+blair_WI_21um               åh je veit itte jæ har bærre taLa nåssjk mæssta ta
+                            tin # sea va enn liten onnge
+
+blair_WI_21um_orthography   å jeg veit ikke jeg har bare talt norsk meste av
+                            tida # sia var en liten unge
+
+int                         %u
+
+int_orthography             %u
+
+blair_WI_21um               å denn onng'n je har nå ho er # tre år i sæpptæmber
+                            ho # kann itt no nåssjk
+
+blair_WI_21um_orthography   og den ungen jeg har nå hun er # tre år i september
+                            hun # kan ikke noe norsk
+
+int                         åssen liker du det ?
+
+int_orthography             åssen liker du det ?
+
+blair_WI_21um               væll je tenngkte somm så att de va bæsst %u kunne
+                            ee bøvvd å taLa no nåssjk førr o va %u skuLe # å
+                            sjlikkt
+
+blair_WI_21um_orthography   vel jeg tenkte som så at det var best %u kunne e
+                            behøvet å tale noe norsk for hun var %u skole # og
+                            slikt
+
+int                         har du kommet på slikt ?
+
+int_orthography             har du kommet på slikt ?
+
+blair_WI_21um               ja # je fannt ut a denn +x vægen da je je bynne på
+                            skuLa da hasste me å læra enngels
+
+blair_WI_21um_orthography   ja # jeg fant ut av den +x vegen da jeg jeg begynte
+                            på skolen da hasta med å lære engelsk
+
+int                         ville du gjerne ha lært det %u ?
+
+int_orthography             ville du gjerne ha lært det %u ?
+
+blair_WI_21um               åh ja jæ ha lært de så e kann nå taLe re menn de va
+                            %k # de e harrt å læ- ee greie se i alle +x gReids
+                            å sjlikkt
+
+blair_WI_21um_orthography   å ja jeg har lært det så jeg kan nå tale det men
+                            det var %k # det er hardt å læ- e greie seg i alle
+                            +x grades og slikt
+
+blair_WI_21um               var da e jikk på skuLa så re # va førr mye
+                            nåssjktime
+
+blair_WI_21um_orthography   var da jeg gikk på skolen så det # var for mye
+                            norsktimer
+
+int                         du skulle bare %u
+
+int_orthography             du skulle bare %u
+
+blair_WI_21um               væll %u såmm kann de
+
+blair_WI_21um_orthography   vel %u som kan det
+
+blair_WI_21um               å kann taLa re litt fårr a menn je trur de da me
+                            små +x oppover denn +x vægen omm lære re ettepå
+
+blair_WI_21um_orthography   og kan tale det litt for henne men jeg trur det da
+                            med små +x oppover den +x vegen de lærer det etterpå
+
+int                         mhm # men
+
+int_orthography             mhm # men
+
+int                         ja # drar du og fisker noen gang eller hunter ?
+
+int_orthography             ja # drar du og fisker noen gang eller hunter ?
+
+blair_WI_21um               åh ja jæ a vøri mye på fissking menn itte fært mye
+                            på +x hønnting +u ja
+
+blair_WI_21um_orthography   å ja jeg har vært mye på fisking men ikke fælt mye
+                            på +x hunting +u ja
+
+int                         du har ikke det ?
+
+int_orthography             du har ikke det ?
+
+blair_WI_21um               vør i båt mye
+
+blair_WI_21um_orthography   vært i båt mye
+
+int                         hvor reiste du hen ?
+
+int_orthography             hvor reiste du hen ?
+
+blair_WI_21um               åh vi brukkt å ræise mot Læ Kråss å %k varra på båt
+                            dær
+
+blair_WI_21um_orthography   å vi brukte å reise mot La Crosse og %k være på båt
+                            der
+
+blair_WI_21um               tre å fir i båt'n vi brukkt å ta # %u sækks åss tog
+                            så mye såmm # fir å førrti jedder # omm gonngen
+                            somme tide %k
+
+blair_WI_21um_orthography   tre og fire i båten vi brukte å ta # %u seks vi tok
+                            så mye som # fire og førti gjedder # om gangen
+                            somme tider %k
+
+int                         ja
+
+int_orthography             ja
+
+int                         %u
+
+int_orthography             %u
+
+blair_WI_21um               åh var itt +u(på nea) dammen
+
+blair_WI_21um_orthography   å var ikke +u(på nedafor) dammen
+
+int                         å hva for en dam ?
+
+int_orthography             å hva for en dam ?
+
+blair_WI_21um               åh de var ee # ja # +x borrdme Læ Kråss
+
+blair_WI_21um_orthography   å det var e # ja # +x bortmed La Crosse
+
+int                         bortmed La Crosse ?
+
+int_orthography             bortmed La Crosse ?
+
+int                         mhm
+
+int_orthography             mhm
+
+int                         %u hvem hadde %u på de turene ?
+
+int_orthography             %u hvem hadde %u på de turene ?
+
+blair_WI_21um               åh de brukkt å vara odel-bror minn å # hann far
+                            minn å # ee nabon borrtpå ær E1 å # ann M1 å # %u
+                            tell somme tier
+
+blair_WI_21um_orthography   å det brukte å være odel-bror min og # han far min
+                            og # e naboen bortpå her E1 og # han M1 og # %u til
+                            somme tider
+
+int                         har dere det moro da ?
+
+int_orthography             har dere det moro da ?
+
+blair_WI_21um               ja vi har de +u nekkså moro
+
+blair_WI_21um_orthography   ja vi har det +u nokså moro
+

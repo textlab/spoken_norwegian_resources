@@ -1,0 +1,465 @@
+blair_WI_18um               %u
+
+blair_WI_18um_orthography   %u
+
+int                         og e hvor lever du ?
+
+int_orthography             og e hvor lever du ?
+
+blair_WI_18um               åh je lever opp mæ N1 # ee søaførr +u sinnaførr N1
+
+blair_WI_18um_orthography   å jeg lever oppe med N1 # e sønnafor +u sønnafor N1
+
+int                         å ja e kan du fortelle meg lite grann om hva du
+                            gjør om dagen ?
+
+int_orthography             å ja e kan du fortelle meg lite grann om hva du
+                            gjør om dagen ?
+
+blair_WI_18um               åh akkurat nå ha itte skuurn minn bynnt ennå å da #
+                            græv ei litt pottit å
+
+blair_WI_18um_orthography   å akkurat nå har ikke skolen min begynt ennå og da
+                            # graver jeg litt potet og
+
+blair_WI_18um               +x(move låen) å # bær litt ve å
+
+blair_WI_18um_orthography   +x(mower lawnen) og # bærer litt ved og
+
+blair_WI_18um               jæLLpe me +x tjåsjen å
+
+blair_WI_18um_orthography   hjelper med +x chorsene og
+
+blair_WI_18um               somme tieR da de de rænngner å sjlikkt nå de d'm
+                            har %u inni hus da jæLLper jæ me demm me %u
+
+blair_WI_18um_orthography   somme tider da det det regner og slikt noe det de
+                            har %u inni huse da hjelper jeg med dem med %u
+
+int                         kan du fortelle meg hvor gammel du er ?
+
+int_orthography             kan du fortelle meg hvor gammel du er ?
+
+blair_WI_18um               åh jæ æ fjorrt'n år å je va føtt i
+                            nitt'nhunndråsjuåtjugø # i novæmmber åttåtjugende
+
+blair_WI_18um_orthography   å jeg er fjorten år og jeg var født i
+                            nittenhundreogsjuogtjue # i november åtteogtjuende
+
+int                         kan du fortelle meg lite grann om skolen du går på ?
+
+int_orthography             kan du fortelle meg lite grann om skolen du går på ?
+
+blair_WI_18um               åh je e fæLi me ee kamen-skuurn så de je ska tell å
+                            bynne på +x høgskuurn så je veit itte mi omm denn
+                            ennå
+
+blair_WI_18um_orthography   å jeg er ferdig med e common-skolen så det jeg skal
+                            til å begynne på +x høgskolen så jeg veit ikke mye
+                            om den ennå
+
+int                         å du vet ikke det ?
+
+int_orthography             å du vet ikke det ?
+
+blair_WI_18um               næi
+
+blair_WI_18um_orthography   nei
+
+int                         men fortell lite grann om common-skolen som du har
+                            vært på ?
+
+int_orthography             men fortell lite grann om common-skolen som du har
+                            vært på ?
+
+blair_WI_18um               åh # vi brukkte på å +x(pleie bål) å
+
+blair_WI_18um_orthography   å # vi brukte på å +x(playe ball) og
+
+blair_WI_18um               somme tieR varrt ee somme tå di små gutta demm var
+                            # utt å +x pleidde da jikk dåmm # borrti bak n
+                            byggning å røkkte å
+
+blair_WI_18um_orthography   somme tider ble e somme av de små guttene de var #
+                            ute og +x playde da gikk de # borti bak en bygning
+                            og røkte og
+
+blair_WI_18um               tetje +x titjern dømm da måtte romm kåmm å sitta
+                            inne å
+
+blair_WI_18um_orthography   tok +x teacheren dem da måtte de komme og sitte
+                            inne og
+
+int                         %l ja det hender nok det
+
+int_orthography             %l ja det hender nok det
+
+int                         men det er kanskje andre ting også som hendte på
+                            skolen ?
+
+int_orthography             men det er kanskje andre ting også som hendte på
+                            skolen ?
+
+blair_WI_18um               åh ja d æ # ein +x titjeR vi adde vi ee fækk +x
+                            fottbål å hesstskor å +x pleide hessko mye å
+
+blair_WI_18um_orthography   å ja det er # en +x teacher vi hadde vi e fikk +x
+                            football og hestesko og +x playde hestesko mye og
+
+int                         hva slags games e spilte dere ?
+
+int_orthography             hva slags games e spilte dere ?
+
+blair_WI_18um               åh de va messta +x bål å # omm vinntern så var de #
+                            +x(faks n gis)
+
+blair_WI_18um_orthography   å det var mest +x ball og # om vinteren så var det
+                            # +x(fox and geese)
+
+int                         ja
+
+int_orthography             ja
+
+blair_WI_18um               så æ re # å somme tie var de no anna kannsji opp på
+                            tjæLLka å %u å
+
+blair_WI_18um_orthography   så er det # og somme tider var det noe annet
+                            kanskje opp på kjelken og %u og
+
+int                         %u e har du vært ute og fisket noen gang ?
+
+int_orthography             %u e har du vært ute og fisket noen gang ?
+
+blair_WI_18um               åh ja # je var sisste fissken je tettje var # nåe
+                            små +x tjabbs neri enn +x trekk neri %u
+
+blair_WI_18um_orthography   å ja # jeg var siste fisken jeg tok var # noen små
+                            +x chubs nedi en +x track nedi %u
+
+int                         jaså
+
+int_orthography             jaså
+
+blair_WI_18um               å +u stærrkeste fissken je tetje var neri ee %u Blæ
+                            # de va enn %u
+
+blair_WI_18um_orthography   og +u sterkeste fisken jeg tok var nedi e %u Blair
+                            # det var en %u
+
+int                         å ja # e har du vært ute mye ?
+
+int_orthography             å ja # e har du vært ute mye ?
+
+blair_WI_18um               åh # itte så fært mye e- mæi- ee meiste jæ a vøri
+                            ute e fæmm uker
+
+blair_WI_18um_orthography   å # ikke så fælt mye e- mei- e meste jeg har vært
+                            ute er fem uker
+
+int                         e kan du fortelle lite grann mer om om det ?
+
+int_orthography             e kan du fortelle lite grann mer om om det ?
+
+blair_WI_18um               åh da de jæ va borrte denn gonng'n så va je hoss
+                            onngkorn minn i Ettrik å da # fækk e tjøre +x
+                            trækkteRn å
+
+blair_WI_18um_orthography   å da det jeg var borte den gangen så var jeg hos
+                            onkelen min i Ettrick og da # fikk jeg kjøre +x
+                            tractoren og
+
+blair_WI_18um               da d- omm dagen da n itte hadd no å jæra så jikk n
+                            jo ått mølla
+
+blair_WI_18um_orthography   da d- om dagen da han ikke hadde noe å gjøre så
+                            gikk han jo åt mølla
+
+blair_WI_18um               henn levvde +x(klåos tu) mølla så n jikk dit å # nå
+                            +x harrvesten kåmm så va jæ me å rønn- +x(rønne
+                            binnern) å
+
+blair_WI_18um_orthography   han levde +x(close to) mølla så han gikk dit og #
+                            når +x harvesten kom så var jeg med å rønn-
+                            +x(runne binderen) og
+
+int                         jaha
+
+int_orthography             jaha
+
+blair_WI_18um               kjørrde +x trækkteRn å
+
+blair_WI_18um_orthography   kjørte +x tractoren og
+
+int                         jaha # og e
+
+int_orthography             jaha # og e
+
+blair_WI_18um               å nå jæ var dær så # reiste vi på +x fæærn i La
+                            KRåss da
+
+blair_WI_18um_orthography   og når jeg var der så # reiste vi på +x fairen i La
+                            Crosse da
+
+int                         hva så du på fairen ?
+
+int_orthography             hva så du på fairen ?
+
+blair_WI_18um               åh dæ va de +x møRRi-ge-Raond somm jikk opp å ne å
+                            de va hesster å
+
+blair_WI_18um_orthography   å det var det +x merry-go-round som gikk opp og ned
+                            og det var hester og
+
+blair_WI_18um               å små +x kasjer somm de jikk %u lufft jennom da ee
+                            # ett tak å neåver ein +u +x rad me %u førr å trå
+                            på enn %u
+
+blair_WI_18um_orthography   og små +x carser som det gikk %u luft gjennom da e
+                            # et tak og nedover en +u +x road med %u for å trå
+                            på en %u
+
+int                         %l # ja du så vel mye der
+
+int_orthography             %l # ja du så vel mye der
+
+blair_WI_18um               ja # +x(feRRis vil) å
+
+blair_WI_18um_orthography   ja # +x(ferris wheel) og
+
+int                         var du med på noen av disse her ?
+
+int_orthography             var du med på noen av disse her ?
+
+blair_WI_18um               åh je va på +x meRRi-ge-Raon å dissa +x kasja # dær
+                            prøvvde vi å %u
+
+blair_WI_18um_orthography   å jeg var på +x merry-go-round og disse +x carsa #
+                            der prøvde vi å %u
+
+int                         å # er det er det mange gutter du har å leke med ?
+
+int_orthography             å # er det er det mange gutter du har å leke med ?
+
+blair_WI_18um               åh # åh ja e +u jænnske mannge
+
+blair_WI_18um_orthography   å # å ja er +u ganske mange
+
+int                         kan du fortelle lite grann om hva dere gjør ?
+
+int_orthography             kan du fortelle lite grann om hva dere gjør ?
+
+blair_WI_18um               åh nå dei er åss inne nabogutten da bruker vi på #
+                            ake på +x baisik'ln å
+
+blair_WI_18um_orthography   å når de er hos inne nabogutten da bruker vi å #
+                            ake på +x bicyclen og
+
+blair_WI_18um               vi ser på krøttera å de # ee vi er i +x fåRest'n å
+                            da se vi på de vi har i +x fåRest'n
+
+blair_WI_18um_orthography   vi ser på krøttera og det # e vi er i +x foresten
+                            og da ser vi på det vi har i +x foresten
+
+int                         å ja og hva er det for noe kan du fortelle lite
+                            grann om arbeidet med det ?
+
+int_orthography             å ja og hva er det for noe kan du fortelle lite
+                            grann om arbeidet med det ?
+
+blair_WI_18um               åh eine nabogutten hann har enn kaLLv hann
+
+blair_WI_18um_orthography   å ene nabogutten han har han kalv han
+
+blair_WI_18um               å denn e så feit å fin så # rein å
+
+blair_WI_18um_orthography   og den er så fett og fin så # rein og
+
+blair_WI_18um               je a påttiter jæ
+
+blair_WI_18um_orthography   jeg har poteter jeg
+
+int                         å ja
+
+int_orthography             å ja
+
+blair_WI_18um               å di e itte væssj dømm
+
+blair_WI_18um_orthography   og de er ikke verst de
+
+int                         men hva gjør dere når dere møter %u
+
+int_orthography             men hva gjør dere når dere møter %u
+
+blair_WI_18um               åh vi taLas på %u å
+
+blair_WI_18um_orthography   åh vi talte på %u og
+
+blair_WI_18um               vi +x fyssjtinga så trudde vi vi sku ha te å %u
+                            menn de vi # de kåmm %u uttpå da hadde vi inngen
+
+blair_WI_18um_orthography   vi +x fyrstninga så trudde vi vi skulle ha til å %u
+                            men det vi # det kom %u utpå da hadde vi ingen
+
+int                         hvorfor det ?
+
+int_orthography             hvorfor det ?
+
+blair_WI_18um               åh va demm fækk itte te å +x Reindje så tett så
+                            demm kunne ha nonn
+
+blair_WI_18um_orthography   å var de fikk ikke til å +x range så tett så de
+                            kunne ha noen
+
+int                         å
+
+int_orthography             å
+
+int                         e snakker du norsk mye heime ?
+
+int_orthography             e snakker du norsk mye heime ?
+
+blair_WI_18um               ja # å d- på skuurn mann må nå %u
+
+blair_WI_18um_orthography   ja # og d- på skolen man må nå %u
+
+int                         å du gjør det ennå ?
+
+int_orthography             å du gjør det ennå ?
+
+blair_WI_18um               ja
+
+blair_WI_18um_orthography   ja
+
+int                         men er det ikke sånn at mange av guttene snakker
+                            mere engelsk ?
+
+int_orthography             men er det ikke sånn at mange av guttene snakker
+                            mere engelsk ?
+
+blair_WI_18um               åh ja # mænn æ +u jænnske mannge såmm snakker
+                            nåssjt å
+
+blair_WI_18um_orthography   å ja # men er +u ganske mange som snakker norsk og
+
+int                         jaså # mhm
+
+int_orthography             jaså # mhm
+
+int                         men e # er du kry å gå på skole ?
+
+int_orthography             men e # er du kry å gå på skole ?
+
+blair_WI_18um               åh ja jæi ær nøkk de
+
+blair_WI_18um_orthography   å ja jeg er nok det
+
+blair_WI_18um               de kåmmer inngen anndre fæLLk så vi %u rømm å
+
+blair_WI_18um_orthography   det kommer ingen andre folk så vi %u dem og
+
+int                         e kommer du e skal du snart begynne igjen ?
+
+int_orthography             e kommer du e skal du snart begynne igjen ?
+
+blair_WI_18um               ja jæ ske bynn omm tyssdan somm komme
+
+blair_WI_18um_orthography   ja jeg skal begynne om tirsdagen som kommer
+
+int                         det skal du e hvor er høyskolen som du skal gå på ?
+
+int_orthography             det skal du e hvor er høyskolen som du skal gå på ?
+
+blair_WI_18um               a de er i +x høggskurn hær i BLæ
+
+blair_WI_18um_orthography   ja det er i +x høgskolen her i Blair
+
+int                         å ja er det # er det mange som går der ?
+
+int_orthography             å ja er det # er det mange som går der ?
+
+blair_WI_18um               åh ja de e fårr enn hunndr å sækksti hunndr å søtti
+                            somme tie
+
+blair_WI_18um_orthography   å ja det er for en hundre og seksti hundre og sytti
+                            somme tider
+
+int                         mm
+
+int_orthography             mm
+
+int                         e har du lest noe norsk ?
+
+int_orthography             e har du lest noe norsk ?
+
+blair_WI_18um               åh jæ kann visst læsa litt i abese-boken
+
+blair_WI_18um_orthography   å jeg kan visst lese litt i abc-boken
+
+int                         du kan det ja
+
+int_orthography             du kan det ja
+
+blair_WI_18um               ja
+
+blair_WI_18um_orthography   ja
+
+int                         kan du huske noen stykker som du leste der ?
+
+int_orthography             kan du huske noen stykker som du leste der ?
+
+blair_WI_18um               +x nå # itte nå nei
+
+blair_WI_18um_orthography   +x no # ikke nå nei
+
+int                         nei
+
+int_orthography             nei
+
+blair_WI_18um               +x nå
+
+blair_WI_18um_orthography   +x no
+
+int                         men e ser du noen annen norsk foruten det # du
+                            leser ?
+
+int_orthography             men e ser du noen annen norsk foruten det # du
+                            leser ?
+
+blair_WI_18um               åh de e noa sjlakks bokkstaver i itte kann læsa
+                            fært gått ennå
+
+blair_WI_18um_orthography   å det er noen slags bokstaver jeg ikke kan lese
+                            fælt godt ennå
+
+int                         disse gamle
+
+int_orthography             disse gamle
+
+blair_WI_18um               ja
+
+blair_WI_18um_orthography   ja
+
+int                         +u(ser du verdifullt # fra gammetida)
+
+int_orthography             +u(ser du verdifullt # fra gammeltida)
+
+blair_WI_18um               ja
+
+blair_WI_18um_orthography   ja
+
+blair_WI_18um               ja jæ kann te læsa di fært gått je kann # læsa nåå
+                            menn itte allt
+
+blair_WI_18um_orthography   ja jeg kan ikke lese dem fælt godt jeg kan # lese
+                            noe men ikke alt
+
+int                         vel det er riktig flott det at du får lære å lese
+                            enda mer norsk
+
+int_orthography             vel det er riktig flott det at du får lære å lese
+                            enda mer norsk
+
+blair_WI_18um               ja
+
+blair_WI_18um_orthography   ja
+

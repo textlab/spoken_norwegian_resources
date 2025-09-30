@@ -1,0 +1,449 @@
+tydal_ntnu_0201               ee ja visst ja
+
+tydal_ntnu_0201_orthography   e ja visst ja
+
+tydal_ntnu_0201               m jaha # de e hete tydal_ntnu_0201 # {sensitive 
+                              personopplysningar}
+
+tydal_ntnu_0201_orthography   m jaha # det eg heiter tydal_ntnu_0201 # 
+                              {sensitive personopplysningar}
+
+tydal_ntnu_0201               så no e e sækks å søtti år
+
+tydal_ntnu_0201_orthography   så nå er eg seks og sytti år
+
+int                           ja
+
+int_orthography               ja
+
+int                           og du har budd her på Stugudalen # all tida ?
+
+int_orthography               og du har budd her på Stugudalen # all tida ?
+
+int                           du er fødd her ?
+
+int_orthography               du er fødd her ?
+
+tydal_ntnu_0201               næi # ja e fødd her ja # menn e ha ittj bodd her 
+                              hele tid'n næi # e har vørri manng ann stann
+
+tydal_ntnu_0201_orthography   nei # ja er fødd her ja # men eg har ikkje budd 
+                              her heile tida nei # eg har vore mange andre 
+                              stadar
+
+int                           ja
+
+int_orthography               ja
+
+int                           nei
+
+int_orthography               nei
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               å så va e nå ti år innpå Nedarn
+
+tydal_ntnu_0201_orthography   og så var eg nå ti år innpå Nedalen
+
+tydal_ntnu_0201               de må e nå førtæL omm da
+
+tydal_ntnu_0201_orthography   det må eg nå fortelje om da
+
+int                           ja
+
+int_orthography               ja
+
+int                           ja det må du ja
+
+int_orthography               ja det må du ja
+
+tydal_ntnu_0201               ja
+
+tydal_ntnu_0201_orthography   ja
+
+tydal_ntnu_0201               vi fLøttja dit # vå'rn nitt'nenåførr # da nå 
+                              tysskern komm innj i # lannje dæ
+
+tydal_ntnu_0201_orthography   vi flytta dit # våren nitteneinogførti # da når 
+                              tyskarane kom inn i # landet da
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               var no komminj dømm da
+
+tydal_ntnu_0201_orthography   var nå komne dei da
+
+tydal_ntnu_0201               skullja fLøttj ifrå dæmm da mennt e nå vi komm 
+                              ått Neda'rn da så varrt vi nå fri æmm da
+
+tydal_ntnu_0201_orthography   skulle flytte ifrå dei da meinte eg når vi kom åt 
+                              Nedalen da så vart vi nå fri dei da
+
+int                           +l ja %l
+
+int_orthography               +l ja %l
+
+tydal_ntnu_0201               mænnj de jekk ittj i lås de næi
+
+tydal_ntnu_0201_orthography   men det gjekk ikkje i lås det nei
+
+tydal_ntnu_0201               de varrt mæsst bærre være de
+
+tydal_ntnu_0201_orthography   det vart mest berre verre det
+
+tydal_ntnu_0201               e ferpakkta Nedasjgårn # i ti år
+
+tydal_ntnu_0201_orthography   eg forpakta Nedalsgarden # i ti år
+
+tydal_ntnu_0201               å da va vi no der da # åver krigen da # e varrt 
+                              no sjluttj i # fæmmåførr dænnj
+
+tydal_ntnu_0201_orthography   og da var vi nå der da # over krigen da # den 
+                              vart nå slutt i # femogførti den
+
+tydal_ntnu_0201               å em # å da va haddje vi my tysskeræ # me Nen ja 
+                              # å n hel masse fLøkkningæ # såmm for åver te 
+                              Sværrge
+
+tydal_ntnu_0201_orthography   og em # og da var hadde vi mykje tyskarar # med 
+                              nea ja # og ein heil masse flyktningar # som fór 
+                              over til Sverige
+
+int                           de hadde både tyskarar og flyktningar ?
+
+int_orthography               de hadde både tyskarar og flyktningar ?
+
+tydal_ntnu_0201               så
+
+tydal_ntnu_0201_orthography   så
+
+tydal_ntnu_0201               ja # ee ja ja # bægge dela
+
+tydal_ntnu_0201_orthography   ja # e ja ja # begge delar
+
+int                           samtidig òg ? %l
+
+int_orthography               samtidig òg ? %l
+
+tydal_ntnu_0201               å ja
+
+tydal_ntnu_0201_orthography   å ja
+
+int                           det hende vel det òg ?
+
+int_orthography               det hende vel det òg ?
+
+tydal_ntnu_0201               de hennje de ja
+
+tydal_ntnu_0201_orthography   det hender det ja
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               d hænntje de # å de jikk nokk bra så vittj da
+
+tydal_ntnu_0201_orthography   det hende det # og det gjekk nok bra så vidt da
+
+tydal_ntnu_0201               %k å # vi haddje i strevsåm ti da ja
+
+tydal_ntnu_0201_orthography   %k å # vi hadde ei strevsam tid da ja
+
+tydal_ntnu_0201               farli va de å
+
+tydal_ntnu_0201_orthography   farleg var det òg
+
+int                           mm
+
+int_orthography               mm
+
+tydal_ntnu_0201               de va ee
+
+tydal_ntnu_0201_orthography   det var e
+
+tydal_ntnu_0201               å # så bodde vi nu på Nen da i ti år ja # å +u(da 
+                              e) triveli stællje å bo på
+
+tydal_ntnu_0201_orthography   og # så budde vi nå på Nea da i ti år ja # og 
+                              +u(det er) triveleg stelle å bu på
+
+int                           de budde nå på den garden som var bortmed den der 
+                              gamle ## Nedalshytta ?
+
+int_orthography               de budde nå på den garden som var bortmed den der 
+                              gamle ## Nedalshytta ?
+
+tydal_ntnu_0201               ja vi jor de
+
+tydal_ntnu_0201_orthography   ja vi gjorde det
+
+tydal_ntnu_0201               ja da
+
+tydal_ntnu_0201_orthography   ja da
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               vi jor de
+
+tydal_ntnu_0201_orthography   vi gjorde det
+
+tydal_ntnu_0201               haddje nå # krøttjyr da
+
+tydal_ntnu_0201_orthography   hadde nå # krøtter da
+
+tydal_ntnu_0201               å de jekk no gannske bra de da
+
+tydal_ntnu_0201_orthography   og det gjekk nå ganske bra det da
+
+tydal_ntnu_0201               mænn ee # ee nå tysskeranj va er så va e no # 
+                              førfærrd'li vannskeli ja de må e si # de va # d 
+                              vi haddje mannge vannsklie tia da
+
+tydal_ntnu_0201_orthography   men e # e når tyskarane var her så var det nå # 
+                              forferdeleg vanskeleg ja det må eg seie # det var 
+                              # det vi hadde mange vanskelege tider da
+
+tydal_ntnu_0201               å # å no da villj e no si de att d e nå # 
+                              sørrgeli skue på Nedal'n dæ
+
+tydal_ntnu_0201_orthography   og # og nå da vil eg nå seie det at det er nå # 
+                              sørgeleg +x_skue på Nedalen det
+
+int                           ja kva du tykker om ee # det som føregår der oppå 
+                              nå ?
+
+int_orthography               ja kva du tykker om e # det som føregår der oppå 
+                              nå ?
+
+tydal_ntnu_0201               nå ahltj e ahltj …
+
+tydal_ntnu_0201_orthography   nå alt er alt …
+
+tydal_ntnu_0201               næi e tykkje ittj de
+
+tydal_ntnu_0201_orthography   nei eg tykker ikkje det
+
+tydal_ntnu_0201               næi e villj ittj si e var no ## rættj de nei
+
+tydal_ntnu_0201_orthography   nei eg vil ikkje seie det var nå ## rett det nei
+
+int                           du har …
+
+int_orthography               du har …
+
+int                           nei
+
+int_orthography               nei
+
+tydal_ntnu_0201               de villj ittj e si
+
+tydal_ntnu_0201_orthography   det vil ikkje eg seie
+
+tydal_ntnu_0201               nårr n e …
+
+tydal_ntnu_0201_orthography   når ein er …
+
+int                           ja ligg det oppunder … ?
+
+int_orthography               ja ligg det oppunder … ?
+
+tydal_ntnu_0201               ja de ahltj i hop
+
+tydal_ntnu_0201_orthography   ja det alt i hop
+
+int                           under vatnet både # under vatnet både … ?
+
+int_orthography               under vatnet både # under vatnet både … ?
+
+tydal_ntnu_0201               ja da
+
+tydal_ntnu_0201_orthography   ja da
+
+tydal_ntnu_0201               ja # ahltj i hop # ligg unnjer vatt'n
+
+tydal_ntnu_0201_orthography   ja # alt i hop # ligg under vatn
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               ska gå lanngt åver de husa såmm va er å
+
+tydal_ntnu_0201_orthography   skal gå langt over dei husa som var her òg
+
+int                           ja
+
+int_orthography               ja
+
+int                           vart dei rivne husa på garden ?
+
+int_orthography               vart dei rivne husa på garden ?
+
+tydal_ntnu_0201               ja mi a brænntj demm nå
+
+tydal_ntnu_0201_orthography   ja vi har brent dei nå
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               br- # tenntje ti stuggu ja
+
+tydal_ntnu_0201_orthography   br- # tente til stua ja
+
+int                           du var med på det òg ?
+
+int_orthography               du var med på det òg ?
+
+tydal_ntnu_0201               ja
+
+tydal_ntnu_0201_orthography   ja
+
+tydal_ntnu_0201               e ba de
+
+tydal_ntnu_0201_orthography   eg var det
+
+tydal_ntnu_0201               va ittj nå arrtukt å sjå de da mænn ee # menn e 
+                              mått no e mått no vår me hann sm skollj # e va me 
+                              enn te jæLLp enn litte grannj
+
+tydal_ntnu_0201_orthography   var ikkje noko artig å sjå det da men e # men eg 
+                              måtte nå eg måtte nå vere med han som skulle # eg 
+                              var med han til hjelpe han lite grann
+
+int                           mm
+
+int_orthography               mm
+
+tydal_ntnu_0201               å no bygge ømm i ny turisthyttje a # å dæ e no i 
+                              # kollosalt storrt byggværrk
+
+tydal_ntnu_0201_orthography   og nå bygger dei ei ny turisthytte da # og det er 
+                              nå eit # kolossalt stort byggverk
+
+tydal_ntnu_0201               kåsste no bi på milljoner de # ette kværrt
+
+tydal_ntnu_0201_orthography   kostar nå blir på millionar det # etter kvart
+
+int                           er det Trondheim turistforeining som ee bygger 
+                              den ?
+
+int_orthography               er det Trondheim turistforeining som e bygger den 
+                              ?
+
+tydal_ntnu_0201               ja
+
+tydal_ntnu_0201_orthography   ja
+
+tydal_ntnu_0201               e d # ja
+
+tydal_ntnu_0201_orthography   er det # ja
+
+tydal_ntnu_0201               de var dæmm såmm eggde gårn
+
+tydal_ntnu_0201_orthography   det var dei som eigde garden
+
+int                           jaha
+
+int_orthography               jaha
+
+tydal_ntnu_0201               e va ferpakktar oss dæmm # i ti år
+
+tydal_ntnu_0201_orthography   eg var forpaktar hos dei # i ti år
+
+int                           ja
+
+int_orthography               ja
+
+tydal_ntnu_0201               å da vet e nå ittj omm e har nå myå mer å si omm 
+                              di a
+
+tydal_ntnu_0201_orthography   og da veit eg nå ikkje om eg har noko mykje meir 
+                              å seie om det da
+
+tydal_ntnu_0201               ee mænnj d e no de ætt de ser no ut fært borrtpå 
+                              er a de bLi bærre somm i hav borrtpå her i 
+                              stællje førr e va # pennt før
+
+tydal_ntnu_0201_orthography   e men det er nå det at det ser nå ut fælt bortpå 
+                              her og det blir berre som eit hav bortpå her i 
+                              stellet for det var # pent før
+
+tydal_ntnu_0201               d e no sjlik
+
+tydal_ntnu_0201_orthography   det er nå slik
+
+tydal_ntnu_0201               mænnj em # de kannj da fillj hænnje # d e mer 
+                              nyttje ti # ti de såmm bLi jorrt no da
+
+tydal_ntnu_0201_orthography   men em # det kan da fulla hende # det er meir 
+                              nytte i # i det som blir gjort nå da
+
+tydal_ntnu_0201               me de der du vet de # de var nå fillj ittj se 
+                              store va fillj innginj såmm haddje nå store 
+                              intækkta ta de sm låg # uttåver de f- # da # no 
+                              førr tia
+
+tydal_ntnu_0201_orthography   med det der du veit det # det var nå fulla ikkje 
+                              så store var fulla ingen som hadde nokon store 
+                              inntekter av det som låg # utover det f- # da # 
+                              nå for tida
+
+tydal_ntnu_0201               ferr demm ha sjluttja me # setringinj da fåLLke 
+                              såmm haddje setra uti her å ## så de var nå ittj 
+                              så my dømm haddje n ittj nå my bruk fårr de
+
+tydal_ntnu_0201_orthography   for dei har slutta med # setringa da folket som 
+                              hadde setrar uti her og ## så det var nå ikkje så 
+                              mykje dei hadde nå ikkje noko mykje bruk for det
+
+tydal_ntnu_0201               e villj no si de lel da # mænn ee de va ei 
+                              førfærrd'li pent stællje å dæmme ne ja
+
+tydal_ntnu_0201_orthography   eg vil nå seie det lell da # men e det var eit 
+                              forferdeleg pent stelle å demme ned ja
+
+int                           ja det var det
+
+int_orthography               ja det var det
+
+tydal_ntnu_0201               ja
+
+tydal_ntnu_0201_orthography   ja
+
+int                           ja
+
+int_orthography               ja
+
+int                           det var mykje plantar og
+
+int_orthography               det var mykje plantar og
+
+tydal_ntnu_0201               ja
+
+tydal_ntnu_0201_orthography   ja
+
+tydal_ntnu_0201               å my fuggeL å dyr # såmm haddje tillhålljste der
+
+tydal_ntnu_0201_orthography   og mykje fugl og dyr # som hadde tilhaldsstad der
+
+int                           mm
+
+int_orthography               mm
+
+int                           m
+
+int_orthography               m
+
+tydal_ntnu_0201               så e vet ittj omm e har nå mye mer å si +u(enn 
+                              det)
+
+tydal_ntnu_0201_orthography   så eg veit ikkje om eg har noko mykje meir å seie 
+                              +u(enn det)
+

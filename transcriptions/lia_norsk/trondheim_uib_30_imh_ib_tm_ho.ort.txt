@@ -1,0 +1,3290 @@
+int                              %u
+
+int_orthography                  %u
+
+int                              ja # eg veit ikkje om du kunne tenkt deg å 
+                                 berre fortelje kor lenge du har budd i byen 
+                                 her ?
+
+int_orthography                  ja # eg veit ikkje om du kunne tenkt deg å 
+                                 berre fortelje kor lenge du har budd i byen 
+                                 her ?
+
+trondheim_uib_3001               jæ ha bodd hær hele tidn # jæi æ føtt hær
+
+trondheim_uib_3001_orthography   eg har budd her heile tida # eg er fødd her
+
+int                              jaha
+
+int_orthography                  jaha
+
+int                              +u ein skal jo ikkje spørje om ei dames alder 
+                                 men e # sånn %u %l
+
+int_orthography                  +u ein skal jo ikkje spørje om ei dames alder 
+                                 men e # sånn %u %l
+
+trondheim_uib_3001               næi jei ær ee # jæ ær femm å femmti år
+
+trondheim_uib_3001_orthography   nei eg er e # eg er fem og femti år
+
+int                              ja
+
+int_orthography                  ja
+
+int                              men har du budd på den kanten av byen her 
+                                 heile tida eller ?
+
+int_orthography                  men har du budd på den kanten av byen her 
+                                 heile tida eller ?
+
+trondheim_uib_3001               næi # jei har bodd em # +u ja ikk så lanngt 
+                                 fra Sinnsaker skole
+
+trondheim_uib_3001_orthography   nei # eg har budd em # +u ja ikkje så langt 
+                                 frå Singsaker skole
+
+int                              jaha
+
+int_orthography                  jaha
+
+int                              så der er du vaksen opp altså # barndommen der
+
+int_orthography                  så der er du vaksen opp altså # barndommen der
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              gjekk du på Singsaker +u skole ?
+
+int_orthography                  gjekk du på Singsaker +u skole ?
+
+trondheim_uib_3001               ja # jikk på Sinnsaker skole ja
+
+trondheim_uib_3001_orthography   ja # gjekk på Singsaker skole ja
+
+int                              m
+
+int_orthography                  m
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               dær bodde jæ da till je var ee %s # sekks å 
+                                 tyv år
+
+trondheim_uib_3001_orthography   der budde eg da til eg var e %s # seks og tjue 
+                                 år
+
+int                              mhm
+
+int_orthography                  mhm
+
+trondheim_uib_3001               så flyttet jæ ned i Kjirrkegat'n # +u(nårr i 
+                                 jifftet) mæi # +u flytt ti Kjirrkegat'n
+
+trondheim_uib_3001_orthography   så flytta eg ned i Kirkegata # +u(når eg 
+                                 gifta) meg # +u flytta til Kirkegata
+
+int                              mhm
+
+int_orthography                  mhm
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               å så bodde jæi nå dær +u ja helt tl ee ja # 
+                                 bodde noen år oppå fje- i Fjellseteveien da
+
+trondheim_uib_3001_orthography   og så budde eg nå der +u ja heilt til e ja # 
+                                 budde nokon år oppå fje- i Fjellseterveien da
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               å så ha jei bodd hær nå i søtt'n år
+
+trondheim_uib_3001_orthography   og så har eg budd her nå i sytten år
+
+int                              mm
+
+int_orthography                  mm
+
+int                              så da har du jo budd mesteparten av tida # på 
+                                 den kanten her da faktisk
+
+int_orthography                  så da har du jo budd mesteparten av tida # på 
+                                 den kanten her da faktisk
+
+trondheim_uib_3001               ja # ja
+
+trondheim_uib_3001_orthography   ja # ja
+
+trondheim_uib_3001               de har jei nå vell karrnsje a bodd enn ee # ja 
+                                 tre-fire år ee +u me litt lennger oppe hær da
+
+trondheim_uib_3001_orthography   det har eg nå vel kanskje da budd ein e # ja 
+                                 tre-fire år e +u men litt lenger oppe her da
+
+int                              kor var det du budde innpå Singsaker da ?
+
+int_orthography                  kor var det du budde innpå Singsaker da ?
+
+trondheim_uib_3001               jæ bodde i em # Skannsegat'n
+
+trondheim_uib_3001_orthography   eg budde i em # Skansegata
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+int                              %u er det i nærheita av festningen det ?
+
+int_orthography                  %u er det i nærheita av festningen det ?
+
+trondheim_uib_3001               ja # ikk så lanngt fra fesstningen ja
+
+trondheim_uib_3001_orthography   ja # ikkje så langt frå festningen ja
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              %u # gjekk du i sju år ?
+
+int_orthography                  %u # gjekk du i sju år ?
+
+trondheim_uib_3001               +u(ikk i) syv år dær ja
+
+trondheim_uib_3001_orthography   +u(gjekk i) sju år der ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               så jikk jæ tre år på # Trånnhæim komenale
+
+trondheim_uib_3001_orthography   så gjekk eg tre år på # Trondheim kommunale
+
+int                              jaha # det er min gamle skole %l
+
+int_orthography                  jaha # det er min gamle skole %l
+
+trondheim_uib_3001               jaha
+
+trondheim_uib_3001_orthography   jaha
+
+trondheim_uib_3001               å så jikk jæi em # tre år på hann'dsgymm da
+
+trondheim_uib_3001_orthography   og så gjekk eg em # tre år på handelsgym da
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               å de # de ær de je har av utdann'lse # fakktisk
+
+trondheim_uib_3001_orthography   og det # det er det eg har av +x_utdannelse # 
+                                 faktisk
+
+int                              ja
+
+int_orthography                  ja
+
+int                              så du var altså blåruss du da ?
+
+int_orthography                  så du var altså blåruss du da ?
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              det var dei vi var i kamp med det +u veit du
+
+int_orthography                  det var dei vi var i kamp med det +u veit du
+
+trondheim_uib_3001               +l ja
+
+trondheim_uib_3001_orthography   +l ja
+
+int                              %u +u raudruss
+
+int_orthography                  %u +u raudruss
+
+trondheim_uib_3001               ja je bejynnte jo jæi bejynnte jo på 
+                                 hann'dsgymm jæ sir vi ar jo de va ikke 
+                                 spøssjmål jemm åss åss vi v- vi måtte
+
+trondheim_uib_3001_orthography   ja eg begynte jo eg begynte jo på handelsgym 
+                                 eg seier vi har jo det var ikkje spørsmål 
+                                 heime hos oss vi v- vi måtte
+
+trondheim_uib_3001               ett ell ant skulle vi lære fårr ee de kunne 
+                                 kåmme tider vorr vi trenngte en utdann'lse å da
+
+trondheim_uib_3001_orthography   eit eller anna skulle vi lære for e det kunne 
+                                 komme tider kor vi trong ein +x_utdannelse og 
+                                 da
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               å denn ganng var de jo de var jo i vell i # 
+                                 +u(ett'n e) va enåførr elle toåførr da jæi va 
+                                 russ
+
+trondheim_uib_3001_orthography   og den gong var det jo det var jo i vel i # 
+                                 +u(enten det) var einogførti eller toogførti 
+                                 da eg var russ
+
+trondheim_uib_3001               ja de va jo ke no russ eengkli # nå russetid 
+                                 næi
+
+trondheim_uib_3001_orthography   ja det var jo ikkje nokon russ eigentleg # 
+                                 noka russetid nei
+
+int                              nei det var vel %u
+
+int_orthography                  nei det var vel %u
+
+trondheim_uib_3001               menn da # var de jo ennda ikke så velldi 
+                                 mannge såmm studerte da eller ee # jikk på 
+                                 gymnase de va ikke så velldi mannge
+
+trondheim_uib_3001_orthography   men da # var det jo enda ikkje så veldig mange 
+                                 som studerte da eller e # gjekk på gymnaset 
+                                 det var ikkje så veldig mange
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               menn em # je +u be jo gla fårr de att jæ # 
+                                 fakktis fikk denn sjanngs'n asså
+
+trondheim_uib_3001_orthography   men em # eg +u blei jo glad for det at eg # 
+                                 faktisk fekk den sjansen altså
+
+int                              mm mm
+
+int_orthography                  mm mm
+
+trondheim_uib_3001               ell de vi si ee # enn va jo ke så velldi 
+                                 begeistret akkrat me de samme menn ee
+
+trondheim_uib_3001_orthography   eller det vil seie e # ein var jo ikkje så 
+                                 veldig begeistra akkurat med det same men e
+
+int                              ja hadde du ikkje lyst på den +u utdannelsen ?
+
+int_orthography                  ja hadde du ikkje lyst på den +u utdannelsen ?
+
+trondheim_uib_3001               næi i- je hadd- # næi jæ vet ikke rikkti jei 
+                                 de var b- de var bar ikke spøssjmål omm omm 
+                                 noe de var bare vær se god
+
+trondheim_uib_3001_orthography   nei i- eg hadd- # nei eg veit ikkje riktig eg 
+                                 det var b- det var berre ikkje spørsmål om om 
+                                 noko det var berre ver så god
+
+int                              nei
+
+int_orthography                  nei
+
+int                              ja
+
+int_orthography                  ja
+
+int                              ja men du hadde ikkje noko val da at du kunne 
+                                 få ta noko anna i staden for eller ?
+
+int_orthography                  ja men du hadde ikkje noko val da at du kunne 
+                                 få ta noko anna i staden for eller ?
+
+trondheim_uib_3001               ee næi de spillt inngen rålle egentli fårr mei 
+                                 # de alså
+
+trondheim_uib_3001_orthography   e nei det spelte inga rolle eigentleg for meg 
+                                 # det altså
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+int                              mhm
+
+int_orthography                  mhm
+
+trondheim_uib_3001               fårr je har jo vi va jo syv søssken jemme å # 
+                                 de va bare jei såmm jikk dær å di anndre jikk 
+                                 på em # kaf- Katteralsko'ln da # så
+
+trondheim_uib_3001_orthography   for eg har jo vi var jo sju søsken heime og # 
+                                 det var berre eg som gjekk der og dei andre 
+                                 gjekk på em # kaf- Katedralskolen da # så
+
+int                              +u jaha
+
+int_orthography                  +u jaha
+
+trondheim_uib_3001               je vet ikke vorrfårr de +l bl- akkratt ble 
+                                 sånn menn de ble nå sånn så
+
+trondheim_uib_3001_orthography   eg veit ikkje korfor det +l bl- akkurat blei 
+                                 sånn men det blei nå sånn så
+
+int                              det er jo ei solid utdanning det +u(er det nå)
+
+int_orthography                  det er jo ei solid utdanning det +(er det nå)
+
+trondheim_uib_3001               jaa denn ganngen var de …
+
+trondheim_uib_3001_orthography   ja den gongen var det …
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               ja ja
+
+trondheim_uib_3001_orthography   ja ja
+
+int                              e da har du på ein måte ei avslutta 
+                                 yrkesutdanning +u da kan du få jobb men på ein 
+                                 vanleg artium så har du jo ikkje stort å 
+                                 stille opp i # %u
+
+int_orthography                  e da har du på ein måte ei avslutta 
+                                 yrkesutdanning +u da kan du få jobb men på ein 
+                                 vanleg artium så har du jo ikkje stort å 
+                                 stille opp i # %u
+
+trondheim_uib_3001               ja da
+
+trondheim_uib_3001_orthography   ja da
+
+trondheim_uib_3001               næi da næi da næi da næi d e sannt de
+
+trondheim_uib_3001_orthography   nei da nei da nei da nei det er sant det
+
+int                              ja
+
+int_orthography                  ja
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               næi så nu ha je jå værrt hoss ee # på konnore 
+                                 +u (oss I Kå Lykke) i # +s ja # borrtimot 
+                                 treddve år
+
+trondheim_uib_3001_orthography   nei så nå har eg jo vore hos e # på kontoret 
+                                 +u (hos I K Lykke) i # +s ja # bortimot tretti 
+                                 år
+
+int                              oi oi
+
+int_orthography                  oi oi
+
+trondheim_uib_3001               jæ a værrt dær he'l tid'n
+
+trondheim_uib_3001_orthography   eg har vore der heile tida
+
+int                              du har vore der heile tida altså du ?
+
+int_orthography                  du har vore der heile tida altså du ?
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               jæ a værrt s- ee ståppet enn stunn da menns ee 
+                                 je ar har jo en sønn å menns ee hann va lit'n 
+                                 så ståppet je åpp enn stunn da
+
+trondheim_uib_3001_orthography   eg har vore s- e stoppa ei stund da mens e eg 
+                                 har har jo ein son og mens e han var liten så 
+                                 stoppa eg opp ei stund da
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               så bjynnte jæ på ijenn
+
+trondheim_uib_3001_orthography   så begynte eg på igjen
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               vi si +u jei # var eg'ntli ikke meningen att 
+                                 je skulle beynne på ijenn +u asså menn ee # de 
+                                 ble nå sånn de når n har ett # barn så b- da 
+                                 blir de ikke har n ikke nåkk å håll på me aså 
+                                 he'l dagen
+
+trondheim_uib_3001_orthography   vil seie +u eg # var eigentleg ikkje meininga 
+                                 at eg skulle begynne på igjen +u altså men e # 
+                                 det blei nå sånn det når ein har eit # barn så 
+                                 b- da blir det ikkje har ein ikkje nok å halde 
+                                 på med altså heile dagen
+
+int                              m
+
+int_orthography                  m
+
+int                              nei det # +u(skal eg vere einig i %l)
+
+int_orthography                  nei det # +u(skal eg vere einig i %l)
+
+trondheim_uib_3001               så # ble de jo sånn att jei ee beynnte på 
+                                 ijenn da
+
+trondheim_uib_3001_orthography   så # blei det jo sånn at eg e beynte på igjen 
+                                 da
+
+trondheim_uib_3001               å sid'n de ha jæ værrt i femm tyve år aså
+
+trondheim_uib_3001_orthography   og sidan det har eg vore i fem tjue år altså
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               he'l ti'n # he'l he'l dagen
+
+trondheim_uib_3001_orthography   heile tida # heile heile dagen
+
+int                              du har verkeleg vore yrkesaktiv +u(altså da)
+
+int_orthography                  du har verkeleg vore yrkesaktiv +u(altså da)
+
+trondheim_uib_3001               ja hele dagen # full dag he'l tid'n
+
+trondheim_uib_3001_orthography   ja heile dagen # full dag heile tida
+
+int                              ja
+
+int_orthography                  ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så # så ble +u je jo enngke da fårr to år 
+                                 sid'n å da var de jå velldi fint att je hadde 
+                                 ## hadde noe
+
+trondheim_uib_3001_orthography   så # så blei +u eg jo enke da for to år sidan 
+                                 og da var det jo veldig fint at eg hadde ## 
+                                 hadde noko
+
+int                              m
+
+int_orthography                  m
+
+int                              ja # %u kanskje %u
+
+int_orthography                  ja # %u kanskje %u
+
+trondheim_uib_3001               å ja ja ja
+
+trondheim_uib_3001_orthography   å ja ja ja
+
+int                              ha noko å fylle dagen med
+
+int_orthography                  ha noko å fylle dagen med
+
+trondheim_uib_3001               ja å så kann en jo +l ke leve av +u å barre å 
+                                 # næi # å j- gå jemme heller da enn må jo
+
+trondheim_uib_3001_orthography   ja og så kan ein jo +l ikkje leve av +u å 
+                                 berre å # nei # å j- gå heime heller da ein må 
+                                 jo
+
+int                              nei
+
+int_orthography                  nei
+
+trondheim_uib_3001               å ikke bar de menn enn ee enn em ## kåmmer ut 
+                                 få- ee så snart såmm muli kåmmer ut i iblannt 
+                                 mennsker ijenn så har jo de velldi my å si 
+                                 allså
+
+trondheim_uib_3001_orthography   og ikkje berre det men ein e ein em ## kjem ut 
+                                 få- e så snart som mogleg kjem ut i iblant 
+                                 menneske igjen så har jo det veldig mykje å 
+                                 seie altså
+
+int                              mm # mm
+
+int_orthography                  mm # mm
+
+trondheim_uib_3001               jei bejynnte startet me en ganng jæ fårr att 
+                                 ee je tenngkte «hær må ett l ant jøres assa de 
+                                 gå ikke ann å gå jemme sånn å # å sture de 
+                                 nytte ikke»
+
+trondheim_uib_3001_orthography   eg begynte starta med ein gong eg for at e eg 
+                                 tenkte «her må eit eller anna gjerast altså 
+                                 det går ikkje an å gå heime sånn og # og sture 
+                                 det nyttar ikkje»
+
+int                              nei det er klart # man har noko å vere opptatt 
+                                 av %u
+
+int_orthography                  nei det er klart # ein har noko å vere opptatt 
+                                 av %u
+
+trondheim_uib_3001               så …
+
+trondheim_uib_3001_orthography   så …
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               så de # de æ je velldi gla fårr i dag asså
+
+trondheim_uib_3001_orthography   så det # det eg er veldig glad for i dag altså
+
+int                              +v ja
+
+int_orthography                  +v ja
+
+trondheim_uib_3001               å så har vi en sånn alle tidesj sjef assa vi 
+                                 vi vi jør jo akk'ratt såmm vi bare vi jør de 
+                                 vi skall jøre så # jør vi har tar vi fri nå vi 
+                                 har lysst visst vi # får likksåmm tid te åvesj 
+                                 eller # sånn
+
+trondheim_uib_3001_orthography   og så har vi ein sånn alle tiders sjef altså 
+                                 vi vi vi gjer jo akkurat som vi berre vi gjer 
+                                 det vi skal gjere så # gjer vi har tar vi fri 
+                                 når vi har lyst viss vi # får liksom tid til 
+                                 overs eller # sånn
+
+int                              m
+
+int_orthography                  m
+
+int                              det er +u demokrati på arbeidsplassen %u ?
+
+int_orthography                  det er +u demokrati på arbeidsplassen %u ?
+
+trondheim_uib_3001               ja ja ja
+
+trondheim_uib_3001_orthography   ja ja ja
+
+int                              +v ja
+
+int_orthography                  +v ja
+
+trondheim_uib_3001               helt hærrli hann asså
+
+trondheim_uib_3001_orthography   heilt herleg han altså
+
+int                              er han sånn mot alle ansette ikkje berre dei 
+                                 som har vore med %u ?
+
+int_orthography                  er han sånn mot alle ansette ikkje berre dei 
+                                 som har vore med %u ?
+
+trondheim_uib_3001               ja næi em nu ær jo vi # vi har em vi har jo 
+                                 bare # ee admistasjo'n vi da # +u f hann har 
+                                 jo # +u ellev f'sjellie bedriffter så har vi 
+                                 bare admistasjon å +u bokføring # å de ær je 
+                                 såmm fører da har bokføringen å så ær de en 
+                                 såmm har # kasse å lønninger å sånnt
+
+trondheim_uib_3001_orthography   ja nei em nå er jo vi # vi har em vi har jo 
+                                 berre # e administrasjonen vi da # +u for han 
+                                 har jo # +u elleve forskjellige bedrifter så 
+                                 har vi berre administrasjon og +u bokføring # 
+                                 og det er eg som fører da har bokføringa og så 
+                                 er det ein som har # kasse og lønningar og sånt
+
+int                              m
+
+int_orthography                  m
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               så vi æ fakktis bare to stykker da utomm hann 
+                                 sell da å sønn'n
+
+trondheim_uib_3001_orthography   så vi er faktisk berre to stykke da utom han 
+                                 sjølv da og sonen
+
+trondheim_uib_3001               så vi em # s vi har de velldi fritt å velldi 
+                                 gått asså
+
+trondheim_uib_3001_orthography   så vi em # så vi har det veldig fritt og 
+                                 veldig godt altså
+
+int                              +u ja
+
+int_orthography                  +u ja
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               ja så har hann hus i Spania å da sier hann de 
+                                 att +u(«har de lysst nå så bare reise») å je 
+                                 ha jo værrt dær to år nu
+
+trondheim_uib_3001_orthography   ja så har han hus i Spania og da seier han det 
+                                 at +u(«har de lyst nå så berre reise») og eg 
+                                 har jo vore der to år nå
+
+trondheim_uib_3001               å nu kåmm hann ijenn fra Spania i # juni å så 
+                                 sa hann att ee # «ja nå vennter emm på Demm i 
+                                 Spania fru trondheim_uib_3001» sa n «nå må Di 
+                                 reise»
+
+trondheim_uib_3001_orthography   og nå kom han igjen frå Spania i # juni og så 
+                                 sa han at e # «ja nå ventar dei på Dykk i 
+                                 Spania fru trondheim_uib_3001» sa han «nå må 
+                                 De reise»
+
+trondheim_uib_3001               så sa jæ «a de kann jæ ikke reise ennda nei» 
+                                 sa jæ «må +l +u rekke litte grann ennda»
+
+trondheim_uib_3001_orthography   så sa eg «ja det kan eg ikkje reise enda nei» 
+                                 sa eg «må +l +u rekke lite grann enda»
+
+int                              så du kan ta ferie +u(på hausten) %u
+
+int_orthography                  så du kan ta ferie +u(på hausten) %u
+
+trondheim_uib_3001               je jæ tar nårr jæ vill jæi fakktisk ja ja
+
+trondheim_uib_3001_orthography   eg eg tar når eg vil eg faktisk ja ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              +u ja
+
+int_orthography                  +u ja
+
+trondheim_uib_3001               så æ ha jo hatt di sisste årne ha jæ hatt ee 
+                                 femm ukesj ferie da
+
+trondheim_uib_3001_orthography   så eg har jo hatt dei siste åra har eg hatt e 
+                                 fem vekers ferie da
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               å em # så em ennda ha jæ jo # +u jæ va jæ ha 
+                                 litt elenndi +u i ryggen i såmmer så da sa ha- 
+                                 da sa n de «de rein ikke me denn ferien dær» 
+                                 sa n «denn ska du få ekkstra fere fårr de» så 
+                                 de ha %u
+
+trondheim_uib_3001_orthography   og em # så em enda har eg jo # +u eg var eg 
+                                 har litt elendig +u i ryggen i sommar så da sa 
+                                 ha- da sa han det «det rekn ikkje med den 
+                                 ferien der» sa han «den skal du få ekstra 
+                                 ferie for det» så det har %u
+
+int                              det er ikkje rart ein blir i same firma i 
+                                 femti år +u(da når) ein har det sånn # har du 
+                                 hatt den same som sjef heile tida ?
+
+int_orthography                  det er ikkje rart ein blir i same firma i 
+                                 femti år +u(da når) ein har det sånn # har du 
+                                 hatt den same som sjef heile tida ?
+
+trondheim_uib_3001               næi næi næi
+
+trondheim_uib_3001_orthography   nei nei nei
+
+trondheim_uib_3001               ja ja ja # ja jæ hadde gammle E2 ja 
+                                 stapsmisstærn ja enn stunn da
+
+trondheim_uib_3001_orthography   ja ja ja # ja eg hadde gamle E2 ja 
+                                 statsministeren ja ei stund da
+
+int                              %u
+
+int_orthography                  %u
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               %q mn de va velldi kårrt da fårr hann døde jo 
+                                 gannske # +u ann døde like etter att jei 
+                                 bejynnte ell +u de vi si ett år +u(etter 
+                                 ell'r) no sånnt nå ett att jei bejynnte da
+
+trondheim_uib_3001_orthography   %q men det var veldig kort da for han døydde 
+                                 jo ganske # +u han døydde like etter at eg 
+                                 begynte eller +u det vil seie eit år +u(etter 
+                                 eller) noko sånt noko etter at eg begynte da
+
+int                              jaha
+
+int_orthography                  jaha
+
+int                              men han må jo vere # ganske vaksen han +u(her 
+                                 også er han ikkje det da) ?
+
+int_orthography                  men han må jo vere # ganske vaksen han +u(her 
+                                 også er han ikkje det da) ?
+
+trondheim_uib_3001               hann …
+
+trondheim_uib_3001_orthography   han …
+
+trondheim_uib_3001               hann ær vell enn ee ja # sekks-syv å sekksti 
+                                 karrnsje
+
+trondheim_uib_3001_orthography   han er vel ein e ja # seks-sju og seksti 
+                                 kanskje
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               menn hann e gannske gannske bra fårrm nå asså 
+                                 hann har værrt litt ee dåli menn nå så
+
+trondheim_uib_3001_orthography   men han er ganske ganske bra form nå altså han 
+                                 har vore litt e dårleg men nå så
+
+int                              mhm
+
+int_orthography                  mhm
+
+trondheim_uib_3001               ja vi har de helt ee %l %q helt hærrli vi aså 
+                                 de e helt sikkert ja ja ja
+
+trondheim_uib_3001_orthography   ja vi har det heilt e %l %q heilt herleg vi 
+                                 altså det er heilt sikkert ja ja ja
+
+int                              +u det må jo vere herleg å ha ein sånn 
+                                 arbeidsplass
+
+int_orthography                  +u det må jo vere herleg å ha ein sånn 
+                                 arbeidsplass
+
+trondheim_uib_3001               menn sellføllg'li hann ee # hann kann reise 
+                                 hann reise my å hann
+
+trondheim_uib_3001_orthography   men +x_selvfølgelig han e # han kan reise han 
+                                 reiser mykje òg han
+
+trondheim_uib_3001               nå ha jo vi værrt dær begge så lennge at vi ee 
+                                 vi vet +l(va vi) ska jør fårr nonn tinng å 
+                                 likksåm hann stole jo på åss da så de +u gå jo 
+                                 velldi # velldi fint
+
+trondheim_uib_3001_orthography   nå har jo vi vore der begge så lenge at vi e 
+                                 vi veit +l(kva vi) skal gjere for nokon ting 
+                                 og liksom han stoler jo på oss da så det +u 
+                                 går jo veldig # veldig fint
+
+int                              +u det er jo godt for han òg viss han berre 
+                                 kan overlate ansvaret %u
+
+int_orthography                  +u det er jo godt for han òg viss han berre 
+                                 kan overlate ansvaret %u
+
+trondheim_uib_3001               ja hann reise j- hann har jo likksåm bjynnt å 
+                                 +u(tatt åve) litt så hann reise jo en del # 
+                                 sell da
+
+trondheim_uib_3001_orthography   ja han reiser j- han har jo liksom begynte å 
+                                 +u(ta over) litt så han reiser jo ein del # 
+                                 sjølv da
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               sånnt så
+
+trondheim_uib_3001_orthography   sånt så
+
+int                              men det må vere litt e ganske ansvarsfull jobb 
+                                 det +u(der da vel) ? # å ha …
+
+int_orthography                  men det må vere litt e ganske ansvarsfull jobb 
+                                 det +u(der da vel) ? # å ha …
+
+trondheim_uib_3001               ja da de æ +u ett +l de ær vell karrnsje de da 
+                                 ee
+
+trondheim_uib_3001_orthography   ja da det er +u eit +l det er vel kanskje det 
+                                 da e
+
+int                              må ein ikkje vere +u(litt av eit) 
+                                 ordensmenneske når ein skal %u ?
+
+int_orthography                  må ein ikkje vere +u(litt av eit) 
+                                 ordensmenneske når ein skal %u ?
+
+trondheim_uib_3001               +u hann legger se borrti …
+
+trondheim_uib_3001_orthography   +u han legg seg borti …
+
+trondheim_uib_3001               jo # de må n vell # sikkert ja ja
+
+trondheim_uib_3001_orthography   jo # det må ein vel # sikkert ja ja
+
+int                              %u # ja ?
+
+int_orthography                  %u # ja ?
+
+trondheim_uib_3001               fårr att em en må jo ha må jo hålle allt 
+                                 adsjilt da enn kann jo ke byne å # blanne nån 
+                                 tinng når de bli ellve fåsjellie så # så må n 
+                                 jo ha en viss ee årrd'n i +l sakene ja de e %u 
+                                 klart
+
+trondheim_uib_3001_orthography   for at em ein må jo ha må jo halde alt åtskilt 
+                                 da ein kan jo ikkje begynne å # blande nokon 
+                                 ting når det blir elleve forskjellige så # så 
+                                 må ein jo ha ein viss e orden i +l sakene ja 
+                                 det er %u klart
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+int                              +u ja
+
+int_orthography                  +u ja
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               menn ee næi jæ vett ikke de jæ tror att de 
+                                 ligger få mæi akkårat de dær ee # de dær …
+
+trondheim_uib_3001_orthography   men e nei eg veit ikkje det eg trur at det 
+                                 ligg for meg akkurat det der e # det der …
+
+int                              mm
+
+int_orthography                  mm
+
+int                              +u så kanskje det er bra da at du blei på ein 
+                                 måte blei pressa til å ta den utdanninga du 
+                                 blei ?
+
+int_orthography                  +u så kanskje det er bra da at du blei på ein 
+                                 måte blei pressa til å ta den utdanninga du 
+                                 blei ?
+
+trondheim_uib_3001               +l ja
+
+trondheim_uib_3001_orthography   +l ja
+
+trondheim_uib_3001               ja i dag ee æ jæ nå velldi gla fårr de da # å 
+                                 så att jei likksåm kåmm inn i de # akkrat de 
+                                 firrmae da må j jo si da fårr # jæ tror ikke 
+                                 de æ mannge såmm har de så så greit såmm assa
+
+trondheim_uib_3001_orthography   ja i dag e er eg nå veldig glad for det da # 
+                                 og så at eg liksom kom inn i det # akkurat det 
+                                 firmaet da må eg jo seie da for # eg trur 
+                                 ikkje det er mange som har det så så greitt 
+                                 som altså
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+trondheim_uib_3001               å når de går ee bra så blir vi påsjønnet da 
+                                 nårr de sånn de
+
+trondheim_uib_3001_orthography   og når det går e bra så blir vi påskjønna da 
+                                 når det sånn det
+
+int                              julegratiale og # sånne ting ?
+
+int_orthography                  julegratiale og # sånne ting ?
+
+trondheim_uib_3001               ja ja # ja tantieme +u(da å enn) # vi si nå vi 
+                                 v- kåmm fra # nå je kåmm fra # jæ va en tur i 
+                                 Talia nå # i em # bjynns'n av septemmber # +u 
+                                 va fjorrt'n dager # å ne je kåmm tebake da så 
+                                 # så hadd an lakkt en lapp på pullt'n att ee # 
+                                 « fra føssjte septemmber ær de syv hunndre 
+                                 kroner i tillegg i lønn »
+
+trondheim_uib_3001_orthography   ja ja # ja tantieme +u(da og ein) # vi seier 
+                                 når vi v- kom frå # når eg kom frå # eg var 
+                                 ein tur i Italia nå # i em # +x_begynnelsen av 
+                                 september # +u var fjorten dagar # og når eg 
+                                 kom tilbake da så # så hadde han lagt ein lapp 
+                                 på pulten at e # « frå første september er det 
+                                 sju hundre kroner i tillegg i lønn »
+
+int                              m
+
+int_orthography                  m
+
+int                              åh
+
+int_orthography                  åh
+
+trondheim_uib_3001               så
+
+trondheim_uib_3001_orthography   så
+
+int                              +u(i månaden) ?
+
+int_orthography                  +u(i månaden) ?
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              å du verda
+
+int_orthography                  å du verda
+
+trondheim_uib_3001               ja da # så vi har …
+
+trondheim_uib_3001_orthography   ja da # så vi har …
+
+int                              e de # har de noko me tariff å gjere eller 
+                                 noko sånt ?
+
+int_orthography                  er de # har de noko med tariff å gjere eller 
+                                 noko sånt ?
+
+trondheim_uib_3001               næi næi næi # næi da hann synns de har # gått 
+                                 så bra nå sisste å att v skull ha litt 
+                                 påsjønn'lse fårr de # så
+
+trondheim_uib_3001_orthography   nei nei nei # nei da han synest det har # gått 
+                                 så bra nå siste og at vi skulle ha litt 
+                                 +x_påskjønnelse for det # så
+
+int                              ja det
+
+int_orthography                  ja det
+
+trondheim_uib_3001               +v ja
+
+trondheim_uib_3001_orthography   +v ja
+
+int                              da forstår eg godt +l at ein blir i det firmaet
+
+int_orthography                  da forstår eg godt +l at ein blir i det firmaet
+
+trondheim_uib_3001               a ja
+
+trondheim_uib_3001_orthography   å ja
+
+trondheim_uib_3001               %q ja så ha vi jo hatt enn ee # i fjor hadde 
+                                 vi vøll en femmt'n tus'n i tantieme da
+
+trondheim_uib_3001_orthography   %q ja så har vi jo hatt ein e # i fjor hadde 
+                                 vi vel ein femten tusen i tantieme da
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               å de # +u pennga fikk vi nå utbetalt i massj
+
+trondheim_uib_3001_orthography   og det # +u pengar fekk vi nå utbetalt i mars
+
+trondheim_uib_3001               så da kann n jo reise litt å
+
+trondheim_uib_3001_orthography   så da kan ein jo reise litt og
+
+int                              +u men korleis er det med skatt og sånt ? 
+                                 beta- er det vanleg ? vanleg +u 
+                                 inntektsoppgjer ?
+
+int_orthography                  +u men korleis er det med skatt og sånn ? 
+                                 beta- er det vanleg ? vanleg +u 
+                                 inntektsoppgjer ?
+
+trondheim_uib_3001               jo jo jo # ja
+
+trondheim_uib_3001_orthography   jo jo jo # ja
+
+trondheim_uib_3001               ja da # de ær de ja
+
+trondheim_uib_3001_orthography   ja da # det er det ja
+
+int                              ja vel
+
+int_orthography                  ja vel
+
+trondheim_uib_3001               +v ja
+
+trondheim_uib_3001_orthography   +v ja
+
+int                              spisest jo opp litt av det men
+
+int_orthography                  spisest jo opp litt av det men
+
+trondheim_uib_3001               ja m de spises velldi my opp da +u(de ær o ke) 
+                                 så
+
+trondheim_uib_3001_orthography   ja m det +x_spisest veldig mykje opp da +u(det 
+                                 er jo ikkje) så
+
+trondheim_uib_3001               de +u t- på di syv hunndre kron'ne nå sa ble 
+                                 de jo +u v fakktis bare to hunndre kroner a sm 
+                                 enn får utbetalt så de bli jo ke nå sånn ee # 
+                                 %s nå sånn menn ee
+
+trondheim_uib_3001_orthography   det +u t- på dei sju hundre kronene nå sa blei 
+                                 det jo +u vel faktisk berre to hundre kroner 
+                                 da som ein får utbetalt så det blir jo ikkje 
+                                 noko sånn e # %s noko sånn men e
+
+int                              m
+
+int_orthography                  m
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+trondheim_uib_3001               enn må jo byne å reine litt på på em # ee på # 
+                                 %s ja +u an bynner å bli så vitt gammel att 
+                                 enn må jo reine poenng
+
+trondheim_uib_3001_orthography   ein må jo begynne å rekne litt på på em # e på 
+                                 # %s ja +u ein begynner å bli så vidt gammal 
+                                 at ein må jo rekne poeng
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               ikk sannt ?
+
+trondheim_uib_3001_orthography   ikkje sant ?
+
+int                              ja da det er klart det
+
+int_orthography                  ja da det er klart det
+
+trondheim_uib_3001               ja # å n har jo ee # denn årrdningen ha jæ vl 
+                                 hållt på i ti år bli vl ti år till å da ær e 
+                                 vell ikke lennge før n sjlutter a da så da
+
+trondheim_uib_3001_orthography   ja # og ein har jo e # den ordninga har eg vel 
+                                 halde på i ti år blir vel ti år til og da er 
+                                 det vel ikkje lenge før ein sluttar av da så da
+
+int                              %u +u pensjonist
+
+int_orthography                  %u +u pensjonist
+
+trondheim_uib_3001               +u(d æ d æ) sånn har de jo velldi my å si å 
+                                 likedann fårr # +u i ferier å sånnt så vises 
+                                 de jo nårr enn får hele beløpe utbetalt
+
+trondheim_uib_3001_orthography   +u(det er det er) sånn har det jo veldig mykje 
+                                 å seier og +x_likedan for # +u i feriar og 
+                                 sånt så visest det jo når ein får heile 
+                                 beløpet utbetalt
+
+int                              mm
+
+int_orthography                  mm
+
+int                              %u ja
+
+int_orthography                  %u ja
+
+trondheim_uib_3001               hele må'ntslø'n utbetalt da
+
+trondheim_uib_3001_orthography   heile månadslønna utbetalt da
+
+int                              var det nokon av dei andre søskena dine som 
+                                 tok sånn handelsutdanning da etter +u(artium 
+                                 da) ?
+
+int_orthography                  var det nokon av dei andre søskena dine som 
+                                 tok sånn handelsutdanning da etter +u(artium 
+                                 da) ?
+
+trondheim_uib_3001               %q næi # de var inngen anndr- næi
+
+trondheim_uib_3001_orthography   %q nei # det var ingen anndr- nei
+
+int                              +u(er nokon) som har studert %u ?
+
+int_orthography                  +u(er nokon) som har studert %u ?
+
+trondheim_uib_3001               ee næi inngen såmm har studert vidre
+
+trondheim_uib_3001_orthography   e nei ingen som har studert vidare
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+trondheim_uib_3001               tatt arrtsjum ja menn ekke no ellesj # +u me 
+                                 ha tatt hanndskole utomm da
+
+trondheim_uib_3001_orthography   tatt artium ja men ikkje noko elles # +u men 
+                                 har tatt handelsskole utom da
+
+int                              jaha ? # mm
+
+int_orthography                  jaha ? # mm
+
+trondheim_uib_3001               så
+
+trondheim_uib_3001_orthography   så
+
+trondheim_uib_3001               d ær nå flere ja di flesste arrbæider å vi æ 
+                                 +u vi en såmm ær ee # %s en såmm jikk på # var 
+                                 på telegrafen da
+
+trondheim_uib_3001_orthography   det er nå fleire ja dei fleste arbeider og vi 
+                                 er +u vi ein som er e # %s ein som gjekk på # 
+                                 var på telegrafen da
+
+trondheim_uib_3001               menn hunn ee jifftet sæi me n presst å reisste 
+                                 te Madagasskar
+
+trondheim_uib_3001_orthography   men ho e gifta seg med ein prest og reiste til 
+                                 Madagaskar
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               så hunn menn hunn ee ha værrt jemme +u noen 
+                                 par år nå da # %s bor i Osslo
+
+trondheim_uib_3001_orthography   så ho men ho e har vore heime +u nokon par år 
+                                 nå da # %s bur i Oslo
+
+trondheim_uib_3001               å så hae e jo en såmm e på # Fållkregisstere
+
+trondheim_uib_3001_orthography   og så har eg jo ein som er på # Folkeregisteret
+
+int                              mhm
+
+int_orthography                  mhm
+
+trondheim_uib_3001               å # %s ja ellesj så ær +u dæmm vell +u(ja en 
+                                 såmm) ja d e no såmm tar litt småtteri sånn +u 
+                                 halldagsjåbber å sånnt nå +u(d e no så)
+
+trondheim_uib_3001_orthography   og # %s ja elles så er +u dei vel +u(ja ein 
+                                 som) ja det er nå som tar litt småtteri sånn 
+                                 +u halvdagsjobber og sånt noko +u(det er nå så)
+
+int                              %u mm
+
+int_orthography                  %u mm
+
+trondheim_uib_3001               %q menn ee # den utdann'ls'n æ jo kåmm't gått 
+                                 me fårr alle e'engkli
+
+trondheim_uib_3001_orthography   %q men e # den +x_utdannelsen er jo kommen 
+                                 godt med for alle eigentleg
+
+int                              +u(ja det er klart det)
+
+int_orthography                  +u(ja det er klart det)
+
+trondheim_uib_3001               sell åmm du karrnsj ikke tenngkte så mye på de 
+                                 denn ganngen +u førr alle jifftet sæ jå menn ee
+
+trondheim_uib_3001_orthography   sjølv om du kanskje ikkje tenkte så mykje på 
+                                 det den gongen +u for alle gifta seg jo men e
+
+int                              ja
+
+int_orthography                  ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               menn menn
+
+trondheim_uib_3001_orthography   men men
+
+int                              +u(kan jo vere godt å ha nokon som pressar på 
+                                 i ryggen) %u
+
+int_orthography                  +u(kan jo vere godt å ha nokon som pressar på 
+                                 i ryggen) %u
+
+trondheim_uib_3001               ja ja ja # a jæ vill jå si att hann var litt 
+                                 ee litt fårrut fårr sin tid hann fårr jæ tro 
+                                 ikke att ee # fårelldre tenngkt så mye denn 
+                                 ganng på sånnt jæ
+
+trondheim_uib_3001_orthography   ja ja ja # ja eg vil jo seie at han var litt e 
+                                 litt forut for si tid han for eg trur ikkje at 
+                                 e # foreldre tenkte så mykje den gong på sånt 
+                                 eg
+
+int                              +u(det er muleg)
+
+int_orthography                  +u(det er mogleg)
+
+trondheim_uib_3001               eaffal ikke såmm jæi ee
+
+trondheim_uib_3001_orthography   iallfall ikkje som eg e
+
+int                              men det var kanskje ikkje så lett for alle 
+                                 saman heller da viss dei hadde sju # det var 
+                                 sju sa du og # +u ein kan ha råd- å kunne ha 
+                                 råd til det
+
+int_orthography                  men det var kanskje ikkje så lett for alle 
+                                 saman heller da viss dei hadde sju # det var 
+                                 sju sa du og # +u ein kan ha råd- å kunne ha 
+                                 råd til det
+
+trondheim_uib_3001               næi da
+
+trondheim_uib_3001_orthography   nei da
+
+trondheim_uib_3001               ja vi var syv ja
+
+trondheim_uib_3001_orthography   ja vi var sju ja
+
+trondheim_uib_3001               ja næi da de kann jo henne # %s de kann veLL 
+                                 henne de karrnsje
+
+trondheim_uib_3001_orthography   ja nei da det kan jo hende # %s det kan vel 
+                                 hende det kanskje
+
+int                              mm
+
+int_orthography                  mm
+
+int                              kva slags jobb hadde far din da ?
+
+int_orthography                  kva slags jobb hadde far din da ?
+
+trondheim_uib_3001               hann em # hann hadde a- ee egen agentufrettning
+
+trondheim_uib_3001_orthography   han em # han hadde a- e eiga agenturforretning
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               hann var ee f- # ann var kontorsjef hoss M1 %u 
+                                 angråfirrmae føssjt menn så syss han de ble +u 
+                                 fårr lite
+
+trondheim_uib_3001_orthography   han var e f- # han var kontorsjef hos M1 %u 
+                                 engrosfirmaet først men så syntest han det 
+                                 blei +u for lite
+
+int                              kva slags firma er det der %u
+
+int_orthography                  kva slags firma er det der %u
+
+trondheim_uib_3001               hann …
+
+trondheim_uib_3001_orthography   han …
+
+trondheim_uib_3001               de ær asså v- em de ær sjlutt de ær sjlutt de 
+                                 firrmae nu asså de var em # kolnial annggrå
+
+trondheim_uib_3001_orthography   det er altså v- em det er slutt det er slutt 
+                                 det firmaet nå altså det var em # kolonial 
+                                 engros
+
+int                              ja vel
+
+int_orthography                  ja vel
+
+trondheim_uib_3001               menn så # bjynnte hann i egen agentufrettning 
+                                 da
+
+trondheim_uib_3001_orthography   men så # begynte han i eiga agenturforretning 
+                                 da
+
+trondheim_uib_3001               fårr vi va jo så vitt mannge att hann mått jo 
+                                 tjen litt å # +l så
+
+trondheim_uib_3001_orthography   for vi var jo så vidt mange at han måtte jo 
+                                 tene litt og # +l så
+
+int                              ja # mm
+
+int_orthography                  ja # mm
+
+trondheim_uib_3001               så em
+
+trondheim_uib_3001_orthography   så em
+
+trondheim_uib_3001               ja så de va vi hadde de gannske bra vi aså # 
+                                 +u till etter datid'ns …
+
+trondheim_uib_3001_orthography   ja så det var vi hadde det ganske bra vi altså 
+                                 # +u til etter datidas …
+
+int                              mm
+
+int_orthography                  mm
+
+int                              var det # var det +u(tett da) søskenrekka 
+                                 eller var det ? # %u
+
+int_orthography                  var det # var det +u(tett da) søskenrekka 
+                                 eller var det ? # %u
+
+trondheim_uib_3001               jei var ja jei var em %s # %q jei var nommer 
+                                 femm jei å da var ee mamma treddv år hunn ass 
+                                 +u nårr jei ble føtt
+
+trondheim_uib_3001_orthography   eg var ja eg var em %s # %q eg var nummer fem 
+                                 eg og da var e mamma tretti år ho altså +u når 
+                                 eg blei fødd
+
+int                              å ja
+
+int_orthography                  å ja
+
+trondheim_uib_3001               så vi var gannske tett
+
+trondheim_uib_3001_orthography   så vi var ganske tette
+
+int                              eg går ut frå at at ho da ikkje var nokon 
+                                 yrkesaktiv %u # %l
+
+int_orthography                  eg går ut frå at at ho da ikkje var nokon 
+                                 yrkesaktiv %u # %l
+
+trondheim_uib_3001               næi alldri # alldri værrt %l +l næi # næi næi 
+                                 næi
+
+trondheim_uib_3001_orthography   nei aldri # aldri vore %l +l nei # nei nei nei
+
+int                              nei
+
+int_orthography                  nei
+
+int                              ho var vel %u
+
+int_orthography                  ho var vel %u
+
+trondheim_uib_3001               de var ikke vanli heller de # ikke fårr de a 
+                                 har jo ke kunndet ee
+
+trondheim_uib_3001_orthography   det var ikkje vanleg heller det # ikkje for 
+                                 det ho har jo ikkje kunna e
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               +u ves me syv barn så går jo kke de ann de i 
+                                 hel tatt
+
+trondheim_uib_3001_orthography   +u viss med sju barn så går jo ikke det an det 
+                                 i heile tatt
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               menn vi hadde de # bra trykkt å gått vi ja 
+                                 jemme +u ve- ikke %s ikke ett glass # i hus 
+                                 oss åss asa # ikke +u ett
+
+trondheim_uib_3001_orthography   men vi hadde det # bra trygt og godt vi ja 
+                                 heime +u ve- ikkje %s ikkje eitt glas # i 
+                                 huset hos oss altså # ikkje +u eitt
+
+int                              mm
+
+int_orthography                  mm
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så de var velldi å hunn var jo de mamma var jo 
+                                 jemme bestanndi så vi hadde velldi sånn ee
+
+trondheim_uib_3001_orthography   så det var veldig og ho var jo det mamma var 
+                                 jo heime bestandig så vi hadde veldig sånn e
+
+trondheim_uib_3001               å barn # de va sm sa hunn mæ alltid att ee # 
+                                 så lennge de æ barn i huse så føller 
+                                 velsinng'nlse me å da
+
+trondheim_uib_3001_orthography   og barn # det var som sa ho meg alltid at e # 
+                                 så lenge det er barn i huset så følger 
+                                 +x_velsignelse med òg da
+
+int                              mm
+
+int_orthography                  mm
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               unn var ikke no sånn ee # ikke nå sånn 
+                                 spesiell relgiøs sånn menn hunn # mente nå de 
+                                 iallefall
+
+trondheim_uib_3001_orthography   ho var ikkje noko sånn e # ikkje noko sånn 
+                                 spesielt religiøs sånn men ho # meinte nå det 
+                                 iallfall
+
+int                              m
+
+int_orthography                  m
+
+int                              men det trongst jo litt plass òg da viss ein 
+                                 var # sju %u
+
+int_orthography                  men det trongst jo litt plass òg da viss ein 
+                                 var # sju %u
+
+trondheim_uib_3001               a vi hadd ikke så velldi mye plass egentli
+
+trondheim_uib_3001_orthography   ja vi hadde ikkje så veldig mykje plass 
+                                 eigentleg
+
+int                              nei # var det leilegheit +u(eller var det eit 
+                                 hus) ?
+
+int_orthography                  nei # var det leilegheit +u(eller var det eit 
+                                 hus) ?
+
+trondheim_uib_3001               ja de v- ja vi hadde # vi hadde n del av ett 
+                                 ee ett ee # ett hus ass me fire leilieter da # 
+                                 sånn
+
+trondheim_uib_3001_orthography   ja det v- ja vi hadde # vi hadde ein del av 
+                                 eit e eit e # eit hus altså med fire 
+                                 leilegheiter da # sånn
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               så vi hadd ikk så velldi mye plass egentli 
+                                 menn ee
+
+trondheim_uib_3001_orthography   så vi hadde ikkje så veldig mykje plass 
+                                 eigentleg men e
+
+int                              da hadde de ei ei leilegheit altså %u ja
+
+int_orthography                  da hadde de ei ei leilegheit altså %u ja
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              nei %u
+
+int_orthography                  nei %u
+
+trondheim_uib_3001               vi hadde likk'sm en del av # asså de var ee +u 
+                                 egne va eiit vær sinn del allså
+
+trondheim_uib_3001_orthography   vi hadde liksom ein del av # altså det var e 
+                                 +u eige var eigde kvar sin del altså
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så menn de jikk jo velldi fint fårr vi fikk jo 
+                                 lært åss ee # fikk jo lære årrd'nsans å å 
+                                 sånne tinng da å måtte likksåm # ja redde 
+                                 væranndres redde sennger sell å # så n måtte 
+                                 ha årrd'n aså etter sæi ee # va jo helt 
+                                 nødvenndi de
+
+trondheim_uib_3001_orthography   så men det gjekk jo veldig fint for vi fekk jo 
+                                 lært oss e # fekk jo lære ordensans og og 
+                                 sånne ting da og måtte liksom # ja reie 
+                                 kvaramdres reie senger sjølv og # så ein måtte 
+                                 ha orden altså etter seg e # var jo heilt 
+                                 nødvendig det
+
+int                              +u mm
+
+int_orthography                  +u mm
+
+int                              mm
+
+int_orthography                  mm
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               +u ellesj +l så
+
+trondheim_uib_3001_orthography   +u elles +l så
+
+int                              var der grunnlaget blei lagt +u(med andre ord) 
+                                 # for bokføringa %l
+
+int_orthography                  var der grunnlaget blei lagt +u(med andre ord) 
+                                 # for bokføringa %l
+
+trondheim_uib_3001               %l +l ja d ær muli de
+
+trondheim_uib_3001_orthography   %l +l ja det er mogleg det
+
+trondheim_uib_3001               næi pappa va jo velldi årrd'nsmann ja de va jo 
+                                 mamma å får så itt menn pappa va velldi # 
+                                 årrntli asså de var em +u(så najakkti sånn)
+
+trondheim_uib_3001_orthography   nei pappa var jo veldig ordensmann ja det var 
+                                 jo mamma òg for så vidt men pappa var veldig # 
+                                 ordentleg altså det var em +u(så nøyaktig sånn)
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               menn jei vet ikke omm jæi har de fra de ell no 
+                                 jæ har em fått em att d e blitt tillært de vet 
+                                 jei ikke rikkti de aså menn ee # {informanten 
+                                 kveler eit nys} affal så # ær nå nøtt te de da
+
+trondheim_uib_3001_orthography   men eg veit ikkje om eg har det frå det eller 
+                                 noko eg har em fått em at det er blitt tillært 
+                                 det veit eg ikkje riktig det altså men e # 
+                                 {informanten kveler eit nys} iallfall så # er 
+                                 nå nøydd til det da
+
+int                              er +u no noko som er godt å ha med seg vel ?
+
+int_orthography                  er +u nå noko som er godt å ha med seg vel ?
+
+trondheim_uib_3001               mja
+
+trondheim_uib_3001_orthography   nja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              enn sånn som nå når du ikkje er på jobb +u da 
+                                 har du nokon hobby eller ?
+
+int_orthography                  enn sånn som nå når du ikkje er på jobb +u da 
+                                 har du nokon hobby eller ?
+
+trondheim_uib_3001               næi jei leser velldi mye
+
+trondheim_uib_3001_orthography   nei eg les veldig mykje
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               e leser allt muli fakktisk # +u leser mest ee 
+                                 # elldre litratur
+
+trondheim_uib_3001_orthography   eg les alt mogleg faktisk # +u les mest e # 
+                                 eldre litteratur
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               +u sånn såmm em # ja gammel litratur da 
+                                 fakktis fra # gresk myt'lågi å sånne tinng ja
+
+trondheim_uib_3001_orthography   +u sånn som em # ja gammal litteratur da 
+                                 faktisk frå # gresk mytologi og sånne ting ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så e +u leser fåresst'n allt muli # såmm jæ 
+                                 kåmmer åver
+
+trondheim_uib_3001_orthography   så eg +u les forresten alt mogleg # som eg 
+                                 kjem over
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               menn em ellesj så blir de i grunn ikk så 
+                                 velldi fårr enn em # enn +u e # gannske 
+                                 sjlit'n narr emm kåmmer jemm åmm dagene aså
+
+trondheim_uib_3001_orthography   men em elles så blir det i grunnen ikkje så 
+                                 veldig for ein em # ein +u er # ganske sliten 
+                                 når ein kjem heim om dagane altså
+
+trondheim_uib_3001               så de blir ee likksåm ikke nå sånn # g- går 
+                                 velldi lite ut fårr e att jæi em æ kke så sæli 
+                                 fårr å ut # gå ut i mørrke # nå j æ alene næi
+
+trondheim_uib_3001_orthography   så det blir e liksom ikkje noko sånn # g- går 
+                                 veldig lite ut for det at eg em er ikke så 
+                                 særleg for å ut # gå ut i mørket # når eg er 
+                                 aleine nei
+
+int                              m
+
+int_orthography                  m
+
+int                              nei
+
+int_orthography                  nei
+
+trondheim_uib_3001               menn nå hålle jæ på +u jæ ska lær å kjøre bil 
+                                 så da # håpe jæ kåmme mæi litt …
+
+trondheim_uib_3001_orthography   men nå held eg på +u eg skal lære å køyre bil 
+                                 så da # håper eg kjem meg litt …
+
+int                              har du bil %u som står eller ?
+
+int_orthography                  har du bil %u som står eller ?
+
+trondheim_uib_3001               jei har # jæ har byttet inn bil'n assa vi si 
+                                 jæ ha- vi hadde bil da menn je har em # denn 
+                                 har jei asså sållt fåreløbi da
+
+trondheim_uib_3001_orthography   eg har # eg har bytt inn bilen altså vil seie 
+                                 eg ha- vi hadde bil da men eg har em # den har 
+                                 eg altså selt foreløpig da
+
+int                              m
+
+int_orthography                  m
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               menn e ska nå # annskaffe mæ +u en bil da nå 
+                                 jæ føssjt får
+
+trondheim_uib_3001_orthography   men eg skal nå # +x_anskaffe meg +u ein bil da 
+                                 når eg først får
+
+trondheim_uib_3001               mn de tar jo litt tid +u(jæ ha jo) ke så my 
+                                 tid te å ta de heller så
+
+trondheim_uib_3001_orthography   men det tar jo litt tid +u(eg har jo) ikkje så 
+                                 mykje tid til å ta det heller så
+
+int                              +u(det er du allereie i gang) %u
+
+int_orthography                  +u(det er du allereie i gang) %u
+
+trondheim_uib_3001               jæ må jo ta de i løpe a dagen da
+
+trondheim_uib_3001_orthography   eg må jo ta det i løpet av dagen da
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               å de tar jo litt tid # så
+
+trondheim_uib_3001_orthography   og det tar jo litt tid # så
+
+trondheim_uib_3001               vi får nå se
+
+trondheim_uib_3001_orthography   vi får nå sjå
+
+int                              +u(er du mørkeredd da eller) ?
+
+int_orthography                  +u(er du mørkeredd da eller) ?
+
+trondheim_uib_3001               de æ ja +u(de ær) asså jei em %s kvir m fårr å 
+                                 fårr å gå ut asså nårr e æ så vitt mørrt nå å 
+                                 sæli nå n byn'r å høre sånne tinng sm de hær 
+                                 sm sjer
+
+trondheim_uib_3001_orthography   det er ja +u(det er) altså eg em %s kvir meg 
+                                 for å for å gå ut altså når det er så vidt 
+                                 mørkt nå og særleg når ein begynner å høyre 
+                                 sånne ting som det her som skjer
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               så æ ke jæ no %u
+
+trondheim_uib_3001_orthography   så er ikkje eg noko %u
+
+int                              det +u fleire som er redde for å å gå ut om 
+                                 kveldane og held seg inne # det er visst %u
+
+int_orthography                  det +u fleire som er redde for å å gå ut om 
+                                 kveldane og held seg inne # det er visst %u
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               næi # d æ ke de
+
+trondheim_uib_3001_orthography   nei # det er ikkje det
+
+int                              så du les mykje har du +u mykje bøker sjølv ? 
+                                 låner du på biblioteket eller ?
+
+int_orthography                  så du les mykje har du +u mykje bøker sjølv ? 
+                                 låner du på biblioteket eller ?
+
+trondheim_uib_3001               så
+
+trondheim_uib_3001_orthography   så
+
+trondheim_uib_3001               ja velldi my # æ har velldi my bøker
+
+trondheim_uib_3001_orthography   ja veldig mykje # eg har veldig mykje bøker
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               å ja jæ har n hel vegg he ba- bak hær %l %q
+
+trondheim_uib_3001_orthography   å ja eg har ein heil vegg her ba- bak her %l %q
+
+trondheim_uib_3001               så je har …
+
+trondheim_uib_3001_orthography   så eg har …
+
+int                              har du så at du kan ta igjen bøker du har lese 
+                                 og lese dei opp igjen %u ? mm
+
+int_orthography                  har du så at du kan ta igjen bøker du har lese 
+                                 og lese dei opp igjen %u ? mm
+
+trondheim_uib_3001               ja # jei jør ja jæi de aså
+
+trondheim_uib_3001_orthography   ja # eg gjer ja eg det altså
+
+trondheim_uib_3001               ja ja ja
+
+trondheim_uib_3001_orthography   ja ja ja
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               de jø je ja # em
+
+trondheim_uib_3001_orthography   det gjer eg ja # em
+
+trondheim_uib_3001               så de blir jo likksåm de å så +u(v- ær) de 
+                                 kann de jo vær tinng sånnt på # fjærnsyne såmm 
+                                 jæ synns æ intresanngt da å se # såmm
+
+trondheim_uib_3001_orthography   så det blir jo liksom det og så +u(v- er) det 
+                                 kan det jo vere ting sånt på # fjernsynet som 
+                                 eg synest er interessant da å sjå # som
+
+trondheim_uib_3001               å da går nå i grunnj kvellne da de blir jo 
+                                 no'n lannge kveller de jør de jo menn ee
+
+trondheim_uib_3001_orthography   og da går nå i grunnen kveldane da det blir jo 
+                                 nokon lange kveldar det gjer det jo men e
+
+int                              mhm
+
+int_orthography                  mhm
+
+int                              +u(men så) viss du reiser mykje og sånt òg %u
+
+int_orthography                  +u(men så) viss du reiser mykje og sånt òg %u
+
+trondheim_uib_3001               ja da jei +u reiser jo litt je +u har jo # +u 
+                                 å je kåmm jo jemm da e mitt'n a septemmber da 
+                                 så +u(var vi) nå på Røros +u denn ene hellgen 
+                                 reisste freda å # kåmm jemm sønndag
+
+trondheim_uib_3001_orthography   ja da eg +u reiser jo litt eg +u har jo # +u 
+                                 og eg kom jo heime da i midten av september da 
+                                 så +u(var vi) nå på Røros +u den eine helga 
+                                 reiste fredag og # kom heim søndag
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               så em
+
+trondheim_uib_3001_orthography   så em
+
+trondheim_uib_3001               menn ee alle har jo så # har de jo så travelt 
+                                 me sæ sell sånn att de bl- # sell åmm en har 
+                                 en del familie asså så blir de ikke så sæli # 
+                                 de blir ikke …
+
+trondheim_uib_3001_orthography   men e alle har jo så # har det jo så travelt 
+                                 med seg sjølv sånn at det bl- # sjølv om ein 
+                                 har ein del familie altså så blir det ikkje så 
+                                 særleg # det blir ikkje …
+
+int                              +u m
+
+int_orthography                  +u m
+
+int                              m
+
+int_orthography                  m
+
+int                              kjenner på det der sjølv # det skal vere 
+                                 sikkert
+
+int_orthography                  kjenner på det der sjølv # det skal vere 
+                                 sikkert
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               næi de ær ee
+
+trondheim_uib_3001_orthography   nei det er e
+
+int                              du har du tenkt sjølv noko over det med 
+                                 trondheimsidalekten og # har du gjort deg 
+                                 nokon tankar om dialekt ?
+
+int_orthography                  du har du tenkt sjølv noko over det med 
+                                 trondheimsidalekten og # har du gjort deg 
+                                 nokon tankar om dialekt ?
+
+trondheim_uib_3001               ja de +u har jæi jæ vet ikke jæi ee vi ble jo 
+                                 em vi ble jo rettet på allt vi da n vi va små 
+                                 # m- a værrt ett or
+
+trondheim_uib_3001_orthography   ja det +u har eg eg veit ikkje eg e vi blei jo 
+                                 em vi blei jo retta på alt vi da når vi var 
+                                 små # m- da kvart eit ord
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               «de heter sånn å sånn»
+
+trondheim_uib_3001_orthography   «det heiter sånn og sånn»
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               å så de # n- menn nå ha jo går jo jei sammen 
+                                 me en # såmm ikke snakker helt sånn så jei ha 
+                                 jo lakkt mæi till litte granne sånn # ee ja
+
+trondheim_uib_3001_orthography   og så det # n- men nå har jo går jo eg saman 
+                                 med ein # som ikkje snakkar heilt sånn som eg 
+                                 har jo lagt meg til lite grann sånn # e ja
+
+trondheim_uib_3001               e har jo em s- ee sn att n snakker ikke helt # 
+                                 korekkt eengkli ikke sånn sm enn # bl- ble 
+                                 åpplært allsa
+
+trondheim_uib_3001_orthography   eg har jo em s- e sånn at han snakkar ikkje 
+                                 heilt # korrekt eigentleg ikkje sånn som ein # 
+                                 bl- blei opplært altså
+
+int                              nei # men e foreldra dine var dei frå 
+                                 Trondheim eller %u ?
+
+int_orthography                  nei # men e foreldra dine var dei frå 
+                                 Trondheim eller %u ?
+
+trondheim_uib_3001               ee ja
+
+trondheim_uib_3001_orthography   e ja
+
+int                              begge to ?
+
+int_orthography                  begge to ?
+
+trondheim_uib_3001               +u(va fa trånn-) ja
+
+trondheim_uib_3001_orthography   +u(var frå trånn-) ja
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               e vi si att ee # pappa hann kåmm jo te byn da 
+                                 hann va fjorrt'n år me hann va jo hær helt te 
+                                 +u ann va # hann døde +u i ann va ått å åtti så
+
+trondheim_uib_3001_orthography   eg vil seie at e # pappa han kom jo til byen 
+                                 da han var fjorten år men han var jo her heilt 
+                                 til +u han var # han døydde +u i han var åtte 
+                                 og åtti så
+
+int                              m
+
+int_orthography                  m
+
+int                              kor kom han ifrå han da ?
+
+int_orthography                  kor kom han ifrå han da ?
+
+trondheim_uib_3001               hann kåmm fra Sellbu hann
+
+trondheim_uib_3001_orthography   han kom frå Selbu han
+
+int                              jaha
+
+int_orthography                  jaha
+
+trondheim_uib_3001               menn em # hann ee ær eengkli ikke fra Sellbu 
+                                 hann heller allsa va f- # +u ha ær eengkli fra 
+                                 Rørås
+
+trondheim_uib_3001_orthography   men em # han e er eigentleg ikkje frå Sellbu 
+                                 han heller altså var f- # +u han er eigentleg 
+                                 frå Røros
+
+int                              +u nehei ?
+
+int_orthography                  +u nehei ?
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               menn em …
+
+trondheim_uib_3001_orthography   men em …
+
+int                              men det hang ikkje igjen noko ifrå 
+                                 rørosdialekten eller selbumålet da ?
+
+int_orthography                  men det hang ikkje igjen noko ifrå 
+                                 rørosdialekten eller selbumålet da ?
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               næi # inngentinng
+
+trondheim_uib_3001_orthography   nei # ingenting
+
+int                              ikkje det nei
+
+int_orthography                  ikkje det nei
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+int                              menn e var han blitt retta på trur du ? # av 
+                                 sin … # nei ?
+
+int_orthography                  men e var han blitt retta på trur du ? # av 
+                                 sin … # nei ?
+
+trondheim_uib_3001               de vet jæi fakktis ikke få jæi ha alldri 
+                                 kjennt ee # jæ har alldri kjennt ee # nå 
+                                 besstefar elle besstemor på hanns side aså
+
+trondheim_uib_3001_orthography   det veit eg faktisk ikkje for eg har aldri 
+                                 kjent e # eg har aldri kjent e # nokon 
+                                 bestefar eller bestemor på hans side altså
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+trondheim_uib_3001               menn hann hadde ann hadde enn bror hær i byn å 
+                                 di snakket akk- likedann asa # snakket +u(så-) 
+                                 helt sånn # såmm vi sier rikksmål da
+
+trondheim_uib_3001_orthography   men han hadde han hadde ein bror her i byen og 
+                                 dei snakka akk- +x_likedan altså # snakka 
+                                 +u(så-) heilt sånn # som vi seier riksmål da
+
+int                              riksmål ja # ja
+
+int_orthography                  riksmål ja # ja
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              akkurat
+
+int_orthography                  akkurat
+
+int                              kor var han vaksen opp i # på same stad han da 
+                                 eller ? # %u ja ?
+
+int_orthography                  kor var han vaksen opp i # på same stad han da 
+                                 eller ? # %u ja ?
+
+trondheim_uib_3001               hann vokks hann næi hann em bodde pi # %q % ee 
+                                 ja neve Fagelia
+
+trondheim_uib_3001_orthography   han voks han nei han em budde oppi # %q % e ja 
+                                 nedved Fagerlia
+
+trondheim_uib_3001               ee va de heter da ?
+
+trondheim_uib_3001_orthography   e kva det heiter da ?
+
+trondheim_uib_3001               +u(vi k-) kåmmer denn ommkjør- denn ee # veien 
+                                 dær
+
+trondheim_uib_3001_orthography   +u(vi k-) kjem den ommkjør- den e # vegen der
+
+int                              ja oppover …
+
+int_orthography                  ja oppover …
+
+int                              ja eg veit %u
+
+int_orthography                  ja eg veit %u
+
+trondheim_uib_3001               ja i Vesståpfarrt'n aså # em en a di hus'ne 
+                                 oppi dær alså
+
+trondheim_uib_3001_orthography   ja i Vesstoppfarten altså # em eit av dei husa 
+                                 oppi der altså
+
+int                              ja da
+
+int_orthography                  ja da
+
+int                              mm mm
+
+int_orthography                  mm mm
+
+int                              så han gjekk på Ila skole ?
+
+int_orthography                  så han gjekk på Ila skole ?
+
+trondheim_uib_3001               ee v- e tror ikke hann jikk på skol'n hær æ 
+                                 tro ann va færrdi nå ann kåmm ti byn hær
+
+trondheim_uib_3001_orthography   e v- eg trur ikkje han gjekk på skolen her eg 
+                                 trur han var ferdig når han kom til byen her
+
+int                              å ja
+
+int_orthography                  å ja
+
+trondheim_uib_3001               menn ann tok asså em # midd'lskol'n på ett år 
+                                 # vet jæi # a hann va gann- velldi skarrp asså
+
+trondheim_uib_3001_orthography   men han tok altså em # middelskolen på eitt år 
+                                 # veit eg # ja han var gann- veldig skarp altså
+
+int                              mm
+
+int_orthography                  mm
+
+int                              +u ja # ja
+
+int_orthography                  +u ja # ja
+
+trondheim_uib_3001               hann s- va helt fantasstisk både i språg å
+
+trondheim_uib_3001_orthography   han s- var heilt fantastisk både i språk og
+
+trondheim_uib_3001               så de æ en mann såmm jæ virrk'li s- ha sett 
+                                 opp +l(till hele live) aså fårr hann var # %q 
+                                 helt fantasstisk
+
+trondheim_uib_3001_orthography   så det er ein mann som eg verkeleg s- har sett 
+                                 opp +l(til heile livet) altså for han var # %q 
+                                 heilt fantastisk
+
+int                              ja
+
+int_orthography                  ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så
+
+trondheim_uib_3001_orthography   så
+
+int                              menn em mora di var frå Trondheim ?
+
+int_orthography                  men em mora di var frå Trondheim ?
+
+trondheim_uib_3001               hunn va +u fra Trånneim ja # mm
+
+trondheim_uib_3001_orthography   ho var +u frå Trondheim ja # mm
+
+int                              så det b- # så det blei snakka korrekt riksmål 
+                                 da +u(i heimen) ?
+
+int_orthography                  så det b- # så det blei snakka korrekt riksmål 
+                                 da +u(i heimen) ?
+
+trondheim_uib_3001               hunn ha bodd hær hele tid'n
+
+trondheim_uib_3001_orthography   ho har budd her heile tida
+
+trondheim_uib_3001               ja # ja
+
+trondheim_uib_3001_orthography   ja # ja
+
+int                              var det me- i berre me- # foreldra dine 
+                                 imellom òg ?
+
+int_orthography                  var det me- i berre me- # foreldra dine 
+                                 imellom òg ?
+
+trondheim_uib_3001               ja ja ja
+
+trondheim_uib_3001_orthography   ja ja ja
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               alltid
+
+trondheim_uib_3001_orthography   alltid
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               menn enn venner sei jå litt sjlenndrian sånn 
+                                 nårr enn likksåm # ja
+
+trondheim_uib_3001_orthography   men ein venner seg jo litt slendrian sånn når 
+                                 ein liksom # ja
+
+int                              men du veit at e i Trondheim her så det 
+                                 snakkast jo # det snakkast +u(svært 
+                                 forskjellig da)
+
+int_orthography                  men du veit at e i Trondheim her så det 
+                                 snakkast jo # det snakkast +u(svært 
+                                 forskjellig da)
+
+trondheim_uib_3001               snakkes fåsjelli ja jæ ser jo fr eksemmpel ee 
+                                 # jæ ha jo en sønn å jæ ser jo hann ee # hann 
+                                 snakket jo ee ja snakket jo såmm mei da # såmm 
+                                 lit'n menn hann ha jo lakkt sæi till ett aant 
+                                 språg
+
+trondheim_uib_3001_orthography   snakkast forskjellige ja eg ser jo for 
+                                 eksempel e # eg har jo ein son og eg ser jo 
+                                 han e # han snakka jo e ja snakka jo som meg 
+                                 da # som liten men han har jo lagt seg til eit 
+                                 anna språk
+
+int                              mm mm
+
+int_orthography                  mm mm
+
+trondheim_uib_3001               fårr hann ha jo værrt så velli ivri # i # 
+                                 poletikken å
+
+trondheim_uib_3001_orthography   for han har jo vore så veldig ivrig # i # 
+                                 politikken og
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               å ann sa «visst jæ ska kåmme fremm viss jæ ska 
+                                 hø-» ee «vinne fremm så må je» # «må je snakke 
+                                 samme språg såmm demm e snakke me»
+
+trondheim_uib_3001_orthography   og han sa «viss eg skal kommme fram viss eg 
+                                 skal hø-» e «vinne fram så må eg» # «må eg 
+                                 snakke same språk som dei eg snakkar med»
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               så hann em
+
+trondheim_uib_3001_orthography   så han em
+
+int                              ja ja men det er jo # det kan jo vere sant
+
+int_orthography                  ja ja men det er jo # det kan jo vere sant
+
+trondheim_uib_3001               ja # så hann kann ee hann kann sjiffte litt 
+                                 hann allså
+
+trondheim_uib_3001_orthography   ja # så han kan e han kan skifte litt han altså
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               +u må snakke litt sånn du vet allt etter vemm 
+                                 mann snakke me
+
+trondheim_uib_3001_orthography   +u må snakke litt sånn du veit alt etter kven 
+                                 ein snakkar med
+
+int                              jaha
+
+int_orthography                  jaha
+
+int                              ja # nei fordi at e eg er jo vaksen opp på ein 
+                                 heilt annan kant av byen +u for eg har jo 
+                                 vakse opp på Lademoen og gjekk på Lademoen 
+                                 skole # i sju år og # har aldri blitt retta på
+
+int_orthography                  ja # nei fordi at e eg er jo vaksen opp på ein 
+                                 heilt annan kant av byen +u for eg har jo 
+                                 vakse opp på Lademoen og gjekk på Lademoen 
+                                 skole # i sju år og # har aldri blitt retta på
+
+trondheim_uib_3001               jaha
+
+trondheim_uib_3001_orthography   jaha
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               næi da de ær ee…
+
+trondheim_uib_3001_orthography   nei da det er ee…
+
+int                              og har alltid snakka sånn # som eg gjer nå
+
+int_orthography                  og har alltid snakka sånn # som eg gjer nå
+
+trondheim_uib_3001               mm
+
+trondheim_uib_3001_orthography   mm
+
+int                              men det er jo litt artig # eg var og intervjua 
+                                 ein kar her nyleg som var vaksen opp på 
+                                 Bakklandet # og han kunne fortelje at e dei 
+                                 syntest og han var over seksti år # at e vi 
+                                 frå Lademoen vi snakka jo heilt annleis enn 
+                                 dei på Bakklandet
+
+int_orthography                  men det er jo litt artig # eg var og intervjua 
+                                 ein kar her nyleg som var vaksen opp på 
+                                 Bakklandet # og han kunne fortelje at e dei 
+                                 syntest og han var over seksti år # at e vi 
+                                 frå Lademoen vi snakka jo heilt annleis ein 
+                                 dei på Bakklandet
+
+trondheim_uib_3001               mm
+
+trondheim_uib_3001_orthography   mm
+
+trondheim_uib_3001               m
+
+trondheim_uib_3001_orthography   m
+
+int                              og det har eg aldri tenkt over før men det har 
+                                 %u
+
+int_orthography                  og det har eg aldri tenkt over før men det har 
+                                 %u
+
+trondheim_uib_3001               jæi har jæi hører ikke denn fåssjell'n jæi 
+                                 allså
+
+trondheim_uib_3001_orthography   eg har eg høyrer ikkje den forskjellen eg altså
+
+int                              +u nei # den har ikkje eg heller høyrt
+
+int_orthography                  +u nei # den har ikkje eg heller høyrt
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               menn de kann jo være att denn så snakker 
+                                 språge hører de bedre e vet ikke ee
+
+trondheim_uib_3001_orthography   men det kan jo vere at den som snakkar språket 
+                                 høyrer det betre eg veit ikkje e
+
+int                              +u(mm ja)
+
+int_orthography                  +u(mm ja)
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               menn nå ær +u de jo de # em kann jo være de 
+                                 att pappa hann va jo så vitt gammel hann va jo 
+                                 # hann va jo vell enn femmt'n-seis'n år elldre 
+                                 enn mamma så hann # hann va jo ennda # fra en 
+                                 ennda ee gammlere skole nær sakkt
+
+trondheim_uib_3001_orthography   men nå er +u det jo det # em kan jo vere det 
+                                 at pappa han var jo så vidt gammal han var jo 
+                                 # han var jo vel ein femten-seksten år eldre 
+                                 enn mamma så han # han var jo enda # frå ein 
+                                 enda e eldre skole nær sagt
+
+int                              mm mm
+
+int_orthography                  mm mm
+
+trondheim_uib_3001               så +u att de kann jo være e vet ikke jæi menn 
+                                 em
+
+trondheim_uib_3001_orthography   så +u at det kan jo vere eg veit ikkje eg men 
+                                 em
+
+int                              men når du gjekk på skolen på på Singsaker # 
+                                 +u korleis var det sånn språkleg i klassen da 
+                                 var det … ?
+
+int_orthography                  men når du gjekk på skolen på på Singsaker # 
+                                 +u korleis var det sånn språkleg i klassen da 
+                                 var det … ?
+
+trondheim_uib_3001               næi vi snakket i grunn'n ja de var vell litt 
+                                 fåsjelli menn
+
+trondheim_uib_3001_orthography   nei vi snakka i grunnen ja det var vel litt 
+                                 forskjellig men
+
+int                              %u forskjellig ?
+
+int_orthography                  %u forskjellig ?
+
+trondheim_uib_3001               ja de var vell litt fåsjelli de tror jæ menn # 
+                                 jæ vet ikke rikkti de ble jo sånnt på enn v- 
+                                 på enn fållkeskole så blir e sånnt denn såmm 
+                                 var # hadde karrnsje besste karakterer var 
+                                 messt sammen
+
+trondheim_uib_3001_orthography   ja det var vel litt forskjellig det trur eg 
+                                 men # eg veit ikkje riktig det blei jo sånn på 
+                                 ein v- på ein folkeskole så blir det sånn den 
+                                 som var # hadde kanskje beste karakterar var 
+                                 mest saman
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               å de var i +u grunn'n såne såmm snakket såmm 
+                                 mei aså fakktisk ha jei inntryk av
+
+trondheim_uib_3001_orthography   og det var i +u grunnen sånne som snakka som 
+                                 meg altså faktisk har eg inntrykk av
+
+int                              seier du det så det det var liksom samanheng 
+                                 mellom skoleflinkheit og språk %u ?
+
+int_orthography                  seier du det så det det var liksom samanheng 
+                                 mellom skoleflinkheit og språk %u ?
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               ja de vill e …
+
+trondheim_uib_3001_orthography   ja det vil eg …
+
+trondheim_uib_3001               ja ja de vill je ee ja # de vill jæ være # 
+                                 mene aså
+
+trondheim_uib_3001_orthography   ja ja det vil eg e ja # det vil eg vere # 
+                                 meine altså
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               når likksåm de dabbet jo litt av ette værrt 
+                                 menn ee fållkeskol'n da var vi jo ivrie å vi # 
+                                 ja
+
+trondheim_uib_3001_orthography   når liksom det dabba jo litt av etter kvart 
+                                 men e folkeskolen da var vi jo ivrige og vi # 
+                                 ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              men kva trur du det kom av ? av meiner du at 
+                                 dei som hadde da ein annan dialekt hadde ein 
+                                 annan IQ e # intelligenskoeffisient eller var 
+                                 det ?
+
+int_orthography                  men kva trur du det kom av ? av meiner du at 
+                                 dei som hadde da ein annan dialekt hadde ein 
+                                 annan IQ e # intelligenskoeffisient eller var 
+                                 det ?
+
+trondheim_uib_3001               ja næi # jæ vet ikke rikkti jæ vet ikke va jæ 
+                                 ska si åmm de jæ menn ee
+
+trondheim_uib_3001_orthography   ja nei # eg veit ikkje riktig eg veit ikkje 
+                                 kva eg skal seie om det eg men e
+
+trondheim_uib_3001               du vet +u de atte de var em # ee de var ee 
+                                 litt fåsjelli # em %s # ja
+
+trondheim_uib_3001_orthography   du veit +u det at det var em # e det var e 
+                                 litt forskjellig # em %s # ja
+
+trondheim_uib_3001               inntekkt'n var jo # fåsjelli hoss di fåsjellie 
+                                 dær demm kunne jå være helt sånn å de kunne jå 
+                                 være
+
+trondheim_uib_3001_orthography   inntekta var jo # forskjellig hos dei 
+                                 forskjellige der dei kunne jo vere heilt sånn 
+                                 og det kunne jo vere
+
+trondheim_uib_3001               de var jo større fåssjel denn ganngen enn d ær 
+                                 i dag fakktisk
+
+trondheim_uib_3001_orthography   det var jo større forskjell den gongen enn det 
+                                 er i dag faktisk
+
+int                              kunne det vere at … ?
+
+int_orthography                  kunne det vere at … ?
+
+trondheim_uib_3001               å barn av ee # av ee di såmm hadde go 
+                                 utdann'nse ennj ganngen var flinngke barn allså
+
+trondheim_uib_3001_orthography   og barn av e # av e dei som hadde god 
+                                 +x_utdannelse den gongen var flinke barn altså
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               menn ee # i dag ha +u(jæ jo) inntrykk av att 
+                                 ee de ær mere utjevvnet aså i d hele tatt
+
+trondheim_uib_3001_orthography   men e # i dag har +u(eg jo) inntrykk av at e 
+                                 det er meir utjamna altså i det heile tatt
+
+trondheim_uib_3001               iallefall i denn min klasse så var de sånn att 
+                                 ee # att de var velldi stor fåssjel asså
+
+trondheim_uib_3001_orthography   iallfall i den min klasse så var det sånn at e 
+                                 # at det var veldig stor forskjell altså
+
+int                              m
+
+int_orthography                  m
+
+int                              det kunne jo vere at det kanskje var lite 
+                                 grann press ovanifrå på # å vere flink òg da ? 
+                                 # %u og sånn
+
+int_orthography                  det kunne jo vere at det kanskje var lite 
+                                 grann press ovanifrå på # å vere flink òg da ? 
+                                 # %u og sånn
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               ja de va jæi tror att n
+
+trondheim_uib_3001_orthography   ja det var eg trur at ein
+
+trondheim_uib_3001               ja de var de jo hoss åss var de jo de fårr vi 
+                                 var jo så vitt mannge vi å vi # vi ee vi 
+                                 snakket jo skole å vi vi fu- vi fullte jå me 
+                                 vi fullt jå me di elldre
+
+trondheim_uib_3001_orthography   ja det var det jo hos oss var det jo det for 
+                                 vi var jo så vidt mange vi og vi # vi e vi 
+                                 snakka jo skole og vi vi fu- vi følgde jo med 
+                                 vi følgde jo med dei eldre
+
+int                              m
+
+int_orthography                  m
+
+trondheim_uib_3001               så vi vi vi kunne jo velldi mye nå vi v- 
+                                 startet på skol'n egentli # så vi hadde lært 
+                                 da a di sm va elldre da
+
+trondheim_uib_3001_orthography   så vi vi vi kunne jo veldig mykje når vi v- 
+                                 starta på skolen eigentleg # så vi hadde lært 
+                                 da av dei som var eldre da
+
+int                              +u(å ja)
+
+int_orthography                  +u(å ja)
+
+int                              +u akkurat
+
+int_orthography                  +u akkurat
+
+int                              du ? det var den tida som spring frå meg igjen 
+                                 # %u først gjer nå
+
+int_orthography                  du ? det var den tida som spring frå meg igjen 
+                                 # %u først gjer nå
+
+trondheim_uib_3001               ja de f- …
+
+trondheim_uib_3001_orthography   ja det f- …
+
+int                              {ordliste}
+
+int_orthography                  {ordliste}
+
+int                              reagerer du på at eg seier «du» ?
+
+int_orthography                  reagerer du på at eg seier «du» ?
+
+trondheim_uib_3001               næi da næi de sier jo ness'n allt fållk nå 
+                                 fårr tid'n så de
+
+trondheim_uib_3001_orthography   nei da nei det seier jo nesten alt folk nå for 
+                                 tida så det
+
+int                              ja # gjer du det sjølv ?
+
+int_orthography                  ja # gjer du det sjølv ?
+
+trondheim_uib_3001               næi jæ jør i grun'n ikke så # ikke s- e har 
+                                 ikke så lett fårr de næi
+
+trondheim_uib_3001_orthography   nei eg gjer i grunnen ikkje så # ikkje s- eg 
+                                 har ikkje så lett for det nei
+
+int                              nei
+
+int_orthography                  nei
+
+trondheim_uib_3001               menn de ær jo så att ee # på ee neppå de 
+                                 kåntore dær så sier jo # ær jo vi dis +u(dær 
+                                 min) sjef å # sånn så att de æ jå …
+
+trondheim_uib_3001_orthography   men det er jo så at e # på e nedpå det 
+                                 kontoret der så seier jo # er jo vi dis +u(der 
+                                 min) sjef og # sånn så at det er jo …
+
+int                              sjølv etter fem og tjue år ?
+
+int_orthography                  sjølv etter fem og tjue år ?
+
+trondheim_uib_3001               ja ja ja
+
+trondheim_uib_3001_orthography   ja ja ja
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               å de finner jei de synes jei e helt ålrait de 
+                                 +u allså
+
+trondheim_uib_3001_orthography   og det finn eg det synest eg er heilt ålreit 
+                                 det +u altså
+
+int                              jaha ?
+
+int_orthography                  jaha ?
+
+trondheim_uib_3001               fårr de skall være en lit- n lit'n sånn 
+                                 avstann allså
+
+trondheim_uib_3001_orthography   for det skal vere ein lit- ein liten sånn 
+                                 avstand altså
+
+int                              ja
+
+int_orthography                  ja
+
+int                              men er det noko for eksempel til yngre folk i 
+                                 firmaet da og nye folk og sånt da er du ? # 
+                                 går du for «De» eller «du» %u ?
+
+int_orthography                  men er det noko for eksempel til yngre folk i 
+                                 firmaet da og nye folk og sånt da er du ? # 
+                                 går du for «De» eller «du» %u ?
+
+trondheim_uib_3001               ja viss di sier «du» ti mei så sier jæi «du» 
+                                 ijenn allså
+
+trondheim_uib_3001_orthography   ja viss dei seier «du» til meg så seier eg 
+                                 «du» igjen altså
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               menn je starter alldri me å si «du» jæ allsa
+
+trondheim_uib_3001_orthography   men eg starter aldri med å seie «du» eg altså
+
+int                              nehei ?
+
+int_orthography                  nehei ?
+
+trondheim_uib_3001               menn +u(d æi) føller opp da viss att ee viss 
+                                 att nonn +u(viss att di) sier «du» te mæi så
+
+trondheim_uib_3001_orthography   men +u(det eg) følger opp da viss at e viss at 
+                                 nokon +u(viss at dei) seier «du» til meg så
+
+int                              ja vel
+
+int_orthography                  ja vel
+
+int                              +v ja
+
+int_orthography                  +v ja
+
+int                              men du blir ikkje sånn irritert inni deg sjølv 
+                                 for det at du # +u(får du) ?
+
+int_orthography                  men du blir ikkje sånn irritert inni deg sjølv 
+                                 for det at du # +u(får du) ?
+
+trondheim_uib_3001               næi # næi næi de jør jæ kke nei # næi næi næi
+
+trondheim_uib_3001_orthography   nei # nei nei det gjer eg ikkje nei # nei nei 
+                                 nei
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+int                              {ordliste}
+
+int_orthography                  {ordliste}
+
+int                              du når du ser på TV ein del som du seier eller 
+                                 kanskje høyrer på radio korleis reagerer du 
+                                 viss du da får høyre e # den typiske 
+                                 trondheimsdialekten da sånn som vi snakkar på 
+                                 Lademoen +u(kva seier du viss) … ?
+
+int_orthography                  du når du ser på TV ein del som du seier eller 
+                                 kanskje høyrer på radio korleis reagerer du 
+                                 viss du da får høyre e # den typiske 
+                                 trondheimsdialekten da sånn som vi snakkar på 
+                                 Lademoen +u(kva seier du viss) … ?
+
+trondheim_uib_3001               jæ synns ikke denn e pen å høre på sånn
+
+trondheim_uib_3001_orthography   eg synest ikkje den er pen å høyre på sånn
+
+int                              nei ?
+
+int_orthography                  nei ?
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               menn jæi reagerer ikke så velldi på de
+
+trondheim_uib_3001_orthography   men eg reagerer ikkje så veldig på det
+
+trondheim_uib_3001               ja jæ går jo samm me en såmm snakker ee # mere 
+                                 sånn trånnjemsdialekkt da +u omm enn ska si jæ 
+                                 vet ikke va en ska s- kalle de helle jæ 
+                                 fåress'n
+
+trondheim_uib_3001_orthography   ja eg går jo saman med ein som snakkar e # 
+                                 meir sånn trondheimsdialekt da +u om ein skal 
+                                 seie eg veit ikkje kva ein skal s- kalle det 
+                                 heller eg forresten
+
+int                              mm
+
+int_orthography                  mm
+
+int                              nei
+
+int_orthography                  nei
+
+trondheim_uib_3001               menn jæi reager ikke på de sånn till dagli ja 
+                                 aså
+
+trondheim_uib_3001_orthography   men eg reagerer ikkje på det sånn til dagleg 
+                                 ja altså
+
+int                              nei
+
+int_orthography                  nei
+
+trondheim_uib_3001               menn +u nå ei +u høer de sånn # i radio sæli # 
+                                 så synns jæ ikke de æ pent asså
+
+trondheim_uib_3001_orthography   men +u når eg +u høyrer det sånn # i radio 
+                                 særleg # så synest eg ikkje det er pent altså
+
+int                              m
+
+int_orthography                  m
+
+int                              lokalradio +u(kva seier du) %u …
+
+int_orthography                  lokalradio +u(kva seier du) %u …
+
+trondheim_uib_3001               næi # næi e +u synns jæi å hunn såmm ee har de 
+                                 dær ee …
+
+trondheim_uib_3001_orthography   nei # nei det +u synest eg og ho som e har det 
+                                 der e …
+
+int                              F1 ?
+
+int_orthography                  F1 ?
+
+trondheim_uib_3001               ja # ja
+
+trondheim_uib_3001_orthography   ja # ja
+
+int                              F1 ?
+
+int_orthography                  F1 ?
+
+trondheim_uib_3001               e syss ikke de høes pent ut +u aså
+
+trondheim_uib_3001_orthography   eg synest ikkje det høyrest pent ut +u altså
+
+int                              mm
+
+int_orthography                  mm
+
+trondheim_uib_3001               da synns jæ d ær bedre å høre de sånn aså # 
+                                 enn å høre de åver
+
+trondheim_uib_3001_orthography   da synest eg det er betre å høyre det sånn 
+                                 altså # enn å høyre det over
+
+int                              +u ja
+
+int_orthography                  +u ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              me- enn på TV da ? %u tenk på M2 å # å M3 ?
+
+int_orthography                  me- enn på TV da ? %u tenk på M2 og # og M3 ?
+
+trondheim_uib_3001               ja hann syne- hann vet jei egentli snakker 
+                                 ikke sånn
+
+trondheim_uib_3001_orthography   ja han syne- han veit eg eigentleg snakkar 
+                                 ikkje sånn
+
+int                              gjer han ikkje det ?
+
+int_orthography                  gjer han ikkje det ?
+
+trondheim_uib_3001               næi næi
+
+trondheim_uib_3001_orthography   nei nei
+
+int                              %u
+
+int_orthography                  %u
+
+trondheim_uib_3001               jæ kjenner hann fra gamm'lt +l næi
+
+trondheim_uib_3001_orthography   eg kjenner han frå gammalt +l nei
+
+int                              ja ?
+
+int_orthography                  ja ?
+
+trondheim_uib_3001               ann jør ikke de # så hann …
+
+trondheim_uib_3001_orthography   han gjer ikkje det # så han …
+
+int                              gjer han ikkje det ?
+
+int_orthography                  gjer han ikkje det ?
+
+trondheim_uib_3001               næi # så hann snakker de på enn ee mere sånn 
+                                 bajjasmaner aså
+
+trondheim_uib_3001_orthography   nei # så han snakkar det på ein e meir sånn 
+                                 bajasmaner altså
+
+int                              +u jaså veit du eg var heilt sikker på at han 
+                                 at det var +u(heilt naturleg) for han
+
+int_orthography                  +u jaså veit du eg var heilt sikker på at han 
+                                 at det var +u(heilt naturleg) for han
+
+trondheim_uib_3001               næi # næi næi næi næi
+
+trondheim_uib_3001_orthography   nei # nei nei nei nei
+
+trondheim_uib_3001               hann snakker ikke sånn
+
+trondheim_uib_3001_orthography   han snakkar ikkje sånn
+
+int                              +u(ikkje det) ?
+
+int_orthography                  +u(ikkje det) ?
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+trondheim_uib_3001               menn hunn snakker sånn
+
+trondheim_uib_3001_orthography   men ho snakkar sånn
+
+int                              ja F1
+
+int_orthography                  ja F1
+
+trondheim_uib_3001               å hunn # de synes jæi ikke ær pent asa
+
+trondheim_uib_3001_orthography   og ho # det synest eg ikkje er pent altså
+
+int                              næhei ?
+
+int_orthography                  nehei ?
+
+trondheim_uib_3001               mn menn en høre jå gått fåssjel'n på di to jæi 
+                                 høer de +l(iallfall velldi gått) # de kann jo 
+                                 væe att jæ vet att hann ikke snakker sånn da 
+                                 +u(de æ jo æ)
+
+trondheim_uib_3001_orthography   men men ein høyrer jo godt forskjellen på dei 
+                                 to eg høyrer det +l(iallfall veldig godt) # 
+                                 det kan jo vere at eg veit at han ikkje 
+                                 snakkar sånn da +u(det er jo er)
+
+int                              ja
+
+int_orthography                  ja
+
+int                              eg har jo høyrt det at han M2 dær når eg sitt 
+                                 og høyrer på han på TV så høyrer eg jo det at 
+                                 han ofte slår over
+
+int_orthography                  eg har jo høyrt det at han M2 der når eg sit 
+                                 og høyrer på han på TV så høyrer eg jo det at 
+                                 han ofte slår over
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              til la oss seie riksmål da
+
+int_orthography                  til la oss seie riksmål da
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              men det trudde eg var ein glepp
+
+int_orthography                  men det trudde eg var ein glipp
+
+trondheim_uib_3001               næi hann æ- ee næi
+
+trondheim_uib_3001_orthography   nei han e- e nei
+
+int                              nei vel
+
+int_orthography                  nei vel
+
+trondheim_uib_3001               hann vill jo ve- jærne være litt fållk'li 
+                                 tenngke jæi jæ vet ikke jæ menn
+
+trondheim_uib_3001_orthography   han vil jo ve- gjerne vere litt folkeleg 
+                                 tenker eg eg veit ikkje eg men
+
+int                              +u(ja da) %u det var jo interessant
+
+int_orthography                  +u(ja da) %u det var jo interessant
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              men viss folk no er la oss seie vaksne opp med 
+                                 den dialekten da
+
+int_orthography                  men viss folk nå er la oss seie vaksne opp med 
+                                 den dialekten da
+
+trondheim_uib_3001               ja da vill di …
+
+trondheim_uib_3001_orthography   ja da vil dei …
+
+int                              +u kjenner jo mange men det er jo mange som 
+                                 likevel slår om ?
+
+int_orthography                  +u kjenner jo mange men det er jo mange som 
+                                 likevel slår om ?
+
+trondheim_uib_3001               ja de synns ikke jæi jæi høer da de de høres 
+                                 litt ee # de virrker ikke normalt allså eller 
+                                 de virrker unormalt asså
+
+trondheim_uib_3001_orthography   ja det synest ikkje eg eg høyrer da det det 
+                                 høyrest litt e # det verkar ikkje normalt 
+                                 altså eller det verkar unormalt altså
+
+int                              ja no er +u(eg veit) ikkje om du om vi snakkar 
+                                 om det same nå men eg meiner nå viss du er 
+                                 vaksen opp med min dialekt
+
+int_orthography                  ja nå er +u(eg veit) ikkje om du om vi snakkar 
+                                 om det same nå men eg meiner nå viss du er 
+                                 vaksen opp med min dialekt
+
+trondheim_uib_3001               ja ?
+
+trondheim_uib_3001_orthography   ja ?
+
+int                              og så går du ut i yrkeslivet eller e # ja same 
+                                 kor og så slår du om
+
+int_orthography                  og så går du ut i yrkeslivet eller e # ja same 
+                                 kor og så slår du om
+
+int                              +u(for eksempel)
+
+int_orthography                  +u(for eksempel)
+
+trondheim_uib_3001               ja # de vill de vill sikkert ikke virrke helt 
+                                 # d virrker litt unormalt de alsa # tro jæi
+
+trondheim_uib_3001_orthography   ja # det vil det vil sikkert ikkje verke heilt 
+                                 # det verkar litt unormalt det altså # trur eg
+
+int                              +u(til sånn) # fintrøndersk som vi seier sånn
+
+int_orthography                  +u(til sånn) # fintrøndersk som vi seier sånn
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               jæ tror ikke em ja de finnes jo mannge såmm 
+                                 kann +u legg åmm ee de tro jæ nåkk menn # e 
+                                 tro kke att de faller helt natuli allsa
+
+trondheim_uib_3001_orthography   eg trur ikkje em ja det finst jo mange som kan 
+                                 +u legge om e det trur eg nok men # eg trur 
+                                 ikkje at det fell heilt naturleg altså
+
+int                              nei # det trur ikkje eg heller
+
+int_orthography                  nei # det trur ikkje eg heller
+
+trondheim_uib_3001               næi
+
+trondheim_uib_3001_orthography   nei
+
+int                              men …
+
+int_orthography                  men …
+
+trondheim_uib_3001               å da tro je hell en ska hålle på de enn ee ær 
+                                 våkkst åpp me asa
+
+trondheim_uib_3001_orthography   og da trur eg heller ein skal halde på det ein 
+                                 e har vakse opp med altså
+
+int                              men e har du nokon har du gjort deg nokon 
+                                 tankar om # grunnen til at folk slår om ?
+
+int_orthography                  men e har du nokon har du gjort deg nokon 
+                                 tankar om # grunnen til at folk slår om ?
+
+trondheim_uib_3001               ja de kann vell være att n synes ee i de 
+                                 miljøe sm enn kåmmer i da karrnsje em de 
+                                 passer bedre me # me ett ant språg jæ vet ikke 
+                                 # egentli
+
+trondheim_uib_3001_orthography   ja det kan vel vere at ein synest e i det 
+                                 miljøet som ein kjem i da kanskje em det 
+                                 passar betre med # med eit anna språk eg veit 
+                                 ikkje # eigentleg
+
+int                              m
+
+int_orthography                  m
+
+int                              nei da det …
+
+int_orthography                  nei da det …
+
+trondheim_uib_3001               menn jæ synns att d e helt årait fållk såmm 
+                                 har ee lært de sånn demm skall ee hålle på de 
+                                 sånn
+
+trondheim_uib_3001_orthography   men eg synest at det er heilt ålreit folk som 
+                                 har e lært det sånn dei skal e halde på det 
+                                 sånn
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               ka snakke sånn mene jæi egentli asså fårr 
+                                 ellesj så virrker de unatuli allså
+
+trondheim_uib_3001_orthography   skal snakke sånn meiner eg eigentleg altså for 
+                                 elles så verkar det unaturleg altså
+
+int                              mm # jo da det gjer det
+
+int_orthography                  mm # jo da det gjer det
+
+int                              det er jo kan jo vere enkelte ord e sjølvsagt 
+                                 som la oss seie du drar # til ein annan 
+                                 landsdel og så kan det bli vanskeleg å # bli 
+                                 forstått # det kan det jo
+
+int_orthography                  det er jo kan jo vere enkelte ord e sjølvsagt 
+                                 som la oss seie du drar # til ein annan 
+                                 landsdel og så kan det bli vanskeleg å # bli 
+                                 forstått # det kan det jo
+
+trondheim_uib_3001               ja att vi ikke får- ja # ja ja # ja ja
+
+trondheim_uib_3001_orthography   ja at vi ikkje får- ja # ja ja # ja ja
+
+int                              da må ein jo byte ut ord +u(det er jo greitt)
+
+int_orthography                  da må ein jo byte ut ord +u(det er jo greitt)
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              em # namnet på byen vår # kva bruker du +u da ?
+
+int_orthography                  em # namnet på byen vår # kva bruker du +u da ?
+
+trondheim_uib_3001               jei sier «Trånnjem» je allså
+
+trondheim_uib_3001_orthography   eg seier «Trånnjem» eg altså
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               de s- …
+
+trondheim_uib_3001_orthography   det s- …
+
+int                              det trur eg dei fleste gjer
+
+int_orthography                  det trur eg dei fleste gjer
+
+trondheim_uib_3001               ja jæi jør de ja # de sell åmm de hete 
+                                 «Trånnheim» så si jæi «Trånnjem» ja
+
+trondheim_uib_3001_orthography   ja eg gjer det ja # det sjølv om det heiter 
+                                 «Trånnheim» så seier eg «Trånnjem» ja
+
+int                              men når du skriv brev for eksempel avsendar 
+                                 til brev ?
+
+int_orthography                  men når du skriv brev for eksempel avsendar 
+                                 til brev ?
+
+trondheim_uib_3001               næi # da skriv jæ «Trånnheim» ja
+
+trondheim_uib_3001_orthography   nei # da skriv eg «Trondheim» ja
+
+int                              ja
+
+int_orthography                  ja
+
+int                              +u akkurat
+
+int_orthography                  +u akkurat
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              det er jo nokon som er så konservative at dei 
+                                 # at dei skriv «Trondhjem» òg
+
+int_orthography                  det er jo nokon som er så konservative at dei 
+                                 # at dei skriv «Trondhjem» òg
+
+trondheim_uib_3001               næi jæ jør ikke de næi # næi
+
+trondheim_uib_3001_orthography   nei eg gjer ikkje det nei # nei
+
+int                              +u nei
+
+int_orthography                  +u nei
+
+trondheim_uib_3001               +u mn de kåmme jo karrnsje av att n # viss n 
+                                 skriver i sånn # fr'rettningsbrev eller sånnt 
+                                 så # må n jo skrive «Trånnheim» +u da
+
+trondheim_uib_3001_orthography   +u men det kjem jo kanskje av at ein # viss 
+                                 ein skriv i sånn # forretningsbrev eller sånt 
+                                 så # må ein jo skrive «Trondheim» +u da
+
+int                              +u m # mm
+
+int_orthography                  +u m # mm
+
+trondheim_uib_3001               +u sånn menn privat så # viss n +u add bare a 
+                                 skrevet brev privat så hadd enn karrnsje # 
+                                 hållt på «Trånnjem» jæi +l(vet ikke rikkti) %u
+
+trondheim_uib_3001_orthography   +u sånn men privat så # viss ein +u hadde 
+                                 berre har skrive brev privat så hadde ein 
+                                 kanskje # halde på «Trondhjem» eg +l(veit 
+                                 ikkje riktig) %u
+
+int                              %l +u(nei eg veit ikkje)
+
+int_orthography                  %l +u(nei eg veit ikkje)
+
+int                              du sei meg på når du driv med sånn bokhalderi 
+                                 er det er det maskinelt det nå ?
+
+int_orthography                  du sei meg på når du driv med sånn bokhalderi 
+                                 er det er det maskinelt det nå ?
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+int                              er ikkje det ganske tungt ?
+
+int_orthography                  er ikkje det ganske tungt ?
+
+trondheim_uib_3001               næi de tasature å i de hel'l tatt de e jå lett 
+                                 menn de ær de blir jo høyre hånn da å de # 
+                                 blir jo litt plager da
+
+trondheim_uib_3001_orthography   nei det tastaturet og i det heile tatt det er 
+                                 jo litt men det er det blir jo høgre hand da 
+                                 og det # blir jo litt plager da
+
+int                              +u ja
+
+int_orthography                  +u ja
+
+trondheim_uib_3001               av å till sånn
+
+trondheim_uib_3001_orthography   av og til sånn
+
+int                              %u du nemnte noko med ryggen i stad +u(eg 
+                                 tenkte) berre på # +u det slo meg berre den 
+                                 tanken at # +u det kanskje hadde %u
+
+int_orthography                  %u du nemnde noko med ryggen i stad +u(eg 
+                                 tenkte) berre på # +u det slo meg berre den 
+                                 tanken at # +u det kanskje hadde %u
+
+trondheim_uib_3001               ja
+
+trondheim_uib_3001_orthography   ja
+
+trondheim_uib_3001               jo da %s
+
+trondheim_uib_3001_orthography   jo da %s
+
+trondheim_uib_3001               jo da jo da de ee de æ klart att av å till så 
+                                 # jæ ha jo tatt litt behanndling på ryggen da
+
+trondheim_uib_3001_orthography   jo da jo da det e det er klart at av og til så 
+                                 # eg har jo tatt litt behandling på ryggen da
+
+int                              ja
+
+int_orthography                  ja
+
+trondheim_uib_3001               nettåp færdi eengkli menn jæ æ ke helt ålræit 
+                                 menn atsjilli bedre %u {slutt på opptak}
+
+trondheim_uib_3001_orthography   nettopp ferdig eigentleg men eg er ikkje heilt 
+                                 ålreit men atskilleg betre %u {slutt på opptak}
+
