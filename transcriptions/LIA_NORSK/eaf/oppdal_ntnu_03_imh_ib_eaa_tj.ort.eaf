@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-08-20T16:28:51+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///X:/LIA/Transkripsjon/Translitterert-ferdig-korrekturlest/oppdal_ntnu_03.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./oppdal_ntnu_03.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:240cf243-6249-48a6-9121-a5575c00b2a4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">80</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8951"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="17256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="27490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="35078"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="46245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="47114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="49785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="50942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="53204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="55392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="60966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="61630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="78778"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="81507"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="92762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="94202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="100313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="101824"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="118180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="118180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="118931"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="120049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="122678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="122916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="126586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="126586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="127869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="128574"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="139119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="139360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="140145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="140689"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="145080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="145382"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="146026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="146866"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="155958"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="156319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="157110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="157157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="161670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="162320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="164694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="164694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="165270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="165343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="166050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="167470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="172350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="172565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="173611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="173611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="178085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="179831"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="182275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="182400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="184530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="185126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="192439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="193340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="194180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="194183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="194848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="195922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="199765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="201456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="202056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="202081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="203439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="203583"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="206516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="206516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="207169"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="imh" DEFAULT_LOCALE="no" LINGUISTIC_TYPE_REF="UtteranceType" PARTICIPANT="oppdal_ntnu_0301" TIER_ID="oppdal_ntnu_0301">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>de va nå i nitt'nsjuåkkjug att åss kjøfft utti dær da # ett sjlåttænng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>å så varrt de nå # så s startta opp me bureising da i nitt'ntoåttræddve</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>va no oppbøggd fjøse da firri donnj ti # va no likksåmm da de # mennj e va no likksåmm da de starrta da # att åss fLøkkt dit førr gått</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>de va nå ittj # rekkti likænns da såmm d e i dag</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ittj va de no vei å # ittj skuLe å ittj buttekk innj nånnj tenng de va no å ganng å bårrå på rygga mæsst a dæ hannj skullj ha # førr å ekksisster a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ittj ha åss nå hæst hellj da føsst åre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>så varrt de nå litte me kvarrt da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>å sia så ha de nå utvekkLass te å # å vårrte levele hær æu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>de komm nå # føst skuLe å så komm de nå butekk å # vei komm de nå nåkkså tile da i grunnj # va veL i nitt'nførrti # att veiinn va færrdibøggd trur e # så de varrt jænnemmganng her</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>så varrt de no # så komm no kriginnj da så de sætt no likksåmm enn stanngnassjon ti ahltj da de varrt no vannskele å få ti bærre kunnstjøssell # frø å # ahlljt mole såmm hannj behøft</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>så de varrt no # så de sto likksåmm stihltj i stennj kannj enn sei</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>å sia ha de no # sia kriginnj sjluttja så ha e no gått forrt frammåer da komm no dissa hær stor kraffti massjinånj så de varrt no ittj nå # de varrt no i grunnj ittj nå å vårrå bureisar lænnger da # nårr annj fekk nå massjinånj te jæra grovarbeie så</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>de va bærre en såmm ha bynndja da firri me å de va hannj M1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>hannj va veL hær enn tri fir år fynnj e komm trur e # å ska tru omm ittj de va i nitt'nåttåkkju hannj starrta opp å varrt her fårr gått e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>så de va nå # berre åss da føsst vinnjtranj uti er</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>sia så komm de nå sjlag i sjlag da fra Rænnjbu vett ny jor da kjøppt nå opp nå eiendomma # s- nåkkså store ommråder hær neppå rænnjbusia hær</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>så da bynntj dæmm nå å kåmmå # dennj en ættje di anndjer da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>å sia så ha de nå vårrte e lite sammfunnj da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>å i dag så æ de no # mannge nåkkså store gara uttpå hær da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>d e no gara somm har # åver kju mjåLLkkjy ialljfallj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>hnæi # truddj ittj e nei</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>mennj ha de nå ittj gått e vei sjlik så ha d n ittj de ha n ittj gått a egg- gått ann å ekksisstert hær i dag vett du fårruttja vei å # å sånnt da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>førr ee # hannj lyt ny hanng på ska n fæLLj mæ no %l</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>d æ enn sju honndjer meter # åver have hær</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="imh" DEFAULT_LOCALE="no" LINGUISTIC_TYPE_REF="orthography" PARENT_REF="oppdal_ntnu_0301" PARTICIPANT="oppdal_ntnu_0301" TIER_ID="oppdal_ntnu_0301_orthography">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>det var nå i nittensjuogtjue at vi kjøpte uti der da # veit slåtteng</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>og så vart det nå # så vi starta opp med bureising da i nittentoogtretti</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>var nå oppbygd fjøset da føre den tid # var nå liksom da det # men det  var nå liksom da det starta da # at vi flytta dit for godt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>det var nå ikkje # riktig likeins da som det er i dag</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>ikkje var det noko veg og # ikkje skole og ikkje butikk eller nokon ting det var nå å gå og bere på ryggen meste av det ein skulle ha # for å eksistere da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>ikkje hadde vi noko hest heller da første året</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>så vart det nå litt med kvart da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>og sidan så har det nå utviklast til å # og vorte leveleg her au</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>det kom nå # først skole og så kom det nå butikk og # veg kom det nå nokså tidleg da i grunnen # var vel i nittenførti # at vegen var ferdigbygd trur eg # så det vart gjennomgang her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>så vart det nå # så kom nå krigen da så det sette nå liksom ein stagnasjon i alt da det vart nå vanskeleg å få til berre kunstgjødsel # frø og # alt mogleg som ein behøvde</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>så det vart nå # så det stod liksom stilt ei stund kan ein seie</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>og sidan har det nå # sidan krigen slutta så har det nå gått fort framover da kom nå desse her store kraftige maskinane så det vart nå ikkje noko # det vart nå i grunnen ikkje noko å vere bureisar lenger da # når ein fekk nå maskinane til gjere grovarbeidet så</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>det var berre ein som hadde begynt da føre meg og det var han M1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>han var vel her ein tre fire år før eg kom trur eg # og skal tru om ikkje det var i nittenåtteogtjue han starta opp og vart her for godt eg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>så det var nå # berre oss da første vintrane uti her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>sidan så kom det nå slag i slag da frå Rennebudu veit Ny jord da kjøpte nå opp nokon eigedommar # s- nokså store område her nedpå rennebusida her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>så da begynte dei nå å komme # den eine etter dei andre da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>og sidan så har det nå vorte eit lite samfunn da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>og i dag så er det nå # mange nokså store gardar utpå her da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>det er nå gardar som har # over tjue mjølkekyr iallfall</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>nei # trudde ikkje eg nei</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>men hadde det nå ikkje gått i veg slik så hadde det nå ikkje det hadde nå ikkje gått an egg- gått an å eksistere her i dag veit du forutan veg og # og sånt da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>for e # han lyt nå henge på skal han følge med nå %l</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>det er ein sju hundre meter # over havet her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="imh" DEFAULT_LOCALE="no" LINGUISTIC_TYPE_REF="UtteranceType" PARTICIPANT="int" TIER_ID="int">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>du var det mange uti her %u</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>nå ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>m</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>m</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>trudde du det da du begynte utpå her ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>nei</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>nei</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>ja %l</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>kor pass høgt er det her da ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="imh" DEFAULT_LOCALE="no" LINGUISTIC_TYPE_REF="orthography" PARENT_REF="int" PARTICIPANT="int" TIER_ID="int_orthography">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>du var det mange uti her %u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>nå ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>m</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>m</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>mm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>trudde du det da du begynte utpå her ?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>nei</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>nei</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>ja %l</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>kor pass høgt er det her da ?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="UtteranceType" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthography" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="NO" LANGUAGE_CODE="no"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

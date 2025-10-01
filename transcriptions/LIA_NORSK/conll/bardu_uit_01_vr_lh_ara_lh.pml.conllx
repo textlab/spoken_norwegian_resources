@@ -1,0 +1,4765 @@
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	nokon	nokon	pron	pron	pers|fl|3|akk	2	SPRED	_	_
+4	som	som	sbu	sbu	_	6	SBU	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+6	hadde	ha	verb	verb	pret	3	ATR	_	_
+7	mange	mang ein	det	det	kvant|fl	6	DOBJ	_	_
+8	av	av	prep	prep	_	7	ADV	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	11	SUBJ	_	_
+11	måtte	måtte	verb	verb	pret	6	ADV	_	_
+12	hive	hive	verb	verb	inf	11	INFV	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	men	men	konj	konj	_	6	KONJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+4	forst-	forst-	ufullst	ufullst	_	6	FYLL	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	har	ha	verb	verb	pres	0	FINV	_	_
+7	høyrt	høyre	verb	verb	perf-part	6	INFV	_	_
+8	liksom	liksom	adv	adv	_	7	ADV	_	_
+9	på	på	prep	prep	_	7	ADV	_	_
+10	når	når	adv	adv	_	12	ADV	_	_
+11	eg	eg	pron	pron	pers|eint|1|nom|hum	12	SUBJ	_	_
+12	var	vere	verb	verb	pret	6	KOORD	_	_
+13	der	der	prep	prep	_	12	SPRED	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	forstod	forstå	verb	verb	pret	12	ADV	_	_
+16	eg	eg	pron	pron	pers|eint|1|nom|hum	15	SUBJ	_	_
+17	slik	slik	adv	adv	_	18	ADV	_	_
+18	at	at	sbu	sbu	_	15	SBU	_	_
+19	dei	dei	pron	pron	pers|fl|3|nom|hum	15	DOBJ	_	_
+20	som	som	sbu	sbu	_	22	SBU	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	saga	sage	verb	verb	pret	19	ATR	_	_
+23	i	i	prep	prep	_	22	ADV	_	_
+24	skogen	skog	subst	subst	appell|eint|mask|bu	23	PUTFYLL	_	_
+25	sånn	sånn	det	det	dem|eint|mask	26	DET	_	_
+26	fast	fast	adj	adj	eint|m/f|ub|pos	22	ADV	_	_
+27	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	at	at	sbu	sbu	_	5	SBU	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	REP	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	5	SUBJ	_	_
+4	brukte	bruke	verb	verb	pret	5	REP	_	_
+5	kunne	kunne	verb	verb	pret	0	FINV	_	_
+6	bruke	bruke	verb	verb	inf	5	INFV	_	_
+7	ei	ein	det	det	kvant|eint|fem	8	DET	_	_
+8	sag	sag	subst	subst	appell|eint|fem|ub	6	DOBJ	_	_
+9	eller	eller	konj	konj	_	10	KONJ	_	_
+10	to	to	det	det	kvant|fl	8	KOORD	_	_
+11	for	for	prep	prep	_	8	ATR	_	_
+12	vinteren	vinter	subst	subst	appell|eint|mask|bu	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	på	på	prep	prep	_	8	ATR	_	_
+15	sesongen	sesong	subst	subst	appell|eint|mask|bu	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	nei	nei	interj	interj	_	1	INTERJ	_	_
+3	men	men	konj	konj	_	1	KONJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	dei	dei	pron	pron	pers|fl|3|nom|hum	2	SUBJ	_	_
+2	seier	seie	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	DOBJ	_	_
+4	dei	dei	pron	pron	pers|fl|3|nom|hum	1	APP	_	_
+5	her	her	prep	prep	_	4	ATR	_	_
+6	proffhoggarane	proffhoggar	subst	subst	appell|bu|fl|mask|samset	5	PUTFYLL	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+9	går	gå	verb	verb	pres	3	APP	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	to	to	det	det	kvant|fl	12	DET	_	_
+12	år	år	subst	subst	appell|fl|nøyt|ub	9	ADV	_	_
+13	på	på	prep	prep	_	9	ADV	_	_
+14	saga	sag	subst	subst	appell|eint|fem|bu	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	mogleg	mogleg	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+5	veit	vite	verb	verb	pres	3	PAR	_	_
+6	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	er	vere	verb	verb	pres	3	KOORD	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	lenge	lenge	adv	adv	pos	13	ADV	_	_
+11	sidan	sidan	adv	adv	_	10	ADV	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	13	SUBJ	_	_
+13	var	vere	verb	verb	pret	8	SPRED	_	_
+14	på	på	prep	prep	_	13	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	men	men	konj	konj	_	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	med	med	prep	prep	_	3	ADV	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	trur	tru	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	har	ha	verb	verb	pres	3	DOBJ	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	meir	mykje	adj	adj	comp	8	ATR	_	_
+8	kvalitet	kvalitet	subst	subst	appell|eint|mask|ub	5	DOBJ	_	_
+9	nå	nå	adv	adv	_	5	ADV	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	må	måtte	verb	verb	pres	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	ettersom	ettersom	sbu	sbu	_	8	SBU	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	8	SUBJ	_	_
+8	steller	stelle	verb	verb	pres	3	SPRED	_	_
+9	dei	dei	pron	pron	pers|fl|3|akk|hum	8	DOBJ	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+4	må	måtte	verb	verb	pres	13	REP	_	_
+5	reinse	reinse	verb	verb	inf	4	INFV	_	_
+6	filte-	filte-	ufullst	ufullst	_	7	FYLL	_	_
+7	altså	altså	adv	adv	_	13	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+10	reinsar	reinse	verb	verb	pres	13	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	du	du	pron	pron	pers|eint|2|nom|hum	13	SUBJ	_	_
+13	må	måtte	verb	verb	pres	0	FINV	_	_
+14	reinse	reinse	verb	verb	inf	13	INFV	_	_
+15	e	e	nol	nol	_	17	FYLL	_	_
+16	f-	f-	ufullst	ufullst	_	17	FYLL	_	_
+17	dei	dei	det	det	dem|fl	19	DET	_	_
+18	der	der	prep	prep	_	17	ADV	_	_
+19	filtera	filter	subst	subst	appell|fl|nøyt|bu	14	DOBJ	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	21	FSUBJ	_	_
+21	er	vere	verb	verb	pres	13	KOORD	_	_
+22	jo	jo	adv	adv	_	21	ADV	_	_
+23	forskjellege	forskjellig	adj	adj	fl|pos	24	ATR	_	_
+24	filter	filter	subst	subst	appell|fl|nøyt|ub	21	SPRED	_	_
+25	på	på	prep	prep	_	24	ATR	_	_
+26	dei	dei	pron	pron	pers|fl|3|akk|hum	25	PUTFYLL	_	_
+27	#	#	pause	pause	_	28	IK	_	_
+28	det	det	pron	pron	pers|eint|nøyt|3	13	SLETT	_	_
+29	bl-	bl-	ufullst	ufullst	_	13	FYLL	_	_
+30	.	$.	clb	clb	<punkt>	13	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	må	måtte	verb	verb	pres	0	FINV	_	_
+5	reinsast	reinse	verb	verb	inf|pass	4	INFV	_	_
+6	og	og	konj	konj	_	4	KONJ	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	luftfilter	luftfilter	subst	subst	appell|fl|nøyt|ub	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	brenselsfilter	brenselsfilter	subst	subst	appell|ub|fl|nøyt|samset	1	KOORD	_	_
+4	og	og	konj	konj	_	1	KONJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	og	og	konj	konj	_	5	KONJ	_	_
+3	så	så	adv	adv	_	5	ADV	_	_
+4	tankane	tank	subst	subst	appell|fl|mask|bu	5	SUBJ	_	_
+5	må	måtte	verb	verb	pres	0	FINV	_	_
+6	jo	jo	adv	adv	_	7	ADV	_	_
+7	gjerast	gjere	verb	verb	inf|pass	5	INFV	_	_
+8	reine	rein	adj	adj	fl|pos	7	SPRED	_	_
+9	og	og	konj	konj	_	5	KONJ	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	kvifor	kvifor	adv	adv	_	1	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DET	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	rart	rar	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+6	med	med	prep	prep	_	5	ADV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	jo	jo	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	får	få	verb	verb	pres	0	FINV	_	_
+2	litt	litt	adj	adj	eint|nøyt|ub|pos	4	ATR	_	_
+3	sånn	sånn	det	det	dem|eint|mask	4	DET	_	_
+4	vatn	vatn	subst	subst	appell|eint|nøyt|ub	1	DOBJ	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	kondens	kondens	subst	subst	appell|eint|mask|ub	4	KOORD	_	_
+7	i	i	prep	prep	_	1	ADV	_	_
+8	kanskje	kanskje	adv	adv	_	1	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	sånn	sånn	adv	adv	_	4	KOORD	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	alt	alt	adv	adv	_	2	ADV	_	_
+4	mogleg	mogleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	sånn	sånn	adv	adv	_	2	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	brukar	bruke	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	verneutstyr	verneutstyr	subst	subst	appell|fl|nøyt|ub	2	DOBJ	_	_
+5	på	på	prep	prep	_	2	ADV	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	sånn	sånn	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	sånn	sånn	det	det	dem|eint|fem	2	DET	_	_
+2	bukse	bukse	subst	subst	appell|eint|fem|ub	0	FRAG	_	_
+3	og	og	konj	konj	_	2	KONJ	_	_
+4	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	påbydd	påby	verb	verb	perf-part	2	INFV	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	påbydd	påby	verb	verb	perf-part	1	INFV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	viss	viss	sbu	sbu	_	4	SBU	_	_
+2	at	at	sbu	sbu	_	4	SBU	_	_
+3	ein	ein	pron	pron	pers|eint|nom|hum	4	SUBJ	_	_
+4	skadar	skade	verb	verb	pres	0	FINV	_	_
+5	seg	seg	pron	pron	refl|eint/fl|akk	4	DOBJ	_	_
+6	veit	vite	verb	verb	pres	4	PAR	_	_
+7	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+8	og	og	konj	konj	_	10	KONJ	_	_
+9	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+10	har	ha	verb	verb	pres	4	KOORD	_	_
+11	verneutstyr	verneutstyr	subst	subst	appell|fl|nøyt|ub	10	DOBJ	_	_
+12	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	s-	s-	ufullst	ufullst	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	2	ADV	_	_
+2	får	få	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	så	så	adv	adv	_	2	ADV	_	_
+2	blir	bli	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	trøbbel	trøbbel	subst	subst	appell|fl|nøyt|ub	2	SPRED	_	_
+5	med	med	prep	prep	_	2	ADV	_	_
+6	trygda	trygd	subst	subst	appell|eint|fem|bu	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	kva	kva	det	det	sp	3	DET	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	6	SLETT	_	_
+4	m-	m-	ufullst	ufullst	_	5	FYLL	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+6	må	måtte	verb	verb	pres	0	FINV	_	_
+7	ha	ha	verb	verb	inf	6	INFV	_	_
+8	sånn	sånn	det	det	dem|eint|fem	10	DET	_	_
+9	spesiell	spesiell	adj	adj	eint|m/f|ub|pos	10	ATR	_	_
+10	bukse	bukse	subst	subst	appell|eint|fem|ub	7	DOBJ	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	støv-	støv-	ufullst	ufullst	_	13	REP	_	_
+13	støvlar	støvel	subst	subst	appell|fl|mask|ub	7	KOORD	_	_
+14	da	da	adv	adv	_	6	ADV	_	_
+15	og	og	adv	adv	_	6	ADV	_	_
+16	?	$?	clb	clb	<spm>	6	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	hjelm	hjelm	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+3	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	er	vere	verb	verb	pres	12	REP	_	_
+8	verneutstyret	verneutstyr	subst	subst	appell|eint|nøyt|bu	11	APP	_	_
+9	veit	vite	verb	verb	pres	12	PAR	_	_
+10	du	du	pron	pron	pers|eint|2|nom|hum	9	SUBJ	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	SUBJ	_	_
+12	er	vere	verb	verb	pres	3	KOORD	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	altfor	altfor	adv	adv	_	15	ADV	_	_
+15	dyrt	dyr	adj	adj	eint|nøyt|ub|pos	12	SPRED	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+6	veit	vite	verb	verb	pres	3	SPRED	_	_
+7	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+8	kva	kva	det	det	sp	6	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	staten	stat	subst	subst	appell|eint|mask|bu	2	SPRED	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	stryk	stryke	verb	verb	pres	4	ATR	_	_
+7	av	av	prep	prep	_	6	ADV	_	_
+8	med	med	prep	prep	_	6	ADV	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	5	REP	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	st-	st-	ufullst	ufullst	_	5	FYLL	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+7	avgift	avgift	subst	subst	appell|eint|fem|ub	5	SPRED	_	_
+8	på	på	prep	prep	_	7	ATR	_	_
+9	verneutstyr	verneutstyr	subst	subst	appell|fl|nøyt|ub	8	PUTFYLL	_	_
+10	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	buksa	bukse	subst	subst	appell|eint|fem|bu	3	SUBJ	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|nom	1	APP	_	_
+3	ligg	ligge	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	på	på	prep	prep	_	3	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	8	DET	_	_
+7	sju	sju	det	det	kvant|fl	8	DET	_	_
+8	hundre	hundre	subst	subst	appell|fl|nøyt|ub	9	DET	_	_
+9	kroner	krone	subst	subst	appell|fl|fem|ub	5	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	oi	oi	interj	interj	_	7	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	7	INTERJ	_	_
+4	ja	ja	interj	interj	_	7	INTERJ	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	10	REP	_	_
+8	vel	vel	adv	adv	_	7	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+10	er	vere	verb	verb	pres	0	FINV	_	_
+11	vel	vel	adv	adv	_	10	ADV	_	_
+12	kostbare	kostbar	adj	adj	fl|pos	13	ATR	_	_
+13	saker	sak	subst	subst	appell|fl|fem|ub	10	SPRED	_	_
+14	å	å	inf-merke	inf-merke	_	13	ATR	_	_
+15	lage	lage	verb	verb	inf	14	INFV	_	_
+16	til	til	prep	prep	_	15	ADV	_	_
+17	dei	dei	det	det	dem|fl	19	DET	_	_
+18	der	der	prep	prep	_	19	ATR	_	_
+19	greiene	greie	subst	subst	appell|fl|fem|bu	15	DOBJ	_	_
+20	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	trur	tru	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	#	#	pause	pause	_	3	IK	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	6	INTERJ	_	_
+4	kva	kva	det	det	sp	6	DOBJ	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	SUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	for	for	prep	prep	_	6	ADV	_	_
+8	noko	noko	pron	pron	pers|eint|nøyt|3|akk	7	PUTFYLL	_	_
+9	eigentleg	eigentleg	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	5	APP	_	_
+11	e	e	nol	nol	_	13	FYLL	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	14	SUBJ	_	_
+14	er	vere	verb	verb	pres	6	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	nå	nå	adv	adv	_	2	ADV	_	_
+4	vel	vel	adv	adv	_	2	ADV	_	_
+5	glassfiber	glassfiber	subst	subst	appell|eint|ub|mask|samset	2	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	stråa	strå	subst	subst	appell|fl|nøyt|bu	1	APP	_	_
+8	inni	inni	prep	prep	_	9	REP	_	_
+9	inni	inni	prep	prep	_	7	ATR	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	s-	s	ufullst	ufullst	appell|eint|mask|ub	7	FYLL	_	_
+7	sånn	sånn	adv	adv	_	8	ADV	_	_
+8	at	at	sbu	sbu	_	14	SBU	_	_
+9	den	den	pron	pron	pers|eint|f/m|3|nom	10	REP	_	_
+10	den	den	pron	pron	pers|eint|f/m|3|nom	11	SUBJ	_	_
+11	skal	skulle	verb	verb	pres	14	REP	_	_
+12	når	når	sbu	sbu	_	14	SBU	_	_
+13	den	den	pron	pron	pers|eint|f/m|3|nom	14	SUBJ	_	_
+14	kjem	komme	verb	verb	pres	4	SPRED	_	_
+15	i	i	prep	prep	_	14	ADV	_	_
+16	sagbladet	sagblad	subst	subst	appell|eint|nøyt|bu	15	PUTFYLL	_	_
+17	så	så	adv	adv	_	18	ADV	_	_
+18	skal	skulle	verb	verb	pres	14	ADV	_	_
+19	den	den	pron	pron	pers|eint|f/m|3|nom	18	SUBJ	_	_
+20	e	e	nol	nol	_	4	FYLL	_	_
+21	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	tulle	tulle	verb	verb	inf	0	FINV	_	_
+2	seg	seg	pron	pron	refl|eint/fl|akk	1	DOBJ	_	_
+3	inn	inn	prep	prep	_	1	ADV	_	_
+4	i	i	prep	prep	_	3	PUTFYLL	_	_
+5	sje-	sje-	ufullst	ufullst	_	1	FYLL	_	_
+6	…	…	ellipsis	ellipsis	_	1	IK	_	_
+7	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	tulle	tulle	verb	verb	inf	0	FINV	_	_
+2	seg	seg	pron	pron	refl|eint/fl|akk	1	DOBJ	_	_
+3	inn	inn	prep	prep	_	1	ADV	_	_
+4	eller	eller	konj	konj	_	6	KONJ	_	_
+5	stopp-	stopp-	ufullst	ufullst	_	6	REP	_	_
+6	stoppar	stoppe	verb	verb	pres	1	KOORD	_	_
+7	vel	vel	adv	adv	_	6	ADV	_	_
+8	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+9	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	par	vite	verb	verb	pres	4	REP	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	synd	synd	subst	subst	appell|eint|fem|ub	4	SPRED	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	skal	skulle	verb	verb	pres	4	ADV	_	_
+9	vere	vere	verb	verb	inf	8	INFV	_	_
+10	sånn	sånn	det	det	dem|eint|fem	12	DET	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	avgift	avgift	subst	subst	appell|eint|fem|ub	9	SPRED	_	_
+13	på	på	prep	prep	_	9	ADV	_	_
+14	#	#	pause	pause	_	4	IK	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	meiningslaust	meiningslaus	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	er	vere	verb	verb	pres	3	KOORD	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	akkurat	akkurat	adv	adv	_	8	ADV	_	_
+11	som	som	prep	prep	_	8	SPRED	_	_
+12	med	med	prep	prep	_	11	PUTFYLL	_	_
+13	bilane	bil	subst	subst	appell|fl|mask|bu	12	PUTFYLL	_	_
+14	at	at	sbu	sbu	_	17	REP	_	_
+15	dei	dei	pron	pron	pers|fl|3|nom|hum	18	REP	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	at	at	sbu	sbu	_	19	SBU	_	_
+18	dei	dei	pron	pron	pers|fl|3|nom|hum	19	SUBJ	_	_
+19	har	ha	verb	verb	pres	8	ADV	_	_
+20	dei	dei	pron	pron	pers|fl|3|nom|hum	19	IOBJ	_	_
+21	der	der	prep	prep	_	20	ADV	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	ABS-bremsene	ABS-bremse	subst	subst	appell|bu|fl|fem|samset	19	DOBJ	_	_
+24	at	at	sbu	sbu	_	26	SBU	_	_
+25	dei	dei	pron	pron	pers|fl|3|nom|hum	26	SUBJ	_	_
+26	har	ha	verb	verb	pres	8	ADV	_	_
+27	e	e	nol	nol	_	3	FYLL	_	_
+28	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	dei	dei	det	det	pers|fl|3|nom|hum	4	DET	_	_
+3	her	her	prep	prep	_	2	ADV	_	_
+4	bremsene	bremse	subst	subst	appell|fl|fem|bu	6	APP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	SUBJ	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	jo	jo	adv	adv	_	7	ADV	_	_
+9	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	lagt	legge	verb	verb	perf-part	0	FINV	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	mykje	mykje	adj	adj	eint|m/f|ub|pos	4	ATR	_	_
+4	avgift	avgift	subst	subst	appell|eint|fem|ub	1	DOBJ	_	_
+5	på	på	prep	prep	_	1	ADV	_	_
+6	dei	dei	pron	pron	pers|fl|3|akk|hum	5	PUTFYLL	_	_
+7	at	at	sbu	sbu	_	1	ADV	_	_
+8	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	få	få	adj	adj	fl|pos	2	SPRED	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	har	ha	verb	verb	pres	3	ATR	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	råd	råd	subst	subst	appell|eint|mask|ub	5	DOBJ	_	_
+8	til	til	prep	prep	_	7	ATR	_	_
+9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	bruke	bruke	verb	verb	inf	9	INFV	_	_
+12	dei	dei	pron	pron	pers|fl|3|akk|hum	11	DOBJ	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	nei	nei	interj	interj	_	5	INTERJ	_	_
+3	kor	kor	adv	adv	_	6	ADV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	5	SUBJ	_	_
+5	skal	skulle	verb	verb	pres	0	FINV	_	_
+6	fare	fare	verb	verb	inf	5	INFV	_	_
+7	hen	hen	prep	prep	_	6	ADV	_	_
+8	oppover	oppover	prep	prep	_	7	PUTFYLL	_	_
+9	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	får	få	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	6	ADV	_	_
+6	prøve	prøve	verb	verb	inf	4	INFV	_	_
+7	#	#	pause	pause	_	6	IK	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	skal	skulle	verb	verb	pres	0	FINV	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	1	SUBJ	_	_
+3	ta	ta	verb	verb	inf	1	INFV	_	_
+4	Sørdalen	Sørdalen	subst	subst	prop	3	DOBJ	_	_
+5	eller	eller	konj	konj	_	6	KONJ	_	_
+6	Kirkesdalen	Kirkesdalen	subst	subst	prop	4	KOORD	_	_
+7	eller	eller	konj	konj	_	4	KONJ	_	_
+8	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	tar	ta	verb	verb	pres	0	FINV	_	_
+4	Kirkesdalen	Kirkesdalen	subst	subst	prop	3	DOBJ	_	_
+5	trur	tru	verb	verb	pres	3	PAR	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	Sørdalen	Sørdalen	subst	subst	prop	9	ADV	_	_
+9	er	vere	verb	verb	pres	3	KOORD	_	_
+10	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+11	litt	litt	adj	adj	eint|nøyt|ub|pos	12	ADV	_	_
+12	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	13	ADV	_	_
+13	kjent	kjenne	verb	verb	perf-part	9	SPRED	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	må	måtte	verb	verb	pres	3	KOORD	_	_
+7	nesten	nesten	adv	adv	_	8	ADV	_	_
+8	planlegge	planlegge	verb	verb	inf	6	INFV	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	5	ADV	_	_
+5	ha	ha	verb	verb	inf	3	INFV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	vore	vere	verb	verb	perf-part	5	INFV	_	_
+8	og	og	konj	konj	_	9	KONJ	_	_
+9	snakka	snakke	verb	verb	perf-part	7	KOORD	_	_
+10	med	med	prep	prep	_	9	ADV	_	_
+11	ein	ein	pron	pron	pers|eint|akk|hum	10	PUTFYLL	_	_
+12	derifrå	derifrå	prep	prep	_	11	ADV	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	oppå	oppå	prep	prep	_	0	FRAG	_	_
+2	han	han	pron	pron	pers|eint|mask|3|akk	1	PUTFYLL	_	_
+3	da	da	adv	adv	_	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	nokon	nokon	pron	pron	pers|fl|3|nom	2	SPRED	_	_
+5	som	som	sbu	sbu	_	6	SBU	_	_
+6	bur	bu	verb	verb	pres	4	ATR	_	_
+7	her	her	prep	prep	_	6	ADV	_	_
+8	i	i	prep	prep	_	6	ADV	_	_
+9	nærleiken	nærleik	subst	subst	appell|eint|mask|bu	8	PUTFYLL	_	_
+10	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	for	for	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	skjønner	skjønne	verb	verb	pres	0	FINV	_	_
+6	at	at	sbu	sbu	_	14	SBU	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	nei	nei	interj	interj	_	14	INTERJ	_	_
+9	det	det	det	det	dem|eint|nøyt	10	DET	_	_
+10	einaste	einaste	adj	adj	eint|nøyt|ub|pos	14	ADV	_	_
+11	han	han	pron	pron	pers|eint|mask|3|nom	12	DET	_	_
+12	M1	M1	subst	subst	prop	14	SUBJ	_	_
+13	han	han	pron	pron	pers|eint|mask|3|nom	12	APP	_	_
+14	er	vere	verb	verb	pres	5	DOBJ	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	litt	litt	adj	adj	eint|nøyt|ub|pos	17	ADV	_	_
+17	kjent	kjenne	verb	verb	perf-part	14	SPRED	_	_
+18	.	$.	clb	clb	<punkt>	14	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	DOBJ	_	_
+5	er	vere	verb	verb	pres	8	REP	_	_
+6	altså	altså	adv	adv	_	8	ADV	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+8	har	ha	verb	verb	pres	0	FINV	_	_
+9	att	att	prep	prep	_	8	ADV	_	_
+10	berre	berre	adv	adv	_	11	ADV	_	_
+11	fire	fire	det	det	kvant|fl	12	DET	_	_
+12	kassettar	kassett	subst	subst	appell|fl|mask|ub	8	DOBJ	_	_
+13	igjen	igjen	adv	adv	_	8	ADV	_	_
+14	og	og	konj	konj	_	18	KONJ	_	_
+15	da	da	adv	adv	_	17	REP	_	_
+16	e	e	nol	nol	_	17	FYLL	_	_
+17	da	da	adv	adv	_	18	ADV	_	_
+18	reknar	rekne	verb	verb	pres	8	KOORD	_	_
+19	eg	eg	pron	pron	pers|eint|1|nom|hum	18	SUBJ	_	_
+20	med	med	prep	prep	_	18	ADV	_	_
+21	at	at	sbu	sbu	_	23	SBU	_	_
+22	dei	dei	pron	pron	pers|fl|3|nom|hum	23	SUBJ	_	_
+23	går	gå	verb	verb	pres	20	PUTFYLL	_	_
+24	det	det	pron	pron	pers|eint|nøyt|3	23	DOBJ	_	_
+25	#	#	pause	pause	_	26	IK	_	_
+26	der	der	prep	prep	_	23	ADV	_	_
+27	oppe	oppe	prep	prep	_	26	PUTFYLL	_	_
+28	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	skjønner	skjønne	verb	verb	pres	0	FINV	_	_
+4	ein	ein	pron	pron	pers|eint|nom|hum	5	SUBJ	_	_
+5	skulle	skulle	verb	verb	pret	9	REP	_	_
+6	hatt	ha	verb	verb	perf-part	5	INFV	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	ein	ein	pron	pron	pers|eint|nom|hum	9	SUBJ	_	_
+9	skulle	skulle	verb	verb	pret	3	DOBJ	_	_
+10	hatt	ha	verb	verb	perf-part	9	INFV	_	_
+11	Sørdalen	Sørdalen	subst	subst	prop	10	DOBJ	_	_
+12	med	med	prep	prep	_	9	ADV	_	_
+13	for	for	konj	konj	_	15	KONJ	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	15	SUBJ	_	_
+15	er	vere	verb	verb	pres	3	KOORD	_	_
+16	ein	ein	det	det	kvant|eint|mask	17	DET	_	_
+17	eigen	eigen	det	det	eint|mask|ub|pos|forst	15	SPRED	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	men	men	konj	konj	_	5	KONJ	_	_
+3	altså	altså	adv	adv	_	5	ADV	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	kjem	komme	verb	verb	pres	0	FINV	_	_
+6	sikkert	sikker	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+7	til	til	prep	prep	_	5	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	11	ADV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	komme	komme	verb	verb	inf	8	INFV	_	_
+12	tilbake	tilbake	prep	prep	_	11	ADV	_	_
+13	til	til	prep	prep	_	12	PUTFYLL	_	_
+14	e	e	nol	nol	_	5	FYLL	_	_
+15	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	Østerdalen	Østerdalen	subst	subst	prop	0	FRAG	_	_
+3	og	og	konj	konj	_	2	KONJ	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	også	også	adv	adv	_	2	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	heile	heil	adj	adj	eint|bu|pos	5	ATR	_	_
+5	Målselv	Målselv	subst	subst	prop	2	DOBJ	_	_
+6	da	da	adv	adv	_	2	ADV	_	_
+7	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+8	har	ha	verb	verb	pres	2	KOORD	_	_
+9	jo	jo	adv	adv	_	13	ADV	_	_
+10	e	e	nol	nol	_	11	FYLL	_	_
+11	foreløpig	foreløpig	adj	adj	eint|nøyt|ub|pos	13	ADV	_	_
+12	berre	berre	adv	adv	_	13	ADV	_	_
+13	vore	vere	verb	verb	perf-part	8	INFV	_	_
+14	i	i	prep	prep	_	13	SPRED	_	_
+15	Bardu	Bardu	subst	subst	prop	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	4	REP	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	tenker	tenke	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	på	på	prep	prep	_	10	REP	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	eventuelt	eventuell	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+10	på	på	prep	prep	_	5	ADV	_	_
+11	Målsnes	Målsnes	subst	subst	prop	10	PUTFYLL	_	_
+12	der	der	prep	prep	_	5	ADV	_	_
+13	nedover	nedover	prep	prep	_	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	5	ADV	_	_
+15	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	blir	bli	verb	verb	pres	0	FINV	_	_
+4	antakeleg	antakeleg	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+6	for	for	adv	adv	_	5	ADV	_	_
+7	langt	langt	adj	adj	_	8	ATR	_	_
+8	sør	sør	subst	subst	_	3	SPRED	_	_
+9	for	for	konj	konj	_	11	KONJ	_	_
+10	der	der	prep	prep	_	11	ADV	_	_
+11	er	vere	verb	verb	pres	3	KOORD	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+13	jo	jo	adv	adv	_	11	ADV	_	_
+14	typisk	typisk	adj	adj	eint|nøyt|ub|pos	16	ATR	_	_
+15	sånn	sånn	det	det	dem|eint|mask	16	DET	_	_
+16	nordnorsk	nordnorsk	subst	subst	appell|eint|mask|ub	11	SPRED	_	_
+17	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	vel	vel	adv	adv	_	4	ADV	_	_
+2	litt	litt	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+3	for	for	adv	adv	_	2	ADV	_	_
+4	langt	lang	adj	adj	eint|nøyt|ub|pos	0	FRAG	_	_
+5	e	e	nol	nol	_	4	FYLL	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	akkurat	akkurat	adv	adv	_	2	ADV	_	_
+2	mot	mot	prep	prep	_	0	FRAG	_	_
+3	kysten	kyst	subst	subst	appell|eint|mask|bu	2	PUTFYLL	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	tenker	tenke	verb	verb	pres	0	FINV	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	altså	altså	adv	adv	_	6	ATR	_	_
+6	Elverum	Elverum	subst	subst	prop	4	PUTFYLL	_	_
+7	gard	gard	subst	subst	appell|eint|mask|ub	6	FLAT	_	_
+8	der	der	prep	prep	_	3	ADV	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	vi	vi	pron	pron	pers|fl|1|nom|hum	11	SUBJ	_	_
+11	var	vere	verb	verb	pret	8	PUTFYLL	_	_
+12	sist	sist	adv	adv	_	11	ADV	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	5	REP	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	Bardu	Bardu	subst	subst	prop	5	SPRED	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	4	APP	_	_
+9	også	også	adv	adv	_	5	ADV	_	_
+10	er	vere	verb	verb	pres	5	KOORD	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+12	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	10	DOBJ	_	_
+14	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	4	DET	_	_
+3	e	ee	nol	nol	_	4	FYLL	_	_
+4	Målselv	Målselv	subst	subst	prop	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	å	å	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	Målselv	Målselv	subst	subst	prop	3	SPRED	_	_
+5	ja	ja	interj	interj	_	3	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	viktig	viktig	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+5	for	for	prep	prep	_	4	ADV	_	_
+6	meg	eg	pron	pron	pers|eint|1|akk|hum	5	PUTFYLL	_	_
+7	å	å	inf-merke	inf-merke	_	4	ADV	_	_
+8	få	få	verb	verb	inf	10	REP	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	få	få	verb	verb	inf	7	ADV	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	så	så	konj	konj	_	14	KONJ	_	_
+13	eg	eg	pron	pron	pers|eint|1|nom|hum	14	SUBJ	_	_
+14	får	få	verb	verb	pres	3	KOORD	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	14	DOBJ	_	_
+16	på	på	prep	prep	_	14	ADV	_	_
+17	riktig	riktig	adj	adj	eint|m/f|ub|pos	18	ATR	_	_
+18	kommune	kommune	subst	subst	appell|eint|mask|ub	16	PUTFYLL	_	_
+19	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	2	ADV	_	_
+2	blir	bli	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	berre	berre	adv	adv	_	2	ADV	_	_
+5	tull	tull	subst	subst	appell|eint|nøyt|ub	2	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	2	KOORD	_	_
+8	for	for	prep	prep	_	7	ADV	_	_
+9	at	at	sbu	sbu	_	7	SBU	_	_
+10	…	…	ellipsis	ellipsis	_	2	IK	_	_
+11	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	kjem	komme	verb	verb	pres	9	APP	_	_
+4	til	til	prep	prep	_	3	ADV	_	_
+5	krysset	kryss	subst	subst	appell|eint|nøyt|bu	4	PUTFYLL	_	_
+6	her	her	prep	prep	_	3	ADV	_	_
+7	med	med	prep	prep	_	3	ADV	_	_
+8	Berglund	Berglund	subst	subst	prop	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	er	vere	verb	verb	pres	0	FINV	_	_
+11	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+12	i	i	prep	prep	_	10	SPRED	_	_
+13	Målselv	Målselv	subst	subst	prop	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	Målselv	Målselv	subst	subst	prop	3	SPRED	_	_
+6	igjen	igjen	adv	adv	_	3	ADV	_	_
+7	da	da	adv	adv	_	3	ADV	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	tett	tett	adj	adj	eint|nøyt|ub|pos	0	FRAG	_	_
+2	forbi	forbi	prep	prep	_	1	ADV	_	_
+3	åsen	ås	subst	subst	appell|eint|mask|bu	2	PUTFYLL	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	vel	vel	adv	adv	_	1	ADV	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	for	for	konj	konj	_	6	KONJ	_	_
+4	han	han	pron	pron	pers|eint|mask|3|nom	5	REP	_	_
+5	han	han	pron	pron	pers|eint|mask|3|nom	6	DET	_	_
+6	sonen	son	subst	subst	appell|eint|mask|bu	2	DOBJ	_	_
+7	til	til	prep	prep	_	6	ATR	_	_
+8	han	han	pron	pron	pers|eint|mask|3|nom	10	DET	_	_
+9	e	e	nol	nol	_	10	FYLL	_	_
+10	M1	M1	subst	subst	prop	7	PUTFYLL	_	_
+11	var	vere	verb	verb	pret	2	KOORD	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+13	ikkje	ikkje	adv	adv	_	11	ADV	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	11	SPRED	_	_
+15	han	han	pron	pron	pers|eint|mask|3|akk	16	SUBJ	_	_
+16	heitte	heite	verb	verb	pret	14	ATR	_	_
+17	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	skulle	skulle	verb	verb	pret	0	FINV	_	_
+3	fått	få	verb	verb	perf-part	2	INFV	_	_
+4	han	han	pron	pron	pers|eint|mask|3|akk	3	DOBJ	_	_
+5	til	til	prep	prep	_	3	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	5	PUTFYLL	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	snakke	snakke	verb	verb	inf	6	INFV	_	_
+9	inn	inn	prep	prep	_	8	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	også	også	adv	adv	_	8	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	sjølv	sjølv	adv	adv	_	14	ADV	_	_
+14	om	om	sbu	sbu	_	16	SBU	_	_
+15	han	han	pron	pron	pers|eint|mask|3|nom	16	SUBJ	_	_
+16	er	vere	verb	verb	pres	2	ADV	_	_
+17	reserve	reserve	subst	subst	appell|eint|mask|ub	16	SPRED	_	_
+18	kan	kunne	verb	verb	pres	16	PAR	_	_
+19	du	du	pron	pron	pers|eint|2|nom|hum	18	SUBJ	_	_
+20	seie	seie	verb	verb	inf	18	INFV	_	_
+21	…	…	ellipsis	ellipsis	_	2	IK	_	_
+22	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+4	var	vere	verb	verb	pret	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	villig	villig	adj	adj	eint|m/f|ub|pos	2	SPRED	_	_
+5	han	han	pron	pron	pers|eint|mask|3|nom	1	APP	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	konj	konj	_	5	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	ADV	_	_
+3	at	at	sbu	sbu	_	5	SBU	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	viktig	viktig	adj	adj	eint|nøyt|ub|pos	5	SPRED	_	_
+8	å	å	inf-merke	inf-merke	_	13	REP	_	_
+9	få	få	verb	verb	inf	8	INFV	_	_
+10	liksom	liksom	adv	adv	_	13	ADV	_	_
+11	sånn	sånn	adv	adv	_	13	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	å	å	inf-merke	inf-merke	_	5	PSUBJ	_	_
+14	få	få	verb	verb	inf	13	INFV	_	_
+15	alle	all	det	det	kvant|fl	16	DET	_	_
+16	generasjonane	generasjon	subst	subst	appell|fl|mask|bu	14	DOBJ	_	_
+17	med	med	prep	prep	_	14	ADV	_	_
+18	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	4	KONJ	_	_
+2	da	da	adv	adv	_	3	REP	_	_
+3	da	da	adv	adv	_	4	ADV	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+6	jo	jo	adv	adv	_	4	ADV	_	_
+7	berre	berre	adv	adv	_	8	ADV	_	_
+8	tre	tre	det	det	kvant|fl	9	DET	_	_
+9	band	band	subst	subst	appell|fl|nøyt|ub	4	DOBJ	_	_
+10	å	å	inf-merke	inf-merke	_	9	ATR	_	_
+11	fylle	fylle	verb	verb	inf	10	INFV	_	_
+12	eigentleg	eigentleg	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+13	da	da	adv	adv	_	14	ADV	_	_
+14	skulle	skulle	verb	verb	pret	4	KOORD	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+16	jo	jo	adv	adv	_	17	ADV	_	_
+17	gå	gå	verb	verb	inf	14	INFV	_	_
+18	an	an	adv	adv	_	17	ADV	_	_
+19	å	å	inf-merke	inf-merke	_	17	PSUBJ	_	_
+20	få	få	verb	verb	inf	19	INFV	_	_
+21	gjort	gjere	verb	verb	perf-part	20	INFV	_	_
+22	det	det	pron	pron	pers|eint|nøyt|3	21	DOBJ	_	_
+23	i	i	prep	prep	_	21	ADV	_	_
+24	ettermiddag	ettermiddag	subst	subst	appell|eint|mask|ub	23	PUTFYLL	_	_
+25	da	da	adv	adv	_	14	ADV	_	_
+26	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	skulle	skulle	verb	verb	pret	0	FINV	_	_
+2	vere	vere	verb	verb	inf	1	INFV	_	_
+3	nyttig	nyttig	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+3	kan	kunne	verb	verb	pres	0	FINV	_	_
+4	vel	vel	adv	adv	_	5	ADV	_	_
+5	ta	ta	verb	verb	inf	3	INFV	_	_
+6	oppover	oppover	prep	prep	_	5	ADV	_	_
+7	til	til	prep	prep	_	6	PUTFYLL	_	_
+8	Heimjord	Heimjord	subst	subst	prop	7	PUTFYLL	_	_
+9	først	først	adv	adv	_	5	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	høyre	høyre	verb	verb	inf	5	KOORD	_	_
+12	der	der	prep	prep	_	11	ADV	_	_
+13	oppe	oppe	prep	prep	_	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	han	han	pron	pron	pers|eint|mask|3|akk	3	SPRED	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	ja	ja	interj	interj	_	9	INTERJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+9	noterte	notere	verb	verb	pret	3	KOORD	_	_
+10	meg	eg	pron	pron	pers|eint|1|akk|hum	9	IOBJ	_	_
+11	ein	ein	det	det	kvant|eint|mask	12	DET	_	_
+12	del	del	subst	subst	appell|eint|mask|ub	13	DET	_	_
+13	namn	namn	subst	subst	appell|fl|nøyt|ub	9	DOBJ	_	_
+14	på	på	prep	prep	_	13	ATR	_	_
+15	dei	dei	pron	pron	pers|fl|3|akk|hum	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	M2	M2	subst	subst	prop	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	M2	M2	subst	subst	prop	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	2	KONJ	_	_
+2	får	få	verb	verb	pres	6	APP	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|akk	2	DOBJ	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	kan	kunne	verb	verb	pres	0	FINV	_	_
+8	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+9	undersøke	undersøke	verb	verb	inf	7	INFV	_	_
+10	hos	hos	prep	prep	_	9	ADV	_	_
+11	tannlegen	tannlege	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	ikkje	ikkje	adv	adv	_	14	ADV	_	_
+14	der	der	prep	prep	_	15	APP	_	_
+15	så	så	adv	adv	_	16	ADV	_	_
+16	kan	kunne	verb	verb	pres	7	KOORD	_	_
+17	vi	vi	pron	pron	pers|fl|1|nom|hum	16	SUBJ	_	_
+18	høyre	høyre	verb	verb	inf	16	INFV	_	_
+19	med	med	prep	prep	_	18	ADV	_	_
+20	han	han	pron	pron	pers|eint|mask|3|akk	23	DET	_	_
+21	e	e	nol	nol	_	23	FYLL	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	E1	E1	subst	subst	prop	19	PUTFYLL	_	_
+24	eller	eller	konj	konj	_	25	KONJ	_	_
+25	M3	M3	subst	subst	prop	23	KOORD	_	_
+26	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	skal	skulle	verb	verb	pres	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	sjå	sjå	verb	verb	inf	2	INFV	_	_
+5	her	her	prep	prep	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	sikker	sikker	adj	adj	eint|m/f|ub|pos	1	SPRED	_	_
+4	på	på	prep	prep	_	3	ADV	_	_
+5	kva	kva	det	det	sp	7	DET	_	_
+6	han	han	pron	pron	pers|eint|mask|3|akk	7	SUBJ	_	_
+7	heiter	heite	verb	verb	pres	4	PUTFYLL	_	_
+8	til	til	prep	prep	_	7	ADV	_	_
+9	etternamn	etternamn	subst	subst	appell|eint|nøyt|ub	8	PUTFYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	veit	vite	verb	verb	pres	1	KOORD	_	_
+12	du	du	pron	pron	pers|eint|2|nom|hum	11	SUBJ	_	_
+13	F1	F1	subst	subst	prop	11	DOBJ	_	_
+14	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	#	#	pause	pause	_	2	IK	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|nom	3	SUBJ	_	_
+3	vil	vilje	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+5	opne	opne	verb	verb	inf	3	INFV	_	_
+6	#	#	pause	pause	_	3	IK	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	M3	M3	subst	subst	prop	0	FRAG	_	_
+2	M3	M3	subst	subst	prop	1	APP	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	E1	E1	subst	subst	prop	2	SPRED	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|akk	6	SUBJ	_	_
+6	heiter	heite	verb	verb	pres	1	ATR	_	_
+7	ja	ja	interj	interj	_	2	INTERJ	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	E1	E1	subst	subst	prop	7	APP	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	gav	gi	verb	verb	pret	0	FINV	_	_
+4	meg	eg	pron	pron	pers|eint|1|akk|hum	3	IOBJ	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	REP	_	_
+6	det	det	det	det	dem|eint|nøyt	7	DET	_	_
+7	namnet	namn	subst	subst	appell|eint|nøyt|bu	3	DOBJ	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	trur	tru	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	2	DOBJ	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	SPRED	_	_
+6	han	han	pron	pron	pers|eint|mask|3|akk	7	SUBJ	_	_
+7	heiter	heite	verb	verb	pres	5	ATR	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	3	DET	_	_
+3	E2	E2	subst	subst	prop	7	PUTFYLL	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+6	vore	vere	verb	verb	perf-part	4	INFV	_	_
+7	hos	hos	prep	prep	_	6	SPRED	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	2	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	M4	M4	subst	subst	prop	2	DOBJ	_	_
+5	tannlegen	tannlege	subst	subst	appell|eint|mask|bu	4	APP	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	blir	bli	verb	verb	pres	0	FINV	_	_
+3	langt	lang	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+4	opp	opp	prep	prep	_	2	SPRED	_	_
+5	i	i	prep	prep	_	4	PUTFYLL	_	_
+6	dalen	dal	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+7	blir	bli	verb	verb	pres	2	KOORD	_	_
+8	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	7	SPRED	_	_
+11	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	men	men	konj	konj	_	6	KONJ	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	DET	_	_
+4	M3	M3	subst	subst	prop	6	SUBJ	_	_
+5	han	han	pron	pron	pers|eint|mask|3|nom	4	APP	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	vel	vel	adv	adv	_	6	ADV	_	_
+8	på	på	prep	prep	_	6	SPRED	_	_
+9	gamleheimen	gamleheim	subst	subst	appell|eint|mask|bu	8	PUTFYLL	_	_
+10	sjølv	sjølv	adv	adv	_	6	ADV	_	_
+11	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+5	ja	ja	interj	interj	_	2	INTERJ	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	blir	bli	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	vel	vel	adv	adv	_	1	ADV	_	_
+4	vanskeleg	vanskeleg	adj	adj	eint|nøyt|ub|pos	1	SPRED	_	_
+5	å	å	inf-merke	inf-merke	_	1	PSUBJ	_	_
+6	få	få	verb	verb	inf	5	INFV	_	_
+7	tak	tak	subst	subst	appell|eint|nøyt|ub	6	DOBJ	_	_
+8	i	i	prep	prep	_	7	ATR	_	_
+9	han	han	pron	pron	pers|eint|mask|3|akk	8	PUTFYLL	_	_
+10	der	der	prep	prep	_	6	ADV	_	_
+11	oppe	oppe	prep	prep	_	10	PUTFYLL	_	_
+12	da	da	adv	adv	_	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	to-	to-	ufullst	ufullst	_	1	FYLL	_	_
+3	…	…	ellipsis	ellipsis	_	1	IK	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	konj	konj	_	2	KONJ	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	0	FRAG	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	han	han	pron	pron	pers|eint|mask|3|nom	6	PUTFYLL	_	_
+2	får	få	verb	verb	pres	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	tak	tak	subst	subst	appell|eint|nøyt|ub	2	DOBJ	_	_
+6	i	i	prep	prep	_	5	ATR	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	4	KONJ	_	_
+4	kjerringa	kjerring	subst	subst	appell|eint|fem|bu	1	KOORD	_	_
+5	da	da	adv	adv	_	1	ADV	_	_
+6	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	kjerringa	kjerring	subst	subst	appell|eint|fem|bu	6	PUTFYLL	_	_
+3	får	få	verb	verb	pres	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	tak	tak	subst	subst	appell|eint|nøyt|ub	3	DOBJ	_	_
+6	i	i	prep	prep	_	5	ATR	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	2	SUBJ	_	_
+2	skulle	skulle	verb	verb	pret	0	FINV	_	_
+3	hatt	ha	verb	verb	perf-part	2	INFV	_	_
+4	nokon	nokon	det	det	kvant|fl	3	DOBJ	_	_
+5	e	e	nol	nol	_	2	FYLL	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	ho	ho	pron	pron	pers|eint|fem|3|nom	4	SPRED	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	styrer	styre	verb	verb	pres	5	ATR	_	_
+8	mest	mykje	adj	adj	ub|sup	7	ADV	_	_
+9	som	som	sbu	sbu	_	11	SBU	_	_
+10	st-	st-	ufullst	ufullst	_	11	FYLL	_	_
+11	driv	drive	verb	verb	pres	7	ADV	_	_
+12	heile	heil	adj	adj	eint|bu|pos	13	ATR	_	_
+13	garden	gard	subst	subst	appell|eint|mask|bu	11	DOBJ	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	skulle	skulle	verb	verb	pret	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	hatt	ha	verb	verb	perf-part	3	INFV	_	_
+6	e	e	nol	nol	_	7	FYLL	_	_
+7	nokre	nokon	det	det	kvant|fl	9	DET	_	_
+8	kvinne-	kvinne-	ufullst	ufullst	_	9	REP	_	_
+9	kvinnemenneske	kvinnemenneske	subst	subst	appell|fl|nøyt|ub	5	DOBJ	_	_
+10	også	også	adv	adv	_	5	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	på	på	prep	prep	_	5	ADV	_	_
+13	band	band	subst	subst	appell|fl|nøyt|ub	12	PUTFYLL	_	_
+14	det	det	pron	pron	pers|eint|nøyt|3	15	FSUBJ	_	_
+15	hadde	ha	verb	verb	pret	3	KOORD	_	_
+16	jo	jo	adv	adv	_	15	ADV	_	_
+17	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	vore	vere	verb	verb	perf-part	0	FINV	_	_
+2	ein	ein	det	det	kvant|eint|mask	3	DET	_	_
+3	fordel	fordel	subst	subst	appell|eint|mask|ub	1	SPRED	_	_
+4	at	at	sbu	sbu	_	7	SBU	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+6	ikkje	ikkje	adv	adv	_	7	ADV	_	_
+7	blir	bli	verb	verb	pres	1	ADV	_	_
+8	berre	berre	adv	adv	_	7	ADV	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	mannfolka	mannfolk	subst	subst	appell|fl|nøyt|bu	7	SPRED	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	4	ADV	_	_
+4	høyre	høyre	verb	verb	inf	2	INFV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	han	han	det	det	pers|eint|mask|3|akk	7	DET	_	_
+7	M5	M5	subst	subst	prop	4	DOBJ	_	_
+8	òg	òg	adv	adv	_	4	ADV	_	_
+9	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	M5	M5	subst	subst	prop	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	kven	kven	pron	pron	sp|akk|hum	2	SPRED	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+4	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	M5	M5	subst	subst	prop	0	FRAG	_	_
+2	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	han	han	pron	pron	pers|eint|mask|3|nom	3	REP	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|akk	3	REP	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	gift	gift	adj	adj	eint|m/f|ub|pos	4	SPRED	_	_
+6	med	med	prep	prep	_	5	ADV	_	_
+7	ei	ein	det	det	kvant|eint|fem	6	PUTFYLL	_	_
+8	ifrå	ifrå	prep	prep	_	7	ATR	_	_
+9	Sandeggen	Sandeggen	subst	subst	prop	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	å	å	interj	interj	_	7	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	men	men	konj	konj	_	7	KONJ	_	_
+4	sjølv	sjølv	adv	adv	_	7	ADV	_	_
+5	kor	kor	adv	adv	_	7	ADV	_	_
+6	han	han	pron	pron	pers|eint|mask|3|nom	7	SUBJ	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	ifrå	ifrå	prep	prep	_	7	SPRED	_	_
+9	han	han	pron	pron	pers|eint|mask|3|akk	6	APP	_	_
+10	sj-	sj-	ufullst	ufullst	_	7	FYLL	_	_
+11	?	$?	clb	clb	<spm>	7	IP	_	_
+
+1	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	frå	frå	prep	prep	_	2	SPRED	_	_
+4	Kirkesdalen	Kirkesdalen	subst	subst	prop	3	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	han	han	pron	pron	pers|eint|mask|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	Kirkesdalen	Kirkesdalen	subst	subst	prop	2	SPRED	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	skjønnar	skjønne	verb	verb	pres	2	KOORD	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	10	INTERJ	_	_
+8	men	men	konj	konj	_	10	KONJ	_	_
+9	de	de	pron	pron	pers|fl|2|nom|hum	10	SUBJ	_	_
+10	hadde	ha	verb	verb	pret	2	KOORD	_	_
+11	jo	jo	adv	adv	_	12	ADV	_	_
+12	vore	vere	verb	verb	perf-part	10	INFV	_	_
+13	…	…	ellipsis	ellipsis	_	2	IK	_	_
+14	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	5	ADV	_	_
+3	kunne	kunne	verb	verb	pret	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	stoppe	stoppe	verb	verb	inf	3	INFV	_	_
+6	først	først	adv	adv	_	5	ADV	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	hadde	ha	verb	verb	pret	0	FINV	_	_
+4	vore	vere	verb	verb	perf-part	3	INFV	_	_
+5	ideelt	ideell	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+7	å	å	inf-merke	inf-merke	_	4	PSUBJ	_	_
+8	få	få	verb	verb	inf	7	INFV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	DOBJ	_	_
+10	liksom	liksom	adv	adv	_	3	ADV	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	mann	mann	subst	subst	appell|eint|mask|ub	0	FRAG	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	kone	kone	subst	subst	appell|eint|fem|ub	1	KOORD	_	_
+4	eller	eller	konj	konj	_	7	KONJ	_	_
+5	sånn	sånn	adv	adv	_	7	ADV	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	er	vere	verb	verb	pres	1	ATR	_	_
+8	der	der	prep	prep	_	7	SPRED	_	_
+9	begge	begge	det	det	kvant|fl	7	DET	_	_
+10	frå	frå	prep	prep	_	7	ADV	_	_
+11	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|akk|hum	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	begge	begge	det	det	kvant|fl	5	DET	_	_
+5	to	to	det	det	kvant|fl	3	SPRED	_	_
+6	ifrå	ifrå	prep	prep	_	3	ADV	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	konj	konj	_	4	KONJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	ein	ein	pron	pron	pers|eint|nom|hum	4	SUBJ	_	_
+4	kunne	kunne	verb	verb	pret	0	FINV	_	_
+5	høyrt	høyre	verb	verb	perf-part	4	INFV	_	_
+6	forskjell	forskjell	subst	subst	appell|eint|mask|ub	5	DOBJ	_	_
+7	mellom	mellom	prep	prep	_	8	REP	_	_
+8	mellom	mellom	prep	prep	_	5	ADV	_	_
+9	e	e	nol	nol	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	korleis	korleis	adv	adv	_	13	ADV	_	_
+12	kvinnfolka	kvinnfolk	subst	subst	appell|fl|nøyt|bu	13	SUBJ	_	_
+13	pratar	prate	verb	verb	pres	8	PUTFYLL	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	mannfolka	mannfolk	subst	subst	appell|fl|nøyt|bu	12	KOORD	_	_
+16	viss	viss	sbu	sbu	_	18	SBU	_	_
+17	der	der	prep	prep	_	18	ADV	_	_
+18	er	vere	verb	verb	pres	5	ADV	_	_
+19	nokon	nokon	det	det	kvant|eint|mask	20	DET	_	_
+20	forskjell	forskjell	subst	subst	appell|eint|mask|ub	18	SPRED	_	_
+21	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	kjempegreier	kjempegreie	subst	subst	appell|ub|fl|fem|samset	3	SPRED	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+6	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	få	få	verb	verb	inf	6	ADV	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	DOBJ	_	_
+10	med	med	prep	prep	_	8	ADV	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	var	vere	verb	verb	pret	3	KOORD	_	_
+15	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+16	ein	ein	pron	pron	pers|eint|akk|hum	14	SPRED	_	_
+17	som	som	sbu	sbu	_	18	SBU	_	_
+18	heitte	heite	verb	verb	pret	16	ATR	_	_
+19	M6	M6	subst	subst	prop	18	SPRED	_	_
+20	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	5	SUBJ	_	_
+4	òg	òg	adv	adv	_	5	ADV	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	der	der	prep	prep	_	5	SPRED	_	_
+7	oppe	oppe	prep	prep	_	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	trur	tru	verb	verb	pres	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	6	REP	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	8	SUBJ	_	_
+7	sn-	sn-	ufullst	ufullst	_	8	REP	_	_
+8	snakkar	snakke	verb	verb	pres	3	DOBJ	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	M5	M5	subst	subst	prop	9	PUTFYLL	_	_
+11	først	først	adv	adv	_	8	ADV	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	blir	bli	verb	verb	pres	2	REP	_	_
+2	blir	bli	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	lengre	lang	adj	adj	comp	2	SPRED	_	_
+5	opp	opp	prep	prep	_	4	ADV	_	_
+6	i	i	prep	prep	_	5	ADV	_	_
+7	dalen	dal	subst	subst	appell|eint|mask|bu	6	PUTFYLL	_	_
+8	han	han	pron	pron	pers|eint|mask|3|akk	9	DET	_	_
+9	M6	M6	subst	subst	prop	2	ADV	_	_
+10	der	der	prep	prep	_	2	ADV	_	_
+11	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	han	han	det	det	pers|eint|mask|3|nom	3	DET	_	_
+3	M6	M6	subst	subst	prop	5	SUBJ	_	_
+4	bi-	bi-	ufullst	ufullst	_	5	FYLL	_	_
+5	køyrer	køyre	verb	verb	pres	0	FINV	_	_
+6	forbi	forbi	prep	prep	_	5	ADV	_	_
+7	han	han	pron	pron	pers|eint|mask|3|akk	3	APP	_	_
+8	da	da	adv	adv	_	5	ADV	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	køyrer	køyre	verb	verb	pres	0	FINV	_	_
+4	forbi	forbi	prep	prep	_	3	ADV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|akk	4	PUTFYLL	_	_
+6	ja	ja	interj	interj	_	3	INTERJ	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	mm	mm	interj	interj	_	3	INTERJ	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	så	så	adv	adv	_	6	ADV	_	_
+5	veldig	veldig	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	langt	lang	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+7	ifrå	ifrå	prep	prep	_	2	SPRED	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	er	vere	verb	verb	pres	2	KOORD	_	_
+10	nokre	nokon	det	det	kvant|fl	11	DET	_	_
+11	kilometer	kilometer	subst	subst	appell|fl|mask|ub	9	SPRED	_	_
+12	berre	berre	adv	adv	_	9	ADV	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	mellom	mellom	prep	prep	_	0	FRAG	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ein	ein	pron	pron	pers|eint|nom|hum	2	SUBJ	_	_
+2	skulle	skulle	verb	verb	pret	0	FINV	_	_
+3	vore	vere	verb	verb	perf-part	2	INFV	_	_
+4	oppi	oppi	prep	prep	_	3	ADV	_	_
+5	Rostad	Rostad	subst	subst	prop	4	PUTFYLL	_	_
+6	òg	òg	adv	adv	_	2	ADV	_	_
+7	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	Rostadalen	Rostadalen	subst	subst	prop	2	ADV	_	_
+2	ja	ja	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	6	INTERJ	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	Dividalen	Dividalen	subst	subst	prop	6	SLETT	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	mange	mang ein	det	det	kvant|fl	9	DET	_	_
+9	plassar	plass	subst	subst	appell|fl|mask|ub	6	SPRED	_	_
+10	vi	vi	pron	pron	pers|fl|1|nom|hum	6	ADV	_	_
+11	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	Dividalen	Dividalen	subst	subst	prop	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	langt	lang	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+5	oppover	oppover	prep	prep	_	2	SPRED	_	_
+6	der	der	prep	prep	_	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	7	INTERJ	_	_
+2	men	men	konj	konj	_	7	KONJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	7	REP	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	universitetet	universitet	subst	subst	appell|eint|nøyt|bu	7	SPRED	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	betaler	betale	verb	verb	pres	8	ATR	_	_
+11	reisni-	reisni-	ufullst	ufullst	_	12	REP	_	_
+12	reisinga	reising	subst	subst	appell|eint|fem|bu	10	DOBJ	_	_
+13	sånn	sånn	adv	adv	_	10	ADV	_	_
+14	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	så	så	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	10	REP	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	berre	berre	adv	adv	_	4	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	men	men	konj	konj	_	10	KONJ	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+10	reknar	rekne	verb	verb	pres	0	FINV	_	_
+11	med	med	prep	prep	_	10	ADV	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	11	PUTFYLL	_	_
+13	at	at	sbu	sbu	_	15	SBU	_	_
+14	eg	eg	pron	pron	pers|eint|1|nom|hum	15	SUBJ	_	_
+15	kjem	komme	verb	verb	pres	12	APP	_	_
+16	til	til	prep	prep	_	15	ADV	_	_
+17	å	å	inf-merke	inf-merke	_	16	PUTFYLL	_	_
+18	få	få	verb	verb	inf	17	INFV	_	_
+19	fleire	fleire	adj	adj	fl|pos	21	ATR	_	_
+20	sånne	sånn	det	det	dem|fl	21	DET	_	_
+21	oppdrag	oppdrag	subst	subst	appell|fl|nøyt|ub	18	DOBJ	_	_
+22	#	#	pause	pause	_	23	IK	_	_
+23	at	at	sbu	sbu	_	25	SBU	_	_
+24	eg	eg	pron	pron	pers|eint|1|nom|hum	25	SUBJ	_	_
+25	skal	skulle	verb	verb	pres	15	KOORD	_	_
+26	få	få	verb	verb	inf	25	INFV	_	_
+27	reise	reise	verb	verb	inf	26	INFV	_	_
+28	litt	litt	adj	adj	eint|nøyt|ub|pos	29	ADV	_	_
+29	meir	mykje	adj	adj	comp	27	ADV	_	_
+30	og	og	konj	konj	_	32	KONJ	_	_
+31	så	så	adv	adv	_	32	ADV	_	_
+32	få	få	verb	verb	inf	27	KOORD	_	_
+33	tatt	ta	verb	verb	perf-part	32	INFV	_	_
+34	opp	opp	prep	prep	_	33	ADV	_	_
+35	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	Dividalen	Dividalen	subst	subst	prop	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	8	DET	_	_
+7	seks	seks	det	det	kvant|fl	8	DET	_	_
+8	mil	mil	subst	subst	appell|fl|fem|ub	4	SPRED	_	_
+9	sju	sju	det	det	kvant|fl	10	DET	_	_
+10	mil	mil	subst	subst	appell|fl|fem|ub	8	KOORD	_	_
+11	nei	nei	interj	interj	_	13	INTERJ	_	_
+12	det	det	pron	pron	pers|eint|nøyt|3	13	FSUBJ	_	_
+13	er	vere	verb	verb	pres	4	KOORD	_	_
+14	meir	mykje	adj	adj	comp	13	SPRED	_	_
+15	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	11	REP	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	ja	ja	interj	interj	_	8	INTERJ	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+8	veit	vite	verb	verb	pres	11	KOORD	_	_
+9	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	11	FSUBJ	_	_
+11	er	vere	verb	verb	pres	0	FINV	_	_
+12	jo	jo	adv	adv	_	11	ADV	_	_
+13	forferdeleg	forferdeleg	adj	adj	eint|nøyt|ub|pos	14	ADV	_	_
+14	langt	lang	adj	adj	eint|nøyt|ub|pos	11	SPRED	_	_
+15	innover	innover	prep	prep	_	11	ADV	_	_
+16	så	så	adv	adv	_	11	ADV	_	_
+17	.	$.	clb	clb	<punkt>	11	IP	_	_
+
+1	fire	fire	det	det	kvant|fl	2	DET	_	_
+2	mil	mil	subst	subst	appell|fl|fem|ub	8	ADV	_	_
+3	til	til	prep	prep	_	2	ATR	_	_
+4	Holt	Holt	subst	subst	prop	3	PUTFYLL	_	_
+5	å	å	interj	interj	_	8	INTERJ	_	_
+6	ja	ja	interj	interj	_	8	INTERJ	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	er	vere	verb	verb	pres	0	FINV	_	_
+9	ein	ein	det	det	kvant|eint|mask	12	DET	_	_
+10	åtte	åtte	det	det	kvant|fl	12	DET	_	_
+11	ni	ni	det	det	kvant|fl	12	DET	_	_
+12	mil	mil	subst	subst	appell|fl|fem|ub	8	SPRED	_	_
+13	antakeleg	antakeleg	adj	adj	eint|nøyt|ub|pos	8	ADV	_	_
+14	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	opp	opp	prep	prep	_	0	FRAG	_	_
+2	berre	berre	adv	adv	_	3	ADV	_	_
+3	ein	ein	det	det	kvant|eint|mask	4	DET	_	_
+4	veg	veg	subst	subst	appell|eint|mask|ub	1	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|nom	3	DET	_	_
+3	F2	F2	subst	subst	prop	4	SUBJ	_	_
+4	prøvde	prøve	verb	verb	pret	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	å	å	inf-merke	inf-merke	_	4	DOBJ	_	_
+7	køyre	køyre	verb	verb	inf	6	INFV	_	_
+8	den	den	det	det	dem|eint|mask	9	DET	_	_
+9	vegen	veg	subst	subst	appell|eint|mask|bu	7	DOBJ	_	_
+10	der	der	prep	prep	_	8	ADV	_	_
+11	men	men	konj	konj	_	13	KONJ	_	_
+12	vi	vi	pron	pron	pers|fl|1|nom|hum	13	SUBJ	_	_
+13	måtte	måtte	verb	verb	pret	4	KOORD	_	_
+14	jo	jo	adv	adv	_	16	ADV	_	_
+15	berre	berre	adv	adv	_	16	ADV	_	_
+16	stoppe	stoppe	verb	verb	inf	13	INFV	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	18	FSUBJ	_	_
+18	var	vere	verb	verb	pret	4	KOORD	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	så	så	adv	adv	_	21	ADV	_	_
+21	søkkande	søkkande	adv	adv	_	22	ADV	_	_
+22	langt	lang	adj	adj	eint|nøyt|ub|pos	18	SPRED	_	_
+23	da	da	adv	adv	_	18	ADV	_	_
+24	#	#	pause	pause	_	25	IK	_	_
+25	vi	vi	pron	pron	pers|fl|1|nom|hum	26	SUBJ	_	_
+26	måtte	måtte	verb	verb	pret	4	KOORD	_	_
+27	jo	jo	adv	adv	_	26	ADV	_	_
+28	berre	berre	adv	adv	_	26	ADV	_	_
+29	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	hadde	ha	verb	verb	pret	6	REP	_	_
+2	ikkje	ikkje	adv	adv	_	1	ADV	_	_
+3	ben-	ben-	ufullst	ufullst	_	4	FYLL	_	_
+4	måtte	måtte	verb	verb	pret	6	REP	_	_
+5	kjø-	kjø-	ufullst	ufullst	_	6	FYLL	_	_
+6	hadde	ha	verb	verb	pret	0	FINV	_	_
+7	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+8	bensin	bensin	subst	subst	appell|eint|mask|ub	6	DOBJ	_	_
+9	meir	mykje	adj	adj	comp	6	ADV	_	_
+10	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	måtte	måtte	verb	verb	pret	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	#	#	pause	pause	_	2	IK	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+7	men	men	konj	konj	_	12	KONJ	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	var	vere	verb	verb	pret	12	REP	_	_
+10	n-	n-	ufullst	ufullst	_	9	FYLL	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	blei	bli	verb	verb	pret	3	KOORD	_	_
+13	nå	nå	adv	adv	_	12	ADV	_	_
+14	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	15	ATR	_	_
+15	vêr	vêr	subst	subst	appell|fl|nøyt|ub	12	SPRED	_	_
+16	også	også	adv	adv	_	12	ADV	_	_
+17	så	så	adv	adv	_	12	ADV	_	_
+18	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	såg	sjå	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	på	på	prep	prep	_	3	ADV	_	_
+6	kartet	kart	subst	subst	appell|eint|nøyt|bu	5	PUTFYLL	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	var	vere	verb	verb	pret	3	ADV	_	_
+9	jo	jo	adv	adv	_	8	ADV	_	_
+10	valdsamt	valdsemje	adj	adj	eint|nøyt|ub|samset	11	ADV	_	_
+11	langt	lang	adj	adj	eint|nøyt|ub|pos	8	SPRED	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+14	er	vere	verb	verb	pres	3	KOORD	_	_
+15	jo	jo	adv	adv	_	14	ADV	_	_
+16	heilt	heil	adj	adj	eint|nøyt|ub|pos	14	SPRED	_	_
+17	inn	inn	prep	prep	_	16	ADV	_	_
+18	mot	mot	prep	prep	_	17	PUTFYLL	_	_
+19	grensa	grense	subst	subst	appell|eint|fem|bu	18	PUTFYLL	_	_
+20	viss	viss	sbu	sbu	_	22	SBU	_	_
+21	du	du	pron	pron	pers|eint|2|nom|hum	22	SUBJ	_	_
+22	skal	skulle	verb	verb	pres	14	ADV	_	_
+23	heilt	heil	adj	adj	eint|nøyt|ub|pos	24	ADV	_	_
+24	inst	indre	adj	adj	ub|sup	22	ADV	_	_
+25	i	i	prep	prep	_	24	ADV	_	_
+26	dalen	dal	subst	subst	appell|eint|mask|bu	25	PUTFYLL	_	_
+27	#	#	pause	pause	_	28	IK	_	_
+28	til	til	prep	prep	_	22	ADV	_	_
+29	han	han	pron	pron	pers|eint|mask|3|nom	30	DET	_	_
+30	E3	E3	subst	subst	prop	28	PUTFYLL	_	_
+31	der	der	prep	prep	_	14	ADV	_	_
+32	som	som	sbu	sbu	_	34	SBU	_	_
+33	vi	vi	pron	pron	pers|fl|1|nom|hum	34	SUBJ	_	_
+34	snakka	snakke	verb	verb	pret	31	PUTFYLL	_	_
+35	om	om	prep	prep	_	34	ADV	_	_
+36	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	E4	E4	subst	subst	prop	1	ADV	_	_
+4	og	og	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	blir	bli	verb	verb	pres	0	FINV	_	_
+4	ein	ein	det	det	kvant|eint|mask	6	DET	_	_
+5	alvorleg	alvorleg	adj	adj	eint|m/f|ub|pos	6	ATR	_	_
+6	bit	bit	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+7	å	å	inf-merke	inf-merke	_	6	ATR	_	_
+8	fare	fare	verb	verb	inf	7	INFV	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	sånn	sånn	adv	adv	_	5	ADV	_	_
+2	der	der	prep	prep	_	3	PUTFYLL	_	_
+3	inne	inne	prep	prep	_	5	ADV	_	_
+4	der	der	prep	prep	_	5	ADV	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	dei	dei	pron	pron	pers|fl|3|nom|hum	5	SUBJ	_	_
+7	ein	ein	det	det	kvant|eint|mask	9	DET	_	_
+8	annan	annan	det	det	dem|eint|mask|ub|pos	9	DET	_	_
+9	dialekt	dialekt	subst	subst	appell|eint|mask|ub	5	DOBJ	_	_
+10	igjen	igjen	adv	adv	_	5	ADV	_	_
+11	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	da	da	adv	adv	_	3	ADV	_	_
+3	blir	bli	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	forskjellig	forskjellig	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	må	måtte	verb	verb	pres	0	FINV	_	_
+3	bli	bli	verb	verb	inf	2	INFV	_	_
+4	meir	mykje	adj	adj	comp	6	ATR	_	_
+5	sånn	sånn	det	det	dem|eint|mask	6	DET	_	_
+6	trønder	trønder	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	blanding	blanding	subst	subst	appell|eint|fem|ub	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	stor	stor	adj	adj	eint|m/f|ub|pos	4	ATR	_	_
+4	forskjell	forskjell	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+5	på	på	prep	prep	_	4	ATR	_	_
+6	dialekten	dialekt	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+7	på	på	prep	prep	_	10	REP	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	på	på	prep	prep	_	6	ATR	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	Dividalen	Dividalen	subst	subst	prop	10	PUTFYLL	_	_
+13	og	og	konj	konj	_	15	REP	_	_
+14	e	e	nol	nol	_	15	FYLL	_	_
+15	og	og	konj	konj	_	16	KONJ	_	_
+16	Rostad	Rostad	subst	subst	prop	12	KOORD	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nedover	nedover	prep	prep	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	Rostad	Rostad	subst	subst	prop	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	6	REP	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	der	der	prep	prep	_	6	ADV	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+8	ein	ein	det	det	kvant|eint|mask	10	DET	_	_
+9	heilt	heil	adj	adj	eint|nøyt|ub|pos	10	ADV	_	_
+10	annan	annan	det	det	dem|eint|mask|ub|pos	6	SPRED	_	_
+11	synest	synast	verb	verb	pres	6	PAR	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	11	SUBJ	_	_
+13	enn	enn	prep	prep	_	10	ADV	_	_
+14	Kirkesdalen	Kirkesdalen	subst	subst	prop	13	PUTFYLL	_	_
+15	igjen	igjen	adv	adv	_	6	ADV	_	_
+16	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	enn	enn	prep	prep	_	0	FRAG	_	_
+2	rundt	rundt	prep	prep	_	4	DET	_	_
+3	e	e	nol	nol	_	4	FYLL	_	_
+4	Rundhaugen	Rundhaugen	subst	subst	prop	1	PUTFYLL	_	_
+5	og	og	konj	konj	_	1	KONJ	_	_
+6	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	spørst	spørjast	verb	verb	pres	0	FINV	_	_
+2	jo	jo	adv	adv	_	1	ADV	_	_
+3	innvandrarane	innvandrar	subst	subst	appell|fl|mask|bu	5	APP	_	_
+4	kor	kor	adv	adv	_	6	ADV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	6	DOBJ	_	_
+6	kom	komme	verb	verb	pret	1	DOBJ	_	_
+7	ifrå	ifrå	prep	prep	_	6	ADV	_	_
+8	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	3	SPRED	_	_
+6	som	som	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+8	avheng	avhenge	verb	verb	pres	5	ATR	_	_
+9	av	av	prep	prep	_	8	ADV	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	ja	ja	interj	interj	_	3	INTERJ	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	enn	enn	prep	prep	_	4	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	sånne	sånn	det	det	dem|fl	4	DET	_	_
+4	plassar	plass	subst	subst	appell|fl|mask|ub	0	FRAG	_	_
+5	sånn	sånn	adv	adv	_	6	ADV	_	_
+6	som	som	prep	prep	_	4	ATR	_	_
+7	Olsborg	Olsborg	subst	subst	prop	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	Olsborg	Olsborg	subst	subst	prop	7	ADV	_	_
+2	ja	ja	interj	interj	_	7	INTERJ	_	_
+3	nei	nei	interj	interj	_	7	INTERJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	7	SLETT	_	_
+5	der	der	prep	prep	_	4	ATR	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+7	vil	vilje	verb	verb	pres	0	FINV	_	_
+8	seie	seie	verb	verb	inf	7	INFV	_	_
+9	d-	d-	ufullst	ufullst	_	11	FYLL	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	der	der	adv	adv	_	12	ADV	_	_
+12	er	vere	verb	verb	pres	8	DOBJ	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+14	utvaska	utvaska	adj	adj	eint|nøyt|ub|pos	12	SPRED	_	_
+15	veldig	veldig	adj	adj	eint|nøyt|ub|pos	12	ADV	_	_
+16	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	men	men	konj	konj	_	3	KONJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	vore	vere	verb	verb	perf-part	3	INFV	_	_
+6	sånn	sånn	adv	adv	_	5	SPRED	_	_
+7	i	i	prep	prep	_	5	ADV	_	_
+8	sånn	sånn	adv	adv	_	11	ADV	_	_
+9	eit	ein	det	det	kvant|eint|nøyt	11	DET	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	dølemål	dølemål	subst	subst	appell|eint|nøyt|ub	7	PUTFYLL	_	_
+12	der	der	prep	prep	_	5	ADV	_	_
+13	nede	nede	prep	prep	_	12	PUTFYLL	_	_
+14	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	4	REP	_	_
+3	ja	ja	interj	interj	_	5	INTERJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	vore	vere	verb	verb	perf-part	5	INFV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	SPRED	_	_
+8	ja	ja	interj	interj	_	5	INTERJ	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	5	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	REP	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	eit	ein	det	det	kvant|eint|nøyt	9	DET	_	_
+7	anna	annen	det	det	dem|eint|nøyt|ub|pos	9	DET	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	mål	mål	subst	subst	appell|eint|nøyt|ub	5	SPRED	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	nå	nå	adv	adv	_	3	ADV	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+5	jo	jo	adv	adv	_	3	ADV	_	_
+6	veldig	veldig	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+7	likt	lik	adj	adj	eint|nøyt|ub|pos	8	ATR	_	_
+8	nordnorsk	nordnorsk	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	og	og	konj	konj	_	5	KONJ	_	_
+4	heile	heil	adj	adj	eint|bu|pos	5	ATR	_	_
+5	strekninga	strekning	subst	subst	appell|eint|fem|bu	1	ADV	_	_
+6	ned	ned	prep	prep	_	5	ATR	_	_
+7	mot	mot	prep	prep	_	6	PUTFYLL	_	_
+8	Målsnes	Målsnes	subst	subst	prop	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	heile	heil	adj	adj	eint|bu|pos	3	ATR	_	_
+3	vegen	veg	subst	subst	appell|eint|mask|bu	1	ADV	_	_
+4	der	der	prep	prep	_	3	ATR	_	_
+5	nedover	nedover	prep	prep	_	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	konj	konj	_	4	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	blir	bli	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	9	INTERJ	_	_
+9	ifrå	ifrå	prep	prep	_	4	SPRED	_	_
+10	Olsborg	Olsborg	subst	subst	prop	9	PUTFYLL	_	_
+11	da	da	adv	adv	_	4	ADV	_	_
+12	og	og	konj	konj	_	14	KONJ	_	_
+13	så	så	adv	adv	_	14	ADV	_	_
+14	oppover	oppover	prep	prep	_	9	KOORD	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	dalen	dal	subst	subst	appell|eint|mask|bu	14	PUTFYLL	_	_
+17	da	da	adv	adv	_	4	ADV	_	_
+18	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	innover	innover	prep	prep	_	18	ADV	_	_
+4	mot	mot	prep	prep	_	3	PUTFYLL	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	Dividalen	Dividalen	subst	subst	prop	4	PUTFYLL	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	svenskegrensa	svenskegrense	subst	subst	appell|eint|fem|bu	6	KOORD	_	_
+9	da	da	adv	adv	_	3	ADV	_	_
+10	også	også	adv	adv	_	11	KONJ	_	_
+11	oppover	oppover	prep	prep	_	3	KOORD	_	_
+12	Stjørdalen	Stjørdalen	subst	subst	prop	11	PUTFYLL	_	_
+13	og	og	konj	konj	_	14	KONJ	_	_
+14	Østerdalen	Østerdalen	subst	subst	prop	12	KOORD	_	_
+15	da	da	adv	adv	_	11	ADV	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	18	FSUBJ	_	_
+18	er	vere	verb	verb	pres	0	FINV	_	_
+19	jo	jo	adv	adv	_	18	ADV	_	_
+20	dei	dei	det	det	dem|fl	21	DET	_	_
+21	plassane	plass	subst	subst	appell|fl|mask|bu	18	SPRED	_	_
+22	som	som	sbu	sbu	_	24	SBU	_	_
+23	ein	ein	pron	pron	pers|eint|nom|hum	24	SUBJ	_	_
+24	bør	burde	verb	verb	pres	21	ATR	_	_
+25	dekke	dekke	verb	verb	inf	24	INFV	_	_
+26	da	da	adv	adv	_	25	ADV	_	_
+27	om	om	sbu	sbu	_	29	SBU	_	_
+28	ein	ein	pron	pron	pers|eint|nom|hum	29	SUBJ	_	_
+29	skal	skulle	verb	verb	pres	25	ADV	_	_
+30	få	få	verb	verb	inf	29	INFV	_	_
+31	noko	nokon	det	det	kvant|eint|nøyt	32	DET	_	_
+32	inntrykk	inntrykk	subst	subst	appell|eint|nøyt|ub	30	DOBJ	_	_
+33	også	også	adv	adv	_	34	KONJ	_	_
+34	Setermoen	Setermoen	subst	subst	prop	21	KOORD	_	_
+35	sjølvsagt	sjølvsagt	adj	adj	eint|nøyt|ub|pos	18	ADV	_	_
+36	.	$.	clb	clb	<punkt>	18	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	da	da	adv	adv	_	2	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	også	også	adv	adv	_	2	ADV	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	Sørdalen	Sørdalen	subst	subst	prop	13	APP	_	_
+4	og	og	konj	konj	_	5	KONJ	_	_
+5	Østerdalen	Østerdalen	subst	subst	prop	3	KOORD	_	_
+6	og	og	konj	konj	_	7	REP	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	Rostad	Rostad	subst	subst	prop	3	KOORD	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	Dividalen	Dividalen	subst	subst	prop	3	KOORD	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	dei	dei	det	det	dem|fl	13	DET	_	_
+13	dalane	dal	subst	subst	appell|fl|mask|bu	14	SUBJ	_	_
+14	skulle	skulle	verb	verb	pret	0	FINV	_	_
+15	vore	vere	verb	verb	perf-part	14	INFV	_	_
+16	tatt	ta	verb	verb	perf-part	15	INFV	_	_
+17	.	$.	clb	clb	<punkt>	14	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	så	så	konj	konj	_	5	KONJ	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	fire	fire	det	det	kvant|fl	8	REP	_	_
+7	e	e	nol	nol	_	8	FYLL	_	_
+8	fire	fire	det	det	kvant|fl	9	DET	_	_
+9	dalføre	dalføre	subst	subst	appell|fl|nøyt|ub	5	DOBJ	_	_
+10	der	der	prep	prep	_	5	ADV	_	_
+11	som	som	sbu	sbu	_	14	SBU	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	vi	vi	pron	pron	pers|fl|1|nom|hum	14	SUBJ	_	_
+14	burde	burde	verb	verb	pret	9	ATR	_	_
+15	vore	vere	verb	verb	perf-part	14	INFV	_	_
+16	innom	innom	prep	prep	_	15	SPRED	_	_
+17	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	veldige	veldig	adj	adj	fl|pos	6	ATR	_	_
+6	avstandar	avstand	subst	subst	appell|fl|mask|ub	3	SPRED	_	_
+7	der	der	prep	prep	_	3	ADV	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	9	INTERJ	_	_
+2	ja	ja	interj	interj	_	9	INTERJ	_	_
+3	men	men	konj	konj	_	9	KONJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	9	REP	_	_
+6	jo	jo	adv	adv	_	5	ADV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	er	vere	verb	verb	pres	0	FINV	_	_
+10	god	god	adj	adj	eint|m/f|ub|pos	9	SPRED	_	_
+11	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	veit	vite	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	Salangsdalen	Salangsdalen	subst	subst	prop	7	APP	_	_
+6	om	om	sbu	sbu	_	8	SBU	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	SUBJ	_	_
+8	høyrer	høyre	verb	verb	pres	3	DOBJ	_	_
+9	med	med	prep	prep	_	8	ADV	_	_
+10	under	under	prep	prep	_	8	ADV	_	_
+11	det	det	det	det	dem|eint|nøyt	12	DET	_	_
+12	same	same	det	det	dem|bu	10	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	Salangsdalen	Salangsdalen	subst	subst	prop	9	PUTFYLL	_	_
+3	ja	ja	interj	interj	_	5	INTERJ	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+7	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+8	tenkt	tenke	verb	verb	perf-part	5	INFV	_	_
+9	på	på	prep	prep	_	8	ADV	_	_
+10	i	i	prep	prep	_	8	ADV	_	_
+11	grunnen	grunn	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	6	REP	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	òg	òg	adv	adv	_	6	ADV	_	_
+9	i	i	prep	prep	_	6	SPRED	_	_
+10	Bardu	Bardu	subst	subst	prop	9	PUTFYLL	_	_
+11	veit	vite	verb	verb	pres	6	PAR	_	_
+12	du	du	pron	pron	pers|eint|2|nom|hum	11	SUBJ	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	høyrer	høyre	verb	verb	pres	6	KOORD	_	_
+15	til	til	prep	prep	_	14	ADV	_	_
+16	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	der	der	prep	prep	_	2	ADV	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	utprega	utprega	adj	adj	eint|bu|pos	2	SPRED	_	_
+5	sånn	sånn	adv	adv	_	2	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	eller	eller	konj	konj	_	8	KONJ	_	_
+8	er	vere	verb	verb	pres	2	KOORD	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	4	ADV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	skal	skulle	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+6	seie	seie	verb	verb	inf	4	INFV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+8	for	for	sbu	sbu	_	13	SBU	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	ADV	_	_
+10	at	at	sbu	sbu	_	13	SBU	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	13	SUBJ	_	_
+13	er	vere	verb	verb	pres	4	ADV	_	_
+14	så	så	adv	adv	_	15	ADV	_	_
+15	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	16	ADV	_	_
+16	kjent	kjenne	adj	adj	eint|nøyt|ub	13	SPRED	_	_
+17	der	der	prep	prep	_	16	ADV	_	_
+18	oppe	oppe	prep	prep	_	17	PUTFYLL	_	_
+19	for	for	konj	konj	_	21	KONJ	_	_
+20	eg	eg	pron	pron	pers|eint|1|nom|hum	21	SUBJ	_	_
+21	har	ha	verb	verb	pres	4	KOORD	_	_
+22	vore	vere	verb	verb	perf-part	21	INFV	_	_
+23	berre	berre	adv	adv	_	24	ADV	_	_
+24	eit	ein	det	det	kvant|eint|nøyt	25	DET	_	_
+25	par	par	subst	subst	appell|eint|nøyt|ub	26	ATR	_	_
+26	gonger	gong	subst	subst	appell|fl|mask|ub	22	SPRED	_	_
+27	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	for	for	konj	konj	_	5	KONJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	høyrt	høyre	verb	verb	perf-part	5	INFV	_	_
+7	av	av	prep	prep	_	6	ADV	_	_
+8	salangsværingar	salangsværing	subst	subst	appell|ub|fl|mask|samset	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	er	vere	verb	verb	pres	5	ADV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+12	vel	vel	adv	adv	_	10	ADV	_	_
+13	e	e	nol	nol	_	14	FYLL	_	_
+14	godt	godt	adj	adj	_	10	SPRED	_	_
+15	om	om	sbu	sbu	_	17	SBU	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	17	FSUBJ	_	_
+17	er	vere	verb	verb	pres	10	ADV	_	_
+18	vel	vel	adv	adv	_	19	ADV	_	_
+19	mykje	mykje	adj	adj	eint|nøyt|ub|pos	25	ATR	_	_
+20	nordn-	nordn-	ufullst	ufullst	_	21	SLETT	_	_
+21	eller	eller	konj	konj	_	25	KONJ	_	_
+22	sånn	sånn	det	det	dem|eint|fem	25	DET	_	_
+23	rein	rein	adj	adj	eint|m/f|ub|pos	25	ATR	_	_
+24	nordnorsk	nordnorsk	adj	adj	eint|m/f|ub|pos	25	ATR	_	_
+25	dialekt	dialekt	subst	subst	appell|eint|fem|ub	17	SPRED	_	_
+26	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	trur	tru	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+2	trur	tru	verb	verb	pres	4	REP	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	trur	tru	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	4	DOBJ	_	_
+8	så	så	adv	adv	_	7	ADV	_	_
+9	i	i	prep	prep	_	12	ADV	_	_
+10	alle	all	det	det	kvant|fl	11	DET	_	_
+11	fall	fall	subst	subst	appell|fl|nøyt|ub	9	PUTFYLL	_	_
+12	er	vere	verb	verb	pres	4	KOORD	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+14	veldig	veldig	adj	adj	eint|nøyt|ub|pos	15	ADV	_	_
+15	utvaska	utvaska	adj	adj	eint|nøyt|ub|pos	12	SPRED	_	_
+16	da	da	adv	adv	_	12	ADV	_	_
+17	viss	viss	sbu	sbu	_	19	SBU	_	_
+18	det	det	pron	pron	pers|eint|nøyt|3	19	FSUBJ	_	_
+19	er	vere	verb	verb	pres	12	ADV	_	_
+20	noko	nokon	det	det	kvant|eint|nøyt	21	DET	_	_
+21	sånt	sånt	pron	pron	pers|eint|nøyt|3|akk	19	SPRED	_	_
+22	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	ein	ein	pron	pron	pers|eint|akk|hum	3	SPRED	_	_
+6	av	av	prep	prep	_	5	ATR	_	_
+7	innvandringsvegane	innvandringsveg	subst	subst	appell|bu|fl|mask|samset	6	PUTFYLL	_	_
+8	over	over	prep	prep	_	7	ATR	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	Sørreisa	Sørreisa	subst	subst	prop	8	PUTFYLL	_	_
+11	og	og	adv	adv	_	3	ADV	_	_
+12	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	#	#	pause	pause	_	2	IK	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	for	for	konj	konj	_	2	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	0	FRAG	_	_
+3	som	som	sbu	sbu	_	9	SBU	_	_
+4	kom	komme	verb	verb	pret	6	REP	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	kom	komme	verb	verb	pret	9	REP	_	_
+7	e	e	nol	nol	_	9	FYLL	_	_
+8	f-	f-	ufullst	ufullst	_	9	FYLL	_	_
+9	flytta	flytte	verb	verb	pret	2	ATR	_	_
+10	inn	inn	prep	prep	_	9	ADV	_	_
+11	da	da	adv	adv	_	9	ADV	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	meiner	meine	verb	verb	pres	0	FINV	_	_
+2	jo	jo	adv	adv	_	1	ADV	_	_
+3	at	at	sbu	sbu	_	6	SBU	_	_
+4	dei	dei	det	det	dem|fl	5	DET	_	_
+5	fleste	mange	adj	adj	bu|sup	6	SUBJ	_	_
+6	kom	komme	verb	verb	pret	1	DOBJ	_	_
+7	innover	innover	prep	prep	_	6	ADV	_	_
+8	Målsnes	Målsnes	subst	subst	prop	7	PUTFYLL	_	_
+9	da	da	adv	adv	_	6	ADV	_	_
+10	men	men	konj	konj	_	13	KONJ	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	13	SUBJ	_	_
+12	stemm-	stemm-	ufullst	ufullst	_	13	REP	_	_
+13	stemmer	stemme	verb	verb	pres	1	KOORD	_	_
+14	jo	jo	adv	adv	_	13	ADV	_	_
+15	ikkje	ikkje	adv	adv	_	13	ADV	_	_
+16	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	kom	komme	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	sjøvegen	sjøveg	subst	subst	appell|eint|mask|bu	3	DOBJ	_	_
+6	mesteparten	mestepart	subst	subst	appell|eint|mask|bu	2	APP	_	_
+7	trur	tru	verb	verb	pres	3	PAR	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	7	SUBJ	_	_
+9	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	altså	altså	adv	adv	_	5	ADV	_	_
+5	ifrå	ifrå	prep	prep	_	8	REP	_	_
+6	Måls-	Måls-	ufullst	ufullst	prop	5	FYLL	_	_
+7	nei	nei	interj	interj	_	8	INTERJ	_	_
+8	frå	frå	prep	prep	_	10	ADV	_	_
+9	Målsnes	Målsnes	subst	subst	prop	8	PUTFYLL	_	_
+10	var	vere	verb	verb	pret	0	FINV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+12	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+13	nokon	nokon	det	det	kvant|eint|mask	17	DET	_	_
+14	handels-	handels-	ufullst	ufullst	_	15	FYLL	_	_
+15	eller	eller	konj	konj	_	16	KONJ	_	_
+16	sånn	sånn	det	det	dem|eint|mask	17	DET	_	_
+17	fangststasjon	fangststasjon	subst	subst	appell|eint|ub|mask|samset	10	PSUBJ	_	_
+18	der	der	prep	prep	_	10	ADV	_	_
+19	?	$?	clb	clb	<spm>	10	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	så	så	adv	adv	_	3	ADV	_	_
+3	kom	komme	verb	verb	pret	0	FINV	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	men	men	konj	konj	_	4	KONJ	_	_
+2	veit	vite	verb	verb	pres	4	PAR	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	kom	komme	verb	verb	pret	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	mykje	mykje	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+7	over	over	prep	prep	_	4	ADV	_	_
+8	grensa	grense	subst	subst	appell|eint|fem|bu	7	PUTFYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ifrå	ifrå	prep	prep	_	4	ADV	_	_
+11	Sverige	Sverige	subst	subst	prop	10	PUTFYLL	_	_
+12	og	og	konj	konj	_	13	KONJ	_	_
+13	Finland	Finland	subst	subst	prop	11	KOORD	_	_
+14	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	etterpå	etterpå	adv	adv	_	3	ADV	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	seinare	sein	adj	adj	comp	3	SPRED	_	_
+6	igjen	igjen	adv	adv	_	3	ADV	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ja	ja	interj	interj	_	3	INTERJ	_	_
+10	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+2	tenker	tenke	verb	verb	pres	0	FINV	_	_
+3	på	på	prep	prep	_	2	ADV	_	_
+4	den	den	det	det	dem|eint|fem	7	DET	_	_
+5	kvens-	kvens-	ufullst	ufullst	_	6	REP	_	_
+6	kvenske	kvensk	adj	adj	eint|bu|pos	7	ATR	_	_
+7	innvandringa	innvandring	subst	subst	appell|eint|fem|bu	3	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	finlendarane	finlendar	subst	subst	appell|fl|mask|bu	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	6	REP	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	var	vere	verb	verb	pret	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	seinare	sein	adj	adj	comp	6	SPRED	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	5	APP	_	_
+10	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+2	ser	sjå	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	ein	ein	pron	pron	pers|eint|akk|hum	2	DOBJ	_	_
+5	av	av	prep	prep	_	4	ATR	_	_
+6	bestefaren	bestefar	subst	subst	appell|eint|mask|bu	8	APP	_	_
+7	min	min	det	det	poss|eint|mask	6	DET	_	_
+8	han	han	pron	pron	pers|eint|mask|3|nom	9	SUBJ	_	_
+9	kom	komme	verb	verb	pret	2	KOORD	_	_
+10	jo	jo	adv	adv	_	9	ADV	_	_
+11	ifrå	ifrå	prep	prep	_	9	ADV	_	_
+12	Finland	Finland	subst	subst	prop	11	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	akkurat	akkurat	adv	adv	_	5	ADV	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	1	INTERJ	_	_
+8	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	6	KONJ	_	_
+2	ei	ein	det	det	kvant|eint|fem	4	DET	_	_
+3	av	av	prep	prep	_	2	ADV	_	_
+4	bestemødrene	bestemor	subst	subst	appell|fl|fem|bu	5	APP	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	6	SUBJ	_	_
+6	kom	komme	verb	verb	pret	0	FINV	_	_
+7	ifrå	ifrå	prep	prep	_	6	ADV	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	Sverige	Sverige	subst	subst	prop	7	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	på	på	prep	prep	_	1	ADV	_	_
+4	same	same	det	det	dem|bu	5	DET	_	_
+5	sida	side	subst	subst	appell|eint|fem|bu	3	PUTFYLL	_	_
+6	også	også	adv	adv	_	1	ADV	_	_
+7	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	m	m	interj	interj	_	4	INTERJ	_	_
+2	nei	nei	interj	interj	_	4	INTERJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+6	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+7	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	5	KONJ	_	_
+2	mor	mor	subst	subst	appell|eint|fem|ub	4	APP	_	_
+3	di	din	det	det	poss|eint|fem	2	DET	_	_
+4	ho	ho	pron	pron	pers|eint|fem|3|nom	5	SUBJ	_	_
+5	var	vere	verb	verb	pret	0	FINV	_	_
+6	frå	frå	prep	prep	_	5	SPRED	_	_
+7	Helgeland	Helgeland	subst	subst	prop	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	2	INTERJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	frå	frå	prep	prep	_	2	SPRED	_	_
+4	Helgeland	Helgeland	subst	subst	prop	3	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	kor	kor	adv	adv	_	4	ADV	_	_
+4	hen	hen	prep	prep	_	0	FRAG	_	_
+5	på	på	prep	prep	_	4	PUTFYLL	_	_
+6	Helgeland	Helgeland	subst	subst	prop	5	PUTFYLL	_	_
+7	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	Brønnøysund	Brønnøysund	subst	subst	prop	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	Brønnøysund	Brønnøysund	subst	subst	prop	7	SLETT	_	_
+2	ja	ja	interj	interj	_	7	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	7	INTERJ	_	_
+5	men	men	konj	konj	_	7	KONJ	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	greitt	greie	adj	adj	eint|nøyt|ub	7	SPRED	_	_
+9	å	å	inf-merke	inf-merke	_	7	PSUBJ	_	_
+10	vite	vite	verb	verb	inf	9	INFV	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	DOBJ	_	_
+12	så	så	adv	adv	_	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	e	e	nol	nol	_	1	FYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	opptaket	opptak	subst	subst	appell|eint|nøyt|bu	1	PUTFYLL	_	_
+3	sin	sin	det	det	poss|eint|mask	4	DET	_	_
+4	del	del	subst	subst	appell|eint|mask|ub	2	ATR	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ho	ho	pron	pron	pers|eint|fem|3|nom	2	SUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	frå	frå	prep	prep	_	2	SPRED	_	_
+4	Brønnøysund	Brønnøysund	subst	subst	prop	3	PUTFYLL	_	_
+5	ja	ja	interj	interj	_	2	INTERJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	der	der	prep	prep	_	11	DOBJ	_	_
+8	har	ha	verb	verb	pres	2	KOORD	_	_
+9	eg	eg	pron	pron	pers|eint|1|nom|hum	8	SUBJ	_	_
+10	aldri	aldri	adv	adv	_	11	ADV	_	_
+11	vore	vere	verb	verb	perf-part	8	INFV	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	der	der	prep	prep	_	2	ADV	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	2	SUBJ	_	_
+4	jo	jo	adv	adv	_	2	ADV	_	_
+5	òg	òg	adv	adv	_	2	ADV	_	_
+6	ein	ein	det	det	kvant|eint|mask	8	DET	_	_
+7	god	god	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+8	del	del	subst	subst	appell|eint|mask|ub	9	DET	_	_
+9	slektningar	slektning	subst	subst	appell|fl|mask|ub	2	DOBJ	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ho	ho	pron	pron	pers|eint|fem|3|nom	2	DET	_	_
+2	F1	F1	subst	subst	prop	3	SUBJ	_	_
+3	nemnde	nemne	verb	verb	pret	0	FINV	_	_
+4	at	at	sbu	sbu	_	6	SBU	_	_
+5	ho	ho	pron	pron	pers|eint|fem|3|nom	6	SUBJ	_	_
+6	hadde	ha	verb	verb	pret	3	DOBJ	_	_
+7	vore	vere	verb	verb	perf-part	6	INFV	_	_
+8	e	e	nol	nol	_	10	FYLL	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	mor	mor	subst	subst	appell|eint|fem|ub	12	APP	_	_
+11	di	din	det	det	poss|eint|fem	10	ATR	_	_
+12	ho	ho	pron	pron	pers|eint|fem|3|nom	13	SUBJ	_	_
+13	hadde	ha	verb	verb	pret	3	KOORD	_	_
+14	budd	bu	verb	verb	perf-part	13	INFV	_	_
+15	noko	noko	adv	adv	pers|eint|nøyt|3|akk	14	ADV	_	_
+16	i	i	prep	prep	_	14	ADV	_	_
+17	Kirkenes	Kirkenes	subst	subst	prop	16	PUTFYLL	_	_
+18	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	nå	nå	adv	adv	_	3	ADV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	10	REP	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	2	APP	_	_
+6	de	de	pron	pron	pers|fl|2|nom|hum	7	SUBJ	_	_
+7	har	ha	verb	verb	pres	10	REP	_	_
+8	eller	eller	konj	konj	_	10	KONJ	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+10	har	ha	verb	verb	pres	0	FINV	_	_
+11	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+12	noko	noko	pron	pron	pers|eint|nøyt|3|akk	10	DOBJ	_	_
+13	e	e	nol	nol	_	15	FYLL	_	_
+14	#	#	pause	pause	_	15	IK	_	_
+15	igjen	igjen	adv	adv	_	10	ADV	_	_
+16	utav	utav	prep	prep	_	10	ADV	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	16	PUTFYLL	_	_
+18	?	$?	clb	clb	<spm>	10	IP	_	_
+
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	veit	vite	verb	verb	pres	9	PAR	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	2	SUBJ	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	har	ha	verb	verb	pres	9	REP	_	_
+6	nå	nå	adv	adv	_	5	ADV	_	_
+7	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+8	eg	eg	pron	pron	pers|eint|1|nom|hum	9	SUBJ	_	_
+9	har	ha	verb	verb	pres	0	FINV	_	_
+10	ikkje	ikkje	adv	adv	_	11	ADV	_	_
+11	budd	bu	verb	verb	perf-part	9	INFV	_	_
+12	der	der	prep	prep	_	11	DOBJ	_	_
+13	oppe	oppe	prep	prep	_	12	PUTFYLL	_	_
+14	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	du	du	pron	pron	pers|eint|2|nom|hum	5	SUBJ	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	noko	noko	pron	pron	pers|eint|nøyt|3|akk	5	DOBJ	_	_
+8	igjen	igjen	adv	adv	_	5	ADV	_	_
+9	utav	utav	prep	prep	_	5	ADV	_	_
+10	mor	mor	subst	subst	appell|eint|fem|ub	9	PUTFYLL	_	_
+11	di	din	det	det	poss|eint|fem	10	DET	_	_
+12	sin	sin	det	det	poss|eint|mask	11	DET	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	altså	altså	adv	adv	_	5	ADV	_	_
+15	helgelendingsdialekten	helgelendingsdialekt	subst	subst	appell|eint|bu|mask|samset	9	PUTFYLL	_	_
+16	heller	heller	adv	adv	_	5	ADV	_	_
+17	sånn	sånn	adv	adv	_	5	ADV	_	_
+18	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	nei	nei	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|nom	3	SUBJ	_	_
+3	tok	ta	verb	verb	pret	0	FINV	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	kanskje	kanskje	adv	adv	_	3	ADV	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	i	i	prep	prep	_	8	ADV	_	_
+8	opp	opp	prep	prep	_	3	ADV	_	_
+9	i	i	prep	prep	_	8	PUTFYLL	_	_
+10	seg	seg	pron	pron	refl|eint/fl|akk	9	PUTFYLL	_	_
+11	den	den	det	det	pers|eint|f/m|3|akk	14	DET	_	_
+12	her	her	prep	prep	_	11	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	dialekten	dialekt	subst	subst	appell|eint|mask|bu	3	DOBJ	_	_
+15	her	her	prep	prep	_	3	ADV	_	_
+16	da	da	adv	adv	_	3	ADV	_	_
+17	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	antakeleg	antakeleg	adj	adj	eint|nøyt|ub|pos	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	så	så	adv	adv	_	1	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+4	dei	dei	pron	pron	pers|fl|3|akk|hum	6	SUBJ	_	_
+5	fleste	mange	adj	adj	bu|sup	6	SPRED	_	_
+6	gjer	gjere	verb	verb	pres	3	ATR	_	_
+7	kanskje	kanskje	adv	adv	_	6	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	for	for	konj	konj	_	2	KONJ	_	_
+2	Kirkenes	Kirkenes	subst	subst	prop	5	ADV	_	_
+3	igjen	igjen	adv	adv	_	2	ADV	_	_
+4	der	der	prep	prep	_	5	ADV	_	_
+5	har	ha	verb	verb	pres	0	FINV	_	_
+6	dei	dei	pron	pron	pers|fl|3|akk|hum	5	SUBJ	_	_
+7	anna	annan	det	det	dem|eint|nøyt|ub|pos	8	DET	_	_
+8	språk	språk	subst	subst	appell|eint|nøyt|ub	5	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	prep	prep	_	3	ADV	_	_
+2	der	der	prep	prep	_	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	mest	mykje	adj	adj	ub|sup	3	ADV	_	_
+5	berre	berre	adv	adv	_	6	ATR	_	_
+6	innvandrarar	innvandrar	subst	subst	appell|fl|mask|ub	3	SPRED	_	_
+7	alt	all	det	det	kvant|eint|nøyt	3	DET	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	heile	heil	adj	adj	eint|bu|pos	5	ATR	_	_
+5	gruvebyen	gruveby	subst	subst	appell|eint|mask|bu	2	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	2	KOORD	_	_
+8	jo	jo	adv	adv	_	10	ADV	_	_
+9	alt	alt	adv	adv	_	10	ADV	_	_
+10	flytta	flytte	verb	verb	perf-part	7	INFV	_	_
+11	til	til	prep	prep	_	10	ADV	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	blir	bli	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	mest	mykje	adj	adj	ub|sup	1	SPRED	_	_
+4	sånn	sånn	det	det	dem|eint|mask	3	ADV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	riksmåls-	riksmåls-	ufullst	ufullst	_	1	FYLL	_	_
+7	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	bok-	bok-	ufullst	ufullst	_	2	REP	_	_
+2	bokspråk	bokspråk	subst	subst	appell|eint|nøyt|ub	4	DOBJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	antar	anta	verb	verb	pres	0	FINV	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	mange	mang ein	det	det	kvant|fl	6	DET	_	_
+6	stadar	stad	subst	subst	appell|fl|mask|ub	3	SPRED	_	_
+7	ein	ein	pron	pron	pers|eint|akk|hum	8	SUBJ	_	_
+8	har	ha	verb	verb	pres	6	ATR	_	_
+9	slekt	slekt	subst	subst	appell|eint|fem|ub	8	DOBJ	_	_
+10	som	som	sbu	sbu	_	13	SBU	_	_
+11	ein	ein	pron	pron	pers|eint|nom|hum	13	SUBJ	_	_
+12	ikkje	ikkje	adv	adv	_	13	ADV	_	_
+13	veit	vite	verb	verb	pres	9	ATR	_	_
+14	om	om	prep	prep	_	13	ADV	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	kan	kunne	verb	verb	pres	0	FINV	_	_
+2	ta	ta	verb	verb	inf	1	INFV	_	_
+3	å	å	inf-merke	inf-merke	_	2	DOBJ	_	_
+4	begynne	begynne	verb	verb	inf	3	INFV	_	_
+5	med	med	prep	prep	_	4	ADV	_	_
+6	slektsgransking	slektsgransking	subst	subst	appell|eint|fem|ub	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	slektspapiret	slektspapir	subst	subst	appell|eint|bu|nøyt|samset	2	DOBJ	_	_
+6	her	her	prep	prep	_	2	ADV	_	_
+7	liggande	ligge	adj	adj	_	2	FOPRED	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	vel	vel	adv	adv	_	4	ADV	_	_
+3	ha-	ha-	ufullst	ufullst	_	4	REP	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+6	drive	drive	verb	verb	perf-part	4	INFV	_	_
+7	med	med	prep	prep	_	6	ADV	_	_
+8	litt	litt	adj	adj	eint|nøyt|ub|pos	9	ADV	_	_
+9	sånn	sånn	det	det	dem|eint|fem	7	PUTFYLL	_	_
+10	s-	s-	ufullst	ufullst	_	4	FYLL	_	_
+11	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	på	på	prep	prep	_	6	ADV	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	bestefar	bestefar	subst	subst	appell|eint|mask|ub	1	PUTFYLL	_	_
+4	si	sin	det	det	poss|eint|fem	5	DET	_	_
+5	side	side	subst	subst	appell|eint|fem|ub	3	ATR	_	_
+6	fekk	få	verb	verb	pret	0	FINV	_	_
+7	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+8	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	ifrå	ifrå	prep	prep	_	6	ADV	_	_
+2	heilt	heil	adj	adj	eint|nøyt|ub|pos	3	ADV	_	_
+3	nedi	nedi	prep	prep	_	1	PUTFYLL	_	_
+4	Sverige	Sverige	subst	subst	prop	3	PUTFYLL	_	_
+5	eg	eg	pron	pron	pers|eint|1|nom|hum	6	SUBJ	_	_
+6	veit	vite	verb	verb	pres	0	FINV	_	_
+7	ikkje	ikkje	adv	adv	_	6	ADV	_	_
+8	om	om	sbu	sbu	_	10	SBU	_	_
+9	du	du	pron	pron	pers|eint|2|nom|hum	10	SUBJ	_	_
+10	ser	sjå	verb	verb	pres	6	DOBJ	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	10	DOBJ	_	_
+12	der	der	prep	prep	_	11	ATR	_	_
+13	i	i	prep	prep	_	10	ADV	_	_
+14	hylla	hylle	subst	subst	appell|eint|fem|bu	13	PUTFYLL	_	_
+15	?	$?	clb	clb	<spm>	6	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	er	vere	verb	verb	pres	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	1	SPRED	_	_
+4	som	som	sbu	sbu	_	5	SBU	_	_
+5	har	ha	verb	verb	pres	3	ATR	_	_
+6	drive	drive	verb	verb	perf-part	5	INFV	_	_
+7	med	med	prep	prep	_	6	ADV	_	_
+8	slekts-	slekts-	ufullst	ufullst	_	1	FYLL	_	_
+9	slektsgransk-	slektsgransk-	ufullst	ufullst	_	1	FYLL	_	_
+10	…	…	ellipsis	ellipsis	_	1	IK	_	_
+11	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	eller	eller	konj	konj	_	5	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	4	REP	_	_
+3	om	om	sbu	sbu	_	5	SBU	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	bestemor	bestemor	subst	subst	appell|eint|fem|ub	5	SPRED	_	_
+7	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	fekk	få	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	nokon	nokon	pron	pron	pers|eint|mask|3|akk	3	KOORD	_	_
+6	som	som	sbu	sbu	_	7	SBU	_	_
+7	heldt	halde	verb	verb	pret	5	ATR	_	_
+8	på	på	prep	prep	_	7	ADV	_	_
+9	og	og	konj	konj	_	10	KONJ	_	_
+10	lærte	lære	verb	verb	pret	7	KOORD	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	vel	vel	adv	adv	_	1	ADV	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	her	her	prep	prep	_	2	SPRED	_	_
+5	i	i	prep	prep	_	4	PUTFYLL	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ned	ned	prep	prep	_	3	ADV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	her	her	prep	prep	_	3	SPRED	_	_
+6	i	i	prep	prep	_	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+2	er	vere	verb	verb	pres	4	SLETT	_	_
+3	nok	nok	adv	adv	_	2	ADV	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	eit	ein	det	det	kvant|eint|nøyt	7	DET	_	_
+6	anna	annan	det	det	dem|eint|nøyt|ub|pos	7	DET	_	_
+7	papir	papir	subst	subst	appell|eint|nøyt|ub	4	SPRED	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	får	få	verb	verb	pres	4	KOORD	_	_
+10	nå	nå	adv	adv	_	12	ADV	_	_
+11	berre	berre	adv	adv	_	12	ADV	_	_
+12	vere	vere	verb	verb	inf	9	INFV	_	_
+13	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	vi	vi	pron	pron	pers|fl|1|nom|hum	6	SUBJ	_	_
+6	har	ha	verb	verb	pres	4	DOBJ	_	_
+7	nå	nå	adv	adv	_	6	ADV	_	_
+8	sånn	sånn	adv	adv	_	6	ADV	_	_
+9	e	e	nol	nol	_	4	FYLL	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	sånn	sånn	adv	adv	_	2	ADV	_	_
+2	cirka	cirka	adv	adv	_	4	ADV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	nå	nå	adv	adv	_	4	ADV	_	_
+6	ei	ein	det	det	kvant|eint|fem	8	DET	_	_
+7	god	god	adj	adj	eint|m/f|ub|pos	8	ATR	_	_
+8	peiling	peiling	subst	subst	appell|eint|fem|ub	4	DOBJ	_	_
+9	nå	nå	adv	adv	_	8	ADV	_	_
+10	når	når	sbu	sbu	_	13	SBU	_	_
+11	mor	mor	subst	subst	appell|eint|fem|ub	13	SUBJ	_	_
+12	di	din	det	det	poss|eint|fem	11	DET	_	_
+13	er	vere	verb	verb	pres	4	ADV	_	_
+14	ifrå	ifrå	prep	prep	_	13	SPRED	_	_
+15	Helgeland	Helgeland	subst	subst	prop	14	PUTFYLL	_	_
+16	og	og	konj	konj	_	17	KONJ	_	_
+17	sånn	sånn	adv	adv	_	13	ADV	_	_
+18	så	så	konj	konj	_	20	KONJ	_	_
+19	det	det	pron	pron	pers|eint|nøyt|3	20	FSUBJ	_	_
+20	held	halde	verb	verb	pres	4	KOORD	_	_
+21	jo	jo	adv	adv	_	20	ADV	_	_
+22	for	for	prep	prep	_	20	ADV	_	_
+23	så	så	adv	adv	_	22	ADV	_	_
+24	vidt	vid	adj	adj	eint|nøyt|ub|pos	23	ADV	_	_
+25	det	det	pron	pron	pers|eint|nøyt|3	19	APP	_	_
+26	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	for	for	prep	prep	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	7	KONJ	_	_
+2	e	e	nol	nol	_	4	FYLL	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	bestefaren	bestefar	subst	subst	appell|eint|mask|bu	7	SUBJ	_	_
+5	hans	hans	det	det	poss|eint|mask	6	DET	_	_
+6	pappa	pappa	subst	subst	appell|eint|mask|ub	4	ATR	_	_
+7	er	vere	verb	verb	pres	0	FINV	_	_
+8	han	han	pron	pron	pers|eint|mask|3|akk	7	SPRED	_	_
+9	her	her	prep	prep	_	8	ATR	_	_
+10	eine	eine	det	det	kvant|eint|bu	8	DET	_	_
+11	han	han	pron	pron	pers|eint|mask|3|nom	12	SUBJ	_	_
+12	kom	komme	verb	verb	pret	7	KOORD	_	_
+13	jo	jo	adv	adv	_	12	ADV	_	_
+14	ifrå	ifrå	prep	prep	_	12	ADV	_	_
+15	Gudbrandsdalen	Gudbrandsdalen	subst	subst	prop	14	PUTFYLL	_	_
+16	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	4	ADV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	der	der	prep	prep	_	4	SPRED	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	3	APP	_	_
+8	liksom	liksom	adv	adv	_	4	ADV	_	_
+9	e	e	nol	nol	_	4	FYLL	_	_
+10	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	den	den	det	det	dem|eint|mask	5	DET	_	_
+5	dialekten	dialekt	subst	subst	appell|eint|mask|bu	2	SPRED	_	_
+6	da	da	adv	adv	_	2	ADV	_	_
+7	som	som	sbu	sbu	_	8	SBU	_	_
+8	er	vere	verb	verb	pres	5	ATR	_	_
+9	dominerande	dominere	adj	adj	_	8	SPRED	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	går	gå	verb	verb	pres	2	KOORD	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	11	SUBJ	_	_
+13	ut	ut	prep	prep	_	11	ADV	_	_
+14	i	i	prep	prep	_	13	PUTFYLL	_	_
+15	eller	eller	konj	konj	_	11	KONJ	_	_
+16	e	e	nol	nol	_	2	FYLL	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	veit	vite	verb	verb	pres	10	PAR	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	ein	ein	pron	pron	pers|eint|akk|hum	4	SUBJ	_	_
+4	begynner	begynne	verb	verb	pres	9	APP	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	ser	sjå	verb	verb	pres	4	KOORD	_	_
+7	på	på	prep	prep	_	6	ADV	_	_
+8	slekta	slekt	subst	subst	appell|eint|fem|bu	7	PUTFYLL	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	har	ha	verb	verb	pres	0	FINV	_	_
+11	ein	ein	pron	pron	pers|eint|akk|hum	10	SUBJ	_	_
+12	jo	jo	adv	adv	_	10	ADV	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	åtte	åtte	det	det	kvant|fl	16	DET	_	_
+15	#	#	pause	pause	_	16	IK	_	_
+16	oldeforeldre	oldeforelder	subst	subst	appell|fl|mask|ub	10	DOBJ	_	_
+17	.	$.	clb	clb	<punkt>	10	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	0	FRAG	_	_
+2	som	som	sbu	sbu	_	3	SBU	_	_
+3	er	vere	verb	verb	pres	1	ATR	_	_
+4	igjen	igjen	adv	adv	_	3	ADV	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	mm	mm	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	fire	fire	det	det	kvant|fl	3	DET	_	_
+3	besteforeldre	besteforelder	subst	subst	appell|fl|mask|ub	0	FRAG	_	_
+4	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	kom	komme	verb	verb	pret	0	FINV	_	_
+4	e	e	nol	nol	_	3	FYLL	_	_
+5	f-	f-	ufullst	ufullst	_	3	FYLL	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	av	av	prep	prep	_	3	ADV	_	_
+2	dei	dei	det	det	dem|fl	3	DET	_	_
+3	besteforeldra	besteforelder	subst	subst	appell|fl|mask|bu	6	ADV	_	_
+4	dine	din	det	det	poss|fl	3	DET	_	_
+5	så	så	sbu	sbu	_	6	SBU	_	_
+6	kom	komme	verb	verb	pret	0	FINV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	nokon	nokon	pron	pron	pers|eint|mask|3|nom	6	SUBJ	_	_
+9	ifrå	ifrå	prep	prep	_	6	ADV	_	_
+10	Finland	Finland	subst	subst	prop	9	PUTFYLL	_	_
+11	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ein	ein	pron	pron	pers|eint|nom|hum	1	ADV	_	_
+3	ifrå	ifrå	prep	prep	_	2	ATR	_	_
+4	Finland	Finland	subst	subst	prop	3	PUTFYLL	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ein	ein	pron	pron	pers|eint|nom|hum	4	ADV	_	_
+2	ifrå	ifrå	prep	prep	_	1	ATR	_	_
+3	Finland	Finland	subst	subst	prop	2	PUTFYLL	_	_
+4	ja	ja	interj	interj	_	0	INTERJ	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	og	og	konj	konj	_	8	KONJ	_	_
+7	ei	ein	det	det	kvant|eint|fem	8	DET	_	_
+8	bestemor	bestemor	subst	subst	appell|eint|fem|ub	1	KOORD	_	_
+9	ifrå	ifrå	prep	prep	_	8	ATR	_	_
+10	Sverige	Sverige	subst	subst	prop	9	PUTFYLL	_	_
+11	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nja	nja	interj	interj	_	7	INTERJ	_	_
+2	eller	eller	konj	konj	_	3	KONJ	_	_
+3	Sverige	Sverige	subst	subst	prop	7	ADV	_	_
+4	eller	eller	konj	konj	_	7	KONJ	_	_
+5	om	om	sbu	sbu	_	7	SBU	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	var	vere	verb	verb	pret	0	FINV	_	_
+8	oldemora	oldemor	subst	subst	appell|eint|fem|bu	7	SPRED	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	10	DOBJ	_	_
+10	veit	vite	verb	verb	pres	7	KOORD	_	_
+11	eg	eg	pron	pron	pers|eint|1|nom|hum	10	SUBJ	_	_
+12	ikkje	ikkje	adv	adv	_	10	ADV	_	_
+13	altså	altså	adv	adv	_	10	ADV	_	_
+14	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	jaha	jaha	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	kanskje	kanskje	adv	adv	_	10	ADV	_	_
+6	lang-	lang-	ufullst	ufullst	_	7	REP	_	_
+7	lenger	lang	adj	adj	comp	10	REP	_	_
+8	ja	ja	interj	interj	_	3	INTERJ	_	_
+9	litt	litt	adj	adj	eint|nøyt|ub|pos	10	ADV	_	_
+10	lenger	lang	adj	adj	comp	3	SPRED	_	_
+11	tilbake	tilbake	prep	prep	_	10	ADV	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	har	ha	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	så	så	adv	adv	_	2	ADV	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	men	men	konj	konj	_	1	KONJ	_	_
+4	e	e	nol	nol	_	1	FYLL	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	om	om	sbu	sbu	_	3	SBU	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	5	REP	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	trur	tru	verb	verb	pres	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	5	DOBJ	_	_
+8	oldemora	oldemor	subst	subst	appell|eint|fem|bu	7	SPRED	_	_
+9	som	som	sbu	sbu	_	10	SBU	_	_
+10	kom	komme	verb	verb	pret	8	ATR	_	_
+11	ifrå	ifrå	prep	prep	_	10	ADV	_	_
+12	Finland	Finland	subst	subst	prop	11	PUTFYLL	_	_
+13	#	#	pause	pause	_	14	IK	_	_
+14	nei	nei	interj	interj	_	10	INTERJ	_	_
+15	ifrå	ifrå	prep	prep	_	11	KOORD	_	_
+16	Sverige	Sverige	subst	subst	prop	15	PUTFYLL	_	_
+17	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	mm	mm	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	2	KONJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+4	mor	mor	subst	subst	appell|eint|fem|ub	2	SPRED	_	_
+5	til	til	prep	prep	_	4	ATR	_	_
+6	…	…	ellipsis	ellipsis	_	2	IK	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+2	må	måtte	verb	verb	pres	4	REP	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	2	SPRED	_	_
+4	må	måtte	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	DOBJ	_	_
+6	vere	vere	verb	verb	inf	4	INFV	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	6	INTERJ	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	akkurat	akkurat	adv	adv	_	3	ADV	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	var	vere	verb	verb	pret	0	FINV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	1	FSUBJ	_	_
+3	mor	mor	subst	subst	appell|eint|fem|ub	1	SPRED	_	_
+4	til	til	prep	prep	_	3	ATR	_	_
+5	e	e	nol	nol	_	6	FYLL	_	_
+6	ho	ho	pron	pron	pers|eint|fem|3|akk	7	SUBJ	_	_
+7	hadde	ha	verb	verb	pret	1	KOORD	_	_
+8	ingenting	ingenting	pron	pron	eint|akk	7	SPRED	_	_
+9	med	med	prep	prep	_	10	REP	_	_
+10	med	med	prep	prep	_	7	ADV	_	_
+11	han	han	det	det	pers|eint|mask|3|akk	12	DET	_	_
+12	bestefaren	bestefar	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+13	din	din	det	det	poss|eint|mask	12	DET	_	_
+14	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	nei	nei	interj	interj	_	1	INTERJ	_	_
+3	nei	nei	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	altså	altså	adv	adv	_	3	ADV	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	noko	nokon	det	det	kvant|eint|nøyt	6	DET	_	_
+6	slektskapsforhold	slektskapsforhold	subst	subst	appell|eint|ub|nøyt|samset	3	SPRED	_	_
+7	der	der	prep	prep	_	3	ADV	_	_
+8	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	eg	eg	pron	pron	pers|eint|1|nom|hum	2	SUBJ	_	_
+2	trur	tru	verb	verb	pres	0	FINV	_	_
+3	ho	ho	pron	pron	pers|eint|fem|3|akk	4	SUBJ	_	_
+4	var	vere	verb	verb	pret	2	DOBJ	_	_
+5	ifrå	ifrå	prep	prep	_	4	SPRED	_	_
+6	Pajala	Pajala	subst	subst	prop	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	kor	kor	adv	adv	_	2	ADV	_	_
+2	hen	hen	prep	prep	_	0	FRAG	_	_
+3	i	i	prep	prep	_	2	PUTFYLL	_	_
+4	Sverige	Sverige	subst	subst	prop	3	PUTFYLL	_	_
+5	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	Pajala	Pajala	subst	subst	prop	0	FRAG	_	_
+2	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	lurer	lure	verb	verb	pres	0	FINV	_	_
+2	på	på	prep	prep	_	1	ADV	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	i	i	prep	prep	_	3	ADV	_	_
+2	Finland	Finland	subst	subst	prop	1	PUTFYLL	_	_
+3	ja	ja	interj	interj	_	0	INTERJ	_	_
+4	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	nei	nei	interj	interj	_	5	INTERJ	_	_
+3	i	i	prep	prep	_	5	ADV	_	_
+4	Sverige	Sverige	subst	subst	prop	3	PUTFYLL	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	nei	nei	interj	interj	_	8	INTERJ	_	_
+8	er	vere	verb	verb	pres	5	KOORD	_	_
+9	ikkje	ikkje	adv	adv	_	8	ADV	_	_
+10	Sverige	Sverige	subst	subst	prop	8	SPRED	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+12	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	#	#	pause	pause	_	2	IK	_	_
+2	nei	nei	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	2	SUBJ	_	_
+5	Finland	Finland	subst	subst	prop	2	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	4	APP	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	Pajala	Pajala	subst	subst	prop	4	APP	_	_
+9	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	trur	tru	verb	verb	pres	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	3	DOBJ	_	_
+6	i	i	prep	prep	_	5	SPRED	_	_
+7	Sverige	Sverige	subst	subst	prop	6	PUTFYLL	_	_
+8	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	kan	kunne	verb	verb	pres	0	FINV	_	_
+4	godt	godt	adv	adv	_	5	ADV	_	_
+5	hende	hende	verb	verb	inf	3	INFV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	for	for	konj	konj	_	10	KONJ	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+10	er	vere	verb	verb	pres	3	KOORD	_	_
+11	vel	vel	adv	adv	_	10	ADV	_	_
+12	ein	ein	det	det	kvant|eint|mask	14	DET	_	_
+13	god	god	adj	adj	eint|m/f|ub|pos	14	ATR	_	_
+14	del	del	subst	subst	appell|eint|mask|ub	17	DET	_	_
+15	finske	finsk	adj	adj	fl|pos	17	ATR	_	_
+16	st-	st-	ufullst	ufullst	_	17	FYLL	_	_
+17	stadnamn	stadnamn	subst	subst	appell|fl|nøyt|ub	10	PSUBJ	_	_
+18	òg	òg	adv	adv	_	10	ADV	_	_
+19	i	i	prep	prep	_	10	ADV	_	_
+20	Nord-Sverige	Nord-Sverige	subst	subst	prop	19	PUTFYLL	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	fann	finne	verb	verb	pret	5	REP	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	såg	sjå	verb	verb	pret	0	FINV	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	5	DOBJ	_	_
+7	her	her	prep	prep	_	6	ATR	_	_
+8	på	på	prep	prep	_	5	ADV	_	_
+9	eit	ein	det	det	kvant|eint|nøyt	10	DET	_	_
+10	kart	kart	subst	subst	appell|eint|nøyt|ub	8	PUTFYLL	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	ja	ja	interj	interj	_	5	INTERJ	_	_
+13	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	der	der	prep	prep	_	2	SPRED	_	_
+5	ein	ein	pron	pron	pers|eint|akk|hum	6	SUBJ	_	_
+6	lagar	lage	verb	verb	pres	4	PUTFYLL	_	_
+7	sånne	sånn	det	det	dem|fl	8	DET	_	_
+8	glas	glas	subst	subst	appell|fl|nøyt|ub	6	DOBJ	_	_
+9	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	sånne	sånn	det	det	dem|fl	11	DET	_	_
+5	her	her	prep	prep	_	4	ADV	_	_
+6	e	e	nol	nol	_	8	FYLL	_	_
+7	#	#	pause	pause	_	8	IK	_	_
+8	ja	ja	interj	interj	_	2	INTERJ	_	_
+9	vanlege	vanleg	adj	adj	eint|bu|pos	11	ATR	_	_
+10	sånne	sånn	det	det	dem|fl	11	DET	_	_
+11	drikkeglas	drikkeglas	subst	subst	appell|fl|nøyt|ub	2	SPRED	_	_
+12	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	jaha	jaha	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	eller	eller	konj	konj	_	2	KONJ	_	_
+2	keramikk	keramikk	subst	subst	appell|eint|mask|ub	6	ADV	_	_
+3	eller	eller	konj	konj	_	6	KONJ	_	_
+4	kva	kva	det	det	sp	6	SPRED	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	for	for	prep	prep	_	6	ADV	_	_
+8	noko	noko	pron	pron	pers|eint|nøyt|3|akk	7	PUTFYLL	_	_
+9	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	#	#	pause	pause	_	2	IK	_	_
+2	men	men	konj	konj	_	4	KONJ	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	trudde	tru	verb	verb	pret	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	var	vere	verb	verb	pret	4	DOBJ	_	_
+7	finsk	finsk	adj	adj	eint|nøyt|ub|pos	6	SPRED	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	5	APP	_	_
+9	men	men	konj	konj	_	4	KONJ	_	_
+10	e	e	nol	nol	_	4	FYLL	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	sat	sitte	verb	verb	pret	0	FINV	_	_
+4	nettopp	nettopp	adv	adv	_	3	ADV	_	_
+5	og	og	konj	konj	_	6	KONJ	_	_
+6	såg	sjå	verb	verb	pret	3	KOORD	_	_
+7	her	her	prep	prep	_	6	ADV	_	_
+8	på	på	prep	prep	_	6	ADV	_	_
+9	eit	ein	det	det	kvant|eint|nøyt	10	DET	_	_
+10	kart	kart	subst	subst	appell|eint|nøyt|ub	8	PUTFYLL	_	_
+11	og	og	konj	konj	_	13	KONJ	_	_
+12	eg	eg	pron	pron	pers|eint|1|nom|hum	13	SUBJ	_	_
+13	fekk	få	verb	verb	pret	3	KOORD	_	_
+14	til	til	prep	prep	_	13	ADV	_	_
+15	at	at	sbu	sbu	_	17	SBU	_	_
+16	det	det	pron	pron	pers|eint|nøyt|3	17	FSUBJ	_	_
+17	var	vere	verb	verb	pret	13	ADV	_	_
+18	langt	lang	adj	adj	eint|nøyt|ub|pos	17	ADV	_	_
+19	i	i	prep	prep	_	17	SPRED	_	_
+20	Sverige	Sverige	subst	subst	prop	19	PUTFYLL	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	n-	n-	ufullst	ufullst	_	3	FYLL	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	langt	lang	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+4	ned	ned	prep	prep	_	0	FRAG	_	_
+5	i	i	prep	prep	_	4	PUTFYLL	_	_
+6	Sverige	Sverige	subst	subst	prop	5	PUTFYLL	_	_
+7	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	#	#	pause	pause	_	2	IK	_	_
+2	javel	javel	interj	interj	_	0	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	5	INTERJ	_	_
+2	altså	altså	adv	adv	_	5	ADV	_	_
+3	imot	imot	prep	prep	_	5	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+7	langt	lang	adj	adj	eint|nøyt|ub|pos	8	ADV	_	_
+8	ned	ned	prep	prep	_	5	SPRED	_	_
+9	da	da	adv	adv	_	5	ADV	_	_
+10	men	men	konj	konj	_	11	KONJ	_	_
+11	imot	imot	prep	prep	_	8	KOORD	_	_
+12	sør	sør	prep	prep	_	11	PUTFYLL	_	_
+13	det	det	pron	pron	pers|eint|nøyt|3	14	FSUBJ	_	_
+14	er	vere	verb	verb	pres	5	KOORD	_	_
+15	der	der	prep	prep	_	14	SPRED	_	_
+16	imot	imot	prep	prep	_	14	ADV	_	_
+17	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	#	#	pause	pause	_	4	IK	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	vel	vel	adv	adv	_	4	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	1	INTERJ	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	ja	ja	interj	interj	_	1	INTERJ	_	_
+10	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	forbi	forbi	prep	prep	_	0	FRAG	_	_
+2	Boden	Boden	subst	subst	prop	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	men	men	konj	konj	_	3	REP	_	_
+2	e	e	nol	nol	_	3	FYLL	_	_
+3	men	men	konj	konj	_	5	KONJ	_	_
+4	eg	eg	pron	pron	pers|eint|1|nom|hum	5	SUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	så	så	adv	adv	_	7	ADV	_	_
+7	dårleg	dårleg	adj	adj	eint|nøyt|ub|pos	8	ADV	_	_
+8	kjent	kjenne	adj	adj	eint|nøyt|ub	5	SPRED	_	_
+9	at	at	sbu	sbu	_	5	SBU	_	_
+10	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	vil	vilje	verb	verb	pres	0	FINV	_	_
+2	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+3	hugse	hugse	verb	verb	inf	1	INFV	_	_
+4	feil	feil	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	elles	elles	adv	adv	_	5	ADV	_	_
+3	sånn	sånn	adv	adv	_	5	ADV	_	_
+4	så	så	adv	adv	_	5	ADV	_	_
+5	veit	vite	verb	verb	pres	0	FINV	_	_
+6	ein	ein	pron	pron	pers|eint|nom|hum	5	SUBJ	_	_
+7	jo	jo	adv	adv	_	5	ADV	_	_
+8	ikkje	ikkje	adv	adv	_	5	ADV	_	_
+9	noko	noko	pron	pron	pers|eint|nøyt|3|akk	5	DOBJ	_	_
+10	nesten	nesten	adv	adv	_	5	ADV	_	_
+11	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	4	IK	_	_
+3	får	få	verb	verb	pres	0	FINV	_	_
+4	håpe	håpe	verb	verb	inf	3	INFV	_	_
+5	at	at	sbu	sbu	_	3	SBU	_	_
+6	…	…	ellipsis	ellipsis	_	3	IK	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	og	og	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	7	PUTFYLL	_	_
+3	skal	skulle	verb	verb	pres	0	FINV	_	_
+4	ein	ein	pron	pron	pers|eint|akk|hum	3	SUBJ	_	_
+5	vere	vere	verb	verb	inf	3	INFV	_	_
+6	glad	glad	adj	adj	eint|m/f|ub|pos	5	SPRED	_	_
+7	for	for	prep	prep	_	6	ADV	_	_
+8	#	#	pause	pause	_	10	IK	_	_
+9	#	#	pause	pause	_	10	IK	_	_
+10	ja	ja	interj	interj	_	3	INTERJ	_	_
+11	da	da	adv	adv	_	10	ADV	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	ein	ein	pron	pron	pers|eint|nom|hum	3	SUBJ	_	_
+3	kan	kunne	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	enn	enn	prep	prep	_	3	ADV	_	_
+8	å	å	inf-merke	inf-merke	_	7	PUTFYLL	_	_
+9	rote	rote	verb	verb	inf	8	INFV	_	_
+10	i	i	prep	prep	_	9	ADV	_	_
+11	slekta	slekt	subst	subst	appell|eint|fem|bu	10	PUTFYLL	_	_
+12	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	nei	nei	interj	interj	_	2	INTERJ	_	_
+2	får	få	verb	verb	pres	0	FINV	_	_
+3	håpe	håpe	verb	verb	inf	2	INFV	_	_
+4	han	han	pron	pron	pers|eint|mask|3|akk	5	SUBJ	_	_
+5	blir	bli	verb	verb	pres	3	DOBJ	_	_
+6	ordentleg	ordentleg	adj	adj	eint|nøyt|ub|pos	7	ATR	_	_
+7	føre	føre	subst	subst	appell|eint|nøyt|ub	5	SPRED	_	_
+8	å	å	inf-merke	inf-merke	_	5	ADV	_	_
+9	køyre	køyre	verb	verb	inf	8	INFV	_	_
+10	oppover	oppover	prep	prep	_	9	ADV	_	_
+11	der	der	prep	prep	_	10	PUTFYLL	_	_
+12	han	han	pron	pron	pers|eint|mask|3|nom	13	SUBJ	_	_
+13	må	måtte	verb	verb	pres	2	KOORD	_	_
+14	veldig	veldig	adj	adj	eint|nøyt|ub|pos	15	ADV	_	_
+15	glatt	glatt	adj	adj	eint|nøyt|ub|pos	13	SPRED	_	_
+16	nå	nå	adv	adv	_	13	ADV	_	_
+17	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	is	is	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+4	nå	nå	adv	adv	_	2	ADV	_	_
+5	nei	nei	interj	interj	_	2	INTERJ	_	_
+6	?	$?	clb	clb	<spm>	2	IP	_	_
+
+1	e	e	nol	nol	_	2	FYLL	_	_
+2	jo	jo	interj	interj	_	5	INTERJ	_	_
+3	nei	nei	interj	interj	_	5	INTERJ	_	_
+4	han	han	pron	pron	pers|eint|mask|3|nom	5	SUBJ	_	_
+5	er	vere	verb	verb	pres	8	REP	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	han	han	pron	pron	pers|eint|mask|3|nom	8	SUBJ	_	_
+8	har	ha	verb	verb	pres	0	FINV	_	_
+9	jo	jo	interj	interj	_	10	ADV	_	_
+10	frose	fryse	verb	verb	perf-part	8	INFV	_	_
+11	litt	litt	adj	adj	eint|nøyt|ub|pos	10	ADV	_	_
+12	på	på	prep	prep	_	10	ADV	_	_
+13	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+1	å	å	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	han	han	pron	pron	pers|eint|mask|3|nom	4	SUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	mild	mild	adj	adj	eint|m/f|ub|pos	4	SPRED	_	_
+7	ja	ja	interj	interj	_	4	INTERJ	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	han	han	pron	pron	pers|eint|mask|3|nom	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	frose	fryse	verb	verb	perf-part	3	INFV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+6	på	på	prep	prep	_	4	ADV	_	_
+7	men	men	konj	konj	_	10	KONJ	_	_
+8	så	så	adv	adv	_	10	ADV	_	_
+9	han	han	pron	pron	pers|eint|mask|3|nom	10	SUBJ	_	_
+10	er	vere	verb	verb	pres	3	KOORD	_	_
+11	begynt	begynne	adj	adj	eint|m/f|ub	10	SPRED	_	_
+12	å	å	inf-merke	inf-merke	_	11	ADV	_	_
+13	bli	bli	verb	verb	inf	12	INFV	_	_
+14	mild	mild	adj	adj	eint|m/f|ub|pos	13	SPRED	_	_
+15	igjen	igjen	adv	adv	_	14	ADV	_	_
+16	nå	nå	adv	adv	_	14	ADV	_	_
+17	så	så	konj	konj	_	19	KONJ	_	_
+18	nå	nå	adv	adv	_	19	ADV	_	_
+19	var	vere	verb	verb	pret	23	REP	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	19	FSUBJ	_	_
+21	#	#	pause	pause	_	22	IK	_	_
+22	det	det	pron	pron	pers|eint|nøyt|3	23	FSUBJ	_	_
+23	var	vere	verb	verb	pret	3	KOORD	_	_
+24	så	så	adv	adv	_	25	ADV	_	_
+25	vidt	vid	adj	adj	eint|nøyt|ub|pos	23	SPRED	_	_
+26	eg	eg	pron	pron	pers|eint|1|nom|hum	28	REP	_	_
+27	st-	st-	ufullst	ufullst	_	28	FYLL	_	_
+28	eg	eg	pron	pron	pers|eint|1|nom|hum	29	SUBJ	_	_
+29	klarte	klare	verb	verb	pret	3	KOORD	_	_
+30	nesten	nesten	adv	adv	_	31	ADV	_	_
+31	ikkje	ikkje	adv	adv	_	32	ADV	_	_
+32	stoppe	stoppe	verb	verb	inf	29	INFV	_	_
+33	før	før	prep	prep	_	32	ADV	_	_
+34	krysset	kryss	subst	subst	appell|eint|nøyt|bu	33	PUTFYLL	_	_
+35	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	får	få	verb	verb	pres	0	FINV	_	_
+2	ta	ta	verb	verb	inf	1	INFV	_	_
+3	traktoren	traktor	subst	subst	appell|eint|mask|bu	2	DOBJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	3	ADV	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	feilberekna	feilberekne	verb	verb	perf-part	3	DOBJ	_	_
+5	ja	ja	interj	interj	_	3	INTERJ	_	_
+6	nei	nei	interj	interj	_	8	INTERJ	_	_
+7	ein	ein	pron	pron	pers|eint|nom|hum	8	SUBJ	_	_
+8	må	måtte	verb	verb	pres	3	KOORD	_	_
+9	klare	klare	verb	verb	inf	8	INFV	_	_
+10	å	å	inf-merke	inf-merke	_	9	DOBJ	_	_
+11	komme	komme	verb	verb	inf	10	INFV	_	_
+12	seg	seg	pron	pron	refl|eint/fl|akk	11	DOBJ	_	_
+13	oppover	oppover	prep	prep	_	11	ADV	_	_
+14	men	men	konj	konj	_	8	KONJ	_	_
+15	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	kan	kunne	verb	verb	pres	0	FINV	_	_
+3	godt	godt	adv	adv	_	4	ADV	_	_
+4	hende	hende	verb	verb	inf	2	INFV	_	_
+5	at	at	sbu	sbu	_	7	SBU	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	er	vere	verb	verb	pres	4	DOBJ	_	_
+8	betre	betre	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+9	oppi	oppi	prep	prep	_	7	ADV	_	_
+10	dalen	dal	subst	subst	appell|eint|mask|bu	9	PUTFYLL	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	er	vere	verb	verb	pres	2	KOORD	_	_
+13	kanskje	kanskje	adv	adv	_	12	ADV	_	_
+14	litt	litt	adj	adj	eint|nøyt|ub|pos	15	ADV	_	_
+15	kaldare	kald	adj	adj	comp	12	SPRED	_	_
+16	der	der	prep	prep	_	12	ADV	_	_
+17	oppe	oppe	prep	prep	_	16	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	enn	enn	sbu	sbu	_	21	SBU	_	_
+20	det	det	pron	pron	pers|eint|nøyt|3	21	FSUBJ	_	_
+21	er	vere	verb	verb	pres	12	ADV	_	_
+22	her	her	prep	prep	_	21	SPRED	_	_
+23	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	sikkert	sikker	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	at	at	sbu	sbu	_	3	SBU	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	kan	kunne	verb	verb	pres	0	FINV	_	_
+4	vere	vere	verb	verb	inf	3	INFV	_	_
+5	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	Kirkesdalen	Kirkesdalen	subst	subst	prop	3	SUBJ	_	_
+2	der	der	prep	prep	_	3	ADV	_	_
+3	ligg	ligge	verb	verb	pres	0	FINV	_	_
+4	ikkje	ikkje	adv	adv	_	3	ADV	_	_
+5	snø	snø	subst	subst	appell|eint|mask|ub	3	DOBJ	_	_
+6	nesten	nesten	adv	adv	_	3	ADV	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	der	der	pron	pron	_	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	lite	lite	adj	adj	eint|nøyt|ub	5	ATR	_	_
+5	snø	snø	subst	subst	appell|eint|mask|ub	3	SPRED	_	_
+6	om	om	prep	prep	_	3	ADV	_	_
+7	vinteren	vinter	subst	subst	appell|eint|mask|bu	6	PUTFYLL	_	_
+8	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	om	om	prep	prep	_	5	REP	_	_
+3	vint-	vint-	ufullst	ufullst	_	4	FYLL	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	om	om	prep	prep	_	1	ADV	_	_
+6	vinteren	vinter	subst	subst	appell|eint|mask|bu	5	PUTFYLL	_	_
+7	ja	ja	interj	interj	_	1	INTERJ	_	_
+8	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	der	der	adv	adv	_	4	ADV	_	_
+2	som	som	sbu	sbu	_	4	SBU	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	er	vere	verb	verb	pres	0	FINV	_	_
+5	så	så	adv	adv	_	6	ADV	_	_
+6	innelukka	innelukka	adj	adj	eint|nøyt|ub|pos	4	SPRED	_	_
+7	og	og	konj	konj	_	8	KONJ	_	_
+8	sånn	sånn	adv	adv	_	6	KOORD	_	_
+9	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	bert	berr	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+5	der	der	adv	adv	_	2	ADV	_	_
+6	som	som	prep	prep	_	2	ADV	_	_
+7	regel	regel	subst	subst	appell|eint|mask|ub	6	PUTFYLL	_	_
+8	i	i	prep	prep	_	2	ADV	_	_
+9	påsketider	påsketid	subst	subst	appell|ub|fl|fem|samset	8	PUTFYLL	_	_
+10	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	at	at	sbu	sbu	_	3	SBU	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	tidlegare	tidleg	adj	adj	comp	3	ADV	_	_
+5	bert	berr	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	der	der	adv	adv	_	3	ADV	_	_
+7	enn	enn	prep	prep	_	3	ADV	_	_
+8	her	her	prep	prep	_	7	PUTFYLL	_	_
+9	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	det	det	pron	pron	pers|eint|nøyt|3	4	FSUBJ	_	_
+4	fyk	fyke	verb	verb	pres	0	FINV	_	_
+5	#	#	pause	pause	_	6	IK	_	_
+6	bort	bort	prep	prep	_	4	ADV	_	_
+7	antakeleg	antakeleg	adj	adj	eint|nøyt|ub|pos	4	ADV	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	å	å	interj	interj	_	5	INTERJ	_	_
+2	ja	ja	interj	interj	_	5	INTERJ	_	_
+3	at	at	sbu	sbu	_	5	SBU	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	blir	bli	verb	verb	pres	0	FINV	_	_
+6	meir	mykje	adj	adj	comp	8	ATR	_	_
+7	sånn	sånn	det	det	dem|eint|mask	8	DET	_	_
+8	vind	vind	subst	subst	appell|eint|mask|ub	5	SPRED	_	_
+9	og	og	adv	adv	_	5	ADV	_	_
+10	?	$?	clb	clb	<spm>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	og	og	konj	konj	_	3	KONJ	_	_
+3	vind	vind	subst	subst	appell|eint|mask|ub	1	ADV	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	eineståande	eineståande	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	2	APP	_	_
+7	at	at	sbu	sbu	_	9	SBU	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	9	FSUBJ	_	_
+9	er	vere	verb	verb	pres	3	ADV	_	_
+10	på	på	prep	prep	_	9	ADV	_	_
+11	den	den	det	det	dem|eint|mask	12	DET	_	_
+12	måten	måte	subst	subst	appell|eint|mask|bu	10	PUTFYLL	_	_
+13	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	for	for	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	ligg	ligge	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	høgare	høg	adj	adj	comp	3	ADV	_	_
+7	og	og	konj	konj	_	10	KONJ	_	_
+8	det	det	pron	pron	pers|eint|nøyt|3	10	FSUBJ	_	_
+9	s-	s-	ufullst	ufullst	_	10	FYLL	_	_
+10	ligg	ligge	verb	verb	pres	3	KOORD	_	_
+11	liksom	liksom	adv	adv	_	10	ADV	_	_
+12	#	#	pause	pause	_	13	IK	_	_
+13	ja	ja	interj	interj	_	3	INTERJ	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	ligg	ligge	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	atskilleg	atskilleg	adj	adj	eint|nøyt|ub|pos	5	ADV	_	_
+5	høgare	høg	adj	adj	comp	2	SPRED	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	adv	adv	_	2	ADV	_	_
+8	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	så	så	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	nå	nå	adv	adv	_	3	ADV	_	_
+5	rart	rar	adj	adj	eint|nøyt|ub|pos	3	SPRED	_	_
+6	men	men	konj	konj	_	3	KONJ	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	eg	eg	pron	pron	pers|eint|1|nom|hum	3	SUBJ	_	_
+3	prata	prate	verb	verb	pret	0	FINV	_	_
+4	med	med	prep	prep	_	3	ADV	_	_
+5	han	han	pron	pron	pers|eint|mask|3|akk	6	REP	_	_
+6	han	han	pron	pron	pers|eint|mask|3|akk	7	DET	_	_
+7	E2	E2	subst	subst	prop	4	PUTFYLL	_	_
+8	der	der	adv	adv	_	3	ADV	_	_
+9	men	men	konj	konj	_	12	KONJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	eg	eg	pron	pron	pers|eint|1|nom|hum	12	SUBJ	_	_
+12	hugsar	hugse	verb	verb	pres	3	KOORD	_	_
+13	ikkje	ikkje	adv	adv	_	12	ADV	_	_
+14	liksom	liksom	adv	adv	_	12	ADV	_	_
+15	kva	kva	det	det	sp	17	DOBJ	_	_
+16	han	han	pron	pron	pers|eint|mask|3|nom	17	SUBJ	_	_
+17	sa	seie	verb	verb	pret	12	DOBJ	_	_
+18	om	om	prep	prep	_	17	ADV	_	_
+19	det	det	pron	pron	pers|eint|nøyt|3	18	PUTFYLL	_	_
+20	der	der	prep	prep	_	19	ATR	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	men	men	konj	konj	_	3	KONJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	jo	jo	adv	adv	_	3	ADV	_	_
+5	litt	litt	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	anna	annan	det	det	dem|eint|nøyt|ub|pos	7	DET	_	_
+7	klima	klima	subst	subst	appell|eint|nøyt|ub	3	SPRED	_	_
+8	for	for	konj	konj	_	10	KONJ	_	_
+9	dei	dei	pron	pron	pers|fl|3|nom|hum	10	SUBJ	_	_
+10	har	ha	verb	verb	pres	3	KOORD	_	_
+11	jo	jo	adv	adv	_	10	ADV	_	_
+12	litt	litt	adj	adj	eint|nøyt|ub|pos	13	ATR	_	_
+13	lauvskog	lauvskog	subst	subst	appell|eint|mask|ub	10	DOBJ	_	_
+14	og	og	konj	konj	_	15	KONJ	_	_
+15	sånt	sånt	pron	pron	pers|eint|nøyt|3|akk	13	KOORD	_	_
+16	#	#	pause	pause	_	17	IK	_	_
+17	det	det	pron	pron	pers|eint|nøyt|3	18	FSUBJ	_	_
+18	blir	bli	verb	verb	pres	3	KOORD	_	_
+19	litt	litt	adj	adj	eint|nøyt|ub|pos	20	ATR	_	_
+20	anna	annen	det	det	dem|eint|nøyt|ub|pos	18	SPRED	_	_
+21	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	ja	ja	interj	interj	_	4	INTERJ	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	ja	ja	interj	interj	_	4	INTERJ	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	litt	litt	adj	adj	eint|nøyt|ub|pos	2	ADV	_	_
+2	anna	annan	det	det	dem|eint|nøyt|ub|pos	0	FRAG	_	_
+3	sånn	sånn	adv	adv	_	2	ADV	_	_
+4	##	##	pause	pause	_	2	IK	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	nå	nå	adv	adv	_	6	ADV	_	_
+3	har	ha	verb	verb	pres	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	sikkert	sikker	adj	adj	eint|nøyt|ub|pos	6	ADV	_	_
+6	tala	tale	verb	verb	perf-part	3	INFV	_	_
+7	nok	nok	adv	adv	_	6	ADV	_	_
+8	sånn	sånn	adv	adv	_	9	ADV	_	_
+9	at	at	sbu	sbu	_	3	SLETT	_	_
+10	på	på	prep	prep	_	3	SLETT	_	_
+11	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	seier	seie	verb	verb	pres	0	FINV	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	1	SUBJ	_	_
+3	det?	det	pron	pron	pers|eint|nøyt|3	1	DOBJ	_	_
+4	#	#	pause	pause	_	5	IK	_	_
+5	ja	ja	interj	interj	_	7	INTERJ	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	7	FSUBJ	_	_
+7	går	gå	verb	verb	pres	1	KOORD	_	_
+8	sikkert	sikker	adj	adj	eint|nøyt|ub|pos	7	ADV	_	_
+9	bra	bra	adj	adj	eint|nøyt|ub|pos	7	SPRED	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	6	APP	_	_
+11	her	her	prep	prep	_	10	ATR	_	_
+12	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	plass	plass	subst	subst	appell|eint|mask|ub	2	SPRED	_	_
+4	til	til	prep	prep	_	3	ATR	_	_
+5	fleire	fleire	adj	adj	eint|nøyt|ub|pos	4	PUTFYLL	_	_
+6	her	her	prep	prep	_	2	ADV	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	skal	skulle	verb	verb	pres	7	REP	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	vi	vi	pron	pron	pers|fl|1|nom|hum	7	SUBJ	_	_
+7	skal	skulle	verb	verb	pres	0	FINV	_	_
+8	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+9	ha	ha	verb	verb	inf	7	INFV	_	_
+10	meir	mykje	adj	adj	comp	9	DOBJ	_	_
+11	enn	enn	prep	prep	_	13	REP	_	_
+12	ein	ein	det	det	kvant|eint|mask	11	PUTFYLL	_	_
+13	enn	enn	prep	prep	_	10	ADV	_	_
+14	ein	ein	det	det	kvant|eint|mask	15	DET	_	_
+15	person	person	subst	subst	appell|eint|mask|ub	13	PUTFYLL	_	_
+16	per	per	prep	prep	_	15	ATR	_	_
+17	band	band	subst	subst	appell|eint|nøyt|ub	16	PUTFYLL	_	_
+18	#	#	pause	pause	_	19	IK	_	_
+19	for	for	konj	konj	_	21	KONJ	_	_
+20	elles	elles	adv	adv	_	21	ADV	_	_
+21	blir	bli	verb	verb	pres	7	KOORD	_	_
+22	det	det	pron	pron	pers|eint|nøyt|3	21	FSUBJ	_	_
+23	berre	berre	adv	adv	_	21	ADV	_	_
+24	rot	rot	subst	subst	appell|eint|nøyt|ub	21	SPRED	_	_
+25	i	i	prep	prep	_	27	REP	_	_
+26	syst-	syst-	ufullst	ufullst	_	27	FYLL	_	_
+27	i	i	prep	prep	_	24	ATR	_	_
+28	arkiva	arkiv	subst	subst	appell|fl|nøyt|bu	27	PUTFYLL	_	_
+29	om	om	prep	prep	_	30	ADV	_	_
+30	å	å	inf-merke	inf-merke	_	7	KOORD	_	_
+31	gjere	gjere	verb	verb	inf	30	INFV	_	_
+32	å	_	inf-merke	inf-merke	_	31	DOBJ	_	_
+33	så	så	adv	adv	_	34	ADV	_	_
+34	få	få	verb	verb	inf	32	INFV	_	_
+35	systemet	system	subst	subst	appell|eint|nøyt|bu	34	DOBJ	_	_
+36	i	i	prep	prep	_	38	REP	_	_
+37	ro-	ro-	ufullst	ufullst	_	39	REP	_	_
+38	i	i	prep	prep	_	34	ADV	_	_
+39	rot	rot	subst	subst	appell|eint|nøyt|ub	38	PUTFYLL	_	_
+40	elles	elles	adv	adv	_	42	KONJ	_	_
+41	så	så	adv	adv	_	42	ADV	_	_
+42	blir	bli	verb	verb	pres	7	KOORD	_	_
+43	det	det	pron	pron	pers|eint|nøyt|3	42	FSUBJ	_	_
+44	berre	berre	adv	adv	_	42	ADV	_	_
+45	tøv	tøv	subst	subst	appell|eint|nøyt|ub	42	SPRED	_	_
+46	.	$.	clb	clb	<punkt>	7	IP	_	_
+
+1	å	å	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	vel	vel	adv	adv	_	3	ADV	_	_
+5	ja	ja	interj	interj	_	1	INTERJ	_	_
+6	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	akkurat	akkurat	adv	adv	_	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	så	så	adv	adv	_	1	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	også	også	adv	adv	_	9	ADV	_	_
+2	når	når	sbu	sbu	_	4	SBU	_	_
+3	du	du	pron	pron	pers|eint|2|nom|hum	4	SUBJ	_	_
+4	har	ha	verb	verb	pres	8	APP	_	_
+5	system	system	subst	subst	appell|eint|nøyt|ub	4	DOBJ	_	_
+6	i	i	prep	prep	_	4	ADV	_	_
+7	rotet	rot	subst	subst	appell|eint|nøyt|bu	6	PUTFYLL	_	_
+8	så	så	adv	adv	_	9	ADV	_	_
+9	er	vere	verb	verb	pres	0	FINV	_	_
+10	det	det	pron	pron	pers|eint|nøyt|3	9	SUBJ	_	_
+11	ikkje	ikkje	adv	adv	_	9	ADV	_	_
+12	farleg	farleg	adj	adj	eint|nøyt|ub|pos	9	SPRED	_	_
+13	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	5	DOBJ	_	_
+3	må	måtte	verb	verb	pres	0	FINV	_	_
+4	ein	ein	pron	pron	pers|eint|akk|hum	3	SUBJ	_	_
+5	ha	ha	verb	verb	inf	3	INFV	_	_
+6	elles	elles	adv	adv	_	8	KONJ	_	_
+7	så	så	adv	adv	_	8	ADV	_	_
+8	blir	bli	verb	verb	pres	3	KOORD	_	_
+9	det	det	pron	pron	pers|eint|nøyt|3	8	FSUBJ	_	_
+10	berre	berre	adv	adv	_	12	REP	_	_
+11	#	#	pause	pause	_	12	IK	_	_
+12	berre	berre	adv	adv	_	8	ADV	_	_
+13	vas	vas	subst	subst	appell|fl|nøyt|ub	8	SPRED	_	_
+14	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	5	INTERJ	_	_
+2	da	da	adv	adv	_	5	ADV	_	_
+3	så	så	adv	adv	_	5	ADV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	0	FINV	_	_
+6	ein	ein	det	det	kvant|eint|mask	7	DET	_	_
+7	kassett	kassett	subst	subst	appell|eint|mask|ub	5	SPRED	_	_
+8	per	per	prep	prep	_	7	ATR	_	_
+9	mann	mann	subst	subst	appell|eint|mask|ub	8	PUTFYLL	_	_
+10	her	her	prep	prep	_	5	ADV	_	_
+11	eller	eller	konj	konj	_	12	KONJ	_	_
+12	per	per	prep	prep	_	9	KOORD	_	_
+13	person	person	subst	subst	appell|eint|mask|ub	12	PUTFYLL	_	_
+14	da	da	adv	adv	_	5	ADV	_	_
+15	eg	eg	pron	pron	pers|eint|1|nom|hum	16	SUBJ	_	_
+16	skulle	skulle	verb	verb	pret	5	KOORD	_	_
+17	helst	helst	adv	adv	_	18	ADV	_	_
+18	hatt	ha	verb	verb	perf-part	16	INFV	_	_
+19	kvinnfolk	kvinnfolk	subst	subst	appell|fl|nøyt|ub	18	DOBJ	_	_
+20	også	også	adv	adv	_	18	ADV	_	_
+21	med	med	prep	prep	_	18	ADV	_	_
+22	her	her	prep	prep	_	21	PUTFYLL	_	_
+23	men	men	konj	konj	_	5	KONJ	_	_
+24	.	$.	clb	clb	<punkt>	5	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	viste	vise	verb	verb	pret	0	FINV	_	_
+3	seg	seg	pron	pron	refl|eint/fl|akk	2	DOBJ	_	_
+4	vanskeleg	vanskeleg	adj	adj	eint|nøyt|ub|pos	2	FOPRED	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	m	m	interj	interj	_	3	INTERJ	_	_
+2	du	du	pron	pron	pers|eint|2|nom|hum	3	SUBJ	_	_
+3	får	få	verb	verb	pres	6	REP	_	_
+4	e	e	nol	nol	_	5	FYLL	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	6	FSUBJ	_	_
+6	er	vere	verb	verb	pres	0	FINV	_	_
+7	jo	jo	adv	adv	_	6	ADV	_	_
+8	berre	berre	adv	adv	_	6	ADV	_	_
+9	innvandrarar	innvandrar	subst	subst	appell|fl|mask|ub	6	SPRED	_	_
+10	alt	all	det	det	kvant|eint|nøyt	11	DET	_	_
+11	dei	dei	pron	pron	dem|fl	13	ATR	_	_
+12	der	der	prep	prep	_	11	ATR	_	_
+13	kvinnfolka	kvinnfolk	subst	subst	appell|fl|nøyt|bu	9	APP	_	_
+14	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	fastbuande	fastbuande	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	ja	ja	interj	interj	_	1	INTERJ	_	_
+4	ja	ja	interj	interj	_	1	INTERJ	_	_
+5	av	av	prep	prep	_	1	ADV	_	_
+6	dei	dei	pron	pron	pers|fl|3|akk|hum	5	PUTFYLL	_	_
+7	som	som	sbu	sbu	_	6	ADV	_	_
+8	e	e	nol	nol	_	1	FYLL	_	_
+9	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	og	og	konj	konj	_	9	KONJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	8	APP	_	_
+3	som	som	sbu	sbu	_	4	SBU	_	_
+4	er	vere	verb	verb	pres	2	ATR	_	_
+5	faste	fast	adj	adj	fl|pos	4	SPRED	_	_
+6	veit	vite	verb	verb	pres	9	PAR	_	_
+7	du	du	pron	pron	pers|eint|2|nom|hum	6	SUBJ	_	_
+8	dei	dei	pron	pron	pers|fl|3|nom|hum	9	SUBJ	_	_
+9	er	vere	verb	verb	pres	0	FINV	_	_
+10	jo	jo	adv	adv	_	12	ADV	_	_
+11	e	e	nol	nol	_	12	FYLL	_	_
+12	rømte	røme	verb	verb	pret	9	INFV	_	_
+13	ifrå	ifrå	prep	prep	_	12	ADV	_	_
+14	her	her	prep	prep	_	13	PUTFYLL	_	_
+15	.	$.	clb	clb	<punkt>	9	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	det	det	pron	pron	pers|eint|nøyt|3	3	FSUBJ	_	_
+3	var	vere	verb	verb	pret	8	REP	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	5	FSUBJ	_	_
+5	er	vere	verb	verb	pres	8	REP	_	_
+6	ja	ja	interj	interj	_	8	INTERJ	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	8	SUBJ	_	_
+8	er	vere	verb	verb	pres	0	FINV	_	_
+9	så	så	adv	adv	_	10	ADV	_	_
+10	merkeleg	merkeleg	adj	adj	eint|nøyt|ub|pos	8	SPRED	_	_
+11	dei	dei	det	det	pers|fl|3|akk|hum	13	DET	_	_
+12	der	der	prep	prep	_	11	ADV	_	_
+13	greiene	greie	subst	subst	appell|fl|fem|bu	7	APP	_	_
+14	der	der	prep	prep	_	13	ATR	_	_
+15	.	$.	clb	clb	<punkt>	8	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	korfor	korfor	adv	adv	_	3	ADV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	gjorde	gjere	verb	verb	pret	0	FINV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	liksom	liksom	adv	adv	_	3	ADV	_	_
+6	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	kvinnfolka	kvinnfolk	subst	subst	appell|fl|nøyt|bu	2	SUBJ	_	_
+2	var	vere	verb	verb	pret	0	FINV	_	_
+3	flytta	flytte	verb	verb	perf-part	2	INFV	_	_
+4	og	og	konj	konj	_	2	KONJ	_	_
+5	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	kor	kor	adv	adv	_	4	ADV	_	_
+3	dei	dei	pron	pron	pers|fl|3|nom|hum	4	SUBJ	_	_
+4	flytta	flytte	verb	verb	pret	0	FINV	_	_
+5	hen	hen	prep	prep	_	4	ADV	_	_
+6	da	da	adv	adv	_	4	ADV	_	_
+7	?	$?	clb	clb	<spm>	4	IP	_	_
+
+1	kor	kor	adv	adv	_	3	ADV	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	rømte	rømme	verb	verb	pret	0	FINV	_	_
+4	kor	kor	adv	adv	_	3	ADV	_	_
+5	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SLETT	_	_
+6	e	e	nol	nol	_	3	FYLL	_	_
+7	?	$?	clb	clb	<spm>	3	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	dei	dei	pron	pron	pers|fl|3|nom|hum	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	strokne	stryke	adj	adj	fl	3	SPRED	_	_
+5	rundt	rundt	prep	prep	_	3	ADV	_	_
+6	overalt	overalt	adv	adv	_	5	PUTFYLL	_	_
+7	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	Tromsø	Tromsø	subst	subst	prop	1	ADV	_	_
+4	og	og	konj	konj	_	1	KONJ	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	anna	annan	det	det	dem|eint|fem|ub|pos	4	SLETT	_	_
+2	enn	enn	sbu	sbu	_	1	SBU	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	veit	vite	verb	verb	pres	0	FINV	_	_
+5	ikkje	ikkje	adv	adv	_	4	ADV	_	_
+6	kva	kva	det	det	sp	7	DET	_	_
+7	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+8	kjem	komme	verb	verb	pres	7	ATR	_	_
+9	av	av	prep	prep	_	8	ADV	_	_
+10	men	men	konj	konj	_	4	KONJ	_	_
+11	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	så	så	adv	adv	_	0	FRAG	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	jo	jo	adv	adv	_	2	ADV	_	_
+4	ganske	ganske	adv	adv	_	5	ADV	_	_
+5	vanleg	vanleg	adj	adj	eint|nøyt|ub|pos	2	SPRED	_	_
+6	at	at	sbu	sbu	_	10	SBU	_	_
+7	ein	ein	pron	pron	pers|eint|akk|hum	9	REP	_	_
+8	#	#	pause	pause	_	9	IK	_	_
+9	kjerringa	kjerring	subst	subst	appell|eint|fem|bu	10	SUBJ	_	_
+10	hentar	hente	verb	verb	pres	2	ADV	_	_
+11	ein	ein	pron	pron	pers|eint|akk|hum	10	IOBJ	_	_
+12	jo	jo	adv	adv	_	10	ADV	_	_
+13	andre	annan	det	det	dem|fl	14	DET	_	_
+14	plassar	plass	subst	subst	appell|fl|mask|ub	10	DOBJ	_	_
+15	ifrå	ifrå	prep	prep	_	10	ADV	_	_
+16	eller	eller	konj	konj	_	19	KONJ	_	_
+17	så	så	adv	adv	_	19	ADV	_	_
+18	det	det	pron	pron	pers|eint|nøyt|3	19	FSUBJ	_	_
+19	er	vere	verb	verb	pres	2	KOORD	_	_
+20	vel	vel	adv	adv	_	19	ADV	_	_
+21	ikkje	ikkje	adv	adv	_	19	ADV	_	_
+22	så	så	adv	adv	_	23	ADV	_	_
+23	veldig	veldig	adj	adj	eint|nøyt|ub|pos	19	SPRED	_	_
+24	uvan-	uvan-	ufullst	ufullst	_	2	FYLL	_	_
+25	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	.	$.	clb	clb	<punkt>	0	IP	_	_
+
+1	ein	ein	pron	pron	pers|eint|nom|hum	2	SUBJ	_	_
+2	vil	vilje	verb	verb	pres	0	FINV	_	_
+3	vel	vel	adv	adv	_	2	ADV	_	_
+4	ikkje	ikkje	adv	adv	_	2	ADV	_	_
+5	har	ha	verb	verb	pres	2	DOBJ	_	_
+6	det	det	det	det	dem|eint|nøyt	7	DET	_	_
+7	spetakkelet	spetakkel	subst	subst	appell|eint|nøyt|bu	5	DOBJ	_	_
+8	e	e	nol	nol	_	9	FYLL	_	_
+9	som	som	sbu	sbu	_	12	SBU	_	_
+10	ein	ein	pron	pron	pers|eint|nom|hum	11	SLETT	_	_
+11	det	det	pron	pron	pers|eint|nøyt|3	12	FSUBJ	_	_
+12	var	vere	verb	verb	pret	7	ATR	_	_
+13	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	nei	nei	interj	interj	_	1	INTERJ	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	i	i	prep	prep	_	0	FRAG	_	_
+2	naboane	nabo	subst	subst	appell|fl|mask|bu	1	PUTFYLL	_	_
+3	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	må	måtte	verb	verb	pres	0	FINV	_	_
+2	ut	ut	prep	prep	_	1	ADV	_	_
+3	og	og	konj	konj	_	4	KONJ	_	_
+4	finne	finne	verb	verb	inf	1	KOORD	_	_
+5	noko	noko	pron	pron	pers|eint|nøyt|3|akk	4	DOBJ	_	_
+6	først	først	adv	adv	_	4	ADV	_	_
+7	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	6	INTERJ	_	_
+2	men	men	konj	konj	_	6	KONJ	_	_
+3	ho	ho	pron	pron	pers|eint|fem|3|nom	4	DET	_	_
+4	F1	F1	subst	subst	prop	5	APP	_	_
+5	ho	ho	pron	pron	pers|eint|fem|3|nom	6	SUBJ	_	_
+6	skal	skulle	verb	verb	pres	0	FINV	_	_
+7	nå	nå	adv	adv	_	8	ADV	_	_
+8	sleppe	sleppe	verb	verb	inf	6	INFV	_	_
+9	å	å	inf-merke	inf-merke	_	8	DOBJ	_	_
+10	#	#	pause	pause	_	11	IK	_	_
+11	prate	prate	verb	verb	inf	9	INFV	_	_
+12	inn	inn	prep	prep	_	11	ADV	_	_
+13	på	på	prep	prep	_	12	PUTFYLL	_	_
+14	band	band	subst	subst	appell|fl|nøyt|ub	13	PUTFYLL	_	_
+15	for	for	sbu	sbu	_	18	SBU	_	_
+16	at	at	sbu	sbu	_	18	SBU	_	_
+17	ho	ho	pron	pron	pers|eint|fem|3|nom	18	SUBJ	_	_
+18	har	ha	verb	verb	pres	11	ADV	_	_
+19	ikkje	ikkje	adv	adv	_	18	ADV	_	_
+20	rette	rett	adj	adj	eint|bu|pos	21	ATR	_	_
+21	dialekten	dialekt	subst	subst	appell|eint|mask|bu	18	DOBJ	_	_
+22	.	$.	clb	clb	<punkt>	6	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	3	INTERJ	_	_
+2	ho	ho	pron	pron	pers|eint|fem|3|nom	3	SUBJ	_	_
+3	er	vere	verb	verb	pres	0	FINV	_	_
+4	pinne	pinne	subst	subst	appell|eint|mask|ub	5	ADV	_	_
+5	stum	stum	adj	adj	eint|m/f|ub|pos	3	SPRED	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+
+1	det	det	pron	pron	pers|eint|nøyt|3	2	FSUBJ	_	_
+2	er	vere	verb	verb	pres	0	FINV	_	_
+3	ingen	ingen	det	det	kvant|fl	4	REP	_	_
+4	ingen	ingen	det	det	kvant|fl	5	DET	_	_
+5	problem	problem	subst	subst	appell|eint|nøyt|ub	2	SPRED	_	_
+6	det	det	pron	pron	pers|eint|nøyt|3	1	APP	_	_
+7	.	$.	clb	clb	<punkt>	2	IP	_	_
+
+1	ja	ja	interj	interj	_	0	INTERJ	_	_
+2	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	nei	nei	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	4	ADV	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	har	ha	verb	verb	pres	0	FINV	_	_
+5	jo	jo	adv	adv	_	4	ADV	_	_
+6	nok	nok	adv	adv	_	4	ADV	_	_
+7	her	her	prep	prep	_	4	ADV	_	_
+8	nå	nå	adv	adv	_	4	ADV	_	_
+9	så	så	konj	konj	_	11	KONJ	_	_
+10	vi	vi	pron	pron	pers|fl|1|nom|hum	11	SUBJ	_	_
+11	kan	kunne	verb	verb	pres	4	KOORD	_	_
+12	godt	godt	adv	adv	_	14	ADV	_	_
+13	p-	p-	ufullst	ufullst	_	14	FYLL	_	_
+14	slutte	slutte	verb	verb	inf	11	INFV	_	_
+15	å	å	inf-merke	inf-merke	_	14	DOBJ	_	_
+16	prate	prate	verb	verb	inf	15	INFV	_	_
+17	#	#	pause	pause	_	18	IK	_	_
+18	og	og	konj	konj	_	19	KONJ	_	_
+19	ta	ta	verb	verb	inf	16	KOORD	_	_
+20	å	å	inf-merke	inf-merke	_	19	DOBJ	_	_
+21	begynne	begynne	verb	verb	inf	20	INFV	_	_
+22	å	å	inf-merke	inf-merke	_	21	DOBJ	_	_
+23	køyre	køyre	verb	verb	inf	22	INFV	_	_
+24	i	i	prep	prep	_	23	ADV	_	_
+25	veg	veg	subst	subst	appell|eint|mask|ub	24	PUTFYLL	_	_
+26	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	m	m	interj	interj	_	0	INTERJ	_	_
+2	ja	ja	interj	interj	_	1	INTERJ	_	_
+3	da	da	adv	adv	_	2	ADV	_	_
+4	.	$.	clb	clb	<punkt>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	vi	vi	pron	pron	pers|fl|1|nom|hum	4	SUBJ	_	_
+4	kan	kunne	verb	verb	pres	0	FINV	_	_
+5	godt	godt	adv	adv	_	4	ADV	_	_
+6	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	skal	skulle	verb	verb	pres	0	FINV	_	_
+2	vi	vi	pron	pron	pers|fl|1|nom|hum	1	SUBJ	_	_
+3	gjere	gjere	verb	verb	inf	1	INFV	_	_
+4	det	det	pron	pron	pers|eint|nøyt|3	3	DOBJ	_	_
+5	?	$?	clb	clb	<spm>	1	IP	_	_
+
+1	ja	ja	interj	interj	_	4	INTERJ	_	_
+2	da	da	adv	adv	_	1	ADV	_	_
+3	eg	eg	pron	pron	pers|eint|1|nom|hum	4	SUBJ	_	_
+4	trur	tru	verb	verb	pres	0	FINV	_	_
+5	det	det	pron	pron	pers|eint|nøyt|3	4	DOBJ	_	_
+6	#	#	pause	pause	_	7	IK	_	_
+7	så	så	adv	adv	_	4	ADV	_	_
+8	.	$.	clb	clb	<punkt>	4	IP	_	_
+
+1	ja	ja	interj	interj	_	3	INTERJ	_	_
+2	#	#	pause	pause	_	3	IK	_	_
+3	skal	skulle	verb	verb	pres	0	FINV	_	_
+4	vi	vi	pron	pron	pers|fl|1|nom|hum	3	SUBJ	_	_
+5	sjå	sjå	verb	verb	inf	3	INFV	_	_
+6	.	$.	clb	clb	<punkt>	3	IP	_	_
+

@@ -1,0 +1,391 @@
+okej , då får du först tala om vad du heter och hur gammal du är
+jag heter N och är snart tjugotvå # om en vecka
+om en vecka , jaha , hur tänker du fira det då ?
+ja , jag ska väl äta tårta , kanske grilla lite # så där och äta så där tillsammans med mina kompisar tror jag
+ja , får se hur det blir
+och du har bott här i Sorunda hela livet
+och vad tycker du om det ?
+jag tycker det är jättebra
+hur vad gör du , du + ..
+jag har just börjat jobba # eller i alla fall nästan
+jag har pluggat tre år på kth och skulle varit klar nu med hundratjugopoängsutbildningen men det blev inte riktigt jag är inte rikigt klar än
+så jag gjorde exjobbet på ett företag i Nynäshamn nu i våras
+och eh # ja så hann jag inte riktigt bli klar med det utan började istället jobba där
+så nu jobbar jag där
+men hur har du planer på att göra klart eller ?
+ja det blir väl när jag får tid med det
+det är jag och en kompis som gjorde det där
+men just nu så sitter vi då och hjälper till och projektar istället men vi ska väl försöka det är rapporten kvar bara
+så det ska väl bli klart någon gång
+man måste ju ta de chanser man får och fick du då något annat något projekt så är ju det + ..
+jo visst , det är vi har ju skrivit en hel del , nu ska det sättas ihop och bli klart och så där
+vad skrev du om då då ?
+eh vi gjorde ett dataprogram # som ja det hämtade värden från databaser och gjorde massa statisktiska beräkningar och så där
+där ser man
+mm , så vi satt i tio veckor och programmerade bara
+och så skulle vi skriva en rapport också
+vad programmerade ni i då ?
+eh c plus plus , xx
+så det blev inte så mycket tid kvar till rapport
+det var så tråkigt att skriva rapport
+xxx det är kul med c plus plus så där
+ja jag tycker det är roligt
+har du något råd till mig som ska läsa det i höst ?
+ge inte upp , det är bara att slita
+de första månaderna är ganska svåra innan man kommer in i eller det beror på om man har läst programmering innan kanske och så där
+har man inte ja det man måste komma in i rätt tankesätt bara och hur det funkar
+så det är bara slita och sitta och program efter program
+jag är rädd att man ska inte ja liksom det enda jag kan är xx som jag kan riktigt bra eller ja , någorlunda i alla fall så det kanske förstör lite också xxx
+nej det gör det inte
+det huvudsaken är att man kan tänka någon så när programmeringsmässigt
+man måste liksom lägga upp programmet på ja hur man liksom ska lägga upp ett program för att få det man vill gjort och så där
+sedan är det ju bara syntaxen som är xxx hur man gör + ..
+c är ju lite bökigt med pekare och sådana där saker
+det kan ställa till det litegrann , minneshanteringen hit och dit och så där
+när adresserna pekar kors och tvärs på varandra och + ..
+okej så det går runt i huvudet på dig
+det kan lätt bli det när man har för mycket pekare som pekar på en lista med pekare och så allokerar man minne i en annan dator med det och så får man tillbaka det och så ska man ta bort lagom mycket minne som man har allokerat upp och så där
+det bli lite men det är roligt
+men man svär mycket innan det blir rätt
+jo jo det kommer jag ihåg
+jaha vad är det för projekt då ?
+det jag har gjort på lite nu med är till eh ett oljegrej i Danmark där de i danska nordsjön finns ju massa med oljeplattformer och så ska de då övervaka all olje och gasproduktion
+det är alltså ute på de där alla plattformerna som är en trettio stycken eller något
+alla borrhål där och sedan så massa pipeline kors och tvärs emellan och in till land och sånt där ska de så det är väl en tiotusen signaler som ska övervakas och lagras och beräknas en massa och så där hit och dit
+så ska de se det på skärmen fint och snyggt
+så det har jag hjälpt till med litegrann nu i sommar
+det ska det är nu den här veckan färdigt sedan ska jag plugga till några resttentor nu i augusti
+och sedan efter det så ska jag troligtvis hålla på med ett projekt som gör sådana här gruvtruckar man kör i nere i gruvorna då
+så ja , ska köra de obemannade utan någon förare
+så ska de då hitta i berget och bästa vägen och inte krocka och göra allt sådant där rätt
+och det ska jag göra då
+hur får man dem att göra det då ?
+eh hur man får dem att göra det ?
+det vi gör på det företaget jag jobbar så vi gör själva mjukvaran då bara för att de ska ja optimera , hitta kortaste vägen , inte krocka det är massa grejer då , hur de ska köra och sådana där saker
+så det är ett planeringssystem då som planerar vägen då när den säger att nu har jag tippat för det är fortfarande då människor som gör det
+sitter på i ett kontrollrum och när den ska tippa ner det den har hämtat och så där
+så gör de det och sedan så säger de till att åka hämta mer och då måste den hitta bästa snabbaste vägen och inte krocka med någon annan och räkna fram den och så köra dit och sådana där saker
+och så nästa vända
+ja och så nästa vända , fram och tillbaka
+men kan man då hitta något optimalt under en viss tidsintervall och sedan köra den om igen då , är det så +/
+nej det blir ju för varje gång # tror jag i alla fall
+det beror väl lite på också
+så under ett visst tidsintervall så kan det kanske vara så men sedan så gruvschakten går ju lite det är ju många och så går det då många truckar där nere i också
+och sedan så kanske de går lite olika fort olika långt och hämta och så det + ..
+och så har de hela tiden en sådan här lång sladd efter sig då , så de kan ju ingen kan ju ta den vägen som just den har åkt heller så där
+men tänk om någon tänk om man kör så kommer den här och så ska man svänga runt i kurvan här och så ska den komma här och sedan så kanske inte den här stannar och då blir det ju en krock
+jo det är så man måste förutse alla sådana saker
+sådana det får inte hända några kollisioner
+för det går på ett par hundra miljoner att laga de där så att + ..
+ja ja så vi får hoppas på det bästa
+ja så de får inte krocka
+men de har gjort ett liknande system till en Kirunagruvan som fungerar faktiskt
+fick ni titta på det eller ?
+ja det är ju de på jobbet då som har gjort det förut
+men nu ska det göras ett demosystem till en liten gruva bara i Finland , där de som bygger maskinerna finns då
+så det ska göras ett litet demoställe där då som eh gruvor då ska kunna komma och titta på
+så det ska vara klart till jul ska allting fungera
+men då är det lite ny teknik som är inräknat , ny kommunikation och nytt navigeringssystem och sådant där också
+allting är nytt , ska det verkligen klaffa , tror du på det ?
+det ska det göra , det måste det göra
+sedan hur lång tid det tar och hur många nätter det blir sista månaden , det + ..
+det är väl det som är frågan bara
+är det du har fast anställning och så eller ?
+ja , eller ja i alla fall ja , det är ju provanställning ett halvår och sedan + ..
+xxx
+ja det är det
+så det var ganska skönt att få det direkt när exjobbet då i stort sett var klart så # fick vi anställning på en gång
+både du och din kompis
+ja
+är han också härifrån eller ?
+han är från Nynäshamn
+vad tyckte du om att bo i Stockholm då ?
+eller du kanske inte bodde , du pendlade när du läste på kth
+ja gick kth i Haninge
+så jag pendlade härifrån
+på morgnarna och kvällarna så går det buss härifrån ner till tåget
+och då tar det inte mer än trettio , trettiofem minuter härifrån ända dit
+så det det gick ju bra att pendla då
+så man slapp bo i den där bunkern där inne
+bunkern är det det du kallar det ?
+ja Stockholm det är ju betongbunker , det är inget att bo i
+kan du inte se någon viss charm då ?
+ja möjligtvis att man har nära , det finns allting till hands om man behöver någonting så där
+men annars # nej jag har svårt att se några andra fördelar faktiskt med + ..
+det är nog för att man har växt upp här och är van vid att alltid kunna gå ut , ha gott om plats och + ..
+när man kommer hem kan man ta cykeln ut och cykla i skogen och så där
+vad gör man inne i staden ?
+inte ta bilen utan att behöva tänka på +/
+ja utan att trängas
+jag tror att jag trivs både och alltså
+jag trivs jättebra när jag är i Stockholm och jag trivs jättebra ute på landet
+ja är så där väldigt # splittrad när det gäller det
+hjälper du din mamma att köra taxi då ?
+nej
+nej jag har inte något taxikort
+och så länge jag inte tar det så , ja , får jag vara ledig ibland
+du är rädd att om du tar det så + ..
+då får jag aldrig vara ledig
+ja vill inte köra taxi heller
+det verkar inget roligt
+man bara skjutsar runt på folk hela dagarna
+inte ett dugg tacksamma är de för det heller så att + ..
+det är ju annat system , fast det är klart man vet ju aldrig vem som ringer
+nej
+så du hade inga planer på liksom slippa pendla och flytta in
+nej det hade jag faktiskt inte , inte till Haninge
+det är så pass kort bit
+ja det är ju ganska nära xxx till Stockholm
+noll åtta det är det ju här med också så att + ..
+men ja nej , Stockholm är det ju inte men # ja det var så pass nära och bra
+vad tycker du om ja vad gör du runt omkring här då ?
+här , på sommarn så spelar golf , badar # ja vad gör man
+var finns det golf finns det golfbana här ?
+ja N , det ligger ditåt en jag vet inte hur många kilometer det är
+det är väl en , ja , tre , fyra kilometer
+det är inte långt alls
+hur länge har du spelat det ?
+eh jag vet inte # jag kommer ihåg att jag började först när jag slutade sexan
+men då stod jag först där och bara slog
+det var jag och en kompis då som började
+då stod vi mest där och slog och xx på sådana juniorträningar där och spelade inget på banan första året
+och sedan så började vi spela på banan och så spelade jag ganska mycket tills för , ja det var ett par år sedan
+när jag började plugga på högskolan ungefär så vart det inte så mycket tid över så då vart det inte så mycket förräns nu , började i år igen
+för det var ja , jag saknade det
+roligt och ja man kommer ut och kul att spela och så där
+men nu var du ju xxtränad nu , så då var det extra roligt liksom
+när jag började igen ja
+nej det var lite jobbigt i början när man liksom var van vid vad man brukade kunna göra då
+och så , ja , gick det inte rikigt lika bra när man inte hade spelat på länge
+det var lite knäckande psykiskt ett tag , men det gick över
+en sådan här liten kurva , liksom bara xx
+jo då det det helt plötsligt så hittar man ju tillbaka till det mesta
+så nu är det kul igen
+hur många kompisar åker du ut på helgerna och så där eller ?
+och spelar ?
+nej just nu så ja , gick med som medlem i klubben igen och då fick man ingen plats för heltidsmedlem på en gång så jag är varsdagsmedlem just nu bara , får spela på vardagarna
+lite trist men
+hur går det ihop med jobbet ?
+du får sitta och jobba på helgen
+ja , nej men man ja slutar man fem så hinner man ju spela i alla fall nio hål
+hur lång tid tar det ?
+två timmar ungefär
+ja jag har ingen aning
+börjar man går är man där till sju så hinner man spela till nio
+det är inte alls mörkt än så att nu på sommaren går det bra
+är det öppet hur länge hur sent är det öppet ?
+så du kan hålla på till tio också då
+man får spela på natten om du ser bollen
+då ska man vara bra duktig
+ja det ska man vara
+har du gjort någon annan sport och så där eller ?
+någon annan hobby eller ?
+jag har hållt på mycket med skidåkning , alpint
+men nu så tävlar jag inget själv
+jag bara xx för att det är roligt
+men jag är tränare för , ja vad är de , de fyller nog tolv i år tror jag
+vad sa du ?
+i år så fyller de tolv , de som jag tränar , en grupp på ungar då
+men det höll jag på med väldigt mycket förut
+man tränar barmark på sommarn och hösten så åkte man till Norge och åkte på glaciärer ett par gånger och så tränade man barmark resten av dagarna man var hemma och så
+under vintern sedan så var det ju skidor i stort sett varje dag
+fram och tillbaka Dalarne
+ojdå , det verkar som om det var mycket resa
+ja det var en hel del ett tag
+det låter både kostsamt och tidskrävande
+ja men de var roligt
+jo jag vet
+jag tränade faktiskt när jag var i usa , xxx slalom
+det var kul , det var ju sex dagar i veckan
+mm jo kul är det , men det var jobbigt , men det var ja , vi hade så roligt jämt
+det var ju det allra det var nästan det roligaste med att man xx kan vara med kompisarna ute och tävla och så där
+sedan har jag spelat fotboll och handboll och allt möjligt sådant där
+xxx
+ja men det har jag slutat med nu
+xx kan jag fråga om du gjort någon har du gjort någon rolig resa ?
+eh resa
+ja förutom alla skidresor fram och tillbaka hela tiden
+eh i somras så var jag faktiskt eller ja veckan före midsommar så var jag till Grekland
+det var ganska roligt , första gången jag var utomlands på det sättet så där på sommarn
+på det sättet ?
+ja åka charterresa till något varmt ställe så där
+det var ganska kul
+det var ju roligt , var ju varmt och skönt framför allt
+var i Grekland var du då ?
+eh Calunas
+en liten ö brevid Kos
+xx en endagsutflykt från Kos
+ja det tar en fyrtio minuter med båt från Kos ungefär
+en liten ö med , ja massa tvättsvampar på
+tvättsvampar ?
+ja det är väl det den är känd för
+xx tvättsvampsdykare , dyker efter tvättsvamp
+det har de alltid gjort där , ja # sedan ön blev bebodd i stort sett
+så då började de dyka efter tvättsvampar och sådant där
+men nu har de nästan inga tvättsvampar kvar så de åker runt i hela medelhavet
+ja har varit vid någon sådan här xx Turkiet också att det var någon gräns i havet som man inte får +/
+ja de slåss ju med turkarna hela tiden
+man kan inte komma överens rikitgt om vems ö som är vems
+turkarna tycker att det är deras , men det tycker inte grekerna och så
+det är hårt
+ja
+du har inga klagomål på resan då , jag hörde att Grekland fick mest klagomål av + ..
+nej ja förutom att jag blev magsjuk en dag
+men det var för att jag åt någon gryta
+det var nog inget bra att äta
+den var jättegod men + ..
+xx vart jag magsjuk
+kommer man ofta på efteråt , det där skulle jag inte ha ätit
+nej men annars var det bra
+det var ju lågsäsong då så det var ju inte så där väldigt mycket folk och så där
+så det var ganska lugnt och skönt
+var det din enda semester i sommar eller ska du ha något mer ?
+ja enda riktiga semestern var det nog
+du ska väl ha semestern till att plugga kanske
+nej jag får tjänsteledigt för att plugga faktiskt
+jag har sådan tur
+jajamensan , det lät bra
+mm , jag har en ganska bra överenskommelse med chefen då
+han sa direkt att ja , det ni behöver plugga i sommar så får ni väl ta tjänstledigt för
+det är ju bra
+vad har du att ta igen då ?
+eh jag har två mattetentor att ta igen
+och så har jag två programmeringstentor
+de är ganska små programmeringstentor egentligen , ganska enkla
+nu har du lärt dig c plus plus så nu är det inga problem eller ?
+nej det ska inte vara några problem , men man kan ju ställa så konstiga frågor på det
+sådant som man inte tänkt på att det finns ens
+c plus plus är ju ett så fruktansvärt stort språk
+det finns ju allt , ja det är jättestort
+så mycket konstiga grejer som , ja alla möjliga hitta på
+och man kan göra i stort sett vad hur som helst
+ja , kan lösa samma sak på så nästan oändligt många sätt
+ja så kan man skriva koden så att det är helt oläslligt för någon annan då
+så att det ser ut som om man gör något helt annat
+xx göra tävlingar xx vem som kan skriva mest oläsligt c_plus_plus_program och sådana här saker
+det finns det till och med säger du
+ja
+nu börjar jag bli skraj här
+nej men det är jätteroligt
+man behöver inte göra det så , men det går att göra jättekonstiga saker
+men det är ganska roligt också
+har du varit i Alperna någonting och åkt skidor där ?
+vart i Österrike en gång med på klassresa när jag slutade nian
+och då # åkte vi skidor det var på våren då , så vi åkte skidor en dag på en glaciär
+den dagen hade jag tyvärr feber , så jag åkte inte så mycket
+men eh nej så annars har jag faktiskt inte varit i Alperna någoning
+jag har varit en hel del gånger i Norge och åkt på glaciärer där
+N och N
+det är lite närmare dit
+men det är inte lika stort och så där heller # men det är nära och bra
+var har du varit i svenska fjällen då , vart brukar du åka ?
+vart mycket i Funäsdalen
+i Sälen har det ju blivit en hel del och då när xx dit och träna , mycket tävlingar gick ju däromkring
+eh Åre har jag varit , Vemdalen har jag varit väldigt mycket
+varit på väldigt många ställen
+många konstiga småställen , men alla större ställen har man ju varit på en hel del
+Idre har jag inte varit så väldigt mycket på , men lite
+men annars har man ju besökt de flesta ställena
+till och med varit i Småland och åkt tävling
+men det känns lite konstigt , man åker genom skogen och det är bara platt och platt och platt och sedan helt plötsligt är det ett jätteberg # mitt i Småland
+det kanske är närmre dit , nej det kan det inte vara
+det är lika långt dit nästan
+besvärligt , du skulle inte varit boende här då
+nej
+nej ska man åka skidor ska man ju helst bo längre norrut
+fast vi har ganska bra träningsmöjligheter här också nu i Stockholm
+i Huddinge där jag har eller där vi har tränat är ganska bra backe , ganska stor i alla fall
+och så har de snö hela vintrarna i alla fall
+i vintras var det i alla fall snö ifrån jul till , ja nästan fram mot påsk fanns det snö kvar
+ja jag vet ju liksom innan jag åkte till usa tyckte jag liksom att var inte backen brant så var det inget roligt , men liksom när man väl började tänka på teknik och etcetera då blir det ju helt plötsligt andra saker
+helt ointressant backe är helt plötsligt intressant
+så att det kan ge mycket
+jo man kan ju köra mycket teknikträning och så i alla fall
+sedan var jag då under hösten får man ju då åka upp till ja uppåt Vemdalen , Funäsdalen någonstans för att hitta snö som man kan träna på
+så man kan köra ordentligt
+så får man åka upp dit ibland ändå under vintern sedan och köra lite längre backar och så där
+nu längtar man ju nästan till vintern ju
+jo men det gör man ju så fort man tar av sig skidorna på våren
+ja det är sant , det här var nog den sista gången åh
+mamma och pappa och min minsta lillebror åker till Norge nu på , jag tror de åker på fredag eller lördag , en vecka och åka skidor
+han ska dit och träna då
+är det han som ska bli skidproffs ?
+ja "han har" han har väl tänkt sig det
+jo men det går väldigt bra för han faktiskt
+varför följer inte du med , är det jobbet ?
+ja , nej jag ska plugga då , jag har inte tid
+jag skulle gärna vilja
+du skulle säga , jag ska ha tjänstledigt då
+jo i och för sig
+men annars vore det skönt att åka med dit för där är ju det är fint där i N nu på sommaren
+man bor nere i dalen och + ..
+det finns en fin sjö med klart och fint vatten där man kan bada och så där och så + ..
+jättevarmt och skönt där nere i dalen och så tar det en halvtimme upp till snön
+det låter som när jag var i Spanien , N , då var det liksom bara fyrtiofem minuter upp till berget och så xxx
+mm , så åker man ner till stranden sedan
+nej i och för sig inte riktigt men man åker ner till byn i alla fall
+jo men då när vi åkte i april , nej februari mars , ja nej man åker ju inte och badar
+då är det fortfarande kallt , men man åker ju ner och då är det varmt , då har man ju sandaler och shorts på sig liksom
+i alla fall som turist
+gud vad vi har pratat sport och mycket datorer
+berätta om något annat
+något annat ?
+jag vet inte det är väl ungefär mest vad man gör
+det är mest det man gör och äter och sover också , det fundamentala
+ja just det , när man får tid
+det är väl mest sömnen som får ta stryk
+ja det är det
+xx sova tror man alltid att man kan sova i kapp
+vad sa du ?
+man tror alltid att man kan sova ikapp
+nej det tror jag inte på
+jag tror inte på att man om man sover tio timmar en vecka att man sova fyra timmar nästa vecka , jag tror inte på det
+nej det funkar inte
+har du några framtidsplaner så där , typ att du vet hur din framtid kommer se ut , vart du ska bo , hur du ska jobba eller så där
+nej jag tror jag ska ta det som det kommer , för just nu så vet inte
+man vet inte , det det jobbet jag har fått nu känns , ja tycker jag är jätteroligt
+det är precis det som jag känner för att göra just nu i alla fall
+programmera och hålla på att bygga stora datasystem då för industrier och sådant där
+ja , tycker jag är roligt just nu i alla fall
+jag ska inte bo i staden ialla fall
+inte bo i någon lägenhet i någon stad i alla fall
+annars så vet jag inte rikigt
+jag hör att du är spekulant på mitt studentrum
+nej jag tror inte det
+nej det ska jag inte i alla fall
+sedan jobba med , jag vet inte , jag tror jag vill göra det jag gör just nu i alla fall
+men sedan upptäcker man ju säkert att det var ju fel det också säkert , jag vet inte
+ja det kan ju vara rätt nu och fel om tre år , det vet man ju inte
+ja det är sant
+xx när jag började plugga så började jag på elektro , för jag var helt säker på att elektronik , det vill jag hålla på med
+och nu ja # jag gjorde examensarbete bara i ren programmering och + ..
+och nu vill jag inte hålla på med elektronik
+i och för sig det är kul med massa ja nya hi_tech_elektronik , elektroniska leksaker , det är väl det är ju kul men inte att jobba med tror jag
+fast i och för sig man kanske ändrar sig om ett par år
+men du tror att du kommer att bo i Sorunda typ ?
+ja något liknande i alla fall
+som det känns nu i alla fall
+med något liknande menar du någon by i närheten eller kan det vara var som helst bara det är landet ?
+xx ja # jag bara vet just nu i alla fall att ja så har jag inte tänkt på , det spelar ingen roll just nu sådär tycker jag direkt men ingen ingen storstad i alla fall
+gärna ungefär som Sorunda är i storlek så där
+ingen bankomat , ingen minuten
+vad ska man med det till ?
+nej jag tog ut pengar för jag var rädd att , tänk om det är någon aktion eller något
+xxx
+får väl se om pengarna går åt innan jag kommer hem
+oftast så xx om man ska jobba så är det ju oftast i en större stad , men jag skulle inte kunna bo inne i en stad så där
+tror jag inte
+jag kan tänka mig liksom att jobba som jag gör nu , i Nynäs då men inte att bo där , tror jag inte
+hur stort xx ?
+Nynäshamn ?
+jag vet inte , bor väl en tjugotusen kanske
+det är inte så stor stad heller , men det är ju liksom som en stad i och för sig man skulle kunna bo i en sådan också men inte mitt inne i centrum i en lägenhet eller något sådant där bara
+jag vill ha lite , ja , luft runt mig i alla fall
+du tycker till och med det är för stort , tjugotusen
+den är inte för stor som stad på det viset men bo i en trång lägenhet i något , nej
+men här har du ju grannar liksom xx
+ja visst , nära till grannar så där , men ändå så har man lite mer det är en annan frihet ändå
+du kan dammsuga klockan tre på natten om du vill
+det kan man göra , och ja + ..
+så där jag vet inte , när man växt upp så här så # är det svårt att komma ifrån xx , tycker jag , så känner i alla fall jag
+funkar det fortfarande ?

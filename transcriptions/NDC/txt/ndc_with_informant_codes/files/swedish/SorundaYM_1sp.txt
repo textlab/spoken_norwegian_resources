@@ -1,0 +1,391 @@
+int okej , då får du först tala om vad du heter och hur gammal du är
+sorunda_ym1 jag heter N och är snart tjugotvå # om en vecka
+int om en vecka , jaha , hur tänker du fira det då ?
+sorunda_ym1 ja , jag ska väl äta tårta , kanske grilla lite # så där och äta så där tillsammans med mina kompisar tror jag
+sorunda_ym1 ja , får se hur det blir
+int och du har bott här i Sorunda hela livet
+int och vad tycker du om det ?
+sorunda_ym1 jag tycker det är jättebra
+int hur vad gör du , du + ..
+sorunda_ym1 jag har just börjat jobba # eller i alla fall nästan
+sorunda_ym1 jag har pluggat tre år på kth och skulle varit klar nu med hundratjugopoängsutbildningen men det blev inte riktigt jag är inte rikigt klar än
+sorunda_ym1 så jag gjorde exjobbet på ett företag i Nynäshamn nu i våras
+sorunda_ym1 och eh # ja så hann jag inte riktigt bli klar med det utan började istället jobba där
+sorunda_ym1 så nu jobbar jag där
+int men hur har du planer på att göra klart eller ?
+sorunda_ym1 ja det blir väl när jag får tid med det
+sorunda_ym1 det är jag och en kompis som gjorde det där
+sorunda_ym1 men just nu så sitter vi då och hjälper till och projektar istället men vi ska väl försöka det är rapporten kvar bara
+sorunda_ym1 så det ska väl bli klart någon gång
+int man måste ju ta de chanser man får och fick du då något annat något projekt så är ju det + ..
+sorunda_ym1 jo visst , det är vi har ju skrivit en hel del , nu ska det sättas ihop och bli klart och så där
+int vad skrev du om då då ?
+sorunda_ym1 eh vi gjorde ett dataprogram # som ja det hämtade värden från databaser och gjorde massa statisktiska beräkningar och så där
+int där ser man
+sorunda_ym1 mm , så vi satt i tio veckor och programmerade bara
+sorunda_ym1 och så skulle vi skriva en rapport också
+int vad programmerade ni i då ?
+sorunda_ym1 eh c plus plus , xx
+sorunda_ym1 så det blev inte så mycket tid kvar till rapport
+sorunda_ym1 det var så tråkigt att skriva rapport
+int xxx det är kul med c plus plus så där
+sorunda_ym1 ja jag tycker det är roligt
+int har du något råd till mig som ska läsa det i höst ?
+sorunda_ym1 ge inte upp , det är bara att slita
+sorunda_ym1 de första månaderna är ganska svåra innan man kommer in i eller det beror på om man har läst programmering innan kanske och så där
+sorunda_ym1 har man inte ja det man måste komma in i rätt tankesätt bara och hur det funkar
+sorunda_ym1 så det är bara slita och sitta och program efter program
+int jag är rädd att man ska inte ja liksom det enda jag kan är xx som jag kan riktigt bra eller ja , någorlunda i alla fall så det kanske förstör lite också xxx
+sorunda_ym1 nej det gör det inte
+sorunda_ym1 det huvudsaken är att man kan tänka någon så när programmeringsmässigt
+sorunda_ym1 man måste liksom lägga upp programmet på ja hur man liksom ska lägga upp ett program för att få det man vill gjort och så där
+sorunda_ym1 sedan är det ju bara syntaxen som är xxx hur man gör + ..
+sorunda_ym1 c är ju lite bökigt med pekare och sådana där saker
+sorunda_ym1 det kan ställa till det litegrann , minneshanteringen hit och dit och så där
+sorunda_ym1 när adresserna pekar kors och tvärs på varandra och + ..
+int okej så det går runt i huvudet på dig
+sorunda_ym1 det kan lätt bli det när man har för mycket pekare som pekar på en lista med pekare och så allokerar man minne i en annan dator med det och så får man tillbaka det och så ska man ta bort lagom mycket minne som man har allokerat upp och så där
+sorunda_ym1 det bli lite men det är roligt
+sorunda_ym1 men man svär mycket innan det blir rätt
+int jo jo det kommer jag ihåg
+int jaha vad är det för projekt då ?
+sorunda_ym1 det jag har gjort på lite nu med är till eh ett oljegrej i Danmark där de i danska nordsjön finns ju massa med oljeplattformer och så ska de då övervaka all olje och gasproduktion
+sorunda_ym1 det är alltså ute på de där alla plattformerna som är en trettio stycken eller något
+sorunda_ym1 alla borrhål där och sedan så massa pipeline kors och tvärs emellan och in till land och sånt där ska de så det är väl en tiotusen signaler som ska övervakas och lagras och beräknas en massa och så där hit och dit
+sorunda_ym1 så ska de se det på skärmen fint och snyggt
+sorunda_ym1 så det har jag hjälpt till med litegrann nu i sommar
+sorunda_ym1 det ska det är nu den här veckan färdigt sedan ska jag plugga till några resttentor nu i augusti
+sorunda_ym1 och sedan efter det så ska jag troligtvis hålla på med ett projekt som gör sådana här gruvtruckar man kör i nere i gruvorna då
+sorunda_ym1 så ja , ska köra de obemannade utan någon förare
+sorunda_ym1 så ska de då hitta i berget och bästa vägen och inte krocka och göra allt sådant där rätt
+sorunda_ym1 och det ska jag göra då
+int hur får man dem att göra det då ?
+sorunda_ym1 eh hur man får dem att göra det ?
+sorunda_ym1 det vi gör på det företaget jag jobbar så vi gör själva mjukvaran då bara för att de ska ja optimera , hitta kortaste vägen , inte krocka det är massa grejer då , hur de ska köra och sådana där saker
+sorunda_ym1 så det är ett planeringssystem då som planerar vägen då när den säger att nu har jag tippat för det är fortfarande då människor som gör det
+sorunda_ym1 sitter på i ett kontrollrum och när den ska tippa ner det den har hämtat och så där
+sorunda_ym1 så gör de det och sedan så säger de till att åka hämta mer och då måste den hitta bästa snabbaste vägen och inte krocka med någon annan och räkna fram den och så köra dit och sådana där saker
+int och så nästa vända
+sorunda_ym1 ja och så nästa vända , fram och tillbaka
+int men kan man då hitta något optimalt under en viss tidsintervall och sedan köra den om igen då , är det så +/
+sorunda_ym1 nej det blir ju för varje gång # tror jag i alla fall
+sorunda_ym1 det beror väl lite på också
+sorunda_ym1 så under ett visst tidsintervall så kan det kanske vara så men sedan så gruvschakten går ju lite det är ju många och så går det då många truckar där nere i också
+sorunda_ym1 och sedan så kanske de går lite olika fort olika långt och hämta och så det + ..
+sorunda_ym1 och så har de hela tiden en sådan här lång sladd efter sig då , så de kan ju ingen kan ju ta den vägen som just den har åkt heller så där
+int men tänk om någon tänk om man kör så kommer den här och så ska man svänga runt i kurvan här och så ska den komma här och sedan så kanske inte den här stannar och då blir det ju en krock
+sorunda_ym1 jo det är så man måste förutse alla sådana saker
+sorunda_ym1 sådana det får inte hända några kollisioner
+sorunda_ym1 för det går på ett par hundra miljoner att laga de där så att + ..
+int ja ja så vi får hoppas på det bästa
+sorunda_ym1 ja så de får inte krocka
+sorunda_ym1 men de har gjort ett liknande system till en Kirunagruvan som fungerar faktiskt
+int fick ni titta på det eller ?
+sorunda_ym1 ja det är ju de på jobbet då som har gjort det förut
+sorunda_ym1 men nu ska det göras ett demosystem till en liten gruva bara i Finland , där de som bygger maskinerna finns då
+sorunda_ym1 så det ska göras ett litet demoställe där då som eh gruvor då ska kunna komma och titta på
+sorunda_ym1 så det ska vara klart till jul ska allting fungera
+sorunda_ym1 men då är det lite ny teknik som är inräknat , ny kommunikation och nytt navigeringssystem och sådant där också
+int allting är nytt , ska det verkligen klaffa , tror du på det ?
+sorunda_ym1 det ska det göra , det måste det göra
+sorunda_ym1 sedan hur lång tid det tar och hur många nätter det blir sista månaden , det + ..
+sorunda_ym1 det är väl det som är frågan bara
+int är det du har fast anställning och så eller ?
+sorunda_ym1 ja , eller ja i alla fall ja , det är ju provanställning ett halvår och sedan + ..
+int xxx
+sorunda_ym1 ja det är det
+sorunda_ym1 så det var ganska skönt att få det direkt när exjobbet då i stort sett var klart så # fick vi anställning på en gång
+int både du och din kompis
+sorunda_ym1 ja
+int är han också härifrån eller ?
+sorunda_ym1 han är från Nynäshamn
+int vad tyckte du om att bo i Stockholm då ?
+int eller du kanske inte bodde , du pendlade när du läste på kth
+sorunda_ym1 ja gick kth i Haninge
+sorunda_ym1 så jag pendlade härifrån
+sorunda_ym1 på morgnarna och kvällarna så går det buss härifrån ner till tåget
+sorunda_ym1 och då tar det inte mer än trettio , trettiofem minuter härifrån ända dit
+sorunda_ym1 så det det gick ju bra att pendla då
+sorunda_ym1 så man slapp bo i den där bunkern där inne
+int bunkern är det det du kallar det ?
+sorunda_ym1 ja Stockholm det är ju betongbunker , det är inget att bo i
+int kan du inte se någon viss charm då ?
+sorunda_ym1 ja möjligtvis att man har nära , det finns allting till hands om man behöver någonting så där
+sorunda_ym1 men annars # nej jag har svårt att se några andra fördelar faktiskt med + ..
+sorunda_ym1 det är nog för att man har växt upp här och är van vid att alltid kunna gå ut , ha gott om plats och + ..
+sorunda_ym1 när man kommer hem kan man ta cykeln ut och cykla i skogen och så där
+sorunda_ym1 vad gör man inne i staden ?
+int inte ta bilen utan att behöva tänka på +/
+sorunda_ym1 ja utan att trängas
+int jag tror att jag trivs både och alltså
+int jag trivs jättebra när jag är i Stockholm och jag trivs jättebra ute på landet
+int ja är så där väldigt # splittrad när det gäller det
+int hjälper du din mamma att köra taxi då ?
+sorunda_ym1 nej
+sorunda_ym1 nej jag har inte något taxikort
+sorunda_ym1 och så länge jag inte tar det så , ja , får jag vara ledig ibland
+int du är rädd att om du tar det så + ..
+sorunda_ym1 då får jag aldrig vara ledig
+sorunda_ym1 ja vill inte köra taxi heller
+sorunda_ym1 det verkar inget roligt
+sorunda_ym1 man bara skjutsar runt på folk hela dagarna
+sorunda_ym1 inte ett dugg tacksamma är de för det heller så att + ..
+int det är ju annat system , fast det är klart man vet ju aldrig vem som ringer
+sorunda_ym1 nej
+int så du hade inga planer på liksom slippa pendla och flytta in
+sorunda_ym1 nej det hade jag faktiskt inte , inte till Haninge
+sorunda_ym1 det är så pass kort bit
+int ja det är ju ganska nära xxx till Stockholm
+int noll åtta det är det ju här med också så att + ..
+sorunda_ym1 men ja nej , Stockholm är det ju inte men # ja det var så pass nära och bra
+int vad tycker du om ja vad gör du runt omkring här då ?
+sorunda_ym1 här , på sommarn så spelar golf , badar # ja vad gör man
+int var finns det golf finns det golfbana här ?
+sorunda_ym1 ja N , det ligger ditåt en jag vet inte hur många kilometer det är
+sorunda_ym1 det är väl en , ja , tre , fyra kilometer
+sorunda_ym1 det är inte långt alls
+int hur länge har du spelat det ?
+sorunda_ym1 eh jag vet inte # jag kommer ihåg att jag började först när jag slutade sexan
+sorunda_ym1 men då stod jag först där och bara slog
+sorunda_ym1 det var jag och en kompis då som började
+sorunda_ym1 då stod vi mest där och slog och xx på sådana juniorträningar där och spelade inget på banan första året
+sorunda_ym1 och sedan så började vi spela på banan och så spelade jag ganska mycket tills för , ja det var ett par år sedan
+sorunda_ym1 när jag började plugga på högskolan ungefär så vart det inte så mycket tid över så då vart det inte så mycket förräns nu , började i år igen
+sorunda_ym1 för det var ja , jag saknade det
+sorunda_ym1 roligt och ja man kommer ut och kul att spela och så där
+int men nu var du ju xxtränad nu , så då var det extra roligt liksom
+sorunda_ym1 när jag började igen ja
+sorunda_ym1 nej det var lite jobbigt i början när man liksom var van vid vad man brukade kunna göra då
+sorunda_ym1 och så , ja , gick det inte rikigt lika bra när man inte hade spelat på länge
+sorunda_ym1 det var lite knäckande psykiskt ett tag , men det gick över
+int en sådan här liten kurva , liksom bara xx
+sorunda_ym1 jo då det det helt plötsligt så hittar man ju tillbaka till det mesta
+sorunda_ym1 så nu är det kul igen
+int hur många kompisar åker du ut på helgerna och så där eller ?
+sorunda_ym1 och spelar ?
+sorunda_ym1 nej just nu så ja , gick med som medlem i klubben igen och då fick man ingen plats för heltidsmedlem på en gång så jag är varsdagsmedlem just nu bara , får spela på vardagarna
+sorunda_ym1 lite trist men
+int hur går det ihop med jobbet ?
+int du får sitta och jobba på helgen
+sorunda_ym1 ja , nej men man ja slutar man fem så hinner man ju spela i alla fall nio hål
+int hur lång tid tar det ?
+sorunda_ym1 två timmar ungefär
+int ja jag har ingen aning
+sorunda_ym1 börjar man går är man där till sju så hinner man spela till nio
+sorunda_ym1 det är inte alls mörkt än så att nu på sommaren går det bra
+int är det öppet hur länge hur sent är det öppet ?
+int så du kan hålla på till tio också då
+sorunda_ym1 man får spela på natten om du ser bollen
+int då ska man vara bra duktig
+sorunda_ym1 ja det ska man vara
+int har du gjort någon annan sport och så där eller ?
+int någon annan hobby eller ?
+sorunda_ym1 jag har hållt på mycket med skidåkning , alpint
+sorunda_ym1 men nu så tävlar jag inget själv
+sorunda_ym1 jag bara xx för att det är roligt
+sorunda_ym1 men jag är tränare för , ja vad är de , de fyller nog tolv i år tror jag
+int vad sa du ?
+sorunda_ym1 i år så fyller de tolv , de som jag tränar , en grupp på ungar då
+sorunda_ym1 men det höll jag på med väldigt mycket förut
+sorunda_ym1 man tränar barmark på sommarn och hösten så åkte man till Norge och åkte på glaciärer ett par gånger och så tränade man barmark resten av dagarna man var hemma och så
+sorunda_ym1 under vintern sedan så var det ju skidor i stort sett varje dag
+sorunda_ym1 fram och tillbaka Dalarne
+int ojdå , det verkar som om det var mycket resa
+sorunda_ym1 ja det var en hel del ett tag
+int det låter både kostsamt och tidskrävande
+sorunda_ym1 ja men de var roligt
+int jo jag vet
+int jag tränade faktiskt när jag var i usa , xxx slalom
+int det var kul , det var ju sex dagar i veckan
+sorunda_ym1 mm jo kul är det , men det var jobbigt , men det var ja , vi hade så roligt jämt
+sorunda_ym1 det var ju det allra det var nästan det roligaste med att man xx kan vara med kompisarna ute och tävla och så där
+sorunda_ym1 sedan har jag spelat fotboll och handboll och allt möjligt sådant där
+int xxx
+sorunda_ym1 ja men det har jag slutat med nu
+int xx kan jag fråga om du gjort någon har du gjort någon rolig resa ?
+sorunda_ym1 eh resa
+sorunda_ym1 ja förutom alla skidresor fram och tillbaka hela tiden
+sorunda_ym1 eh i somras så var jag faktiskt eller ja veckan före midsommar så var jag till Grekland
+sorunda_ym1 det var ganska roligt , första gången jag var utomlands på det sättet så där på sommarn
+int på det sättet ?
+sorunda_ym1 ja åka charterresa till något varmt ställe så där
+sorunda_ym1 det var ganska kul
+sorunda_ym1 det var ju roligt , var ju varmt och skönt framför allt
+int var i Grekland var du då ?
+sorunda_ym1 eh Calunas
+sorunda_ym1 en liten ö brevid Kos
+int xx en endagsutflykt från Kos
+sorunda_ym1 ja det tar en fyrtio minuter med båt från Kos ungefär
+sorunda_ym1 en liten ö med , ja massa tvättsvampar på
+int tvättsvampar ?
+sorunda_ym1 ja det är väl det den är känd för
+sorunda_ym1 xx tvättsvampsdykare , dyker efter tvättsvamp
+sorunda_ym1 det har de alltid gjort där , ja # sedan ön blev bebodd i stort sett
+sorunda_ym1 så då började de dyka efter tvättsvampar och sådant där
+sorunda_ym1 men nu har de nästan inga tvättsvampar kvar så de åker runt i hela medelhavet
+int ja har varit vid någon sådan här xx Turkiet också att det var någon gräns i havet som man inte får +/
+sorunda_ym1 ja de slåss ju med turkarna hela tiden
+sorunda_ym1 man kan inte komma överens rikitgt om vems ö som är vems
+sorunda_ym1 turkarna tycker att det är deras , men det tycker inte grekerna och så
+int det är hårt
+sorunda_ym1 ja
+int du har inga klagomål på resan då , jag hörde att Grekland fick mest klagomål av + ..
+sorunda_ym1 nej ja förutom att jag blev magsjuk en dag
+sorunda_ym1 men det var för att jag åt någon gryta
+sorunda_ym1 det var nog inget bra att äta
+sorunda_ym1 den var jättegod men + ..
+sorunda_ym1 xx vart jag magsjuk
+int kommer man ofta på efteråt , det där skulle jag inte ha ätit
+sorunda_ym1 nej men annars var det bra
+sorunda_ym1 det var ju lågsäsong då så det var ju inte så där väldigt mycket folk och så där
+sorunda_ym1 så det var ganska lugnt och skönt
+int var det din enda semester i sommar eller ska du ha något mer ?
+sorunda_ym1 ja enda riktiga semestern var det nog
+int du ska väl ha semestern till att plugga kanske
+sorunda_ym1 nej jag får tjänsteledigt för att plugga faktiskt
+sorunda_ym1 jag har sådan tur
+int jajamensan , det lät bra
+sorunda_ym1 mm , jag har en ganska bra överenskommelse med chefen då
+sorunda_ym1 han sa direkt att ja , det ni behöver plugga i sommar så får ni väl ta tjänstledigt för
+sorunda_ym1 det är ju bra
+int vad har du att ta igen då ?
+sorunda_ym1 eh jag har två mattetentor att ta igen
+sorunda_ym1 och så har jag två programmeringstentor
+sorunda_ym1 de är ganska små programmeringstentor egentligen , ganska enkla
+int nu har du lärt dig c plus plus så nu är det inga problem eller ?
+sorunda_ym1 nej det ska inte vara några problem , men man kan ju ställa så konstiga frågor på det
+sorunda_ym1 sådant som man inte tänkt på att det finns ens
+sorunda_ym1 c plus plus är ju ett så fruktansvärt stort språk
+sorunda_ym1 det finns ju allt , ja det är jättestort
+sorunda_ym1 så mycket konstiga grejer som , ja alla möjliga hitta på
+sorunda_ym1 och man kan göra i stort sett vad hur som helst
+sorunda_ym1 ja , kan lösa samma sak på så nästan oändligt många sätt
+sorunda_ym1 ja så kan man skriva koden så att det är helt oläslligt för någon annan då
+sorunda_ym1 så att det ser ut som om man gör något helt annat
+sorunda_ym1 xx göra tävlingar xx vem som kan skriva mest oläsligt c_plus_plus_program och sådana här saker
+int det finns det till och med säger du
+sorunda_ym1 ja
+int nu börjar jag bli skraj här
+sorunda_ym1 nej men det är jätteroligt
+sorunda_ym1 man behöver inte göra det så , men det går att göra jättekonstiga saker
+sorunda_ym1 men det är ganska roligt också
+int har du varit i Alperna någonting och åkt skidor där ?
+sorunda_ym1 vart i Österrike en gång med på klassresa när jag slutade nian
+sorunda_ym1 och då # åkte vi skidor det var på våren då , så vi åkte skidor en dag på en glaciär
+sorunda_ym1 den dagen hade jag tyvärr feber , så jag åkte inte så mycket
+sorunda_ym1 men eh nej så annars har jag faktiskt inte varit i Alperna någoning
+sorunda_ym1 jag har varit en hel del gånger i Norge och åkt på glaciärer där
+sorunda_ym1 N och N
+sorunda_ym1 det är lite närmare dit
+sorunda_ym1 men det är inte lika stort och så där heller # men det är nära och bra
+int var har du varit i svenska fjällen då , vart brukar du åka ?
+sorunda_ym1 vart mycket i Funäsdalen
+sorunda_ym1 i Sälen har det ju blivit en hel del och då när xx dit och träna , mycket tävlingar gick ju däromkring
+sorunda_ym1 eh Åre har jag varit , Vemdalen har jag varit väldigt mycket
+sorunda_ym1 varit på väldigt många ställen
+sorunda_ym1 många konstiga småställen , men alla större ställen har man ju varit på en hel del
+sorunda_ym1 Idre har jag inte varit så väldigt mycket på , men lite
+sorunda_ym1 men annars har man ju besökt de flesta ställena
+sorunda_ym1 till och med varit i Småland och åkt tävling
+sorunda_ym1 men det känns lite konstigt , man åker genom skogen och det är bara platt och platt och platt och sedan helt plötsligt är det ett jätteberg # mitt i Småland
+int det kanske är närmre dit , nej det kan det inte vara
+sorunda_ym1 det är lika långt dit nästan
+int besvärligt , du skulle inte varit boende här då
+sorunda_ym1 nej
+sorunda_ym1 nej ska man åka skidor ska man ju helst bo längre norrut
+sorunda_ym1 fast vi har ganska bra träningsmöjligheter här också nu i Stockholm
+sorunda_ym1 i Huddinge där jag har eller där vi har tränat är ganska bra backe , ganska stor i alla fall
+sorunda_ym1 och så har de snö hela vintrarna i alla fall
+sorunda_ym1 i vintras var det i alla fall snö ifrån jul till , ja nästan fram mot påsk fanns det snö kvar
+int ja jag vet ju liksom innan jag åkte till usa tyckte jag liksom att var inte backen brant så var det inget roligt , men liksom när man väl började tänka på teknik och etcetera då blir det ju helt plötsligt andra saker
+int helt ointressant backe är helt plötsligt intressant
+int så att det kan ge mycket
+sorunda_ym1 jo man kan ju köra mycket teknikträning och så i alla fall
+sorunda_ym1 sedan var jag då under hösten får man ju då åka upp till ja uppåt Vemdalen , Funäsdalen någonstans för att hitta snö som man kan träna på
+sorunda_ym1 så man kan köra ordentligt
+sorunda_ym1 så får man åka upp dit ibland ändå under vintern sedan och köra lite längre backar och så där
+int nu längtar man ju nästan till vintern ju
+sorunda_ym1 jo men det gör man ju så fort man tar av sig skidorna på våren
+int ja det är sant , det här var nog den sista gången åh
+sorunda_ym1 mamma och pappa och min minsta lillebror åker till Norge nu på , jag tror de åker på fredag eller lördag , en vecka och åka skidor
+sorunda_ym1 han ska dit och träna då
+int är det han som ska bli skidproffs ?
+sorunda_ym1 ja "han har" han har väl tänkt sig det
+sorunda_ym1 jo men det går väldigt bra för han faktiskt
+int varför följer inte du med , är det jobbet ?
+sorunda_ym1 ja , nej jag ska plugga då , jag har inte tid
+sorunda_ym1 jag skulle gärna vilja
+int du skulle säga , jag ska ha tjänstledigt då
+sorunda_ym1 jo i och för sig
+sorunda_ym1 men annars vore det skönt att åka med dit för där är ju det är fint där i N nu på sommaren
+sorunda_ym1 man bor nere i dalen och + ..
+sorunda_ym1 det finns en fin sjö med klart och fint vatten där man kan bada och så där och så + ..
+sorunda_ym1 jättevarmt och skönt där nere i dalen och så tar det en halvtimme upp till snön
+int det låter som när jag var i Spanien , N , då var det liksom bara fyrtiofem minuter upp till berget och så xxx
+sorunda_ym1 mm , så åker man ner till stranden sedan
+sorunda_ym1 nej i och för sig inte riktigt men man åker ner till byn i alla fall
+int jo men då när vi åkte i april , nej februari mars , ja nej man åker ju inte och badar
+int då är det fortfarande kallt , men man åker ju ner och då är det varmt , då har man ju sandaler och shorts på sig liksom
+int i alla fall som turist
+int gud vad vi har pratat sport och mycket datorer
+int berätta om något annat
+sorunda_ym1 något annat ?
+sorunda_ym1 jag vet inte det är väl ungefär mest vad man gör
+int det är mest det man gör och äter och sover också , det fundamentala
+sorunda_ym1 ja just det , när man får tid
+int det är väl mest sömnen som får ta stryk
+sorunda_ym1 ja det är det
+sorunda_ym1 xx sova tror man alltid att man kan sova i kapp
+int vad sa du ?
+sorunda_ym1 man tror alltid att man kan sova ikapp
+int nej det tror jag inte på
+int jag tror inte på att man om man sover tio timmar en vecka att man sova fyra timmar nästa vecka , jag tror inte på det
+sorunda_ym1 nej det funkar inte
+int har du några framtidsplaner så där , typ att du vet hur din framtid kommer se ut , vart du ska bo , hur du ska jobba eller så där
+sorunda_ym1 nej jag tror jag ska ta det som det kommer , för just nu så vet inte
+sorunda_ym1 man vet inte , det det jobbet jag har fått nu känns , ja tycker jag är jätteroligt
+sorunda_ym1 det är precis det som jag känner för att göra just nu i alla fall
+sorunda_ym1 programmera och hålla på att bygga stora datasystem då för industrier och sådant där
+sorunda_ym1 ja , tycker jag är roligt just nu i alla fall
+sorunda_ym1 jag ska inte bo i staden ialla fall
+sorunda_ym1 inte bo i någon lägenhet i någon stad i alla fall
+sorunda_ym1 annars så vet jag inte rikigt
+int jag hör att du är spekulant på mitt studentrum
+sorunda_ym1 nej jag tror inte det
+sorunda_ym1 nej det ska jag inte i alla fall
+sorunda_ym1 sedan jobba med , jag vet inte , jag tror jag vill göra det jag gör just nu i alla fall
+sorunda_ym1 men sedan upptäcker man ju säkert att det var ju fel det också säkert , jag vet inte
+int ja det kan ju vara rätt nu och fel om tre år , det vet man ju inte
+sorunda_ym1 ja det är sant
+sorunda_ym1 xx när jag började plugga så började jag på elektro , för jag var helt säker på att elektronik , det vill jag hålla på med
+sorunda_ym1 och nu ja # jag gjorde examensarbete bara i ren programmering och + ..
+sorunda_ym1 och nu vill jag inte hålla på med elektronik
+sorunda_ym1 i och för sig det är kul med massa ja nya hi_tech_elektronik , elektroniska leksaker , det är väl det är ju kul men inte att jobba med tror jag
+sorunda_ym1 fast i och för sig man kanske ändrar sig om ett par år
+int men du tror att du kommer att bo i Sorunda typ ?
+sorunda_ym1 ja något liknande i alla fall
+sorunda_ym1 som det känns nu i alla fall
+int med något liknande menar du någon by i närheten eller kan det vara var som helst bara det är landet ?
+sorunda_ym1 xx ja # jag bara vet just nu i alla fall att ja så har jag inte tänkt på , det spelar ingen roll just nu sådär tycker jag direkt men ingen ingen storstad i alla fall
+sorunda_ym1 gärna ungefär som Sorunda är i storlek så där
+int ingen bankomat , ingen minuten
+sorunda_ym1 vad ska man med det till ?
+int nej jag tog ut pengar för jag var rädd att , tänk om det är någon aktion eller något
+int xxx
+int får väl se om pengarna går åt innan jag kommer hem
+sorunda_ym1 oftast så xx om man ska jobba så är det ju oftast i en större stad , men jag skulle inte kunna bo inne i en stad så där
+sorunda_ym1 tror jag inte
+sorunda_ym1 jag kan tänka mig liksom att jobba som jag gör nu , i Nynäs då men inte att bo där , tror jag inte
+int hur stort xx ?
+sorunda_ym1 Nynäshamn ?
+sorunda_ym1 jag vet inte , bor väl en tjugotusen kanske
+sorunda_ym1 det är inte så stor stad heller , men det är ju liksom som en stad i och för sig man skulle kunna bo i en sådan också men inte mitt inne i centrum i en lägenhet eller något sådant där bara
+sorunda_ym1 jag vill ha lite , ja , luft runt mig i alla fall
+int du tycker till och med det är för stort , tjugotusen
+sorunda_ym1 den är inte för stor som stad på det viset men bo i en trång lägenhet i något , nej
+int men här har du ju grannar liksom xx
+sorunda_ym1 ja visst , nära till grannar så där , men ändå så har man lite mer det är en annan frihet ändå
+int du kan dammsuga klockan tre på natten om du vill
+sorunda_ym1 det kan man göra , och ja + ..
+sorunda_ym1 så där jag vet inte , när man växt upp så här så # är det svårt att komma ifrån xx , tycker jag , så känner i alla fall jag
+sorunda_ym1 funkar det fortfarande ?

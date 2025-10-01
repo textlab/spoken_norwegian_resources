@@ -1,0 +1,296 @@
+sproge_ym2 mm , N N , tretioett
+int mm # om du berättar vart vart du är uppvuxen någonstans och hur det var om det var på en gård eller
+sproge_ym2 nej jag är uppvuxen på Hemse
+sproge_ym2 det är ingen gård utan det var vanlig fastighet om man säger
+int hur var det att växa upp i Hemse , vad tycker du ?
+sproge_ym2 det var väl rätt bra antar jag
+sproge_ym2 rätt lugnt och sansat på den tiden # men det är väl värre nu
+sproge_ym2 om man så säger
+sproge_ym2 annars + ..
+int men om du jämför då när när du var barn och växte upp där och hur du hur det ser ut idag , vad är det för skillnader tror du ?
+sproge_ym2 nej det är väl som # ska man säga det blir väl hårdare samhälle # överlag
+sproge_ym2 nej annars är det väl ingen större skillnad så till vida
+sproge_ym2 det tror jag inte
+sproge_ym2 men just det , det är ju annat , med inbrott och # allt sådant där
+sproge_ym2 det kryper ju närmare ut på # landsbygd och allt sånt
+sproge_ym2 det kommer väl ikapp en
+int men vad är det för typ av inbrott då ?
+sproge_ym2 nej det är väl +/
+int vad gör de ?
+sproge_ym2 nej men man säger # det väl sånt där som varit mer ett storstadsfenomen det kryper ut på # vischan det med
+sproge_ym2 så det har ju varit rätt # lugnt förut om man så säger
+sproge_ym2 men det börjar komma till och med här ute
+sproge_ym2 "annars är det väl" # annars är det väl rätt bra tror jag
+int mm # hur var det att gå i skolan ?
+int vart gick du i skolan någonstans och hur länge ?
+int kan du berätta om din skolgång , vad du har gjort ?
+sproge_ym2 ja det är väl sån där nioårig grundsskola på Hemse
+sproge_ym2 sedan var det gymnasium inne i Visby
+sproge_ym2 fordonsteknisk linje då
+int men hur var den flytten från du flyttade in till Visby ?
+sproge_ym2 ja # ja hur var det , det var väl # ja vad fan ska man säga , nej men det var väl rätt skoj
+sproge_ym2 se något annat också om man så säger
+sproge_ym2 annars vet jag inte det var något speciellt annorlunda
+sproge_ym2 tråkigt åka buss ibland # men annars var det väl rätt # okej tycker jag
+int mm , så du åkte buss varje dag då eller ?
+sproge_ym2 nej # nej # det var väl lite olika
+sproge_ym2 bodde inne ett tag och # sen var det buss ett tag
+sproge_ym2 på våren blev det mest buss
+sproge_ym2 för då hade man så mycket som skulle göras
+int har du alltid varit intressead av bilar och motorer ?
+sproge_ym2 ja , ja
+int vill du berätta om det intresset ?
+sproge_ym2 ja vad fan det är väl inte så mycket att berätta # egentligen
+int det är det väl för någon som inte men om det här fordonsteknisk då , vad går den linjen ut på , vad gör man ?
+sproge_ym2 nej då blir man bilreparatör , fordonsreparatör
+sproge_ym2 det finns då olika grenar
+sproge_ym2 för personbilar , traktorer , lastbilar och alla varianter
+sproge_ym2 så det får man då välja vilken man vill gå
+int och du valde då ?
+sproge_ym2 xxx traktor och lastbilar # för det personbilen den kunde jag ändå tyckte jag
+sproge_ym2 xxx
+int men hur går det till när man lär sig , får ni mecka och så mycket praktiskt då ?
+sproge_ym2 ja det var då en teoretisk del som man läste in och sedan fick man gå ut och # skruva och fixa lite
+sproge_ym2 efterhand
+sproge_ym2 annars # ja det var väl så det gick till
+sproge_ym2 sen hade man olika prylar
+sproge_ym2 var en gång var det motorer och sedan var det # växellådor sedan var det # lite allt möjligt sådant där
+int mm # och efter gymnasietiden vad hände då ?
+sproge_ym2 oj då # aj vad fan gjorde man , nej jag började väl jobba antar jag
+sproge_ym2 jo , det gjorde jag
+sproge_ym2 på en mekanisk verkstad
+sproge_ym2 var där i några år # sedan var det militärtjänst
+sproge_ym2 och sedan var det också någon verkstad ja
+sproge_ym2 men då lagade vi traktorer på den verkstaden ja
+sproge_ym2 och nu är jag på en bilverkstad igen
+int hur ser ditt arbete ut ?
+int berätta om en arbetsdag , en typisk arbetsdag
+sproge_ym2 ja , vad ska man säga då ?
+sproge_ym2 ja vad fan man börjar # fixa några bilar som är fel på efterhand
+sproge_ym2 sen tror man att man har lagom mycket att göra och sen kommer alltid # ännu mer
+sproge_ym2 så är det väl ungefär som det går ut på
+sproge_ym2 så här års är det då värst va # på sommaren
+sproge_ym2 många som har semestrar så då # de som jobbar får jobba för allihop egentligen
+sproge_ym2 för hela samhället om man så säger
+sproge_ym2 i och med att det är bara småverkstäder allting va
+sproge_ym2 så har de en eller två reparatörer och han har semester då är det liksom # stängt i stort sett
+sproge_ym2 så då blir det rätt mycket , så mycket turister som ska ha hjälp
+sproge_ym2 så de håller en i gång hela dan
+int vad tycker du är roligast med ditt arbete och varför har du valt detta ?
+sproge_ym2 oj # äh , det vet jag inte , det har bara blivit så , man kan det och sen ramlar man bara på det va
+sproge_ym2 mer och mer
+sproge_ym2 sen få man jobb som xx
+sproge_ym2 går det rätt bra
+int men nu # bor du här på en gård
+sproge_ym2 ja det är väl egentligen inte bondgård i sådan utsträckning
+sproge_ym2 för vi har ingen mark och odling eller någonting sådant utan det är bara för # hennes hästar # ska ha någon plats
+int vem är hon och vad är det för hästar ?
+sproge_ym2 eh hon det är sambon , min sambo ja
+sproge_ym2 sen är det väl en hel hopen hästar , jag vet inte hur många det är riktigt , det är väl + ..
+sproge_ym2 det är fem eller sex som hon har
+sproge_ym2 sen har vi då andra inhyrda tjejer
+sproge_ym2 så det brukar vara en # åtta stycken , åtta # nio hästar
+sproge_ym2 så det är väl full fart med det också antar jag
+int det är ingenting som du ?
+sproge_ym2 nej mycket lite
+sproge_ym2 eller man blir väl tvungen hjälpa till och ta in hö och allt sådant där
+sproge_ym2 annars vet jag inte att jag är något speciellt inblandad
+sproge_ym2 så lite som möjligt
+int men är det någon , eh , fritidssyssla då ?
+sproge_ym2 det är enbart fritid och hobby
+sproge_ym2 och allmän lek eller sådär
+int vad gör din sambo annars då , jobbar hon också eller ?
+sproge_ym2 jag # i klädaffär # på Hemse
+int ja och det det är inte bara ni som bor här utan + ..
+sproge_ym2 vi ?
+int ja
+sproge_ym2 du menar dem ?
+sproge_ym2 två barnen ?
+int ja
+sproge_ym2 ja
+int vill du berätta om dina ban ?
+sproge_ym2 ja , vad det vad ska vi säga om dem då ?
+int ja hur gamla är de och hur ?
+sproge_ym2 eh
+sproge_ym2 N är fem år , N är två år
+int mm
+int "hur känns" hur känns det att ha barn , hur hur är hur förändrades ditt liv när du fick barn ?
+sproge_ym2 oj # ja vad ska man säga då ?
+sproge_ym2 det blev väl li ja men eh , vad ska vi säga ?
+sproge_ym2 man kan väl inte göra riktig som man vill längre om man så säger
+sproge_ym2 annars vet jag inte att det är någon större skillnad
+sproge_ym2 man får väl göra mer grejer med dem
+sproge_ym2 istället för kanske så mycket med sig själv om man så säger
+sproge_ym2 men för det mesta så går det att ha med dem på allt
+sproge_ym2 så det har inte # när de är så här pass stora är det ju jävligt lätt
+sproge_ym2 det är värre när de är små # spädbarn eller vad det heter
+int mm # men va gör din son är ju rätt så gammal då fem år
+sproge_ym2 ja
+int mm # vad vad brukar ni hitta på , har han någonting kör du honom till olika aktiviteter eller hur sysselsätter du honom som pappa ?
+sproge_ym2 nej det inte något större , han brukar vara med ute och fixa med xxx del # bilar och annat # skit
+sproge_ym2 annars vet jag inte att han är något intresserad av så mycket
+sproge_ym2 inga sporter och så
+sproge_ym2 har han väl inte börjat med ännu i alla fall , det kommer väl det också
+int mm kanske mer med skolan ?
+sproge_ym2 ja det blir väl då # för nu är det väl dags för lekis sen i höst så då # blir det väl # säkert något sånt med
+int men hur är det här , finns de andra barn omkring som + ..
+sproge_ym2 ja det det finns rätt gott om xx
+sproge_ym2 relativt nära så det är inte några större problem
+int men om du ser till de som du gick i skolan med i din ålder , hur är det stannar man kvar här på orten # eller är det # drar man här ifrån eller hur ser det ut ?
+sproge_ym2 mm , eh , vad ska vi säga då , specifikt på orten är väl inte så många som är kvar
+sproge_ym2 men på ön är det rätt många som är
+sproge_ym2 för mig att det är bara en tre eller fyra som har flyttat på fastlandet någonting
+sproge_ym2 av tjugofem eller någonting sådant där
+sproge_ym2 så de flesta är ju kvar på plats
+int varför lämna man ogärna Gotland som gotlänning ?
+sproge_ym2 ja vet faktiskt inte , det är väl rätt behagligt ändå antar jag
+sproge_ym2 nej jag "det har" det har jag aldrig riktigt kommit underfund med
+sproge_ym2 ibland har man varit sugen på att prova någonting men eh , # så kommer man tillbaks , då är det rätt bra ändå # faktiskt
+int jag har hört det att , # flera som har berättat , # att de kanske har bekanta , eller vänner eller själva har varit med om att flytta # men sen kommer de ändå tillbaka efter tio år eller någonting
+sproge_ym2 det brukar vara så , de har någon period iväg , jobbar lite och # tittar på resten
+sproge_ym2 men sen xx nej jag tror de ramlar tillbaks ändå
+sproge_ym2 jag vet inte riktigt varför egentligen
+int "vad är det" vad är det du uppskattar med att bo här ?
+sproge_ym2 ingen aning egentligen
+sproge_ym2 nej men det är väl som det är
+sproge_ym2 det är väl det att man känner alla folk så man har inte lust att ge sig av för den skull tror jag
+sproge_ym2 annars det vete fan varför man ska bo kvar här
+sproge_ym2 vi kanske ska flytta , nej jag vet inte faktiskt
+int men havet ?
+sproge_ym2 ja det är väl kanske rätt bidragande tror ja
+sproge_ym2 i och med att jag då har en båt är det rätt bra om + ..
+int mhm
+sproge_ym2 havet ligger kvar här
+sproge_ym2 nej men det är väl nästan så att man saknar det om man är iväg # för länge
+sproge_ym2 det skulle jag nog tro , annars vet jag inte att det är något speciellt
+int vad är det för båt du har ?
+sproge_ym2 det är sportbåt
+int mm , vilket innebär ?
+sproge_ym2 fort , snabbt xx
+int motor !
+sproge_ym2 ja
+sproge_ym2 motorbåt är det ja , jo
+sproge_ym2 nej vad ska man säga då , en liten öppen plastbåt # med jättestor motor på
+sproge_ym2 så åker vi då lite vattenskidor och lite sådant där
+sproge_ym2 så det är väl mest det vi använder den till faktiskt
+sproge_ym2 för det är lite tråkigt att åka någonstans egentligen
+sproge_ym2 för det är ju ingen skärgård eller så här # att åka till va , utan det bara öppet hav utanför så det
+sproge_ym2 då får man hålla sig kring kusten
+sproge_ym2 så , så är det med det
+int mm # vad vad tycker du om alla turister som kommer hit är det någonting ni känner av ?
+sproge_ym2 nja , på jobbet känner man ju av det
+sproge_ym2 "sen när" man ska ner på stranden är det fullt med folk
+sproge_ym2 men annars det # jag tycker det är rätt skoj
+sproge_ym2 livar upp
+sproge_ym2 jämfört med vintern
+sproge_ym2 men annars # nej det spelar ingen roll
+sproge_ym2 för min del , det tycker jag är bara bra då med + ..
+sproge_ym2 tycker väl de flesta med tror jag
+int mm
+sproge_ym2 det ger ju rätt bra med pengar antar jag
+sproge_ym2 det är väl därför det finns kvar egentligen , om man säger , sådana här jävla # orter
+sproge_ym2 annars skulle de väl inte kunna hålla sig över hela vintern om inte det blev lite inkomster på sommaren
+sproge_ym2 nej så det är ju rätt skoj
+int hur ser hur är är du medveten om om din dialekt någon gång ?
+int är du medveten om hur du talar ?
+sproge_ym2 inte när man är här nere
+sproge_ym2 det är när man är på fastlandet eller sådär
+sproge_ym2 då tänker man på det
+sproge_ym2 annars då märks det inte något
+sproge_ym2 även om man pratar med turister och så där då då # då tänker man inte alls på
+sproge_ym2 men just när man om man är uppe i Stockholm eller så här och sen + ..
+sproge_ym2 ja , man är på någon fest eller någonting där , då , eh , då till då kommer man på hur man pratar ibland
+sproge_ym2 men annars då , eh # lägger man inte märke till det
+int eh # har du blitvit eh # missförstådd någon gång på grund av din dialekt när du har varit på fastlandet ?
+sproge_ym2 ja det har man nog fan blivit
+sproge_ym2 det tror jag
+sproge_ym2 men jag kan inte komma på något speciellt tillfälle
+sproge_ym2 annars vet # nej nej jag kan inte komma på något speciellt , men jag har nog blivit det någon gång , man får # tala om flera gånger vad man # har sagt
+int hur är det om du jämför så som du pratar nu och dina föräldrar och kanske far och morföräldrar # hur pratar de jämfört med dig din + ..
+sproge_ym2 det är nog rätt samma
+sproge_ym2 det är inte så där riktigt urpräglad
+sproge_ym2 som jag tror nej
+sproge_ym2 nej för det # nej "dem har" dem har haft sådana där jobb så de har väl fått släta ut # dialekten lite allihop om man säger
+sproge_ym2 ja jag tror det
+int om du fick säga # eller eh # vart tycker du att att de pratar , om man ska säga , grov gotländska eller vad upplever du som liksom genuin gotländsk dialekt ?
+int de säger ju ofta så här men de vi pratar inte så mycket dialekt här
+sproge_ym2 nej , nej
+int vad tycker du ?
+sproge_ym2 nej , det skulle vara Fårö # och När # de är värst # tror ja
+sproge_ym2 så här på rak arm , nej annars är det nog rätt så # civiliserat i övrigt
+sproge_ym2 ja för ju # kan vara ut på Sudret också
+sproge_ym2 om de kan vara lite konstiga
+sproge_ym2 men annars är det rätt rätt så # jämnt # tror jag
+int mm # eh , vad var det jag skulle fråga ?
+int jo , eh # förutom det här intresset för motorer är det något annat du vill syssla med , # och båt hade du ju ?
+sproge_ym2 ja # nej det det räcker fy fan ja
+int mm # ja du har ju dina ban också
+sproge_ym2 ja
+sproge_ym2 ja nej det det är faktist fullt jobb med bara det
+int mm , och din sambo är hon också här från trakten ?
+sproge_ym2 ja
+int det är hon ?
+sproge_ym2 ja
+sproge_ym2 hon är ifrån Havdem
+sproge_ym2 så det är här
+int mm # hade du några särskilda drömmar när du var liten # och hur du såg dig själv som vuxen , var det något du drömde om då ?
+sproge_ym2 nej det tror jag inte
+int nej
+sproge_ym2 inte något speciellt i alla fall
+int inga drömmar om att bli astronaut eller något sådant där ?
+sproge_ym2 inte vad jag kan komma ihåg nu
+sproge_ym2 och det är inget jag funderar på heller faktiskt
+int nej
+sproge_ym2 nej
+int nånting som jag undrar över är är det här , eh # stångaspelen # har ju håller ju på eller ska vara ?
+sproge_ym2 börjar i eh # morgon eller
+int ja något sådant och ska vara över helgen
+sproge_ym2 ja
+int ja # men eh och de här # gutniska lekar
+sproge_ym2 mm
+int kan du alltså jag är inte jätteinsatt i detta och inte du heller tror jag , kan du berätta något om det , "vad det är" vad det är för någonting man tävlar i och hur det går till ?
+sproge_ym2 du det där är jag då inte alls så där hemskt insatt i egentligen
+int men du kan säkert du kan ju mer än vad jag kan
+sproge_ym2 jag tror inte det # egentligen inte
+sproge_ym2 nej det är pärk # och sedan är det väl varpakastning
+sproge_ym2 sen vet jag inte riktigt vad det är mer
+int men , pärk ?
+sproge_ym2 det är någon form av bollsport # som + ..
+sproge_ym2 nej jag vet inte hur det fungerar en gång
+sproge_ym2 men det är rätt många som spelar det
+sproge_ym2 jag vet inte vad man kan jämföra det med
+sproge_ym2 det är något sådant där konstigt
+sproge_ym2 jag vet inte , det är kanske som någon cricket eller någon skit , jag vet inte
+sproge_ym2 nej jag vet faktiskt inte det är en det är något sådant där mysko
+sproge_ym2 så det är jag inte
+int nej vi får fråga någon annan som kan förklara det
+sproge_ym2 ja
+int eh , men vad tycker du , eh # eh , tycker du att gotlänningar # alltså man som N sa sist nu här vi pratade med någon att smålänningar är ju snåla och göteborgare är glada och käcka # vad är gotlänningarna då ?
+sproge_ym2 eh , vad skulle man tro då , sävliga ?
+sproge_ym2 det tror jag
+int varför tror du det ?
+sproge_ym2 nej jag vet inte , det nej # det är väl det man har hört # som andra säger
+sproge_ym2 annars vet jag inte om det är något speciellt
+sproge_ym2 det är väl som norrlänning ungefär , det är väl lite sävligt med
+int hur tror du att # ditt liv ser ut om tjugo år ?
+sproge_ym2 ja , det vill man väl inte veta
+sproge_ym2 nej , nej jag har ingen aning
+int men är det någontong någonting du skulle vilja göra något + ..
+int eller som du och din sambo planerar att eh # eller ni tar dagen som den kommer ?
+sproge_ym2 det blir mest det # faktiskt
+sproge_ym2 ännu så länge när man är + ..
+sproge_ym2 i och med man har så små barn så är det inte så mycket att # hitta på några utsvävningar heller
+sproge_ym2 det får vänta tills de blir större antar jag , då kan man väl fundera på något nytt
+sproge_ym2 om man vill det # jag vet inte
+int var gjorde du lumpen någonstans ?
+sproge_ym2 i Fårösund
+int vad vad gjorde du för någonting , hur gick det till ?
+sproge_ym2 så lite som möjligt
+sproge_ym2 nej vi , eh vad gjorde vi då # ja jag körde terrängbil
+sproge_ym2 så klart
+sproge_ym2 men annars vet jag inte vi gjorde något speciellt
+sproge_ym2 det är väl som vanligt , det är väl bara roliga man kommer ihåg
+sproge_ym2 knappt det
+sproge_ym2 nej det var väl och leka krig antar jag
+sproge_ym2 körde omkring med någon kanon och skit
+int mm
