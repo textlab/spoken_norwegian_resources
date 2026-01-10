@@ -218,7 +218,7 @@
 5	nokre	nokon	det		fl|kvant	6	DET		hov
 6	geiter	geit	subst		fem|fl|appell|ub	2	KOORD		hov
 7	hadde	ha	verb		pret	0	FINV		hov
-8	vi	vi	subst		fl|hum|1|nom	7	SUBJ		hov
+8	vi	vi	pron		fl|hum|1|nom	7	SUBJ		hov
 9	der	der	prep			7	ADV		hov
 10	#	#	pause			11	IK		hov
 11	til	til	prep			7	ADV		hov
