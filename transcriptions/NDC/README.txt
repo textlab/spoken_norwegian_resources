@@ -1,6 +1,6 @@
 NDC - Nordic Dialect Corpus v.4.0
 
-This material is distributed under Creative Commons license CC BY-NC-SA 4.0, and by using it, you have agreed to the conditions stitpulated therein.
+This material is distributed under Creative Commons license CC BY-NC-SA 4.0, and by using it, you have agreed to the conditions stipulated therein.
 Please be sure you understand the terms and conditions of distribution and use described here: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 All files are available in both html and txt format. All recordings have orthographic transcriptions. 
@@ -10,7 +10,7 @@ Explanation of filenames
 
 Owing to the fact that the corpus comprises material from several project, the filenaming conventions differ.
 
-The majority of the filenames follow a simple convention. The filesnames comprise three parts: location, speaker 1, speaker 2, etc, in the following format - location_speaker1-speaker2
+The majority of the filenames follow a simple convention. The filenames comprise three parts: location, speaker 1, speaker 2, etc, in the following format - location_speaker1-speaker2
 
 The speaker parts are either two digits followed by two letters (identifying an informant), or a series of letters (identifying an interviewer). Interviewers are always listed last. In the case of the former, the digits are simply a unique identifier and the letters refer to age and gender: g = old (gammel), u = young (ung), m = male (mann), k = female (kvinne).
 
